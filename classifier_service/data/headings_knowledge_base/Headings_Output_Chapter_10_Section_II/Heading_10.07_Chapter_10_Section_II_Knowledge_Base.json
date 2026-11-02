@@ -1,0 +1,60 @@
+{
+  "heading_id": "10.07",
+  "heading_title": {
+    "vi": "Lúa miến.",
+    "en": "Grain sorghum (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này chỉ bao gồm các loại lúa miến mà hạt có thể được sử dụng làm ngũ cốc cho con người, ví dụ như Caffrorum, cernuum, durra và nervosum. Nhóm này không bao gồm: lúa miến dùng làm thức ăn gia súc (halepensis), lúa miến cỏ (sudanensis) (phân loại vào nhóm 12.14 trừ khi là hạt giống), lúa miến ngọt (saccharatum) (phân loại vào nhóm 12.12 trừ khi là hạt giống), và miến 'chổi' (Sorghum vulgare var. technicum) (phân loại vào nhóm 14.04). Hạt giống của các loại bị loại trừ này để gieo trồng được phân loại vào nhóm 12.09. Theo Chú giải phân nhóm 1007.10, thuật ngữ 'hạt giống' chỉ bao gồm lúa miến được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+    "en": "This heading covers only varieties of sorghum whose grains may be used as cereals for human consumption, such as caffrorum, cernuum, durra, and nervosum. This heading excludes: forage sorghums (halepensis), grass sorghums (sudanensis) (classified in heading 12.14 unless presented as seeds), sweet sorghums (saccharatum) (classified in heading 12.12 unless presented as seeds), and broomcorn (Sorghum vulgare var. technicum) (classified in heading 14.04). Seeds for sowing of these excluded products are classified in heading 12.09. According to Subheading Explanatory Note 1007.10, the term 'seed' covers only grain sorghum regarded by the competent national authorities as being for sowing."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này chỉ bao gồm những loại lúa miến mà hạt có thể được sử dụng làm ngũ cốc dùng làm thức ăn cho người. Cũng được phân loại vào nhóm này là các loại lúa miến như Caffrorum, cernuum (kê trắng), durra (kê nâu) và nervosum (cao lương).",
+        "en": "This heading covers only those varieties of sorghum which are known as grain sorghums and whose grains may be used as cereals for human consumption. The heading includes sorghums such as caffrorum (kafir), cernuum (white durra), durra (brown durra) and nervosum (kaoliang)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm lúa miến dùng làm thức ăn cho gia súc (để làm cỏ khô hoặc ủ tươi) như loại halepensis (halepense), các loại miến cỏ (trồng trong các bãi cỏ) như loại sudanensis (Xu đăng) hoặc các loại miến ngọt (chủ yếu được dùng làm xirô hoặc làm mật) như loại miến saccharatum. Nếu là hạt giống, các sản phẩm được phân loại vào nhóm 12.09. Trong các trường hợp khác, lúa miến dùng làm thức ăn cho gia súc và lúa miến cỏ được phân loại vào nhóm 12.14 và lúa miến ngọt vào nhóm 12.12. Nhóm này cũng không bao gồm loại miến 'chổi' (Sorghum vulgare var. technicum) được phân loại vào nhóm 14.04.",
+        "en": "The heading does not include forage sorghums (which are used for making hay or silage) such as halepensis (halepense), grass sorghums (which are used for grazing) such as sudanensis (sudanense) or sweet sorghums (which are used primarily for the manufacture of syrup or molasses) such as saccharatum. When presented as seeds for sowing, these products are classified in heading 12.09. Otherwise, forage sorghums and grass sorghums fall to be classified in heading 12.14 and sweet sorghums in heading 12.12. The heading also excludes broomcorn (Sorghum vulgare var. technicum), which is classified in heading 14.04."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm 1007.10: Theo mục đích của phân nhóm 1007.10, thuật ngữ “hạt giống” chỉ bao gồm lúa miến được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+        "en": "Subheading Explanatory Note 1007.10: For the purposes of subheading 1007.10, the term “seed” covers only grain sorghum regarded by the competent national authorities as being for sowing."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1007.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hạt giống",
+        "en": "Seed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1007.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

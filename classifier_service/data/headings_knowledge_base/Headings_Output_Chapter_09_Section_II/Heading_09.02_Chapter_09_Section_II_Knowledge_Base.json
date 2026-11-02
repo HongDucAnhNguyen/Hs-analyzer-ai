@@ -1,0 +1,84 @@
+{
+  "heading_id": "09.02",
+  "heading_title": {
+    "vi": "Chè, đã hoặc chưa pha hương liệu.",
+    "en": "Tea, whether or not flavoured."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại chè khác nhau có nguồn gốc từ cây thuộc giống thực vật Thea (Camellia), bao gồm chè xanh, chè đen, chè ủ men một phần (ví dụ chè Oolong), hoa chè, búp chè, vụn chè, cũng như chè dạng bột hoặc chè ép. Nhóm này cũng bao gồm chè đã được pha hương liệu hoặc đã khử caffeine. Nhóm này loại trừ caffeine (nhóm 29.39), chè Paragoay (nhóm 09.03), các sản phẩm dùng để pha chế thảo mộc hoặc chè thảo dược (ví dụ, thuộc các nhóm 08.13, 09.09, 12.11 hoặc 21.06), và 'chè' sâm (nhóm 21.06).",
+    "en": "This heading covers the different varieties of tea derived from plants of the botanical genus Thea (Camellia), including green tea, black tea, partly fermented tea (e.g., Oolong tea), tea flowers, buds, residues, as well as powdered or compressed tea. It also includes tea that has been flavoured or decaffeinated. The heading excludes caffeine (heading 29.39), Maté (heading 09.03), products for making herbal infusions or herbal 'teas' (e.g., in heading 08.13, 09.09, 12.11 or 21.06), and ginseng 'tea' (heading 21.06)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại chè khác nhau được lấy từ các cây thuộc giống thực vật Thea (Camellia). Việc chế biến chè xanh về cơ bản gồm sấy nóng lá tươi, cuộn lại và làm khô. Chè đen được chế biến bằng cách cuộn lại lá chè và ủ men trước khi đun lửa hoặc làm khô. Nhóm này cũng bao gồm cả chè được ủ men một phần (ví dụ: chè Oolong). Nhóm này bao gồm hoa chè, búp chè và những vụn chè, cũng như chè được tán thành bột (lá, hoa hoặc búp) được ép thành hòn hoặc viên, cũng như chè được ép thành các hình dạng và kích cỡ khác nhau. Chè tẩm hương bằng hơi nước (ví dụ trong quá trình ủ men) hoặc cho thêm tinh dầu (ví dụ tinh dầu chanh hoặc cam bergamot), hương nhân tạo (có dạng tinh thể hoặc bột) hoặc các phần của những hoa, quả hoặc cây thơm khác (ví dụ, hoa nhài, vỏ cam khô hoặc nụ đinh hương khô) cũng được phân loại vào nhóm này. Nhóm này cũng bao gồm cả chè đã được khử caffeine.",
+        "en": "The heading covers the different varieties of tea derived from the plants of the botanical genus Thea (Camellia). The preparation of green tea consists essentially of heating the fresh leaves, rolling them and drying them. In the ease of black tea, the leaves are rolled and fermented before being fired or dried. The heading also includes partly fermented tea (e.g., Oolong tea). The heading includes tea flowers, buds and residues, as well as powdered tea (leaves, flowers or buds) agglomerated in balls or tablets, as well as tea presented compressed into various shapes and sizes. Tea which has been flavoured by a steaming process (during fermentation, for example) or by the addition of essential oils (e.g., lemon or bergamot oil), artificial flavourings (which may be in crystalline or powder form) or parts of various other aromatic plants or fruits (such as jasmine flowers, dried orange peel or cloves) is also classified in this heading. The heading also includes decaffeinated tea."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này loại trừ caffeine (nhóm 29.39). Ngoài ra nhóm này cũng không bao gồm các sản phẩm không phải lấy từ các cây thuộc giống thực vật Thea nhưng đôi khi cũng gọi là “chè”, ví dụ: (a) Chè Paragoay (nhóm 09.03). (b) Những sản phẩm dùng để pha chế thảo mộc hoặc pha chè thảo dược. Chúng được phân loại, ví dụ, vào các nhóm 08.13, 09.09, 12.11 hoặc 21.06.",
+        "en": "The heading excludes caffeine as such (heading 29.39). The heading further excludes products not derived from the plants of the botanical genus Thea but sometimes called “ teas ”, e.g.: (a) Maté (Paraguay tea) (heading 09.03). (b) Products for making herbal infusions or herbal “ teas ”. These are classified, for example, in heading 08.13, 09.09, 12.11 or 21.06."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(c) “Chè” sâm (hỗn hợp chiết suất sâm với lactoza hoặc glucoza) (nhóm 21.06).",
+        "en": "(c) Ginseng “tea” (a mixture of ginseng extract with lactose or glucose) (heading 21.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0902.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Chè xanh (chưa ủ men) đóng gói sẵn trọng lượng không quá 3 kg",
+        "en": "- Green tea (not fermented) in immediate packings of a content not exceeding 3 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0902.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Chè xanh khác (chưa ủ men)",
+        "en": "- Other green tea (not fermented)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0902.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Chè đen (đã ủ men) và chè đã ủ men một phần, đóng gói sẵn trọng lượng không quá 3kg",
+        "en": "- Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0902.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Chè đen khác (đã ủ men) và chè khác đã ủ men một phần",
+        "en": "- Other black tea (fermented) and other partly fermented tea"
+      }
+    }
+  ]
+}

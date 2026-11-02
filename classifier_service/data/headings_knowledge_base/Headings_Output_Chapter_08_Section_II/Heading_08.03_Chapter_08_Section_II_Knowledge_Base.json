@@ -1,0 +1,46 @@
+{
+  "heading_id": "08.03",
+  "heading_title": {
+    "vi": "Chuối, kể cả chuối lá, tươi hoặc khô.",
+    "en": "Bananas, including plantains, fresh or dried."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại quả ăn được thuộc chi Musa. Chuối lá là loại chuối có nhiều tinh bột, ít ngọt hơn các loại chuối khác và tinh bột không trở nên ngọt trong quá trình chín. Chuối lá chủ yếu được tiêu thụ sau khi được làm khô, chiên, nướng, hấp, luộc hoặc nấu chín theo cách khác.",
+    "en": "This heading covers all edible fruit of the species of the genus Musa. Plantains are starchy bananas that are less sweet than other bananas. The starch contained in plantains does not become sweet during ripening. Plantains are primarily consumed after being fried, roasted, steamed, boiled or otherwise cooked."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các loại quả ăn được thuộc chi Musa.\nChuối lá là chuối có nhiều chất tinh bột mà ít ngọt hơn các chuối khác. Tinh bột chứa trong chuối lá khác với tinh bột chứa trong các chuối khác bởi vì nó không trở nên ngọt trong quá trình chín. Chuối lá được tiêu thụ chủ yếu sau khi được làm khô, chiên, nướng, hấp, luộc hoặc nấu chín cách khác.",
+        "en": "This heading covers all edible fruit of the species of the genus Musa.\nPlantains are starchy bananas that are less sweet than other bananas. The starch contained in plantains differs from that contained in other bananas in that it does not become sweet during ripening. Plantains are primarily consumed after being fried, roasted, steamed, boiled or otherwise cooked."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0803.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Chuối lá",
+        "en": "- Plantains"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0803.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "chapter_id": "11",
+  "chapter_title": {
+    "vi": "Các sản phẩm xay xát; malt; tinh bột; inulin; gluten lúa mì",
+    "en": "Products of the milling industry; malt; starches; inulin; wheat gluten"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm các sản phẩm thu được từ quá trình xay xát ngũ cốc của Chương 10 và ngô ngọt của Chương 7, cũng như các sản phẩm tương tự từ rau đậu khô (nhóm 07.13), khoai tây, rễ và củ (nhóm 07.14), và các sản phẩm của Chương 8. Các sản phẩm chính bao gồm bột, tấm, bột thô, hạt đã chế biến (xay, vỡ mảnh), malt (rang hoặc chưa rang), tinh bột, inulin và gluten lúa mì. Việc phân loại các sản phẩm xay xát ngũ cốc vào Chương này hay vào nhóm 23.02 (phế liệu) phụ thuộc vào hàm lượng tinh bột và tro theo quy định tại Chú giải 2(A). Hơn nữa, việc phân loại trong nội bộ chương, ví dụ giữa bột (nhóm 11.01, 11.02) và tấm hoặc bột thô (nhóm 11.03, 11.04), được xác định bởi tỷ lệ lọt qua sàng theo Chú giải 2(B) và 3. Chương này không bao gồm: malt đã rang dùng thay thế cà phê (nhóm 09.01 hoặc 21.01), các loại bột, tấm, bột thô hoặc tinh bột đã chế biến (nhóm 19.01), mảnh ngô (nhóm 19.04), rau đã chế biến hoặc bảo quản (Chương 20), dược phẩm (Chương 30), và tinh bột có đặc tính của chế phẩm nước hoa, mỹ phẩm (Chương 33).",
+    "en": "This Chapter covers products from the milling of cereals of Chapter 10 and sweet corn of Chapter 7, as well as similar products from dried leguminous vegetables (heading 07.13), potatoes, roots and tubers (heading 07.14), and products of Chapter 8. The main products include flours, groats, meals, otherwise worked grains (rolled, flaked), malt (whether or not roasted), starches, inulin, and wheat gluten. The classification of cereal milling products in this Chapter, as opposed to heading 23.02 (residues), depends on starch and ash content criteria as stipulated in Note 2(A). Furthermore, classification within the chapter, for instance between flours (headings 11.01, 11.02) and groats or meal (headings 11.03, 11.04), is determined by sieve passage rates according to Notes 2(B) and 3. This Chapter does not cover: roasted malt as coffee substitutes (heading 09.01 or 21.01), prepared flours, groats, meals or starches (heading 19.01), corn flakes (heading 19.04), prepared or preserved vegetables (Chapter 20), pharmaceutical products (Chapter 30), and starches having the character of perfumery or cosmetic preparations (Chapter 33)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Chương này không bao gồm:\n(a) Malt đã rang dùng như chất thay thế cà phê (nhóm 09.01 hoặc nhóm 21.01);\n(b) Bột mịn, tấm, bột thô hoặc tinh bột đã chế biến thuộc nhóm 19.01;\n(c) Mảnh ngô chế biến từ bột ngô (corn flakes) hoặc các sản phẩm khác thuộc nhóm 19.04;\n(d) Các loại rau, đã chế biến hay bảo quản, thuộc nhóm 20.01, 20.04 hoặc 20.05;\n(e) Dược phẩm (Chương 30); hoặc\n(f) Tinh bột có đặc tính của nước hoa, mỹ phẩm hay chế phẩm vệ sinh (Chương 33).",
+        "en": "1.-This Chapter does not cover:\n(a) Roasted malt put up as coffee substitutes (heading 09.01 or 21.01);\n(b) Prepared flours, groats, meals or starches of heading 19.01;\n(c) Corn flakes or other products of heading 19.04;\n(d) Vegetables, prepared or preserved, of heading 20.01, 20.04 or 20.05;\n(e) Pharmaceutical products (Chapter 30); or\n(f) Starches having the character of perfumery, cosmetic or toilet preparations (Chapter 33)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2. (A) Các sản phẩm thu được từ quá trình xay xát ngũ cốc liệt kê trong bảng dưới đây được xếp vào Chương này, nếu tính theo trọng lượng trên sản phẩm khô các sản phẩm này có:\n(a) hàm lượng tinh bột (được xác định theo phương pháp phân cực Ewer cải tiến) vượt quá chỉ dẫn ghi trong Cột (2); và\n(b) hàm lượng tro (sau khi loại trừ các khoáng chất bổ sung) không vượt quá chỉ dẫn ghi trong Cột (3).",
+        "en": "2.- (A) Products from the milling of the cereals listed in the table below fall in this Chapter if they have, by weight on the dry product:\n(a) a starch content (determined by the modified Ewers polarimetric method) exceeding that indicated in Column (2): and\n(b) an ash content (after deduction of any added minerals) not exceeding that indicated in Column (3)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các sản phẩm không giống như vậy sẽ được xếp vào nhóm 23.02. Tuy nhiên, mầm ngũ cốc nguyên dạng, đã được xay, vỡ mảnh hoặc nghiền, luôn luôn được phân loại vào nhóm 11.04.\n(B) Các sản phẩm thuộc Chương này theo những quy định trên đây sẽ được xếp vào nhóm 11.01 hoặc 11.02 nếu có tỷ lệ phần trăm lọt qua sàng bằng lưới kim loại với kích thước mắt sàng ghi trong Cột (4) hoặc (5) không thấp hơn tỷ lệ ghi cho từng loại ngũ cốc, tính theo trọng lượng.\nCác trường hợp khác sẽ được xếp vào nhóm 11.03 hoặc 11.04.\nBảng:\n- Lúa mì và lúa mạch đen: Hàm lượng tinh bột > 45%, Hàm lượng tro <= 2,5%, Tỉ lệ lọt qua sàng 315 micron >= 80%\n- Lúa đại mạch: Hàm lượng tinh bột > 45%, Hàm lượng tro <= 3%, Tỉ lệ lọt qua sàng 315 micron >= 80%\n- Yến mạch: Hàm lượng tinh bột > 45%, Hàm lượng tro <= 5%, Tỉ lệ lọt qua sàng 315 micron >= 80%\n- Ngô và lúa miến: Hàm lượng tinh bột > 45%, Hàm lượng tro <= 2%, Tỉ lệ lọt qua sàng 500 micron >= 90%\n- Gạo: Hàm lượng tinh bột > 45%, Hàm lượng tro <= 1,6%, Tỉ lệ lọt qua sàng 315 micron >= 80%\n- Kiều mạch: Hàm lượng tinh bột > 45%, Hàm lượng tro <= 4%, Tỉ lệ lọt qua sàng 315 micron >= 80%",
+        "en": "Otherwise, they fall in heading 23.02. However, germ of cereals, whole, rolled, flaked or ground is always classified in heading 11.04.\n(B) Products falling in this Chapter under the above provisions shall be classified in heading 11.01 or 11.02 if the percentage passing through a woven metal wire cloth sieve with the aperture indicated in Column (4) or (5) is not less, by weight, than that shown against the cereal concerned.\nOtherwise, they fall in heading 11.03 or 11.04.\nTable:\n- Wheat and rye: Starch Content > 45%, Ash Content <= 2.5%, Rate of passage through 315 micrometres sieve >= 80%\n- Barley: Starch Content > 45%, Ash Content <= 3%, Rate of passage through 315 micrometres sieve >= 80%\n- Oats: Starch Content > 45%, Ash Content <= 5%, Rate of passage through 315 micrometres sieve >= 80%\n- Maize (corn) and grain sorghum: Starch Content > 45%, Ash Content <= 2%, Rate of passage through 500 micrometres sieve >= 90%\n- Rice: Starch Content > 45%, Ash Content <= 1.6%, Rate of passage through 315 micrometres sieve >= 80%\n- Buckwheat: Starch Content > 45%, Ash Content <= 4%, Rate of passage through 315 micrometres sieve >= 80%"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "3. Theo mục đích của nhóm 11.03 khái niệm \"tấm\" và \"bột thô\" được hiểu là các sản phẩm thu được từ quá trình xay vỡ hạt ngũ cốc, trong đó:\n(a) đối với sản phẩm ngô, tối thiểu 95% tính theo trọng lượng lọt qua sàng bằng lưới kim loại với kích thước mắt sàng là 2 mm;\n(b) đối với sản phẩm ngũ cốc khác, tối thiểu 95% tính theo trọng lượng lọt qua sàng có lưới bằng kim loại với kích thước mắt sàng là 1,25 mm.",
+        "en": "3.- For the purposes of heading 11.03, the terms \"groats\" and \"meal\" mean products obtained by the fragmentation of cereal grains, of which:\n(a) in the case of maize (corn) products, at least 95 % by weight passes through a woven metal wire cloth sieve with an aperture of 2 mm;\n(b) in the case of other cereal products, at least 95 % by weight passes through a woven metal wire cloth sieve with an aperture of 1.25 mm."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chương này bao gồm:\n(1) Những sản phẩm thu được từ quá trình xay xát các loại ngũ cốc thuộc Chương 10 và ngô ngọt thuộc Chương 7, trừ những phế liệu xay xát thuộc nhóm 23.02. Trong phạm vi này, các sản phẩm thu được từ quá trình xay xát bột mì, lúa mạch đen, lúa đại mạch, yến mạch, ngô (kể cả loại ngô còn nguyên bắp, vẫn còn hay không còn vỏ ngô), lúa miến, gạo và kiều mạch thuộc Chương này được phân biệt với những phế liệu thuộc nhóm 23.02 dựa trên những tiêu chí về mặt hàm lượng tinh bột và hàm lượng tro nêu tại Chú giải 2 (A) của Chương này. Trong phạm vi Chương này, đối với những loại ngũ cốc được kể tên trên, các loại bột thuộc nhóm 11.01 hoặc 11.02 phải được phân biệt với các sản phẩm thuộc nhóm 11.03 hoặc 11.04 dựa trên các tiêu chí về tỉ lệ lọt qua sàng được nêu trong phần Chú giải 2 (B) của Chương này. Đồng thời, tất cả ngũ cốc ở dạng tấm và bột thô thuộc nhóm 11.03 cũng phải đáp ứng đầy đủ những tiêu chí về tỉ lệ lọt qua sàng được nêu trong Chú giải 3 của Chương này.",
+        "en": "This Chapter includes:\n(1) Products from the milling of the cereals of Chapter 10 and of sweet corn of Chapter 7, other than milling residues of heading 23.02. In this context, the products from the milling of wheat, rye, barley, oats, maize (corn) (including whole cobs ground with or without their husks), grain sorghum, rice and buckwheat falling in this Chapter are to be distinguished from the residues of heading 23.02 in accordance with the criteria as to starch and ash content laid down in Chapter Note 2(A). Within the Chapter, as regards the cereals mentioned by name above, the flours of heading 11.01 or 11.02 are to be distinguished from the products of heading 11.03 or 11.04 in accordance with the criterion as to passage through a sieve laid down in Chapter Note 2 (B). At the same time, all cereal groats and meal of heading 11.03 must fulfil the relevant criterion as to passage through a sieve laid down in Chapter Note 3."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(2) Những sản phẩm cũng được thu từ các sản phẩm ngũ cốc của Chương 10 đã qua công đoạn chế biến được nêu trong các nhóm khác nhau của Chương này, như ủ malt hoặc chiết xuất tinh bột hoặc gluten lúa mì.\n(3) Những sản phẩm thu được từ nguyên liệu thô thuộc các Chương khác (rau đậu khô, khoai tây, quả...) được chế biến theo các công đoạn giống như được nêu trong đoạn (1) và đoạn (2) ở trên.\nNgoài các loại khác, Chương này không bao gồm:\n(a) Malt đã rang và được dùng làm sản phẩm thay thế cà phê (nhóm 09.01 hoặc 21.01).\n(b) Vỏ ngũ cốc (nhóm 12.13).\n(c) Bột, bột mịn, bột thô hoặc tinh bột, đã chế biến thuộc nhóm 19.01.\n(d) Tinh bột sắn (nhóm 19.03).\n(e) Bỏng gạo, bỏng ngô dạng mảnh và các sản phẩm tương tự, thu được từ quá trình rang sấy hoặc rang và lúa mì sấy khô đóng bánh (nhóm 19.04).\n(f) Rau đã được chế biến hoặc bảo quản thuộc các nhóm 20.01, 20.04 và 20.05.\n(g) Phế liệu thu được từ quá trình sàng sẩy, xay xát hoặc sau những công đoạn chế biến ngũ cốc hay rau đậu khác (nhóm 23.02).\n(h) Dược phẩm (Chương 30).\n(ij) Các sản phẩm của Chương 33 (xem Chú giải 3 và 4 của Chương 33).",
+        "en": "(2) Products also obtained from the cereals of Chapter 10 by submitting them to the processes provided for in the various headings of the Chapter, such as malting or the extraction of starch or wheat gluten.\n(3) Products obtained by submitting raw materials of other Chapters (dried leguminous vegetables, potatoes, fruit, etc.) to processes similar to those indicated in paragraph (1) or (2) above.\nThis Chapter excludes, inter alia:\n(a) Roasted malt put up as coffee substitutes (heading 09.01 or 21.01).\n(b) Cereal husks (heading 12.13).\n(c) Prepared flours, groats, meals or starches of heading 19.01.\n(d) Tapioca (heading 19.03).\n(e) Puffed rice, corn flakes and the like, obtained by swelling or roasting, and bulgur wheat in the form of worked grains (heading 19.04).\n(f) Vegetables, prepared or preserved, of headings 20.01, 20.04 and 20.05.\n(g) Residues derived from the sifting, milling or other working of cereals or of leguminous plants (heading 23.02).\n(h) Pharmaceutical products (Chapter 30).\n(ij) Products of Chapter 33 (see Notes 3 and 4 to Chapter 33)."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "11.01",
+      "heading_title": {
+        "vi": "Bột mì hoặc bột meslin.",
+        "en": "Wheat or meslin flour."
+      }
+    },
+    {
+      "heading_id": "11.02",
+      "heading_title": {
+        "vi": "Bột ngũ cốc, trừ bột mì hoặc bột meslin.",
+        "en": "Cereal flours other than of wheat or meslin."
+      }
+    },
+    {
+      "heading_id": "11.03",
+      "heading_title": {
+        "vi": "Ngũ cốc dạng tấm, dạng bột thô và viên.",
+        "en": "Cereal groats, meal and pellets."
+      }
+    },
+    {
+      "heading_id": "11.04",
+      "heading_title": {
+        "vi": "Hạt ngũ cốc được chế biến theo cách khác (ví dụ, xát vỏ, xay, vỡ mảnh, nghiền vụn, cắt lát hoặc nghiền thô), trừ gạo thuộc nhóm 10.06; mầm ngũ cốc, nguyên dạng, xay, vỡ mảnh hoặc nghiền.",
+        "en": "Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 10.06; germ of cereals, whole, rolled, flaked or ground."
+      }
+    },
+    {
+      "heading_id": "11.05",
+      "heading_title": {
+        "vi": "Bột, bột thô, bột mịn, mảnh lát, hạt và viên từ khoai tây.",
+        "en": "Flour, meal, powder, flakes, granules and pellets of potatoes."
+      }
+    },
+    {
+      "heading_id": "11.06",
+      "heading_title": {
+        "vi": "Bột, bột thô và bột mịn, chế biến từ các loại rau đậu khô thuộc nhóm 07.13, từ cọ sago hoặc từ rễ, củ hoặc thân củ thuộc nhóm 07.14 hoặc từ các sản phẩm thuộc Chương 8.",
+        "en": "Flour, meal and powder of the dried leguminous vegetables of heading 07.13, of sago or of roots or tubers of heading 07.14 or of the products of Chapter 8."
+      }
+    },
+    {
+      "heading_id": "11.07",
+      "heading_title": {
+        "vi": "Malt, rang hoặc chưa rang.",
+        "en": "Malt, whether or not roasted."
+      }
+    },
+    {
+      "heading_id": "11.08",
+      "heading_title": {
+        "vi": "Tinh bột; inulin.",
+        "en": "Starches; inulin."
+      }
+    },
+    {
+      "heading_id": "11.09",
+      "heading_title": {
+        "vi": "Gluten lúa mì, đã hoặc chưa làm khô.",
+        "en": "Wheat gluten, whether or not dried."
+      }
+    }
+  ]
+}

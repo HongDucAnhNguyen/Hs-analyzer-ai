@@ -1,0 +1,58 @@
+{
+  "heading_id": "25.22",
+  "heading_title": {
+    "vi": "Vôi sống, vôi tôi và vôi thủy lực, trừ oxit canxi và hydroxit canxi thuộc nhóm 28.25.",
+    "en": "Quicklime, slaked lime and hydraulic lime, other than calcium oxide and hydroxide of heading 28.25."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm vôi sống (oxit canxi có lẫn tạp chất), vôi tôi (canxi hydroxit) và vôi thủy lực. Vôi sống được tạo ra bằng cách nung đá vôi, và khi kết hợp với nước sẽ tạo ra vôi tôi. Vôi thủy lực thu được bằng cách nung đá vôi có chứa đất sét ở nhiệt độ thấp. Nhóm này không bao gồm canxi oxit và canxi hydroxit đã tinh chế thuộc nhóm 28.25.",
+    "en": "This heading covers quicklime (an impure calcium oxide), slaked lime (calcium hydroxide), and hydraulic lime. Quicklime is obtained by calcining limestone, and when combined with water, it produces slaked lime. Hydraulic lime is obtained by low-temperature calcination of limestone containing clay. This heading excludes purified calcium oxide and calcium hydroxide of heading 28.25."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Vôi sống (là một oxit canxi có lẫn tạp chất) thu được bằng cách nung đá vôi có chứa rất ít hoặc không chứa đất sét. Nó kết hợp với nước rất nhanh, phản ứng tỏa nhiều nhiệt và tạo ra vôi tôi (canxi hydroxide). Vôi tôi thường được sử dụng trong cải tạo đất hoặc trong công nghiệp chế biến đường.\nVôi thủy lực thu được bằng cách nung đá vôi có chứa đất sét (dù tỉ lệ thường nhỏ hơn 20%) ở nhiệt độ thấp rồi tôi với nước. Vôi chịu nước khác với xi măng tự nhiên ở chỗ nó vẫn còn chứa một lượng xác định vôi sống không kết hợp mà có thể được tôi bằng nước.\nNhóm này không bao gồm canxi oxit và canxi hydroxide đã tinh chế (nhóm 28.25).",
+        "en": "Quicklime (an impure calcium oxide) is obtained by calcining limestone containing very little or no clay. It combines very rapidly with water, giving off considerable heat and producing slaked lime (calcium hydroxide). Slaked lime is usually employed for soil improvement or in the sugar industry.\nHydraulic lime is obtained by low temperature calcination of limestone containing sufficient clay (although usually less than 20 %) to ensure that the product sets under water. Hydraulic lime differs from natural cement in that it still contains appreciable amounts of uncombined quicklime, which may be slaked with water.\nThe heading excludes purified calcium oxide and calcium hydroxide (heading 28.25)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2522.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vôi sống",
+        "en": "Quicklime"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2522.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vôi tôi",
+        "en": "Slake lime"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2522.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vôi thủy lực",
+        "en": "Hydraulic lime"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "heading_id": "82.04",
+  "heading_title": {
+    "vi": "Cờ lê và thanh vặn ốc (bu lông) và đai ốc loại vặn bằng tay (kể cả cờ lê định lực nhưng trừ thanh vặn tarô); đầu cờ lê có thể thay đổi được, có hoặc không có tay vặn.",
+    "en": "Hand-operated spanners and wrenches (including torque meter wrenches but not including tap wrenches); interchangeable spanner sockets, with or without handles."
+  },
+  "summary": {
+    "vi": "Nhóm 82.04 bao gồm các loại cờ lê và thanh vặn ốc, đai ốc hoạt động bằng tay. Các dụng cụ này có thể có hàm kẹp cố định hoặc có thể điều chỉnh được. Nhóm này cũng bao gồm các loại chuyên dụng như chìa vặn đai ốc có tay quay, chìa vặn cho xe đạp và xe hơi, và chìa vặn ống. Một loại đặc biệt được phân loại ở đây là cờ lê định lực, dùng để đo lực siết. Ngoài ra, nhóm còn bao gồm các đầu cờ lê có thể thay đổi được, đi kèm hoặc không đi kèm tay vặn, cùng các bộ phận điều chỉnh và mở rộng. Một điểm loại trừ quan trọng cần lưu ý là thanh vặn tarô không thuộc nhóm này mà được phân loại vào nhóm 82.05.",
+    "en": "Heading 82.04 covers hand-operated spanners and wrenches. These tools may have fixed or adjustable jaws. The heading also includes specialized types such as crank handle spanners, spanners for bicycles and cars, and pipe wrenches. A specific type classified here is the torque meter wrench, used for measuring tightening force. Furthermore, the heading includes interchangeable spanner sockets, with or without handles, as well as drives and extensions. An important exclusion to note is that tap wrenches are not covered by this heading but are classified under heading 82.05."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các dụng cụ cầm tay sau: (1) Cờ lê và thanh vặn đai ốc bằng tay, ví dụ: loại có hàm kẹp cố định hoặc điều chỉnh được; đầu clê (đui), hộp hoặc chìa vặn đai ốc; chìa vặn đai ốc có tay quay; chìa vặn cho xe đạp hoặc xe hơi, cho ốc vặn đinh vít, vòi máy nước hoặc ống (kể cả chìa vặn đai ốc ống kiểu chuỗi); cờ lê định lực. Nhóm này không bao gồm thanh vặn tarô (nhóm 82.05). (2) Đầu cờ lê (chìa) vặn đai ốc có thể thay đổi, có hoặc không có cán, kể cả bộ phận điều chỉnh và mở rộng.",
+        "en": "This heading covers the following hand tools: (1) Hand-operated spanners and wrenches (e.g., with fixed or adjustable jaws; socket, box or ratchet spanners; crank handle spanners); wrenches or spanners for bicycles or cars, for coach screws, hydrants or piping (including chain type pipe wrenches); torque meter wrenches. The heading does not, however, cover tap wrenches (heading 82.05). (2) Interchangeable spanner sockets, with or without handles, including drives and extensions."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Cờ lê và thanh vặn ốc (bu lông) và đai ốc, loại vặn bằng tay",
+        "en": "Hand-operated spanners and wrenches"
+      },
+      "subheading_id": "8204.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không điều chỉnh được",
+        "en": "Non-adjustable"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Cờ lê và thanh vặn ốc (bu lông) và đai ốc, loại vặn bằng tay",
+        "en": "Hand-operated spanners and wrenches"
+      },
+      "subheading_id": "8204.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Điều chỉnh được",
+        "en": "Adjustable"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8204.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đầu cờ lê có thể thay đổi, có hoặc không có tay vặn",
+        "en": "Interchangeable spanner sockets, with or without handles"
+      }
+    }
+  ]
+}

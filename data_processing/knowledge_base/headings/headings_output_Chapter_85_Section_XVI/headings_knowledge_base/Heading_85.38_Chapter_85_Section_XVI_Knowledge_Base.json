@@ -1,0 +1,46 @@
+{
+  "heading_id": "85.38",
+  "heading_title": {
+    "vi": "Bộ phận chuyên dùng hay chủ yếu dùng với các thiết bị thuộc nhóm 85.35, 85.36 hoặc 85.37.",
+    "en": "Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37."
+  },
+  "summary": {
+    "vi": "Nhóm 85.38 bao gồm các bộ phận chuyên dùng hoặc chủ yếu dùng cho các thiết bị thuộc các nhóm 85.35, 85.36 hoặc 85.37. Việc phân loại này tuân theo các quy định chung về phân loại bộ phận được nêu trong Chú giải Tổng quát của Phần XVI. Ví dụ cụ thể về các sản phẩm thuộc nhóm này là các tấm panel dùng cho bảng chuyển mạch, thường làm từ plastic hoặc kim loại, chưa được lắp đặt thiết bị, miễn là chúng có thể được nhận biết rõ ràng là bộ phận của bảng chuyển mạch.",
+    "en": "Heading 85.38 covers parts suitable for use solely or principally with the apparatus of headings 85.35, 85.36, or 85.37. This classification is subject to the general provisions regarding the classification of parts as stated in the General Explanatory Note to Section XVI. A specific example of products under this heading includes boards for switchboards, typically made of plastics or metal, not equipped with their instruments, provided they are clearly identifiable as parts of switchboards."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo quy tắc chung về phân loại các bộ phận (xem phần Chú giải Tổng quát Phần XVI), nhóm này gồm bộ phận của hàng hóa thuộc ba nhóm trên (nhóm 85.35, 85.36, 85.37). Lấy ví dụ, nhóm này bao gồm các tấm dùng cho những bảng chuyển mạch, thường làm từ plastic hoặc kim loại, không lắp đặt thiết bị, với điều kiện chúng có thể được nhận biết một cách rõ ràng như những bộ phận của bảng chuyển mạch.",
+        "en": "Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), this heading covers parts of the goods of the three preceding headings (heading 85.35, 85.36, 85.37). The heading includes, for example, boards for switchboards, generally of plastics or metal, without their instruments, provided they are clearly recognisable as parts of switchboards."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8538.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bảng, panel, giá đỡ, bàn, tủ và các loại hộp và đế khác dùng cho các mặt hàng thuộc nhóm 85.37, chưa được lắp đặt các thiết bị của chúng",
+        "en": "Boards, panels, consoles, desks, cabinets and other bases for the goods of heading 85.37, not equipped with their apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8538.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "heading_id": "90.28",
+  "heading_title": {
+    "vi": "Thiết bị đo khí, chất lỏng hoặc lượng điện được sản xuất hoặc cung cấp, kể cả thiết bị kiểm định các thiết bị trên.",
+    "en": "Gas, liquid or electricity supply or production meters, including calibrating meters therefor."
+  },
+  "summary": {
+    "vi": "Nhóm 90.28 bao gồm các thiết bị dùng để đo lường, theo đơn vị thể tích hoặc năng lượng, tổng lượng khí, chất lỏng hoặc điện được sản xuất hoặc cung cấp. Các thiết bị này khác với lưu lượng kế của nhóm 90.26, vốn chỉ đo tốc độ dòng chảy. Nhóm này được chia thành ba loại chính: thiết bị đo khí, thiết bị đo chất lỏng và công tơ điện. Các loại này bao gồm công tơ hộ gia đình, công tơ sản xuất tại nhà máy và công tơ chuẩn để kiểm định. Các loại đặc biệt như công tơ trả trước, công tơ tính giá và công tơ cực đại cũng thuộc nhóm này. Về mặt cấu tạo, chúng thường gồm một thiết bị đo lường (tuabin, piston, màng chắn, cuộn cảm), cơ cấu truyền động và một bộ phận chỉ báo hoặc ghi. Các bộ phận và phụ kiện của các thiết bị này cũng được phân loại tại đây. Nhóm không bao gồm các bơm chất lỏng có cơ cấu đo (nhóm 84.13) và các thiết bị đo đơn giản như vôn kế, ampe kế (nhóm 90.30).",
+    "en": "Heading 90.28 covers meters used to measure, in volumetric or energy units, the total amount of gas, liquid, or electricity produced or supplied. These meters are distinct from the flowmeters of heading 90.26, which only measure the rate of flow. The heading is divided into three main categories: gas meters, liquid meters, and electricity meters. These include household supply meters, plant production meters, and standard calibrating meters. Special types such as prepayment, price-calculating, and maximum meters are also included. Structurally, they typically consist of a measuring device (turbine, piston, diaphragm, inductor), a transmission mechanism, and an indicator or recorder. Parts and accessories for these meters are also classified here. The heading excludes pumps for liquids fitted with measuring devices (heading 84.13) and simple measuring apparatus such as voltmeters and ammeters (heading 90.30)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các thiết bị đo này nhìn chung được định cỡ để chỉ báo tổng lưu lượng qua ống hoặc qua mạch chính, dù chúng có thể được lắp trên đường vòng hoặc kết nối với bộ đo biến áp. Các thiết bị này vẫn thuộc nhóm này dù có hay không cơ cấu ghi hoặc dụng cụ cơ/điện đơn giản để kích hoạt các thiết bị báo tín hiệu, điều khiển.\n(I) THIẾT BỊ ĐO KHÍ HOẶC CHẤT LỎNG ĐƯỢC SẢN XUẤT HOẶC CUNG CẤP\nPhần này bao gồm các dụng cụ đo theo đơn vị thể tích, lượng chất lỏng chảy qua ống, bao gồm công tơ cung cấp hộ gia đình, công tơ sản suất và công tơ chuẩn. Các loại đặc biệt như công tơ cực đại, trả trước, tính giá cũng thuộc phần này. Lưu lượng kế đo tốc độ lưu lượng bị loại trừ (nhóm 90.26). Cấu tạo chủ yếu gồm một dụng cụ đo (tuabin, piston, màng chắn), cơ cấu điều chỉnh, cơ cấu truyền dẫn và dụng cụ ghi hoặc chỉ báo.\n(A) Thiết bị đo khí được sản xuất hoặc được cung cấp\n(1) Công tơ ẩm: Gồm một tang trống hoặc bánh lái được phân chia vào các khoang, quay trong một hộp chứa chất lỏng. Khí đi vào làm quay tang trống, và chuyển động này được chỉ ra trên cơ cấu đếm.",
+        "en": "These meters are generally calibrated to indicate the total quantity passing through service pipes or the main, even if fitted in a bypass, shunt, or connected to measuring transformers. These meters remain in the heading whether or not they are fitted with a recording device or a simple mechanical/electrical device for activating signalling or controlling appliances.\n(I) GAS OR LIQUID SUPPLY OR PRODUCTION METERS\nThis section covers meters used to measure in volumetric units the amount of fluid passing through a pipe. It includes household supply meters, plant production meters, and standard meters, as well as special meters like maximum, prepayment, and price-calculating meters. Flowmeters measuring the rate of flow are excluded (heading 90.26). They consist of a measuring device (turbine, piston, diaphragm), a regulating mechanism, a transmission, and a recorder or indicator.\n(A) Gas supply or production meters.\n(1) Wet meters: Consist of a partitioned drum or wheel that revolves in a liquid-filled casing. The entering gas rotates the drum, and its revolutions are indicated on a counting mechanism."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) Thiết bị đo khí (tiếp)\nMột loại khác là công tơ đo nhờ chuông động.\n(2) Công tơ khô: Cơ cấu đo có thể gồm piston, màng chắn hoặc cánh quạt, được vận hành bởi áp suất khí. Loại thông thường có một hộp được chia thành bốn ngăn bởi các màng chắn, sự chuyển động xen kẽ của màng ngăn sẽ vận hành cơ cấu đếm.\n(B) Công tơ đo chất lỏng sản xuất hoặc cung cấp (nước, dầu mỏ, cồn, bia, sữa), trừ các bơm chất lỏng có cơ cấu đo của nhóm 84.13.\nGồm:\n(1) Công tơ tuabin (công tơ suy luận): Cơ cấu đo là một cánh quạt hoặc chong chóng quay với tốc độ tỷ lệ thuận với lưu lượng chất lỏng.\n(2) Công tơ khoang giãn (công tơ theo chiều dương): Tương tự công tơ đo khí khô.\n(3) Công tơ piston tịnh tiến (công tơ theo chiều dương): Gồm một hoặc nhiều piston chuyển động tịnh tiến trong các trụ.\n(4) Công tơ piston đĩa (công tơ bán dương): Piston được thay bằng một đĩa quay.\n(5) Công tơ piston quay (công tơ bán dương): Gồm một khoang hoạt động hình trụ với piston hình trụ bị sẻ rãnh.",
+        "en": "(A) Gas meters (cont.)\nAnother type is the nutating bell meter.\n(2) Dry meters: The measuring device may consist of pistons, diaphragms or a fan wheel, driven by gas pressure. The usual type consists of a box with four compartments divided by diaphragms; the alternating motion of the diaphragm operates the counting mechanism.\n(B) Liquid supply or production meters (for water, mineral oil, alcohol, beer, milk), excluding pumps for liquids with measuring devices of heading 84.13.\nIncludes:\n(1) Impeller or fan wheel meters (inferential meters): The measuring device is a fan wheel or impeller revolving at a speed proportional to the liquid flow.\n(2) Diaphragm meters: Similar to dry gas meters.\n(3) Reciprocating piston meters: Consist of one or more pistons with a reciprocating movement inside cylinders.\n(4) Disc-piston meters: The piston is replaced by a revolving disc.\n(5) Rotary piston meters: Consist of a cylindrical working chamber with a cylindrical piston."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Thiết bị đo chất lỏng từ mục (2) đến (5) được biết đến là loại dịch chuyển dương.\n(II) THIẾT BỊ ĐO LƯỢNG ĐIỆN ĐƯỢC SẢN XUẤT HOẶC CUNG CẤP\nCông tơ điện đo lượng điện tiêu thụ (ampe/giờ) hoặc năng lượng tiêu thụ (oát/giờ). Nhóm này loại trừ các thiết bị như vôn kế, ampe kế, oát kế của nhóm 90.30. Các loại công tơ cung cấp điện chính bao gồm:\n(A) Công tơ động cơ: Gồm một hoặc nhiều cuộn cảm và một bộ phận quay (phần ứng) có tốc độ quay tỷ lệ thuận với lượng điện/năng lượng tiêu thụ.\n(B) Công tơ tĩnh: Gồm những bán tổ hợp tĩnh điện tử (số nhân, bộ lượng tử hoá) và một thiết bị chỉ báo. Loại này bao gồm:\n(1) Công tơ trả trước.\n(2) Công tơ nhiều biểu giá.\n(3) Công tơ cực đại.",
+        "en": "Liquid meters from items (2) to (5) are known as positive displacement type.\n(II) ELECTRICITY SUPPLY OR PRODUCTION METERS\nThese meters measure the amount of electricity (ampere-hours) or energy (watt-hours) consumed. The heading excludes apparatus such as voltmeters, ammeters, and wattmeters of heading 90.30. The main types of electricity supply meters include:\n(A) Motor meters: Consist of one or more inductors and a revolving element (armature) whose speed is proportional to the amount of electricity or energy consumed.\n(B) Static meters: Consist of electronic static sub-assemblies such as multipliers or quantifiers with an indicating device. These include:\n(1) Prepayment meters.\n(2) Multiple-rate meters.\n(3) Maximum meters."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(II) THIẾT BỊ ĐO LƯỢNG ĐIỆN (tiếp)\n(4) Công tơ trần.\n(5) Công tơ vượt mức.\n(6) Công tơ xung.\n(7) Công tơ phản lực.\n(8) Công tơ chứng minh.\n(9) Công tơ dòng một chiều (đo theo Vôn/giờ, Ampe/giờ, Oát/giờ).\n(10) Công tơ có xung đầu vào.\n(11) Công tơ chuẩn.\nCÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo Chú giải 1 và 2 của Chương này, các bộ phận và phụ kiện của những công tơ thuộc nhóm này cũng được phân loại vào nhóm này.",
+        "en": "(II) ELECTRICITY METERS (cont.)\n(4) Peak meters.\n(5) Excess meters.\n(6) Impulsing meters.\n(7) Reactive meters.\n(8) Demonstration meters.\n(9) Direct current meters (volt-hour, ampere-hour, watt-hour).\n(10) Meters with pulse input.\n(11) Standard meters.\nPARTS AND ACCESSORIES\nSubject to the provisions of Notes 1 and 2 to this Chapter, separately presented parts and accessories of meters of this heading remain classified here."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9028.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị đo khí",
+        "en": "Gas meters"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9028.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị đo chất lỏng",
+        "en": "Liquid meters"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9028.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công tơ điện",
+        "en": "Electricity meters"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9028.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

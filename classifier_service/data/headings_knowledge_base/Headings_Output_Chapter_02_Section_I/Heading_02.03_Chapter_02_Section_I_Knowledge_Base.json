@@ -1,0 +1,94 @@
+{
+  "heading_id": "02.03",
+  "heading_title": {
+    "vi": "Thịt lợn, tươi, ướp lạnh hoặc đông lạnh.",
+    "en": "Meat of swine, fresh, chilled or frozen."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thịt tươi, ướp lạnh hoặc đông lạnh của lợn nuôi hoặc hoang (ví dụ: lợn lòi). Nhóm này gồm thịt ba chỉ và các loại thịt tương tự có tỷ lệ mỡ giắt cao và mỡ tạo thành lớp dính với thịt.",
+    "en": "This heading covers fresh, chilled or frozen meat of pigs and other swine, whether domestic or wild (e.g., wild boars). The heading includes streaky pork and similar meats interlarded with a high proportion of fat, and fat with an adhering layer of meat."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm thịt tươi, ướp lạnh hoặc đông lạnh của lợn nuôi hoặc hoang (ví dụ: lợn lòi). Nhóm này gồm thịt ba chỉ và các loại thịt tương tự có tỷ lệ mỡ giắt cao và mỡ tạo thành lớp dính với thịt.",
+        "en": "This heading covers fresh, chilled or frozen meat of pigs and other swine, whether domestic or wild (e.g., wild boars). The heading includes streaky pork and similar meats interlarded with a high proportion of fat, and fat with an adhering layer of meat."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi hoặc ướp lạnh:",
+        "en": "Fresh or chilled :"
+      },
+      "subheading_id": "0203.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt cả con và nửa con",
+        "en": "Carcasses and half-carcasses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi hoặc ướp lạnh:",
+        "en": "Fresh or chilled :"
+      },
+      "subheading_id": "0203.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt mông đùi (hams), thịt vai và các mảnh của chúng, có xương",
+        "en": "Hams, shoulders and cuts thereof, with bone in"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi hoặc ướp lạnh:",
+        "en": "Fresh or chilled :"
+      },
+      "subheading_id": "0203.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đông lạnh:",
+        "en": "Frozen:"
+      },
+      "subheading_id": "0203.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt cả con và nửa con",
+        "en": "Carcasses and half-carcasses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đông lạnh:",
+        "en": "Frozen:"
+      },
+      "subheading_id": "0203.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt mông đùi (hams), thịt vai và các mảnh của chúng, có xương",
+        "en": "Hams, shoulders and cuts thereof, with bone in"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đông lạnh:",
+        "en": "Frozen:"
+      },
+      "subheading_id": "0203.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

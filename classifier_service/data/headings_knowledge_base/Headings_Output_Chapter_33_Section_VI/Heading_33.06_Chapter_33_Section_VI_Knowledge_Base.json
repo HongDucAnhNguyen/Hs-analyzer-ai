@@ -1,0 +1,58 @@
+{
+  "heading_id": "33.06",
+  "heading_title": {
+    "vi": "Chế phẩm dùng cho vệ sinh răng hoặc miệng, kể cả bột và bột nhão làm chặt chân răng; chỉ tơ nha khoa làm sạch kẽ răng (dental floss), đã đóng gói để bán lẻ.",
+    "en": "Preparations for oral or dental hygiene, including denture fixative pastes and powders; yarn used to clean between the teeth (dental floss), in individual retail packages."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các chế phẩm dùng cho vệ sinh răng hoặc miệng như: (I) Thuốc đánh răng các loại (kem đánh răng, chất làm sạch răng giả); (II) Chế phẩm xúc miệng và làm thơm miệng; (III) Kem, bột và viên nén làm chặt hàm răng giả. Nhóm này cũng bao gồm chỉ tơ nha khoa dùng làm sạch kẽ răng, đã được đóng gói riêng để bán lẻ.",
+    "en": "This heading covers preparations for oral or dental hygiene such as: (I) Dentifrices of all types (toothpastes, denture cleaners); (II) Mouth washes and oral perfumes; (III) Denture fixative pastes, powders and tablets. The heading also covers yarn used to clean between the teeth (dental floss), in individual retail packages."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này gồm các chế phẩm dùng vệ sinh răng hoặc miệng như:\n(I) Thuốc đánh răng ở tất cả các dạng:\n(1) Các loại kem đánh răng và các chế phẩm dùng cho răng khác. Đó là các chất hoặc các chế phẩm được sử dụng với một bàn chải răng, được dùng để làm sạch hoặc đánh bóng bề mặt răng hoặc cho mục đích khác như là phòng bệnh sâu răng. Các loại kem đánh răng và các chế phẩm khác dùng cho răng vẫn được phân loại vào nhóm này, dù chúng có hoặc không chứa các chất nhám và có hoặc không được sử dụng bởi nha sĩ.\n(2) Chất làm sạch răng giả, tức là các chế phẩm làm sạch hoặc đánh bóng cho răng giả, có hoặc không chứa các thành phần mang đặc tính nhám.\n(II) Các chế phẩm dùng để xúc miệng và làm thơm miệng.\n(III) Các loại kem, bột và viên nén làm chặt hàm răng giả.\nNhóm này cũng bao gồm chỉ tơ nha khoa dùng làm sạch kẽ răng, đã được đóng gói riêng để bán lẻ (sợi cọ răng).",
+        "en": "This heading covers preparations for oral or dental hygiene such as:\n(I) Dentifrices of all types:\n(1) Toothpastes and other preparations for teeth. These are substances or preparations used with a toothbrush, whether for cleaning or polishing the accessible surfaces of teeth or for other purposes such as anticaries prophylactic treatment. Toothpastes and other preparations for teeth remain classified in this heading, whether or not they contain abrasives and whether or not they are used by dentists.\n(2) Denture cleaners, i.e., preparations for cleaning or polishing dentures, whether or not they contain agents with abrasive properties.\n(II) Mouth washes and oral perfumes.\n(III) Denture fixative pastes, powders and tablets.\nThe heading also covers yarn used to clean between the teeth, in individual retail packages (dental floss)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3306.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Sản phẩm đánh răng",
+        "en": "Dentifrices"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3306.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Chỉ tơ nha khoa làm sạch kẽ răng (dental floss)",
+        "en": "Yarn used to clean between the teeth (dental floss)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3306.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

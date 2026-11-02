@@ -1,0 +1,46 @@
+{
+  "heading_id": "72.29",
+  "heading_title": {
+    "vi": "Dây thép hợp kim khác.",
+    "en": "Wire of other alloy steel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm dây thép hợp kim khác. Các quy định trong Chú giải của nhóm 72.17, với những sửa đổi thích hợp, sẽ được áp dụng cho các sản phẩm của nhóm này. Nhóm này được chia thành các phân nhóm dựa trên loại thép hợp kim, ví dụ như thép silic-mangan.",
+    "en": "This heading covers wire of other alloy steel. The provisions of the Explanatory Note to heading 72.17 apply, mutatis mutandis, to the products of this heading. This heading is subdivided based on the type of alloy steel, for example, silico-manganese steel."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho nhóm 72.17, với những sửa đổi thích hợp, áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to heading 72.17 apply, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7229.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng thép silic-mangan",
+        "en": "Of silico-manganese steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7229.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

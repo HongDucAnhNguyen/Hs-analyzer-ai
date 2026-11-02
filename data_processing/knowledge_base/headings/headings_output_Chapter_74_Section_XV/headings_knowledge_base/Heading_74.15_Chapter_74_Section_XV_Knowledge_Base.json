@@ -1,0 +1,96 @@
+{
+  "heading_id": "74.15",
+  "heading_title": {
+    "vi": "Đinh, đinh bấm, đinh ấn, ghim dập (trừ các loại thuộc nhóm 83.05) và các sản phẩm tương tự, bằng đồng hoặc bằng sắt hoặc thép có đầu bịt đồng; đinh vít, bu lông, đai ốc, đinh móc, đinh tán, chốt hãm, chốt định vị, vòng đệm (kể cả vòng đệm lò xo vênh) và các sản phẩm tương tự, bằng đồng (+).",
+    "en": "Nails, tacks, drawing pins, staples (other than those of heading 83.05) and similar articles, of copper or of iron or steel with heads of copper; screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of copper (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 74.15 bao gồm các sản phẩm lắp ghép bằng đồng như đinh, đinh bấm, ghim dập, đinh vít, bu lông, đai ốc, vòng đệm và các sản phẩm tương tự. Nhóm này cũng áp dụng cho các sản phẩm bằng sắt hoặc thép có đầu bằng đồng. Việc phân loại hàng hóa trong nhóm này tham chiếu đến Chú giải của nhóm 73.17 và 73.18. Các mặt hàng bị loại trừ bao gồm ghim dập thuộc nhóm 83.05 và đế giày thuộc nhóm 74.19. Một chú giải phân nhóm quan trọng định nghĩa rằng thuật ngữ 'đinh vít' tại phân nhóm 7415.33 không bao gồm móc có vít và vòng có vít, chúng được phân loại vào phân nhóm 7415.39.",
+    "en": "Heading 74.15 covers copper fastening articles such as nails, tacks, staples, screws, bolts, nuts, washers, and similar products. This heading also applies to articles of iron or steel with copper heads. The classification of goods in this heading refers to the Explanatory Notes of headings 73.17 and 73.18. Excluded items include staples of heading 83.05 and shoe protectors of heading 74.19. An important subheading note defines that the term 'screw' in subheading 7415.33 does not include screw hooks and screw rings, which are classified in subheading 7415.39."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải nhóm 73.17 và 73.18 áp dụng, với những sửa đổi phù hợp, cho nhóm này, ngoại trừ việc nhóm cũng bao gồm đinh bằng sắt hoặc thép có đầu mũ bằng đồng (sử dụng chủ yếu trong công việc bọc ghế hoặc trang trí).",
+        "en": "The Explanatory Notes to headings 73.17 and 73.18 apply, mutatis mutandis, to this heading, except that the heading also includes copper-headed nails with iron or steel shanks (mainly used in upholstery or ornamental work)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Đế giày có hoặc không các điểm đóng thêm vào bị loại trừ (nhóm 74.19).",
+        "en": "Shoe protectors, with or without affixing points, are excluded (heading 74.19)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm. Phân nhóm 7415.33. Thuật ngữ \"đinh vít\" không bao gồm móc có vít và vòng có vít; chúng được xếp ở phân nhóm 7415.39.",
+        "en": "Subheading Explanatory Note. Subheading 7415.33. The term “screw” does not cover screw hooks and screw rings; these are classified in subheading 7415.39."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7415.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đinh và đinh bấm, đinh ấn, ghim dập và các sản phẩm tương tự",
+        "en": "Nails and tacks, drawing pins, staples and similar articles"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, chưa được ren:",
+        "en": "Other articles, not threaded:"
+      },
+      "subheading_id": "7415.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vòng đệm (kể cả vòng đệm lò xo)",
+        "en": "Washers (including spring washers)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, chưa được ren:",
+        "en": "Other articles, not threaded:"
+      },
+      "subheading_id": "7415.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, đã được ren:",
+        "en": "Other threaded articles:"
+      },
+      "subheading_id": "7415.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đinh vít; bu lông và đai ốc",
+        "en": "Screws; bolts and nuts"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, đã được ren:",
+        "en": "Other threaded articles:"
+      },
+      "subheading_id": "7415.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

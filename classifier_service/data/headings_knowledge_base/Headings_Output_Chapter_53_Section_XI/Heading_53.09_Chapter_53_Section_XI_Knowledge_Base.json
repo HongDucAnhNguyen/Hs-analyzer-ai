@@ -1,0 +1,70 @@
+{
+  "heading_id": "53.09",
+  "heading_title": {
+    "vi": "Vải dệt thoi từ sợi lanh.",
+    "en": "Woven fabrics of flax."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các vải dệt thoi làm từ sợi lanh, như đã định nghĩa tại Phần (I) (c) của Chú giải tổng quát Phần XI. Các loại vải này bao gồm nguyên liệu làm quần áo lót phụ nữ và váy áo, ga trải giường, khăn trải bàn, bọc đệm, bao tải, vải bạt, buồm. Nhóm này loại trừ băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05).",
+    "en": "This heading covers woven fabrics made of flax yarn, as defined in Part (I) (c) of the General Explanatory Note to Section XI. These fabrics include fine lingerie and dress materials, materials for sheets, table linen, mattress covers, sacks, tarpaulins, sails, etc. Bandages, medicated or put up for retail sale, are excluded (heading 30.05)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các vải dệt thoi (như đã định nghĩa tại Phần (I) (c) của Chú giải tổng quát Phần XI) được làm từ sợi lanh.\nNhững loại vải này bao gồm những nguyên liệu tốt làm quần áo lót phụ nữ và váy áo, các nguyên liệu dùng làm ga trải giường, khăn trải bàn,... Vải lanh cũng dùng làm bọc đệm, bao tải, vải bạt, buồm,...\nBăng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05) bị loại trừ khỏi nhóm này.",
+        "en": "This heading covers woven fabrics (as defined in Part (I) (c) of the General Explanatory Note to Section XI) made of flax yarn.\nThese fabrics include fine lingerie and dress materials, materials for sheets, table linen, etc. Linen fabrics are also used for mattress covers, sacks, tarpaulins, sails, etc.\nBandages, medicated or put up for retail sale, are excluded (heading 30.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng lanh chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "Containing 85 % or more by weight of flax:"
+      },
+      "subheading_id": "5309.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng lanh chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "Containing 85 % or more by weight of flax:"
+      },
+      "subheading_id": "5309.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng lanh chiếm dưới 85% tính theo khối lượng:",
+        "en": "Containing less than 85 % by weight of flax:"
+      },
+      "subheading_id": "5309.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng lanh chiếm dưới 85% tính theo khối lượng:",
+        "en": "Containing less than 85 % by weight of flax:"
+      },
+      "subheading_id": "5309.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

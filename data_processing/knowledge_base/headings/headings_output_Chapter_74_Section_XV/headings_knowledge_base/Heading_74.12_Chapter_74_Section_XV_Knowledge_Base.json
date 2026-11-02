@@ -1,0 +1,46 @@
+{
+  "heading_id": "74.12",
+  "heading_title": {
+    "vi": "Phụ kiện để ghép nối của ống hoặc ống dẫn bằng đồng (ví dụ, khớp nối đôi, nối khuỷu, măng sông).",
+    "en": "Copper tube or pipe fittings (for example, couplings, elbows, sleeves)."
+  },
+  "summary": {
+    "vi": "Nhóm 74.12 bao gồm các phụ kiện ghép nối ống hoặc ống dẫn bằng đồng như khớp nối, nối khuỷu, măng sông. Việc phân loại hàng hóa trong nhóm này áp dụng tương tự theo Chú giải chi tiết của nhóm 73.07. Nhóm này loại trừ các sản phẩm như bu lông, đai ốc dùng để cố định ống (nhóm 74.15) và các loại ống nối đã được lắp ghép với vòi, van (nhóm 84.81).",
+    "en": "Heading 74.12 covers copper tube or pipe fittings, such as couplings, elbows, and sleeves. The classification of goods in this heading applies mutatis mutandis the Explanatory Note to heading 73.07. This heading excludes products like bolts and nuts for fixing tubes (heading 74.15) and fittings assembled with taps or valves (heading 84.81)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải chi tiết của nhóm 73.07 được áp dụng tương tự cho nhóm này. Nhóm này không bao gồm: (a) Bu lông và đai ốc sử dụng để lắp ráp hoặc cố định ống và ống dẫn (nhóm 74.15); (b) Ống nối lắp ghép với vòi nước, van (nhóm 84.81).",
+        "en": "The Explanatory Note to heading 73.07 applies, mutatis mutandis, to this heading. This heading does not cover: (a) Bolts and nuts used for assembling or fixing pipes or tubes (heading 74.15); (b) Fittings with taps, cocks, valves, etc. (heading 84.81)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7412.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bằng đồng tinh luyện",
+        "en": "Of refined copper"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7412.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bằng hợp kim đồng",
+        "en": "Of copper alloys"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "heading_id": "29.29",
+  "heading_title": {
+    "vi": "Hợp chất chức nitơ khác.",
+    "en": "Compounds with other nitrogen function."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các hợp chất chức nitơ khác như isoxyanat, isoxyanit, azit của axit carboxylic, dẫn xuất amit và imit thay thế hữu cơ của axit vô cơ (trừ axit cacbonic), canxixyclamat, octamethylpyrophosphoramide (OMPA), dimethylnitrosamine, methyltrinitrophenylnitramine (tetryl), và nitroguanidine. Nhóm này không bao gồm poly (metylen phenylisoxyanat) (MDI thô hoặc polyme MDI) được phân loại vào nhóm 39.09.",
+    "en": "This heading covers compounds with other nitrogen functions such as isocyanates, isocyanides, azides of carboxylic acids, organic-substituted amide and imide derivatives of inorganic acids (other than carbonic acid), calcium cyclamate, octamethylpyrophosphoramide (OMPA), dimethylnitrosamine, methyltrinitrophenylnitramine (tetryl), and nitroguanidine. It excludes poly(methylene phenyl isocyanate) (crude MDI or polymeric MDI), which is classified under heading 39.09."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Isoxyanat: Bao gồm các hóa chất isoxyanat đơn và đa chức. Isoxyanat với 2 chức trở lên, như là metylendiphenylisoxyanat(MDI), hexametylen diisoxyanat(HDI), toluendiisoxyanat(TDI) và toluendiisoxyanatdimer, được sử dụng rộng rãi trong sản xuất polyurethan.\nNhóm này không bao gồm poly (metylen phenylisoxyanat) (MDI thô hoặc polyme MDI) (nhóm 39.09).\n(2) Isoxyanit (carbylamine).\n(3) Azít của axit carboxylic.\n(4) Dẫn xuất amit thay thế hữu cơ của axit vô cơ (trừ axit cacbonic) và dẫn xuất imit thay thế hữu cơ của axit vô cơ.\n(5) Canxixyclamat (canxicyclohexylsulphanat).\n(6) Octamethylpyrophosphoramide (OMPA).\n(7) Dimethylnitrosamine.\n(8) Methyltrinitrophenylnitramine (tetryl),… Được dùng như chất nổ.\n(9) Nitroguanidine. Chất nổ.",
+        "en": "This heading includes:\n(1) Isocyanates: This group of chemicals includes mono- and polyfunctional isocyanates. Isocyanates with di- or higher functionality, such as methylene diphenyl isocyanate (MDI), hexamethylene diisocyanate (HDI), toluene diisocyanate (TDI) and toluene diisocyanate dimer, are used extensively in the manufacture of polyurethanes.\nThis heading excludes poly(methylene phenyl isocyanate) (crude MDI or polymeric MDI) (heading 39.09).\n(2) Isocyanides (carbylamines).\n(3) Azides of carboxylic acids.\n(4) Organic-substituted amide derivatives of inorganic acids (other than carbonic acid) and organic-substituted imide derivatives of inorganic acids.\n(5) Calcium cyclamate (calcium cyclohexylsulphamate).\n(6) Octamethylpyrophosphoramide (OMPA).\n(7) Dimethylnitrosamine.\n(8) Methyltrinitrophenylnitramine (tetryl), etc. Used as an explosive.\n(9) Nitroguanidine. Explosive."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2929.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Isocyanates",
+        "en": "Isocyanates"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2929.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

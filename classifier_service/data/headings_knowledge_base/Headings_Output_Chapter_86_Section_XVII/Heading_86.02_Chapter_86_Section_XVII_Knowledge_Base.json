@@ -1,0 +1,60 @@
+{
+  "heading_id": "86.02",
+  "heading_title": {
+    "vi": "Đầu máy di chuyển trên đường ray khác; toa tiếp liệu đầu máy.",
+    "en": "Other rail locomotives; locomotive tenders"
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại đầu máy đường sắt (ví dụ: động cơ hơi nước, động cơ diesel, tua bin khí, v.v.) và toa tiếp liệu đầu máy. Nhóm này không bao gồm các đầu máy được cấp nguồn điện từ bên ngoài hoặc bằng ắc quy điện (nhóm 86.01). Nhóm này cũng loại trừ các xe kéo được chế tạo để di chuyển trên cả đường bộ và đường sắt (nhóm 87.01).",
+    "en": "This heading covers all types of rail locomotives (e.g., steam engine, diesel engine, gas turbine, etc.) and locomotive tenders. It does not cover locomotives powered from an external source of electricity or by electric accumulators (heading 86.01). It also excludes tractors constructed to travel on both road and rail (heading 87.01)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) ĐẦU MÁY (xe lửa)\nNhóm này bao gồm tất cả các đầu máy đường sắt trừ loại được cung cấp nguồn điện từ bên ngoài hoặc từ các ắc quy điện (nhóm 86.01) không phụ thuộc vào lọai động cơ (động cơ hơi nước, động cơ diesel, tua bin khí, động cơ xăng, máy khí nén v.v ..).\nLoại này bao gồm:\n(1) Các đầu máy điêzen của ba loại sau:\n(a) Các đầu máy điện - diesel trong đó động cơ diesel cung cấp năng lượng cho một máy phát điện từ đó nguồn điện sinh ra cung cấp năng lượng cho các các động cơ kéo các bánh xe.\n(b) Các đầu máy thuỷ lực - diesel trong đó năng lượng của động cơ diesel được truyền đến các bánh xe bởi một hệ thống thuỷ lực.\n(c) Các đầu máy cơ - diesel, trong đó năng lượng của động cơ diesel tác động lên bánh xe thông qua một ly hợp hoặc ngẫu lực thuỷ lực và một hộp số.\n(2) Các đầu máy hơi nước các loại, kể cả các đầu máy có tua bin sử dụng một động cơ điện để khởi động, các đầu máy có mang két nước và các đầu máy không có lò lửa, ví dụ, những loại này lắp bồn chứa hơi thay vì nồi đun tạo hơi mà bồn hơi này được nạp hơi từ một thiết bị công nghiệp.\nNhóm này bao gồm một số đầu máy xe lửa có công suất vừa phải không có giá chuyển hướng và thường được gắn chỉ với hai trục dẫn động. Chúng chủ yếu được sử dụng ở các ga tàu hoả để di chuyển các toa xe goòng và các phương tiện công nghiệp được nối với đường sắt.",
+        "en": "(A) LOCOMOTIVES\nThis group covers all types of rail locomotives other than those powered from an external source of electricity or by electric accumulators (heading 86.01) whatever the type of power unit (steam engine, diesel engine, gas turbine, petrol engine, pneumatic power engine, etc).\nThese include :\n(1) Diesel locomotives which are of three types :\n(a) Diesel-electric locomotives in which the diesel engine drives a generator to produce electricity which in turn powers traction motors driving the wheels.\n(b) Diesel-hydraulic locomotives in which power from a diesel engine is transmitted to the wheels using a hydraulic system.\n(c) Diesel-mechanical locomotives where power from the diesel engine reaches the wheels through a clutch or fluid flywheel and gear box.\n(2) Steam locomotives of all types, including turbine locomotives using an electric drive, tank locomotives and fireless locomotives, i.e., those fitted with a steam reservoir instead of a boiler which is charged from an industrial plant.\nThe heading includes certain locomotives of moderate power which are not equipped with bogies and are usually fitted with only two driving axles. They are mainly used in stations for moving wagons and by industrial facilities connected with railways."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(B) TOA TIẾP LIỆU\nToa tiếp liệu là phương tiện, được móc vào các đầu máy hơi nuớc, chúng chở nước và nhiên liệu cần thiết cho hoạt động của nồi hơi. Chúng bao gồm chủ yếu một khung được chở trên hai hoặc nhiều trục và một siêu cấu trúc kim loại bao gồm một chiếc bể đựng nước kín và một hầm chứa than đá hoặc bể chứa dầu FO.",
+        "en": "(B) LOCOMOTIVE TENDERS\nLocomotive tenders are vehicles, coupled to steam locomotives, which carry the water and fuel required for the boiler. They consist essentially of a frame carried on two or more axles and a sheet metal superstructure comprising a closed tank for water and a coal bunker or fuel-oil tank."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các xe kéo được chế tạo để có thể vừa di chuyển trên đường ray và cả trên đường bộ được loại trừ khỏi nhóm này (nhóm 87.01).",
+        "en": "Tractors constructed to travel on both road and rail are excluded (heading 87.01)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8602.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Đầu máy diesel truyền động điện.",
+        "en": "- Diesel-electric locomotives"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8602.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

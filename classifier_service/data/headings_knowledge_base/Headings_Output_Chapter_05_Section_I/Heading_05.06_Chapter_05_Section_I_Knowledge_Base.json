@@ -1,0 +1,60 @@
+{
+  "heading_id": "05.06",
+  "heading_title": {
+    "vi": "Xương và lõi sừng, chưa xử lý, đã khử mỡ, sơ chế (nhưng chưa cắt thành hình), đã xử lý bằng axit hoặc khử gelatin; bột và phế liệu từ các sản phẩm trên.",
+    "en": "Bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised; powder and waste of these products."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm xương và lõi sừng ở các dạng: chưa xử lý, đã khử mỡ, sơ chế (nhưng chưa cắt thành hình), xử lý bằng axit (ossein) hoặc khử gelatin, cũng như bột và phế liệu của chúng. Các sản phẩm này chủ yếu dùng làm nguyên liệu chạm khắc, sản xuất hồ dán, gelatin hoặc làm phân bón. Nhóm này không bao gồm các tấm, mảnh hình chữ nhật và các hình dạng khác đã được gia công thêm, hoặc các sản phẩm đúc từ bột xương, chúng thuộc nhóm 96.01 hoặc các nhóm chi tiết hơn.",
+    "en": "This heading covers bones and horn-cores in various forms: unworked, defatted, simply prepared (but not cut to shape), treated with acid (ossein), or degelatinised, as well as their powder and waste. These products are mainly used as carving materials, for the manufacture of glue and gelatin, or as fertilizers. The heading excludes rectangular plates, sheets, and other shapes that have been further worked, or products obtained by moulding powdered bone, which fall in heading 96.01 or other more specific headings."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những sản phẩm của nhóm này chủ yếu dùng làm nguyên liệu chạm khắc, để sản xuất hồ dán và gelatin hoặc làm phân bón.",
+        "en": "The products of this heading are used mainly as carving materials, for the manufacture of glue and gelatin or as fertilisers."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm:\n(1) Xương và lõi sừng (xương trong của sừng), chưa xử lý hoặc đã khử mỡ (xương loại bỏ mỡ bằng nhiều cách chế biến khác nhau).\n(2) Xương sơ chế (nhưng không cắt thành hình), tức là xương chưa qua quá trình gia công ngoài việc cưa đơn giản để loại bỏ những phần thừa, cắt (cắt khúc hoặc xẻ dọc), đôi khi được bào thô hoặc tẩy trắng. Bởi vậy, nhóm này không bao gồm những tấm và mảnh hình chữ nhật (kể cả hình vuông) và những hình khác, đã hoặc chưa đánh bóng hoặc xử lý cách khác, và những sản phẩm hình thành từ việc đúc khuôn bột xương; tất cả các sản phẩm này thuộc nhóm 96.01 hoặc ở các nhóm khác chi tiết hơn.\n(3) Xương xử lý bằng axit, tức là xương mà phần vôi được hoà tan bằng axit clohydric, nhưng không bị mất đi hình dạng ban đầu và chỉ giữ lại mô tế bào và phần sụn (ossein), phần này có thể dễ dàng chuyển thành chất gelatin.",
+        "en": "The heading covers:\n(1) Bones and horn-cores (inner bones of horns), unworked or defatted (bones from which the fat has been removed by various processes).\n(2) Bones, simply prepared (but not cut to shape), i.e., not having undergone processes extending beyond simple sawing for the removal of superfluous parts, cutting (crosswise or lengthwise), sometimes followed by rough planing or bleaching. The heading therefore excludes rectangular (including square) plates and sheets and other shapes, whether or not polished or otherwise worked, and products obtained by moulding powdered bone: all these goods fall in heading 96.01 or in other more specific headings.\n(3) Bones treated with acid, i.e., bones, the calcareous part of which has been dissolved by means of hydrochloric acid, and which, without having lost their original form, retain only their cellular tissue and cartilaginous parts (ossein) which can be easily transformed into gelatin."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(4) Xương khử gelatin là xương đã loại bỏ chất hữu cơ gelatin bằng cách làm chín bằng hơi và thường ở dạng bột (bột xương hấp).\n(5) Bột và phế liệu từ xương (bao gồm cả xương nghiền nhỏ), ví dụ phần sinh ra từ quá trình xử lý xương.",
+        "en": "(4) Degelatinised bones from which the gelatin has been removed by steaming and which are usually in the form of powder (steam bone flour).\n(5) Powder and waste of bones (including crushed bones), e.g., that produced by working the bone."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0506.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ossein và xương đã xử lý bằng axit",
+        "en": "Ossein and bones treated with acid"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0506.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

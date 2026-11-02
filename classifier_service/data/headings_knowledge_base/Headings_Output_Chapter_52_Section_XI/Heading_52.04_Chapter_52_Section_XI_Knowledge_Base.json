@@ -1,0 +1,58 @@
+{
+  "heading_id": "52.04",
+  "heading_title": {
+    "vi": "Chỉ khâu làm từ bông đã hoặc chưa đóng gói để bán lẻ.",
+    "en": "Cotton sewing thread, whether or not put up for retail sale."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm chỉ khâu làm từ bông theo các dạng và điều kiện được mô tả trong Phần (I) (B) (4) của Chú giải Tổng quát Phần XI. Tuy nhiên, nhóm này loại trừ chỉ khâu thuộc định nghĩa của sợi xe, v.v... như nêu tại Phần (I) (B) (2) của Chú giải Tổng quát Phần XI (được phân loại vào nhóm 56.07). Chỉ khâu thuộc nhóm này có thể đã hoặc chưa đóng gói để bán lẻ hoặc đã được gia công theo Phần (I) (B) (1) của Chú giải Tổng quát Phần XI.",
+    "en": "This heading covers cotton sewing thread in the forms and subject to the conditions described in Part (I) (B) (4) of the General Explanatory Note to Section XI. However, if such thread is within the definition of twine, etc. (see Part (I) (B) (2) of the General Explanatory Note to Section XI) it is excluded (heading 56.07). Sewing thread remains in this heading whether or not put up for retail sale or processed as indicated in Part (I) (B) (1) of the General Explanatory Note to Section XI."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm chỉ khâu làm từ bông ở các dạng và phù hợp với điều kiện đã được mô tả trong Phần (I) (B) (4) của Chú giải Tổng quát Phần XI.\nTuy nhiên, nếu sợi chỉ nằm trong phạm vi định nghĩa của sợi xe, v.v... (xem Phần (1) (B) (2) của Chú giải Tổng quát thuộc Phần XI) thì bị loại khỏi nhóm này - (nhóm 56.07).\nChỉ khâu vẫn thuộc nhóm này dù đã được hay chưa được đóng gói để bán lẻ hay đã được gia công như nêu tại Phần (I) (B) (1) của Chú giải Tổng quát Phần XI.",
+        "en": "This heading covers cotton sewing thread in the forms and subject to the conditions described in Part (I) (B) (4) of the General Explanatory Note to Section XI.\nHowever, if such thread is within the definition of twine, etc. (see Part (I) (B) (2) of the General Explanatory Note to Section XI) it is excluded (heading 56.07).\nSewing thread remains in this heading whether or not put up for retail sale or processed as indicated in Part (I) (B) (1) of the General Explanatory Note to Section XI."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa đóng gói để bán lẻ:",
+        "en": "Not put up for retail sale:"
+      },
+      "subheading_id": "5204.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có tỷ trọng bông từ 85% trở lên",
+        "en": "- - Containing 85 % or more by weight of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa đóng gói để bán lẻ:",
+        "en": "Not put up for retail sale:"
+      },
+      "subheading_id": "5204.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5204.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Đã đóng gói để bán lẻ",
+        "en": "- Put up for retail sale"
+      }
+    }
+  ]
+}

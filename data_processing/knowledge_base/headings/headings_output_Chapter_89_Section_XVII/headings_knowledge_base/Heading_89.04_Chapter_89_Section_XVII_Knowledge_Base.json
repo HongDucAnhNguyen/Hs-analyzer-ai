@@ -1,0 +1,49 @@
+{
+  "heading_id": "89.04",
+  "heading_title": {
+    "vi": "Tàu kéo và tàu đẩy.",
+    "en": "Tugs and pusher craft."
+  },
+  "summary": {
+    "vi": "Nhóm 89.04 chuyên phân loại tàu kéo và tàu đẩy. Nhóm này bao gồm hai loại chính: (A) Tàu kéo, được thiết kế để kéo các tàu khác trên biển hoặc đường thủy nội địa, có đặc điểm thân tàu cứng, động cơ mạnh. (B) Tàu đẩy, được thiết kế để đẩy sà lan, với mũi tàu dẹt và buồng lái đặt trên cao. Ngoài ra, nhóm còn bao gồm cả tàu lai đẩy ('pusher-tugs') kết hợp cả hai chức năng kéo và đẩy. Các tàu kéo dùng để hỗ trợ tàu bị nạn cũng thuộc phạm vi của nhóm này. Một đặc điểm quan trọng của các tàu thuyền thuộc nhóm này là chúng không được thiết kế để vận chuyển người hoặc hàng hóa. Mặc dù chúng có thể được trang bị các thiết bị phụ trợ như chữa cháy hoặc bơm, các tàu thuyền cứu hỏa chuyên dụng (fire-floats) bị loại trừ và được phân loại vào nhóm 89.05.",
+    "en": "Heading 89.04 specifically classifies tugs and pusher craft. This heading includes two main types: (A) Tugs, designed for towing other vessels at sea or on inland waterways, characterized by strengthened hulls and powerful engines. (B) Pusher craft, designed for pushing barges, featuring a snub bow and an elevated wheelhouse. Additionally, the heading covers 'pusher-tugs' that combine both towing and pushing functions. Tugs designed to assist ships in distress also fall within the scope of this heading. A key characteristic of vessels in this heading is that they are not designed for the transport of persons or goods. Although they may be fitted with auxiliary equipment like firefighting or pumping systems, specialized fire-floats are excluded and are classified under heading 89.05."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) Tàu kéo, là những tàu thiết kế chủ yếu để kéo các tàu khác. Chúng có thể thuộc loại dùng trên biển hoặc trên đường thủy nội địa. Chúng có thể phân biệt với các tàu khác nhờ thân tàu có hình dáng đặc biệt và vỏ tàu cứng, động cơ mạnh không tỷ lệ với kích cỡ của con thuyền và có nhiều đầu nối trên boong được thiết kế để mang thừng, cáp kéo, v.v...",
+        "en": "(A) Tugs. These are vessels primarily designed for towing other craft. They may be of the type used for sea or for inland navigation. They are distinguishable from other vessels by their specially shaped and strengthened hulls, by their powerful engines disproportionate to the size of the vessel, and by various deck fittings designed to carry a tow rope, hawser, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) Tàu đẩy, là những tàu được thiết kế đặc biệt để đẩy các sà lan... Chúng có đặc điểm chủ yếu là mũi tàu dẹt (để đẩy) và buồng lái đặt trên cao (có thể là kiểu ống lồng).",
+        "en": "(B) Pusher craft. These are vessels specially designed for pushing barges, lighters, etc. They are mainly distinguished by a snub bow (for pushing) and an elevated wheel house (which may be telescopic)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm các tàu lai đẩy (“pusher-tugs”) được thiết kế để vừa là tàu đẩy, vừa là tàu kéo; Giống như tàu đẩy, chúng có mũi dẹt, nhưng đuôi lại được làm nghiêng về phía sau để chúng có thể rẽ nước và kéo sà lan,..",
+        "en": "The heading also covers “pusher-tugs” designed for use both as pusher craft and as tugs. Like pusher craft they have a snub bow, but the stern is raked so that they can make way in that direction and tow barges, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các tàu kéo được thiết kế để giúp các tàu bị nạn, cũng thuộc Nhóm này.",
+        "en": "Tugs designed to assist ships in distress, are also covered by this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các tàu thuyền thuộc nhóm này không được thiết kế để vận chuyển người hoặc hàng hoá. Chúng có thể trang bị thiết bị chuyên dụng, để chữa cháy, bơm, sấy hàng hoá, v.v... Tuy nhiên, thiết kế để vận chuyển người hoặc hàng hoá. Chúng có thể trang bị thiết bị chuyên dụng, để chữa cháy, bơm, sấy hàng hoá, v.v... Tuy nhiên tàu thuyền cứu hoả thì bị loại trừ (nhóm 89.05).",
+        "en": "The vessels of this heading are not designed for the transport of persons or goods. They may be fitted with specialised auxiliary equipment for fire-fighting, pumping, cargo heating, etc. However, fire-floats are excluded (heading 89.05)."
+      }
+    }
+  ],
+  "subheadings": []
+}

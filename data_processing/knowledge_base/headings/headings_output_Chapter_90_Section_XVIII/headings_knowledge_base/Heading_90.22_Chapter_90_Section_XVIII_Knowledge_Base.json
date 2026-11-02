@@ -1,0 +1,146 @@
+{
+  "heading_id": "90.22",
+  "heading_title": {
+    "vi": "Thiết bị sử dụng tia X hoặc tia phóng xạ alpha, beta, gamma hoặc các bức xạ ion hóa khác, có hoặc không dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y, kể cả thiết bị chụp hoặc thiết bị điều trị bằng các tia đó, ống phát tia X và thiết bị tạo tia X khác, thiết bị tạo tia cường độ cao, bảng và bàn điều khiển, màn hình, bàn, ghế và các loại tương tự, dùng để khám hoặc điều trị (+).",
+    "en": "Apparatus based on the use of X-rays or of alpha, beta, gamma or other ionising radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus, X-ray tubes and other X-ray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các thiết bị hoạt động dựa trên tia X hoặc các bức xạ ion hóa khác như alpha, beta, gamma, dùng cho nhiều mục đích khác nhau. Các thiết bị này được chia thành ba loại chính: (I) Thiết bị sử dụng tia X, (II) Thiết bị sử dụng bức xạ alpha, beta, hoặc gamma, và (III) Các thành phần và phụ kiện liên quan. Thiết bị tia X được dùng trong chẩn đoán (máy soi, máy chụp), trị liệu (điều trị khối u), và công nghiệp (kiểm tra vật liệu, luyện kim). Thiết bị bức xạ alpha, beta, gamma bao gồm các máy trị liệu (dùng radium, cobalt phóng xạ), máy kiểm tra công nghiệp, và các dụng cụ đo lường như máy đo độ dày. Nhóm này cũng bao gồm các bộ phận thiết yếu như ống phát tia X, thiết bị tạo tia cường độ cao, bảng điều khiển, màn hình, và bàn ghế chuyên dụng. Các bộ phận và phụ kiện chuyên dụng cũng thuộc nhóm này, trừ các loại quần áo bảo hộ (nhóm 40.15), kính bảo hộ (nhóm 90.04), kim radium (Chương 28), phim ảnh (Chương 37), và các dụng cụ đo lường bức xạ độc lập (nhóm 90.30).",
+    "en": "This heading covers apparatus based on the use of X-rays or other ionizing radiations like alpha, beta, and gamma, for various purposes. These apparatus are divided into three main categories: (I) Apparatus based on X-rays, (II) Apparatus based on alpha, beta, or gamma radiations, and (III) Related components and accessories. X-ray apparatus is used for diagnosis (radioscopic, radiographic), therapy (tumor treatment), and industrial applications (material testing, metallurgy). Apparatus using alpha, beta, or gamma radiation includes therapy devices (using radium, radio-cobalt), industrial examination equipment, and measuring instruments like thickness gauges. The heading also includes essential components such as X-ray tubes, high tension generators, control panels, screens, and specialized tables and chairs. Specialized parts and accessories are also classified here, excluding protective clothing (heading 40.15), protective goggles (heading 90.04), radium needles (Chapter 28), photographic film (Chapter 37), and standalone radiation measurement instruments (heading 90.30)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(I) THIẾT BỊ SỬ DỤNG TIA X: Yếu tố cơ bản là bộ phận chứa ống phát tia X, được cấp điện từ thiết bị chuyên dụng. Cấu trúc thay đổi theo mục đích sử dụng:\n(A) Máy tia X để chẩn đoán: Bao gồm (1) Máy soi tia X (phép nghiệm huỳnh quang) tạo bóng trên màn hình; (2) Máy chụp tia X ghi lại hình ảnh trên phim hoặc tấm kính ảnh; (3) Thiết bị kết hợp máy tia X và máy ảnh chuyên dụng để chụp ảnh từ màn hình tia X (máy ảnh trình bày riêng thuộc nhóm 90.06).\n(B) Máy trị liệu bằng tia X: Dùng để điều trị bệnh về da hoặc khối u, phân loại thành liệu pháp bề mặt hoặc liệu pháp xuyên sâu.\n(C) Thiết bị tia X dùng trong công nghiệp: Ứng dụng trong luyện kim (phát hiện khiếm khuyết), kỹ thuật (kiểm tra lắp ráp), công nghiệp điện (kiểm tra cáp), công nghiệp cao su (kiểm tra lốp xe), và đo lường độ dày vật liệu.",
+        "en": "(I) APPARATUS BASED ON THE USE OF X-RAYS: The fundamental element is the unit containing the X-ray tube, fed by special equipment. Structural characteristics vary by use:\n(A) X-ray apparatus used in diagnosis: Includes (1) Radioscopic (fluoroscopic) apparatus casting a shadow on a screen; (2) Radiographic apparatus recording an image on a photographic plate or film; (3) Apparatus combining an X-ray unit and a specialized camera to photograph the image on an X-ray screen (separately presented cameras are classified in heading 90.06).\n(B) Radiotherapy apparatus: Used for treating skin diseases or tumors, known as “superficial” or “deep” therapy.\n(C) X-ray apparatus for industrial use: Applications in metallurgy (locating blisters), engineering (checking assemblies), electrical industry (checking cables), rubber industry (checking tyres), and measuring material thickness."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Thiết bị tia X công nghiệp có thể được trang bị bộ phối hợp và thiết bị hỗ trợ riêng. Nhóm này cũng bao gồm:\n(1) Thiết bị đặc biệt (máy nhiễu xạ kế tia X, phổ kế tia X) để phân tích cấu trúc tinh thể và hóa học.\n(2) Thiết bị soi tia X để kiểm tra tiền giấy hoặc chứng từ.\n(II) CÁC THIẾT BỊ SỬ DỤNG BỨC XẠ ALPHA, BETA, HOẶC GAMMA: Bức xạ phát ra từ chất phóng xạ trong một vật chứa (bom). Các loại bao gồm:\n(1) Thiết bị trị liệu sử dụng radium, cobalt phóng xạ hoặc đồng vị phóng xạ khác.\n(2) Thiết bị kiểm tra phóng xạ công nghiệp để kiểm tra các bộ phận kim loại.\n(3) Thiết bị có dụng cụ đo như máy đo độ dày bằng tia beta và gamma, máy kiểm tra bên trong thùng hàng, hoặc tốc phong kế ion hoá.\n(4) Máy báo động cháy có thiết bị phát hiện khói chứa chất phóng xạ.\nLoại trừ: Dụng cụ chỉ dùng để đo hoặc phát hiện bức xạ mà không có nguồn phóng xạ (nhóm 90.30).\n(III) ỐNG PHÁT TIA X VÀ CÁC THIẾT BỊ LIÊN QUAN: Bao gồm (A) Ống phát tia X, thiết bị biến đổi năng lượng điện thành tia X.",
+        "en": "Industrial X-ray apparatus may be equipped with particular adaptors and ancillary equipment. The heading also covers:\n(1) Special apparatus (X-ray diffraction and spectrometry equipment) for examining crystalline structure and chemical composition.\n(2) Apparatus for radioscopic examination of banknotes or other documents.\n(II) APPARATUS BASED ON THE USE OF ALPHA, BETA OR GAMMA RADIATIONS: Radiation emanates from a radioactive substance in a container (bomb). Types include:\n(1) Therapy apparatus using radium, radio-cobalt or other radioactive isotopes.\n(2) Apparatus for radiological examinations in industry for checking metal parts.\n(3) Apparatus with a measuring instrument such as beta and gamma ray thickness gauges, apparatus for monitoring package contents, or ionisation anemometers.\n(4) Fire alarms incorporating smoke detectors containing a radioactive substance.\nExclusion: Instruments which merely measure or detect radiation and do not incorporate a radioactive source (heading 90.30).\n(III) X-RAY TUBES AND RELATED APPARATUS: Includes (A) X-ray tubes, devices that transform electrical energy into X-rays."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Tiếp tục (III):\n(A) Ống phát tia X: Gồm catốt và mục tiêu (cực dương) trong một ống thủy tinh, thường là chân không cao. Loại trừ vỏ thủy tinh cho ống tia X (nhóm 70.11).\n(B) Các thiết bị phát tia X khác: Ví dụ, thiết bị có máy gia tốc cảm ứng (betatron). Loại trừ các máy gia tốc điện tử không dùng để tạo tia X (nhóm 85.43).\n(C) Màn hình tia X: Màn hình huỳnh quang, gồm cả màn hình tăng cường.\n(D) Thiết bị tạo tia X cường độ cao: Các máy chuyên dụng cho thiết bị tia X.\n(E) Bảng và bàn điều khiển tia X: Các loại chuyên dụng cho thiết bị tia X.\n(F) Bàn, ghế khám hoặc điều trị: Các loại chuyên dụng cho công việc liên quan đến tia X. Loại trừ bàn ghế không chuyên dụng (thường thuộc nhóm 94.02).\nNhóm này cũng bao gồm các cột thu lôi dựa trên nguyên tắc phóng xạ.",
+        "en": "Continuation of (III):\n(A) X-ray tubes: Consist of a cathode and a target (anode) in a glass container, usually high-vacuum. Excludes glass envelopes for X-ray tubes (heading 70.11).\n(B) Other X-ray producing apparatus: For example, apparatus incorporating a betatron. Excludes electron accelerators not adapted for X-ray production (heading 85.43).\n(C) X-ray screens: Fluorescent screens, including intensifying screens.\n(D) X-ray high tension generators: Those specialized for use with X-ray apparatus.\n(E) X-ray control panels and desks: Those specialized for use with X-ray apparatus.\n(F) Examination or treatment tables, chairs: Those specialized for X-ray work. Excludes non-specialised tables and chairs (usually heading 94.02).\nThis heading also includes lightning arresters based on the principle of radioactivity."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "CÁC BỘ PHẬN VÀ PHỤ KIỆN: Theo Chú giải 1 và 2 của Chương, các bộ phận và phụ kiện chuyên dùng cho thiết bị tia X được phân loại ở đây. Ví dụ: (1) Chất gắn (thiết bị định vị); (2) Dụng cụ chỉnh tâm sáng; (3) Bao bảo vệ; (4) Màn hay tấm chắn bảo vệ.\nLoại trừ: Thiết bị bảo vệ đeo cho người như áo choàng, găng tay cao su dát chì (nhóm 40.15), kính bảo hộ bằng thủy tinh pha chì (nhóm 90.04).\nLoại trừ khác của nhóm này: (a) Kim radium và các vật chứa chất phóng xạ khác (Chương 28); (b) Tấm và phim ảnh (Chương 37); (c) Ống hoặc van nắn dòng (nhóm 85.40); (d) Thiết bị rửa và kiểm tra âm bản (nhóm 90.08 hoặc 90.10); (e) Thiết bị y tế dùng tia cực tím hoặc hồng ngoại (nhóm 90.18); (f) Dụng cụ đo hay phát hiện phóng xạ độc lập (nhóm 90.30).\nChú giải phân nhóm 9022.12: Bao gồm máy chụp cắt lớp vi tính toàn thân, là hệ thống chẩn đoán bằng X quang điện tử các lớp cắt ngang cơ thể.",
+        "en": "PARTS AND ACCESSORIES: Subject to Notes 1 and 2 to this Chapter, parts and accessories for X-ray apparatus are classified here. Examples: (1) Applicators (“localisers”); (2) Electric incandescent centring devices; (3) Protective casings; (4) Protective screens or shields.\nExclusion: Protective devices worn by the operator such as lead-filled rubber overalls or gloves (heading 40.15), or lead-glass goggles (heading 90.04).\nOther exclusions from the heading: (a) Radium needles and other containers of radioactive materials (Chapter 28); (b) Photographic plates and film (Chapter 37); (c) Rectifying tubes or valves (heading 85.40); (d) Apparatus for developing and examining radiophotographs (heading 90.08 or 90.10); (e) Medical apparatus using ultra-violet or infra-red rays (heading 90.18); (f) Standalone instruments for measuring or detecting radiation (heading 90.30).\nSubheading Explanatory Note 9022.12: Includes whole-body computed tomographs, which are radiodiagnosis systems for electronic body-section radiography."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Tiếp tục Chú giải phân nhóm 9022.12: Các vùng cơ thể được chùm tia X quét qua, và các thiết bị phát hiện sẽ đo lường sự suy giảm của tia X. Dữ liệu này được máy tính xử lý tự động chuyển thành hình ảnh hiển thị trên màn hình, có thể được chụp lại hoặc lưu trữ bằng điện từ.",
+        "en": "Continuation of Subheading Explanatory Note 9022.12: Regions of the body are scanned by an X-ray beam, and detectors measure the varying attenuation of the X-rays. This data is converted by an automatic data processing machine into an image displayed on a monitor, which can be photographed or stored electromagnetically."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị sử dụng tia X, có hoặc không dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y, kể cả thiết bị chụp hoặc thiết bị điều trị bằng tia X:",
+        "en": "- Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:"
+      },
+      "subheading_id": "9022.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Thiết bị chụp cắt lớp điều khiển bằng máy tính",
+        "en": "- - Computed tomography apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị sử dụng tia X, có hoặc không dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y, kể cả thiết bị chụp hoặc thiết bị điều trị bằng tia X:",
+        "en": "- Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:"
+      },
+      "subheading_id": "9022.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác, sử dụng trong nha khoa",
+        "en": "- - Other, for dental uses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị sử dụng tia X, có hoặc không dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y, kể cả thiết bị chụp hoặc thiết bị điều trị bằng tia X:",
+        "en": "- Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:"
+      },
+      "subheading_id": "9022.14",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác, sử dụng cho mục đích y học, phẫu thuật hoặc thú y",
+        "en": "- - Other, for medical, surgical or veterinary uses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị sử dụng tia X, có hoặc không dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y, kể cả thiết bị chụp hoặc thiết bị điều trị bằng tia X:",
+        "en": "- Apparatus based on the use of X-rays, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:"
+      },
+      "subheading_id": "9022.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Cho các mục đích khác",
+        "en": "- - For other uses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị sử dụng tia alpha, beta, gama hoặc các bức xạ ion hóa khác, có hoặc không dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y, kể cả thiết bị chụp hoặc điều trị bằng các loại tia đó:",
+        "en": "- Apparatus based on the use of alpha, beta or gamma or other ionising radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:"
+      },
+      "subheading_id": "9022.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y",
+        "en": "- - For medical, surgical, dental or veterinary uses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị sử dụng tia alpha, beta, gama hoặc các bức xạ ion hóa khác, có hoặc không dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y, kể cả thiết bị chụp hoặc điều trị bằng các loại tia đó:",
+        "en": "- Apparatus based on the use of alpha, beta or gamma or other ionising radiations, whether or not for medical, surgical, dental or veterinary uses, including radiography or radiotherapy apparatus:"
+      },
+      "subheading_id": "9022.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dùng cho các mục đích khác",
+        "en": "- - For other uses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9022.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Ống phát tia X",
+        "en": "- X-ray tubes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9022.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Loại khác, kể cả bộ phận và phụ kiện",
+        "en": "- Other, including parts and accessories"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "heading_id": "62.06",
+  "heading_title": {
+    "vi": "Áo blouse, sơ mi và sơ mi cách điệu (shirt-blouses) dùng cho phụ nữ hoặc trẻ em gái.",
+    "en": "Women’s or girls’ blouses, shirts and shirt-blouses."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại áo của phụ nữ và trẻ em gái không dệt kim hoặc móc, bao gồm áo choàng, áo sơ mi và áo sơ mi cách điệu (xem Chú giải 4 của Chương 62). Nhóm này không bao gồm áo có túi nằm dưới thắt lưng hoặc có dây thắt lưng kẻ gân nổi hoặc các phương tiện khác để thắt ở gấu áo. Ngoài ra, nhóm này loại trừ: (a) Áo may ô và các loại áo lót khác (nhóm 62.08); (b) Quần áo may từ các vải thuộc nhóm 56.02, 56.03, 59.03, 59.06 hoặc 59.07 (nhóm 62.10); (c) Áo khoác ngoài và các loại áo bảo vệ tương tự (nhóm 62.11).",
+    "en": "This heading covers women’s or girls’ clothing, not knitted or crocheted, which comprises blouses, shirts and shirt-blouses (see Note 4 to this Chapter). It does not cover garments with pockets below the waist or with a ribbed waistband or other means of tightening at the bottom of the garment. Furthermore, it excludes: (a) Singlets or other vests (heading 62.08); (b) Garments made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07 (heading 62.10); (c) Smocks or similar protective garments of heading 62.11."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại áo của phụ nữ và trẻ em gái không được dệt kim hoặc móc, bao gồm áo choàng, áo sơ mi và áo sơ mi cách điệu (xem Chú giải 4 của Chương này).\nNhóm này không bao gồm áo các loại có túi nằm ở dưới thắt lưng hoặc có dây thắt lưng kẻ gân nổi hoặc có dây, đai khác thắt ở gấu áo.\nHơn nữa, nhóm này không bao gồm:\n(a) Áo may ô và các loại áo lót khác (nhóm 62.08)\n(b) Quần áo may từ các vải thuộc nhóm 56.02, 56.03, 59.03, 59.06 hoặc 59.07 (nhóm 62.10).\n(c) Áo khoác ngoài và các loại áo bảo vệ tương tự (nhóm 62.11).",
+        "en": "This heading covers the group of women’s or girls’ clothing, not knitted or crocheted, which comprises blouses, shirts and shirt-blouses (see Note 4 to this Chapter).\nThis heading does not cover garments with pockets below the waist or with a ribbed waistband or other means of tightening at the bottom of the garment.\nFurthermore, the heading does not include:\n(a) Singlets or other vests (heading 62.08).\n(b) Garments made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07 (heading 62.10).\n(c) Smocks or similar protective garments of heading 62.11."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6206.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ tơ tằm hoặc phế liệu tơ tằm",
+        "en": "Of silk or silk waste"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6206.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ lông cừu hoặc lông động vật mịn",
+        "en": "Of wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6206.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ bông",
+        "en": "Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6206.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ sợi nhân tạo",
+        "en": "Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6206.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ các vật liệu dệt khác",
+        "en": "Of other textile materials"
+      }
+    }
+  ]
+}

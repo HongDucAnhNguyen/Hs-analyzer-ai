@@ -1,0 +1,70 @@
+{
+  "heading_id": "33.05",
+  "heading_title": {
+    "vi": "Chế phẩm dùng cho tóc.",
+    "en": "Preparations for use on the hair."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các chế phẩm dùng cho tóc. Cụ thể bao gồm: (1) Dầu gội đầu, kể cả loại có chứa dược phẩm phụ trợ hoặc thành phần khử mùi và có chức năng phòng bệnh hoặc chữa bệnh (tham chiếu Chú giải 1(e) Chương 30). Dầu gội có thêm công dụng như xà phòng lỏng, chế phẩm làm sạch da hoặc tạo bọt tắm cũng thuộc nhóm này. (2) Chế phẩm uốn hoặc duỗi tóc. (3) Keo xịt tóc. (4) Các chế phẩm khác như sáp chải tóc, dầu, kem, chất định hình, thuốc nhuộm, chế phẩm tẩy màu tóc, kem nhuộm tóc. Nhóm này không bao gồm các chế phẩm dùng cho lông trên các phần khác của cơ thể người trừ tóc (nhóm 33.07).",
+    "en": "This heading covers preparations for use on the hair. Specifically, it includes: (1) Shampoos, including those containing subsidiary pharmaceutical or disinfectant constituents with therapeutic or prophylactic properties (see Note 1(e) to Chapter 30). Shampoos with additional uses as liquid soap, skin cleaning preparations, or bath foaming preparations are also covered. (2) Preparations for permanent waving or straightening. (3) Hair lacquers (hair sprays). (4) Other hair preparations such as brilliantines, hair oils, creams, dressings, hair dyes, bleaches, and cream-rinses. The heading excludes preparations applied to hair on parts of the human body other than the scalp (heading 33.07)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm có:\n(1) Các loại dầu gội đầu, chứa xà phòng hoặc các chất hữu cơ hoạt động bề mặt khác (xem Chú giải 1(c) của Chương 34), và các loại dầu để gội đầu khác. Toàn bộ các loại dầu gội đầu này có thể chứa dược phẩm phụ trợ hoặc thành phần khử mùi, ngay cả chúng có chức năng phòng bệnh hoặc chữa bệnh (xem Chú giải 1(e) của Chương 30). Dầu gội có chứa xà phòng hoặc các chất hữu cơ hoạt động bề mặt khác mà có thêm công dụng như xà phòng lỏng, chế phẩm làm sạch da hoặc chế phẩm tạo bọt tắm cũng được xếp vào nhóm này.\n(2) Các chế phẩm uốn tóc hoặc duỗi tóc.\n(3) Keo xịt tóc (đôi khi gọi là “keo vuốt tóc”).\n(4) Các chế phẩm dùng cho tóc khác, như là các sáp chải tóc; các loại dầu, các loại kem (pomades) và các chất định hình; các loại thuốc nhuộm tóc và các chế phẩm tẩy màu tóc; kem nhuộm tóc.\nNhóm này không bao gồm các chế phẩm được dùng cho lông trên các phần khác của cơ thể người, trừ loại dùng cho tóc (nhóm 33.07).",
+        "en": "This heading covers:\n(1) Shampoos, containing soap or other organic surface-active agents (see Note 1 (c) to Chapter 34), and other shampoos. All these shampoos may contain subsidiary pharmaceutical or disinfectant constituents, even if they have therapeutic or prophylactic properties (see Note 1 (e) to Chapter 30). Shampoos containing soap or other organic surface-active agents that have additional uses as a liquid soap, skin cleaning preparation or bath foaming preparation are also covered in this heading.\n(2) Preparations for permanent waving or straightening.\n(3) Hair lacquers (sometimes known as “hair sprays”).\n(4) Other hair preparations, such as brilliantines; hair oils, creams (“pomades”) and dressings; hair dyes and bleaches used on the hair; cream-rinses.\nPreparations applied to hair on parts of the human body other than the scalp are excluded (heading 33.07)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3305.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dầu gội đầu",
+        "en": "Shampoos"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3305.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chế phẩm uốn tóc hoặc làm duỗi tóc",
+        "en": "Preparations for permanent waving or straightening"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3305.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Keo xịt tóc (hair lacquers)",
+        "en": "Hair lacquers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3305.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

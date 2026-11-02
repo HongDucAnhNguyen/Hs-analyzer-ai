@@ -1,0 +1,46 @@
+{
+  "heading_id": "87.07",
+  "heading_title": {
+    "vi": "Thân xe (kể cả ca-bin), dùng cho xe có động cơ thuộc các nhóm từ 87.01 đến 87.05",
+    "en": "Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05."
+  },
+  "summary": {
+    "vi": "Nhóm 87.07 phân loại các loại thân xe, bao gồm cả cabin, dành cho các loại xe có động cơ thuộc các nhóm từ 87.01 đến 87.05. Nhóm này áp dụng cho cả thân xe được thiết kế để lắp trên khung gầm riêng biệt và cả loại thân xe liền khối (unibody) tự chịu lực, trong đó một số bộ phận của khung gầm được tích hợp vào thân xe. Các loại thân xe này có thể dùng cho nhiều mục đích khác nhau như xe chở người, xe tải hay xe chuyên dụng, được làm từ các vật liệu như thép, hợp kim nhẹ, gỗ hoặc nhựa. Mức độ hoàn thiện của thân xe có thể từ trang bị đầy đủ nội thất và phụ kiện như bảng khí cụ, ghế ngồi, tấm trải sàn và thiết bị điện, cho đến những thân xe chưa hoàn chỉnh, còn thiếu cửa, kính chắn gió hoặc chưa được sơn và bọc nệm. Các loại cabin lái riêng biệt cho xe tải và máy kéo cũng được phân loại trong nhóm này.",
+    "en": "Heading 87.07 classifies bodies, including cabs, for motor vehicles of headings 87.01 to 87.05. This heading applies to bodies designed to be mounted on a separate chassis as well as to self-supporting unit-construction (unibody) bodies, in which certain elements of the chassis are incorporated into the body. These bodies can be for various purposes, such as for passenger vehicles, lorries (trucks), or special-purpose vehicles, made from materials like steel, light alloys, wood, or plastics. The state of completion can range from fully equipped with fittings such as dashboards, seats, mats, and electrical equipment, to incomplete bodies lacking doors, windscreens, or final paint and upholstery. Separate driving cabs for lorries and tractors are also classified in this heading."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các thân xe, kể cả ca-bin, dùng cho các xe cơ giới thuộc các nhóm từ 87.01 đến 87.05. Phạm vi bao gồm các thân xe được thiết kế để lắp trên khung gầm, thân xe dùng cho các loại xe không có khung gầm (nơi thân xe tự đỡ động cơ và các trục), và các thân xe liền khối trong đó một số bộ phận của khung gầm được lắp lên thân xe. Nhóm này bao gồm nhiều kiểu thân xe cho xe chở người, xe tải và xe chuyên dụng, thường được làm bằng thép, hợp kim nhẹ, gỗ hoặc nhựa. Thân xe có thể được trang bị hoàn chỉnh với các phụ kiện như bảng khí cụ, ngăn hành lý, ghế ngồi, đệm, tấm trải sàn và trang thiết bị điện, hoặc ở dạng chưa hoàn chỉnh, ví dụ như thiếu kính chắn gió, cửa, hoặc chưa hoàn thiện lớp bọc nệm hay sơn. Các loại buồng lái cho xe tải và máy kéo cũng thuộc nhóm này.",
+        "en": "This heading covers the bodies (including cabs) for the motor vehicles of headings 87.01 to 87.05. It covers not only bodies designed to be mounted on a chassis, but also bodies for vehicles without chassis (where the body itself supports the engine and axles), and unit construction bodies in which certain elements of the chassis are incorporated in the body. The heading covers a wide range of bodies for various types of vehicles like passenger vehicles, lorries (trucks) and special purpose vehicles, generally made of steel, lightweight alloys, wood or plastics. They may be completely equipped with fittings such as dashboards, boots (trunks), seats and cushions, mats, luggage racks and electrical fittings, or may be incomplete, for example, those lacking windscreens or doors, or with unfinished upholstery or paintwork. Driving cabs for lorries and tractors are also classified in this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8707.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dùng cho xe thuộc nhóm 8703",
+        "en": "For the vehicles of heading 87.03"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8707.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

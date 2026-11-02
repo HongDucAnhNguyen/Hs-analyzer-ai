@@ -1,0 +1,186 @@
+{
+  "heading_id": "85.28",
+  "heading_title": {
+    "vi": "Màn hình và máy chiếu, không gắn với thiết bị thu dùng trong truyền hình; thiết bị thu dùng trong truyền hình, có hoặc không gắn với máy thu thanh sóng vô tuyến hoặc thiết bị ghi hoặc tái tạo âm thanh hoặc hình ảnh.",
+    "en": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm màn hình và máy chiếu không tích hợp thiết bị thu truyền hình; thiết bị thu truyền hình (tivi), có hoặc không tích hợp máy thu thanh, thiết bị ghi/tái tạo âm thanh hoặc hình ảnh; và thiết bị thu tín hiệu truyền hình không có khả năng hiển thị (ví dụ: bộ thu sóng truyền hình vệ tinh). Các sản phẩm này có thể sử dụng các công nghệ hiển thị như CRT, LCD, DMD, OLED và plasma. Nếu màn hình hoặc máy chiếu có tích hợp bộ dò kênh truyền hình (tuner), chúng sẽ được phân loại là thiết bị thu truyền hình. Các bộ phận của các thiết bị thuộc nhóm này được phân loại vào nhóm 85.29. Nhóm này không bao gồm máy ghi hoặc tái tạo video (nhóm 85.21), xe chuyên dùng như xe phát thanh truyền hình (thường thuộc nhóm 87.05), máy chiếu phim (nhóm 90.07) và máy chiếu hình ảnh (nhóm 90.08).",
+    "en": "This heading covers monitors and projectors not incorporating television reception apparatus; television reception apparatus (TV sets), whether or not incorporating radio-broadcast receivers or sound/video recording/reproducing apparatus; and apparatus for the reception of television signals without display capabilities (e.g., satellite television receivers). These products may utilize display technologies such as CRT, LCD, DMD, OLED, and plasma. If monitors or projectors incorporate a television tuner, they are considered reception apparatus for television. Parts of the apparatus of this heading are classified in heading 85.29. The heading excludes video recording or reproducing apparatus (heading 85.21), special purpose vehicles like broadcasting vans (generally heading 87.05), cinematographic projectors (heading 90.07), and image projectors (heading 90.08)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Màn hình và máy chiếu, không gắn các thiết bị thu sóng truyền hình.\n(2) Máy thu truyền hình, có hoặc không gắn với máy thu phát sóng vô tuyến hoặc máy ghi hoặc tái tạo video hoặc âm thanh, cho việc hiển thị các tín hiệu (tivi).\n(3) Thiết bị để thu tín hiệu truyền hình, không có khả năng hiển thị (ví dụ, thiết bị thu sóng truyền hình vệ tinh).\nMàn hình, máy chiếu và tivi sử dụng các công nghệ khác nhau, như CRT (ống tia catot), LCD (màn hình tinh thể lỏng), DMD (thiết bị vi ảnh kỹ thuật số), OLED (điot phát quang hữu cơ) và plasma, để hiển thị hình ảnh.",
+        "en": "This heading includes:\n(1) Monitors and projectors, not incorporating television reception apparatus.\n(2) Television reception apparatus, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus, for the display of signals (television sets).\n(3) Apparatus for the reception of television signals, without display capabilities (e.g., receivers of satellite television broadcasts).\nMonitors, projectors and television sets utilize different technologies, such as CRT (cathode-ray tube), LCD (liquid crystal display), DMD (digital micromirror device), OLED (organic light emitting diodes) and plasma, to display images."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Màn hình và máy chiếu có thể năng nhận nhiều tín hiệu từ các nguồn khác nhau. Tuy nhiên, nếu chúng kết nối với bộ dò tín hiệu truyền hình thì được xem như thiết bị thu dùng trong truyền hình.",
+        "en": "Monitors and projectors may be capable of receiving a variety of signals from different sources. However, if they incorporate a television tuner they are considered to be reception apparatus for television."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) MÀN HÌNH (MONITOR) CÓ KHẢ NĂNG KẾT NỐI TRỰC TIẾP VÀ ĐƯỢC THIẾT KẾ ĐỂ DÙNG CHO MÁY XỬ LÝ DỮ LIỆU TỰ ĐỘNG THUỘC NHÓM 84.71\nNhóm này bao gồm các màn hình có khả năng nhận tín hiệu từ bộ xử lý trung tâm của máy xử lý dữ liệu tự động và hiển thị các hình ảnh của các dữ liệu đã được xử lý. Các màn hình này có thể được phân biệt với các loại màn hình monitor khác (xem phần (B) bên dưới) và các máy thu truyền hình.\nCác màn hình của nhóm này có thể có các đặc tính sau:\n(i) Chúng thường hiển thị các tín hiệu hình ảnh tương thích (đơn sắc hoặc đa sắc) được tổng hợp trong bộ xử lý dữ liệu tự động của máy xử lý dữ liệu tự động;\n(ii) Chúng không được gắn với một bộ lọc kênh hoặc bộ thu tín hiệu video;\n(iii) Chúng được gắn với các đầu nối đặc trưng của các hệ thống xử lý dự liệu (ví dụ như, cống nối tiếp RS-232C, đầu nối DIN, D-SUB, VGA, DVI, HDMI hoặc DP (cổng kết nối);\n(iv) Kích cỡ hình ảnh hiển thị có thể nhìn thấy của các màn hình này thường không quá 76cm (30inches);\n(v) Chúng có kích thước bước hiển thị ( thường nhỏ hơn 0.3mm) phù hợp cho tầm nhìn gần;\n(vi) Chúng có thể có một mạch âm thanh và các loa trong (thông thường, tổng công suất 2 watts hoặc ít hơn);\n(vii) Chúng thường có các nút điều chỉnh đặt ở mặt trước;\n(viii) Chúng thường không thể hoạt động bằng một điều khiển từ xa;\n(ix) Chúng có thể gắn với cơ cấu điều chỉnh độ nghiêng, xoay và chiều cao, bề mặt ánh sáng chống lóa, màn hình hiển thị không rung, và các đặc tính thiết kế tiện dụng khác để làm cho có thể xem trong thời gian dài ở cự li gần màn hình;\n(x) Chúng có thể kết nối không dây để hiển thị dữ liệu từ máy xử lý dữ liệu tự động thuộc nhóm 84.71.",
+        "en": "(A) MONITORS CAPABLE OF DIRECTLY CONNECTING TO AND DESIGNED FOR USE WITH AN AUTOMATIC DATA PROCESSING MACHINE OF HEADING 84.71\nThis group includes monitors which are capable of accepting a signal from the central processing unit of an automatic data processing machine and provide a graphical presentation of the data processed. These monitors are distinguishable from other types of monitors (see (B) below) and from television receivers.\nThe monitors of this group may be characterised by the following features:\n(i) They usually display signals of graphics adaptors (monochrome or colour) which are integrated in the central processing unit of the automatic data processing machine;\n(ii) They do not incorporate a channel selector or video tuner;\n(iii) They are fitted with connectors characteristic of data processing systems (e.g., RS-232C interface, DIN, D-SUB, VGA, DVI, HDMI or DP (display port) connectors);\n(iv) The viewable image size of these monitors does not generally exceed 76 cm (30 inches);\n(v) They have a display pitch size (usually smaller than 0.3 mm) suitable for close proximity viewing;\n(vi) They may have an audio circuit and built-in speakers (generally, 2 watts or less in total);\n(vii) They usually have control buttons situated in the front panel;\n(viii) They usually cannot be operated by a remote control;\n(ix) They may incorporate tilt, swivel and height adjusting mechanisms, glare-free surfaces, flicker-free display, and other ergonomic design characteristics to facilitate prolonged periods of viewing at close proximity to the monitor;\n(x) They may utilize wireless communication protocol to display data from an automatic data processing machine of heading 84.71."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) MÀN HÌNH KHÁC TRỪ LOẠI CÓ KHẢ NĂNG KẾT NỐI TRỰC TIẾP VÀ ĐƯỢC THIẾT KẾ ĐỂ DÙNG CHO MÁY XỬ LÝ DỮ LIỆU TỰ ĐỘNG THUỘC NHÓM 84.71",
+        "en": "(B) MONITORS OTHER THAN THOSE CAPABLE OF DIRECTLY CONNECTING TO AND DESIGNED FOR USE WITH AN AUTOMATIC DATA PROCESSING MACHINE OF HEADING 84.71"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này bao gồm các màn hình có thể nhận các tín hiệu khi được kết nối trực tiếp với camera hình ảnh hoặc thiết bị ghi bằng cáp composite video, s- video hoặc cáp đồng trục, do đó tất cả các mạch tần số vô tuyến được loại trừ. Chúng thường được sử dụng bởi các công ty truyền hình hoặc truyền hình mạch kín (sân bay, nhà ga, nhà máy, bệnh viện…). Hơn thế, chúng có thể có các đầu vào riêng biệt màu đỏ (R), màu xanh lá cây (G) và xanh da trời (B), hoặc được mã hóa phù hợp với một tiêu chuẩn cụ thể (NTSC, SECAM, PAL, D-MAC…). Để tiếp nhận tín hiệu đã được mã hóa, màn hình phải được trang bị một thiết bị giải mã (bộ tách) các tín hiệu R,G và B. Chúng không được gắn với các đầu nối đặc trưng của hệ thống xử lý tự động, và chúng không gắn với cơ cấu điều chỉnh độ nghiêng, xoay và chiều cao, bề mặt ánh sáng chống lóa, màn hình hiển thị không rung, và các đặc tính thiết kế tiện dụng khác để làm cho có thể xem trong thời gian dài ở cự li gần màn hình. Chúng không gắn với bộ lọc kênh hoặc bộ thu tín hiệu video.",
+        "en": "This group includes monitors which are capable of receiving signals when connected directly to the video camera or recorder by means of composite video, s-video or co axial cables, so that all the radio-frequency circuits are eliminated. They are typically used by television companies or for closed-circuit television (airports, railway stations, factories, hospitals, etc.). They can, moreover, have separate inputs for red (R), green (G) and blue (B), or be coded in accordance with a particular standard (NTSC, SECAM, PAL, D-MAC, etc.). For reception of coded signals, the monitor must be equipped with a decoding device covering (the separation of) the R, G and B signals. They are not fitted with connectors characteristic of data processing systems, and they do not incorporate tilt, swivel and height adjusting mechanisms, glare-free surfaces, flicker-free display, and other ergonomic design characteristics to facilitate prolonged periods of viewing at close proximity to the monitor. They do not incorporate a channel selector or video tuner."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(C) MÁY CHIẾU\nMáy chiếu cho phép các hình ảnh được tái tạo bình thường trên màn ảnh của máy thu truyền hình hoặc của màn hình monitor được chiếu trên một bề mặt bên ngoài. Chúng có thể dựa trên công nghệ CRT hoặc màn hình dẹt (ví dụ DMD, LCD, plasma).",
+        "en": "(C) PROJECTORS\nProjectors enable the image normally reproduced on the screen of a television receiver or of a monitor to be projected on an external surface. They may be based on CRT or flat panel (e.g., DMD, LCD, plasma) technology."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(D) MÁY THU DÙNG CHO TRUYỀN HÌNH\nNhóm này bao gồm thiết bị có hoặc không được thiết kế để gắn với màn hình hiển thị hình ảnh hoặc màn hình, như là:\n(1) Máy thu sóng truyền hình (mặt đất, truyền hình cáp hoặc vệ tinh) mà không bao gồm thiết bị hiển thị (CRT, LCD…). Các thiết bị này nhận các tín hiệu và chuyển đổi chúng thành các tín hiệu thích hợp cho hiển thị. Chúng cũng có thể gắn với một modem để kết nối Internet. Những máy thu này được thiết kế để sử dụng với máy ghi video hoặc các thiết bị tái tạo hình ảnh, màn hình monitor, máy chiếu hoặc TV. Tuy nhiên, các thiết bị mà chỉ đơn giản là tách các tín hiệu truyền hình tần số cao (đôi khi gọi là bộ chỉnh hình) được phân loại như là bộ phận của nhóm 85.29.\n(2) Máy thu truyền hình dùng trong công nghiệp (ví dụ để đọc dụng cụ từ xa, hoặc để quan sát vùng nguy hiểm). Với các thiết bị này, việc truyền dẫn thường là bằng dây dẫn.\n(3) Máy thu truyền hình các loại (LCD, plasma, CRT…) được sử dụng trong nhà (TV), có hoặc không gắn máy thu sóng phát thanh, máy ghi video cassette, máy DVD, máy ghi DVD, đầu thu vệ tinh…",
+        "en": "(D) RECEPTION APPARATUS FOR TELEVISION\nThis group includes apparatus whether or not designed to incorporate a video display or screen, such as:\n(1) Receivers of television broadcasts (terrestrial, cable or satellite) which do not include a display device (CRT, LCD, etc.). These apparatus receive signals and convert them into a signal suitable for display. They may also incorporate a modem for connection to the Internet. These receivers are intended to be used with video recording or reproducing apparatus, monitors, projectors or televisions. However, devices which simply isolate high-frequency television signals (sometimes called video tuners) are to be classified as parts in heading 85.29.\n(2) Television receivers for industrial use (e.g., for reading instruments at a distance, or for observation in dangerous localities). With this apparatus the transmission is often by line.\n(3) Television receivers of all kinds (LCD, plasma, CRT, etc.) used in the home (television sets), whether or not incorporating a radio-broadcast receiver, video cassette recorder, DVD player, DVD recorder, satellite receiver, etc."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung về phân loại các bộ phận (xem Chú giải Chi tiết Tổng quát phần XVI), các bộ phận của các thiết bị thuộc nhóm này được phân loại vào nhóm 85.29.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the apparatus of this heading are classified in heading 85.29."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Nhóm này loại trừ, không kể những mặt hàng khác:\n(a) Máy ghi hoặc tái tạo hình ảnh (nhóm 85.21).\n(b) Xe chuyên dùng (ví dụ xe van cho phát thanh truyền hình) được gắn cố định với thiết bị thu truyền hình hoặc các thiết bị khác của nhóm này (thường thuộc nhóm 87.05).\n(c) Máy chiếu phim (nhóm 90.07) và máy chiếu hình ảnh nhóm 90.08.",
+        "en": "The heading excludes, inter alia:\n(a) Video recording or reproducing apparatus (heading 85.21).\n(b) Special purpose vehicles (e.g., vans for broadcasting) permanently equipped with television receivers or other apparatus of this heading (generally heading 87.05).\n(c) Cinematographic projectors (heading 90.07) and image projectors of heading 90.08."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Màn hình sử dụng ống đèn hình tia ca-tốt:",
+        "en": "- Cathode-ray tube monitors:"
+      },
+      "subheading_id": "8528.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có khả năng kết nối trực tiếp và được thiết kế để dùng cho máy xử lý dữ liệu tự động thuộc nhóm 84.71",
+        "en": "- - Capable of directly connecting to and designed for use with an automatic data processing machine of heading 84.71"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Màn hình sử dụng ống đèn hình tia ca-tốt:",
+        "en": "- Cathode-ray tube monitors:"
+      },
+      "subheading_id": "8528.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Màn hình khác:",
+        "en": "- Other monitors:"
+      },
+      "subheading_id": "8528.52",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có khả năng kết nối trực tiếp và được thiết kế để dùng cho máy xử lý dữ liệu tự động thuộc nhóm 84.71",
+        "en": "- - Capable of directly connecting to and designed for use with an automatic data processing machine of heading 84.71"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Màn hình khác:",
+        "en": "- Other monitors:"
+      },
+      "subheading_id": "8528.59",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác.",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy chiếu:",
+        "en": "- Projectors:"
+      },
+      "subheading_id": "8528.62",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có khả năng kết nối trực tiếp và được thiết kế để dùng cho máy xử lý dữ liệu tự động thuộc nhóm 84.71",
+        "en": "- - Capable of directly connecting to and designed for use with an automatic data processing machine of heading 84.71"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy chiếu:",
+        "en": "- Projectors:"
+      },
+      "subheading_id": "8528.69",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị thu dùng trong truyền hình, có hoặc không gắn với thiết bị thu thanh sóng vô tuyến hoặc thiết bị ghi hoặc tái tạo âm thanh hoặc hình ảnh:",
+        "en": "- Reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus:"
+      },
+      "subheading_id": "8528.71",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Không thiết kế để gắn với thiết bị hiển thị video hoặc màn ảnh",
+        "en": "- - Not designed to incorporate a video display or screen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị thu dùng trong truyền hình, có hoặc không gắn với thiết bị thu thanh sóng vô tuyến hoặc thiết bị ghi hoặc tái tạo âm thanh hoặc hình ảnh:",
+        "en": "- Reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus:"
+      },
+      "subheading_id": "8528.72",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác, màu",
+        "en": "- - Other, colour"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị thu dùng trong truyền hình, có hoặc không gắn với thiết bị thu thanh sóng vô tuyến hoặc thiết bị ghi hoặc tái tạo âm thanh hoặc hình ảnh:",
+        "en": "- Reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus:"
+      },
+      "subheading_id": "8528.73",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác, đơn sắc",
+        "en": "- - Other, monochrome"
+      }
+    }
+  ]
+}

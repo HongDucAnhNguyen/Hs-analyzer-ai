@@ -1,0 +1,89 @@
+{
+  "heading_id": "29.26",
+  "heading_title": {
+    "vi": "Hợp chất chức nitril.",
+    "en": "Nitrile-function compounds."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các hợp chất chức nitril có công thức chung là R-C≡N, trong đó R là một gốc aryl hoặc alkyl hoặc đôi khi là nitơ. Các hợp chất này có thể là mono-, di-, hoặc tri-nitril tùy thuộc vào số lượng gốc cyanogen (-CN) trong phân tử. Các hợp chất cụ thể được bao gồm là Acrylonitril, 1-Cyanoguanidin (dicyandiamide), Fenproporex (INN) và muối của nó, methadone (INN) intermediate, và alpha-Phenylacetoacetonitrile. Nhóm này loại trừ các polyme và copolyme của acrylonitril, chúng được phân loại vào Chương 39 (plastic) hoặc Chương 40 (cao su tổng hợp).",
+    "en": "This heading covers nitrile-function compounds with the general formula R-C≡N, in which R is an alkyl or aryl radical or sometimes nitrogen. These compounds can be mono-, di-, or tri-nitriles depending on the number of cyanogen radicals (-CN) per molecule. Specific compounds included are Acrylonitrile, 1-Cyanoguanidine (dicyandiamide), Fenproporex (INN) and its salts, methadone (INN) intermediate, and alpha-Phenylacetoacetonitrile. This heading excludes acrylonitrile polymers and co-polymers, which are classified in Chapter 39 (plastics) or Chapter 40 (synthetic rubber)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Công thức chung của nitril là: RC Ξ N, trong đó R là một gốc aryl hoặc alkyl hoặc đôi khi là nitơ.",
+        "en": "The general formula of nitriles is RCΞ N in which R is an alkyl or aryl radical or sometimes nitrogen."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Mono-, di-, hoặc tri- nitril có chứa 1, 2 hoặc 3 gốc cyanogen (-CN) trong mỗi phân tử, tương ứng.\nNhóm này bao gồm:\n(1) Acrylonitril*.\n(2) 1-Cyanoguanidine (dicyandiamide)*.\n(3) Acetaldehyde cyanohydrin.\n(4) Acetonitrile.\n(5) Adiponitrile.\n(6) Aminophenylacetonitrile.\n(7) Benzonitrile.\n(8) Acetone cyanohydrin.\n(9) Cyanoacetamide.\n(10) Cyanopinacoline.\n(11) Hydroxyphenylacetonitrile.\n(12) Iminodiacetonitrile.\n(13) Nitrobenzonitrile.\n(14) Naphthonitrile.\n(15) Nitrophenylacetonitrile.\n(16) Phenylcyanamide.\n(17) Tricyanotrimethylamine.\n(18) Methadone-intermediate (INN) - xem danh mục ở cuối Chương 29.\n(19) alpha-Phenylacetoacetonitrile (APAAN)*. 3-Oxo-2-phenylbutanenitrile.\nAcrylonitril polyme và copolyme bị loại trừ; chúng tạo nên plastic (Chương 39), hoặc cao su tổng hợp (Chương 40).",
+        "en": "Mono-, di-. or tri-nitriles contain one, two or three cyanogen radicals (-CN) per molecule, respectively.\nThe heading includes:\n(1) Acrylonitrile*.\n(2) 1-Cyanoguanidine (dicyandiamide) *.\n(3) Acetaldehyde cyanohydrin.\n(4) Acetonitrile\n(5) Adiponitrile.\n(6) Aminophenylacetonitrile.\n(7) Benzonitrile.\n(8) Acetone cyanohydrin.\n(9) Cyanoacetamide.\n(10) Cyanopinacoline.\n(11) Hydroxyphenylacetonitrile.\n(12) Iminodiacetonitrile.\n(13) Nitrobenzonitrile.\n(14) Naphthonitrile.\n(15) Nitrophenylacetonitrile.\n(16) Phenylcyanamide.\n(17) Tricyanotrimethylamine.\n(18) Methadone-intermediate (INN) - see the list at the end of Chapter 29.\n(19) alpha-Phenylacetoacetonitrile (APAAN)*. 3-Oxo-2- phenylbutanenitrile.\nAcrylonitrile polymers and co-polymers are excluded, they constitute plastics (Chapter 39) or synthetic rubber (Chapter 40)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2926.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Acrylonitril",
+        "en": "Acrylonitrile"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2926.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "1-Cyanoguanidin (dicyandiamit)",
+        "en": "1-Cyanoguanidine (dicyandiamide)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2926.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Fenproporex (INN) và muối của nó; methadone (INN) intermediate (4-cyano- 2-dimethylamino-4, 4-diphenylbutane)",
+        "en": "Fenproporex (INN) and its salts; methadone (INN) intermediate (4-cyano-2-dimethylamino-4.4-diphenylbutane)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2926.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "alpha-Phenylacetoacetonitrile",
+        "en": "alpha-Phenylacetoacetonitrile"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2926.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

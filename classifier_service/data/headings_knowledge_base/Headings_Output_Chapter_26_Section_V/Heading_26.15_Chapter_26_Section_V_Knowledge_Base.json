@@ -1,0 +1,46 @@
+{
+  "heading_id": "26.15",
+  "heading_title": {
+    "vi": "Quặng niobi, tantali, vanadi hay zircon và tinh quặng của các loại quặng đó.",
+    "en": "Niobium, tantalum, vanadium or zirconium ores and concentrates."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại quặng chính của zirconium (Baddeleyite, Zircon), tantalum và niobium (tantalite, niobite/columbite), và vanadium (Descloizite, Patronite, Roscoelite, Vanadinite). Nhóm này loại trừ zircon ở dạng đá quý (nhóm 71.03), vanadium oxit nóng chảy thu được bằng các quá trình xử lý không phải là nung hoặc thiêu mà làm thay đổi thành phần hóa học hoặc cấu trúc tinh thể của quặng cơ bản (thường thuộc Chương 28), và cát zircon cỡ hạt micro để sử dụng như một chất làm đục trong sản xuất men (nhóm 25.30).",
+    "en": "This heading covers the principal ores of zirconium (Baddeleyite, Zircon), tantalum and niobium (tantalite, niobite/columbite), and vanadium (Descloizite, Patronite, Roscoelite, Vanadinite). This heading excludes zircon in the form of a precious stone (heading 71.03), fused vanadium oxides obtained by treatments, other than calcining or roasting, which alter the chemical composition or crystallographic structure of the basic ore (generally Chapter 28), and zircon sand micronised for use as an opacifier in enamel manufacture (heading 25.30)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại quặng zirconium chính được phân loại trong nhóm này là:\n(a) Baddeleyite, zirconium oxit\n(b) Zircon và cát zircon, zirconium silicate (khi ở dạng đá quý, zircon được xếp vào nhóm 71.03).\nCác quặng tantalum và niobium (columbium) chính thường được phân loại trong nhóm này là: tantalite và niobite (columbite) (có nghĩa là tantalo-niobate của sắt và mangan).\nCác quặng vanadium chính thường được phân loại trong nhóm này là:\n(a) Descloizite, vanadat bazơ của chì và kẽm\n(b) Patronite, vanadium sulphide.\n(c) Roscoelite (vanadium mica) phức chất vanado-silicate của nhôm và magiê\n(d) Vanadinite, muối vanadate chì và chloride chì\nVanadium oxit nóng chảy thu được bằng các quá trình xử lý, trừ nung hoặc thiêu, mà làm biến đổi thành phần hoá học hoặc cấu trúc tinh thể của quặng cơ bản thì được loại trừ (thường thuộc Chương 28).\nNhóm này cũng loại trừ cát zircon cỡ hạt micro để sử dụng như một chất làm đục trong sản xuất men (nhóm 25.30).",
+        "en": "The principal zirconium ores generally classified in this heading are:\n(a) Baddeleyite, zirconium oxide.\n(b) Zircon and zircon sands, zirconium silicates. (When in the form of a precious stone, zircon falls in heading 71.03.)\nThe principal tantalum and niobium (columbium) ores generally classified in this heading are tantalite and niobite (columbite) (i.e., tantalo-niobate of iron and manganese).\nThe principal vanadium ores generally classified in this heading are:\n(a) Descloizite, basic vanadate of lead and zinc.\n(b) Patronite, vanadium sulphide.\n(c) Roscoelite (vanadium mica), complex vanado-silicate of aluminium and magnesium.\n(d) Vanadinite, vanadate and chloride of lead.\nFused vanadium oxides obtained by treatments, other than calcining or roasting, which alter the chemical composition or crystallographic structure of the basic ore are excluded (generally Chapter 28).\nThe heading also excludes zircon sand micronised for use as an opacifier in enamel manufacture (heading 25.30)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2615.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quặng zircon và tinh quặng zircon",
+        "en": "Zirconium ores and concentrates"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2615.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

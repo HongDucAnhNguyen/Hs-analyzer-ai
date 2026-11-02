@@ -1,0 +1,46 @@
+{
+  "heading_id": "25.04",
+  "heading_title": {
+    "vi": "Graphite tự nhiên",
+    "en": "Natural graphite."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm graphit tự nhiên (còn gọi là than chì hoặc chì đen), một loại carbon, kể cả khi đã được xử lý nhiệt để loại bỏ tạp chất. Graphit tự nhiên được dùng làm bút chì, chất đánh bóng, sản xuất nồi luyện kim, các sản phẩm chịu lửa và linh kiện điện. Nhóm này loại trừ graphit nhân tạo, graphit keo hoặc bán keo và các chế phẩm từ graphit ở dạng bột nhão, khối, tấm hoặc các dạng bán thành phẩm khác (nhóm 38.01). Nhóm này cũng không bao gồm các sản phẩm làm bằng graphit tự nhiên (thường thuộc nhóm 68.15, 69.02, 69.03 hoặc 85.45).",
+    "en": "This heading covers natural graphite (also known as plumbago or black lead), a variety of carbon, including when it has been heat-treated to remove impurities. It is used for pencils, polish, crucibles, refractory articles, and electric parts. The heading excludes artificial graphite, colloidal or semi-colloidal graphite, and preparations based on graphite in the form of pastes, blocks, plates, or other semi-manufactures (heading 38.01). It also excludes articles of natural graphite (usually heading 68.15, 69.02, 69.03 or 85.45)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Graphit tự nhiên (còn được biết như than chì hoặc chì đen) là một loại carbon được phân biệt bởi ánh của nó và đặc tính riêng khi viết lên giấy (vì lý do này nó được dùng làm bút chì). Trọng lượng riêng của chúng thay đổi, tùy theo độ tinh khiết, thường từ 1,9 đến 2,26; hàm lượng carbon của các loại tinh khiết nhất từ 90-96%, trong khi loại có chất lượng thấp hơn chỉ chứa từ 40-80%. Graphit tự nhiên vẫn thuộc nhóm này khi nó được xử lý nhiệt chỉ để loại tạp chất. Ngoài công dụng làm bút chì, graphit tự nhiên còn được dùng để đánh bóng, sản xuất nồi luyện kim và các sản phẩm chịu lửa, điện cực lò nung hoặc các linh kiện điện khác.\nNhóm này loại trừ graphit nhân tạo (nó giống hệt graphit tự nhiên nhưng có độ tinh khiết cao hơn và trọng lượng riêng thấp hơn), graphit keo hoặc bán keo và các chế phẩm dựa trên graphit nhưng ở dạng bột nhão, khối, tấm hoặc các dạng bán thành phẩm khác (nhóm 38.01). Nó cũng không bao gồm các sản phẩm bằng graphit tự nhiên thuộc nhóm 68.15, 69.02, 69.03 hoặc 85.45).",
+        "en": "Natural graphite (otherwise known as plumbago or black lead) is a variety of carbon distinguished by its lustre and its property of marking paper (for which reason it is used as pencil lead). Its apparent specific gravity varies, according to its degree of purity, between 1.9 and 2.26; the carbon content of the purest grades ranges from 90 to 96 %, while the cheaper grades contain only 40 to 80 %. Natural graphite remains in this heading when it has been heat treated merely to remove impurities. Apart from its use in pencils, natural graphite is also used as a polish, for the manufacture of crucibles and other refractory articles, furnace electrodes and other electric parts. The heading excludes artificial graphite (which closely resembles natural graphite but has a higher degree of purity and lower specific gravity), colloidal or semi-colloidal graphite and preparations based on graphite in the form of pastes, blocks, plates and other semi-manufactures (heading 38.01). It also excludes articles of natural graphite (usually heading 68.15, 69.02, 69.03 or 85.45)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2504.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ở dạng bột hay dạng mảnh",
+        "en": "In powder or in flakes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2504.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dạng khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

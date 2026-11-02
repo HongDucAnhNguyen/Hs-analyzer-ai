@@ -1,0 +1,46 @@
+{
+  "heading_id": "86.03",
+  "heading_title": {
+    "vi": "Toa xe khách, toa xe hàng và toa xe hành lý, loại tự hành dùng trên đường sắt hoặc đường tàu điện, trừ loại thuộc nhóm 86.04",
+    "en": "Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 86.04."
+  },
+  "summary": {
+    "vi": "Nhóm 86.03 bao gồm các loại toa xe, toa hàng và toa hành lý tự hành dùng trên đường sắt hoặc đường tàu điện, chúng khác biệt với đầu máy xe lửa ở chỗ vừa có bộ phận sinh công, vừa được thiết kế để chuyên chở người hoặc hàng hóa. Các phương tiện này có thể hoạt động độc lập hoặc ghép nối, đặc điểm nhận dạng là có khoang điều khiển. Nhóm này bao gồm các loại xe chạy bằng nguồn điện bên ngoài (toa xe điện), ô tô ray sử dụng động cơ đốt trong (ví dụ động cơ diesel), và xe chạy bằng pin lưu trữ. Ngoài ra, các phương tiện đường sắt hồi chuyển điện sử dụng năng lượng từ bánh đà cũng thuộc nhóm này. Nhóm này loại trừ các phương tiện bảo dưỡng, phục vụ thuộc nhóm 86.04 và các loại xe buýt đường bộ có thể chuyển đổi thành ô tô ray chỉ bằng cách thay bánh xe (nhóm 87.02).",
+    "en": "Heading 86.03 covers self-propelled railway or tramway coaches, vans, and trucks, which differ from locomotives as they possess both a power unit and are designed to carry passengers or freight. These vehicles can operate singly or be coupled and are characterized by a control cab. The heading includes vehicles powered by external electricity (electric coaches), rail-cars with internal combustion engines (e.g., diesel), and battery-operated vehicles. Additionally, electro-gyro rail vehicles using flywheel energy are also included. This heading excludes maintenance or service vehicles of heading 86.04 and road motor-coaches convertible into rail-cars simply by changing the wheels (heading 87.02)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các toa xe khách, toa xe hàng và toa xe hành lý tự hành cho đường sắt hoặc đường tàu điện. Chúng khác với đầu máy xe lửa vì ngoài việc được trang bị một bộ phận sinh công, chúng còn được thiết kế để chuyên chở hành khách hoặc hàng hóa. Các phương tiện này có thể được thiết kế để di chuyển đơn lẻ hoặc được ghép với một hay nhiều phương tiện cùng loại hoặc toa moóc. Đặc điểm chính của chúng là có khoang điều khiển ở một hoặc cả hai đầu xe, hoặc ở vị trí cao ở giữa.\nCác loại cụ thể bao gồm:\n(A) Các xe chở khách tự hành chạy điện nhận năng lượng từ nguồn bên ngoài (ví dụ: qua cần lấy điện hoặc vành góp điện từ ray thứ ba), bao gồm cả các toa xe điện.\n(B) Các ô tô ray, là phương tiện tự hành trang bị động cơ diesel hoặc động cơ đốt trong khác.\n(C) Phương tiện tự hành hoạt động bằng pin lưu trữ.\nNhóm này cũng bao gồm các phương tiện đường sắt hồi chuyển điện, hoạt động dựa trên động năng tích lũy trong một bánh đà.\nLoại trừ khỏi nhóm này là các xe buýt đường bộ có thể chuyển đổi thành ô tô ray chỉ bằng cách thay bánh xe và khóa hệ thống lái (nhóm 87.02).",
+        "en": "This heading covers self-propelled railway or tramway coaches, vans and trucks. They differ from locomotives because, in addition to being equipped with a power unit, they are also designed to carry passengers or freight. These vehicles may be designed to travel singly, or to be coupled to one or more vehicles of the same type, or to one or more trailer vehicles. Their main feature is a control cab at one or both ends, or in a raised position in the middle.\nSpecific types include:\n(A) Electrically-propelled coaches that receive electrical energy from an external source (e.g., through a pantograph or collector shoes from a third rail), including tramway coaches.\n(B) Rail-cars, which are self-contained vehicles equipped with diesel or other internal combustion engines.\n(C) Self-propelled vehicles functioning by means of storage batteries.\nThe heading also includes electro-gyro rail vehicles, which operate based on kinetic energy accumulated in a flywheel.\nExcluded from this heading are road motor-coaches that are convertible into rail-cars simply by changing the wheels and locking the steering (heading 87.02)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8603.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại chạy bằng nguồn điện bên ngoài",
+        "en": "- Powered from an external source of electricity"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8603.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

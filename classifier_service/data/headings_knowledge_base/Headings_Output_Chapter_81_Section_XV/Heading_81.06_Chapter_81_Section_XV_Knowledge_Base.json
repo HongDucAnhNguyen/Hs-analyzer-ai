@@ -1,0 +1,46 @@
+{
+  "heading_id": "81.06",
+  "heading_title": {
+    "vi": "Bismut và các sản phẩm làm từ bismut, kể cả phế liệu và mảnh vụn.",
+    "en": "Bismuth and articles thereof, including waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bismut và các sản phẩm làm từ bismut, kể cả phế liệu và mảnh vụn. Bismut, một kim loại màu trắng có sắc hồng, giòn và là chất dẫn kém, thu được chủ yếu từ việc tinh chế cặn chì, đồng hoặc từ quặng. Nó được sử dụng trong các thiết bị khoa học và điều chế hợp chất dược phẩm. Nhóm này cũng bao gồm các hợp kim dễ nóng chảy của bismut, tuân theo Chú giải 5 Phần XV, chẳng hạn như hợp kim bismut-chì-thiếc (hợp kim của Darcet, Wood) dùng làm hợp kim hàn, và hợp kim bismut-indi-chì-thiếc-cadmium dùng trong phẫu thuật.",
+    "en": "This heading covers bismuth and articles thereof, including waste and scrap. Bismuth, a brittle, white metal with a reddish tint and a poor conductor, is mainly obtained from refining lead or copper residues or from ores. It is used in scientific apparatus and for preparing pharmaceutical compounds. The heading also includes fusible alloys of bismuth, subject to Note 5 to Section XV, such as bismuth-lead-tin alloys (e.g., Darcet's, Wood's alloys) used as solders, and bismuth-indium-lead-tin-cadmium alloys used for surgical casts."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Kim loại này xuất hiện ở trạng thái tự nhiên, nhưng nó chủ yếu thu được từ việc tinh chế các phần còn lại của chì, đồng... hoặc bởi việc chiết tách từ các quặng Sulphat hoặc cacbonat (ví dụ: Bismuthini và Bismutite).\nBismut có màu trắng với sắc độ hồng, dễ gãy, rất khó để gia công và là chất dẫn (điện, nhiệt...) kém.\nNó được dùng trong thiết bị khoa học và điều chế các hỗn hợp hoá chất dùng cho dược học.\nNó hình thành Các hợp kim dễ nóng chảy (một số có độ nóng chảy dưới 100 °C) mà một số hợp kim sau đây có thể nằm trong nhóm phù hợp với Chú giải 5 Phần XV :\n(1) Các hợp kim Bismut-chì-thiếc (đôi khi có Cadmium...) Ví dụ: các hợp kim của Darcet, Lipowit, Newton hoặc Wood được sử dụng như các hợp kim hàn, các hợp kim đúc, các thành phần dễ nóng chảy cho các bình dập lửa, các nồi hơi.\n(2) Các hợp kim Bismut-Indium-chì-thiếc-Cadmium, làm các khuôn đúc.",
+        "en": "This metal occurs in the native state, but it is mainly obtained either by refining residues of lead, copper, etc., or by extraction from the sulphide or carbonate ores (e.g., bismuthinite and bismutite).\nBismuth is white with a reddish tint, brittle, difficult to work and a bad conductor.\nIt is used in scientific apparatus and in the preparation of chemical compounds for pharmaceutical use.\nIt forms fusible alloys (some melting below 100 °C) of which the following may fall in the heading in accordance with Note 5 to Section XV :\n(1) Bismuth-lead-tin alloys (sometimes with cadmium, etc.) (e.g., Darcet’s, Lipowit’s, Newton’s or Wood’s alloys), used as solders, casting alloys, fusible elements for fire-extinguishers, boilers.\n(2) Bismuth-indium-lead-tin-cadmium alloys, used in taking surgical casts."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8106.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chứa hàm lượng bismut trên 99,99%, tính theo khối lượng",
+        "en": "Containing more than 99.99 % of bismuth, by weight"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8106.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

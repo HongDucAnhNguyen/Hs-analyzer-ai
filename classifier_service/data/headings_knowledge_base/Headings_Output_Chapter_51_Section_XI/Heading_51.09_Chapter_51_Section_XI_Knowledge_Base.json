@@ -1,0 +1,46 @@
+{
+  "heading_id": "51.09",
+  "heading_title": {
+    "vi": "Sợi len lông cừu hoặc lông động vật loại mịn, đã đóng gói để bán lẻ.",
+    "en": "Yarn of wool or of fine animal hair, put up for retail sale."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm sợi len xe (worsted yarns), sợi len thường, hoặc sợi từ lông động vật loại mịn, với điều kiện chúng phải được đóng gói để bán lẻ. Các dạng đóng gói và điều kiện áp dụng được mô tả chi tiết trong Phần (I)(B)(3) của Chú giải tổng quát Phần XI.",
+    "en": "This heading covers woollen or worsted yarns and yarns of fine animal hair, provided they are put up for retail sale. The forms and conditions for being considered 'put up for retail sale' are described in Part (I)(B)(3) of the General Explanatory Note to Section XI."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này gồm cả sợi len xe (worsted yarns) hay sợi len thường hay sợi làm từ lông động vật loại mịn, khi đóng gói để bán lẻ ở các dạng và là đối tượng đáp ứng các điều kiện như đã mô tả trong Phần (I) (B) (3) của Chú giải tổng quát Phần XI).",
+        "en": "This heading covers woollen or worsted yarns and yarns of fine animal hair, when put up for retail sale, i.e., in the forms and subject to the conditions described in Part (I) (B) (3) of the General Explanatory Note to Section XI."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5109.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có hàm lượng lông cừu hoặc lông động vật loại mịn chiếm từ 85% trở lên tính theo khối lượng",
+        "en": "Containing 85 % or more by weight of wool or of fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5109.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

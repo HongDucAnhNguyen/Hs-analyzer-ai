@@ -1,0 +1,46 @@
+{
+  "heading_id": "75.06",
+  "heading_title": {
+    "vi": "Niken ở dạng tấm, lá, dải và lá mỏng.",
+    "en": "Nickel plates, sheets, strip and foil."
+  },
+  "summary": {
+    "vi": "Nhóm 75.06 bao gồm các sản phẩm niken ở dạng tấm, lá, dải và lá mỏng, được định nghĩa tại Chú giải 9(d) của Phần XV. Các sản phẩm này tương ứng với các sản phẩm bằng đồng được mô tả trong chú giải của nhóm 74.09 và 74.10. Các tấm và lá niken này có thể được sử dụng để tráng phủ sắt hoặc thép thông qua các phương pháp như hàn hoặc cán. Chúng cũng được dùng trong việc xây dựng các thiết bị, đặc biệt trong ngành công nghiệp hóa chất. Một loại trừ quan trọng cần lưu ý là các sản phẩm dạng lưới được tạo hình bằng phương pháp đột dập và kéo dãn, các sản phẩm này thuộc nhóm 75.08.",
+    "en": "Heading 75.06 covers nickel products in the form of plates, sheets, strip, and foil, as defined in Note 9(d) to Section XV. These products correspond to the copper products described in the explanatory notes to headings 74.09 and 74.10. These nickel plates and sheets may be used for cladding iron or steel through methods like welding or rolling. They are also used in the construction of equipment, particularly in the chemical industry. An important exclusion to note is expanded metal, which is formed by slitting and stretching; these products are classified under heading 75.08."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tấm, lá, dải và lá mỏng quy định tại chú giải 9 (d) Phần XV; những sản phẩm này tương tự với sản phẩm bằng đồng đã miêu tả trong chú giải nhóm 74.09 và 74.10. Dạng tấm và lá có thể được sử dụng để tráng sắt hoặc thép bằng cách hàn, cán... và sử dụng cho kết cấu của các thiết bị, đặc biệt là trong công nghiệp hoá chất. Nhóm này loại trừ sản phẩm dạng lưới được tạo hình bằng phương pháp đột dập và kéo dãn thành lưới (nhóm 75.08).",
+        "en": "This heading covers plates, sheets, strip and foil which are defined in Note 9 (d) to Section XV; these products correspond to the copper products described in the Explanatory Notes to headings 74.09 and 74.10. Plates and sheets may be used to clad iron or steel by welding, rolling, etc., and for the construction of equipment used, in particular, in the chemical industry. This heading excludes expanded metal (heading 75.08)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7506.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng niken không hợp kim",
+        "en": "- Of nickel, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7506.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng hợp kim niken",
+        "en": "- Of nickel alloys"
+      }
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "heading_id": "64.03",
+  "heading_title": {
+    "vi": "Giày, dép có đế ngoài bằng cao su, plastic, da thuộc hoặc da tổng hợp và mũ giày bằng da thuộc",
+    "en": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of leather."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại giày dép có mũ làm bằng da thuộc và đế ngoài làm bằng một trong các vật liệu sau: cao su (theo định nghĩa tại Chú giải 1 Chương 40), plastic, vải dệt có lớp ngoài bằng cao su hoặc plastic có thể nhìn thấy được (theo Chú giải 3(a) của Chương này), da thuộc (theo Chú giải 3(b) của Chương này), hoặc da tổng hợp (theo Chú giải 3 Chương 41).",
+    "en": "This heading covers footwear with uppers made of leather and outer soles made of one of the following materials: Rubber (as defined in Note 1 to Chapter 40), plastics, textile products with a visible external layer of rubber or plastics (see Note 3(a) to this Chapter), leather (see Note 3(b) to this Chapter), or composition leather (per Note 3 to Chapter 41)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm giày, dép có phần mũ (xem Chú giải tổng quát, Phần (D)) được làm bằng da thuộc và có đế ngoài (xem Chú giải tổng quát, Phần (C)) được làm bằng:\n(1) Cao su (theo định nghĩa của Chú giải 1 của Chương 40).\n(2) Plastic.\n(3) Vải dệt thoi hoặc các sản phẩm dệt khác có lớp ngoài bằng cao su hoặc plastic có thể nhìn thấy được bằng mắt thường, không tính đến sự thay đổi về màu sắc (xem Chú giải 3(a) của Chương này và Chú giải tổng quát, Phần (E)).\n(4) Da thuộc (xem Chú giải 3(b) của Chương này).\n(5) Da tổng hợp (theo Chú giải 3 của Chương 41, \"da tổng hợp\" được giới hạn chi bao gồm những vật liệu có thành phần cơ bản là da thuộc hoặc sợi da thuộc).",
+        "en": "This heading covers footwear with uppers (see General Explanatory Note, Part (D)) made of leather and with outer soles (see General Explanatory Note, Part (C)) made of:\n(1) Rubber (as defined in Note 1 to Chapter 40).\n(2) Plastics.\n(3) Woven fabrics or other textile products with an external layer of rubber or plastics being visible to the naked eye, no account being taken of any resulting change of colour (see Note 3 (a) to this Chapter and General Explanatory Note, Part (E)).\n(4) Leather (see Note 3 (b) to this Chapter).\n(5) Composition leather (by virtue of Note 3 to Chapter 41, “composition leather” is restricted to substances with a basis of leather or leather fibre)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Giày, dép thể thao:",
+        "en": "- Sports footwear:"
+      },
+      "subheading_id": "6403.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Giày ống trượt tuyết, giày trượt tuyết băng đồng và giày ống gắn ván trượt",
+        "en": "- - Ski-boots, cross-country ski footwear and snowboard boots"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Giày, dép thể thao:",
+        "en": "- Sports footwear:"
+      },
+      "subheading_id": "6403.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6403.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Giày, dép có đế ngoài bằng da thuộc, và mũ giày có đai vòng qua mu bàn chân và quai xỏ ngón chân cái",
+        "en": "- Footwear with outer soles of leather, and uppers which consist of leather straps across the instep and around the big toe"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6403.40",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Giày, dép khác, có mũi gắn kim loại bảo vệ.",
+        "en": "- Other footwear, incorporating a protective metal toe- cap"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Giày, dép khác có đế ngoài bằng da thuộc:",
+        "en": "- Other footwear with outer soles of leather:"
+      },
+      "subheading_id": "6403.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Giày cổ cao quá mắt cá chân.",
+        "en": "- - Covering the ankle"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Giày, dép khác có đế ngoài bằng da thuộc:",
+        "en": "- Other footwear with outer soles of leather:"
+      },
+      "subheading_id": "6403.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Giày, dép khác:",
+        "en": "- Other footwear:"
+      },
+      "subheading_id": "6403.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại cổ cao quá mắt cá chân:",
+        "en": "- - Covering the ankle"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Giày, dép khác:",
+        "en": "- Other footwear:"
+      },
+      "subheading_id": "6403.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

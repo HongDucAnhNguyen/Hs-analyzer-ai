@@ -1,0 +1,46 @@
+{
+  "heading_id": "72.06",
+  "heading_title": {
+    "vi": "Sắt và thép không hợp kim dạng thỏi đúc hoặc các dạng thô khác (trừ sắt thuộc nhóm 72.03).",
+    "en": "Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 72.03)."
+  },
+  "summary": {
+    "vi": "Nhóm 72.06 bao gồm sắt và thép không hợp kim ở các dạng nguyên sinh, trừ sắt thuộc nhóm 72.03. Các sản phẩm chính được phân loại ở đây là thỏi đúc và các dạng thô khác. Thỏi đúc là sản phẩm đúc sơ cấp có hình dạng và bề mặt tiêu chuẩn, dùng để gia công thêm. Các dạng thô khác bao gồm thép nóng chảy, khối, cục, và các sản phẩm đặc thù như thanh khuấy luyện và cọc với cấu trúc sợi, dùng làm xích neo hoặc móc nâng. Hai điểm loại trừ quan trọng cần lưu ý là nhóm này không bao gồm thỏi đúc phế liệu nấu chảy lại (nhóm 72.04) và các sản phẩm từ quá trình đúc liên tục (nhóm 72.07).",
+    "en": "Heading 72.06 covers iron and non-alloy steel in primary forms, excluding iron of heading 72.03. The main products classified here are ingots and other primary forms. Ingots are primary cast products with standard shapes and surfaces, intended for further processing. Other primary forms include molten steel, blocks, lumps, and specific products like puddled bars and pilings which have a fibrous structure and are used for anchor chains or hoisting hooks. Two important exclusions to note are that this heading does not cover remelting scrap ingots (heading 72.04) or products obtained by continuous casting (heading 72.07)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm sắt và thép không hợp kim ở hai dạng chính: (I) Dạng thỏi đúc và (II) Các dạng thô khác.\n(I) Dạng thỏi đúc (Ingots): Là dạng thô của kim loại đen sau khi đúc, thường có mặt cắt hình vuông, chữ nhật hoặc bát giác, với một đầu dày hơn để dễ lấy khỏi khuôn. Bề mặt phải đều, đồng dạng và không có khuyết tật. Các thỏi này sau đó được cán hoặc rèn thành bán thành phẩm hoặc sản phẩm hoàn thiện.\n(II) Các dạng thô khác (Other primary forms): Bao gồm thép ở trạng thái nóng chảy, các khối, cục, thanh khuấy luyện và cọc. Khối và cục thường thu được từ quá trình hoàn nguyên trực tiếp quặng sắt hoặc kết tủa điện phân. Thanh khuấy luyện và cọc được tạo ra sau khi loại bỏ phần lớn xỉ và cán, có cấu trúc thớ sợi đặc trưng, dùng cho các ứng dụng đặc biệt như xích neo và móc nâng.\nLoại trừ khỏi nhóm này gồm:\n(a) Thỏi đúc phế liệu nấu chảy lại (nhóm 72.04).\n(b) Các sản phẩm thu được bằng phương pháp đúc liên tục (nhóm 72.07).",
+        "en": "This heading covers iron and non-alloy steel in two main forms: (I) Ingots and (II) Other primary forms.\n(I) Ingots: The primary form into which ferrous metal is cast after production. They typically have a square, rectangular, or octagonal cross-section, with one end thicker for easier removal from moulds. The surface must be regular, uniform, and free from faults. These ingots are subsequently rolled or forged into semi-finished or finished products.\n(II) Other primary forms: Includes steel in the molten state, blocks, lumps, puddled bars, and pilings. Blocks and lumps are obtained from direct reduction of iron ore or electrolytic deposition. Puddled bars and pilings are produced after removing most of the slag and rolling, having a characteristic fibrous structure, useful for special applications like anchor chains and hoisting hooks.\nThis heading excludes:\n(a) Remelting scrap ingots (heading 72.04).\n(b) Products obtained by continuous casting (heading 72.07)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7206.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dạng thỏi đúc",
+        "en": "Ingots"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7206.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

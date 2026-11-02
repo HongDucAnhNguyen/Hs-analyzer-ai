@@ -1,0 +1,182 @@
+{
+  "heading_id": "85.40",
+  "heading_title": {
+    "vi": "Đèn điện tử và ống điện tử dùng nhiệt điện tử, ca tốt lạnh hoặc ca tốt quang điện (ví dụ, đèn điện tử và ống đèn chân không hoặc nạp khí hoặc hơi, đèn và ống điện tử chỉnh lưu hồ quang thủy ngân, ống điện tử dùng tia âm cực, ống điện tử camera truyền hình).",
+    "en": "Thermionic, cold cathode or photo-cathode valves and tubes (for example, vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathode-ray tubes, television camera tubes)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các đèn điện tử và ống điện tử sử dụng hiệu ứng của các điện tử phát ra từ cực âm (catốt) trong môi trường chân không hoặc khí. Có ba loại chính: đèn nhiệt điện tử, đèn catốt lạnh, và đèn catốt quang điện. Nhóm này bao gồm: (1) Đèn điện tử và ống điện tử chỉnh lưu; (2) Ống tia catốt (ví dụ: ống camera truyền hình, ống chuyển đổi và tăng cường hình ảnh, ống thu truyền hình, màn hình video, ống dùng trong rađa và máy hiện sóng); (3) Ống điện tử phát quang (tế bào quang điện) và bộ nhân quang; (4) Các đèn và ống điện tử khác dùng để tạo dao động, khuếch đại, v.v. Nhóm này cũng bao gồm các bộ phận của các mặt hàng trên, tuân theo Chú giải Tổng quát Phần XVI. Nhóm này không bao gồm: (a) Các tấm chắn và vật hình nón bằng thủy tinh của vỏ các ống tia catốt (nhóm 70.11); (b) Các thiết bị chỉnh lưu hồ quang thủy ngân vỏ kim loại (nhóm 85.04); (c) Các ống phát tia X (nhóm 90.22).",
+    "en": "This heading covers valves and tubes which utilise the effect of electrons emitted from a cathode in a vacuum or in gas. There are three main types: thermionic, cold cathode, and photo-cathode valves and tubes. The heading includes: (1) Rectifying tubes and valves; (2) Cathode-ray tubes (e.g., television camera tubes, image converters and intensifiers, television receiver or video monitor tubes, tubes used in radar and oscilloscopes); (3) Photoemissive tubes (photoemissive cells) and photomultipliers; (4) Other valves and tubes used for producing oscillations, as amplifiers, etc. The heading also covers parts of the above articles, subject to the General Explanatory Note to Section XVI. The heading excludes: (a) Glass face-plates and cones of envelopes for cathode-ray tubes (heading 70.11); (b) Metal tank mercury arc rectifiers (heading 85.04); (c) X-ray tubes (heading 90.22)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này chỉ bao gồm những đèn điện tử và ống điện tử sử dụng cho nhiều mục đích khác nhau nhờ ảnh hưởng của các điện tử phát ra từ cực âm (catốt) hoặc trong môi trường chân không hoặc khí. Có 3 loại: các đèn và ống nhiệt điện tử, trong đó cực âm phải được nung nóng trước khi phát ra electron; các đèn điện tử và ống điện tử catốt lạnh; và các đèn điện tử và ống điện tử catốt quang điện, trong đó catốt được kích thích nhờ tác động của ánh sáng. Tùy thuộc vào số lượng các điện cực của nó mà có tên là đèn 2 cực, ba cực, bốn cực, v.v….Với cùng một vỏ có thể có hai hoặc nhiều hệ thống có các chức năng khác nhau (các đèn điện tử hỗn hợp).",
+        "en": "This heading covers only those valves and tubes which, for different purposes, utilise the effect of electrons emitted from a cathode either in a vacuum or in gas. There are three types: thermionic valves and tubes, in which the cathode must be heated before the electrons are emitted; cold cathode valves and tubes; and photo-cathode valves and tubes, in which the cathode is excited by the action of light. According to the number of their electrodes they are termed diodes, triodes, tetrodes, etc. The same envelope may contain two or more systems with different functions (compound valves)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Vỏ của chúng có thể là thủy tinh, gốm hoặc kim loại hoặc là kết hợp của những vật liệu này và có thể gắn với phương thức làm mát (tản nhiệt kiểu cánh, tản nhiệt nhờ hệ thống nước tuần hoàn, v.v..). Có nhiều loại đèn điện tử và ống điện tử, trong đó, một số được thiết kế cho những mục đích đặc biệt như các ống đèn vi sóng (ví dụ, magnetron, klystron, đèn sóng lan truyền, carcinotron), đèn ống đĩa gắn kín (đèn hải đăng), đèn điện tử ổn áp, thyratron, ignitron,….\nNhóm này bao gồm:\n(1) Các đèn điện tử và ống điện tử chỉnh lưu. Chúng được thiết kế để chỉnh lưu dòng xoay chiều AC thành dòng một chiều DC. Có thể phân loại chúng thành kiểu chân không, kiểu khí hoặc hơi (ví dụ, hơi thủy ngân) và nói chung có hai điện cực. Các kiểu cụ thể (ví dụ, thyraton) có lưới điều khiển để thay đổi chế độ làm việc và thậm chí đôi khi còn dùng để biến đổi ngược (chuyển từ DC sang AC).\n(2) Các ống tia catốt.\n(a) Các ống điện tử dùng cho camera truyền hình (các ống thu hình, ví dụ orthicon hình ảnh hoặc vidicon hình ảnh). Chúng là các ống tia điện tử dùng để chuyển đổi một hình ảnh quang học thành một tín hiệu điện tương ứng, thường là bằng phương pháp quét.\n(b) Các ống điện tử chuyển đổi hình ảnh. Chúng là những ống chân không, trong đó một hình ảnh (thường là bức xạ hồng ngoại) được chiếu lên một bề mặt phát quang tạo ra một hình ảnh tương ứng nhìn thấy được trên một bề mặt phát sáng.\n(c) Các ống điện tử tăng cường độ nét là những đèn ống điện tử, trong đó một hình ảnh được chiếu lên một bề mặt phát quang tạo ra một hình ảnh tương ứng được tăng cường độ nét trên một bề mặt phát sáng.\n(d) Các ống điện tử tia catốt khác mà trong nó các tín hiệu điện được biến đổi thành hình ảnh nhìn thấy được một cách trực tiếp hoặc gián tiếp. Ví dụ của loại này là ống điện tử lưu thông tin. Trong các ống điện tử thu truyền hình hoặc màn hình video, các điện tử phát sinh từ catốt, sau khi được tập trung, làm lệch, v.v..., dưới dạng một chùm tia trên phần trong của thành ống (thường là phần cuối của ống điện tử) được bao phủ chất huỳnh quang và làm xuất hiện hình ảnh trên màn hình. Đèn ống tia catốt cũng thường được sử dụng trong rađa, trong các máy hiện sóng và trong các thiết bị đầu cuối của hệ thống xử lý dữ liệu tự động (ống đèn hiển thị).\n(3) Các ống điện tử phát quang, chân không hoặc được đổ đầy khí (cũng được gọi là các phần tử phát quang). Chúng gồm có một ống bằng thủy tinh hoặc thạch anh trong đó có 2 điện cực, một trong số 2 điện cực là catốt được phủ một lớp vật liệu cảm quang (thường là kim loại kiềm); dưới tác động của ánh sáng, lớp này phát ra các electron hình thành khả năng dẫn điện giữa các điện cực và đến tập trung tại anốt.",
+        "en": "The envelopes are of glass, ceramic or metal or of combinations of these materials and may incorporate means of cooling (cooling fins, water circulation system, etc.). There are many kinds of valves and tubes, some of which are designed for special purposes such as microwave tubes (e.g., magnetrons, travelling wave tubes, carcinotrons, klystrons), disc-sealed (lighthouse) tubes, stabilising valves, thyratrons, ignitrons, etc.\nThe heading includes:\n(1) Rectifying tubes and valves. These are designed for rectifying AC into DC. They may be vacuum type, gas-filled or filled with vapour (e.g., mercury vapour), and in general have two elechodes. Certain types (e.g., thyratrons) have control grids so that their operation can be regulated and even reversed (thus converting DC into AC).\n(2) Cathode-ray tubes.\n(a) Television camera tubes (image pick-up tubes, e.g., image orthicons or vidicons). These are electron-beam tubes for the conversion of an optical image into a corresponding electrical signal, usually by a scanning process.\n(b) Image converter tubes. These are vacuum tubes in which an image (usually of infra-red radiation) is projected on to a photoemissive surface which in turn produces a corresponding visible image on a luminescent surface.\n(c) Image intensifier tubes. These are electronic tubes in which an image projected on to a photoemissive surface produces a corresponding intensified image on a luminescent surface.\n(d) Other cathode-ray tubes in which electrical signals are converted, directly or indirectly, into visible images. An example of this type is the storage tube. In television receiver or video monitor tubes, the electrons from the cathode(s), after being focussed, deflected, etc., fall in the form of a beam on a part of the inner wall (usually the end of the tube) covered with fluorescent material, which constitutes a screen showing the picture the viewer sees. Cathode-ray tubes are also used in radar, in oscilloscopes and in certain automatic data processing system terminals (display tubes).\n(3) Photoemissive tubes, vacuum or gas-filled (also known as photoemissive cells). These consist of a glass or quartz tube containing two electrodes, of which the cathode is coated with a layer of photosensitive material (usually alkaline metal); under the action of the light, this layer emits electrons which establish conductibility between the electrodes and are collected on the anode."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các bộ nhân quang là các ống chân không cảm quang, chúng gồm một catốt phát quang và một bộ nhân điện tử.\n(4) Các ống điện tử và các đèn điện tử khác. Thông thường chúng đều thuộc kiểu chân không, và một số thuộc loại có nhiều điện cực. Chúng được dùng để tạo ra dao động tần số cao, như trong các bộ khuyếch đại, các bộ dò, các thiết bị quét hình (không sử dụng catốt quang điện), v.v....",
+        "en": "Photomultipliers are photosensitive vacuum tubes comprising a photoemissive cathode and an electron multiplier.\n(4) Other valves and tubes. These are usually vacuum type, and some have several electrodes. They are used for producing high frequency oscillations, as amplifiers, as detectors, as scan converters (without the use of a photocathode), etc."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung về phân loại bộ phận (xem Chú giải Tổng quát Phần XVI), bộ phận của các mặt hàng thuộc nhóm này cũng được phân loại ở đây, ví dụ, các điện cực (catốt, lưới, anốt), các loại vỏ (bằng các vật liệu trừ thủy tinh) dùng cho các ống điện tử, các vỏ chống nổ cho các ống tia catốt, các cuộn dây lái tia được đặt xung quanh cổ ống tia catốt cho mục đích quét hình.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the goods of this heading are also classified here, for example, electrodes (cathodes, grids, anodes), envelopes (of materials other than glass) for tubes, anti-implosion casings for cathode-ray tubes, deflection coils for mounting around the necks of cathode-ray tubes for scanning purposes."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Các tấm chắn và vật hình nón bằng thủy tinh của vỏ các ống tia catốt (nhóm 70.11).\n(b) Các thiết bị chỉnh lưu hồ quang thủy ngân vỏ kim loại (nhóm 85.04).\n(c) Các ống phát tia X (nhóm 90.22).",
+        "en": "The heading excludes:\n(a) Glass face-plates and cones of envelopes for cathode-ray tubes (heading 70.11).\n(b) Metal tank mercury arc rectifiers (heading 85.04).\n(c) X-ray tubes (heading 90.22)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Ống đèn hình vô tuyến dùng tia âm cực, kể cả ống đèn hình của màn hình video dùng tia âm cực:",
+        "en": "- Cathode-ray television picture tubes, including video monitor cathode-ray tubes:"
+      },
+      "subheading_id": "8540.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại màu",
+        "en": "- - Colour"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Ống đèn hình vô tuyến dùng tia âm cực, kể cả ống đèn hình của màn hình video dùng tia âm cực:",
+        "en": "- Cathode-ray television picture tubes, including video monitor cathode-ray tubes:"
+      },
+      "subheading_id": "8540.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại đơn sắc",
+        "en": "- - Monochrome"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8540.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ống camera truyền hình; bộ chuyển đổi hình ảnh và bộ tăng cường hình ảnh; ống đèn âm cực quang điện khác",
+        "en": "- Television camera tubes; image converters and intensifiers; other photo-cathode tubes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8540.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ống hiển thị dữ liệu/đồ họa, đơn sắc; ống hiển thị/đồ họa, loại màu, với điểm lân quang có bước nhỏ hơn 0,4 mm",
+        "en": "- Data/graphic display tubes, monochrome; data/graphic display tubes, colour, with a phosphor dot screen pitch smaller than 0.4 mm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8540.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ống tia ca-tốt khác",
+        "en": "- Other cathode-ray tubes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Ống đèn vi sóng (ví dụ, magnetrons, klytrons, ống đèn sóng lan truyền, carcinotrons), trừ ống đèn điều khiển lưới:",
+        "en": "- Microwave tubes (for example, magnetrons, klystrons, travelling wave tubes, carcinotrons), excluding grid-controlled tubes:"
+      },
+      "subheading_id": "8540.71",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Magnetrons",
+        "en": "- - Magnetrons"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Ống đèn vi sóng (ví dụ, magnetrons, klytrons, ống đèn sóng lan truyền, carcinotrons), trừ ống đèn điều khiển lưới:",
+        "en": "- Microwave tubes (for example, magnetrons, klystrons, travelling wave tubes, carcinotrons), excluding grid-controlled tubes:"
+      },
+      "subheading_id": "8540.79",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Đèn điện tử và ống điện tử khác:",
+        "en": "- Other valves and tubes:"
+      },
+      "subheading_id": "8540.81",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đèn điện tử và ống điện tử của máy thu hay máy khuếch đại",
+        "en": "- - Receiver or amplifier valves and tubes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Đèn điện tử và ống điện tử khác:",
+        "en": "- Other valves and tubes:"
+      },
+      "subheading_id": "8540.89",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ phận:",
+        "en": "- Parts:"
+      },
+      "subheading_id": "8540.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Của ống đèn tia ca-tốt",
+        "en": "- - Of cathode-ray tubes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ phận:",
+        "en": "- Parts:"
+      },
+      "subheading_id": "8540.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

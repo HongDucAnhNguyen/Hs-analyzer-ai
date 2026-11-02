@@ -1,0 +1,118 @@
+{
+  "heading_id": "73.15",
+  "heading_title": {
+    "vi": "Xích và các bộ phận của xích, bằng sắt hoặc thép.",
+    "en": "Chain and parts thereof, of iron or steel."
+  },
+  "summary": {
+    "vi": "Nhóm 73.15 bao gồm các loại xích bằng gang đúc, sắt hoặc thép, không phân biệt kích thước hay công dụng. Nhóm này áp dụng cho cả xích bản lề (như xích con lăn) và xích không nối bản lề (như xích bi, xích có mắt phẳng). Các sản phẩm chính bao gồm xích truyền động cho xe đạp và máy móc, xích neo, xích nâng, xích kéo, và xích trượt cho ô tô. Các xích nhỏ hơn như xích đệm hay xích cho bồn rửa cũng thuộc nhóm này. Xích có thể được gắn kèm các phụ kiện như móc hoặc khớp nối. Các bộ phận rời của xích cũng được phân loại tại đây. Nhóm này loại trừ các loại xích có tính chất trang sức (nhóm 71.17), xích cưa (Chương 82), thanh chắn cửa có xích (nhóm 83.02) và xích dùng trong trắc địa (nhóm 90.15).",
+    "en": "Heading 73.15 covers all types of chains made of cast iron, wrought iron, or steel, regardless of their dimensions or use. It applies to both articulated link chains (like roller chains) and non-articulated link chains (like ball chains, stud-link chains). Key products include transmission chains for cycles and machinery, anchor chains, lifting chains, haulage chains, and skid chains for automobiles. Smaller chains such as mattress chains or chains for sink stoppers are also included. The chains may be fitted with accessories like hooks or swivels. Separate parts of chains are also classified here. This heading excludes chains considered imitation jewellery (heading 71.17), chain saws (Chapter 82), door guards with chains (heading 83.02), and surveying chains (heading 90.15)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại xích bằng gang đúc, sắt hoặc thép, không phân biệt kích thước, quy trình sản xuất hay mục đích sử dụng. Bao gồm xích bản lề (xích con lăn, xích răng đảo ngược, xích Gall) và xích không nối bản lề (xích có mắt phẳng có tấm cách, xích bi). Cụ thể bao gồm: (1) Xích truyền động cho xe đạp, ô tô hoặc máy móc; (2) Xích neo, xích cột tàu, xích nâng, kéo, và xích trượt ô tô; (3) Xích đệm, xích cho nút chặn ống thải nước, bồn rửa, bồn cầu. Xích có thể được gắn phụ tùng (móc, khớp mắt xích, vòng kẹp) và các bộ phận rời của xích cũng thuộc nhóm này. Nhóm này không bao gồm: (a) Xích có tính chất trang sức (nhóm 71.17); (b) Xích cưa hoặc xích là bộ phận phụ của máy móc khác như xích gàu, xích móc băng chuyền (Chương 82); (c) Thanh chắn cửa có xích (nhóm 83.02); (d) Xích dùng trong trắc địa (nhóm 90.15).",
+        "en": "This heading covers chains of cast iron, wrought iron, or steel, regardless of dimensions, process of manufacture, or intended use. It includes articulated link chain (e.g., roller chain, inverted tooth chain, Galle chain) and non-articulated link chain including stud-link chain and ball chain. It includes: (1) Transmission chains for cycles, automobiles or machinery; (2) Anchor or mooring chains; lifting, haulage or towing chains; automobile skid chains; (3) Mattress chains, chains for sink stoppers, lavatory cisterns. Chains may be fitted with terminal parts or accessories (e.g., hooks, swivels, shackles) and separate parts of chains also fall in this heading. The heading excludes: (a) Chains having the character of imitation jewellery (heading 71.17); (b) Chains fitted with cutting teeth (chain saws) or chains as subsidiary parts of other machinery such as bucket chains or conveyor hook chains (Chapter 82); (c) Door guards fitted with chains (heading 83.02); (d) Surveying chains (heading 90.15)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Xích gồm nhiều mắt được nối bằng khớp dạng bản lề và các bộ phận của nó:",
+        "en": "- Articulated link chain and parts thereof:"
+      },
+      "subheading_id": "7315.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xích con lăn",
+        "en": "Roller chain"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Xích gồm nhiều mắt được nối bằng khớp dạng bản lề và các bộ phận của nó:",
+        "en": "- Articulated link chain and parts thereof:"
+      },
+      "subheading_id": "7315.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xích khác",
+        "en": "Other chain"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Xích gồm nhiều mắt được nối bằng khớp dạng bản lề và các bộ phận của nó:",
+        "en": "- Articulated link chain and parts thereof:"
+      },
+      "subheading_id": "7315.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các bộ phận",
+        "en": "Parts"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7315.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Xích trượt",
+        "en": "Skid chain"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Xích khác:",
+        "en": "- Other chain:"
+      },
+      "subheading_id": "7315.81",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Nối bằng chốt có ren hai đầu",
+        "en": "Stud-link"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Xích khác:",
+        "en": "- Other chain:"
+      },
+      "subheading_id": "7315.82",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác, ghép nối bằng mối hàn.",
+        "en": "Other, welded link"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Xích khác:",
+        "en": "- Other chain:"
+      },
+      "subheading_id": "7315.89",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7315.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Các bộ phận khác",
+        "en": "Other parts"
+      }
+    }
+  ]
+}

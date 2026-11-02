@@ -1,0 +1,139 @@
+{
+  "heading_id": "10.08",
+  "heading_title": {
+    "vi": "Kiều mạch, kê, hạt cây thóc chim; các loại ngũ cốc khác.",
+    "en": "Buckwheat, millet and canary seeds; other cereals (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm: (A) Kiều mạch (còn gọi là lúa mỳ đen), kê (hạt tròn, màu vàng rơm, bao gồm các loại Setaria, Pennisetum, Echinochloa, Eleusine, Panicum, Digitaria sanguinalis và Eragrostis tef), và hạt cây thóc chim (hạt bóng, màu rơm, thon 2 đầu). (B) Các loại ngũ cốc khác, bao gồm các loại ngũ cốc lai như lúa mì lai lúa mạch đen (triticale). Theo Chú giải phân nhóm 1008.21, thuật ngữ “hạt giống” chỉ bao gồm kê được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+    "en": "This heading covers: (A) Buckwheat (also known as black wheat), millet (a round, pale-yellow grain, including species like Setaria, Pennisetum, Echinochloa, Eleusine, Panicum, Digitaria sanguinalis and Eragrostis tef), and canary seed (a shining, straw-colored seed, elongated at both ends). (B) Other cereals, including certain hybrid grains such as triticale (a cross between wheat and rye). According to the Subheading Explanatory Note to 1008.21, the term 'seed' covers only millet regarded by the competent national authorities as being for sowing."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) KIỀU MẠCH, KÊ, HẠT CÂY THÓC CHIM",
+        "en": "(A) BUCKWHEAT, MILLET AND CANARY SEED"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm các sản phẩm này bao gồm:\n(1) Kiều mạch: Loại ngũ cốc này còn được gọi là lúa mỳ đen, thuộc họ Polygonaceae, tương đối khác với họ Gramineae mà bao gồm phần lớn các loại ngũ cốc khác.\n(2) Kê, hạt tròn màu vàng rơm và bao gồm các loại: Setaria, Pennisetum, Echinochloa, Eleusine (kể cả Eleusine coracana (Coracan)), Panicum, Digitaria sanguinalis và Eragrostis tef.\n(3) Hạt cây thóc chim, là hạt có màu rơm, bóng, thon 2 đầu.",
+        "en": "This group covers :\n(1) Buckwheat. This cereal, also known as black wheat, belongs to the Polygonaceae family, quite different from the Gramineae family which includes most other cereals.\n(2) Millet, a round grain, pale-yellow in colour. It includes the following species: Setaria spp., Pennisetum spp., Echinochloa spp., Eleusine spp. (including Eleusine coracana (Coracan)), Panicum spp., Digitaria sanguinalis and Eragrostis tef.\n(3) Canary seed, a shining straw coloured seed, elongated and pointed at both ends."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) NHỮNG LOẠI NGŨ CỐC KHÁC\nNhóm các sản phẩm này bao gồm một số loại ngũ cốc lai, ví dụ, lúa mì đen (triticale), loại ngũ cốc lai giữa lúa mì và mạch đen.",
+        "en": "(B) OTHER CEREALS\nThis group includes certain hybrid grains, e.g., triticale, a cross between wheal and rye."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 1008.21\nTheo mục đích của phân nhóm 1008.21, thuật ngữ “hạt giống” chỉ bao gồm kê được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+        "en": "Subheading Explanatory Note.\nSubheading 1008.21\nFor the purposes of subheading 1008.21. the term “seed” covers only millet regarded by the competent national authorities as being for sowing."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1008.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Kiều mạch",
+        "en": "Buckwheat"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Kê:",
+        "en": "Millet:"
+      },
+      "subheading_id": "1008.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hạt giống",
+        "en": "Seed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Kê:",
+        "en": "Millet:"
+      },
+      "subheading_id": "1008.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1008.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hạt cây thóc chim (họ lúa)",
+        "en": "Canary seeds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1008.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hạt kê Fonio (Digitaria spp.)",
+        "en": "Fonio (Digitaria spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1008.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hạt diêm mạch (Chenopodium quinoa)",
+        "en": "Quinoa (Chenopodium quinoa)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1008.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lúa mì lai lúa mạch đen (Triticale)",
+        "en": "Triticale"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1008.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ngũ cốc loại khác",
+        "en": "Other cereals"
+      }
+    }
+  ]
+}

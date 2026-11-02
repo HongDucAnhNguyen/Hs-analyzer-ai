@@ -1,0 +1,46 @@
+{
+  "heading_id": "26.16",
+  "heading_title": {
+    "vi": "Quặng kim loại quý và tinh quặng kim loại quý",
+    "en": "Precious metal ores and concentrates."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại quặng và tinh quặng của kim loại quý. Các quặng chính bao gồm argentite, calaverite, cerargyrite, polybasite, proustite, pyrargyrite, stephanite, và cát chứa vàng và platinum. Cát chứa platinum thường chứa các kim loại khác thuộc nhóm platinum (ví dụ: iridium, osmium, palladium, rhodium và ruthenium).",
+    "en": "This heading covers ores and concentrates of precious metals. The principal ores include argentite, calaverite, cerargyrites, polybasite, proustite, pyrargyrite, stephanite, and gold and platinum-bearing sands. The latter frequently contain other metals of the platinum group (i.e., iridium, osmium, palladium, rhodium and ruthenium)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các quặng chính thường được phân loại trong nhóm này là: (a) Argentite, bạc sulphide. (b) Calaverite, telluride của vàng và bạc. (c) Cerargyrite (hoặc horn silver), các bạc chloride, bạc iodide. (d) Polybasite, sulphide của bạc và antimony. (e) Proustite, sulphide của bạc và arsenic. (f) Pyrargyrite, sulphide của bạc và antimony. (g) Stephanite, sulphide của bạc và antimony. (h) Cát có chứa vàng và platinum, loại sau thường chứa các kim loại khác thuộc nhóm platinum (ví dụ: iridium, osmium, palladium, rhodium và ruthenium).",
+        "en": "The principal ores generally classified in this heading are: (a) Argentite, silver sulphide. (b) Calaverite, telluride of gold and silver. (c) Cerargyrites (or horn silver), silver chlorides and iodides. (d) Polybasite, sulphide of silver and antimony. (e) Proustite, sulphide of silver and arsenic. (f) Pyrargyrite, sulphide of silver and antimony. (g) Stephanite, sulphide of silver and antimony. (h) Gold and platinum-bearing sands: the latter frequently contain other metals of the platinum group (i.e., iridium, osmium, palladium, rhodium and ruthenium)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2616.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quặng bạc và tinh quặng bạc",
+        "en": "Silver ores and concentrates"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2616.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

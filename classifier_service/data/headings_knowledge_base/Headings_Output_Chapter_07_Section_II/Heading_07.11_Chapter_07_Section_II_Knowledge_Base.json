@@ -1,0 +1,96 @@
+{
+  "heading_id": "07.11",
+  "heading_title": {
+    "vi": "Rau các loại đã bảo quản tạm, nhưng không ăn ngay được.",
+    "en": "Vegetables provisionally preserved, but unsuitable in that state for immediate consumption."
+  },
+  "summary": {
+    "vi": "Nhóm này áp dụng cho các loại rau đã được xử lý chỉ để bảo quản tạm thời trong quá trình vận chuyển hoặc lưu trữ (ví dụ: bằng khí sunphurơ, ngâm nước muối, ngâm nước lưu huỳnh hoặc trong dung dịch bảo quản khác), với điều kiện chúng không thể ăn ngay được. Các loại rau chính thuộc nhóm này là hành tây, ôliu, nụ bạch hoa, dưa chuột, dưa chuột ri, nấm, nấm cục và cà chua. Tuy nhiên, nhóm này loại trừ các sản phẩm mà ngoài việc bảo quản tạm thời đã được xử lý theo phương pháp đặc biệt (ví dụ: lên men lactic) thì sẽ thuộc Chương 20.",
+    "en": "This heading applies to vegetables treated solely for provisional preservation during transport or storage (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), provided they remain unsuitable for immediate consumption. The principal varieties are onions, olives, capers, cucumbers, gherkins, mushrooms, truffles and tomatoes. However, the heading excludes goods which, in addition to provisional preservation, have been specially treated (e.g., by lactic fermentation); these fall in Chapter 20."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này áp dụng cho các loại rau đã được xử lý chỉ để bảo quản tạm thời trong quá trình vận chuyển hoặc lưu trữ trước khi sử dụng (ví dụ: bảo quản bằng khí sunphurơ, ngâm nước muối, ngâm nước lưu huỳnh hoặc ngâm trong dung dịch bảo quản khác), với điều kiện chúng vẫn không thể ăn ngay được khi ở dạng đó.",
+        "en": "This heading applies to vegetables which have been treated solely to ensure their provisional preservation during transport or storage prior to use (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), provided they remain unsuitable for immediate consumption in that state."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Rau thuộc nhóm này nói chung được đóng gói trong thùng phuy hoặc thùng tô nô, và chủ yếu dùng làm nguyên liệu thô cho sản xuất; các loại chính là hành tây, ôliu, nụ bạch hoa, dưa chuột, dưa chuột ri, nấm, nấm cục (truffle) và cà chua.",
+        "en": "Vegetables covered by this heading are generally packed in casks or barrels, and are mainly used as raw materials for manufacturing purposes: the principal varieties are onions, olives, capers, cucumbers, gherkins, mushrooms, truffles and tomatoes."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Tuy nhiên nhóm này loại trừ những sản phẩm mà ngoài việc bảo quản tạm thời bằng cách ngâm trong nước muối, cũng đã được xử lý theo phương pháp đặc biệt (ví dụ: ngâm trong dung dịch natri carbonate, lên men lactic); chúng thuộc Chương 20 (ví dụ ôliu xanh (ngâm dấm), dưa bắp cải, dưa chuột ri và hạt đậu xanh).",
+        "en": "However the heading excludes goods which, in addition to having been provisionally preserved in brine, have also been specially treated (e.g., by soda solution, by lactic fermentation); these fall in Chapter 20 (for example, olives, sauerkraut, gherkins and green beans)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0711.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ôliu",
+        "en": "Olives"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0711.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dưa chuột và dưa chuột ri",
+        "en": "Cucumbers and gherkins"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nấm và nấm cục (truffle):",
+        "en": "Mushrooms and truffles :"
+      },
+      "subheading_id": "0711.51",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Nấm thuộc chi Agaricus",
+        "en": "Mushrooms of the genus Agaricus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nấm và nấm cục (truffle):",
+        "en": "Mushrooms and truffles :"
+      },
+      "subheading_id": "0711.59",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0711.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Rau khác; hỗn hợp các loại rau",
+        "en": "Other vegetables; mixtures of vegetables"
+      }
+    }
+  ]
+}

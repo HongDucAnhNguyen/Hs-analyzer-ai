@@ -1,0 +1,58 @@
+{
+  "heading_id": "82.12",
+  "heading_title": {
+    "vi": "Dao cạo và lưỡi dao cạo (kể cả lưỡi dao cạo chưa hoàn thiện ở dạng dải).",
+    "en": "Razors and razor blades (including razor blade blanks in strips)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại dao cạo và lưỡi dao cạo, bao gồm: dao cạo có lưỡi hở, dao cạo an toàn và các bộ phận kim loại cơ bản của chúng, dao cạo nhựa đã lắp kèm lưỡi, dụng cụ cạo râu khô không dùng điện và các bộ phận của chúng. Nhóm này cũng bao gồm phôi lưỡi dao cạo ở dạng dải thép đã được khoan lỗ hoặc rạch sẵn. Nhóm này không bao gồm dao cạo râu nhựa không có lưỡi (nhóm 39.24) và dao cạo râu điện cùng các bộ phận của chúng (nhóm 85.10).",
+    "en": "This heading covers razors and razor blades, including: open blade razors, safety razors and their base metal parts, plastic razors presented with their blades, and non-electric dry shavers and their parts. It also includes razor blade blanks in the form of perforated or incised steel strips. The heading excludes plastic safety razors presented without their blades (heading 39.24) and electric razors and their parts (heading 85.10)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm: (1) Dao cạo có lưỡi hở, kể cả những lưỡi trình bày riêng (hoàn tất hoặc chưa) và các tay cầm làm bằng kim loại cơ bản trình bày riêng rẽ. (2) Dao cạo râu an toàn và các bộ phận làm bằng kim loại cơ bản và lưỡi của chúng, đã hoàn tất hoặc chưa. (3) Dao cạo râu nhựa đã lắp kèm các lưỡi dao. Nhóm này cũng bao gồm dụng cụ cạo râu khô không dùng điện và các loại lưỡi, tấm cắt và đầu dao dùng cho dao cạo không dùng điện. Phôi lưỡi dao cạo râu cũng được kể đến trong nhóm này dưới dạng đoạn thép đã nhiệt luyện hoặc chưa, với điều kiện là những phôi này đã được khoan lỗ sẵn để gia công lưỡi dao cạo râu hoặc hình dạng cơ bản của lưỡi cắt được rạch sẵn cho phép bằng một sức ép nhẹ có thể tách rời. Nhóm này cũng không bao gồm: (a) Dao cạo râu nhựa không có lưỡi (nhóm 39.24). (b) Dao cạo râu điện, lưỡi cắt và đĩa cắt của các loại dao cạo râu này (nhóm 85.10).",
+        "en": "This heading covers: (1) Open blade razors, including separately presented blades (finished or not), and separately presented base metal handles. (2) Safety razors, and their base metal parts and blades, finished or not. (3) Plastic safety razors presented with their blades. The heading also covers non-electric dry shavers and blades, cutting plates and heads for non-electric razors. Blanks of safety razor blades are also included in the heading when in the form of lengths of strip steel, tempered or not, provided they have been perforated ready for the manufacture of safety razor blades, or the outline of the blade has been incised allowing separation by slight pressure. The heading excludes: (a) Plastic safety razors presented without their blades (heading 39.24). (b) Electric razors and heads, blades and cutting plates of such razors (heading 85.10)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8212.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Dao cạo",
+        "en": "Razors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8212.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Lưỡi dao cạo an toàn, kể cả lưỡi dao cạo chưa hoàn thiện ở dạng dải",
+        "en": "Safety razor blades, including razor blade blanks in strips"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8212.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Các bộ phận khác",
+        "en": "Other parts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "heading_id": "29.19",
+  "heading_title": {
+    "vi": "Este phosphoric và muối của chúng, kể cả lactophosphat; các dẫn xuất đã halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng*.",
+    "en": "Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives*."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các este phosphoric và muối của chúng, kể cả lactophosphat, và các dẫn xuất đã halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng. Axit phosphoric là tribasic và có thể tạo thành ba loại este. Các este và muối của chúng bao gồm axit glycerophosphoric và muối của nó (canxi, sắt, natri glyxerophosphat), axit inositolhexaphosphoric và muối của nó, tributyl phosphat, triphenyl phosphat, tritolyl phosphat, trixylyl phosphat, triguaiacyl phosphat và lactophosphat.",
+    "en": "This heading covers phosphoric esters and their salts, including lactophosphates, and their halogenated, sulphonated, nitrated or nitrosated derivatives. Phosphoric acid is tribasic and can form three types of esters. The esters and their salts include glycerophosphoric acid and its salts (e.g., calcium, iron, sodium glycerophosphate), inositolhexaphosphoric acid and inositolhexaphosphates, tributyl phosphate, triphenyl phosphate, tritolyl phosphate, trixylyl phosphate, triguaiacyl phosphate, and lactophosphates (e.g., calcium lactophosphate)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Axit phosphoric là tribasic, cho ba loại của este phosphoric tương ứng với một, hai hoặc tất cả các nhóm chức axit của nó bị este hoá.",
+        "en": "Phosphoric acid, being tribasic, gives three types of phosphoric esters according to whether one, two or all of its acidic groups are esterified."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các este và muối của chúng bao gồm:\n(1) Axit glycerophosphoric. Được điều chế từ sự bão hòa của một nhóm rượu bậc nhất của glyxerol với phần còn lại của axit phosphoric. Muối quan trọng nhất của các este này được sử dụng trong y học làm thuốc bổ dưỡng, ví dụ: (a) Canxi glyxerophosphat. (b) Sắt glyxerophosphat. (c) Natri glyxerophosphat.\n(2) Axit inositolhexaphosphoric và inositolhexaphosphates.\n(3) Tributyl phosphat*. Là chất lỏng không mầu, không mùi; được sử dụng làm chất hóa dẻo.",
+        "en": "The esters and their salts include:\n(1) Glycerophosphoric acid. Derived from saturation of one of the primary alcoholic groups of glycerol with the residue of phosphoric acid. The most important salts of these esters are used in medicine as tonics, e.g.: (a) Calcium glycerophosphate. (b) Iron glycerophosphate. (c) Sodium glycerophosphate.\n(2) Inositolhexaphosphoric acid and inositolhexaphosphates.\n(3) Tributyl phosphate*. Colourless, odourless liquid; used as a plasticiser."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(4) Triphenyl phosphat. Ở dạng tinh thể không mùi và không màu; được sử dụng cho sản xuất plastic (ví dụ, xelluloit), cho giấy chống thấm nước,…\n(5) Tritolyl phosphat. Là chất lỏng không màu hoặc màu hơi vàng; được sử dụng làm chất hóa dẻo cho sản phẩm xenlulo và nhựa tổng hợp, cho tuyển nổi quặng..\n(6) Trixylyl phosphat.\n(7) Triguaiacyl phosphat.\n(8) Lactophosphat, ví dụ, canxi lactophosphat, đã hoặc chưa xác định về mặt hóa học.",
+        "en": "(4) Triphenyl phosphate. Colourless and odourless crystals; used for the manufacture of plastics (e.g., celluloid), for waterproofing paper, etc.\n(5) Tritolyl phosphate. Colourless or yellowish liquid; used as a plasticiser for cellulose products and synthetic resins, for the flotation of ores. etc.\n(6) Trixylyl phosphate.\n(7) Triguaiacyl phosphate.\n(8) Lactophosphates. e.g., calcium lactophosphate, whether or not chemically defined."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2919.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tris (2,3-dibromopropyl) phosphat",
+        "en": "Tris (2,3-dibromopropyl) phosphate"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2919.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

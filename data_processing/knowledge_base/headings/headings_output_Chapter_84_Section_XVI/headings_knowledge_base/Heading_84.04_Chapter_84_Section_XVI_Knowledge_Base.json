@@ -1,0 +1,65 @@
+{
+  "heading_id": "84.04",
+  "heading_title": {
+    "vi": "Thiết bị phụ trợ dùng cho các loại nồi hơi thuộc nhóm 84.02 hoặc 84.03 (ví dụ, bộ tiết kiệm nhiên liệu, thiết bị quá nhiệt, máy cạo rửa nồi hơi, thiết bị thu hồi chất khí); thiết bị ngưng tụ dùng cho các tổ máy động lực hơi nước hoặc hơi khác.",
+    "en": "Auxiliary plant for use with boilers of heading 84.02 or 84.03 (for example, economisers, super-heaters, soot removers, gas recoverers); condensers for steam or other vapour power units."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hai loại thiết bị chính. Loại thứ nhất là thiết bị phụ trợ cho nồi hơi thuộc nhóm 84.02 hoặc 84.03, bao gồm bộ tiết kiệm nhiên liệu, bộ làm nóng sơ bộ khí, bộ phận quá nhiệt, bộ khử quá nhiệt, bộ thu/tích hơi nước, bộ tích nhiệt, thành lò bằng ống dẫn, thiết bị loại bỏ muội, thiết bị thu hồi khí ga và dụng cụ cạo cặn. Loại thứ hai là thiết bị ngưng tụ cho tổ máy động lực hơi nước, dùng để tăng hiệu suất động cơ, bao gồm thiết bị ngưng tụ bề mặt, ngưng tụ bằng trộn lẫn và ngưng tụ làm mát bằng không khí. Nhóm này cũng bao gồm các bộ phận của các thiết bị trên, nhưng loại trừ các ống kim loại chỉ được uốn cong (Phần XV), bơm và quạt (nhóm 84.13, 84.14), đầu đốt lò (nhóm 84.16), thiết bị chưng cất và ngưng tụ khác (nhóm 84.19), và máy lọc (nhóm 84.21).",
+    "en": "This heading covers two main categories of equipment. The first is auxiliary plant for boilers of heading 84.02 or 84.03, including economisers, air pre-heaters, super-heaters, de-super-heaters, steam collectors/accumulators, heat accumulators, tubular furnace-walls, soot removers, gas recoverers, and sludge scrapers. The second category is condensers for steam power units, used to increase engine efficiency, which includes surface, mixing, and air-cooled condensers. The heading also covers parts for these apparatus, but excludes metal tubes that are only bent (Section XV), pumps and fans (headings 84.13, 84.14), furnace burners (heading 84.16), other distillation and condensing plant (heading 84.19), and filters (heading 84.21)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) Thiết bị phụ trợ dùng cho nồi hơi thuộc nhóm 84.02 hoặc 84.03, bao gồm: (1) Bộ tiết kiệm nhiên liệu để đun nóng sơ bộ nước cấp; (2) Bộ làm nóng sơ bộ khí; (3) Bộ phận quá nhiệt để tạo hơi nước nhiệt độ cao; (4) Bộ khử quá nhiệt để kiểm soát nhiệt độ; (5) Bộ thu hơi nước; (6) Bộ tích hơi nước; (7) Bộ tích nhiệt hoặc thu nhiệt; (8) Thành lò bằng các ống dẫn; (9) Thiết bị loại bỏ muội (máy thổi muội) dùng hơi nước hoặc khí nén để làm sạch.",
+        "en": "(A) Auxiliary plant for use with boilers of heading 84.02 or 84.03, including: (1) Economisers for pre-heating the boiler feed water; (2) Air pre-heaters; (3) Super-heaters to produce high-temperature steam; (4) De-super-heaters for temperature control; (5) Steam collectors; (6) Steam accumulators; (7) Thermic or heat accumulators; (8) Tubular furnace-walls; (9) Soot removers (soot blowers) using jets of steam or compressed air for cleaning."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Tiếp tục mô tả thiết bị phụ trợ: (10) Thiết bị thu khí ga để tái đốt cháy; (11) Dụng cụ rửa sạch, làm sạch cặn nồi hơi. (B) Thiết bị ngưng tụ dùng cho các tổ máy động lực hơi nước hoặc hơi khác để tăng hiệu suất, gồm: (1) Thiết bị ngưng tụ trên bề mặt; (2) Thiết bị ngưng tụ bằng trộn lẫn; (3) Thiết bị ngưng tụ làm mát không khí. Các bộ phận của các thiết bị trên cũng được bao gồm, trừ các ống kim loại chỉ uốn cong (Phần XV). Các mặt hàng bị loại trừ bao gồm: (a) Bơm và quạt (nhóm 84.13 hoặc 84.14); (b) Đầu đốt lò, máy nạp nhiên liệu cơ khí, ghi lò (nhóm 84.16); (c) Thiết bị chưng cất và thiết bị ngưng tụ khác (nhóm 84.19); (d) Máy lọc và tinh chế (nhóm 84.21).",
+        "en": "Continuing with auxiliary plant: (10) Gas recoverers for re-combustion; (11) Sludge scrapers. (B) Condensers for steam or other vapour power units to increase efficiency, including: (1) Surface-condensers; (2) Mixing condensers; (3) Air-cooled condensers. Parts for the above apparatus are also included, except for metal tubes that are only bent or curved (Section XV). Excluded items include: (a) Pumps, blowers, fans (heading 84.13 or 84.14); (b) Furnace burners, mechanical grates, mechanical stokers (heading 84.16); (c) Distillation and other condensers (heading 84.19); (d) Filters and purifiers for water, gases (heading 84.21)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8404.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị phụ trợ dùng cho các loại nồi hơi thuộc nhóm 84.02 hoặc 84.03",
+        "en": "Auxiliary plant for use with boilers of heading 84.02 or 84.03"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8404.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị ngưng tụ dùng cho tổ máy động lực hơi nước hoặc hơi khác",
+        "en": "Condensers for steam or other vapour power units"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8404.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

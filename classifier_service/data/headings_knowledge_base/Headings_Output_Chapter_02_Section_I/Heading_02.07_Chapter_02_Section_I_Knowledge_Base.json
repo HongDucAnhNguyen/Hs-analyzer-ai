@@ -1,0 +1,250 @@
+{
+  "heading_id": "02.07",
+  "heading_title": {
+    "vi": "Thịt và phụ phẩm ăn được sau giết mổ, của gia cầm thuộc nhóm 01.05, tươi, ướp lạnh hoặc đông lạnh.",
+    "en": "Meat and edible offal, of the poultry of heading 01.05, fresh, chilled or frozen."
+  },
+  "summary": {
+    "vi": "Nhóm này chỉ bao gồm thịt và phụ phẩm ăn được sau giết mổ, tươi, ướp lạnh hoặc đông lạnh của gia cầm nuôi thuộc nhóm 01.05. Các phụ phẩm ăn được quan trọng trong thương mại quốc tế là gan gà, gan ngỗng hoặc gan vịt, ngan, bao gồm cả 'gan béo' của ngỗng hoặc vịt, ngan. 'Gan béo' có thể được phân biệt bởi kích thước lớn hơn, nặng hơn, đặc hơn và nhiều mỡ hơn; màu sắc của chúng thay đổi từ be trắng đến hạt dẻ nhạt, trong khi các loại gan khác thường có màu đỏ đậm hoặc nhạt.",
+    "en": "This heading covers only fresh, chilled or frozen meat and edible offal of domestic poultry classified in heading 01.05. The poultry offal of greatest importance in international trade is chicken, goose or duck livers. This includes “fatty livers” of geese or ducks, which are distinguishable by being much larger, heavier, firmer, and richer in fat; their colour varies from whitish beige to light chestnut, whereas other livers are generally of a dark or light reddish colour."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này chỉ bao gồm thịt và phụ phẩm ăn được sau giết mổ, tươi, ướp lạnh hoặc đông lạnh của gia cầm nuôi mà khi sống, được phân loa ̣i vào nhóm 01.05.\nNhững phụ phẩm ăn được sau giết mổ của gia cầm chiếm phần quan trọng trong thương mại quốc tế là gan gà, gan ngỗng hoặc gan vịt, ngan. Những loại này bao gồm cả \"gan béo\" của ngỗng hoặc của vịt, ngan có thể phân biệt được với những loại gan khác vì chúng to hơn, nặng hơn, đặc hơn và nhiều mỡ hơn; màu của “gan béo\" thay đổi từ be trắng sang màu hạt dẻ nhạt, trong khi những loại gan khác nói chung có màu đỏ đậm hoặc nhạt.",
+        "en": "This heading covers only fresh, chilled or frozen meat and edible offal of domestic poultry which, when live, are classified in heading 01.05.\nThe poultry offal of greatest importance in international trade is chicken, goose or duck livers. These include “fatty livers” of geese or ducks which may be distinguished from other livers by the fact that they are much larger and heavier, firmer and richer in fat; their colour varies from whitish beige to light chestnut, while the other livers are in general of a dark or light reddish colour."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Của gà thuộc loài Gallus domesticus:",
+        "en": "Of fowls of the species Gallus domesticus:"
+      },
+      "subheading_id": "0207.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa chặt mảnh, tươi hoặc ướp lạnh",
+        "en": "Not cut in pieces, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của gà thuộc loài Gallus domesticus:",
+        "en": "Of fowls of the species Gallus domesticus:"
+      },
+      "subheading_id": "0207.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa chặt mảnh, đông lạnh",
+        "en": "Not cut in pieces, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của gà thuộc loài Gallus domesticus:",
+        "en": "Of fowls of the species Gallus domesticus:"
+      },
+      "subheading_id": "0207.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã chặt mảnh và phụ phẩm sau giết mổ, tươi hoặc ướp lạnh",
+        "en": "Cuts and offal, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của gà thuộc loài Gallus domesticus:",
+        "en": "Of fowls of the species Gallus domesticus:"
+      },
+      "subheading_id": "0207.14",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã chặt mảnh và phụ phẩm sau giết mổ, đông lạnh",
+        "en": "Cuts and offal, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của gà tây:",
+        "en": "Of turkeys:"
+      },
+      "subheading_id": "0207.24",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa chặt mảnh, tươi hoặc ướp lạnh",
+        "en": "Not cut in pieces, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của gà tây:",
+        "en": "Of turkeys:"
+      },
+      "subheading_id": "0207.25",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa chặt mảnh, đông lạnh",
+        "en": "Not cut in pieces, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của gà tây:",
+        "en": "Of turkeys:"
+      },
+      "subheading_id": "0207.26",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã chặt mảnh và phụ phẩm sau giết mổ, tươi hoặc ướp lạnh",
+        "en": "Cuts and offal, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của gà tây:",
+        "en": "Of turkeys:"
+      },
+      "subheading_id": "0207.27",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã chặt mảnh và phụ phẩm sau giết mổ, đông lạnh",
+        "en": "Cuts and offal, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của vịt, ngan:",
+        "en": "Of ducks:"
+      },
+      "subheading_id": "0207.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa chặt mảnh, tươi hoặc ướp lạnh",
+        "en": "Not cut in pieces, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của vịt, ngan:",
+        "en": "Of ducks:"
+      },
+      "subheading_id": "0207.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa chặt mảnh, đông lạnh",
+        "en": "Not cut in pieces, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của vịt, ngan:",
+        "en": "Of ducks:"
+      },
+      "subheading_id": "0207.43",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Gan béo, tươi hoặc ướp lạnh",
+        "en": "Fatty livers, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của vịt, ngan:",
+        "en": "Of ducks:"
+      },
+      "subheading_id": "0207.44",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, tươi hoặc ướp lạnh",
+        "en": "Other, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của vịt, ngan:",
+        "en": "Of ducks:"
+      },
+      "subheading_id": "0207.45",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, đông lạnh",
+        "en": "Other, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của ngỗng:",
+        "en": "Of geese:"
+      },
+      "subheading_id": "0207.51",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa chặt mảnh, tươi hoặc ướp lạnh",
+        "en": "Not cut in pieces, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của ngỗng:",
+        "en": "Of geese:"
+      },
+      "subheading_id": "0207.52",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa chặt mảnh, đông lạnh",
+        "en": "Not cut in pieces, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của ngỗng:",
+        "en": "Of geese:"
+      },
+      "subheading_id": "0207.53",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Gan béo, tươi hoặc ướp lạnh",
+        "en": "Fatty livers, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của ngỗng:",
+        "en": "Of geese:"
+      },
+      "subheading_id": "0207.54",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, tươi hoặc ướp lạnh",
+        "en": "Other, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của ngỗng:",
+        "en": "Of geese:"
+      },
+      "subheading_id": "0207.55",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, đông lạnh",
+        "en": "Other, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0207.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Của gà lôi",
+        "en": "Of guinea fowls"
+      }
+    }
+  ]
+}

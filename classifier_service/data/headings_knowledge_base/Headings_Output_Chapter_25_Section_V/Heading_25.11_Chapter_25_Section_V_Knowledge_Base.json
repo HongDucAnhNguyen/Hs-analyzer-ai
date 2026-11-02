@@ -1,0 +1,46 @@
+{
+  "heading_id": "25.11",
+  "heading_title": {
+    "vi": "Bari sulphat tự nhiên (barytes); bari carbonat tự nhiên (witherite), đã hoặc chưa nung, trừ bari oxit thuộc nhóm 28.16.",
+    "en": "Natural barium sulphate (barytes); natural barium carbonate (witherite), whether or not calcined, other than barium oxide of heading 28.16."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bari sulphate tự nhiên (barytes) và bari carbonat tự nhiên (witherite). Witherite đã nung, chứa phần lớn là bari oxit không tinh khiết, vẫn được phân loại trong nhóm này. Nhóm này không bao gồm bari sulphate và bari carbonate đã tinh chế hoặc sản xuất hóa học (tương ứng thuộc nhóm 28.33 và 28.36) và bari oxit tinh khiết (nhóm 28.16).",
+    "en": "This heading covers naturally occurring barium sulphate (barytes) and barium carbonate (witherite). Calcined witherite, which consists largely of impure barium oxide, remains in this heading. The heading excludes refined or chemically produced barium sulphate and barium carbonate (headings 28.33 and 28.36 respectively) and purified barium oxide (heading 28.16)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này chỉ bao gồm bari sulphate ở dạng tự nhiên (barytes đôi khi được biết như là khoáng spar nặng) và barium carbonate (witherrite). Barium Sulphate và Barium carbonate đã tinh chế hoặc được sản xuất bằng phương pháp hoá học bị loại trừ (nhóm 28.33 và 28.36 tương ứng). Witherrite (BaCO3) đã nung, chứa lượng lớn tạp chất barium oxide, vẫn được xếp trong nhóm này. Nhóm này loại trừ bari oxit tinh chế (nhóm 28.16).",
+        "en": "This heading covers only the naturally occurring barium sulphate (barytes - sometimes known as heavy spar) and barium carbonate (witherite). Refined or chemically produced barium sulphate and barium carbonate are excluded (headings 28.33 and 28.36 respectively). Calcined witherite, which consists largely of impure barium oxide, remains in this heading. The heading excludes purified barium oxide (heading 28.16)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2511.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bari sulphate tự nhiên (barytes)",
+        "en": "Natural barium sulphate (barytes)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2511.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bari carbonate tự nhiên (witherite)",
+        "en": "Natural barium carbonate (witherite)"
+      }
+    }
+  ]
+}

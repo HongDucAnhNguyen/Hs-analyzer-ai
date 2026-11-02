@@ -1,0 +1,187 @@
+{
+  "heading_id": "29.02",
+  "heading_title": {
+    "vi": "Hydrocarbon mạch vòng.",
+    "en": "Cyclic hydrocarbons."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các hydrocarbon mạch vòng, là những hợp chất chỉ chứa cacbon và hydro và có ít nhất một vòng trong cấu trúc của chúng. Chúng được phân loại thành ba loại chính: (A) Xyclan và xyclen (ví dụ: cyclohexane), (B) Xycloterpen (ví dụ: pinen, limonen), và (C) Hydrocarbon thơm (ví dụ: benzen, toluen, xylen, styren, naphtalen).\nNhóm này có các yêu cầu nghiêm ngặt về độ tinh khiết đối với một số hydrocarbon thơm để được phân loại vào nhóm này: benzen (≥95%), toluen (≥95%), xylen (≥95% tổng các đồng phân), naphtalen (điểm kết tinh ≥79,4 °C), và anthracene (≥90%). Các sản phẩm có độ tinh khiết thấp hơn sẽ bị loại trừ và phân loại vào nhóm 27.07.\nNhóm này không bao gồm: caroten tổng hợp (nhóm 32.04); dipenten thô và p-cymen thô (nhóm 38.05); tinh dầu (nhóm 33.01); gôm, gỗ hoặc sulphat turpentine và các loại dầu terpenic khác (nhóm 38.05); và các hỗn hợp alkylaren như dodecylbenzenes và nonylnaphthalenes (nhóm 38.17).",
+    "en": "This heading covers cyclic hydrocarbons, which are compounds containing only carbon and hydrogen and having at least one ring in their structure. They are classified into three main categories: (A) Cyclanes and cyclenes (e.g., cyclohexane), (B) Cycloterpenes (e.g., pinene, limonene), and (C) Aromatic hydrocarbons (e.g., benzene, toluene, xylenes, styrene, naphthalene).\nThe heading has strict purity requirements for certain aromatic hydrocarbons to be classified herein: benzene (≥95%), toluene (≥95%), xylenes (≥95% of all isomers), naphthalene (crystallising point ≥79.4 °C), and anthracene (≥90%). Products of lower purity are excluded to heading 27.07.\nThis heading excludes: synthetic carotenes (heading 32.04); crude dipentene and crude p-cymene (heading 38.05); essential oils (heading 33.01); gum, wood or sulphate turpentine and other terpenic oils (heading 38.05); and mixed alkylarenes such as dodecylbenzenes and nonylnaphthalenes (heading 38.17)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Hydrocarbon vòng là những hợp chất chỉ chứa cacbon và hydro trong thành phần và có ít nhất một vòng trong cấu trúc của chúng. Chúng được phân loại thành ba loại:\n(A) Những xyclan và xyclen.\n(B) Những xycloterpen.\n(C) Những hydrocarbon thơm.\n\n(A) NHỮNG XYCLAN VÀ XYCLEN\nĐây là những hydrocarbon vòng tương ứng với công thức chung CnH2n khi chúng là những xyclan đơn vòng no và công thức chung là CnH2n-x (x có thể là 2,4,6,...) khi chúng là các xyclan đa vòng hoặc khi chúng là các vòng không no (xyclen). Chúng bao gồm:\n(1) Những xyclan đơn vòng: cyclopropane, cyclobutane, cyclopentane, cyclohexane.\n(2) Những xyclan đa vòng: decahydronaphthalene, các hợp chất có cầu nối, và các hợp chất có cấu trúc \"lồng\".\n(3) Những xyclen: cyclobutene, cyclopentene, cyclohexene, cyclo-octaetraene, azulen.\nTuy nhiên, nhóm này không bao gồm caroten tổng hợp thuộc nhóm 32.04.\n\n(B) XYCLOTERPEN\nNhững hydrocarbon này không khác về mặt cấu trúc hóa học chung so với nhóm xyclen và có công thức chung (C5H8)n trong đó n có thể là 2 hoặc hơn. Chúng tồn tại trong tự nhiên ở các loài thực vật như chất lỏng có mùi thơm, dễ bay hơi.",
+        "en": "Cyclic hydrocarbons are compounds containing only carbon and hydrogen which have at least one ring in their structure. They can be classified in three categories:\n(A) Cyclanes and cyclenes.\n(B) Cycloterpenes.\n(C) Aromatic hydrocarbons.\n\n(A) CYCLANES AND CYCLENES\nThese are cyclic hydrocarbons which correspond to the general formula CnH2n when they are saturated monocyclic cyclanes and to the general formula CnH2n-x (in which x may be 2, 4, 6, etc.) when they are polycyclic cyclanes or when they are unsaturated (cyclenes). They include:\n(1) The monocyclic cyclanes: cyclopropane, cyclobutane, cyclopentane, cyclohexane.\n(2) The polycyclic cyclanes: decahydronaphthalene, bridge-linked compounds, and compounds with a “cage” structure.\n(3) The cyclenes: cyclobutene, cyclopentene, cyclohexene, cyclo-octaetraene, azulen.\nThis heading does not, however, include synthetic carotenes which fall in heading 32.04.\n\n(B) CYCLOTERPENES\nThese hydrocarbons do not differ in general chemical structure from the cyclene group and have the general formula (C5H8)n where n may be 2 or more. They occur naturally in the vegetable kingdom as odoriferous, volatile liquids."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Ví dụ về xycloterpen là:\n(1) Pinen, có thành phần trong nhựa thông, dầu gỗ thông, dầu quế,…\n(2) Camphen, có trong dầu nhục đậu khấu, dầu petitgrain,...\n(3) Limonen; dipenten là những hỗn hợp của đồng phân quang học của limonene. Dipenten thô bị loại trừ (nhóm 38.05).\nNhóm này không bao gồm những tinh dầu (nhóm 33.01), và gôm, gỗ hoặc sulphat turpentine và những loại dầu terpenic khác được tạo ra từ quá trình chưng cất hoặc xử lý khác của các gỗ thuộc loài cây lá kim (nhóm 38.05).\n\n(C) HYDROCARBON THƠM\nNhững chất này gồm một hay nhiều vòng benzen liên kết hoặc không liên kết.\n(I) Những hydrocarbon chỉ có một vòng benzen (benzen và các đồng đẳng của nó):\n(a) Benzen (C6H6). Để được xếp vào nhóm này, benzen phải tinh khiết từ 95% trở lên tính theo trọng lượng. Benzen có độ tinh khiết thấp hơn thì bị loại trừ (nhóm 27.07).\n(b) Toluen (methylbenzen) (C6H5CH3). Để được xếp ở nhóm này, toluen phải tinh khiết từ 95% trở lên tính theo trọng lượng. Toluen ở độ tinh khiết thấp hơn thì sẽ bị loại trừ (nhóm 27.07).\n(c) Xylene (dimethylbenzen) (C6H4(CH3)2). Để được xếp vào nhóm này, xylen phải chiếm từ 95% trở lên tính theo trọng lượng của mọi đồng phân xylene. Xylen có độ tinh khiết nhỏ hơn 95% thì sẽ bị loại trừ (nhóm 27.07).",
+        "en": "Examples of cycloterpenes are:\n(1) Pinene, a constituent of spirits of turpentine, pinewood oil, cinnamon oil, etc.\n(2) Camphene, contained in nutmeg oil, petitgrain oil, etc.\n(3) Limonene; dipentene, being the mixed optical isomers of limonene. Crude dipentene is excluded (heading 38.05).\nThis heading excludes essential oils (heading 33.01), and gum, wood or sulphate turpentine and other terpenic oils produced by the distillation or other treatment of coniferous woods (heading 38.05).\n\n(C) AROMATIC HYDROCARBONS\nThese compounds contain one or more fused or unfused benzene rings.\n(I) Hydrocarbons with only one benzene ring (benzene and its homologues):\n(a) Benzene (C6H6). To fall in this heading, benzene must have a purity of 95 % or more by weight. Benzene of lower purity is excluded (heading 27.07).\n(b) Toluene (methylbenzene) (C6H5CH3). To fall in this heading, toluene must have a purity of 95 % or more by weight. Toluene of lower purity is excluded (heading 27.07).\n(c) Xylene (dimethylbenzene) (C6H4(CH3)2). To fall in this heading, xylene must contain 95 % or more by weight of xylene isomers, all isomers being taken together. Xylene of lower purity is excluded (heading 27.07)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(d) Những hydrocarbon thơm khác có một vòng benzen và một hay nhiều mạch nhánh: Styrene, Etylbenzen, Cumen, p-Cymen (p-cymene thô bị loại trừ (nhóm 38.05)), Tetrahydronaphthalene (tetralin).\n\n(II) Các hydrocacbon với hai hoặc nhiều vòng benzen chưa liên kết với nhau:\n(a) Biphenyl (C6H5.C6H5).\n(b) Diphenylmethane (C6H5CH2C6H5).\n(c) Triphenymethane (CH(C6H5)3).\n(d) Terphenyl.\n\n(III) Những hydrocarbon có 2 hay nhiều vòng benzen liên kết:\n(a) Naphtalen (C10H8). Để được phân loại vào nhóm này, naphtalen phải có điểm kết tinh từ 79,4 ºC trở lên. Naphtalen có độ tinh khiết thấp hơn sẽ bị loại trừ (nhóm 27.07).\n(b) Phenanthrene (C14H10). Phenanthrene chỉ được phân loại vào nhóm này khi là hợp chất đã được xác định về mặt hóa học riêng biệt ở trạng thái tinh khiết hoặc tinh khiết về mặt thương phẩm. Khi ở dạng thô, nó bị loại trừ (nhóm 27.07).",
+        "en": "(d) Other aromatic hydrocarbons formed by a benzene ring and one or more side chains: Styrene, Ethylbenzene, Cumene, p-Cymene (Crude p-cymene is excluded (heading 38.05)), Tetrahydronaphthalene (tetralin).\n\n(II) Hydrocarbons with two or more unfused benzene rings:\n(a) Biphenyl (C6H5.C6H5).\n(b) Diphenylmethane (C6H5CH2C6H5).\n(c) Triphenylmethane (CH(C6H5)3).\n(d) Terphenyls.\n\n(III) Hydrocarbons with two or more benzene rings fused:\n(a) Naphthalene (C10H8). To fall in this heading, naphthalene must have a crystallising point of 79.4 °C or more. Naphthalene of lower purity is excluded (heading 27.07).\n(b) Phenanthrene (C14H10). Phenanthrene falls here only when it is a separate chemically defined compound in the pure or commercially pure state. When crude, it is excluded (heading 27.07)."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "(c) Anthracene (C14H10). Để được phân loại vào nhóm này, anthracene phải có độ tinh khiết từ 90% trở lên tính theo trọng lượng. Với độ tinh khiết thấp hơn sẽ bị loại trừ (nhóm 27.07).\nNhóm này cũng gồm hydrocarbon sau:\n(1) Acenaphthene.\n(2) Methylanthracenes.\n(3) Fluorene.\n(4) Fluoranthene.\n(5) Pyrene.\n\nNhóm này không bao gồm dodecylbenzenes và nonylnaphthalenes là hỗn hợp alkylaren (nhóm 38.17).",
+        "en": "(c) Anthracene (C14H10). To fall in this heading, anthracene must have a purity of 90 % or more by weight. Anthracene of lower purity is excluded (heading 27.07).\nThis group also includes the following hydrocarbons:\n(1) Acenaphthene.\n(2) Methylanthracenes.\n(3) Fluorene.\n(4) Fluoranthene.\n(5) Pyrene.\n\nThis heading excludes those dodecylbenzenes and those nonylnaphthalenes which are mixed alkylarenes (heading 38.17)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Cyclanes, cyclenes và cycloterpenes:",
+        "en": "Cyclanes, cyclenes and cycloterpenes:"
+      },
+      "subheading_id": "2902.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cyclohexane",
+        "en": "Cyclohexane"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Cyclanes, cyclenes và cycloterpenes:",
+        "en": "Cyclanes, cyclenes and cycloterpenes:"
+      },
+      "subheading_id": "2902.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2902.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Benzen",
+        "en": "Benzene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2902.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Toluen",
+        "en": "Toluene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Xylenes:",
+        "en": "Xylenes:"
+      },
+      "subheading_id": "2902.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "o-Xylen",
+        "en": "o-Xylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Xylenes:",
+        "en": "Xylenes:"
+      },
+      "subheading_id": "2902.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "m-Xylen",
+        "en": "m-Xylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Xylenes:",
+        "en": "Xylenes:"
+      },
+      "subheading_id": "2902.43",
+      "page": 1,
+      "subheading_title": {
+        "vi": "p-Xylen",
+        "en": "p-Xylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Xylenes:",
+        "en": "Xylenes:"
+      },
+      "subheading_id": "2902.44",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hỗn hợp các đồng phân của xylen",
+        "en": "Mixed xylene isomers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2902.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Styren",
+        "en": "Styrene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2902.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Etylbenzen",
+        "en": "Ethylbenzene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2902.70",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cumen",
+        "en": "Cumene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2902.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

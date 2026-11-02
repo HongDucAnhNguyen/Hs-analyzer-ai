@@ -1,0 +1,108 @@
+{
+  "heading_id": "72.26",
+  "heading_title": {
+    "vi": "Sản phẩm của thép hợp kim khác được cán phẳng, có chiều rộng dưới 600 mm (+).",
+    "en": "Flat-rolled products of other alloy steel, of a width of less than 600 mm (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 72.26 bao gồm các sản phẩm của thép hợp kim khác được cán phẳng, có chiều rộng dưới 600 mm. Việc phân loại các sản phẩm này tuân theo các điều khoản tương tự trong Chú giải của nhóm 72.11 và 72.12. Các phân nhóm được chia theo loại thép, như thép silic kỹ thuật điện (phân nhóm 7226.11, 7226.19) và thép gió (phân nhóm 7226.20). Các phân nhóm còn lại phân loại theo công đoạn gia công. Cụ thể, phân nhóm 7226.91 (cán nóng) áp dụng chú giải của các phân nhóm từ 7208.10 đến 7208.54, và phân nhóm 7226.92 (cán nguội) áp dụng chú giải của các phân nhóm từ 7209.15 đến 7209.28.",
+    "en": "Heading 72.26 covers flat-rolled products of other alloy steel, with a width of less than 600 mm. The classification of these products follows similar provisions in the Explanatory Notes to headings 72.11 and 72.12. Subheadings are divided by steel type, such as silicon-electrical steel (subheadings 7226.11, 7226.19) and high-speed steel (subheading 7226.20). The remaining subheadings are classified by processing stage. Specifically, subheading 7226.91 (hot-rolled) applies the explanatory notes of subheadings from 7208.10 to 7208.54, and subheading 7226.92 (cold-rolled) applies the explanatory notes of subheadings from 7209.15 to 7209.28."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho nhóm 72.11 và 72.12, với những sửa đổi thích hợp, áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to heading 72.11 and 72.12 apply, mutatis mutandis, to the products of this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 7226.91: Áp dụng Chú giải cho các phân nhóm 7208.10, 7208.25, 7208.26, 7208.27, 7208.36, 7208.37, 7208.38, 7208.39, 7208.40, 7208.51, 7208.52, 7208.53, 7208.54.",
+        "en": "Subheading Explanatory Note for 7226.91: See the Explanatory Note to subheadings 7208.10, 7208.25, 7208.26, 7208.27, 7208.36, 7208.37, 7208.38, 7208.39, 7208.40, 7208.51, 7208.52, 7208.53 and 7208.54."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 7226.92: Áp dụng Chú giải cho các phân nhóm 7209.15, 7209.16, 7209.17, 7209.18, 7209.25, 7209.26, 7209.27, 7209.28.",
+        "en": "Subheading Explanatory Note for 7226.92: See the Explanatory Note to subheadings 7209.15, 7209.16, 7209.17, 7209.18, 7209.25, 7209.26, 7209.27 and 7209.28."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng thép silic kỹ thuật điện:",
+        "en": "Of silicon-electrical steel:"
+      },
+      "subheading_id": "7226.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các hạt tinh thể (cấu trúc tế vi) có định hướng:",
+        "en": "Grain-oriented"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng thép silic kỹ thuật điện:",
+        "en": "Of silicon-electrical steel:"
+      },
+      "subheading_id": "7226.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác:",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7226.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng thép gió",
+        "en": "Of high speed steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "7226.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa được gia công quá mức cán nóng",
+        "en": "Not further worked than hot-rolled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "7226.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa được gia công quá mức cán nguội (ép nguội)",
+        "en": "Not further worked than cold-rolled (cold-reduced)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "7226.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

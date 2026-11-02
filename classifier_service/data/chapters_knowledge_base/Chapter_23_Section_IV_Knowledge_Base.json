@@ -1,0 +1,108 @@
+{
+  "chapter_id": "23",
+  "chapter_title": {
+    "vi": "Phế liệu và phế thải từ ngành công nghiệp thực phẩm; thức ăn gia súc đã chế biến",
+    "en": "Residues and waste from the food industries; prepared animal fodder"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm các loại phế liệu và phế thải từ ngành công nghiệp thực phẩm và thức ăn gia súc đã chế biến. Các sản phẩm này chủ yếu là phế liệu từ quá trình chế biến nguyên liệu thực vật và một số sản phẩm có nguồn gốc động vật, phần lớn dùng làm thức ăn chăn nuôi, một số dùng cho người hoặc trong công nghiệp. Chương định nghĩa 'viên' là sản phẩm được nén hoặc thêm chất kết dính không quá 3% trọng lượng.\nCác sản phẩm chính bao gồm:\n- Bột mịn, bột thô và viên từ thịt, cá, v.v., không dùng cho người; tóp mỡ (nhóm 23.01).\n- Cám, tấm và phế liệu từ xay xát ngũ cốc hoặc cây họ đậu (nhóm 23.02).\n- Phế liệu sản xuất tinh bột, bã ép củ cải đường, bã mía, và phế liệu từ ủ hoặc chưng cất (nhóm 23.03).\n- Khô dầu và phế liệu rắn từ chiết xuất dầu đậu tương (nhóm 23.04), dầu lạc (nhóm 23.05), và các loại dầu thực vật khác (nhóm 23.06).\n- Bã rượu vang và cặn rượu (nhóm 23.07).\n- Nguyên liệu và phế liệu thực vật khác dùng chăn nuôi, chưa được ghi ở nơi khác (nhóm 23.08).\n- Chế phẩm hoàn chỉnh dùng trong chăn nuôi động vật (nhóm 23.09), bao gồm các sản phẩm đã qua chế biến làm mất đặc tính ban đầu của nguyên liệu gốc (theo Chú giải 1 của Chương).",
+    "en": "This chapter covers residues and waste from the food industries and prepared animal fodder. These products are mainly residues from processing vegetable materials and some products of animal origin, mostly used as animal feeding stuffs, with some for human consumption or industrial uses. The Chapter defines 'pellets' as products agglomerated by compression or with a binder not exceeding 3% by weight.\nThe main products included are:\n- Flours, meals and pellets of meat, fish, etc., unfit for human consumption; greaves (heading 23.01).\n- Bran, sharps and other residues from the working of cereals or leguminous plants (heading 23.02).\n- Residues of starch manufacture, beet-pulp, bagasse, and brewing or distilling dregs and waste (heading 23.03).\n- Oil-cake and other solid residues from the extraction of soyabean oil (heading 23.04), ground-nut oil (heading 23.05), and other vegetable or microbial fats or oils (heading 23.06).\n- Wine lees and argol (heading 23.07).\n- Other vegetable materials and waste for animal feeding, not elsewhere specified (heading 23.08).\n- Preparations of a kind used in animal feeding (heading 23.09), which includes products processed to the extent that they have lost the essential characteristics of the original material (per Chapter Note 1)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Nhóm 23.09 kể cả các sản phẩm dùng trong chăn nuôi động vật, chưa được ghi hoặc chi tiết ở nơi khác, thu được từ quá trình chế biến nguyên liệu gốc thực vật hoặc động vật đến mức các nguyên liệu đó mất hết tính chất cơ bản của nguyên liệu ban đầu, trừ các phế liệu thực vật, phế thải thực vật và các sản phẩm phụ từ quá trình chế biến đó.",
+        "en": "1.- Heading 23.09 includes products of a kind used in animal feeding, not elsewhere specified or included, obtained by processing vegetable or animal materials to such an extent that they have lost the essential characteristics of the original material, other than vegetable waste, vegetable residues and by-products of such processing."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm. 1.- Theo mục đích của phân nhóm 2306.41, khái niệm “hạt cải dầu (rape seeds hoặc colza seeds) có hàm lượng axit eruxic thấp” có nghĩa là các loại hạt đã được định nghĩa trong Chú giải Phân nhóm 1 của Chương 12.",
+        "en": "Subheading Note. 1.- For the purposes of subheading 2306.41, the expression “low erucic acid rape or colza seeds” means seeds as defined in Subheading Note 1 to Chapter 12."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chương này bao gồm rất nhiều loại phế liệu và phế thải từ quá trình chế biến nguyên liệu thực vật được sử dụng trong công nghiệp thực phẩm và cả một số sản phẩm phế liệu có nguồn gốc động vật.",
+        "en": "This Chapter covers the various residues and wastes derived from vegetable materials used by food-preparing industries, and also certain products of animal origin."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phần lớn các loại sản phẩm này đều được sử dụng như nhau và có thể nói là riêng biệt, làm thức ăn chăn nuôi, hoặc dưới dạng đơn lẻ hoặc hỗn hợp với một số chất khác, cho dù là một số có thể sử dụng được làm thức ăn cho người. Một số sản phẩm (ví dụ, cặn rượu vang, cáu rượu, khô dầu) cũng được sử dụng trong công nghiệp.\nThuật ngữ trong Chương này \"viên\" để chỉ tất cả các loại sản phẩm được nén có dạng trụ, miếng tròn... hoặc bằng áp lực hoặc bằng việc cho thêm một chất kết dính (mật rỉ đường, chất có tinh bột,...) với hàm lượng không quá 3% tính theo trọng lượng.",
+        "en": "The main use of most of these products is as animal feeding stuffs, either alone or mixed with other materials, although some of them are fit for human consumption. Certain products (e.g., wine lees, argol, oil-cake) also have industrial uses.\nReferences in this Chapter to “pellets” mean products which have been agglomerated either directly by compression or by the addition of a binder (molasses, starchy substances, etc.) in a proportion not exceeding 3 % by weight."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "23.01",
+      "heading_title": {
+        "vi": "Bột mịn, bột thô và viên, từ thịt hoặc phụ phẩm dạng thịt sau giết mổ, từ cá hay động vật giáp xác, động vật thân mềm hay động vật thuỷ sinh không xương sống khác, không thích hợp dùng làm thức ăn cho người; tóp mỡ.",
+        "en": "Flours, meals and pellets, of meat or meat offal, of fish or of crustaceans, molluses or other aquatic invertebrates, unfit for human consumption; greaves."
+      }
+    },
+    {
+      "heading_id": "23.02",
+      "heading_title": {
+        "vi": "Cám, tấm và phế liệu khác, ở dạng viên hoặc không ở dạng viên, thu được từ quá trình giần, sàng, rây, xay xát hoặc chế biến cách khác từ các loại ngũ cốc hay các loại cây họ đậu.",
+        "en": "Bran, sharps and other residues, whether or not in the form of pellets, derived from the sifting, milling or other working of cereals or of leguminous plants."
+      }
+    },
+    {
+      "heading_id": "23.03",
+      "heading_title": {
+        "vi": "Phế liệu từ quá trình sản xuất tinh bột và phế liệu tương tự, bã ép củ cải đường, bã mía và phế liệu khác từ quá trình sản xuất đường, bã và phế liệu từ quá trình ủ hay chưng cất, ở dạng viên hoặc không ở dạng viên.",
+        "en": "Residues of starch manufacture and similar residues, beet-pulp, bagasse and other waste of sugar manufacture, brewing or distilling dregs and waste, whether or not in the form of pellets."
+      }
+    },
+    {
+      "heading_id": "23.04",
+      "heading_title": {
+        "vi": "Khô dầu và phế liệu rắn khác, đã hoặc chưa xay hoặc ở dạng viên, thu được từ quá trình chiết xuất dầu đậu tương.",
+        "en": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of soyabean oil."
+      }
+    },
+    {
+      "heading_id": "23.05",
+      "heading_title": {
+        "vi": "Khô dầu và phế liệu rắn khác, đã hoặc chưa xay hoặc ở dạng viên, thu được từ quá trình chiết xuất dầu lạc.",
+        "en": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of ground-nut oil."
+      }
+    },
+    {
+      "heading_id": "23.06",
+      "heading_title": {
+        "vi": "Khô dầu và phế liệu rắn khác, đã hoặc chưa xay hoặc ở dạng viên, thu được từ quá trình chiết xuất chất béo hoặc dầu thực vật, trừ các loại thuộc nhóm 23.04 hoặc 23.05.",
+        "en": "Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting from the extraction of vegetable or microbial fats or oils, other than those of heading 23.04 or 23.05."
+      }
+    },
+    {
+      "heading_id": "23.07",
+      "heading_title": {
+        "vi": "Bã rượu vang; cặn rượu.",
+        "en": "Wine lees; argol."
+      }
+    },
+    {
+      "heading_id": "23.08",
+      "heading_title": {
+        "vi": "Nguyên liệu thực vật và phế liệu thực vật, phế liệu và sản phẩm phụ từ thực vật, ở dạng viên hoặc không ở dạng viên, loại dùng trong chăn nuôi động vật, chưa được chi tiết hoặc ghi ở nơi khác.",
+        "en": "Vegetable materials and vegetable waste, vegetable residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included."
+      }
+    },
+    {
+      "heading_id": "23.09",
+      "heading_title": {
+        "vi": "Chế phẩm dùng trong chăn nuôi động vật.",
+        "en": "Preparations of a kind used in animal feeding."
+      }
+    }
+  ]
+}

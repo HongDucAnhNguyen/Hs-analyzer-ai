@@ -1,0 +1,53 @@
+{
+  "heading_id": "76.03",
+  "heading_title": {
+    "vi": "Bột và vảy nhôm",
+    "en": "Aluminium powders and flakes."
+  },
+  "summary": {
+    "vi": "Nhóm 76.03 bao gồm bột và vảy nhôm, với định nghĩa bột nhôm tuân theo Chú giải 8(b) của Phần XV. Việc phân loại các sản phẩm này tương tự như các sản phẩm bằng đồng, do đó Chú giải của nhóm 74.06 được áp dụng tương tự. Các sản phẩm này có nhiều ứng dụng đặc thù trong các lĩnh vực như kỹ thuật làm pháo hoa, chất sinh nhiệt trong quá trình xử lý nhiệt, và làm thành phần trong chất nổ đẩy tên lửa. Chúng còn được sử dụng để bảo vệ các kim loại khác khỏi sự ăn mòn và trong việc điều chế các vật liệu hàn đặc biệt. Nhóm này không bao gồm bột hoặc vảy đã được pha chế thành chất tạo màu hoặc sơn, thuộc phân loại của Chương 32. Ngoài ra, các viên nhôm của nhóm 76.01 và các vân hoa được cắt từ nhôm lá mỏng của nhóm 83.08 cũng bị loại trừ khỏi nhóm này.",
+    "en": "Heading 76.03 covers aluminium powders and flakes, with the definition of aluminium powder adhering to Note 8(b) of Section XV. The classification of these products is analogous to those made of copper, thus the Explanatory Note to heading 74.06 applies mutatis mutandis. These products have widespread applications in specialized fields such as pyrotechnics, as heat generators in the thermit process, and as a component in rocket propellants. They are also used to protect other metals from corrosion and in the preparation of special cements. This heading excludes powders or flakes that have been prepared as colours or paints, which are classified under Chapter 32. Furthermore, aluminium pellets of heading 76.01 and spangles cut from aluminium foil of heading 83.08 are also excluded from this heading."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm bột nhôm theo định nghĩa tại Chú giải 8(b) của Phần XV và vảy nhôm. Các sản phẩm này tương ứng với sản phẩm bằng đồng và áp dụng Chú giải của nhóm 74.06 với những sửa đổi phù hợp. Bột và vảy nhôm được sử dụng trong kỹ thuật làm pháo hoa, chất sinh nhiệt (ví dụ: trong quá trình xử lý nhiệt), bảo vệ kim loại khỏi ăn mòn (ví dụ: nhiệt hoá, hàn kim loại), trong chất nổ đẩy tên lửa và trong việc điều chế các vật liệu hàn đặc biệt. Nhóm này không bao gồm: (a) Bột hoặc vảy được dùng làm chất tạo màu, sơn hoặc các chất tương tự, được tạo thành cùng với chất màu khác hoặc đóng gói dưới dạng hỗn dịch, chất phân tán, hoặc bột nhão với một chất gắn hoặc dung môi (Chương 32).",
+        "en": "This heading covers aluminium powders as defined in Note 8 (b) to Section XV and aluminium flakes. In general these products correspond to those of copper and the Explanatory Note to heading 74.06 therefore applies, mutatis mutandis, to this heading. Aluminium powders and flakes are, however, also used in pyrotechnics, as heat generators (e.g., in the thermit process), to protect other metals from corrosion (e.g., calorising, metallic cementation), in rocket propellants and in the preparation of special cements. The heading does not cover: (a) Powders or flakes, prepared as colours, paints or the like (e.g., made up with other colouring matter or put up as suspensions, dispersions or pastes with a binder or solvent) (Chapter 32)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại trừ khác khỏi nhóm này bao gồm: (b) Các viên nhôm (nhóm 76.01); (c) Các vân hoa cắt từ nhôm lá mỏng (nhóm 83.08).",
+        "en": "Other exclusions from this heading include: (b) Aluminium pellets (heading 76.01); (c) Spangles cut from aluminium foil (heading 83.08)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7603.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bột không có cấu trúc lớp",
+        "en": "Powders of non-lamellar structure"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7603.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bột có cấu trúc vảy; vảy nhôm",
+        "en": "Powders of lamellar structure; flakes"
+      }
+    }
+  ]
+}

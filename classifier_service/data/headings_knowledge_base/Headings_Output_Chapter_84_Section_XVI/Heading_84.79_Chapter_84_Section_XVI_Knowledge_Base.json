@@ -1,0 +1,201 @@
+{
+  "heading_id": "84.79",
+  "heading_title": {
+    "vi": "Máy và thiết bị cơ khí có chức năng riêng biệt, chưa được chi tiết hoặc ghi ở nơi khác thuộc Chương này.",
+    "en": "Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các máy và thiết bị cơ khí có chức năng riêng biệt, miễn là chúng không bị loại trừ bởi Chú giải Phần hoặc Chương, không được mô tả cụ thể hơn ở một nhóm trong Chương khác, và không thể phân loại trong bất kỳ nhóm cụ thể nào khác của Chương này. Một máy được coi là có \"chức năng riêng biệt\" nếu chức năng đó có thể thực hiện độc lập hoặc nếu nó được gắn vào máy khác nhưng chức năng của nó tách biệt và không phải là một phần không thể thiếu của máy đó. Nhóm này bao gồm một loạt các máy móc, được chia thành ba loại chính: (I) Máy có công dụng chung (ví dụ, bể chứa có máy khuấy, máy ép, robot công nghiệp đa năng); (II) Máy cho các ngành công nghiệp cụ thể (ví dụ, máy cho công trình công cộng, máy chế biến dầu, máy xử lý gỗ, máy làm dây cáp); và (III) Các máy móc khác (ví dụ, máy tạo ẩm/hút ẩm không khí, bộ khởi động động cơ, bộ tích thủy lực, cầu vận chuyển hành khách, thiết bị làm sạch bằng siêu âm). Nhóm này loại trừ các máy được phân loại cụ thể ở nơi khác, chẳng hạn như máy phun (nhóm 84.24), máy trộn bê tông (nhóm 84.74), robot công nghiệp chuyên dụng để thực hiện một chức năng cụ thể (ví dụ, nhóm 84.24, 84.28, 84.86 hoặc 85.15), và máy đóng gói bán dẫn (nhóm 84.86).",
+    "en": "This heading covers machines and mechanical appliances having individual functions, provided they are not excluded by any Section or Chapter Note, not covered more specifically by a heading in another Chapter, and cannot be classified in any other particular heading of this Chapter. A machine is regarded as having an \"individual function\" if its function can be performed independently, or if it is mounted on another machine but its function is distinct from and not an integral part of that machine's operation. The heading includes a wide variety of machinery, classified into three main categories: (I) Machinery of general use (e.g., vats with agitators, presses, multi-purpose industrial robots); (II) Machinery for certain industries (e.g., for public works, oil preparation, wood treatment, rope making); and (III) Miscellaneous machinery (e.g., air humidifiers/dehumidifiers, engine starters, hydraulic accumulators, passenger boarding bridges, ultrasonic cleaning apparatus). The heading excludes machinery specifically classified elsewhere, such as spraying appliances (heading 84.24), concrete mixers (heading 84.74), industrial robots specifically designed for a particular function (e.g., heading 84.24, 84.28, 84.86 or 85.15), and semiconductor encapsulation machinery (heading 84.86)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này được giới hạn đối với máy móc có các chức năng riêng biệt, mà:\n(a) Không bị loại trừ khỏi Chương này bởi bất kỳ chú giải của phần hoặc Chương\nvà (b) Không được mô tả chi tiết hơn bởi một nhóm trong bất kỳ Chương nào khác của Danh mục\nvà (c) Không thể phân loại trong bất kỳ một nhóm cụ thể nào khác của chương này, vì:\n(i) Không thể phân loại vào nhóm nào khi xét theo cách thức hoạt động, đặc điểm hoặc chủng loại của máy.\nvà (ii) Không thể phân loại vào nhóm nào khác khi xét theo công dụng hoặc ngành công nghiệp mà nó được sử dụng.\nhoặc (iii) Máy đó có thể cùng được xếp vào hai (hoặc nhiều) nhóm khác (những máy có công dụng chung).",
+        "en": "This heading is restricted to machinery having individual functions, which:\n(a) Is not excluded from this Chapter by the operation of any Section or Chapter Note.\nand (b) Is not covered more specifically by a heading in any other Chapter of the Nomenclature.\nand (c) Cannot be classified in any other particular heading of this Chapter since:\n(i) No other heading covers it by reference to its method of functioning, description or type.\nand (ii) No other heading covers it by reference to its use or to the industry in which it is employed.\nor (iii) It could fall equally well into two (or more) other such headings (general purpose machines)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Máy móc thuộc Nhóm này được phân biệt với các bộ phận của máy, v.v.. các bộ phận đó được phân loại theo những quy định chung về việc phân loại bộ phận, bởi thực tế máy có chức năng riêng biệt.\nTheo mục đích này, các máy sau đây được coi là có chức năng riêng biệt:\n(A) Thiết bị cơ khí, có hoặc không có động cơ hoặc lực dẫn động khác, chức năng của chúng có thể được thực hiện riêng biệt hoặc độc lập với bất kỳ máy hoặc thiết bị nào khác.\n(B) Những thiết bị cơ khí mà không thể thực hiện chức năng của chúng trừ khi chúng được gắn vào máy hoặc thiết bị khác, hoặc được kết hợp trong tổ hợp máy, với điều kiện là chức năng này:\n(i) Được tách bạch khỏi chức năng của máy hoặc thiết bị mà chúng được lắp đặt vào hoặc của tổ hợp máy chúng được kết hợp, và\n(ii) Không đóng vai trò là một bộ phận không thể thiếu được và không thể tách rời được trong hoạt động của máy, thiết bị hoặc tổ hợp máy đó.\nNgược lại, bộ chế hòa khí cho động cơ đốt trong có chức năng không thể tách rời khỏi động cơ và do đó được phân loại là bộ phận của động cơ thuộc nhóm 84.09. Tương tự, bộ giảm xóc là một bộ phận không thể thiếu của máy và được phân loại là bộ phận của máy móc mà chúng được gắn vào (giảm xóc xe cộ hoặc máy bay xếp vào Phần XVII).",
+        "en": "The machinery of this heading is distinguished from the parts of machinery, etc., that fall to be classified in accordance with the general provisions concerning parts, by the fact that it has individual functions.\nFor this purpose the following are to be regarded as having “individual functions”:\n(A) Mechanical devices, with or without motors or other driving force, whose function can be performed distinctly from and independently of any other machine or appliance.\n(B) Mechanical devices which cannot perform their function unless they are mounted on another machine or appliance, or are incorporated in a more complex entity, provided that this function:\n(i) is distinct from that which is performed by the machine or appliance whereon they are to be mounted, or by the entity wherein they are to be incorporated, and\n(ii) does not play an integral and inseparable part in the operation of such machine, appliance or entity.\nOn the other hand, the function of a carburettor for an internal combustion engine is inseparable from that of the engine and it is therefore to be classified as parts of engines in heading 84.09. Similarly, mechanical or hydraulic shock absorbers form an integral part of the machine and are classified as parts of the machines on which they are to be mounted (shock absorbers for vehicles or aircraft fall in Section XVII)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(I) MÁY CÓ CÔNG DỤNG CHUNG\nNhóm này bao gồm, ví dụ:\n(1) Bể chứa và các đồ chứa khác (ví dụ, bể chứa hoặc bồn chứa để điện phân), có gắn thiết bị cơ khí (máy khuấy, v.v..) và không phải là thiết bị đun nóng, nấu ăn, v.v.., của nhóm 84.19.\n(2) Máy ép, máy nghiền, máy xay, máy trộn, v.v.., không được thiết kế cho hàng hóa hoặc ngành công nghiệp cụ thể nào.\n(3) Thiết bị phân phối theo thể tích và bộ phân phối cơ khí để liên tục phân phối các vật cần gia công.\n(4) Máy tán khoen hoặc tán đinh rivê thích hợp cho việc dập khoen hoặc đinh rivê lên bất kỳ loại vật liệu nào.\n(5) Động cơ rung gồm động cơ điện với đĩa lệch tâm.\n(6) Máy rung điện từ để gắn với các thiết bị truyền, sàng, nén, v.v.\n(7) Robot công nghiệp đa năng. Robot công nghiệp là những máy móc tự động được lập trình để lặp đi lặp lại một chu trình chuyển động. Nhóm này chỉ bao gồm những rô bốt công nghiệp có khả năng thực hiện nhiều chức năng đơn giản bằng việc sử dụng những dụng cụ khác nhau. Tuy nhiên, nhóm này không bao gồm những rô bốt công nghiệp được thiết kế đặc biệt để thực hiện một chức năng cụ thể; những rô bốt công nghiệp đó được phân loại vào trong nhóm bao gồm chức năng của chúng (ví dụ, nhóm 84.24, 84.28, 84.86 hoặc 85.15).",
+        "en": "(I) MACHINERY OF GENERAL USE\nThis group includes, for example :\n(1) Vats or other receptacles (e.g., vats or tanks for electrolysis), fitted with mechanical devices (agitators, etc.), and which are not heating, cooking, etc., apparatus of heading 84.19.\n(2) Presses, crushers, grinders, mixers, etc., not designed for particular goods or industries.\n(3) Volumetric distributing apparatus and mechanical distributors for continuous presentation of work pieces.\n(4) Eyeletting or tubular riveting machines equally suitable for applying the eyelets or rivets to any material.\n(5) Vibrator motor consisting of an electric motor with eccentric discs.\n(6) Electro-magnetic vibrator, for attachment to conveying, screening, compacting, etc., appliances.\n(7) Industrial robots for multiple uses. Industrial robots are automatic machines which can be programmed to carry out repeatedly a cycle of movements. The heading covers only industrial robots capable of performing a variety of functions simply by using different tools. However, the heading excludes those industrial robots specifically designed to perform a specific function; these industrial robots are classified in the heading covering their function (e.g., heading 84.24, 84.28, 84.86 or 85.15)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(II) MÁY MÓC CHO MỘT SỐ NGÀNH CÔNG NGHIỆP CỤ THỂ\nBao gồm:\n(A) Máy dùng cho các công trình công cộng, công trình xây dựng hoặc các mục đích tương tự, ví dụ: Máy rải vữa, bê tông (trừ máy trộn thuộc nhóm 84.74 hoặc 87.05), máy làm đường, máy rải sỏi (trừ loại gắn trên xe có động cơ thuộc nhóm 87.05), máy làm nhẵn bề mặt bê tông, thiết bị cơ giới nhỏ để bảo dưỡng đường, máy rải muối và cát. Nhóm này không bao gồm máy san đất thuộc nhóm 84.29 hoặc thiết bị làm nóng nhựa đường thuộc nhóm 84.19.\n(B) Máy móc dùng trong công nghiệp dầu, xà phòng hoặc chất béo ăn được, ví dụ: Máy nghiền hạt dầu, bồn chứa có máy khuấy để lọc dầu, thiết bị tẩy sạch mỡ, máy khuấy và trộn margarine, máy cắt và đúc khuôn xà phòng.\n(C) Máy dùng để xử lý gỗ hoặc các vật liệu tương tự, ví dụ: Trống bóc vỏ cây, máy ép đặc biệt, máy ép cứng gỗ, máy tẩm gỗ bằng áp lực.\n(D) Máy làm chão, cáp từ sợi vải hoặc dây kim loại, trừ khung xoắn dùng trong xe sợi dệt (nhóm 84.45). Nhóm này cũng không bao gồm máy guồng sợi (nhóm 84.45) hoặc máy hoàn thiện sợi (nhóm 84.51).\n(E) Máy xử lý kim loại, kể cả máy cuốn dây điện, ví dụ: Máy kẹp để hàn nhiệt nhôm, máy làm sạch kim loại (trừ thiết bị phun hơi nước hoặc cát thuộc nhóm 84.24), trống quay để loại bỏ cát, máy mạ kẽm, máy phá gang, máy cuốn hoặc bọc cáp điện (trừ máy thuộc nhóm 84.47), máy cuốn dây điện.\n(F) Máy làm rổ, giá và các máy tết, bện khác, ví dụ: Máy làm rổ, máy làm khuôn nắp bình, máy tết mũ. Nhóm này không bao gồm máy xẻ gỗ hoặc bóc vỏ liễu gai (nhóm 84.65).\n(G) Máy làm chổi quét sơn hoặc các loại bàn chải khác, ví dụ: Máy xử lý lông, sợi để làm bàn chải, máy cấy lông vào hốc bàn chải. Nhóm này không bao gồm máy sát trùng lông (nhóm 84.19) hoặc máy làm khung/tay cầm bàn chải (nhóm 84.65).",
+        "en": "(II) MACHINERY FOR CERTAIN INDUSTRIES\nIncludes:\n(A) Machinery for public works, building or the like, e.g.: Machines for spreading mortar or concrete (excluding mixers of heading 84.74 or 87.05), road making machines, gravel spraying machines (excluding those mounted on a motor vehicle chassis of heading 87.05), machines for smoothing concrete surfaces, small motorised apparatus for road maintenance, salt and sand spreaders. This heading does not include levellers of heading 84.29 or heating apparatus for bitumen of heading 84.19.\n(B) Machinery for the oil, soap or edible fat industries, e.g.: Grinders for oilseeds, tanks with agitators for purifying oils, tallow-washing equipment, churns and mixers for margarine, soap cutting or moulding machines.\n(C) Machinery for treating wood or similar materials, e.g.: Barking drums, special presses for agglomerating wood materials, wood hardening presses, machines for impregnating wood under pressure.\n(D) Rope or cable-making machines working with textile yarn or metal wire, other than twisting-frames used in spinning textiles (heading 84.45). The heading does not cover machines for reeling yarn (heading 84.45) or for finishing yarn (heading 84.51).\n(E) Machinery for treating metals, including electric wire coil-winders, e.g.: Crucible vice-presses for alumino-thermic welding, machinery for scouring or pickling metals (excluding steam or sand blasting appliances of heading 84.24), rotating drums for de-sanding, machines for tin-plating, pig iron breakers, machines for winding or covering electric cables (excluding machines of heading 84.47), electric wire coil-winders.\n(F) Basket-making, wickerwork-making and other machinery for plaiting, e.g.: Machines for making baskets, machines for forming wickerwork covers, machines for plaiting hats. The heading does not include machines for splitting wood or peeling osier (heading 84.65).\n(G) Machinery for making paint brushes or other brushes, e.g.: Machines for preparing hair/bristles for brushes, machines for inserting hairs into mounts. The heading does not cover machines for sterilising bristles (heading 84.19) or machines for working brush mounts (heading 84.65)."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "(III) MÁY MÓC KHÁC\nNhóm này bao gồm:\n(1) Máy tạo ẩm hoặc hút ẩm không khí, trừ thiết bị thuộc nhóm 84.15, 84.24 hoặc 85.09.\n(2) Bộ phận khởi động động cơ (cơ khí, thủy lực, khí nén), trừ thiết bị điện thuộc nhóm 85.11.\n(3) Bộ tích thủy lực.\n(4) Máy tra dầu mỡ tự động dạng bơm.\n(11) Máy vặn hoặc tháo bu lông, trừ dụng cụ cầm tay thuộc Chương 82 và nhóm 84.67.\n(21) Con quay thăng bằng hồi chuyển cho tàu thủy, trừ thiết bị cho dụng cụ thuộc Chương 90 và ngư lôi (nhóm 93.06).\n(22) Thiết bị lái và bánh lái cho tàu thủy, trừ bánh lái (nhóm 73.25 hoặc 73.26) và hoa tiêu tự động (nhóm 90.14).\n(23) Bộ lau kính chắn gió, trừ loại dùng cho xe đạp hoặc xe có động cơ (nhóm 85.12).\n(24) Thiết bị siêu âm dùng để làm sạch, trừ loại chỉ dùng hoặc chủ yếu dùng để làm sạch tấm bán dẫn mỏng hoặc màn hình dẹt (nhóm 84.86).\n(30) Máy làm mát không khí bằng cách cho bay hơi.\n(31) Cầu vận chuyển hành khách.\nNhóm này cũng bao gồm: Máy nhúng diêm, máy phủ điện cực hàn, máy làm mờ kính bằng axit, máy bảo dưỡng đường ống, máy cuốn ruy băng cạc, máy giặt lông vũ, máy quét chất mài mòn, máy cuốn cáp và ống mềm, chuông lặn, ống thổi dưới nước, máy đánh giầy tự động, máy đánh bóng sàn công nghiệp. Thiết bị chùi thảm tại chỗ dùng cho các công trình tập thể được xếp vào nhóm 84.51. Nhóm này cũng loại trừ máy để bọc (đóng vỏ) trong quá trình lắp ráp thiết bị bán dẫn (nhóm 84.86).",
+        "en": "(III) MISCELLANEOUS MACHINERY\nThis group includes:\n(1) Air humidifiers or dehumidifiers, other than the appliances of heading 84.15, 84.24 or 85.09.\n(2) Engine starters (mechanical, hydraulic, compressed air), but not electrical equipment of heading 85.11.\n(3) Hydraulic accumulators.\n(4) Pump-type automatic machine greasers.\n(11) Bolting or unbolting machines, other than hand tools of Chapter 82 and heading 84.67.\n(21) Gyroscopic stabilisers for ships, but excluding gyroscopic devices for instruments of Chapter 90 and torpedoes (heading 93.06).\n(22) Steering and rudder equipment for ships, other than rudders themselves (heading 73.25 or 73.26), and automatic pilots (heading 90.14).\n(23) Windscreen wiping mechanisms, except those for cycles or motor vehicles (heading 85.12).\n(24) Ultrasonic apparatus for cleaning, excluding that solely or principally used for cleaning semiconductor wafers or flat panel displays (heading 84.86).\n(30) Evaporative air coolers.\n(31) Passenger boarding bridges.\nAlso includes: Match-dipping machines, machines for coating welding electrodes, machines for frosting glass by acid, pipeline maintenance machines, machines for mounting card clothing, machines for washing bed feathers, machines for applying abrasives, coiling machines for flexible cables, diving bells, underwater blowpipes, automatic shoe brushing machines, industrial floor polishers. Appliances for cleaning carpets in situ for establishments are classified in heading 84.51. The heading also excludes machinery for encapsulation in the assembly of semiconductors (heading 84.86)."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo những quy định chung liên quan đến việc phân loại các bộ phận (Xem chú giải tổng quát của phần XVI), nhóm này cũng bao gồm các bộ phận của máy móc thuộc nhóm, kể cả khuôn trừ những bộ phận đã được ghi ở nơi khác (đặc biệt, nhóm 84.80)",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), the heading also covers parts of the machinery of this heading, including moulds other than those covered elsewhere (in particular, heading 84.80)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8479.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy dùng cho các công trình công cộng, công trình xây dựng hoặc các mục đích tương tự",
+        "en": "Machinery for public works, building or the like"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8479.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy dùng để chiết xuất hoặc chế biến dầu hoặc mỡ động vật hoặc dầu hoặc chất béo không bay hơi của thực vật hoặc vi sinh vật.",
+        "en": "Machinery for the extraction or preparation of animal or fixed vegetable or microbial fats or oils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8479.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy ép dùng để sản xuất tấm, ván ép từ xơ sợi hoặc dăm gỗ hoặc từ các vật liệu bằng gỗ khác và các loại máy khác dùng để xử lý gỗ hoặc lie",
+        "en": "Presses for the manufacture of particle board or fibre building board of wood or other ligneous materials and other machinery for treating wood or cork"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8479.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy sản xuất dây cáp hoặc dây chão",
+        "en": "Rope or cable-making machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8479.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Rô bốt công nghiệp chưa được ghi hoặc chi tiết ở nơi khác",
+        "en": "Industrial robots, not elsewhere specified or included"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8479.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy làm mát không khí bằng bay hơi",
+        "en": "Evaporative air coolers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Cầu vận chuyển hành khách:",
+        "en": "Passenger boarding bridges :"
+      },
+      "subheading_id": "8479.71",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại sử dụng trong sân bay",
+        "en": "Of a kind used in airports"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Cầu vận chuyển hành khách:",
+        "en": "Passenger boarding bridges :"
+      },
+      "subheading_id": "8479.79",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy và thiết bị cơ khí khác:",
+        "en": "Other machines and mechanical appliances:"
+      },
+      "subheading_id": "8479.81",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Để gia công kim loại, kể cả máy cuộn ống dây điện.",
+        "en": "For treating metal, including electric wire coil-winders"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy và thiết bị cơ khí khác:",
+        "en": "Other machines and mechanical appliances:"
+      },
+      "subheading_id": "8479.82",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy trộn, máy nhào, máy xay, máy nghiền, máy sàng, máy rây, máy trộn đồng hóa, máy tạo nhũ tương hoặc máy khuấy",
+        "en": "Mixing, kneading, crushing, grinding, screening, sifting, homogenising, emulsifying or stirring machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy và thiết bị cơ khí khác:",
+        "en": "Other machines and mechanical appliances:"
+      },
+      "subheading_id": "8479.89",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8479.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

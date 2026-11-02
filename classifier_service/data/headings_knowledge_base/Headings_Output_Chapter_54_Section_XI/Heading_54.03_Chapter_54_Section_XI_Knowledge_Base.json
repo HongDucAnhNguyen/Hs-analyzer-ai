@@ -1,0 +1,118 @@
+{
+  "heading_id": "54.03",
+  "heading_title": {
+    "vi": "Sợi filament tái tạo (trừ chỉ khâu), chưa đóng gói để bán lẻ, kể cả sợi monofilament tái tạo có độ mảnh dưới 67 decitex.",
+    "en": "Artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm sợi filament tái tạo (trừ chỉ khâu) chưa đóng gói để bán lẻ, và sợi monofilament tái tạo có độ mảnh dưới 67 decitex. Chú giải của nhóm 54.02 được áp dụng tương tự (mutatis mutandis) với các mặt hàng của nhóm này.",
+    "en": "This heading covers artificial filament yarn (other than sewing thread), not put up for retail sale, including artificial monofilament of less than 67 decitex. The Explanatory Note to heading 54.02 applies, mutatis mutandis, to the products of this heading."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải của nhóm 54.02 được áp dụng tương tự với các mặt hàng của nhóm này.",
+        "en": "The Explanatory Note to heading 54.02 applies, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5403.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sợi có độ bền cao từ viscose rayon",
+        "en": "High tenacity yarn of viscose rayon"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, đơn:",
+        "en": "- Other yarn, single:"
+      },
+      "subheading_id": "5403.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ viscose rayon, không xoắn hoặc xoắn không quá 120 vòng xoắn trên mét",
+        "en": "- - Of viscose rayon, untwisted or with a twist not exceeding 120 turns per metre"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, đơn:",
+        "en": "- Other yarn, single:"
+      },
+      "subheading_id": "5403.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ viscose rayon, xoắn trên 120 vòng xoắn trên mét",
+        "en": "- - Of viscose rayon, with a twist exceeding 120 turns per metre"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, đơn:",
+        "en": "- Other yarn, single:"
+      },
+      "subheading_id": "5403.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ xenlulo axetat",
+        "en": "- - Of cellulose acetate"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, đơn:",
+        "en": "- Other yarn, single:"
+      },
+      "subheading_id": "5403.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, sợi xe (folded) hoặc sợi cáp:",
+        "en": "- Other yarn, multiple (folded) or cabled:"
+      },
+      "subheading_id": "5403.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ viscose rayon",
+        "en": "- - Of viscose rayon"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, sợi xe (folded) hoặc sợi cáp:",
+        "en": "- Other yarn, multiple (folded) or cabled:"
+      },
+      "subheading_id": "5403.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- -Từ xenlulo axetat",
+        "en": "- - Of cellulose acetate"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, sợi xe (folded) hoặc sợi cáp:",
+        "en": "- Other yarn, multiple (folded) or cabled:"
+      },
+      "subheading_id": "5403.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

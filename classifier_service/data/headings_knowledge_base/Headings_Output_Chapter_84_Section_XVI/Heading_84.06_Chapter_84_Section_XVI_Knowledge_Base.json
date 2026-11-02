@@ -1,0 +1,77 @@
+{
+  "heading_id": "84.06",
+  "heading_title": {
+    "vi": "Tua bin hơi nước và các loại tua bin hơi khác.",
+    "en": "Steam turbines and other vapour turbines."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tuabin hơi nước và các loại tuabin hơi khác (ví dụ: tuabin hơi thủy ngân) sử dụng động năng của hơi giãn nở tác động lên các cánh của bánh xe. Chúng bao gồm các bộ phận thiết yếu như rôto (trục có bánh xe và cánh) và stato (vỏ có cánh tĩnh hoặc vòi phun). Các loại chính là tuabin xung, tuabin phản lực, tuabin hỗn hợp và tuabin nhiều tầng. Chúng được sử dụng để dẫn động máy phát điện, máy nén, quạt hoặc máy bơm. Nhóm này cũng bao gồm các bộ phận của tuabin như cơ cấu điều chỉnh, rôto, stato và cánh, tuân theo các quy tắc chung về phân loại bộ phận của Phần XVI. Tuy nhiên, nhóm này không bao gồm bộ phận giảm tốc độ và bộ phận đảo chiều nếu được trình bày riêng (nhóm 84.83).",
+    "en": "This heading covers steam turbines and other vapour turbines (e.g., mercury vapour turbines) which are driven by the kinetic energy of expanding vapour applied to the vanes or blades of a wheel. They consist of essential components like a rotor (shaft with a wheel and blades) and a stator (casing with stationary blades or nozzles). Main types include impulse, reaction, compound, and multi-stage turbines. They are used for driving generators, compressors, ventilators, or pumps. The heading also includes parts of turbines such as governors, rotors, stators, and blades, subject to the general provisions for the classification of parts in Section XVI. However, the heading excludes reversing or reduction gears when presented separately (heading 84.83)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này gồm các loại tuabin hơi nước sử dụng động năng do sự kết hợp của hơi nước tác động lên cánh tuabin và vành rô to. Tuabin được cấu tạo chủ yếu bởi các bộ phận sau:\n(1) Một rôto, bao gồm một trục được gắn cố định trên một vành bánh xe (hoặc nhiều bánh xe) mà gắn một hàng các cánh quạt được đặt sát nhau thường có mặt cắt dạng cong xung quanh và thỉnh thoảng được biết đến như là các cánh tuabin.\n(2) Một stator bao gồm một vỏ, mà rôto được đỡ và quay tròn trong đó; bao gồm một hệ thống các cánh quạt tĩnh hoặc các vòi ống để dẫn hướng hơi nước lên cánh của rôto.\n\nTrong tuabin “xung”, stator được cung cấp các vòi ống mà ở đó hơi nước giãn nở và phát ra với tốc độ cao tiếp tuyến với các cánh quạt tuabin của rôto. Trong tuabin “phản lực”, cánh của roto quay tròn giữa những cánh quạt tĩnh có hình dạng tương đồng được gắn cố định trong hình dạng đảo chiều xung quanh bề mặt của stator, được sắp xếp để làm cho luồng hoá nước di chuyển theo hướng trục qua những cánh quạt của stator, và lên những cánh quạt cạnh đó của rôto.\n\nNhằm nâng cao hiệu suất, hai dạng tuabin này thường được kết hợp với nhau thành dạng “tuabin hỗn hợp”, nhưng thông thường, một loạt các roto được gắn cố định trên một trục chung (tuabin nhiều tầng) cho phép tận dụng sự giãn nở của hơi nước.\n\nVận tốc quay rất lớn của tuabin làm chúng đặc biệt phù hợp sử dụng để dẫn động trực tiếp các loại máy như máy phát điện (tuabin-máy phát), máy nén, quạt gió hoặc bơm ly tâm. Khi chúng được sử dụng vào các mục đích khác (ví dụ cho tàu thủy hơi nước hoặc đầu máy tầu hoả), tuabin thường được gắn thêm các bộ phận giảm tốc độ, hoặc có thêm bộ đảo chiều. Bộ phận giảm tốc độ và bộ phận đảo chiều nếu trình bày riêng sẽ bị loại trừ (nhóm 84.83).\n\nNhóm này cũng bao gồm các tuabin hơi thủy ngân. Đây là các thiết bị mà cấu trúc và công năng của chúng tương tự như của tuabin hơi nước như miêu tả ở trên, nhưng sử dụng hơi thủy ngân thay cho hơi nước.",
+        "en": "This heading covers steam turbines which are driven by the kinetic energy of expanding steam applied to the vanes or blades of a wheel. They consist essentially of:\n(1) A rotor comprising a shaft on which is mounted a wheel (or wheels) the rim of which carries a row of closely-spaced vanes or blades generally of curved cross-section and sometimes referred to as “buckets”.\n(2) A stator consisting of a casing, in which the rotor is supported and revolves, containing a system of stationary blades or nozzles to direct the steam on to the blading of the rotor.\n\nIn “impulse” turbines the stator is provided with nozzles in which the steam expands and issues at high velocity tangentially to the bucket blades of the rotor. In a “reaction” turbine the blades on the rotor revolve between similarly shaped stationary blades mounted in the reverse form round the face of the stator, and so arranged that the steam flows axially through the blades of the stator and on to the adjacent blades of the rotor.\n\nFor greater efficiency two systems are often combined in “compound turbines”, but more often a series of rotors are mounted on a common shaft (multi-stage turbines) to allow progressive expansion of the steam.\n\nThe high rotational speed of turbines makes them particularly suitable for the direct driving of machines such as electric generators (turbogenerators), compressors, ventilators or centrifugal pumps. For some purposes (e.g., steamships and certain locomotives) turbines are fitted with reversing or reduction gear. When presented separately, these reversing or reduction gears are excluded (heading 84.83).\n\nThis heading also covers mercury vapour turbines. These are of a structure and use similar to the steam turbines described above, but use mercury vapour in place of steam."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN\n\nMột bộ phận quan trọng của tuabin là một cơ cấu điều chỉnh, theo đó việc cung cấp hơi nước hoặc loại hơi khác đến tuabin có thể được hiệu chỉnh để phù hợp với khối lượng và giữ ở một tốc độ ổn định.\n\nTheo quy tắc chung liên quan về phân loại các bộ phận (xem phần chú giải tổng quát Phần XVI), nhóm này cũng bao gồm các bộ phận khác của tuabin (như xéc măng của stato và rôto, cánh của stato hoặc rôto).",
+        "en": "PARTS\n\nAn essential component of a turbine is a governing mechanism so that the supply of steam or other vapour to the turbine can be adjusted to suit the load and to maintain constant speed.\n\nThis heading covers such governors and, subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), other parts of turbines (e.g., rotors and stators and their segments, rotor or stator blades)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8406.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Tua bin dùng cho máy thủy",
+        "en": "Turbines for maline propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Các loại tuabin khác:",
+        "en": "Other turbines:"
+      },
+      "subheading_id": "8406.81",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Công suất đầu ra trên 40 MW",
+        "en": "Of an output exceeding 40 MW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Các loại tuabin khác:",
+        "en": "Other turbines:"
+      },
+      "subheading_id": "8406.82",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Công suất đầu ra không quá 40 MW",
+        "en": "Of an output not exceeding 40 MW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8406.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

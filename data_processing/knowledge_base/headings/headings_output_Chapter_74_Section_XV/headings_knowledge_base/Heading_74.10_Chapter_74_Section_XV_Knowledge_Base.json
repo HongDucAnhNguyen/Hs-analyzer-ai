@@ -1,0 +1,84 @@
+{
+  "heading_id": "74.10",
+  "heading_title": {
+    "vi": "Đồng lá mỏng (đã hoặc chưa in hoặc bồi trên giấy, bìa plastic hoặc vật liệu bồi tương tự), với chiều dày (không kể phần bồi) không quá 0,15 mm)",
+    "en": "Copper foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials), of a thickness (excluding any backing) not exceeding 0.15 mm."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm đồng lá mỏng với độ dày không vượt quá 0,15 mm, theo định nghĩa trong Chú giải 9(d) của Phần XV. Các lá mỏng này có thể được sản xuất bằng phương pháp cán, rèn dập hoặc điện phân. Chúng có thể được in, phủ (vàng, bạc, vécni), trạm nổi, cắt theo hình dạng, hoặc bồi trên các vật liệu như giấy, bìa, hoặc plastic. Độ dày giới hạn 0,15 mm đã bao gồm các lớp phủ nhưng không tính vật liệu bồi. Nhóm này loại trừ một số sản phẩm cụ thể như lá phôi dập dùng để in (nhóm 32.12), nhãn in bằng đồng lá mỏng (nhóm 49.11), sợi phủ kim loại (nhóm 56.05), các tấm và dải đồng có độ dày lớn hơn 0,15 mm (nhóm 74.09), và lá mỏng dùng để trang trí cây Nô-en (nhóm 95.05).",
+    "en": "This heading covers copper foil products with a thickness not exceeding 0.15 mm, as defined in Note 9(d) to Section XV. These foils can be produced by rolling, hammering, or electrolysis. They may be printed, coated (gilded, silvered, varnished), embossed, cut to shape, or backed with materials like paper, paperboard, or plastics. The 0.15 mm thickness limit includes any coatings but excludes the backing material. The heading excludes specific products such as stamping foils for printing (heading 32.12), printed copper foil labels (heading 49.11), metallised yarn (heading 56.05), copper plates and strip thicker than 0.15 mm (heading 74.09), and foil for Christmas tree decorations (heading 95.05)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các sản phẩm được định nghĩa ở Chú giải 9(d) Phần XV khi độ dày của chúng không quá 0,15 mm. Lá mỏng được phân loại trong nhóm này được tạo ra bằng cách cán, rèn dập hoặc điện phân, ở dạng tấm rất mỏng. Lá mỏng nhất được sử dụng để mạ giả vàng, thường được xếp xen kẽ với các tờ giấy và đóng gói dạng cuộn sổ nhỏ. Các loại lá khác, đặc biệt là đồ trang kim, thường được bồi với giấy, bìa, plastic hoặc vật liệu bồi tương tự. Lá mỏng vẫn thuộc nhóm này dù đã được trạm nổi, cắt theo hình dạng, đục lỗ, phủ (vàng, bạc, vécni,...) hoặc in. Độ dày giới hạn 0,15 mm bao gồm cả lớp phủ vécni nhưng không bao gồm lớp bồi bằng giấy.",
+        "en": "This heading covers the products defined in Note 9(d) to Section XV when of a thickness not exceeding 0.15 mm. Foil classified in this heading is obtained by rolling, hammering or electrolysis, in very thin sheets. The thinnest foils, used for imitation gilding, are generally interleaved with sheets of paper and put up in booklet form. Other foil, such as that used for making fancy goods, is often backed with paper, paperboard, plastics or similar backing materials. Foil remains in the heading whether it has been embossed, cut to shape, perforated, coated (gilded, silvered, varnished, etc.), or printed. The limiting thickness of 0.15 mm includes coatings of varnish but excludes backings of paper."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (a) Lá phôi dập (lá hình khối) được tạo thành từ bột đồng kết dính với gelatin, keo hoặc chất liên kết khác, hoặc đồng lắng đọng trên giấy, plastic hoặc vật liệu khác, được sử dụng cho bìa sách in, dây mũ (nhóm 32.12).",
+        "en": "The heading does not include: (a) Stamping foils (also known as blocking foils) composed of copper powder agglomerated with gelatin, glue or other binder, or of copper deposited on paper, plastics or other support, and used for printing book covers, hat bands, etc. (heading 32.12)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (b) Nhãn bằng đồng lá mỏng được in để chỉ hàng hoá cá biệt (nhóm 49.11); (c) Sợi phủ kim loại thuộc nhóm 56.05; (d) Tấm, lá và dải, có độ dày trên 0,15 mm (nhóm 74.09); (e) Dạng lá mỏng để trang trí cho cây thông Nô-en (nhóm 95.05).",
+        "en": "The heading does not include: (b) Printed copper foil labels being identifiable individual articles by virtue of the printing (heading 49.11); (c) Metallised yarn of heading 56.05; (d) Plates, sheets and strip, of a thickness exceeding 0.15 mm (heading 74.09); (e) Foil in the form of Christmas tree decorations (heading 95.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Chưa được bồi:",
+        "en": "- Not backed:"
+      },
+      "subheading_id": "7410.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng đồng tinh luyện",
+        "en": "- - Of refined copper"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Chưa được bồi:",
+        "en": "- Not backed:"
+      },
+      "subheading_id": "7410.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng đồng hợp kim",
+        "en": "- - Of copper alloys"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Đã được bồi:",
+        "en": "- Backed:"
+      },
+      "subheading_id": "7410.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng đồng tinh luyện",
+        "en": "- - Of refined copper"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Đã được bồi:",
+        "en": "- Backed:"
+      },
+      "subheading_id": "7410.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng đồng hợp kim.",
+        "en": "- - Of copper alloys"
+      }
+    }
+  ]
+}

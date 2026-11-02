@@ -1,0 +1,130 @@
+{
+  "heading_id": "02.06",
+  "heading_title": {
+    "vi": "Phụ phẩm ăn được sau giết mổ của lợn, động vật họ trâu bò, cừu, dê, ngựa, la, lừa, tươi, ướp lạnh hoặc đông lạnh.",
+    "en": "Edible offal of bovine animals, swine, sheep, goats, horses, asses, mules or hinnies, fresh, chilled or frozen."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các phụ phẩm ăn được sau giết mổ như: đầu và các bộ phận của đầu (gồm cả tai), chân, đuôi, tim, vú, gan, bầu dục, ức, tụy, óc, phổi, cổ họng, thịt hông (thick skirts, thin skirts), lá lách, lưỡi, màng ruột, tuỷ sống, da ăn được, cơ quan sinh sản (dạ con, buồng trứng, tinh hoàn), tuyến giáp, tuyến yên. Nguyên tắc phân loại các phụ phẩm này được đề cập trong Chú giải Tổng quát của Chương này.",
+    "en": "This heading includes edible offal such as: heads and cuts thereof (including ears), feet, tails, hearts, udders, livers, kidneys, sweetbreads (thymus glands and pancreas), brains, lungs, throats, thick skirts, thin skirts, spleens, tongues, caul, spinal cords, edible skin, reproductive organs (e.g., uteri, ovaries and testes), thyroid glands, pituitary glands. The principles for the classification of offal are covered in the General Explanatory Note to this Chapter."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Phụ phẩm ăn được sau giết mổ thuộc nhóm này bao gồm: đầu và những bộ phận của đầu (gồm cả tai), chân, đuôi, tim, vú, gan, bầu dục, ức, tụy, óc, phổi, cổ họng, thịt hông (thick skirts, thin skirts), lá lách, lưỡi, màng ruột, tuỷ sống, da ăn được, cơ quan sinh sản (ví dụ: dạ con, buồng trứng và tinh hoàn), tuyến giáp, tuyến yên. Về những nguyên tắc dùng để phân loại các phụ phẩm ăn được, xem Chú giải Tổng quát của Chương này.",
+        "en": "The edible offal of this heading includes the following : heads and cuts thereof (including ears), feet, tails, hearts, udders, livers, kidneys, sweetbreads (thymus glands and pancreas), brains, lungs, throats, thick skirts, thin skirts, spleens, tongues, caul, spinal cords, edible skin, reproductive organs (e.g., uteri, ovaries and testes), thyroid glands, pituitary glands. For the principles to be applied for the classification of offal, see the General Explanatory Note to this Chapter."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0206.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Của động vật họ trâu bò, tươi hoặc ướp lạnh",
+        "en": "Of bovine animals, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của động vật họ trâu bò, đông lạnh:",
+        "en": "Of bovine animals, frozen :"
+      },
+      "subheading_id": "0206.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lưỡi",
+        "en": "Tongues"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của động vật họ trâu bò, đông lạnh:",
+        "en": "Of bovine animals, frozen :"
+      },
+      "subheading_id": "0206.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Gan",
+        "en": "Livers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của động vật họ trâu bò, đông lạnh:",
+        "en": "Of bovine animals, frozen :"
+      },
+      "subheading_id": "0206.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0206.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Của lợn, tươi hoặc ướp lạnh",
+        "en": "Of swine, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của lợn, đông lạnh:",
+        "en": "Of swine, frozen :"
+      },
+      "subheading_id": "0206.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Gan",
+        "en": "Livers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của lợn, đông lạnh:",
+        "en": "Of swine, frozen :"
+      },
+      "subheading_id": "0206.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0206.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, tươi hoặc ướp lạnh",
+        "en": "Other, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0206.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, đông lạnh",
+        "en": "Other, frozen"
+      }
+    }
+  ]
+}

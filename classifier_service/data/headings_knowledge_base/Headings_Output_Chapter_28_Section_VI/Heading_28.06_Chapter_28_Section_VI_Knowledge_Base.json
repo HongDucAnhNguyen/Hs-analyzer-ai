@@ -1,0 +1,60 @@
+{
+  "heading_id": "28.06",
+  "heading_title": {
+    "vi": "Hydro clorua (axit hydrocloric); axit clorosulphuric.",
+    "en": "Hydrogen chloride (hydrochloric acid); chlorosulphuric acid."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm (A) Hydro clorua (axit hydrocloric) (HCl), một loại khí có thể được hóa lỏng dưới áp suất hoặc ở dạng dung dịch nước đậm đặc (axit muriatic), và (B) Axit clorosulphuric (axit clorosulphonic), một chất lỏng có tính ăn mòn cao. Nhóm này không bao gồm axit hypochlorous, axit cloric hoặc axit percloric (nhóm 28.11) và lưu huỳnh diclorua dioxit (sulphuryl chloride) (nhóm 28.12).",
+    "en": "This heading covers (A) Hydrogen chloride (hydrochloric acid) (HCl), a gas which may be liquefied under pressure or in concentrated aqueous solutions (muriatic acid), and (B) Chlorosulphuric acid (chlorosulphonic acid), a highly corrosive liquid. The heading excludes hypochlorous, chloric or perchloric acids (heading 28.11) and sulphur dichloride dioxide (sulphuryl chloride) (heading 28.12)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) HYDRO CLORUA (AXIT HYDROCLORIC)\nHydro clorua (HCl) là một loại khí không màu, bốc khói, có mùi nghẹt thở. Nó được nén thành dạng lỏng trong các bình thép hoặc ở dạng dung dịch nước đậm đặc (thường từ 28 đến 38%) được gọi là axit hydrocloric hoặc axit muriatic. Dung dịch tinh khiết không màu, trong khi sản phẩm không tinh khiết có màu hơi vàng. Axit hydrocloric có nhiều ứng dụng, ví dụ như tẩy sắt, kẽm hoặc các kim loại khác, chiết gelatin từ xương, và điều chế các muối clorua kim loại. Khí hydro clorua thường được sử dụng trong tổng hợp hữu cơ.",
+        "en": "(A) HYDROGEN CHLORIDE (HYDROCHLORIC ACID)\nHydrogen chloride (HCl) is a colourless fuming gas with a suffocating odour. It is presented under pressure in liquid form in steel cylinders or in concentrated aqueous solutions (usually 28 to 38 %) (hydrochloric acid, muriatic acid, spirits of salt). These solutions are yellowish if the product contains impurities and colourless if pure. Hydrochloric acid has many uses, e.g., pickling iron, zinc or other metals, extracting gelatin from bones, and preparing metal chlorides. Hydrogen chloride gas is often employed in organic syntheses."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(B) AXIT CLOROSULPHURIC (AXIT CLOROSULPHONIC)\nAxit clorosulphuric, còn được gọi là axit clorosulphonic (ClSO2OH), là một chất lỏng có tính ăn mòn cao, không màu hoặc hơi nâu, có mùi khó chịu. Nó bốc khói trong môi trường ẩm và bị phân hủy khi tiếp xúc với nước hoặc khi bị đun nóng. Nó được sử dụng trong tổng hợp hữu cơ (sản xuất saccarin, thioindigo, indigosol, v.v.).",
+        "en": "(B) CHLOROSULPHURIC ACID (CHLOROSULPHONIC ACID)\nChlorosulphuric acid, commercially designated as chlorosulphonic acid (ClSO2OH), is a highly corrosive, colourless or brownish liquid with an irritating odour; it fumes in a humid atmosphere and decomposes on contact with water or if heated. It is used in organic syntheses (manufacture of saccharin, thioindigo, indigosols, etc.)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm axit hypochlorous, axit cloric hoặc axit percloric (nhóm 28.11). Nhóm này cũng không gồm lưu huỳnh diclorua dioxit (sulphuryl chloride) (nhóm 28.12), mà đôi khi nó được hiểu nhầm là “clorosulphuric axit”.",
+        "en": "The heading excludes hypochlorous, chloric or perchloric acids (heading 28.11). The heading also excludes sulphur dichloride dioxide (sulphuryl chloride) (heading 28.12), which is sometimes erroneously referred to as “chlorosulphuric acid”."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2806.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hydro clorua (axit hydrocloric)",
+        "en": "Hydrogen chloride (hydrochloric acid)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2806.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Axit clorosulphuric",
+        "en": "Chlorosulphuric acid"
+      }
+    }
+  ]
+}

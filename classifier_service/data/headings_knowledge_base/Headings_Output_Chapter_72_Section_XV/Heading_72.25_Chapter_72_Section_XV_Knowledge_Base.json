@@ -1,0 +1,139 @@
+{
+  "heading_id": "72.25",
+  "heading_title": {
+    "vi": "Thép hợp kim khác được cán phẳng, có chiều rộng từ 600 mm trở lên (+).",
+    "en": "Flat-rolled products of other alloy steel, of a width of 600 mm or more (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm thép hợp kim khác được cán phẳng, có chiều rộng từ 600 mm trở lên. Việc phân loại sản phẩm trong nhóm này áp dụng các điều khoản của Chú giải cho các nhóm 72.08 đến 72.10. Chú giải phân nhóm cung cấp hướng dẫn chi tiết cho các phân nhóm 7225.30, 7225.40, 7225.50, 7225.91 và 7225.92 bằng cách tham chiếu đến các chú giải của các phân nhóm tương ứng trong các nhóm 72.08, 72.09 và 72.10.",
+    "en": "This heading covers flat-rolled products of other alloy steel, of a width of 600 mm or more. The classification of products under this heading follows the provisions of the Explanatory Notes to headings 72.08 to 72.10. Subheading Explanatory Notes provide detailed guidance for subheadings 7225.30, 7225.40, 7225.50, 7225.91 and 7225.92 by referring to the explanatory notes of corresponding subheadings in headings 72.08, 72.09, and 72.10."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho các nhóm 72.08 đến 72.10, với những sửa đổi thích hợp, áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Notes to headings 72.08 to 72.10 apply, mutatis mutandis, to the products of this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nCác phân nhóm 7225.30 và 7225.40\nXem Chú giải cho các phân nhóm 7208.10, 7208.25, 7208.26, 7208.27, 7208.36, 7208.37, 7208.38, 7208.39, 7208.40, 7208.51, 7208.52, 7208.53, 7208.54.",
+        "en": "Subheading Explanatoiy Notes.\nSubheadings 7225.30 and 7225.40\nSee the Explanatory Note to subheadings 7208.10, 7208.25, 7208.26, 7208.27, 7208.36, 7208.37, 7208.38, 7208.39, 7208.40, 7208.51, 7208.52, 7208.53 and 7208.54."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phân nhóm 7225.50\nXem Chú giải cho các phân nhóm 7209.15, 7209.16, 7209.17, 7209.18, 7209.25, 7209.26, 7209.27, 7209.28.",
+        "en": "Subheading 7225.50\nSee the Explanatory Note to subheadings 7209.15, 7209.16, 7209.17, 7209.18, 7209.25, 7209.26, 7209.27 and 7209.28."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các phân nhóm 7225.91 và 7225.92\nXem Chú giải các phân nhóm 7210.30, 7210.41 và 7210.49",
+        "en": "Subheadings 7225.91 and 7225.92\nSee the Explanatory Note to subheadings 7210.30, 721041 and 7210.49."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng thép silic kỹ thuật điện:",
+        "en": "- Of silicon-electrical steel:"
+      },
+      "subheading_id": "7225.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Các hạt (cấu trúc tế vi) kết tinh có định hướng",
+        "en": "- - Grain-oriented"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng thép silic kỹ thuật điện:",
+        "en": "- Of silicon-electrical steel:"
+      },
+      "subheading_id": "7225.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7225.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác, chưa được gia công quá mức cán nóng, ở dạng cuộn",
+        "en": "Other, not further worked than hot-rolled, in coils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7225.40",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác, chưa được gia công quá mức cán nóng, không ở dạng cuộn",
+        "en": "Other, not further worked than hot-rolled, not in coils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7225.50",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác, chưa được gia công quá mức cán nguội (ép nguội)",
+        "en": "Other, not further worked than cold-rolled (cold-reduced)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7225.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được mạ hoặc tráng kẽm bằng phương pháp điện phân",
+        "en": "- - Electrolytically plated or coated with zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7225.92",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được mạ hoặc tráng kẽm bằng phương pháp khác",
+        "en": "- - Otherwise plated or coated with zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7225.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác:",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

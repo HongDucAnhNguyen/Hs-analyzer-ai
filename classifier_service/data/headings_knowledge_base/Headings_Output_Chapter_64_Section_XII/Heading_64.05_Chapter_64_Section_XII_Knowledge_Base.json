@@ -1,0 +1,79 @@
+{
+  "heading_id": "64.05",
+  "heading_title": {
+    "vi": "Giày, dép khác",
+    "en": "Other footwear."
+  },
+  "summary": {
+    "vi": "Theo Chú giải 1 và 4 của Chương này, nhóm này bao gồm toàn bộ các loại giày, dép có đế ngoài và mũ được làm bằng một loại vật liệu hoặc kết hợp các loại vật liệu chưa được đề cập trong các nhóm trước của Chương này (ví dụ 64.01 đến 64.04). Nhóm này không bao gồm các chi tiết lắp ráp của các bộ phận không những chưa tạo thành mà còn chưa có mang đặc trưng cơ bản của các loại giày, dép (nhóm 64.06).",
+    "en": "Subject to Notes 1 and 4 to this Chapter, this heading covers all footwear having outer soles and uppers of a material or combination of materials not referred to in the preceding headings of this Chapter (e.g. 64.01 to 64.04). The heading excludes assemblies of parts not yet constituting nor having the essential character of footwear (heading 64.06)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 1 và 4 của Chương này, nhóm này bao gồm toàn bộ các loại giày, dép có đế ngoài và mũ được làm bằng một loại vật liệu hoặc kết hợp các loại vật liệu chưa được đề cập trong các nhóm trước của Chương này.",
+        "en": "Subject to Notes 1 and 4 to this Chapter, this heading covers all footwear having outer soles and uppers of a material or combination of materials not referred to in the preceding headings of this Chapter."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại giày, dép cụ thể như:\n(1) Giày, dép, có đế ngoài bằng cao su hoặc plastic, và phần mũ được làm bằng các vật liệu trừ cao su, plastic, da thuộc hoặc vật liệu dệt;",
+        "en": "The heading includes in particular:\n(1) Footwear, with outer soles of rubber or plastics, and the uppers made of material other than rubber, plastics, leather or textile material;"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(2) Giày, dép có đế ngoài làm bằng da thuộc hoặc da tổng hợp, và có phần mũ được làm bằng các vật liệu trừ da thuộc hoặc vật liệu dệt;\n(3) Giày, dép có đế ngoài làm bằng gỗ, lie, dây xe hoặc dây thừng, bìa giấy, da lông, vải dệt, nỉ (phớt), sản phẩm không dệt, vải sơn, sợi cọ, rơm, xơ mướp,.v.v. Phần mũ giày của các loại giày, dép này có thể được làm bằng bất cứ vật liệu gì.",
+        "en": "(2) Footwear with outer soles of leather or of composition leather, and the uppers made of material other than leather or textile material;\n(3) Footwear with outer soles of wood, cork, twine or rope, paperboard, furskin, textile fabric, felt, nonwovens, linoleum, raffia; straw, loofah, etc. The uppers of such footwear may be of any material."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm các chi tiết lắp ráp của các bộ phận (ví dụ như: mũ, đã gắn hoặc chưa gắn vào đế trong) không những chưa tạo thành mà còn chưa có mang đặc trưng cơ bản của các loại giày, dép được mô tả trong các nhóm từ 64.01 đến 64.05 (nhóm 64.06).",
+        "en": "The heading excludes assemblies of parts (e.g., uppers, whether or not affixed to an inner sole) not yet constituting nor having the essential character of footwear as described in headings 64.01 to 64.05 (heading 64.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6405.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có mũ giày bằng da thuộc hoặc da tổng hợp",
+        "en": "With uppers of leather or composition leather"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6405.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có mũ giày bằng vật liệu dệt",
+        "en": "With uppers of textile materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6405.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

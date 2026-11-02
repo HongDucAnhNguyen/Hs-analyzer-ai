@@ -1,0 +1,65 @@
+{
+  "heading_id": "39.16",
+  "heading_title": {
+    "vi": "Plastic dạng sợi monofilament có kích thước mặt cắt ngang bất kỳ trên 1 mm, dạng thanh, que và các dạng hình, đã hoặc chưa gia công bề mặt, nhưng chưa gia công cách khác.",
+    "en": "Monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks and profile shapes, whether or not surface- worked but not otherwise worked, of plastics."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm sợi monofilament có kích thước mặt cắt ngang bất kỳ trên 1mm, thanh, que và các dạng hình có tiết diện không đổi hoặc lặp lại. Các dạng hình rỗng có mặt cắt ngang khác với các sản phẩm của nhóm 39.17. Nhóm này cũng bao gồm các sản phẩm trên đã được cắt theo chiều dài hoặc gia công bề mặt (đánh bóng, làm mờ...). Các sản phẩm đã được gia công thêm (khoan, cán, gắn keo...) hoặc cắt có chiều dài không quá kích thước mặt cắt ngang tối đa bị loại trừ và được phân loại là sản phẩm thuộc các nhóm từ 39.18 đến 39.26.",
+    "en": "This heading covers monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks, and profile shapes with a constant or repetitive cross-section. Hollow profile shapes have a cross-section different from that of products of heading 39.17. The heading also includes such products which have been cut to length or surface-worked (polished, matt-finished, etc.). Products which have been otherwise worked (drilled, milled, assembled, etc.) or cut to a length not exceeding the maximum cross-sectional dimension are excluded and classified as articles in headings 39.18 to 39.26."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm sợi monofilament có kích thước mặt cắt ngang bất kỳ trên 1mm, thanh, que và các dạng hình. Chúng thu được theo chiều dài trong một công đoạn đơn lẻ (thường là quá trình ép đùn) và chúng có tiết diện không đổi hoặc lặp lại từ đầu đến cuối. Các dạng hình rỗng có mặt cắt ngang khác so với mặt cắt ngang của các sản phẩm dạng ống, ống dẫn và ống vòi thuộc nhóm 39.17 (xem Chú giải 8 thuộc Chương này).\nNhóm này cũng bao gồm những sản phẩm như trên mà chúng được cắt đơn thuần thành một đoạn dài hơn kích thước mặt cắt tối đa hoặc được gia công bề mặt (đã đánh bóng, đã làm mờ…), nhưng chưa được gia công cách khác. Các dạng hình có một mặt dính, được sử dụng cho việc gắn các khung cửa sổ, thì được phân loại trong nhóm này.",
+        "en": "This heading covers monofilament of which any cross-sectional dimension exceeds 1 mm, rods, sticks, and profile shapes. These are obtained in the length in a single operation (generally extrusion), and they have a constant or repetitive cross-section, from one end to the other. Hollow profile shapes have a cross-section different from that of tubes, pipes and hoses of heading 39.17 (see Note 8 to this Chapter).\nThe heading also includes such products which have been merely cut to a length exceeding the maximum cross-sectional dimension or surface-worked (polished, matt-finished, etc.), but not otherwise worked. Profile shapes with an adhesive surface, used for sealing window frames, are classified in this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các sản phẩm được cắt đến điểm có chiều dài không quá kích thước mặt cắt ngang tối đa, hoặc đã được được gia công theo cách khác (khoan, cán, gắn bằng keo hoặc may...) thì bị loại trừ khỏi nhóm này. Chúng được phân loại như các sản phẩm ở các nhóm 39.18 đến 39.26 trừ khi chúng được ghi chi tiết hơn ở một nhóm nào đó khác trong Danh mục này.\nĐể phân loại sợi monofilament, thanh, que và các dạng hình từ plastic kết hợp với các vật liệu khác, xem Chú giải tổng quát thuộc Chương này.",
+        "en": "Products which have been cut down to the point where the length does not exceed the maximum cross-sectional dimension, or which have been otherwise worked (drilled, milled, assembled by glueing or sewing, etc.) are excluded from this heading. They are classified as articles in headings 39.18 to 39.26 unless they are more specifically covered by some other heading in the Nomenclature.\nFor the classification of monofilament, rods, sticks and profile shapes of plastics combined with other materials, see the General Explanatory Note to this Chapter."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3916.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ các polyme etylen",
+        "en": "Of polymers of ethylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3916.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ các polyme vinyl clorua",
+        "en": "Of polymers of vinyl chloride"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3916.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ plastic khác",
+        "en": "Of other plastics"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "heading_id": "04.10",
+  "heading_title": {
+    "vi": "Côn trùng và sản phẩm ăn được gốc động vật, chưa được chi tiết hoặc ghi ở nơi khác.",
+    "en": "Insects and other edible products of animal origin, not elsewhere specified or included."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm côn trùng (như định nghĩa tại Chú giải 6 Chương này) và các sản phẩm ăn được khác có nguồn gốc động vật thích hợp cho người, chưa được chi tiết hoặc ghi ở nơi khác. Các sản phẩm bao gồm trứng rùa (sống, khô hoặc bảo quản khác) và tổ yến (chưa qua xử lý hoặc đã làm sạch).\n\nNhóm này không bao gồm:\n- Các loại côn trùng không còn sống không thích hợp dùng làm thức ăn cho người (kể cả bột mịn và bột thô của chúng) (nhóm 05.11).\n- Dầu làm từ trứng rùa (nhóm 15.06).\n- Tiết động vật, ăn được hoặc không, dạng lỏng hoặc khô (nhóm 05.11 hoặc 30.02).",
+    "en": "This heading covers insects (as defined in Note 6 to this Chapter) and other edible products of animal origin suitable for human consumption, not specified or included elsewhere. Products include turtles' eggs (fresh, dried or otherwise preserved) and salanganes' nests (“birds’ nests”) (untreated or cleaned).\n\nThis heading excludes:\n- Non-living insects unfit for human consumption (including flours and meals thereof) (heading 05.11).\n- Turtle-egg oil (heading 15.06).\n- Animal blood, edible or not, liquid or dried (heading 05.11 or 30.02)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm côn trùng (như đã định nghĩa tại Chú giải 6 Chương này) và các sản phẩm ăn được gốc động vật khác thích hợp dùng làm thức ăn cho người, chưa được chi tiết hoặc chưa được ghi ở nơi khác trong Danh mục. Tuy nhiên, các loại côn trùng không còn sống không thích hợp dùng làm thức ăn cho người (kể cả bột mịn và bột thô của chúng) được phân loại và nhóm 05.11.",
+        "en": "This heading covers insects (as defined in Note 6 to this Chapter) and other products of animal origin suitable for human consumption, not specified or included elsewhere in the Nomenclature. However, non-living insects unfit for human consumption (including flours and meals thereof) are classified in heading 05.11."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Trứng rùa. Trứng của rùa sông hoặc rùa biển; có thể sống, làm khô hoặc bảo quản cách khác.\n(2) Tổ yến. Chúng gồm chất tiết ra bởi chim yến, chất tiết này rắn lại nhanh chóng khi tiếp xúc với không khí. Tổ yến có thể ở dạng chưa xử lý hoặc đã làm sạch để loại bỏ lông vũ, lông tơ, bụi và các tạp chất khác để làm thực phẩm. Chúng thường có dạng dải hoặc sợi màu trắng ngà. Tổ yến có hàm lượng protein cao và hầu như chỉ được dùng để nấu súp hoặc các chế phẩm thực phẩm khác.",
+        "en": "It includes :\n(1) Turtles' eggs. These are eggs laid by river or marine turtles; they may be fresh, dried or otherwise preserved.\n(2) Salanganes’ nests (“birds’ nests”). These consist of a substance secreted by the bird which solidifies rapidly on exposure to air. The nests may be presented untreated, or they may have been cleaned to remove feathers, down, dust and other impurities in order to render them suitable for consumption. They are generally in the form of whitish strips or threads. Salanganes’ nests have a high protein content and are used almost exclusively to make soups or other food preparations."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Loại trừ dầu làm từ trứng rùa (nhóm 15.06).",
+        "en": "Turtle-egg oil is excluded (heading 15.06)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm tiết động vật, ăn được hoặc không ăn được, dạng lỏng hoặc khô (nhóm 05.11 hoặc 30.02).",
+        "en": "The heading excludes animal blood, edible or not, liquid or dried (heading 05.11 or 30.02)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0410.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Côn trùng",
+        "en": "Insects"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0410.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

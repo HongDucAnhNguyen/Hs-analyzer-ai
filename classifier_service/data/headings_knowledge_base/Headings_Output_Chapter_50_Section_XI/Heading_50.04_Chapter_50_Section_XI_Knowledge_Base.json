@@ -1,0 +1,35 @@
+{
+  "heading_id": "50.04",
+  "heading_title": {
+    "vi": "Sợi tơ tằm (trừ sợi kéo từ phế liệu tơ tằm) chưa đóng gói để bán lẻ.",
+    "en": "Silk yarn (other than yarn spun from silk waste) not put up for retail sale."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tơ xe (thrown silk), là các loại sợi được tạo ra bằng cách xoắn một hoặc nhiều sợi tơ thô của nhóm 50.02. Các loại sợi này được tạo thành từ các sợi liên tục, khác với sợi kéo từ phế liệu tơ. Các loại sợi chính bao gồm: sợi đơn (poils), sợi khổ (tram yarns), sợi nhiều xoắn (crêpe twist), và sợi dọc tơ tằm (organzine yarns). Các loại sợi này có thể đã được khử màu hoặc hoàn thiện.\n\nNhóm này không bao gồm:\n- Sợi tơ tằm đã đóng gói để bán lẻ (nhóm 50.06).\n- Sợi xe, chão bện... theo định nghĩa tại nhóm 56.07 (tham chiếu Chú giải tổng quát Phần XI, mục (I)(B)(2) và (3)).\n- Chỉ giả catgut làm bằng tơ tằm (nhóm 56.04).",
+    "en": "This heading covers thrown silk, which are yarns obtained by twisting one or more raw silk threads of heading 50.02. These yarns are formed of continuous fibres, differing from yarn spun from silk waste. Main varieties include: single yarns (poils), tram yarns, crêpe twist, and organzine yarns. These yarns may be discharged or finished.\n\nThis heading does not cover:\n- Silk yarn put up for retail sale (heading 50.06).\n- Twine, cordage, etc., as defined in heading 56.07 (referencing the General Explanatory Note to Section XI, Parts (I)(B)(2) and (3)).\n- Imitation catgut of silk (heading 56.04)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này áp dụng cho tơ xe, tức là những sợi thu được bởi việc xoắn hai hay nhiều sợi tơ thô của nhóm 50.02. Sợi trong nhóm này khác với sợi xe từ phế liệu tơ đã được phân loại trong nhóm tiếp theo mà trong đó nó ở dạng những sợi liên tục.",
+        "en": "This heading applies to thrown silk, i.e., yarns obtained by twisting (either singly or two or more together) the raw silk threads of heading 50.02. The yarns of this heading differ from the yarns spun from silk waste classified in the following heading in that they are formed of continuous fibres."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại sợi thuộc nhóm này bao gồm:\n(1) Các sợi đơn (đôi khi được biết như là poils) thu được bởi quá trình xoắn 1 sợi chỉ tơ thô đơn. Những sợi đã được xoắn chặt dạng này được gọi là sợi nhiễu, mousselines hoặc sợi the xoắn.\n(2) Sợi khổ thu được bằng cách xoắn lỏng hai hay nhiều sợi chỉ tơ thô chưa xe; những sợi này được sử dụng như những sợi dệt ngang.\n(3) “Sợi nhiều xoắn” là sợi khổ được xoắn chặt.\n(4) “Sợi dọc tơ tằm” thu được từ hai hay nhiều sợi chỉ tơ thô đã được xoắn thành 1 sợi bằng cách chập đôi để xoắn ngược lại. Sợi tơ xe đôi là sợi tơ xe 2 lần được xoắn chặt. Những sợi này phần lớn được sử dụng như sợi dệt dọc.\nTất cả những sợi này có thể là những sợi được khử màu hoặc hoàn thiện.",
+        "en": "There are many varieties of yarns in this heading, including:\n(1) Single yarns (sometimes known as poils), obtained by twisting a single raw silk thread. Hard-twisted yarns of this type are often called crêpe poils, mousselines or chiffon twist.\n(2) Tram yarns, obtained by loosely twisting two or more unthrown raw silk threads; these are used as weft yarns.\n(3) “Crêpe twist”, generally a hard-twisted tram.\n(4) Organzine yarns, obtained from two or more raw silk threads which have been well twisted in the single by doubling them with reverse twist. Grenadine yarn is a hard-twisted organzine. These are used mainly as warp yarns.\nAll these yarns may be discharged or finished."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n- Sợi đã được đóng gói để bán lẻ (nhóm 50.06).\n- Sợi trong phạm vi định nghĩa của sợi xe, chão bện... (nhóm 56.07) (xem các mục (I) (B) (2) và (3) của Chú giải tổng quát Phần XI).\n- Chỉ giả catgut làm bằng tơ tằm của nhóm 56.04.",
+        "en": "This heading excludes:\n- Yarns put up for retail sale (heading 50.06).\n- Yarns within the definition of twine, cordage, etc. (heading 56.07) (see Parts (I) (B) (2) and (3) of the General Explanatory Note to Section XI).\n- Imitation catgut of silk, of heading 56.04."
+      }
+    }
+  ],
+  "subheadings": []
+}

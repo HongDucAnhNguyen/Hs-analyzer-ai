@@ -1,0 +1,113 @@
+{
+  "heading_id": "74.03",
+  "heading_title": {
+    "vi": "Đồng tinh luyện và hợp kim đồng, chưa gia công.",
+    "en": "Refined copper and copper alloys, unwrought."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm đồng tinh luyện và các hợp kim đồng ở dạng chưa gia công, theo định nghĩa tại Chú giải 1(a) và 1(b) của Chương. Đồng tinh luyện phải chứa ít nhất 99,85% đồng, hoặc ít nhất 97,5% đồng nếu được hợp kim hóa trong giới hạn cho phép. Các sản phẩm thuộc nhóm này có các dạng thô như thỏi, thanh để kéo dây, que, tấm để cán, và ca-tốt dùng cho mục đích gia công tiếp theo. Nhóm này cũng bao gồm các sản phẩm đúc hoặc thiêu kết, miễn là chúng chưa được gia công sau sản xuất ngoài việc cắt sửa đơn giản hoặc xử lý bề mặt. Các dạng đặc biệt như thanh đúc chính xác (\"jets\") và sản phẩm từ đúc liên tục cũng được phân loại tại đây. Tuy nhiên, nhóm này không bao gồm bột và vảy đồng (nhóm 74.06) và các sản phẩm thiêu kết đã được gia công thêm như cán hoặc ép đùn (ví dụ nhóm 74.07, 74.09).",
+    "en": "This heading covers unwrought refined copper and copper alloys, as defined in Chapter Notes 1 (a) and 1 (b) respectively. Refined copper must contain at least 99.85% copper, or at least 97.5% copper if alloyed within specified limits. Products under this heading include raw forms like ingots, wire-bars, billets, slabs for rolling, and cathodes intended for further processing. The heading also includes cast or sintered products, provided they have not been worked after production other than by simple trimming or surface treatment. Special forms such as accurately cast products (\"jets\") and continuously cast products are also classified here. However, this heading excludes copper powders and flakes (heading 74.06) and sintered products that have been further worked, such as by rolling or extruding (e.g., headings 74.07, 74.09)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm đồng đã tinh luyện và hợp kim đồng chưa gia công theo định nghĩa ở Chú giải 1(a) và 1(b) của Chương. Đồng tinh luyện chứa ít nhất 99,85% đồng (thu được bằng điện phân, chiết điện phân, tinh luyện hoá học, hoặc tinh luyện bằng ngọn lửa) hoặc chứa ít nhất 97,5% đồng (khi hợp kim hóa với các nguyên tố khác trong giới hạn của Chú giải 1(a)). Các dạng của đồng tinh luyện bao gồm: thỏi hoặc thỏi thanh để tái nung chảy, thanh dây, tấm để cán, que và các dạng tương tự để cán, ép đùn, kéo hoặc rèn. Đồng tinh luyện điện phân có thể ở dạng cathod. Đồng tinh luyện cũng có thể ở dạng viên (shot). Bột và vảy đồng được phân loại ở nhóm 74.06. Nhóm này cũng bao gồm các sản phẩm đúc và thiêu kết, với điều kiện chúng không được gia công sau sản xuất ngoài việc cắt sửa đơn giản, cạo gỉ hoặc gia công một mặt để kiểm tra. Các sản phẩm thiêu kết đã qua cán, ép đùn, rèn bị loại trừ (ví dụ, các nhóm 74.07, 74.09). Thanh dây và que có đầu mút được vuốt thon hoặc gia công đơn giản để đưa vào máy cũng thuộc nhóm này.",
+        "en": "This heading covers unwrought refined copper and copper alloys as defined in Chapter Notes 1(a) and 1(b). Refined copper contains at least 99.85% copper (obtained by electrolytic refining, electrolytic extraction, chemical refining, or fire refining) or at least 97.5% copper (when alloyed with other elements up to limits in Chapter Note 1(a)). Forms of refined copper include: ingots or ingot-bars for remelting, wire-bars, slabs for rolling, billets and similar forms for rolling, extruding, drawing or forging. Electrolytically refined copper may be in the form of cathodes. Refined copper may also be in the form of shot. Copper powders and flakes are classified in heading 74.06. This heading also covers cast and sintered products, provided they have not been worked after production other than by simple trimming, de-scaling, or machining on one surface for inspection. Sintered products that have been rolled, extruded, or forged are excluded (e.g., headings 74.07, 74.09). Wire-bars and billets with tapered or simply worked ends to facilitate entry into machines are also included."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các thanh và que đúc của nhóm này có thể bao gồm: (1) Các sản phẩm đúc chính xác (\"jets\") có mặt cắt hình tròn, hình vuông hoặc hình lục giác và thường có chiều dài không quá 1m. (2) Các sản phẩm dài hơn thu được bởi quá trình đúc liên tục. Cả hai loại này thường được sử dụng cho các mục đích tương tự như cán, kéo hoặc đùn các thanh.",
+        "en": "The cast bars and rods of this heading may include: (1) Accurately cast products (\"jets\") of round, square or hexagonal section and usually not exceeding 1 m in length. (2) Longer products obtained by the continuous casting process. Both types are often used for the same purposes as rolled, drawn or extruded bars."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Đồng tinh luyện:",
+        "en": "Refined copper:"
+      },
+      "subheading_id": "7403.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Ca-tốt và các phần của ca- tốt",
+        "en": "- - Cathodes and sections of cathodes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đồng tinh luyện:",
+        "en": "Refined copper:"
+      },
+      "subheading_id": "7403.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Thanh để kéo dây",
+        "en": "- - Wire-bars"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đồng tinh luyện:",
+        "en": "Refined copper:"
+      },
+      "subheading_id": "7403.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Que",
+        "en": "- - Billets."
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đồng tinh luyện:",
+        "en": "Refined copper:"
+      },
+      "subheading_id": "7403.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hợp kim đồng:",
+        "en": "Copper alloys :"
+      },
+      "subheading_id": "7403.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Hợp kim đồng-kẽm (đồng thau)",
+        "en": "- - Copper-zinc base alloys (brass)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hợp kim đồng:",
+        "en": "Copper alloys :"
+      },
+      "subheading_id": "7403.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Hợp kim đồng-thiếc (đồng thanh)",
+        "en": "- - Copper-tin base alloys (bronze)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hợp kim đồng:",
+        "en": "Copper alloys :"
+      },
+      "subheading_id": "7403.29",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Hợp kim đồng khác (trừ hợp kim đồng chủ thuộc nhóm 74.05)",
+        "en": "- - Other copper alloys (other than master alloys of heading 74.05)"
+      }
+    }
+  ]
+}

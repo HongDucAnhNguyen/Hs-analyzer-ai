@@ -1,0 +1,89 @@
+{
+  "heading_id": "84.02",
+  "heading_title": {
+    "vi": "Nồi hơi tạo ra hơi nước hoặc tạo ra hơi khác (trừ các nồi hơi đun nóng nước trung tâm có khả năng sản xuất ra hơi với áp suất thấp); nồi hơi nước quá nhiệt.",
+    "en": "Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); super-heated water boilers."
+  },
+  "summary": {
+    "vi": "Nhóm 84.02 bao gồm các loại nồi hơi tạo ra hơi nước hoặc hơi khác (ví dụ: hơi thủy ngân) và nồi hơi nước quá nhiệt. Các nồi hơi này được sử dụng để cung cấp năng lượng cho máy móc (tua bin, búa máy), hoặc cho các mục đích sưởi, nấu ăn, và khử trùng. Nhóm này áp dụng cho cả nồi hơi được trình bày riêng lẻ, như nồi hơi đầu máy xe lửa, và bao gồm các loại chính như nồi hơi ống lửa, ống nước, và loại lai ghép. Nồi hơi nước quá nhiệt hoạt động dưới áp suất cao để đun nước trên 180°C. Các thiết bị phụ trợ đi kèm, nếu tạo thành một bộ hoàn chỉnh, cũng được phân loại trong nhóm này, tuy nhiên các thiết bị này nếu đứng riêng lẻ sẽ được phân loại tại nhóm 84.04 và 84.21. Nhóm này không bao gồm nồi hơi chỉ đun nóng nước dưới điểm sôi và nồi hơi sưởi ấm trung tâm thuộc nhóm 84.03.",
+    "en": "Heading 84.02 covers steam or other vapour generating boilers (e.g., mercury vapour) and super-heated water boilers. These boilers are used to power machinery (turbines, steam hammers), or for heating, cooking, and sterilizing purposes. This heading applies even to separately presented boilers, such as locomotive boilers, and includes main types like firetube, watertube, and hybrid boilers. Super-heated water boilers operate under high pressure to heat water above 180°C. Auxiliary plant presented with the boilers as a complete unit is also classified here, however, if presented separately, these auxiliaries are classified in heading 84.04 and 84.21. This heading also excludes boilers designed only for heating water below boiling point and central heating boilers of heading 84.03."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phần (A) mô tả nồi hơi tạo ra hơi nước hoặc hơi khác (ví dụ: hơi thủy ngân) dùng để vận hành máy kéo động cơ (tua bin hơi nước), các dụng cụ dùng hơi nước (búa máy, bơm hơi), hoặc dùng cho việc sưởi, nấu, khử trùng. Nhóm này bao gồm cả nồi hơi được trình bày riêng biệt như nồi hơi đầu máy xe lửa. Các loại chính gồm: (1) Nồi hơi sưởi có hình ống khói, (2) Nồi hơi dạng ống nước, và (3) Nồi hơi kiểu lai ghép. Phần (B) mô tả nồi hơi nước quá nhiệt, trong đó nước chịu áp suất cao để có thể đun nóng tới nhiệt độ vượt xa điểm bay hơi thông thường (thường là 180°C hoặc cao hơn).",
+        "en": "Part (A) describes steam or other vapour generating boilers (e.g., mercury vapour) used to operate prime movers (steam turbines), other machines using steam power (steam hammers, pumps), or for heating, cooking, sterilising. The heading includes separately presented boilers such as locomotive boilers. The main types are: (1) Firetube boilers, (2) Watertube boilers, and (3) Hybrid boilers. Part (B) describes super-heated water boilers, in which water is submitted to fairly high pressure so that it can be heated to a temperature far in excess of the normal vaporisation point (generally 180°C or more)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nồi hơi nước quá nhiệt có cấu tạo tương tự nồi hơi Phần A và được dùng để cấp nhiệt cho nhà máy công nghiệp hoặc các hệ thống sưởi ấm khu vực. Nồi hơi thuộc nhóm này thường được trang bị các thiết bị phụ trợ để tăng hiệu quả, bao gồm bộ tiết kiệm nhiệt, thiết bị quá nhiệt, máy cạo rửa nồi hơi, thiết bị thu hồi chất khí (thuộc nhóm 84.04) và máy lọc, máy khử khí, máy làm mềm nước (thuộc nhóm 84.21). Các thiết bị này được phân loại cùng với nồi hơi nếu được trình bày chung thành một bộ hoàn chỉnh, nếu không sẽ được phân loại vào nhóm riêng của chúng. Nhóm này không bao gồm nồi hơi chỉ đun nóng nước dưới điểm sôi và nồi hơi sưởi trung tâm thuộc nhóm 84.03.",
+        "en": "Super-heated water boilers are structurally similar to Part A boilers and are used to provide heat to industrial plants or district heating schemes. Boilers of this heading are often equipped with auxiliary apparatus to increase efficiency, including economisers, superheaters, soot removers, gas recoverers (of heading 84.04), and feed water purifiers, de-aerators, and softeners (of heading 84.21). These auxiliaries are classified with the boiler when presented together as a whole; if presented separately, they are classified in their own headings. The heading excludes boilers designed only for heating water below its normal vaporisation point and central heating hot water boilers of heading 84.03."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Nồi hơi tạo ra hơi nước hoặc tạo ra hơi khác:",
+        "en": "Steam or other vapour generating boilers:"
+      },
+      "subheading_id": "8402.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Nồi hơi dạng ống nước với công suất hơi nước trên 45 tấn/giờ",
+        "en": "Watertube boilers with a steam production exceeding 45 t per hour"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nồi hơi tạo ra hơi nước hoặc tạo ra hơi khác:",
+        "en": "Steam or other vapour generating boilers:"
+      },
+      "subheading_id": "8402.12",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Nồi hơi dạng ống nước với công suất hơi nước không quá 45 tấn/giờ",
+        "en": "Watertube boilers with a steam production not exceeding 45 t per hour"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nồi hơi tạo ra hơi nước hoặc tạo ra hơi khác:",
+        "en": "Steam or other vapour generating boilers:"
+      },
+      "subheading_id": "8402.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Nồi hơi tạo ra hơi khác, kể cả loại nồi hơi kiểu lai ghép",
+        "en": "Other vapour generating boilers, including hybrid boilers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8402.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Nồi hơi nước quá nhiệt",
+        "en": "Super-heated water boilers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8402.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "heading_id": "25.10",
+  "heading_title": {
+    "vi": "Canxi phosphat tự nhiên, canxi phosphat nhôm tự nhiên và đá phấn có chứa phosphat.",
+    "en": "Natural calcium phosphates, natural aluminium calcium phosphates and phosphatic chalk."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm apatite, các canxi phosphate tự nhiên khác (tricalcium phosphate hay phosphorite), nhôm canxi phosphate tự nhiên và đá phấn chứa phosphate. Các sản phẩm này vẫn thuộc nhóm này ngay cả khi đã được nghiền để làm phân bón hoặc đã được xử lý nhiệt chỉ để loại bỏ tạp chất. Tuy nhiên, nhóm này không bao gồm các sản phẩm được nung hoặc xử lý nhiệt ngoài mục đích loại bỏ tạp chất (nhóm 31.03 hoặc 31.05).",
+    "en": "This heading covers apatite, other natural calcium phosphates (tricalcium phosphates or phosphorites), natural aluminium calcium phosphates and phosphatic chalks. These products remain in this heading even when ground for use as fertilisers or if they have been heat-treated merely to remove impurities. However, the heading excludes products that are calcined or further heat-treated than for the removal of impurities (heading 31.03 or 31.05)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này chỉ bao gồm apatite và các canxi phosphate tự nhiên khác (tricalcium phosphate hay phosphorite), nhôm canxi phosphate tự nhiên và đá phấn chứa phosphate (đá phấn thiên nhiên được trộn với canxi phosphate).\nCác sản phẩm trên vẫn thuộc nhóm này cả khi đã được nghiền để sử dụng làm phân bón hoặc nếu đã được xử lý nhiệt chỉ để loại bỏ tạp chất). Tuy vậy nhóm này không bao gồm các sản phẩm được nung hoặc xử lý nhiệt ngoài mục đích loại bỏ tạp chất (nhóm 31.03 hoặc 31.05).",
+        "en": "This heading covers only apatite and other natural calcium phosphates (tricalcium phosphates or phosphorites), natural aluminium calcium phosphates and phosphatic chalks (chalk naturally mixed with calcium phosphate).\nThese products remain in this heading even when ground for use as fertilisers or if they have been heat treated merely to remove impurities. But the heading does not include the products when they are calcined or further heat treated than for the removal of impurities (heading 31.03 or 31.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2510.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa nghiền",
+        "en": "Unground"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2510.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã nghiền",
+        "en": "Ground"
+      }
+    }
+  ]
+}

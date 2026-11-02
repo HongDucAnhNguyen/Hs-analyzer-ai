@@ -1,0 +1,28 @@
+{
+  "heading_id": "25.02",
+  "heading_title": {
+    "vi": "Pirít sắt chưa nung.",
+    "en": "Unroasted iron pyrites."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các dạng pirít sắt chưa nung, kể cả loại chứa đồng. Pirít chủ yếu bao gồm sulphua sắt và được dùng để tách chiết lưu huỳnh hoặc thu hồi đồng. Nhóm này không bao gồm pirít đã nung (nhóm 26.01), Chalcopyrite (nhóm 26.03) và Marcasite (nhóm 71.03).",
+    "en": "This heading covers all forms of unroasted iron pyrites, including cupreous types. Pyrites are mainly composed of iron sulphide and are used for extracting sulphur or recovering copper. The heading excludes roasted pyrites (heading 26.01), Chalcopyrite (heading 26.03), and Marcasite (heading 71.03)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này liên quan tới tất cả các dạng pirít sắt chưa nung, bao gồm cả quặng pirít sắt có chứa đồng hoá trị 1 chưa nung.",
+        "en": "This heading relates to all unroasted iron pyrites, including unroasted cupreous iron pyrites."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các pirít chủ yếu bao gồm sulphua sắt. Chúng thường có màu xám hoặc vàng nhạt, có ánh kim khi được tách khỏi tạp chất của chúng. Ở dạng bột thường có màu xám nhạt.\nCác pirít chưa nung chủ yếu được sử dụng để tách chiết lưu huỳnh, mặc dù loại pirít chứa đồng có thể cũng thích hợp cho việc thu hồi đồng, như là sản phẩm phụ.\nNhóm này không bao gồm tất cả các loại pirít đã nung (nhóm 26.01).\nĐồng thời cũng không bao gồm:\n(a) Chalcopyrite (các sulphua hỗn hợp của đồng và sắt) nhóm 26.03\n(b) Marcasite (đá bán quý nhóm 71.03).",
+        "en": "Pyrites are mainly composed of iron sulphide; they are grey or yellowish, with a metallic lustre when stripped of their gangue. In powder form, they are usually greyish.\nUnroasted pyrites are mainly used for the extraction of sulphur, although certain cupreous pyrites may also serve for the recovery of copper, as a by-product.\nThe heading excludes all roasted pyrites (heading 26.01).\nIt also excludes:\n(a) Chalcopyrite (mixed copper-iron sulphides) (heading 26.03).\n(b) Mareasite (semi-precious stone) (heading 71.03)."
+      }
+    }
+  ],
+  "subheadings": []
+}

@@ -1,0 +1,486 @@
+{
+  "chapter_id": "28",
+  "chapter_title": {
+    "vi": "Hóa chất vô cơ; các hợp chất vô cơ hoặc hữu cơ của kim loại quý, kim loại đất hiếm, các nguyên tố phóng xạ hoặc các chất đồng vị",
+    "en": "Inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes"
+  },
+  "summary": {
+    "vi": "Chương 28 chủ yếu bao gồm các nguyên tố hóa học riêng biệt và các hợp chất được xác định về mặt hóa học riêng biệt, có hoặc không chứa tạp chất, được hòa tan trong nước hoặc dung môi khác vì lý do an toàn hoặc vận chuyển, hoặc có thêm chất ổn định. Tuy nhiên, Chương này cũng bao gồm một số sản phẩm không được xác định về mặt hóa học được liệt kê cụ thể (ví dụ: lưu huỳnh dạng keo nhóm 28.02, corundum nhân tạo nhóm 28.18, polysulphua nhóm 28.30). Chương này chỉ bao gồm một danh sách giới hạn các hợp chất của carbon được liệt kê trong Chú giải 2 (ví dụ: oxit carbon nhóm 28.11, cacbua nhóm 28.49); tất cả các hợp chất carbon khác về cơ bản được phân loại trong Chương 29. Các loại trừ chính khỏi Chương 28 bao gồm: các sản phẩm của Phần V (ví dụ: natri clorua); một số hợp chất hữu cơ-vô cơ; các sản phẩm được đề cập trong Chú giải 2, 3, 4 hoặc 5 của Chương 31; các sản phẩm vô cơ dùng làm chất phát quang (nhóm 32.06); graphit nhân tạo (nhóm 38.01); tinh thể nuôi cấy (nhóm 38.24); đá quý hoặc bán quý (Chương 71); kim loại quý (Chương 71) và kim loại cơ bản (Phần XV); và các bộ phận quang học (nhóm 90.01). Các quy tắc cụ thể áp dụng cho các axit phức (nhóm 28.11), muối kép hoặc phức (nhóm 28.42), và các nguyên tố và hợp chất phóng xạ (nhóm 28.44). Các nguyên tố hóa học đã được kích tạp dùng trong điện tử được phân loại trong Chương này chỉ khi ở dạng chưa gia công; nếu được cắt thành đĩa hoặc dạng tương tự, chúng thuộc nhóm 38.18.",
+    "en": "Chapter 28 primarily covers separate chemical elements and separate chemically defined compounds, whether or not containing impurities, dissolved in water or other solvents for safety or transport, or with added stabilisers. However, the Chapter also includes certain non-chemically defined products that are specifically listed (e.g., colloidal sulphur of heading 28.02, artificial corundum of heading 28.18, polysulphides of heading 28.30). This Chapter only includes a limited list of carbon compounds as specified in Note 2 (e.g., oxides of carbon in 28.11, carbides in 28.49); all other carbon compounds are generally classified in Chapter 29. Major exclusions from Chapter 28 include: products of Section V (e.g., sodium chloride); certain organo-inorganic compounds; products mentioned in Notes 2, 3, 4 or 5 to Chapter 31; inorganic products used as luminophores (heading 32.06); artificial graphite (heading 38.01); cultured crystals (heading 38.24); precious or semi-precious stones (Chapter 71); precious metals (Chapter 71) and base metals (Section XV); and optical elements (heading 90.01). Specific rules apply for complex acids (heading 28.11), double or complex salts (heading 28.42), and radioactive elements and compounds (heading 28.44). Doped chemical elements for electronics are classified in this Chapter only in unworked forms; when cut into discs or similar forms, they fall in heading 38.18."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1.- Trừ khi có yêu cầu khác, các nhóm thuộc Chương này chỉ bao gồm: (a) Các nguyên tố hoá học riêng biệt và các hợp chất được xác định về mặt hóa học riêng biệt, có hoặc không chứa tạp chất:",
+        "en": "1.- Except where the context otherwise requires, the headings of this Chapter apply only to: (a) Separate chemical elements and separate chemically defined compounds, whether or not containing impurities;"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "1.- (tiếp theo) (b) Các sản phẩm được nêu ở mục (a) trên đây đã được hòa tan trong nước; (c) Các sản phẩm nêu ở mục (a) trên đây hòa tan trong các dung môi khác miễn là sự hòa tan chỉ là một phương pháp thông thường và cần thiết để đóng gói những sản phẩm nhằm mục đích duy nhất là bảo đảm an toàn hoặc để vận chuyển và dung môi ấy không làm cho sản phẩm có công dụng đặc biệt ngoài công dụng thông thường của nó; (d) Các sản phẩm được đề cập ở mục (a), (b) hoặc (c) trên đây có thêm một chất ổn định (kể cả chất chống đông cứng) cần thiết cho sự bảo quản hoặc vận chuyển; (e) Các sản phẩm được đề cập ở mục (a), (b), (c) hoặc (d) trên đây có thêm chất chống bụi hoặc chất màu để dễ nhận biết hoặc để đảm bảo an toàn miễn là sự pha thêm này không làm cho sản phẩm có công dụng đặc biệt ngoài công dụng thông thường của nó.",
+        "en": "1.- (continued) (b) The products mentioned in (a) above dissolved in water: (c) The products mentioned in (a) above dissolved in other solvents provided that the solution constitutes a normal and necessary method of putting up these products adopted solely for reasons of safety or for transport and that the solvent does not render the product particularly suitable for specific use rather than for general use; (d) The products mentioned in (a), (b) or (c) above with an added stabiliser (including an anti-caking agent) necessary for their preservation or transport: (e) The products mentioned in (a), (b), (c) or (d) above with an added anti-dusting agent or a colouring substance added to facilitate their identification or for safety reasons, provided that the additions do not render the product particularly suitable for specific use rather than for general use."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "2.- Ngoài các dithionit và sulphoxylat, đã được làm ổn định bằng các chất hữu cơ (nhóm 28.31), carbonat và peroxocarbonat của các bazơ vô cơ (nhóm 28.36), xyanua, oxit xyanua và xyanua phức của các bazơ vô cơ (nhóm 28.37), fulminat, xyanat và thioxyanat, của các bazơ vô cơ (nhóm 28.42), các sản phẩm hữu cơ thuộc các nhóm từ 28.43 đến 28.46 và 28.52 và carbua (nhóm 28.49), chỉ các hợp chất carbon sau đây là được xếp vào Chương này: (a) Oxit carbon, hydroxyanua và axit funminic, isoxyanic, thioxyanic và các axit xyanic đơn hoặc phức khác (nhóm 28.11); (b) Các oxit halogenua của carbon (nhóm 28.12); (c) Carbon disulphua (nhóm 28.13); (d) Thiocarbonat, selenocarbonat, tellurocarbonat, selenoxyanat, telluroxyanat, tetrathio-cyanatodiamminochromates (reineckates) và các xyanat phức khác, của các bazơ vô cơ (nhóm 28.42); (e) Hydro peoxit, được làm rắn bằng urê (nhóm 28.47), oxysulphua carbon, halogenua thiocarbonyl, xyanogen, halogenua xyanogen và xyanamit và các dẫn xuất kim loại của chúng (nhóm 28.53) trừ xyanamit canxi, dạng tinh khiết hoặc không tinh khiết (Chương 31).",
+        "en": "2.- In addition to dithionites and sulphoxylates, stabilised with organic substances (heading 28.31), carbonates and peroxocarbonates of inorganic bases (heading 28.36), cyanides, cyanide oxides and complex cyanides of inorganic bases (heading 28.37), fulminates, cyanates and thiocyanates, of inorganic bases (heading 28.42), organic products included in headings 28.43 to 28.46 and 28.52 and carbides (heading 28.49), only the following compounds of carbon are to be classified in this Chapter: (a) Oxides of carbon, hydrogen cyanide and fulminic, isocyanic, thiocyanic and other simple or complex cyanogen acids (heading 28.11); (b) Halide oxides of carbon (heading 28.12); (c) Carbon disulphide (heading 28.13); (d) Thiocarbonates, selenocarbonates, tellurocarbonates, selenocyanates, tellurocyanates, tetrathio-cyanatodiamminochromates (reineckates) and other complex cyanates, of inorganic bases (heading 28.42); (e) Hydrogen peroxide, solidified with urea (heading 28.47), carbon oxysulphide, thiocarbonyl halides, cyanogen, cyanogen halides and cyanamide and its metal derivatives (heading 28.53) other than calcium cyanamide, whether or not pure (Chapter 31)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "3.- Theo Chú giải 1 của Phần VI, Chương này không bao gồm: (a) Natri clorua hoặc magiê oxit, tinh khiết hoặc không tinh khiết, hoặc các sản phẩm khác của Phần V; (b) Các hợp chất hữu cơ - vô cơ trừ các hợp chất đã nêu tại Chú giải 2 trên đây; (c) Các sản phẩm nêu tại Chú giải 2, 3, 4 hoặc 5 của Chương 31; (d) Các sản phẩm vô cơ sử dụng như chất phát quang, thuộc nhóm 32.06; frit thủy tinh và thủy tinh khác ở dạng bột, hạt hoặc mảnh, thuộc nhóm 32.07;",
+        "en": "3.- Subject to the provisions of Note 1 to Section VI, this Chapter does not cover: (a) Sodium chloride or magnesium oxide, whether or not pure, or other products of Section V; (b) Organo-inorganic compounds other than those mentioned in Note 2 above; (c) Products mentioned in Note 2, 3, 4 or 5 to Chapter 31; (d) Inorganic products of a kind used as luminophores, of heading 32.06; glass frit and other glass in the form of powder, granules or flakes, of heading 32.07;"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "3.- (tiếp theo) (e) Graphit nhân tạo (nhóm 38.01); các sản phẩm dùng như chất dập lửa, để nạp cho bình cứu hỏa hoặc lựu đạn dập lửa, thuộc nhóm 38.13; chất tẩy mực đóng gói để bán lẻ, thuộc nhóm 38.24; tinh thể nuôi cấy (trừ các bộ phận quang học) halogenua kim loại kiềm hoặc kiềm thổ được tạo ra nặng không dưới 2,5g mỗi tinh thể, thuộc nhóm 38.24; (f) Đá quý hoặc đá bán quý (tự nhiên, tổng hợp hoặc tái tạo) hoặc bụi hoặc bột của các loại đá đó (nhóm 71.02 đến 71.05), hoặc kim loại quý hoặc hợp kim kim loại quý thuộc Chương 71; (g) Kim loại, nguyên chất hoặc không nguyên chất, các hợp kim hoặc gốm kim loại, kể cả carbua kim loại được thiêu kết (carbua kim loại được thiêu kết với một kim loại), thuộc Phần XV; hoặc (h) Các bộ phận quang học, ví dụ, loại làm bằng halogenua kim loại kiềm hoặc kiềm thổ (nhóm 90.01).",
+        "en": "3.- (continued) (e) Artificial graphite (heading 38.01); products put up as charges for fire-extinguishers or put up in fire-extinguishing grenades, of heading 38.13; ink removers put up in packings for retail sale, of heading 38.24; cultured crystals (other than optical elements) weighing not less than 2.5 g each, of the halides of the alkali or alkaline-earth metals, of heading 38.24; (f) Precious or semi-precious stones (natural, synthetic or reconstructed) or dust or powder of such stones (headings 71.02 to 71.05), or precious metals or precious metal alloys of Chapter 71; (g) The metals, whether or not pure, metal alloys or cermets, including sintered metal carbides (metal carbides sintered with a metal), of Section XV; or (h) Optical elements, for example, of the halides of the alkali or alkaline-earth metals (heading 90.01)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "4.- Các axit phức đã được xác định về mặt hoá học bao gồm một axit phi kim loại thuộc phân Chương II và một axit kim loại thuộc phân Chương IV phải được xếp vào nhóm 28.11.",
+        "en": "4.- Chemically defined complex acids consisting of a non-metal acid of sub-Chapter II and a metal acid of sub-Chapter IV are to be classified in heading 28.11."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "5.- Các nhóm 28.26 đến 28.42 chỉ áp dụng cho muối kim loại hoặc muối anioni hoặc muối peroxy. Loại trừ có yêu cầu khác, các muối kép hoặc phức được phân loại trong nhóm 28.42.",
+        "en": "5.- Headings 28.26 to 28.42 apply only to metal or ammonium salts or peroxysalts. Except where the context otherwise requires, double or complex salts are to be classified in heading 28.42."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "6.- Nhóm 28.44 chỉ áp dụng cho: (a) Tecneti (nguyên tố số 43), prometi (nguyên tố số 61), poloni (nguyên tố số 84) và tất cả các nguyên tố có số thứ tự trong bảng tuần hoàn lớn hơn 84; (b) Các chất đồng vị phóng xạ tự nhiên hoặc nhân tạo (kể cả các chất đồng vị phóng xạ của kim loại quý hoặc kim loại cơ bản thuộc Phần XIV và XV), đã hoặc chưa pha trộn với nhau; (c) Hợp chất, vô cơ hoặc hữu cơ, của các nguyên tố hoặc các chất đồng vị của chúng, đã hoặc chưa xác định về mặt hóa học, đã hoặc chưa trộn với nhau; (d) Hợp kim, các chất phân tán (kể cả gốm kim loại), các sản phẩm gốm và hỗn hợp chứa các nguyên tố hoặc chất đồng vị hoặc các hợp chất vô cơ hoặc hữu cơ từ các chất đó, có nồng độ phóng xạ riêng (đặc trưng) trên 74 Bq/g (0,002 µCi/g); (e) Ống (cartridges) nhiên liệu đã bức xạ của lò phản ứng hạt nhân; (f) Chất thải phóng xạ còn sử dụng được hoặc không. Theo mục đích của Chú giải này và cách diễn đạt của các nhóm 28.44 và 28.45, thuật ngữ “chất đồng vị”, đề cập tới: - các hạt nhân riêng lẻ, không kể những hạt nhân tồn tại trong thiên nhiên dưới dạng chất đồng vị đơn; - hỗn hợp các chất đồng vị của một nguyên tố và nguyên tố đó, đã được làm giàu bằng một hoặc vài chất đồng vị nói trên, nghĩa là các nguyên tố mà thành phần đồng vị tự nhiên đã được làm thay đổi một cách nhân tạo.",
+        "en": "6.- Heading 28.44 applies only to: (a) Technetium (atomic No. 43), promethium (atomic No. 61), polonium (atomic No. 84) and all elements with an atomic number greater than 84; (b) Natural or artificial radioactive isotopes (including those of the precious metals or of the base metals of Sections XIV and XV), whether or not mixed together; (c) Compounds, inorganic or organic, of these elements or isotopes, whether or not chemically defined, whether or not mixed together; (d) Alloys, dispersions (including cermets), ceramic products and mixtures containing these elements or isotopes or inorganic or organic compounds thereof and having a specific radioactivity exceeding 74 Bq/g (0.002 µCi/g); (e) Spent (irradiated) fuel elements (cartridges) of nuclear reactors; (f) Radioactive residues whether or not usable. The term “isotopes”, for the purposes of this Note and of the wording of headings 28.44 and 28.45, refers to: - individual nuclides, excluding, however, those existing in nature in the monoisotopic state; - mixtures of isotopes of one and the same element, enriched in one or several of the said isotopes, that is, elements of which the natural isotopic composition has been artificially modified."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "7.- Nhóm 28.53 bao gồm đồng phosphua (phosphor copper) có chứa trên 15% tính theo trọng lượng của phospho.",
+        "en": "7.- Heading 28.53 includes copper phosphide (phosphor copper) containing more than 15% by weight of phosphorus."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "8.- Các nguyên tố hoá học (ví dụ, silic và selen) đã được kích tạp dùng trong ngành điện tử phải xếp vào Chương này, nhưng chúng phải ở dạng chưa gia công như kéo, hoặc ở dạng hình trụ hoặc dạng que. Khi được cắt thành hình đĩa, miếng hoặc hình dáng tương tự, chúng phải được xếp vào nhóm 38.18.",
+        "en": "8.- Chemical elements (for example, silicon and selenium) doped for use in electronics are to be classified in this Chapter, provided that they are in forms unworked as drawn, or in the form of cylinders or rods. When cut in the form of discs, wafers or similar forms, they fall in heading 38.18."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Chú giải phân nhóm. 1. Theo mục đích của phân nhóm 2852.10, thuật ngữ “xác định về mặt hóa học” có nghĩa là tất cả các hợp chất vô cơ hoặc hữu cơ của thủy ngân đáp ứng yêu cầu của đoạn (a) tới (e) của Chú giải 1 Chương 28 hoặc đoạn (a) tới (h) của Chú giải 1 Chương 29.",
+        "en": "Subheading Note. 1.- For the purposes of subheading 2852.10, the expression “chemically defined” means all organic or inorganic compounds of mercury meeting the requirements of paragraphs (a) to (e) of Note 1 to Chapter 28 or paragraphs (a) to (h) of Note 1 to Chapter 29."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 4,
+      "content": {
+        "vi": "Trừ khi có những yêu cầu khác, Chương 28 được giới hạn cho các nguyên tố hóa học riêng biệt và các hợp chất đã được xác định về mặt hóa học riêng biệt. Một hợp chất đã được xác định về mặt hóa học riêng biệt gồm có một loại phân tử (ví dụ, cộng hóa trị hoặc ion) mà thành phần được xác định bởi một tỷ lệ không đổi của các nguyên tố và có thể được miêu tả bởi biểu đồ cấu trúc đã xác định. Các nguyên tố của một hợp chất đã được xác định về mặt hóa học riêng biệt kết hợp theo một tỷ lệ cụ thể được xác định bởi hóa trị và liên kết của nguyên tử. Sự chênh lệch nhỏ trong tỷ lệ cân bằng hóa học có thể xảy ra vì những khoảng trống hoặc chèn trong mạng tinh thể. Các hợp chất này được mô tả như cân bằng hóa học và được phép xác định như là các hợp chất đã được xác định về mặt hóa học riêng biệt với điều kiện là sự chênh lệch không được cố ý tạo ra.",
+        "en": "Unless the context otherwise requires, Chapter 28 is limited to separate chemical elements and separate chemically defined compounds. A separate chemically defined compound is a substance which consists of one molecular species (e.g., covalent or ionic) whose composition is defined by a constant ratio of elements and can be represented by a definitive structural diagram. The elements of a separate chemically defined compound combine in a specific characteristic proportion determined by the valency and the bonding requirements of the individual atoms. Small deviations in the stoichiometric ratios can occur because of gaps or insertions in the crystal lattice. These compounds are described as quasi-stoichiometric and are permitted as separate chemically defined compounds provided that the deviations have not been intentionally created."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(A) Các nguyên tố và hợp chất đã được xác định về mặt hóa học (Chú giải 1). Các nguyên tố hóa học riêng biệt và các hợp chất đã được xác định về mặt hóa học riêng biệt chứa các tạp chất, hoặc hòa tan trong nước, vẫn được phân loại ở Chương 28. Thuật ngữ \"không tinh khiết\" áp dụng riêng cho các chất mà sự có mặt của chúng ở dạng hợp chất hóa học đơn, duy nhất và trực tiếp thu được từ quá trình sản xuất (kể cả việc tinh chế). Các chất này có thể là kết quả từ bất kỳ yếu tố nào liên quan đến quá trình sản xuất và chủ yếu các dạng sau: (a) Nguyên liệu ban đầu không chuyển hóa; (b) Các hợp chất có trong nguyên liệu ban đầu; (c) Các thuốc thử được sử dụng trong quá trình sản xuất (kể cả việc tinh chế); (d) Các sản phẩm phụ. Tuy nhiên, những chất như vậy không phải trong tất cả các trường hợp đều được xem là \"tạp chất\" theo Chú giải 1 (a). Khi các chất này được cố ý để lại trong sản phẩm nhằm làm cho nó đặc biệt thích hợp cho công dụng riêng hơn là công dụng chung, thì chúng không được xem như là các tạp chất cho phép. Các nguyên tố và các hợp chất như thế bị loại trừ khỏi Chương 28 khi chúng hòa tan trong dung môi trừ nước, trừ khi sự hòa tan này là một phương pháp thông thường và cần thiết để đóng gói những sản phẩm nhằm mục đích duy nhất là đảm bảo an toàn hoặc vận chuyển. Các nguyên tố và các hợp chất đã được xác định về mặt hóa học riêng biệt được mô tả ở trên, mà có thêm các chất ổn định cần thiết cho việc bảo quản hoặc vận chuyển của chúng, vẫn được phân loại vào Chương này. Các sản phẩm được thêm vào một số hóa chất nhằm giữ những sản phẩm này ở trạng thái vật lý ban đầu của chúng cũng sẽ được coi như là các chất ổn định, với điều kiện lượng thêm vào không được vượt quá lượng cần thiết và không làm thay đổi tính chất của sản phẩm gốc. Các sản phẩm thuộc Chương này cũng có thể bao gồm: (a) Việc thêm vào các tác nhân chống bụi; (b) Các chất màu được thêm vào nhằm dễ dàng phát hiện hoặc được thêm vào vì lý do độ an toàn.",
+        "en": "(A) Chemically defined elements and compounds (Note 1). Separate chemical elements and separate chemically defined compounds containing impurities, or dissolved in water, remain classified in Chapter 28. The term “impurities” applies exclusively to substances whose presence in the single chemical compound results solely and directly from the manufacturing process. These may result from: (a) Unconverted starting materials; (b) Impurities present in the starting materials; (c) Reagents used in the manufacturing process; (d) By-products. However, when such substances are deliberately left in the product to render it particularly suitable for specific use rather than for general use, they are not regarded as permissible impurities. Such elements and compounds are excluded from Chapter 28 when dissolved in solvents other than water, unless the solution is a normal and necessary method for safety or transport. Separate chemically defined elements and compounds with an added stabiliser necessary for their preservation or transport remain classified in this Chapter. Products added to keep them in their original physical state are also regarded as stabilisers, provided the quantity does not exceed that necessary and does not alter the character of the product. The products of this Chapter may also contain: (a) Added anti-dusting agents; (b) Colouring substances added to facilitate identification or for safety reasons."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "(B) Sự khác biệt giữa các hợp chất của Chương 28 và các hợp chất của Chương 29 (Chú giải 2). Sau đây là danh mục đầy đủ các hợp chất có chứa cacbon được phân loại vào Chương 28: Nhóm 28.11 - Các Oxit cacbon, Hydro cyanua, và các axit xyanogen đơn và phức khác. Nhóm 28.12 - Cacbon Halogenua oxit. Nhóm 28.13 - Cacbon Disunfua. Nhóm 28.31 - Dithionit và sulphoxylat, được ổn định bằng các chất hữu cơ. Nhóm 28.36 - Các Cacbonat và peroxocacbonat, của các bazơ vô cơ. Nhóm 28.37 - Xyanua, Xyanua oxit và Xyanua phức của các bazơ vô cơ. Nhóm 28.42 - Thiocacbonat và các xyanat kép hoặc phức khác, của các bazơ vô cơ. Nhóm 28.43 đến 28.46 - Các hợp chất vô cơ và hữu cơ của kim loại quý, nguyên tố phóng xạ, đồng vị, kim loại đất hiếm, ytri hoặc scandi. Nhóm 28.47 - Hydro peroxit, đã làm rắn bằng ure. Nhóm 28.49 - Các carbua (trừ hydro carbua). Nhóm 28.52 - Các hợp chất vô cơ và hữu cơ của thủy ngân, trừ hỗn hống. Nhóm 28.53 - Carbon oxysulphua, thiocarbonyl halogenua, Xyanogen và các hợp chất halogen của xyanogen, Xyanamit và dẫn xuất kim loại của nó (trừ canxi xyanamit của Chương 31). Tất cả các hợp chất cacbon khác bị loại khỏi Chương 28.",
+        "en": "(B) Distinction between the compounds of Chapter 28 and those of Chapter 29 (Note 2). The following is an exhaustive list of compounds containing carbon to be classified in Chapter 28: Heading 28.11 - Oxides of carbon, Hydrogen cyanide, and other simple or complex cyanogen acids. Heading 28.12 - Halide oxides of carbon. Heading 28.13 - Carbon disulphide. Heading 28.31 - Dithionites and sulphoxylates, stabilised with organic substances. Heading 28.36 - Carbonates and peroxocarbonates, of inorganic bases. Heading 28.37 - Cyanides, cyanide oxides and complex cyanides of inorganic bases. Heading 28.42 - Thiocarbonates and other double or complex cyanates, of inorganic bases. Headings 28.43 to 28.46 - Inorganic and organic compounds of precious metals, radioactive elements, isotopes, rare-earth metals, yttrium or scandium. Heading 28.47 - Hydrogen peroxide, solidified with urea. Heading 28.49 - Carbides (other than hydrogen carbides). Heading 28.52 - Inorganic and organic compounds of mercury, excluding amalgams. Heading 28.53 - Carbon oxysulphide, thiocarbonyl halides, Cyanogen and its halogen compounds, Cyanamide and its metal derivatives (other than calcium cyanamide of Chapter 31). All other carbon compounds are excluded from Chapter 28."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(C) Những sản phẩm vẫn được phân loại vào Chương 28, ngay cả khi chúng không phải là các nguyên tố hóa học riêng biệt hoặc không là các hợp chất đã được xác định về mặt hóa học riêng biệt. Có một số ngoại lệ đối với quy tắc Chương này được giới hạn cho các nguyên tố và hợp chất hóa học riêng biệt đã được xác định. Các ngoại lệ bao gồm các sản phẩm như: Lưu huỳnh dạng keo (28.02), Muội than (28.03), Oleum (28.07), Axit sulphonitric (28.08), Axit Polyphosphoric (28.09), Corundum nhân tạo (28.18), Đất màu chứa >= 70% sắt (28.21), Coban oxit thương phẩm (28.22), Polysulphua (28.30), Polyphotphat (28.35), Amonicarbonat thương phẩm (28.36), Silicat kim loại kiềm thương phẩm (28.39), các hợp chất và hỗn hợp phóng xạ (28.44), các đồng vị khác và hợp chất của chúng (28.45), Carbua (28.49), và các sản phẩm khác được liệt kê trong các nhóm từ 28.43 đến 28.53.",
+        "en": "(C) Products which remain classified in Chapter 28, even when they are not separate chemical elements nor separate chemically defined compounds. There are certain exceptions to the rule that this Chapter is limited to separate chemical elements and separate chemically defined compounds. These exceptions include products such as: Colloidal sulphur (28.02), Carbon blacks (28.03), Oleum (28.07), Sulphonitric acids (28.08), Polyphosphoric acids (28.09), Artificial corundum (28.18), Earth colours with >= 70% iron (28.21), Commercial cobalt oxides (28.22), Polysulphides (28.30), Polyphosphates (28.35), Commercial ammonium carbonate (28.36), Commercial alkali metal silicates (28.39), radioactive compounds and mixtures (28.44), other isotopes and their compounds (28.45), Carbides (28.49), and other products listed in headings 28.43 to 28.53."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "(D) Loại trừ khỏi Chương 28 một số nguyên tố hóa học riêng biệt và một số hợp chất vô cơ đã được xác định về mặt hóa học riêng biệt (Chú giải 3 và 8). Một số nguyên tố và hợp chất vô cơ riêng biệt luôn bị loại trừ, ngay cả khi tinh khiết, ví dụ: Một số sản phẩm của Chương 25 (natri clorua, magie oxit); một số muối vô cơ của Chương 31 (natri nitrat, amoni nitrat, kali clorua); Graphit nhân tạo (38.01); Đá quý hoặc bán quý (Chương 71); Kim loại quý và kim loại cơ bản (Phần XIV hoặc XV). Các hợp chất khác có thể bị loại trừ khi được đóng gói ở dạng nhất định hoặc đã qua xử lý, ví dụ: các sản phẩm dùng cho phòng hoặc chữa bệnh (30.04), chất phát quang (32.06), nước hoa hoặc mỹ phẩm bán lẻ (33.03-33.07), keo dán bán lẻ (35.06), sản phẩm nhiếp ảnh (37.07), thuốc trừ sâu (38.08), chất nạp bình cứu hỏa (38.13), nguyên tố kích tạp dạng đĩa (38.18), bộ phận quang học (90.01).",
+        "en": "(D) Exclusion from Chapter 28 of certain separate chemical elements and of certain separate chemically defined inorganic compounds (Notes 3 and 8). Certain separate chemical elements and inorganic compounds are always excluded, even when pure, for example: Certain products of Chapter 25 (sodium chloride, magnesium oxide); certain inorganic salts of Chapter 31 (sodium nitrate, ammonium nitrate, potassium chloride); Artificial graphite (38.01); Precious or semi-precious stones (Chapter 71); Precious metals and base metals (Section XIV or XV). Other compounds may be excluded when put up in certain forms or after certain treatments, e.g.: products for therapeutic or prophylactic uses (30.04), luminophores (32.06), perfumery or cosmetic preparations for retail sale (33.03-33.07), glues for retail sale (35.06), photographic products (37.07), insecticides (38.08), fire-extinguisher charges (38.13), doped elements in disc form (38.18), optical elements (90.01)."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "(E) Các sản phẩm có khả năng được phân loại ở hai hay nhiều nhóm của Chương 28. Chú giải 1 Phần VI đề cập đến các sản phẩm có khả năng phân loại trong nhóm 28.44 hoặc 28.45 và một nhóm khác của Chương 28, hoặc trong nhóm 28.43, 28.46 hoặc 28.52 và một nhóm khác của Chương 28. Các axit phức đã xác định về hóa học gồm một axit phi kim và một axit kim loại được phân loại trong nhóm 28.11 (Chú giải 4). Trừ khi có yêu cầu khác, các muối vô cơ dạng phức hoặc kép được phân loại trong nhóm 28.42 (Chú giải 5).",
+        "en": "(E) Products potentially classifiable in two or more headings of Chapter 28. Note 1 to Section VI deals with products potentially classifiable in heading 28.44 or 28.45 and another heading of Chapter 28, or in heading 28.43, 28.46 or 28.52 and another heading of Chapter 28. Chemically defined complex acids consisting of a non-metal acid and a metal acid are classified in heading 28.11 (Note 4). Except where the context otherwise requires, double or complex inorganic salts are to be classified in heading 28.42 (Note 5)."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "28.01",
+      "heading_title": {
+        "vi": "Flo, clo, brom và iot.",
+        "en": "Fluorine, chlorine, bromine and iodine."
+      }
+    },
+    {
+      "heading_id": "28.02",
+      "heading_title": {
+        "vi": "Lưu huỳnh, thăng hoa hoặc kết tủa; lưu huỳnh dạng keo.",
+        "en": "Sulphur, sublimed or precipitated; colloidal sulphur."
+      }
+    },
+    {
+      "heading_id": "28.03",
+      "heading_title": {
+        "vi": "Carbon (muội carbon và các dạng khác của carbon chưa được chi tiết hoặc ghi ở nơi khác).",
+        "en": "Carbon (carbon blacks and other forms of carbon not elsewhere specified or included)."
+      }
+    },
+    {
+      "heading_id": "28.04",
+      "heading_title": {
+        "vi": "Hydro, khí hiếm và các phi kim loại khác.",
+        "en": "Hydrogen, rare gases and other non-metals."
+      }
+    },
+    {
+      "heading_id": "28.05",
+      "heading_title": {
+        "vi": "Kim loại kiềm hoặc kim loại kiềm thổ; kim loại đất hiếm, scandi và ytri, đã hoặc chưa pha trộn hoặc tạo hợp kim với nhau; thủy ngân.",
+        "en": "Alkali or alkaline-earth metals; rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed; mercury."
+      }
+    },
+    {
+      "heading_id": "28.06",
+      "heading_title": {
+        "vi": "Hydro clorua (axit hydrocloric); axit clorosulphuric.",
+        "en": "Hydrogen chloride (hydrochloric acid); chlorosulphuric acid."
+      }
+    },
+    {
+      "heading_id": "28.07",
+      "heading_title": {
+        "vi": "Axit sulphuric; axit sulphuric bốc khói (oleum).",
+        "en": "Sulphuric acid; oleum."
+      }
+    },
+    {
+      "heading_id": "28.08",
+      "heading_title": {
+        "vi": "Axit nitric; axit sulphonitric.",
+        "en": "Nitric acid; sulphonitric acids."
+      }
+    },
+    {
+      "heading_id": "28.09",
+      "heading_title": {
+        "vi": "Diphospho pentaoxit; axit phosphoric; axit polyphosphoric, đã hoặc chưa xác định về mặt hóa học.",
+        "en": "Diphosphorus pentaoxide; phosphoric acid; polyphosphoric acids, whether or not chemically defined."
+      }
+    },
+    {
+      "heading_id": "28.10",
+      "heading_title": {
+        "vi": "Oxit bo; axit boric.",
+        "en": "Oxides of boron; boric acids."
+      }
+    },
+    {
+      "heading_id": "28.11",
+      "heading_title": {
+        "vi": "Axit vô cơ khác và các hợp chất vô cơ chứa oxy khác của các phi kim loại.",
+        "en": "Other inorganic acids and other inorganic oxygen compounds of non-metals."
+      }
+    },
+    {
+      "heading_id": "28.12",
+      "heading_title": {
+        "vi": "Halogenua và oxit halogenua của phi kim loại.",
+        "en": "Halides and halide oxides of non-metals."
+      }
+    },
+    {
+      "heading_id": "28.13",
+      "heading_title": {
+        "vi": "Sulphua của phi kim loại; phospho trisulphua thương phẩm.",
+        "en": "Sulphides of non-metals; commercial phosphorus trisulphide."
+      }
+    },
+    {
+      "heading_id": "28.14",
+      "heading_title": {
+        "vi": "Amoniac, dạng khan hoặc dạng dung dịch nước.",
+        "en": "Ammonia, anhydrous or in aqueous solution."
+      }
+    },
+    {
+      "heading_id": "28.15",
+      "heading_title": {
+        "vi": "Natri hydroxit (xút ăn da); kali hydroxit (potash ăn da); natri peroxit hoặc kali peroxit.",
+        "en": "Sodium hydroxide (caustic soda); potassium hydroxide (caustic potash); peroxides of sodium or potassium."
+      }
+    },
+    {
+      "heading_id": "28.16",
+      "heading_title": {
+        "vi": "Magie hydroxit và magie peroxit; oxit, hydroxit và peroxit, của stronti hoặc bari.",
+        "en": "Hydroxide and peroxide of magnesium; oxides, hydroxides and peroxides, of strontium or barium."
+      }
+    },
+    {
+      "heading_id": "28.17",
+      "heading_title": {
+        "vi": "Kẽm oxit; kẽm peroxit.",
+        "en": "Zinc oxide; zinc peroxide."
+      }
+    },
+    {
+      "heading_id": "28.18",
+      "heading_title": {
+        "vi": "Corundum nhân tạo, đã hoặc chưa xác định về mặt hóa học; oxit nhôm; hydroxit nhôm.",
+        "en": "Artificial corundum, whether or not chemically defined; aluminium oxide; aluminium hydroxide."
+      }
+    },
+    {
+      "heading_id": "28.19",
+      "heading_title": {
+        "vi": "Crom oxit và hydroxit.",
+        "en": "Chromium oxides and hydroxides."
+      }
+    },
+    {
+      "heading_id": "28.20",
+      "heading_title": {
+        "vi": "Mangan oxit.",
+        "en": "Manganese oxides."
+      }
+    },
+    {
+      "heading_id": "28.21",
+      "heading_title": {
+        "vi": "Oxit sắt và hydroxit sắt; chất màu từ đất có hàm lượng sắt hóa hợp Fe2O3 chiếm 70% trở lên tính theo trọng lượng.",
+        "en": "Iron oxides and hydroxides; earth colours containing 70 % or more by weight of combined iron evaluated as Fe2O3."
+      }
+    },
+    {
+      "heading_id": "28.22",
+      "heading_title": {
+        "vi": "Coban oxit và hydroxit; coban oxit thương phẩm.",
+        "en": "Cobalt oxides and hydroxides; commercial cobalt oxides."
+      }
+    },
+    {
+      "heading_id": "28.23",
+      "heading_title": {
+        "vi": "Titan oxit.",
+        "en": "Titanium oxides."
+      }
+    },
+    {
+      "heading_id": "28.24",
+      "heading_title": {
+        "vi": "Chì oxit; chì đỏ và chì da cam.",
+        "en": "Lead oxides; red lead and orange lead."
+      }
+    },
+    {
+      "heading_id": "28.25",
+      "heading_title": {
+        "vi": "Hydrazin và hydroxilamin và các muối vô cơ của chúng; các loại bazơ vô cơ khác; các oxit, hydroxit và peroxit kim loại khác.",
+        "en": "Hydrazine and hydroxylamine and their inorganic salts; other inorganic bases; other metal oxides, hydroxides and peroxides."
+      }
+    },
+    {
+      "heading_id": "28.26",
+      "heading_title": {
+        "vi": "Florua; florosilicat, floroaluminat và các loại muối flo phức khác.",
+        "en": "Fluorides; fluorosilicates, fluoroaluminates and other complex fluorine salts."
+      }
+    },
+    {
+      "heading_id": "28.27",
+      "heading_title": {
+        "vi": "Clorua, clorua oxit và clorua hydroxit; bromua và oxit bromua; iođua và iođua oxit.",
+        "en": "Chlorides, chloride oxides and chloride hydroxides; bromides and bromide oxides; iodides and iodide oxides."
+      }
+    },
+    {
+      "heading_id": "28.28",
+      "heading_title": {
+        "vi": "Hypoclorit; canxi hypoclorit thương phẩm; clorit; hypobromit.",
+        "en": "Hypochlorites; commercial calcium hypochlorite; chlorites; hypobromites."
+      }
+    },
+    {
+      "heading_id": "28.29",
+      "heading_title": {
+        "vi": "Clorat và perclorat; bromat và perbromat; iodat và periodat.",
+        "en": "Chlorates and perchlorates; bromates and perbromates; iodates and periodates."
+      }
+    },
+    {
+      "heading_id": "28.30",
+      "heading_title": {
+        "vi": "Sulphua; polysulphua, đã hoặc chưa xác định về mặt hóa học.",
+        "en": "Sulphides; polysulphides, whether or not chemically defined."
+      }
+    },
+    {
+      "heading_id": "28.31",
+      "heading_title": {
+        "vi": "Dithionit và sulphoxylat.",
+        "en": "Dithionites and sulphoxylates."
+      }
+    },
+    {
+      "heading_id": "28.32",
+      "heading_title": {
+        "vi": "Sulphit; thiosulphat.",
+        "en": "Sulphites; thiosulphates."
+      }
+    },
+    {
+      "heading_id": "28.33",
+      "heading_title": {
+        "vi": "Sulphat; phèn (alums); peroxosulphat (persulphat).",
+        "en": "Sulphates; alums; peroxosulphates (persulphafes)."
+      }
+    },
+    {
+      "heading_id": "28.34",
+      "heading_title": {
+        "vi": "Nitrit; nitrat.",
+        "en": "Nitrites; nitrates."
+      }
+    },
+    {
+      "heading_id": "28.35",
+      "heading_title": {
+        "vi": "Phosphinat (hypophosphit), phosphonat (phosphit) và phosphat; polyphosphat, đã hoặc chưa xác định về mặt hóa học.",
+        "en": "Phosphinates (hypophosphites), phosphonates (phosphites) and phosphates; polyphosphates, whether or not chemically defined."
+      }
+    },
+    {
+      "heading_id": "28.36",
+      "heading_title": {
+        "vi": "Carbonat; peroxocarbonat (percarbonat); amoni carbonat thương phẩm có chứa amoni carbamat.",
+        "en": "Carbonates; peroxocarhonates (percarbonates); commercial ammonium carbonate containing ammonium carbamate."
+      }
+    },
+    {
+      "heading_id": "28.37",
+      "heading_title": {
+        "vi": "Xyanua, xyanua oxit và xyanua phức.",
+        "en": "Cyanides, cyanide oxides and complex cyanides."
+      }
+    },
+    {
+      "heading_id": "28.39",
+      "heading_title": {
+        "vi": "Silicat; silicat kim loại kiềm thương phẩm.",
+        "en": "Silicates; commercial alkali metal silicates."
+      }
+    },
+    {
+      "heading_id": "28.40",
+      "heading_title": {
+        "vi": "Borat; peroxoborat (perborat).",
+        "en": "Borates; peroxoborates (perborates)."
+      }
+    },
+    {
+      "heading_id": "28.41",
+      "heading_title": {
+        "vi": "Muối của axit oxometalic hoặc axit peroxometalic.",
+        "en": "Salts of oxometallic or peroxometallic acids."
+      }
+    },
+    {
+      "heading_id": "28.42",
+      "heading_title": {
+        "vi": "Muối khác của axit vô cơ hay peroxoaxit (kể cả nhôm silicat đã hoặc chưa xác định về mặt hoá học), trừ các chất azit.",
+        "en": "Other salts of inorganic acids or peroxoacids (including aluminosilicates whether or not chemically defined), other than azides."
+      }
+    },
+    {
+      "heading_id": "28.43",
+      "heading_title": {
+        "vi": "Kim loại quý dạng keo; hợp chất hữu cơ hay vô cơ của kim loại quý, đã hoặc chưa xác định về mặt hóa học; hỗn hống của kim loại quý.",
+        "en": "Colloidal precious metals; inorganic or organic compounds of precious metals, whether or not chemically defined; amalgams of precious metals."
+      }
+    },
+    {
+      "heading_id": "28.44",
+      "heading_title": {
+        "vi": "Các nguyên tố hóa học phóng xạ và các đồng vị phóng xạ (kể cả các nguyên tố hóa học và các đồng vị có khả năng phân hạch hoặc làm giàu) và các hợp chất của chúng; hỗn hợp và các phế liệu có chứa các sản phẩm trên.",
+        "en": "Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their compounds; mixtures and residues containing these products."
+      }
+    },
+    {
+      "heading_id": "28.45",
+      "heading_title": {
+        "vi": "Chất đồng vị trừ các đồng vị thuộc nhóm 28.44; các hợp chất, vô cơ hoặc hữu cơ, của các đồng vị này, đã hoặc chưa xác định về mặt hóa học.",
+        "en": "Isotopes other than those of heading 28.44; compounds, inorganic or organic, of such isotopes, whether or not chemically defined."
+      }
+    },
+    {
+      "heading_id": "28.46",
+      "heading_title": {
+        "vi": "Các hợp chất, vô cơ hoặc hữu cơ, của kim loại đất hiếm, của ytri hoặc của scandi hoặc của hỗn hợp các kim loại này.",
+        "en": "Compounds, inorganic or organic, of rare-earth metals, of yttrium or of scandium or of mixtures of these metals."
+      }
+    },
+    {
+      "heading_id": "28.47",
+      "heading_title": {
+        "vi": "Hydro petroxit, đã hoặc chưa làm rắn bằng urê.",
+        "en": "Hydrogen peroxide, whether or not solidified with urea."
+      }
+    },
+    {
+      "heading_id": "28.49",
+      "heading_title": {
+        "vi": "Các bua, đã hoặc chưa xác định về mặt hóa học.",
+        "en": "Carbides, whether or not chemically defined."
+      }
+    },
+    {
+      "heading_id": "28.50",
+      "heading_title": {
+        "vi": "Hydrua, nitrua, axit, silicua và borua, đã hoặc chưa xác định về mặt hóa học, trừ các hợp chất carbua của nhóm 28.49.",
+        "en": "Hydrides, nitrides, azides, silicides and borides, whether or not chemically defined, other than compounds which are also carbides of heading 28.49."
+      }
+    },
+    {
+      "heading_id": "28.52",
+      "heading_title": {
+        "vi": "Các hợp chất vô cơ hoặc hữu cơ của thủy ngân, đã hoặc chưa xác định về mặt hóa học, trừ hỗn hống.",
+        "en": "Inorganic or organic compounds of mercury, whether or not chemically defined, excluding amalgams."
+      }
+    },
+    {
+      "heading_id": "28.53",
+      "heading_title": {
+        "vi": "Phosphua, đã hoặc chưa xác định về mặt hóa học, trừ phosphua sắt; các hợp chất vô cơ khác (bao gồm nước cất hoặc nước khử độ dẫn và các loại nước tinh khiết tương tự); khí hóa lỏng (đã hoặc chưa loại bỏ khí hiếm); khí nén; hỗn hống, trừ hỗn hống của kim loại quý.",
+        "en": "Phosphides, whether or not chemically defined, excluding ferrophosphorus; other inorganic compounds (including distilled or conductivity water and water of similar purity); liquid air (whether or not rare gases have been removed); compressed air; amalgams, other than amalgams of precious metals."
+      }
+    }
+  ]
+}

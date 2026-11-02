@@ -1,0 +1,60 @@
+{
+  "heading_id": "05.02",
+  "heading_title": {
+    "vi": "Lông và lông cứng của lợn hoặc lợn lòi; lông dùng làm chổi và bàn chải khác; phế liệu từ các loại lông trên.",
+    "en": "Pigs', hogs' or boars' bristles and hair; badger hair and other brush making hair; waste of such bristles or hair."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm lông và lông cứng của lợn hoặc lợn lòi, và các loại lông khác dùng làm bàn chải như lông chồn hôi (skunk), lông sóc hoặc lông chồn mactet, cùng với phế liệu của chúng. Các sản phẩm này có thể ở dạng thô hoặc đã được làm sạch, tẩy, nhuộm, khử trùng và có thể ở dạng rời hoặc buộc thành bó. \nTuy nhiên, nhóm này không bao gồm lông hoặc lông cứng đã ở dạng túm hoặc búi đã được xử lý để làm chổi hoặc bàn chải (nhóm 96.03, theo Chú giải 3 của Chương 96).",
+    "en": "This heading covers pigs', hogs' or boars' bristles and hair, and other brush making hair such as that of the skunk, squirrel, or marten, and waste thereof. These goods may be raw or cleaned, bleached, dyed, or sterilised, and may be in bulk or in bundles.\nHowever, the heading excludes bristles or hairs in the form of prepared knots or tufts ready for incorporation in brooms or brushes (heading 96.03, as per Note 3 to Chapter 96)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những sản phẩm này có thể ở dạng rời hoặc buộc thành bó lỏng hoặc chặt trong đó lông hoặc lông cứng được sắp xếp song song và phần đuôi dài ngắn khác nhau. Chúng có thể ở dạng thô hoặc đã được làm sạch, tẩy, nhuộm hoặc khử trùng.",
+        "en": "These goods may be in bulk, in loose bundles, or in tied bunches in which the bristles or hairs are laid parallel and the root ends more or less levelled. They may be raw or they may have been cleaned, bleached, dyed or sterilised."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những loại lông khác dùng làm bàn chải gồm lông chồn hôi (skunk), lông sóc hoặc lông chồn mactet.",
+        "en": "Other brush making hair includes that of the skunk, squirrel and marten."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này không bao gồm lông hoặc lông cứng thuộc nhóm 96.03 khi chúng ở dạng túm hoặc búi đã được xử lý (tức là làm thành túm, búi đã được làm sẵn để làm chổi hoặc bàn chải hoặc chỉ cần một số hoạt động gia công nhỏ là có thể sẵn sàng dùng được) (xem Chú giải 3 của Chương 96).",
+        "en": "The heading excludes, however, bristles or hairs when in the form of prepared knots or tufts (i.e., made up into unmounted bundles ready for incorporation without division in brooms or brushes or requiring only certain minor processes to be ready for such incorporation); these fall in heading 96.03 (see Note 3 to Chapter 96)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0502.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lông và lông cứng của lợn hoặc lợn lòi và phế liệu của chúng",
+        "en": "Pigs’, hogs’ or boars’ bristles and hair and waste thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0502.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

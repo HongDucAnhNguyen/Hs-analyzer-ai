@@ -1,0 +1,208 @@
+{
+  "heading_id": "84.21",
+  "heading_title": {
+    "vi": "Máy ly tâm, kể cả máy làm khô bằng ly tâm; máy và thiết bị lọc hoặc tinh chế chất lỏng hoặc chất khí.",
+    "en": "Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases."
+  },
+  "summary": {
+    "vi": "Nhóm 84.21 bao gồm hai loại máy chính: máy ly tâm và máy lọc hoặc tinh chế. Máy ly tâm, kể cả máy làm khô, sử dụng lực ly tâm để tách các chất theo trọng lượng riêng hoặc loại bỏ độ ẩm, được ứng dụng trong nhiều ngành như thực phẩm, hóa chất và y tế. Máy và thiết bị lọc hoặc tinh chế được dùng để tách các hạt rắn hoặc lỏng ra khỏi chất lỏng hoặc khí, áp dụng cho cả quy mô công nghiệp và gia dụng. Nhóm này bao gồm nhiều loại thiết bị lọc khác nhau, hoạt động theo nguyên lý cơ học, vật lý, hóa học, tĩnh điện, hoặc từ tính, ví dụ như bộ lọc dầu động cơ, máy làm mềm nước, và bộ chuyển đổi xúc tác cho khí thải. Tuy nhiên, nhóm này loại trừ một số máy móc cụ thể hoạt động theo nguyên lý ly tâm như máy tách đồng vị uranium (nhóm 84.01), bơm ly tâm (nhóm 84.13, 84.14), và máy đúc ly tâm (nhóm 84.54, 84.74). Các thiết bị lọc đặc biệt như máy điều hòa không khí (nhóm 84.15), máy ép rượu (nhóm 84.35) và máy chạy thận nhân tạo (nhóm 90.18) cũng không thuộc nhóm này. Các bộ phận của máy móc thuộc nhóm này cũng được phân loại tại đây, trừ các khối lọc bằng bột giấy (nhóm 48.12) hoặc các bộ phận lọc bằng gốm, vải dệt.",
+    "en": "Heading 84.21 covers two main categories of machinery: centrifuges and filtering or purifying apparatus. Centrifuges, including centrifugal dryers, use centrifugal force to separate substances by specific gravity or to remove moisture, with applications in industries like food processing, chemicals, and medicine. Filtering and purifying machinery is used to separate solid or liquid particles from liquids or gases, for both industrial and domestic purposes. This heading includes a wide variety of filters operating on mechanical, physical, chemical, electrostatic, or magnetic principles, such as oil filters for engines, water softeners, and catalytic converters for exhaust gases. However, the heading excludes specific machinery operating on the centrifugal principle, such as gas centrifuges for uranium isotopes (heading 84.01), centrifugal pumps (headings 84.13, 84.14), and centrifugal casting machines (headings 84.54, 84.74). Specialized filtering equipment like air conditioning machines (heading 84.15), wine presses (heading 84.35), and artificial kidney apparatus (heading 90.18) are also excluded. Parts for the machinery of this heading are also classified here, except for filter blocks of paper pulp (heading 48.12) or filtering elements made of ceramics or textiles."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm hai loại máy chính: (I) Máy sử dụng lực ly tâm để tách các chất theo trọng lượng riêng hoặc loại bỏ độ ẩm. (II) Máy và thiết bị lọc hoặc tinh lọc chất lỏng hoặc chất khí. Nhóm này không bao gồm phễu lọc, rây lọc sữa, rây lọc sơn (thường thuộc Chương 73).",
+        "en": "This heading covers two main categories: (I) Machines using centrifugal force to separate substances by their specific gravities or to remove moisture. (II) Filtering or purifying machinery and apparatus for liquids or gases. This heading excludes items such as filter funnels, milk strainers, and paint strainers (generally Chapter 73)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phần (I) đề cập đến máy ly tâm và máy làm khô bằng ly tâm. Các máy này bao gồm: máy làm khô trong xưởng giặt, nhuộm; máy tinh cất đường; máy tách kem và máy lọc sữa; máy lọc dầu, rượu vang, rượu mạnh; máy khử nước và khử parafin trong sản phẩm dầu mỏ; máy khử nước trong rượu, mỡ động vật, bột hồ; máy nitơ hoá sản xuất bông thuốc nổ; máy tách ly tâm trong nuôi trồng men; máy ly tâm công nghiệp hóa học (ví dụ: máy chiết xuất kháng sinh); máy ly tâm phòng thí nghiệm; máy ly tâm tách huyết tương từ máu; máy ly tâm sấy khô chất kết tủa phóng xạ; máy ly tâm tách mật ong. Các bộ phận của máy ly tâm như đĩa, trống, lồng quay, bát cũng thuộc nhóm này.",
+        "en": "Part (I) covers centrifuges and centrifugal dryers. These machines include: centrifugal driers for laundries and dyeworks; sugar refining centrifuges; cream separators and centrifugal clarifiers for milk; centrifuges for clarifying oils, wines, spirits; centrifuges for dehydrating or de-waxing petroleum products; centrifuges for dehydrating wines, tallow, starches; nitrating centrifuges for gun-cotton manufacture; separators for yeast cultures; chemical industry centrifuges (e.g., extractors for antibiotics); laboratory centrifuges; centrifuges for separating plasma from blood; centrifuges for drying radioactive precipitates; centrifuges for extracting honey. Parts of centrifuges such as plates, drums, baskets, and bowls are also classified here."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này không bao gồm các loại máy ly tâm đặc biệt sau: máy ly tâm khí để tách đồng vị uranium (nhóm 84.01), bơm ly tâm cho chất lỏng (nhóm 84.13), bơm khí và máy thổi ly tâm (nhóm 84.14), máy sàng bột ly tâm (nhóm 84.37), máy đúc kim loại hoặc xi măng ly tâm (nhóm 84.54 hoặc 84.74), máy nghiền ly tâm (nhóm 84.74), và máy sấy khô ly tâm cho tấm bán dẫn (nhóm 84.86). Phần (II) bao gồm máy và thiết bị lọc hoặc tinh chế chất lỏng và khí, kể cả thiết bị tĩnh không có bộ phận chuyển động, hoạt động theo nguyên lý vật lý, cơ khí, hóa học, hoặc điện từ. Nhóm này không bao gồm các loại phễu lọc hay thùng chứa thông thường có gắn lưới lọc.",
+        "en": "This heading excludes the following special centrifuges: gas centrifuges for separating uranium isotopes (heading 84.01), centrifugal pumps for liquids (heading 84.13), centrifugal air pumps and blowers (heading 84.14), centrifugal bolting machines (heading 84.37), centrifugal casting machines for metal or cement (heading 84.54 or 84.74), centrifugal grinding machines (heading 84.74), and centrifugal spin dryers for semiconductor wafer manufacturing (heading 84.86). Part (II) covers filtering or purifying machinery for liquids and gases, including static equipment with no moving parts, operating on physical, mechanical, chemical, or electro-magnetic principles. It excludes filter funnels or general purpose vessels equipped with straining material."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Phần (A) đề cập thiết bị lọc và tinh chế chất lỏng. Các loại này bao gồm: (1) Thiết bị lọc nước dùng trong gia đình (loại trừ các thiết bị làm chủ yếu bằng gốm thuộc Chương 69 hoặc thủy tinh thuộc Chương 70). (2) Nến lọc dùng cho sản xuất sợi nhân tạo. (3) Thiết bị lọc dầu dùng cho động cơ đốt trong hoặc máy công cụ. (4) Thiết bị lọc nước của nồi hơi. (5) Thiết bị ép lọc. (6) Thiết bị lọc quay chân không. (7) Thiết bị lọc chân không gián đoạn. (8) Thiết bị tinh lọc nước dưới tác động hóa học (ví dụ máy làm mềm bằng pecmutít hoặc zeolít). (9) Thiết bị tinh chế nước bằng điện từ.",
+        "en": "Part (A) covers filtering and purifying machinery for liquids. These types include: (1) Domestic type water filters (excluding filters made mainly of ceramics of Chapter 69 or glass of Chapter 70). (2) Filter candles for man-made textile manufacture. (3) Oil filters for internal combustion engines or machine-tools. (4) Filters for boiler water. (5) Filter presses. (6) Rotary drum vacuum filters. (7) Intermittent vacuum filters. (8) Chemical water purifiers (e.g., permutite or zeolite softeners). (9) Electro-magnetic water purifiers."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm thiết bị thấm tách (dialysers). Phần (B) đề cập thiết bị lọc hoặc tinh chế chất khí, dùng để tách hạt rắn/lỏng khỏi khí. Chúng bao gồm: (1) Thiết bị lọc cơ học hoặc vật lý, ví dụ: (i) Thiết bị lọc khí nạp cho động cơ đốt trong, (ii) Túi lọc, (iii) Màng lọc, (iv) Thiết bị lọc trống quay, (v) Thiết bị khử bụi, lọc khói, (vi) Các thiết bị lọc xoáy (cyclones).",
+        "en": "This heading also covers dialysers. Part (B) covers filtering or purifying machinery for gases, used to separate solid/liquid particles from gases. They include: (1) Filters acting by mechanical or physical means, for example: (i) Intake air filters for internal combustion engines, (ii) Bag filters, (iii) Screen filters, (iv) Rotary drum filters, (v) Dust extractors, smoke filters, (vi) Cyclones."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Các thiết bị lọc khí khác bao gồm: (2) Thiết bị lọc tĩnh điện. (3) Tháp lọc hoặc hấp thu khí. (4) Thiết bị lọc và tinh chế hóa học, kể cả bộ chuyển đổi xúc tác. Nhóm này cũng bao gồm máy móc cho ngành công nghiệp hạt nhân như thiết bị lọc không khí khử bụi phóng xạ, thiết bị tinh lọc than hoạt tính để giữ i ốt phóng xạ, và thiết bị trao đổi ion để tách các nguyên tố phóng xạ. Các bộ phận như lá lọc, khung, tấm lọc, trống quay được bao gồm, nhưng khối lọc bằng bột giấy (nhóm 48.12) và các bộ phận lọc bằng gốm, vải dệt bị loại trừ. Các loại trừ khác của nhóm này là: thiết bị khuếch tán khí tách đồng vị uranium (nhóm 84.01), máy điều hòa không khí (nhóm 84.15), máy hút ẩm (nhóm 84.79), và thiết bị ép rượu (nhóm 84.35).",
+        "en": "Other gas filtering apparatus includes: (2) Electrostatic filters. (3) Gas scrubbers or absorption towers. (4) Chemical filters and purifiers, including catalytic converters. The heading also includes machinery for the nuclear industry such as air filters for radioactive dust, active-charcoal purifiers for radioactive iodine, and ion-exchange apparatus for separating radioactive elements. Parts such as leaves, frames, plates for filter presses, and rotary drums are included, but filter blocks of paper pulp (heading 48.12) and filtering elements of ceramics or textiles are excluded. Other exclusions from the heading are: gas diffusion apparatus for separating uranium isotopes (heading 84.01), air conditioning machines (heading 84.15), air de-humidifiers (heading 84.79), and wine-presses (heading 84.35)."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm máy chạy thận nhân tạo (nhóm 90.18).",
+        "en": "The heading also excludes artificial kidney (dialysis) apparatus (heading 90.18)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy ly tâm, kể cả máy làm khô bằng ly tâm:",
+        "en": "- Centrifuges, including centrifugal dryers:"
+      },
+      "subheading_id": "8421.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Máy tách kem",
+        "en": "- - Cream separators"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy ly tâm, kể cả máy làm khô bằng ly tâm:",
+        "en": "- Centrifuges, including centrifugal dryers:"
+      },
+      "subheading_id": "8421.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Máy làm khô quần áo",
+        "en": "- - Clothes-dryers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy ly tâm, kể cả máy làm khô bằng ly tâm:",
+        "en": "- Centrifuges, including centrifugal dryers:"
+      },
+      "subheading_id": "8421.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy và thiết bị lọc hoặc tinh chế chất lỏng:",
+        "en": "- Filtering or purifying machinery and apparatus for liquids:"
+      },
+      "subheading_id": "8421.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Để lọc hoặc tinh chế nước",
+        "en": "- - For filtering or purifying water"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy và thiết bị lọc hoặc tinh chế chất lỏng:",
+        "en": "- Filtering or purifying machinery and apparatus for liquids:"
+      },
+      "subheading_id": "8421.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Để lọc hoặc tinh chế đồ uống trừ nước",
+        "en": "- - For filtering or purifying beverages other than water"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy và thiết bị lọc hoặc tinh chế chất lỏng:",
+        "en": "- Filtering or purifying machinery and apparatus for liquids:"
+      },
+      "subheading_id": "8421.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bộ lọc dầu hoặc xăng cho động cơ đốt trong",
+        "en": "- - Oil or petrol-filters for internal combustion engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy và thiết bị lọc hoặc tinh chế chất lỏng:",
+        "en": "- Filtering or purifying machinery and apparatus for liquids:"
+      },
+      "subheading_id": "8421.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy và thiết bị lọc hoặc tinh chế các loại khí:",
+        "en": "- Filtering or purifying machinery and apparatus for gases:"
+      },
+      "subheading_id": "8421.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bộ lọc khí nạp cho động cơ đốt trong",
+        "en": "- - Intake air filters for internal combustion engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy và thiết bị lọc hoặc tinh chế các loại khí:",
+        "en": "- Filtering or purifying machinery and apparatus for gases:"
+      },
+      "subheading_id": "8421.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bộ chuyển đổi xúc tác hoặc bộ lọc hạt, có hoặc không kết hợp, để tinh chế hoặc lọc khí thải từ động cơ đốt trong",
+        "en": "- -Catalytic converters or particulate filters, whether or not combined, for purifying or filtering exhaust gases from internal combustion engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy và thiết bị lọc hoặc tinh chế các loại khí:",
+        "en": "- Filtering or purifying machinery and apparatus for gases:"
+      },
+      "subheading_id": "8421.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ phận:",
+        "en": "- Parts :"
+      },
+      "subheading_id": "8421.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Của máy ly tâm, kể cả máy làm khô bằng ly tâm",
+        "en": "- - Of centrifuges, including centrifugal dryers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ phận:",
+        "en": "- Parts :"
+      },
+      "subheading_id": "8421.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "heading_id": "87.04",
+  "heading_title": {
+    "vi": "Xe có động cơ dùng để chở hàng (+).",
+    "en": "Motor vehicles for the transport of goods (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 87.04 bao gồm các loại xe có động cơ được thiết kế chủ yếu để chở hàng, áp dụng cho cả loại có bánh hơi và bánh xích. Nhóm này bao gồm xe tải và xe van thông thường, xe tự đổ, xe xitec, xe đông lạnh và các loại xe chuyên chở hàng hóa đặc biệt khác. Nhóm cũng bao gồm các loại xe điện hybrid (HEV, PHEV) và xe điện hoàn toàn (EV) nếu chúng có động cơ điện dùng để tạo động lực. Một điểm phân loại quan trọng là sự phân biệt với xe chở người thuộc nhóm 87.03, dựa trên các đặc điểm thiết kế như sự có mặt của ghế phụ không có thiết bị an toàn, khoang hàng tách biệt, hoặc thiếu các tiện nghi cho hành khách trong khu vực chở hàng. Nhóm này loại trừ các loại xe được thiết kế đặc biệt cho công viên giải trí (nhóm 95.08), xe nâng hạ container (nhóm 84.26), xe vừa bốc dỡ vừa chở trong hầm mỏ (nhóm 84.29), và một số loại xe máy chở hàng (nhóm 87.11). Khung gầm xe ô tô đã lắp động cơ và cabin cũng thuộc nhóm này.",
+    "en": "Heading 87.04 covers motor vehicles principally designed for the transport of goods, applying to both wheeled and track-laying types. This heading includes ordinary lorries and vans, dumpers, tankers, refrigerated vehicles, and other specialized goods transport vehicles. It also encompasses hybrid electric vehicles (HEVs, PHEVs) and full electric vehicles (EVs) if they have an electric motor for propulsion. A key classification aspect is the distinction from passenger vehicles of heading 87.03, based on design features such as the presence of bench seats without safety equipment, a separate cargo area, or the absence of passenger amenities in the goods area. The heading excludes vehicles specially designed for amusement parks (heading 95.08), straddle carriers (heading 84.26), loader-transporters for mines (heading 84.29), and certain goods-carrying motorcycles (heading 87.11). Motor vehicle chassis fitted with an engine and cab are also included in this heading."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các phương tiện có bánh hơi hoặc bánh xích, có sự kết hợp giữa động cơ đốt trong và một hoặc nhiều động cơ điện (xe điện hybrid - HEV). Các phương tiện này lấy năng lượng từ nhiên liệu và thiết bị lưu trữ điện (ắc quy, tụ điện). Các loại HEV được phân biệt theo cấu hình hệ truyền động và mức độ hybrid hóa (full hybrid, mild hybrid, plug-in hybrid). Xe điện plug-in hybrid (PHEV) có thể sạc lại ắc quy từ lưới điện. Các phương tiện chỉ chạy bằng động cơ điện và ắc quy được gọi là xe điện (EV). Tuy nhiên, các phương tiện có nguồn điện chỉ dùng cho các chức năng không tạo động lực (ví dụ hệ thống stop-start) thì không được phân loại là HEV. Các phương tiện được thiết kế đặc biệt cho công viên giải trí (ví dụ xe đụng) bị loại trừ (nhóm 95.08).",
+        "en": "This heading covers wheeled or track-laying vehicles, including those combining an internal combustion engine and one or more electric motors (Hybrid Electric Vehicles - HEVs). These vehicles draw energy from both consumable fuel and an electrical energy storage device (e.g., accumulator, capacitor). HEVs are differentiated by their powertrain configuration and degree of hybridization (full, mild, plug-in). Plug-in Hybrid Electric Vehicles (PHEVs) can be recharged from an electrical grid. Vehicles propelled only by electric motors and accumulators are known as Electric Vehicles (EVs). However, vehicles with an electric power source used only for non-propulsion functions (e.g., stop-start systems) are not classified as HEVs. Vehicles specially designed for amusement parks (e.g., dodge'em cars) are excluded (heading 95.08)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại xe như: Xe tải và xe van thông thường; xe giao hàng; xe tải tự đổ; xe xitéc; xe tải đông lạnh hoặc cách nhiệt; xe tải nhiều sàn; xe tải hạng nặng có khung hạ thấp; xe tải chở bê tông tươi (trừ xe trộn bê tông thuộc nhóm 87.05); và xe thu gom rác. Nhóm cũng bao gồm xe ba bánh hạng nhẹ có đặc tính của xe ô tô thông thường (hệ thống lái kiểu ô tô, có số lùi và bộ vi sai) hoặc loại có khung hình chữ T với hai bánh sau được dẫn động độc lập bằng động cơ điện. Xe ba bánh được thiết kế để chở người được phân loại vào nhóm 87.03.",
+        "en": "This heading covers vehicles such as: Ordinary lorries (trucks) and vans; delivery trucks; tipping lorries; tankers; refrigerated or insulated lorries; multi-floored lorries; dropframe heavy-duty lorries; lorries for fresh concrete (excluding concrete-mixers of heading 87.05); and refuse collectors. The heading also covers lightweight three-wheeled vehicles that possess characteristics of conventional motor cars (motor car type steering, reverse gear and differential) or those on a T-shaped chassis with two rear wheels independently driven by electric motors. Three-wheeled vehicles designed for the transport of persons are classified in heading 87.03."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Việc phân loại xe chở hàng được xác định bởi các đặc tính thiết kế. Các xe đa dụng (van, bán tải, SUV) có các đặc điểm sau đây sẽ thuộc nhóm này: (a) Có ghế dài không có thiết bị an toàn ở khu vực phía sau; (b) Có cabin riêng và sàn chở hàng mở (xe bán tải); (c) Không có cửa sổ ở hai bên thành xe phía sau (xe van); (d) Có vách ngăn cố định giữa khu vực lái xe và khu vực phía sau; (e) Thiếu các tiện nghi và trang trí nội thất trong khu vực chở hàng. Nhóm này cũng bao gồm: (1) Xe tự đổ, được chế tạo chắc chắn, có thùng lật hoặc mở đáy, thường có bánh xe địa hình. (2) Xe chạy đường ngắn, dùng trong hầm mỏ để vận chuyển than hoặc quặng, là loại xe hạng nặng, gầm thấp, tự dỡ hàng bằng băng tải.",
+        "en": "The classification of goods vehicles is determined by design characteristics. Multipurpose vehicles (vans, pick-ups, SUVs) fall in this heading if they have features such as: (a) Presence of bench-type seats without safety equipment in the rear area; (b) Presence of a separate cabin and a separate open platform (pick-up vehicles); (c) Absence of rear windows along the two side panels (van-type vehicles); (d) Presence of a permanent panel or barrier between the driver's area and the rear area; (e) Absence of comfort features and interior finish in the cargo area. This heading also covers: (1) Dumpers, sturdily built vehicles with a tipping or bottom-opening body, generally fitted with off-road wheels. (2) Shuttle cars, used in mines to transport coal or ore, which are heavy, underslung vehicles that unload automatically via a conveyor belt floor."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm: (3) Xe ô tô tự bốc hàng được trang bị tời, thiết bị nâng nhưng được thiết kế chủ yếu để vận chuyển. (4) Xe tải chạy cả trên đường bộ và đường sắt. Khung gầm xe ô tô đã lắp động cơ và cabin cũng được xếp vào đây.\nNhóm này loại trừ: (a) Xe nâng hạ container (nhóm 84.26). (b) Xe vừa bốc dỡ vừa chở hàng trong hầm mỏ (nhóm 84.29). (c) Các xe mô tô hoặc xe đạp máy được trang bị để chở hàng mà không có đặc tính của xe ba bánh thuộc nhóm này (nhóm 87.11).",
+        "en": "The heading also covers: (3) Self-loading vehicles equipped with winches and elevating devices but designed essentially for transport. (4) Road-rail lorries (trucks). Motor vehicle chassis fitted with an engine and cab are also classified here.\nThe heading excludes: (a) Straddle carriers (heading 84.26). (b) Loader-transporters used in mines (heading 84.29). (c) Motorcycles or motorized cycles equipped for the transport of goods which do not have the characteristics of the three-wheeled vehicles of this heading (heading 87.11)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8704.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xe tự đổ được thiết kế để sử dụng trên các loại đường không phải đường quốc lộ.",
+        "en": "Dumpers designed for off-highway use"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, có động cơ đốt trong kiểu piston đốt cháy bằng sức nén (diesel hoặc bán diesel)",
+        "en": "- Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel):"
+      },
+      "subheading_id": "8704.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Khối lượng toàn bộ theo thiết kế không quá 5 tấn.",
+        "en": "g.v.w. not exceeding 5 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, có động cơ đốt trong kiểu piston đốt cháy bằng sức nén (diesel hoặc bán diesel)",
+        "en": "- Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel):"
+      },
+      "subheading_id": "8704.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - - Khối lượng toàn bộ theo thiết kế trên 5 tấn nhưng không quá 20 tấn",
+        "en": "-- g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, có động cơ đốt trong kiểu piston đốt cháy bằng sức nén (diesel hoặc bán diesel)",
+        "en": "- Other, with only compression-ignition internal combustion piston engine (diesel or semi-diesel):"
+      },
+      "subheading_id": "8704.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Khối lượng toàn bộ theo thiết kế trên 20 tấn.",
+        "en": "-- g.v.w. exceeding 20 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, có động cơ đốt trong kiểu piston đốt cháy bằng tia lửa điện:",
+        "en": "- Other, with only spark-ignition internal combustion piston engine:"
+      },
+      "subheading_id": "8704.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Khối lượng toàn bộ theo thiết kế không quá 5 tấn.",
+        "en": "g.v.w. not exceeding 5 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, có động cơ đốt trong kiểu piston đốt cháy bằng tia lửa điện:",
+        "en": "- Other, with only spark-ignition internal combustion piston engine:"
+      },
+      "subheading_id": "8704.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Khối lượng toàn bộ theo thiết kế trên 5 tấn.",
+        "en": "-- g.v.w. exceeding 5 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kết hợp động cơ đốt trong kiểu piston cháy do nén (diesel hoặc bán diesel) và động cơ điện để tạo động lực:",
+        "en": "- Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:"
+      },
+      "subheading_id": "8704.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Khối lượng toàn bộ theo thiết kế không quá 5 tấn",
+        "en": "-- g.v.w. not exceeding 5 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kết hợp động cơ đốt trong kiểu piston cháy do nén (diesel hoặc bán diesel) và động cơ điện để tạo động lực:",
+        "en": "- Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:"
+      },
+      "subheading_id": "8704.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Khối lượng toàn bộ theo thiết kế trên 5 tấn nhưng không quá 20 tân",
+        "en": "-- g.v.w. exceeding 5 tonnes but not exceeding 20 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kết hợp động cơ đốt trong kiểu piston cháy do nén (diesel hoặc bán diesel) và động cơ điện để tạo động lực:",
+        "en": "- Other, with both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion:"
+      },
+      "subheading_id": "8704.43",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Khối lượng toàn bộ theo thiết kế trên 20 tấn",
+        "en": "g.v.w. exceeding 20 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kết hợp động cơ đốt trong kiểu piston đốt cháy bằng tia lửa điện và động cơ điện để tạo động lực:",
+        "en": "- Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion :"
+      },
+      "subheading_id": "8704.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Khối lượng toàn bộ theo thiết kế không quá 5 tấn",
+        "en": "g.v.w. not exceeding 5 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kết hợp động cơ đốt trong kiểu piston đốt cháy bằng tia lửa điện và động cơ điện để tạo động lực:",
+        "en": "- Other, with both spark-ignition internal combustion piston engine and electric motor as motors for propulsion :"
+      },
+      "subheading_id": "8704.52",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Khối lượng toàn bộ theo thiết kế trên 5 tấn",
+        "en": "-- g.v.w. exceeding 5 tonnes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8704.60",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Loại khác, chỉ sử dụng động cơ điện để tạo động lực",
+        "en": "- Other, with only electric motor for propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8704.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "heading_id": "76.14",
+  "heading_title": {
+    "vi": "Dây bện tao, cáp, băng tết và các loại tương tự, bằng nhôm, chưa cách điện",
+    "en": "Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated."
+  },
+  "summary": {
+    "vi": "Nhóm 76.14 bao gồm dây bện tao, cáp, và băng tết bằng nhôm chưa cách điện. Các sản phẩm này thường được dùng thay thế đồng trong xây dựng đường dây điện do nhôm và hợp kim của nó (như Almelec, Aldrey) nhẹ và dẫn điện tốt. Cáp nhôm có thể có lõi thép hoặc kim loại khác, miễn là nhôm chiếm tỷ trọng lớn hơn theo Chú giải 7 Phần XV. Việc phân loại chi tiết tuân theo Chú giải của nhóm 73.12. Quan trọng là nhóm này loại trừ hoàn toàn các loại dây và cáp điện đã được bọc cách điện, chúng thuộc nhóm 85.44.",
+    "en": "Heading 76.14 covers stranded wire, cables, and plaited bands of aluminium that are not electrically insulated. These products are often used as a substitute for copper in the construction of electric lines due to the lightness and good conductivity of aluminium and its alloys (like Almelec, Aldrey). Aluminium cables can have a core of steel or other metals, provided that aluminium predominates by weight according to Note 7 to Section XV. Detailed classification follows the Explanatory Note to heading 73.12. Importantly, this heading explicitly excludes all insulated electric wire and cable, which are classified under heading 85.44."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải Chi tiết liên quan tới nhóm 73.12 áp dụng cho nhóm này với những sưa đổi phù hợp.",
+        "en": "The Explanatory Note relating to heading 73.12 applies, mutatis mutandis, to this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Vì là vật liệu dẫn điện nhẹ và tốt, nhôm và Các hợp kim nhôm - mangiê - silic như \"hợp kim Almelec\" và “hợp kim aldrey\" thường được sử dụng thay cho đồng trong việc xây dựng các đường dây và cáp điện. Cáp nhôm có lõi bằng thép hoặc các kim loại khác với điều kiện là nhôm phải lớn hơn về tỷ trọng (xem chú giải 7 phần XV). Tuy nhiên, nhóm này không bao gồm dây và cáp đã bọc cách điện (nhóm 85.44).",
+        "en": "Since they are light and good conductors of electricity, aluminium and the aluminium-magnesium-silicon alloys such as “ almelec ” and “ aldrey ” are often used in place of copper in the construction of electric wires and cables. Aluminium cables may have a core of steel or other metal provided the aluminium predominates by weight (see Note 7 to Section XV). However, the heading excludes insulated electric wire and cable (heading 85.44)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7614.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có lõi thép",
+        "en": "With steel core"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7614.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

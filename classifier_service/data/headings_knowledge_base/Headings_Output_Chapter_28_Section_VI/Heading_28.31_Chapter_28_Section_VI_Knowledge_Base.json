@@ -1,0 +1,53 @@
+{
+  "heading_id": "28.31",
+  "heading_title": {
+    "vi": "Dithionit và sulphoxylat.",
+    "en": "Dithionites and sulphoxylates."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm dithionit (hydrosulphit), là muối của axit dithionous (H2S2O4), được dùng làm tác nhân khử, chủ yếu để tẩy trắng. Các dithionit này có thể được ổn định bằng các chất như formaldehyt hoặc axeton. Ví dụ điển hình là natri dithionit (Na2S2O4), cũng như dithionit của kali, canxi, magie và kẽm. Nhóm này cũng bao gồm các fomaldehyt sulphoxylat. Nhóm này loại trừ sulphit và thiosulphat của nhóm 28.32.",
+    "en": "This heading covers dithionites (hydrosulphites), which are salts of dithionous acid (H2S2O4), used as reducing agents, mainly for bleaching. These dithionites may be stabilised by substances such as formaldehyde or acetone. Typical examples include sodium dithionite (Na2S2O4), as well as dithionites of potassium, calcium, magnesium, and zinc. The heading also includes formaldehyde sulphoxylates. This heading excludes sulphites and thiosulphates of heading 28.32."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Dithionit (hydrosulphit) là dạng muối của axit dithionous (“hydrosulphurous”) (H2S2O4) là chất không được phân lập ở trạng thái tự do. Chúng thu được bằng cách khử (với bột kẽm) dung dịch hydro sulphit bão hòa với lưu huỳnh dioxit (SO2). Chúng là tác nhân khử được ứng dụng trong công nghiệp hóa, dệt hoặc công nghiệp đường, chủ yếu được dùng để tẩy trắng.\nChất quan trọng nhất là natri dithionit (Na2S2O4), dạng bột màu trắng khan, hòa tan trong nước, hoặc ngậm nước (với 2H2O) ở dạng tinh thể không màu. Nó được sử dụng trong tổng hợp hữu cơ, trong công nghiệp nhuộm và sản xuất giấy. Nó bị phân huỷ khá nhanh, thậm chí khi ở cả dạng kết tinh. Đối với một số cách sử dụng (ví dụ, tẩy màu trong công nghiệp dệt), natri dithionit vì vậy phải được ổn định với formaldehyt, đôi khi thêm ZnO hoặc glyxerin. Nó cũng có thể được ổn định với axeton.\nDithionit của kali, canxi, magie và kẽm, chúng cũng được ổn định bằng quy trình tương tự, là các sản phẩm tương tự natri dithionit về cả tính chất và ứng dụng.\nNhóm này bao gồm tất cả các dithionit đã ổn định.",
+        "en": "Dithionites (hydrosulphites) are the salts of dithionous (\" hydrosulphurous \") acid (H2S2O4) which has not been isolated in the free state. They are obtained by reducing (with zinc powder) solutions of hydrogen sulphites saturated with sulphur dioxide. They are reducing agents employed in the chemical, textile or sugar industries, mainly for bleaching.\nThe most important is sodium dithionite (Na2S2O4), anhydrous white powder, soluble in water, or hydrated (with 2 H2O) in colourless crystals. It is used in organic synthesis, in the dyeing industry and for paper-making. It deteriorates rather rapidly, even when crystallised. For certain uses (e.g., as a discharge in the textile industry ), sodium dithionite must therefore be stabilised with formaldehyde, sometimes with the addition of zinc oxide or glycerol. It may also be stabilised with acetone.\nDithionites of potassium, calcium, magnesium and zinc, which may be stabilised by similar processes, are products similar to sodium dithionite, with similar properties and uses.\nThe heading includes all these stabilised dithionites"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "và các fomaldehyt sulphoxylat như một sản phẩm tương tự.\nSulphit và thiosulphat được loại trừ (nhóm 28.32).",
+        "en": "and also formaldehyde sulphoxylate which is a similar product.\nSulphites and thiosulphates are excluded (heading 28.32)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2831.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Của natri",
+        "en": "- Of sodium"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2831.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

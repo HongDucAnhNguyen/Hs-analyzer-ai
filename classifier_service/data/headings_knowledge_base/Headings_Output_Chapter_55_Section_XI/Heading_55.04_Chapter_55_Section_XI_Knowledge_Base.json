@@ -1,0 +1,46 @@
+{
+  "heading_id": "55.04",
+  "heading_title": {
+    "vi": "Xơ staple tái tạo, chưa chải thô, chưa chải kỹ hoặc chưa gia công cách khác để kéo sợi.",
+    "en": "Artificial staple fibres, not carded, combed or otherwise processed for spinning."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm xơ staple tái tạo, chưa chải thô, chưa chải kỹ hoặc chưa gia công cách khác để kéo sợi. Chú giải chi tiết của nhóm 55.03 được áp dụng tương tự với các mặt hàng của nhóm này.",
+    "en": "This heading covers artificial staple fibres, not carded, combed or otherwise processed for spinning. The Explanatory Note to heading 55.03 applies, mutatis mutandis, to the products of this heading."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải chi tiết của nhóm 55.03 được áp dụng, một cách tương tự, với các mặt hàng của nhóm này.",
+        "en": "The Explanatory Note to heading 55.03 applies, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5504.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ viscose rayon",
+        "en": "Of viscose rayon"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5504.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

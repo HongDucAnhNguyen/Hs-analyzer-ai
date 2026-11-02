@@ -1,0 +1,35 @@
+{
+  "heading_id": "87.06",
+  "heading_title": {
+    "vi": "Khung gầm đã lắp động cơ, dùng cho xe có động cơ thuộc các nhóm từ 87.01 đến 87.05.",
+    "en": "Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87.05."
+  },
+  "summary": {
+    "vi": "Nhóm 87.06 bao gồm khung gầm hoặc tổ hợp thân xe với khung gầm của các xe cơ giới thuộc nhóm 87.01 đến 87.05, với điều kiện chúng đã được lắp động cơ, hệ thống truyền động, cơ cấu lái và cầu xe. Đây thực chất là các xe cơ giới chưa có thân xe. Các khung gầm này có thể đi kèm nắp máy, kính chắn gió hoặc bảng khí cụ nhưng không được là một phương tiện hoàn chỉnh. Nhóm này loại trừ các khung gầm đã lắp cabin (nhóm 87.02 đến 87.04) và các khung gầm chưa lắp động cơ (nhóm 87.08).",
+    "en": "Heading 87.06 covers chassis-frames or the combined chassis-body framework for the motor vehicles of headings 87.01 to 87.05, fitted with their engines, transmission, steering gear, and axles. These are essentially motor vehicles without bodies. The chassis may be fitted with bonnets, windscreens, or dashboards but must not be a complete or substantially complete vehicle. This heading excludes chassis fitted with a cab (headings 87.02 to 87.04) and chassis not fitted with an engine (heading 87.08)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm khung gầm hoặc tổ hợp thân xe với khung gầm (kết cấu khung xe hoặc khung với thân xe liền khối), của các xe cơ giới thuộc các nhóm từ 87.01 đến 87.05, đã lắp động cơ, hệ thống truyền động, cơ cấu lái và các cầu xe (có hoặc chưa có bánh xe).",
+        "en": "This heading covers the chassis-frames or the combined chassis-body framework (unibody or monocoque construction), for the motor vehicles of headings 87.01 to 87.05, fitted with their engines and with their transmission and steering gear and axles (with or without wheels)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này gồm những xe cơ giới chưa có thân xe. Các khung gầm này có thể được lắp nắp đậy máy, kính chắn gió, chắn bùn trên bánh xe, các bậc lên xuống và bảng khí cụ. Khung gầm vẫn thuộc nhóm này, cho dù chúng có hay không có lốp, chế hoà khí hoặc ắc quy hoặc những thiết bị điện khác. Tuy nhiên, nếu là một máy kéo hoàn chỉnh hoặc gần như hoàn chỉnh hoặc các phương tiện tương tự khác thì không thuộc nhóm này.",
+        "en": "Goods of this heading are motor vehicles without bodies. The chassis classified in this heading may be fitted with bonnets (hoods), windscreens (windshields), mudguards, running-boards and dashboards. Chassis also remain classified here whether or not fitted with tyres, carburettors or batteries or other electrical equipment. However, if the article is a complete or substantially complete tractor or other vehicle it is not covered by this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng loại trừ: (a) Các khung gầm có lắp động cơ và cabin, dù cabin hoàn chỉnh hoặc chưa hoàn chỉnh (nhóm 87.02 đến 87.04). (b) Các khung gầm chưa lắp động cơ, đã hoặc chưa lắp các bộ phận máy khác (nhóm 87.08).",
+        "en": "The heading also excludes : (a) Chassis fitted with engines and cabs, whether or not the cab is complete (e.g., without seat) (headings 87.02 to 87.04). (b) Chassis not fitted with engines, whether or not equipped with various mechanical parts (heading 87.08)."
+      }
+    }
+  ],
+  "subheadings": []
+}

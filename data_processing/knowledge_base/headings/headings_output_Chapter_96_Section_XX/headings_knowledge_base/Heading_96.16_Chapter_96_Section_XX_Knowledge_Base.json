@@ -1,0 +1,53 @@
+{
+  "heading_id": "96.16",
+  "heading_title": {
+    "vi": "Bình, lọ xịt nước hoa hoặc bình, lọ xịt để trang điểm tương tự, và các bộ phận gá lắp và đầu xịt của chúng; miếng và tấm để xoa và chấm mỹ phẩm hoặc các sản phẩm trang điểm.",
+    "en": "Scent sprays and similar toilet sprays, and mounts and heads therefor; powder-puffs and pads for the application of cosmetics or toilet preparations."
+  },
+  "summary": {
+    "vi": "Nhóm 96.16 bao gồm hai loại sản phẩm chính. Thứ nhất là các bình xịt nước hoa và bình xịt trang điểm tương tự (để bàn hoặc bỏ túi), cùng với các bộ phận gá lắp và đầu xịt của chúng; chúng bao gồm bình chứa (thủy tinh, nhựa, kim loại) và cơ chế phun. Thứ hai là các miếng và tấm dùng để thoa mỹ phẩm như phấn mặt, phấn hồng, được làm từ nhiều vật liệu như lông vịt, da, vải lông, mút cao su, có hoặc không có tay cầm. Nhóm này không bao gồm bình chứa để riêng (phân loại theo vật liệu), quả bơm tay cao su (nhóm 40.14), dụng cụ phun sương của nhóm 84.24, và máy phun hơi của nhóm 84.76.",
+    "en": "Heading 96.16 covers two main categories of products. The first includes scent sprays and similar toilet sprays (table or pocket type), along with their mounts and heads; they consist of a reservoir (glass, plastics, metal) and a spray mechanism. The second category includes powder-puffs and pads for applying cosmetics like face powder or rouge, made from materials such as swan's down, skin, pile fabrics, or foam rubber, with or without handles. The heading excludes separate reservoirs (classified by material), rubber bulbs (heading 40.14), dispersing or spraying appliances of heading 84.24, and scent spraying machines of heading 84.76."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Bình xịt nước hoa, gôm chải tóc và các loại bình xịt tương tự, loại để bàn hoặc bỏ túi, dùng cho cá nhân hoặc chuyên ngành. Chúng bao gồm một bình chứa (bằng thuỷ tinh, plastic, kim loại hoặc chất liệu khác), trên đó có gắn vòi, đầu xịt và một quả bóp áp lực hơi hoặc một thiết bị pít-tông.\n(2) Vòi bình xịt vệ sinh.",
+        "en": "This heading covers:\n(1) Scent, brilliantine and similar toilet sprays, whether of the table or pocket type, and whether for personal or professional use. They consist of a reservoir (of glass, plastics, metal or other material), to which is fixed the mount; this mount incorporates the head (with its spray-forming mechanism) and a pneumatic pressure bulb or a piston device.\n(2) Mounts for toilet sprays."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(3) Đầu của vòi bình xịt vệ sinh.\n(4) Miếng và tấm dùng cho các loại mỹ phẩm hoặc chế phẩm vệ sinh (phấn thoa mặt, phấn hồng, bột tan...). Chúng có thể được làm bằng mọi chất liệu (lông vịt hoặc lông ngỗng, da, lông súc vật, nhung hoặc vải lông, mút cao su...) và vẫn thuộc nhóm này dù có tay cầm hoặc trang trí bằng ngà, vỏ sò, xương, vật liệu plastic, kim loại thường, kim loại quý, hoặc kim loại mạ kim loại quý.\nNhóm này không áp dụng cho:\n(a) Vật chứa (lọ, bình, chai) dùng cho bình xịt, khi để riêng (phân loại theo vật liệu cấu thành).\n(b) Quả bơm tay bằng cao su (nhóm 40.14).\n(c) Dụng cụ tạo bụi nước hoặc phun sương của nhóm 84.24.\n(d) Máy phun hơi của nhóm 84.76.",
+        "en": "(3) Head-pieces for toilet sprays.\n(4) Powder-puffs and pads for applying any kind of cosmetic or toilet preparation (face-powder, rouge, talcum-powder, etc.). They may be made of any material (swan's or eider-down, skin, animal hair, pile fabrics, foam rubber, etc.), and they remain in this heading whether or not they have handles or trimmings of ivory, tortoise-shell, bone, plastics, base metal, precious metal or metal clad with precious metal.\nThe heading does not apply to:\n(a) Reservoirs (bottles, flasks, etc.) for scent sprays, presented separately (classified according to constituent material).\n(b) Rubber bulbs (heading 40.14).\n(c) Dispersing or spraying appliances of heading 84.24.\n(d) Scent spraying machines of heading 84.76."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9616.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bình, lọ xịt nước hoa hoặc bình, lọ xịt để trang điểm tương tự, và các bộ phận gá lắp và đầu xịt của chúng",
+        "en": "- Scent sprays and similar toilet sprays, and mounts and heads therefor"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9616.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Miếng và tấm để xoa và chấm mỹ phẩm hoặc các sản phẩm trang điểm",
+        "en": "- Powder-puffs and pads for the application of cosmetics or toilet preparations"
+      }
+    }
+  ]
+}

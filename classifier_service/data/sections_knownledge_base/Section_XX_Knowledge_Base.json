@@ -1,0 +1,36 @@
+{
+  "section_id": "XX",
+  "section_title": {
+    "vi": "CÁC MẶT HÀNG KHÁC",
+    "en": "MISCELLANEOUS MANUFACTURED ARTICLES"
+  },
+  "summary": {
+    "vi": "Phần XX bao gồm một loạt các mặt hàng sản xuất khác nhau, được chia thành ba chương:\n- Chương 94: Bao gồm đồ nội thất và các bộ phận của chúng (ví dụ: ghế, bàn, tủ); bộ đồ giường, đệm, và các đồ dùng nhồi tương tự; đèn (luminaires), bộ đèn và các bộ phận của chúng; biển hiệu được chiếu sáng, biển đề tên được chiếu sáng và các loại tương tự; và nhà lắp ghép. Chương này loại trừ các mặt hàng như đệm hơi (Chương 39, 40, 63), gương đứng (nhóm 70.09), các mặt hàng thuộc Chương 71, các bộ phận có công dụng chung bằng kim loại cơ bản (Phần XV) hoặc bằng plastic (Chương 39), đồ nội thất được thiết kế đặc biệt như bộ phận của các thiết bị thuộc các Chương 84, 85, 90, đồ nội thất đồ chơi (nhóm 95.03), và bàn bi-a (nhóm 95.04).\n- Chương 95: Bao gồm đồ chơi, thiết bị trò chơi và dụng cụ thể thao, cùng các bộ phận và phụ kiện của chúng. Các mặt hàng chính bao gồm đồ chơi có bánh (xe ba bánh, xe đẩy), búp bê, các mẫu thu nhỏ, đồ chơi đố trí (nhóm 95.03); máy trò chơi video, trò chơi trên bàn, bi-a, bàn chuyên dụng cho sòng bạc, thiết bị chơi bowling (nhóm 95.04); đồ dùng trong lễ hội và hóa trang (nhóm 95.05); dụng cụ và thiết bị cho tập luyện thể chất, thể dục, điền kinh, và các môn thể thao khác như ván trượt, gậy gôn, vợt, bóng (nhóm 95.06); dụng cụ câu cá (nhóm 95.07); và các trò chơi tại khu giải trí, rạp xiếc lưu động (nhóm 95.08). Chương này có danh sách loại trừ rộng, bao gồm quần áo (Chương 61, 62), giày dép (Chương 64), vũ khí (Chương 93), và các thiết bị điện tử có mục đích sử dụng khác (Phần XVI).\n- Chương 96: Bao gồm các mặt hàng sản xuất linh tinh chưa được phân loại ở nơi khác. Các mặt hàng chính bao gồm sản phẩm từ vật liệu chạm khắc có nguồn gốc động vật, thực vật, hoặc khoáng chất (nhóm 96.01, 96.02); chổi và bàn chải (nhóm 96.03); giần và sàng tay (nhóm 96.04); bộ đồ du lịch (nhóm 96.05); khuy, cúc bấm (nhóm 96.06); khóa kéo (nhóm 96.07); bút các loại (nhóm 96.08, 96.09); bảng viết (nhóm 96.10); con dấu (nhóm 96.11); ruy băng máy chữ và tấm mực dấu (nhóm 96.12); bật lửa (nhóm 96.13); tẩu thuốc (nhóm 96.14); lược, trâm cài tóc (nhóm 96.15); bình xịt nước hoa (nhóm 96.16); phích chân không (nhóm 96.17); ma-nơ-canh (nhóm 96.18); băng vệ sinh, tã lót (nhóm 96.19); và chân đế máy ảnh (nhóm 96.20).",
+    "en": "Section XX covers a variety of miscellaneous manufactured articles, divided into three chapters:\n- Chapter 94: Covers furniture and its parts (e.g., seats, tables, cupboards); bedding, mattresses, and similar stuffed furnishings; luminaires, lighting fittings and their parts; illuminated signs, illuminated name-plates and the like; and prefabricated buildings. This chapter excludes items such as pneumatic mattresses (Chapters 39, 40, 63), cheval-glasses (heading 70.09), articles of Chapter 71, parts of general use of base metal (Section XV) or of plastics (Chapter 39), furniture specially designed as parts of apparatus of Chapters 84, 85, 90, toy furniture (heading 95.03), and billiard tables (heading 95.04).\n- Chapter 95: Covers toys, games and sports requisites, and their parts and accessories. Key articles include wheeled toys (tricycles, scooters), dolls, reduced-size models, puzzles (heading 95.03); video game machines, table games, billiards, special tables for casino games, bowling equipment (heading 95.04); festive and carnival articles (heading 95.05); articles and equipment for physical exercise, gymnastics, athletics, and other sports such as skis, golf clubs, rackets, balls (heading 95.06); fishing tackle (heading 95.07); and fairground amusements, travelling circuses (heading 95.08). This chapter has an extensive list of exclusions, including apparel (Chapters 61, 62), footwear (Chapter 64), arms (Chapter 93), and electronic equipment with other primary functions (Section XVI).\n- Chapter 96: Covers miscellaneous manufactured articles not elsewhere classified. Key articles include articles of animal, vegetable, or mineral carving materials (headings 96.01, 96.02); brooms and brushes (heading 96.03); hand sieves and riddles (heading 96.04); travel sets (heading 96.05); buttons and press-fasteners (heading 96.06); slide fasteners (heading 96.07); pens of all kinds (headings 96.08, 96.09); slates and boards (heading 96.10); stamps (heading 96.11); typewriter ribbons and ink-pads (heading 96.12); lighters (heading 96.13); smoking pipes (heading 96.14); combs and hair-slides (heading 96.15); scent sprays (heading 96.16); vacuum flasks (heading 96.17); tailors' dummies (heading 96.18); sanitary towels and diapers (heading 96.19); and monopods, bipods, tripods (heading 96.20)."
+  },
+  "notes": [],
+  "general": [],
+  "chapters": [
+    {
+      "chapter_id": "94",
+      "chapter_title": {
+        "vi": "Đồ nội thất; bộ đồ giường, đệm, khung đệm, nệm và các đồ dùng nhồi tương tự; đèn (luminaires) và bộ đèn, chưa được chi tiết hoặc ghi ở nơi khác; biển hiệu được chiếu sáng, biển đề tên được chiếu sáng và các loại tương tự; nhà lắp ghép",
+        "en": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings"
+      }
+    },
+    {
+      "chapter_id": "95",
+      "chapter_title": {
+        "vi": "Đồ chơi, thiết bị trò chơi và dụng cụ thể thao; các bộ phận và phụ kiện của chúng",
+        "en": "Toys, games and sports requisites; parts and accessories thereof"
+      }
+    },
+    {
+      "chapter_id": "96",
+      "chapter_title": {
+        "vi": "Các mặt hàng khác",
+        "en": "Miscellaneous manufactured articles"
+      }
+    }
+  ]
+}

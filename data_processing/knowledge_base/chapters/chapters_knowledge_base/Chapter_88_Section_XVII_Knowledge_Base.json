@@ -1,0 +1,87 @@
+{
+  "chapter_id": "88",
+  "chapter_title": {
+    "vi": "Phương tiện bay, tàu vũ trụ và các bộ phận của chúng",
+    "en": "Aircraft, spacecraft, and parts thereof"
+  },
+  "summary": {
+    "vi": "Chương 88 bao gồm các phương tiện bay, tàu vũ trụ và các bộ phận liên quan. Chương này phân loại các phương tiện bay không dùng động cơ như khí cầu, khinh khí cầu, tàu lượn (nhóm 88.01), các phương tiện bay khác có động cơ như máy bay, trực thăng (nhóm 88.02), và phương tiện bay không người lái (nhóm 88.06). Ngoài ra, chương còn bao gồm các thiết bị chuyên dụng như dù (nhóm 88.04), thiết bị phóng máy bay và huấn luyện bay mặt đất (nhóm 88.05). Một chú giải quan trọng định nghĩa rõ 'phương tiện bay không người lái' và loại trừ các loại đồ chơi bay thuộc nhóm 95.03. Các chú giải phân nhóm cũng đưa ra định nghĩa về 'trọng lượng không tải' và 'trọng lượng cất cánh tối đa' để hỗ trợ phân loại. Chương cũng bao gồm các bộ phận chuyên dụng cho các phương tiện bay kể trên (nhóm 88.07).",
+    "en": "Chapter 88 covers aircraft, spacecraft, and their related parts. This chapter classifies non-powered aircraft such as balloons, dirigibles, and gliders (heading 88.01), other powered aircraft like aeroplanes and helicopters (heading 88.02), and unmanned aircraft (heading 88.06). Additionally, it includes specialized equipment such as parachutes (heading 88.04), aircraft launching gear, and ground flying trainers (heading 88.05). A key note defines 'unmanned aircraft' and excludes flying toys of heading 95.03. The subheading notes also provide definitions for 'unladen weight' and 'maximum take-off weight' to aid in classification. The chapter also covers dedicated parts for the aforementioned aircraft (heading 88.07)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1: Định nghĩa 'phương tiện bay không người lái' là bất kỳ phương tiện bay nào được thiết kế để bay không có người lái, trừ các phương tiện thuộc nhóm 88.01. Chúng có thể mang trọng tải hoặc được trang bị camera hoặc thiết bị khác để thực hiện các chức năng tiện ích. Tuy nhiên, khái niệm này không bao gồm đồ chơi bay được thiết kế chỉ cho mục đích giải trí (nhóm 95.03).",
+        "en": "Note 1: Defines 'unmanned aircraft' as any aircraft, other than those of heading 88.01, designed to be flown without a pilot. They may be designed to carry a payload or be equipped with cameras or other equipment for utilitarian functions. However, this expression does not cover flying toys designed solely for amusement (heading 95.03)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm 1: Theo mục đích của các phân nhóm từ 8802.11 đến 8802.40, 'trọng lượng không tải' là trọng lượng của máy bay ở chế độ bay bình thường, không bao gồm trọng lượng của tổ bay, nhiên liệu và các thiết bị không được gắn cố định.",
+        "en": "Subheading Note 1: For the purposes of subheadings 8802.11 to 8802.40, 'unladen weight' means the weight of the machine in normal flying order, excluding the weight of the crew, fuel, and equipment other than permanently fitted items."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 2: Theo mục đích của các phân nhóm từ 8806.21 đến 8806.24 và 8806.91 đến 8806.94, 'trọng lượng cất cánh tối đa' là trọng lượng tối đa của phương tiện bay khi cất cánh, bao gồm cả trọng tải, thiết bị và nhiên liệu.",
+        "en": "Subheading Note 2: For the purposes of subheadings 8806.21 to 8806.24 and 8806.91 to 8806.94, 'maximum take-off weight' means the maximum weight of the machine in normal flying order at take-off, including the weight of payload, equipment and fuel."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phần tổng quát nêu rõ Chương này bao gồm khí cầu, khinh khí cầu và phương tiện bay không dùng động cơ (nhóm 88.01), các phương tiện bay khác (nhóm 88.02 hoặc 88.06), tàu vũ trụ và phương tiện phóng tàu vũ trụ (nhóm 88.02), cùng các thiết bị liên quan như dù (nhóm 88.04), thiết bị phóng, dàn hãm tốc độ và thiết bị huấn luyện bay mặt đất (nhóm 88.05). Các phương tiện bay chưa hoàn chỉnh hoặc chưa hoàn thiện nhưng có đặc tính cơ bản của phương tiện bay hoàn chỉnh cũng được phân loại trong chương này.",
+        "en": "The general section states that this Chapter covers balloons, dirigibles and non-powered aircraft (heading 88.01), other aircraft (headings 88.02 or 88.06), spacecraft and spacecraft launch vehicles (heading 88.02), and related equipment such as parachutes (heading 88.04), aircraft launching gear, deck-arrestor gear and ground flying trainers (heading 88.05). Incomplete or unfinished aircraft that have the essential character of a complete aircraft are also classified in this chapter."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "88.01",
+      "heading_title": {
+        "vi": "Khí cầu và khinh khí cầu điều khiển được; tàu lượn, tàu lượn treo và các phương tiện bay khác không dùng động cơ.",
+        "en": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft."
+      }
+    },
+    {
+      "heading_id": "88.02",
+      "heading_title": {
+        "vi": "Phương tiện bay khác (ví dụ, trực thăng, máy bay); trừ phương tiện bay không người lái thuộc nhóm 88.06; tàu vũ trụ (kể cả vệ tinh) và tàu bay trong quĩ đạo và phương tiện đấy để phóng tàu vũ trụ.",
+        "en": "Other aircraft (for example, helicopters, aeroplanes), except unmanned aircraft of heading 88.06; spacecraft (including satellites) and suborbital and spacecraft launch vehicles."
+      }
+    },
+    {
+      "heading_id": "88.04",
+      "heading_title": {
+        "vi": "Dù (kể cả dù điều khiển được và dù lượn) và dù xoay; các bộ phận và phụ kiện của chúng.",
+        "en": "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto."
+      }
+    },
+    {
+      "heading_id": "88.05",
+      "heading_title": {
+        "vi": "Thiết bị phóng dùng cho phương tiện bay; dàn hãm tốc độ dùng cho tầu sân bay hoặc thiết bị tương tự; thiết bị huấn luyện bay mặt đất; các bộ phận của các thiết bị trên.",
+        "en": "Aircraft launching gear; deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles."
+      }
+    },
+    {
+      "heading_id": "88.06",
+      "heading_title": {
+        "vi": "Phương tiện bay không người lái.",
+        "en": "Unmanned aircraft."
+      }
+    },
+    {
+      "heading_id": "88.07",
+      "heading_title": {
+        "vi": "Các bộ phận của các mặt hàng thuộc nhóm 88.01, 88.02 hoặc 88.06.",
+        "en": "Parts of goods of heading 88.01, 88.02 or 88.06."
+      }
+    }
+  ]
+}

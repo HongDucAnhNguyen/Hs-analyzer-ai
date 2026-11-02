@@ -1,0 +1,53 @@
+{
+  "heading_id": "85.13",
+  "heading_title": {
+    "vi": "Đèn điện xách tay được thiết kế để hoạt động bằng nguồn năng lượng riêng của nó (ví dụ, pin khô, ắc qui, magneto), trừ thiết bị chiếu sáng thuộc nhóm 85.12.",
+    "en": "Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 85.12."
+  },
+  "summary": {
+    "vi": "Nhóm 85.13 bao gồm các loại đèn điện xách tay được thiết kế để hoạt động bằng nguồn năng lượng riêng như pin khô, ắc quy, hoặc magneto. Các loại đèn này có thể được mang theo người, cầm tay hoặc gắn vào vật dụng di động, đặc trưng bởi trọng lượng nhẹ và thiết kế đặc thù. Nhóm này bao gồm đèn bỏ túi, đèn cầm tay, đèn pin dạng bút, đèn tín hiệu morse, đèn an toàn cho thợ mỏ, đèn kiểm tra thông dụng có dây đeo đầu và các loại đèn trang trí. Các sản phẩm hỗn hợp như đèn kết hợp bút hoặc tuốc nơ vít được phân loại ở đây nếu chức năng chính là chiếu sáng. Tuy nhiên, nhóm này không bao gồm thiết bị chiếu sáng cho xe cơ giới hoặc xe đạp (nhóm 85.12), đèn nối với hệ thống cố định (nhóm 94.05), đèn flash máy ảnh (nhóm 90.06), đèn khám y tế chuyên dụng (nhóm 90.18), và con trỏ laze (nhóm 90.13).",
+    "en": "Heading 85.13 covers portable electric lamps designed to function by their own source of energy, such as dry batteries, accumulators, or magnetos. These lamps are intended to be carried on the person, in the hand, or attached to a portable article, characterized by their light weight and specific design. The heading includes pocket lamps, hand lamps, pen-shaped flashlights, Morse signalling lamps, miners' safety lamps, general-use examination lamps with headbands, and fancy torches. Composite articles like a lamp combined with a pen or screwdriver are classified here if their principal function is providing light. However, this heading excludes lighting equipment for motor vehicles or cycles (heading 85.12), lamps connected to a fixed installation (heading 94.05), photographic flash-light apparatus (heading 90.06), specialized medical inspection lamps (heading 90.18), and laser pointers (heading 90.13)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại đèn điện xách tay được thiết kế để hoạt động bằng nguồn điện riêng chứa trong cùng vỏ (ví dụ: pin khô, ắc quy, magneto). Đèn 'xách tay' là loại được thiết kế để cầm tay, mang theo người, hoặc gắn vào vật dụng di động, có trọng lượng nhẹ và hình dáng đặc biệt. Các loại đèn thuộc nhóm này bao gồm: (1) Đèn bỏ túi (kể cả 'đèn dynamo'). (2) Đèn cầm tay khác (kể cả loại có thể điều chỉnh tia sáng). (3) Đèn, đèn pin hình cây bút. (4) Đèn tín hiệu Morse. (5) Đèn an toàn cho thợ mỏ. (6) Đèn kiểm tra công dụng chung có dây đeo đầu. (7) Đèn pin dạng đặc biệt (hình súng, thỏi son). (8) Đèn đọc sách có kẹp. Các sản phẩm hỗn hợp có chức năng chính là chiếu sáng cũng thuộc nhóm này. Nhóm này không bao gồm thiết bị chiếu sáng cho xe có động cơ hoặc xe đạp (nhóm 85.12) và đèn được nối với một bộ gá cố định (nhóm 94.05). Đèn chuyên dùng cho y tế (ví dụ khám họng, tai) bị loại trừ (nhóm 90.18). Các bộ phận của đèn thuộc nhóm này cũng được phân loại ở đây theo các quy định chung của Phần XVI.",
+        "en": "This heading covers portable electric lamps designed to function by means of a self-contained source of electricity (e.g., dry cell, accumulator or magneto). 'Portable lamps' are those designed for use when carried in the hand or on the person, or attached to a portable article, being lightweight and having particular shapes. The lamps of this heading include: (1) Pocket lamps (including 'dynamo lamps'). (2) Other hand lamps (including those with an adjustable beam). (3) Lamps, torches or flashlights in the shape of pens. (4) Morse signalling lamps. (5) Miners' safety lamps. (6) General-use examination lamps fixed to a headband. (7) Fancy torches in the shape of pistols, lipsticks. (8) Reading lamps fitted with a clip. Composite articles whose principal function is the provision of light are also included. This heading excludes lighting equipment for motor vehicles or cycles (heading 85.12) and lamps connected to a fixed installation (heading 94.05). Specialised medical inspection lamps (e.g., for throat or ear inspection) are excluded (heading 90.18). Parts of the lamps of this heading are also classified here subject to the general provisions of Section XVI."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (a) Đèn flash của máy ảnh (nhóm 90.06). (b) Con trỏ laze kết hợp với một điot laze (nhóm 90.13).",
+        "en": "The heading excludes: (a) Photographic flash-light apparatus (heading 90.06). (b) Laser pointers incorporating a laser diode (heading 90.13)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8513.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đèn",
+        "en": "Lamps"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8513.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

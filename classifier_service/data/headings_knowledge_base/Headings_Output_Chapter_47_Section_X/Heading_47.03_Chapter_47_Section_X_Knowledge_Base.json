@@ -1,0 +1,70 @@
+{
+  "heading_id": "47.03",
+  "heading_title": {
+    "vi": "Bột giấy hoá học từ gỗ, sản xuất bằng phương pháp sulphat hoặc kiềm, trừ loại hòa tan.",
+    "en": "Chemical wood pulp, soda or sulphate, other than dissolving grades."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bột giấy hóa học từ gỗ sản xuất bằng phương pháp kiềm (soda) hoặc sunfat (sulphate), trừ loại hòa tan. Bột giấy này được sản xuất bằng cách nấu sôi gỗ trong dung dịch kiềm mạnh. Phương pháp kiềm sử dụng dung dịch natri hydroxide, trong khi phương pháp sunfat sử dụng dung dịch natri hydroxide đã được cải biến. Các loại bột giấy này được dùng để sản xuất các sản phẩm hút nước (như tã lót) và các loại giấy, bìa đòi hỏi độ bền xé, độ bền kéo và độ bền bục cao.",
+    "en": "This heading covers chemical wood pulp, soda or sulphate, other than dissolving grades. This pulp is produced by boiling wood in strongly alkaline solutions. The soda process uses a sodium hydroxide solution, while the sulphate process employs a modified sodium hydroxide solution. These pulps are used in the manufacture of absorbent products (such as diapers) and for papers and paperboards requiring high tearing resistance, tensile strength, and bursting strength."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Bột giấy sản xuất bằng phương pháp kiềm hoặc sulphate được sản xuất bằng cách nấu sôi gỗ, thông thường ở dạng dăm mảnh, trong các dung dịch kiềm mạnh. Đối với bột giấy sản xuất bằng phương pháp kiềm thì chất lỏng để nấu là một dung dịch từ natri hydroxide; đối với bột giấy sản xuất bằng phương pháp sulphate thì sử dụng dung dịch natri hydroxide đã được cải biến. Thuật ngữ \"sulphate\" được áp dụng xuất phát từ natri sulphate, mà một phần của nó được chuyển thành natri sulphide, được dùng ở giai đoạn điều chế chất lỏng để nấu. Bột giấy sản xuất bằng phương pháp sulphate là loại quan trọng hơn rất nhiều.\nCác loại bột giấy thu được nhờ các quá trình này được dùng trong việc sản xuất các sản phẩm hút nước (như khăn ăn và tã lót cho trẻ sơ sinh) cũng như trong sản xuất giấy và bìa cần độ bền xé và độ bền kéo và độ bền bục cao.",
+        "en": "Soda or sulphate pulps are produced by boiling the wood, usually in chipped form, in strongly alkaline solutions. For soda pulp the cooking liquor is a solution of sodium hydroxide; for sulphate pulp a modified sodium hydroxide solution is employed. The term “ sulphate ” came to be applied because sodium sulphate, part of which is converted into sodium sulphide, is used at a stage in the preparation of the cooking liquor. Sulphate pulp is by far the more important.\nPulps from these processes are used in the manufacture of absorbent products (such as fluffing and napkins (diapers)) as well as for papers and paperboards requiring high tearing resistance and tensile and bursting strength."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Chưa tẩy trắng:",
+        "en": "- Unbleached:"
+      },
+      "subheading_id": "4703.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ gỗ cây lá kim",
+        "en": "- - Coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Chưa tẩy trắng:",
+        "en": "- Unbleached:"
+      },
+      "subheading_id": "4703.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ gỗ không thuộc loài cây lá kim",
+        "en": "- - Non-coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Đã qua bán tẩy trắng hoặc tẩy trắng:",
+        "en": "- Semi-bleached or bleached :"
+      },
+      "subheading_id": "4703.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ gỗ cây lá kim",
+        "en": "- - Coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Đã qua bán tẩy trắng hoặc tẩy trắng:",
+        "en": "- Semi-bleached or bleached :"
+      },
+      "subheading_id": "4703.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ gỗ không thuộc loài cây lá kim",
+        "en": "- - Non-Coniferous"
+      }
+    }
+  ]
+}

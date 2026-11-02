@@ -1,0 +1,77 @@
+{
+  "heading_id": "27.01",
+  "heading_title": {
+    "vi": "Than đá; than bánh, than quả bàng và nhiên liệu rắn tương tự sản xuất từ than đá.",
+    "en": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại than đá và anthracite, dù đã hoặc chưa nghiền thành bột hoặc đóng bánh (than bánh, than quả bàng...). Nhóm này cũng bao gồm than bánh và các nhiên liệu tương tự đã được cacbon hóa để trở nên không khói, cũng như than đá nghiền thành bột phân tán trong nước (than bùn) có chứa một lượng nhỏ chất phân tán.\n\nNhóm này không bao gồm than huyền (nhóm 25.30), than non (nhóm 27.02), than cốc và than bán cốc (nhóm 27.04).",
+    "en": "This heading covers various types of coal and anthracite, whether or not pulverised or agglomerated (ovoids, briquettes, etc.). It also includes briquettes and similar manufactured fuels which have been carbonised to render them smokeless, as well as pulverised coal dispersed in water (slurry coal) containing small amounts of dispersing agents.\n\nThe heading does not cover jet (heading 25.30), lignite (heading 27.02), nor coke and semi-coke of coal (heading 27.04)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại than đá và anthracite khác nhau đã hoặc chưa nghiền thành bột hoặc kết khối (than đóng bánh, than quả bàng,...). Nó cũng bao gồm than đóng bánh và các nhiên liệu sản xuất tương tự, mà đã được carbon hóa nhằm làm cho chúng không có khói. Nhóm này cũng bao gồm than đá đã nghiền thành bột được phân tán trong nước (than bùn) và có chứa lượng nhỏ các tác nhân phân tán, đặc biệt là các tác nhân hoạt động bề mặt.",
+        "en": "This heading covers the various types of coal and anthracite, whether or not pulverised or agglomerated (ovoids, briquettes, etc.). It also covers briquettes and similar manufactured fuels which have been carbonised to render them smokeless. The heading also includes pulverised coal dispersed in water (slurry coal) and containing small amounts of dispersing agents, especially surface-active agents."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm than huyền (than jet) (nhóm 25.30) than nâu (lignite) (nhóm 27.02), cũng không bao gồm than cốc và than bán cốc (nhóm 27.04).",
+        "en": "The heading does not cover jet (heading 25.30), brown coal (lignite) (heading 27.02), nor coke and semi-coke of coal (heading 27.04)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Than đá, đã hoặc chưa nghiền thành bột, nhưng chưa đóng bánh:",
+        "en": "Coal, whether or not pulverised, but not agglomerated:"
+      },
+      "subheading_id": "2701.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Anthracite",
+        "en": "Anthracite"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Than đá, đã hoặc chưa nghiền thành bột, nhưng chưa đóng bánh:",
+        "en": "Coal, whether or not pulverised, but not agglomerated:"
+      },
+      "subheading_id": "2701.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Than bi-tum",
+        "en": "Bituminous coal"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Than đá, đã hoặc chưa nghiền thành bột, nhưng chưa đóng bánh:",
+        "en": "Coal, whether or not pulverised, but not agglomerated:"
+      },
+      "subheading_id": "2701.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Than đá loại khác",
+        "en": "Other coal"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2701.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Than bánh, than quả bàng và nhiên liệu rắn tương tự sản xuất từ than đá",
+        "en": "Briquettes, ovoids and similar solid fuels manufactured from coal"
+      }
+    }
+  ]
+}

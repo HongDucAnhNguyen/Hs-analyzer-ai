@@ -1,0 +1,187 @@
+{
+  "heading_id": "84.59",
+  "heading_title": {
+    "vi": "Máy công cụ (kể cả đầu gia công tổ hợp có thể di chuyển được) dùng để khoan, doa, phay, ren hoặc ta rô bằng phương pháp bóc tách kim loại, trừ các loại máy tiện (kể cả trung tâm gia công tiện) thuộc nhóm 84.58 (+).",
+    "en": "Machine-tools (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centres) of heading 84.58 (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 84.59 bao gồm các loại máy công cụ dùng để gia công kim loại bằng phương pháp bóc tách vật liệu, cụ thể là các máy khoan, doa, phay, ren và taro. Nhóm này loại trừ các máy tiện và trung tâm gia công tiện thuộc nhóm 84.58. Các máy công cụ này có thể được dẫn động bằng động cơ, tay hoặc bàn đạp, và được phân biệt với dụng cụ cầm tay của nhóm 82.05 và 84.67 bởi thiết kế để lắp đặt cố định. Nhóm này bao gồm các loại máy cụ thể như đầu gia công tổ hợp, máy khoan (một trục hoặc nhiều trục), máy doa (đứng, ngang), và máy phay (ngang, đứng, vạn năng). Các bộ phận và phụ kiện của máy thuộc nhóm này được phân loại trong nhóm 84.66, trừ dụng cụ thuộc Chương 82. Các loại trừ quan trọng khác bao gồm máy gia công bằng tia laze (84.56), trung tâm gia công (84.57), máy bào (84.61), và máy kiểm tra (90.24). Các chú giải phân nhóm làm rõ định nghĩa máy điều khiển số và đặc điểm của máy phay kiểu công xôn.",
+    "en": "Heading 84.59 covers machine-tools for working metal by removing material, specifically machines for drilling, boring, milling, threading, and tapping. This heading excludes lathes and turning centres of heading 84.58. These machine-tools can be power-driven, hand-worked, or pedal-worked, and are distinguished from hand tools of headings 82.05 and 84.67 by their design for fixed mounting. The heading includes specific machine types such as way-type unit head machines, drilling machines (single or multi-spindle), boring machines (vertical, horizontal), and milling machines (horizontal, vertical, universal). Parts and accessories for these machines are classified in heading 84.66, except for tools of Chapter 82. Other significant exclusions include machines using laser beams (84.56), machining centres (84.57), planing machines (84.61), and testing machines (90.24). Subheading explanatory notes clarify the definition of numerically controlled machines and the characteristics of knee-type milling machines."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm 8458.11 và 8458.91 (áp dụng cho các phân nhóm liên quan của nhóm 84.59): Định nghĩa máy công cụ điều khiển số (viết tắt là CNC hoặc NC). Để được coi là máy điều khiển số, chức năng và dịch chuyển của máy, dụng cụ và vật gia công phải được vận hành theo các câu lệnh đã lập trình sẵn bằng ngôn ngữ NC (ví dụ: mã ISO). Máy này luôn tích hợp một khối điều khiển (riêng hoặc gắn liền), kết hợp với máy xử lý dữ liệu tự động hoặc bộ vi xử lý và hệ thống servo. Nếu khối điều khiển không được trình bày cùng máy công cụ, máy vẫn được coi là máy điều khiển số nếu nó có các đặc tính riêng của loại máy này.",
+        "en": "Explanatory Note to Subheadings 8458.11 and 8458.91 (applicable to relevant subheadings of heading 84.59): Defines numerically controlled machine-tools (abbreviated as CNC or NC). To qualify, the functions and movements of the machine-tool, tool, or workpiece must follow pre-programmed instructions in an NC-specific language (e.g., ISO-code). These machines always integrate a control unit (separate or built-in) with an automatic data processing machine or microprocessor and servo systems. If the control unit is not presented with the machine-tool, it is still considered numerically controlled if it has the specific characteristics of this type."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy công cụ dùng để khoan, doa, phay, cắt ren hoặc tarô ren bằng cách bóc tách kim loại, trừ máy tiện (kể cả trung tâm gia công tiện) thuộc nhóm 84.58. Nhóm này bao gồm cả máy hoạt động bằng động cơ, tay hoặc bàn đạp, được phân biệt với dụng cụ cầm tay của nhóm 82.05 và 84.67 bởi thiết kế để gắn trên sàn, bàn, tường hoặc máy khác. Các loại máy cụ thể bao gồm: (1) Máy gia công kiểu đầu tổ hợp có thể tháo lắp được. (2) Máy khoan, gồm máy khoan một trục chính và máy khoan nhiều trục chính. (3) Máy doa, dùng để gia công thêm bề mặt bên trong của các lỗ đã được gia công trước đó, ví dụ máy doa đứng, doa ngang, doa đa chức năng, và máy khoan-doa.",
+        "en": "This heading covers machine-tools for drilling, boring, milling, threading, or tapping by removing metal, other than lathes (including turning centres) of heading 84.58. It includes power-driven, hand, or pedal-operated machines, distinguished from hand tools of headings 82.05 and 84.67 by their design for mounting on the floor, a bench, a wall or another machine. Specific types include: (1) Way-type unit head machines. (2) Drilling machines, including single spindle machines and multi-spindle drilling machines. (3) Boring machines, which further work the internal surface of an existing hole, for example vertical boring machines, horizontal boring machines, multiple boring machines, and miller-borers."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các loại máy khác thuộc nhóm này: (4) Máy phay, gia công bề mặt phẳng hoặc định hình bằng dao phay quay, bao gồm máy phay ngang, đứng, ngang-đứng, vạn năng. (5) Máy tarô ren và máy cắt ren. Máy phay ren được coi là máy phay. Các bộ phận và phụ kiện (trừ dụng cụ thuộc Chương 82) của các máy công cụ thuộc nhóm này được phân vào nhóm 84.66. Nhóm này không bao gồm: (a) Máy công cụ gia công bằng tia lade, siêu âm, phóng điện, điện hóa, tia điện tử, tia ion hoặc hồ quang plasma (nhóm 84.56). (b) Trung tâm gia công, máy kết cấu nguyên khối và máy gia công chuyển dịch đa vị trí (nhóm 84.57). (c) Máy tiện (bao gồm cả các trung tâm gia công tiện) (nhóm 84.58). (d) Máy công cụ để gia công mặt phẳng và máy công cụ khác dùng để gia công kim loại thuộc nhóm 84.61.",
+        "en": "Other machines of this heading: (4) Milling machines, which work a plane or profile surface by means of rotating tools, including horizontal, vertical, horizontal-vertical, and universal milling machines. (5) Tapping machines and threading machines. Thread milling machines are regarded as milling machines. Parts and accessories (other than tools of Chapter 82) of the machine-tools of this heading are classified in heading 84.66. The heading excludes: (a) Machine-tools for working by laser, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes (heading 84.56). (b) Machining centres, unit construction machines (single station) and multi-station transfer machines (heading 84.57). (c) Lathes (including turning centres) (heading 84.58). (d) Machine-tools for planing and other machine-tools working by removing metal, of heading 84.61."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các loại trừ khác: (e) Dụng cụ cầm tay hoạt động bằng khí nén, thủy lực hoặc gắn động cơ điện hoặc không dùng điện (nhóm 84.67). (f) Máy và dụng cụ kiểm tra (nhóm 90.24). Chú giải phân nhóm: Các phân nhóm 8459.21, 8459.31, 8459.41, 8459.51 và 8459.61 áp dụng định nghĩa về máy điều khiển số trong chú giải phân nhóm 8458.11 và 8458.91. Các phân nhóm 8459.51 và 8459.59 (máy phay kiểu công xôn) được xác định bởi sự hiện diện của một bảng điều khiển có một phần tử nằm ngang có thể chuyển động thẳng đứng trên một bệ.",
+        "en": "Further exclusions: (e) Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor (heading 84.67). (f) Machines and appliances for testing (heading 90.24). Subheading Explanatory Notes: Subheadings 8459.21, 8459.31, 8459.41, 8459.51 and 8459.61 apply the definition of numerically controlled machines from the explanatory note to subheadings 8458.11 and 8458.91. Subheadings 8459.51 and 8459.59 (knee-type milling machines) can be identified by the presence of a console which consists of a horizontal element which moves vertically on a stand."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8459.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đầu gia công tổ hợp có thể di chuyển được",
+        "en": "Way-type unit head machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy khoan khác:",
+        "en": "- Other drilling machines:"
+      },
+      "subheading_id": "8459.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy khoan khác:",
+        "en": "- Other drilling machines:"
+      },
+      "subheading_id": "8459.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy doa - phay khác:",
+        "en": "- Other boring-milling machines:"
+      },
+      "subheading_id": "8459.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy doa - phay khác:",
+        "en": "- Other boring-milling machines:"
+      },
+      "subheading_id": "8459.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy doa khác:",
+        "en": "- Other boring machines:"
+      },
+      "subheading_id": "8459.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy doa khác:",
+        "en": "- Other boring machines:"
+      },
+      "subheading_id": "8459.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy phay, kiểu công xôn:",
+        "en": "- Milling machines, knee-type:"
+      },
+      "subheading_id": "8459.51",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy phay, kiểu công xôn:",
+        "en": "- Milling machines, knee-type:"
+      },
+      "subheading_id": "8459.59",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy phay khác:",
+        "en": "- Other milling machines:"
+      },
+      "subheading_id": "8459.61",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy phay khác:",
+        "en": "- Other milling machines:"
+      },
+      "subheading_id": "8459.69",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8459.70",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy ren hoặc máy ta rô khác",
+        "en": "Other threading or tapping machines"
+      }
+    }
+  ]
+}

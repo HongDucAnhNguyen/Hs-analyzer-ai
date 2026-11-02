@@ -1,0 +1,118 @@
+{
+  "heading_id": "40.09",
+  "heading_title": {
+    "vi": "Các loại ống, ống dẫn và ống vòi, bằng cao su lưu hóa trừ cao su cứng, có hoặc không kèm theo các phụ kiện để ghép nối (ví dụ, các đoạn nối, khớp, khuỷu, vành đệm).",
+    "en": "Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges)."
+  },
+  "summary": {
+    "vi": "Nhóm 40.09 bao gồm các loại ống, ống dẫn và ống vòi làm từ cao su lưu hóa, không phải cao su cứng. Các sản phẩm này có thể được làm hoàn toàn bằng cao su hoặc được gia cố bằng các vật liệu khác như vải dệt, chỉ dệt, hoặc chỉ kim loại được bọc trong cao su. Chúng cũng có thể có lớp vỏ bọc bằng vải mỏng, sợi dệt bện, hoặc dây kim loại xoắn. Nhóm này vẫn áp dụng cho các sản phẩm đi kèm phụ kiện ghép nối (khớp, khuỷu, vành đệm) nếu chúng giữ được đặc tính cơ bản của ống. Các đoạn ống cao su dùng để sản xuất săm (ống trong) cũng thuộc nhóm này. Tuy nhiên, nhóm này loại trừ các loại ống làm từ vật liệu dệt được chống thấm bằng cao su, chúng thuộc nhóm 59.09.",
+    "en": "Heading 40.09 covers tubes, pipes, and hoses made of vulcanized rubber, other than hard rubber. These products can be made entirely of rubber or reinforced with other materials such as textile fabric, textile threads, or metal threads embedded in rubber. They may also have a sheath of thin fabric, plaited textile yarns, or an internal/external metal wire spiral. This heading still applies to products presented with fittings (joints, elbows, flanges) if they retain the essential character of tubing. Lengths of rubber tubing for manufacturing inner tubes are also included. However, the heading excludes tubes made of textile materials waterproofed with rubber, which fall under heading 59.09."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm ống, ống dẫn và ống vòi có cấu tạo toàn bộ bằng cao su lưu hoá (trừ cao su cứng) và các loại ống, ống dẫn và ống vòi bằng cao su lưu hoá được gia cố bằng cách xếp lớp, ví dụ, bao gồm một hoặc nhiều lớp vải dệt, lớp chỉ dệt song song, hoặc chỉ kim loại, được bọc trong cao su. Các sản phẩm này cũng có thể được bọc bằng một lớp vỏ bằng vải mỏng, sợi dệt bện, hoặc có dây kim loại xoắn bên trong hoặc bên ngoài. Nhóm này không bao gồm ống, ống dẫn và ống vòi bằng vật liệu dệt đã được chống thấm bằng lớp phủ cao su latex bên trong hoặc có vỏ cao su riêng lồng vào (nhóm 59.09). Các loại ống, ống dẫn và vòi vẫn được phân loại trong nhóm này ngay cả khi có các phụ kiện ghép nối (ví dụ: các đoạn nối, khớp, khuỷu, vành đệm), miễn là chúng vẫn giữ đặc tính cơ bản của ống. Nhóm này cũng bao gồm các đoạn ống bằng cao su lưu hoá, đã hoặc chưa cắt thành từng đoạn, dùng để sản xuất ống trong (săm).",
+        "en": "This heading covers tubes, pipes and hoses consisting wholly of vulcanised rubber (other than hard rubber), and vulcanised rubber tubes, pipes and hoses reinforced by stratification, consisting of one or more “plies” of textile fabric or layers of parallelised textile threads, or metal threads, embedded in the rubber. Such products may also be covered with a sheath of thin fabric, gimped or plaited textile yarns, or incorporate an internal or external spiral of wire. The heading excludes tubes, pipes and hoses of textile materials waterproofed with an internal coating of rubber latex or an inserted separate rubber sheath (heading 59.09). Tubes, pipes and hoses remain classified in this heading even if presented with fittings (for example, joints, elbows, flanges), provided that they retain the essential character of piping or tubing. The heading also covers tubing of vulcanised rubber, whether or not cut to length, for the manufacture of inner tubes."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa gia cố hoặc kết hợp với các vật liệu khác:",
+        "en": "Not reinforced or otherwise combined with other materials :"
+      },
+      "subheading_id": "4009.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không kèm phụ kiện ghép nối",
+        "en": "Without fittings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa gia cố hoặc kết hợp với các vật liệu khác:",
+        "en": "Not reinforced or otherwise combined with other materials :"
+      },
+      "subheading_id": "4009.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có kèm phụ kiện ghép nối",
+        "en": "With fittings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã gia cố hoặc kết hợp duy nhất với kim loại:",
+        "en": "Reinforced or otherwise combined only with metal:"
+      },
+      "subheading_id": "4009.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không kèm phụ kiện ghép nối",
+        "en": "Without fittings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã gia cố hoặc kết hợp duy nhất với kim loại:",
+        "en": "Reinforced or otherwise combined only with metal:"
+      },
+      "subheading_id": "4009.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có kèm phụ kiện ghép nối",
+        "en": "With fittings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã gia cố hoặc kết hợp duy nhất với vật liệu dệt:",
+        "en": "Reinforced or otherwise combined only with textile materials :"
+      },
+      "subheading_id": "4009.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không kèm phụ kiện ghép nối",
+        "en": "Without fittings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã gia cố hoặc kết hợp duy nhất với vật liệu dệt:",
+        "en": "Reinforced or otherwise combined only with textile materials :"
+      },
+      "subheading_id": "4009.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có kèm phụ kiện ghép nối",
+        "en": "With fittings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã gia cố hoặc kết hợp với vật liệu khác:",
+        "en": "Reinforced or otherwise combined with other materials :"
+      },
+      "subheading_id": "4009.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không kèm phụ kiện ghép nối",
+        "en": "Without fittings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã gia cố hoặc kết hợp với vật liệu khác:",
+        "en": "Reinforced or otherwise combined with other materials :"
+      },
+      "subheading_id": "4009.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có kèm phụ kiện ghép nối",
+        "en": "With fittings"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "heading_id": "08.09",
+  "heading_title": {
+    "vi": "Quả mơ, anh đào, đào (kể cả xuân đào), mận và mận gai, tươi.",
+    "en": "Apricots, cherries, peaches (including nectarines), plums and sloes, fresh."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại quả tươi như: quả mơ, tất cả các loại quả anh đào (anh đào hình trái tim, anh đào chua...), đào các loại (kể cả xuân đào), tất cả các loại mận (mận lục, mận vàng, mận tím...) và mận gai.",
+    "en": "This heading covers fresh fruits such as: apricots, all varieties of cherries (whiteheart cherries, morello cherries, etc.), peaches (including nectarines), plums of all kinds (greengages, mirabelles, damsons, etc.), and sloes."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm quả mơ, tất cả các loại quả anh đào (anh đào hình trái tim, anh đào chua...), đào các loại (kể cả xuân đào), tất cả các loại mận (mận lục, mận vàng, mận tím...) và mận gai.",
+        "en": "This heading covers apricots, all varieties of cherries (whiteheart cherries, morello cherries, etc.), peaches (including nectarines), plums of all kinds (greengages, mirabelles, damsons, etc.), and sloes."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0809.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả mơ",
+        "en": "Apricots"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả anh đào:",
+        "en": "- Cherries :"
+      },
+      "subheading_id": "0809.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Quả anh đào chua (Prunus cerasus)",
+        "en": "- - Sour cherries (Prunus cerasus)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả anh đào:",
+        "en": "- Cherries :"
+      },
+      "subheading_id": "0809.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0809.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả đào, kể cả xuân đào",
+        "en": "Peaches, including nectarines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0809.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả mận và quả mận gai",
+        "en": "Plums and sloes"
+      }
+    }
+  ]
+}

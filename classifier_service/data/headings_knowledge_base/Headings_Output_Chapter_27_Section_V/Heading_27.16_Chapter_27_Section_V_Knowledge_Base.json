@@ -1,0 +1,21 @@
+{
+  "heading_id": "27.16",
+  "heading_title": {
+    "vi": "Năng lượng điện. (nhóm không bắt buộc)",
+    "en": "Electrical energy. (optional heading)"
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm năng lượng điện. Đây là một nhóm không bắt buộc và không có chú giải chi tiết.",
+    "en": "This heading covers electrical energy. This is an optional heading and has no explanatory remarks."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Không chú giải.",
+        "en": "No remarks."
+      }
+    }
+  ],
+  "subheadings": []
+}

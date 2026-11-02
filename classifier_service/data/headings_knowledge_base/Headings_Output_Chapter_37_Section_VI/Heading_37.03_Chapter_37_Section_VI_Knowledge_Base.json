@@ -1,0 +1,79 @@
+{
+  "heading_id": "37.03",
+  "heading_title": {
+    "vi": "Giấy, bìa và vật liệu dệt để tạo ảnh, có phủ lớp chất nhạy, chưa phơi sáng.",
+    "en": "Photographic paper, paperboard and textiles, sensitised, unexposed."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại giấy, bìa và vật liệu dệt dùng để tạo ảnh, ở dạng phẳng hoặc cuộn, đã được phủ chất nhạy nhưng chưa phơi sáng. Nó bao gồm giấy và vật liệu dệt để tạo ra ảnh dương bản (dùng trong công việc nghiệp dư, chuyên nghiệp, chụp X quang, điện tâm đồ, ghi âm, photocopy, v.v.); giấy kiểu \"tấm\" và \"phim\" dùng để tạo âm bản; và giấy ferricyanide, fero-gallate dùng để tạo bản in phơi. Nhóm này không bao gồm: phim in ngay (nhóm 37.01 hoặc 37.02); giấy, bìa hoặc vật liệu dệt đã phơi sáng nhưng chưa tráng (nhóm 37.04); giấy, bìa hoặc vật liệu dệt đã xử lý nhưng chưa phủ lớp chất nhạy (Chương 48 hoặc Phần XI); và giấy, bìa hoặc vật liệu dệt đã tráng (Chương 49 hoặc Phần XI).",
+    "en": "This heading covers all sensitised, unexposed photographic paper, paperboard, and textiles, whether in flat or roll form. It includes paper and textiles for producing positive prints (for amateur, professional, X-ray, electrocardiographic, recording, photocopying, etc.); paper \"plates\" and \"films\" used to produce negatives; and ferricyanide, ferro-gallate paper for blueprints. The heading excludes: instant print film (heading 37.01 or 37.02); exposed but not developed paper, paperboard or textiles (heading 37.04); prepared but unsensitised paper, paperboard or textiles (Chapter 48 or Section XI); and developed photographic paper, paperboard or textiles (Chapter 49 or Section XI)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả phim tạo ảnh bằng giấy, bìa và vật liệu dệt ở dạng phẳng hoặc cuộn, có phủ chất nhạy, chưa phơi sáng.",
+        "en": "This heading covers all sensitised, unexposed photographic paper, paperboard and textiles, flat or rolled."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Do vậy nhóm này bao gồm:",
+        "en": "It therefore includes :"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(1) Giấy và vật liệu dệt để tạo ra ảnh dương bản. Những loại này có thể được dùng trong công việc nghiệp dư, chuyên nghiệp, chụp X quang, điện tâm đồ, ghi âm, photocopy, vv...\n(2) Giấy kiểu \"tấm\" và \"phim\" được dùng để tạo ra âm bản bằng cách phơi sáng trong camera.\n(3) Giấy ferricyanide, fero-gallate, vv.., dùng để tạo ra phơi bản in, vv..",
+        "en": "(1) Paper and textiles for the production of positive photographic prints. These may be used in amateur, professional. X-ray, electro-cardiographic, recording, photocopying, etc., work.\n(2) The so-called paper \"plates\" and \"films\" used to produce negatives by exposure in a camera.\n(3) Femeyanide, ferro-gallate, etc. paper used to produce blue-prints, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Phim in ngay ở dạng phẳng hoặc dạng cuộn, có phủ chất nhạy, chưa phơi sáng (nhóm 37.01 hoặc 37.02).\n(b) Phim chụp ảnh bằng giấy, bìa hoặc vật liệu dệt đã phơi sáng nhưng chưa tráng (nhóm 37.04).\n(c) Giấy, bìa hoặc vật liệu dệt đã xử lý nhưng chưa được phủ lớp chất nhạy, ví dụ, giấy được phủ lớp albumin, gelatin, sunphat bari, ôxit kẽm, vv... (Chương 48 hoặc Phần XI)\n(d) Phim chụp ảnh bằng giấy, bìa hoặc vật liệu dệt đã tráng (Chương 49 hoặc Phần XI)",
+        "en": "The heading does not include :\n(a) Instant print film in the flat or in rolls, sensitised, unexposed (heading 37.01 or 37.02).\n(b) Exposed but not developed, photographic paper, paperboard or textiles (heading 37.04).\n(c) Prepared but unsensitised paper, paperboard or textiles, e.g., paper coated with albumin, gelatin, barium sulphate, zinc oxide, etc. (Chapter 48 or Section XI ).\n(d) Developed photographic paper, paperboard or textiles (Chapter 49 or Section XI)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3703.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ở dạng cuộn, có chiều rộng trên 610 mm",
+        "en": "- In rolls of a width exceeding 610 mm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3703.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác, dùng cho chụp ảnh màu (đa màu)",
+        "en": "- Other, for colour photography (polychrome)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3703.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

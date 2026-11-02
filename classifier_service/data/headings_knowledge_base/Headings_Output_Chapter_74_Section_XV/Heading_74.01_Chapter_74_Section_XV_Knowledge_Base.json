@@ -1,0 +1,28 @@
+{
+  "heading_id": "74.01",
+  "heading_title": {
+    "vi": "Sten đồng, đồng xi măng hóa (đồng kết tủa).",
+    "en": "Copper mattes; cement copper (precipitated copper)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hai sản phẩm trung gian của luyện kim đồng:\n1. Sten đồng: Thu được bằng cách nung chảy quặng đồng sunphua đã thiêu kết. Thành phần chính là đồng và sắt sunphua, thường ở dạng hạt hoặc khối thô.\n2. Đồng xi măng hóa (đồng kết tủa): Là bột màu đen thu được bằng cách kết tủa (ví dụ, thêm sắt vào dung dịch nước của quặng). Sản phẩm này chứa oxit và tạp chất không hòa tan.\nNhóm này không bao gồm bột đồng của nhóm 74.06 (loại không chứa tạp chất).",
+    "en": "This heading covers two intermediate products of copper metallurgy:\n1. Copper mattes: Obtained by fusing roasted copper sulphide ores. It consists essentially of copper and iron sulphides, generally in the form of granules or a crude mass.\n2. Cement copper (precipitated copper): A black powder obtained by precipitation (e.g., adding iron to an aqueous ore solution). It contains oxides and insoluble impurities.\nThis heading does not include copper powder of heading 74.06, which does not contain impurities."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) Sten đồng.\nThu được bằng cách nung chảy quặng đồng sunphua đã thiêu kết để phân tách đồng sunphua từ quặng nghèo và các kim loại khác để hình thành một loại xỉ, nổi trên bề mặt của sten. Sten bao gồm phần chính là đồng và sắt sunphua và thông thường ở dạng hạt màu đen hoặc nâu (thu được bằng cách bởi rót sten nóng chảy vào nước) hoặc ở dạng khối thô với bề ngoài ánh kim, xỉn.",
+        "en": "(A) Copper mattes.\nThis is obtained by the fusion of roasted copper sulphide ores to separate the copper sulphide from the gangue and the other metals which form a slag that floats on the surface of the matte. The matte consists essentially of copper and iron sulphides and is generally in the form of black or brown granules (obtained by pouring the molten matte into water) or a crude mass, with a dull, metallic appearance."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) Đồng xi măng hóa (Đồng kết tủa).\nĐồng xi măng hóa (đồng kết tủa) là một sản phẩm thu được bởi sự kết tủa (sự xi măng hóa), ví dụ bằng cách thêm sắt vào dung dịch nước thu được từ ngâm chiết quặng nung hoặc cặn lắng. Sản phẩm này là bột màu đen phần mịn có chứa oxit và tạp chất không hoà tan. Sản phẩm này đôi khi được sử dụng trong sơn chống bẩn, và thuốc diệt nấm trong nông nghiệp, nhưng nó thường được thêm vào mẻ liệu trong lò nung chảy để sản xuất sten đồng.\nĐồng kết tủa không được nhầm lẫn với bột đồng của nhóm 74.06, là loại không chứa tạp chất.",
+        "en": "(B) Cement copper (precipitated copper).\nCement copper (precipitated copper) is a product obtained by precipitation (cementation), i.e., by adding iron to the aqueous solution resulting from the leaching of certain roasted ores or residues. It is a finely divided black powder containing oxides and insoluble impurities. It is sometimes used in anti-fouling paints and agricultural fungicides but is more often added to the charge which goes to a melting furnace to produce copper matte.\nCement copper must not be confused with the copper powder of heading 74.06, which does not contain impurities."
+      }
+    }
+  ],
+  "subheadings": []
+}

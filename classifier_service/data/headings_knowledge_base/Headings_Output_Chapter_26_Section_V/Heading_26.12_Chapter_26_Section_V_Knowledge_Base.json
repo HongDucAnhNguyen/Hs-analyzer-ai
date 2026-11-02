@@ -1,0 +1,46 @@
+{
+  "heading_id": "26.12",
+  "heading_title": {
+    "vi": "Quặng urani hoặc quặng thori và tinh quặng urani hoặc tinh quặng thori.",
+    "en": "Uranium or thorium ores and concentrates."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các quặng urani chính (như Autunite, Pitchblende, Uraninite) và các quặng thori chính (như Monazite, Thorite). Nhóm này loại trừ các sản phẩm được biết đến trong thương mại như \"tinh quặng\" uranium thu được từ các quá trình không thông thường đối với ngành luyện kim (nhóm 28.44).",
+    "en": "This heading covers the principal uranium ores (such as Autunite, Pitchblende, Uraninite) and the principal thorium ores (such as Monazite, Thorite). The heading excludes products known in trade as uranium \"concentrates\" which are obtained by processes not normal to the metallurgical industry (heading 28.44)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các quặng chính thường được phân loại trong nhóm này là:\n(a) Autunite, muối phosphate của uranium và canxi đã hydrate hoá\n(b) Brannetite, uranium titanate\n(c) Cacnotite, muối vanadate của uranium và kali đã hydrate hoá\n(d) Coffinite, silicate uranium.\n(e) Davidite, uranium sắt titanate\n(f) Parsonsite, muối phosphate của uranium và chì đã hydrate hoá\n(g) Pitchblende và uraninite, muối oxit uranium\n(h) Torbernite (hoặc chalcolite) muối phosphate uranium và đồng đã hydrate hoá\n(ij) Tyuyamunite, muối vanadate của uranium và canxi đã hydrate hoá\n(k) Uranophane, canxi uranium silicate\n(l) Uranothorianite, uranium oxit và thorium oxit\nCác loại quặng thorium chính thường được phân loại trong nhóm này là:\n(a) Monazite, muối phosphate của thorium và các đất hiếm\n(b) Thorite, silicate thorium đã hydrate hoá\nNhóm này loại trừ các sản phẩm được biết trong thương mại như \"các tinh quặng\" của uranium mà chúng được điều chế từ những quá trình không thông thường đối với công nghiệp luyện kim (nhóm 28.44)",
+        "en": "The principal uranium ores generally classified in this heading are:\n(a) Autunite, hydrated phosphate of uranium and calcium.\n(b) Brannerite, uranium titanate.\n(c) Carnotite, hydrated vanadate of uranium and potassium.\n(d) Coffinite, uranium silicate.\n(e) Davidite, uranium iron titanate.\n(f) Parsonsite, hydrated phosphate of uranium and lead.\n(g) Pitchblende and uraninite, saline uranium oxides.\n(h) Torbernite (or chalcolite), hydrated phosphate of uranium and copper.\n(ij) Tyuyamunite, hydrated vanadate of uranium and calcium.\n(k) Uranophane, calcium-uranium silicate.\n(l) Uranothorianite, oxide of uranium and thorium.\nThe principal thorium ores generally classified in this heading are:\n(a) Monazite, phosphate of thorium and rare earths.\n(b) Thorite, hydrated thorium silicate.\nThe heading excludes those products known in trade as “concentrates” of uranium which are obtained by processes not normal to the metallurgical industry (heading 28.44)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2612.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Quặng urani và tinh quặng urani",
+        "en": "Uranium ores and concentrates"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2612.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Quặng thori và tinh quặng thori",
+        "en": "Thorium ores and concentrates"
+      }
+    }
+  ]
+}

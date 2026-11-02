@@ -1,0 +1,107 @@
+{
+  "heading_id": "84.64",
+  "heading_title": {
+    "vi": "Máy công cụ để gia công đá, gốm, bê tông, xi măng - amiăng hoặc các loại khoáng vật tương tự hoặc máy dùng để gia công nguội thủy tinh (+).",
+    "en": "Machine-tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold-working glass (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 84.64 bao gồm hai loại máy công cụ chính: máy dùng để gia công các vật liệu khoáng cứng và máy dùng để gia công nguội thủy tinh. Các máy này có thể hoạt động bằng điện, tay hoặc chân, nhưng phải được thiết kế để gắn cố định trên sàn, bàn hoặc tường, khác biệt với dụng cụ cầm tay của nhóm 82.05 và 84.67. Nhóm máy thứ nhất áp dụng cho đá, gốm, bê tông, và khoáng vật tương tự, bao gồm các máy cưa, cắt, mài, đánh bóng, khoan và phay. Nhóm máy thứ hai chuyên dùng cho gia công nguội thủy tinh, gồm các máy cắt, tạo hình, mài, đánh bóng và chạm khắc, kể cả máy hoàn thiện kính quang học. Bộ phận và phụ kiện của các máy này được phân loại vào nhóm 84.66, trừ dụng cụ của Chương 82. Nhóm này loại trừ các máy gia công nóng thủy tinh (nhóm 84.75), máy tạo hình bột gốm (nhóm 84.74), máy chạm khắc bằng phun cát (nhóm 84.24), máy hoạt động bằng tia laze hoặc siêu âm (nhóm 84.56), và máy gia công tấm bán dẫn (nhóm 84.86).",
+    "en": "Heading 84.64 covers two main categories of machine tools: those for working hard mineral materials and those for the cold-working of glass. These machines can be power-driven, hand-operated, or pedal-operated, but must be designed for fixed mounting on a floor, bench, or wall, distinguishing them from hand tools of headings 82.05 and 84.67. The first category applies to stone, ceramics, concrete, and similar minerals, including sawing, cutting, grinding, polishing, drilling, and milling machines. The second category is for cold-working glass, comprising machines for cutting, shaping, grinding, polishing, and engraving, including those for finishing optical glass. Parts and accessories for these machines are classified in heading 84.66, excluding tools of Chapter 82. The heading excludes machines for hot-working glass (heading 84.75), machines for shaping ceramic paste (heading 84.74), sand jet engraving machines (heading 84.24), machines operating by laser or ultrasonic processes (heading 84.56), and machines for working semiconductor wafers (heading 84.86)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Tổng quát: Nhóm này bao gồm các máy công cụ hoạt động bằng điện, tay hoặc chân. Chúng được phân biệt với dụng cụ cầm tay của nhóm 82.05 và 84.67 bởi thiết kế để gắn trên sàn, bàn, tường hoặc máy khác, và thường có bệ, khung hoặc giá đỡ.",
+        "en": "General: This heading covers machine-tools that are power-driven, hand-operated, or pedal-operated. They are distinguished from the hand tools of heading 82.05 and 84.67 by being designed for mounting on the floor, a bench, a wall, or another machine, and are thus usually provided with a base plate, mounting frame, or stand."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(I) MÁY CÔNG CỤ GIA CÔNG ĐÁ, GỐM, BÊ TÔNG, XI MĂNG – AMIĂNG HOẶC CÁC LOẠI KHOÁNG VẬT TƯƠNG TỰ: Nhóm này bao gồm các máy gia công đá tự nhiên, gốm, bê tông, đá nhân tạo, xi măng amiăng, kể cả máy gia công đá quý hoặc bán quý. Các loại máy bao gồm: (A) Máy cưa hoặc máy cắt, như: (1) Máy cưa đĩa, cưa vòng và cưa chuyển động qua lại.",
+        "en": "(I) MACHINES FOR WORKING STONE, CERAMICS, CONCRETE, ASBESTOS-CEMENT OR LIKE MINERAL MATERIALS: This group covers machines for working natural stone, ceramics, concrete, artificial stone, asbestos-cement, including machines for working precious or semi-precious stones. The machine types include: (A) Sawing or cutting machines, such as: (1) Circular saws, band saws and reciprocating saws."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tiếp tục phần (I): (2) Máy cắt bằng đĩa mài để xẻ rãnh hoặc cắt bề mặt bê tông, đá xây dựng. (3) Máy cắt bằng dây hình xoắn ốc. (B) Máy rạch hoặc chẻ. (C) Máy nghiền, làm nhẵn, đánh bóng, tạo vân. (D) Máy khoan, phay. (E) Máy tiện, chạm khắc, tạc, khuôn cắt. (F) Máy cắt hoặc sửa đá mài. (G) Máy công cụ gia công sản phẩm gốm (khoan, cắt, phay, đánh bóng), trừ các máy gia công bột gốm nhão hoặc vật phẩm chưa nung (nhóm 84.74).",
+        "en": "Continuation of Part (I): (2) Disc cutting machines for grooving or cutting concrete surfaces or building stone. (3) Helical-wire cutting machines. (B) Machines for splitting or cleaving. (C) Machines for grinding, smoothing, polishing, graining. (D) Machines for drilling or milling. (E) Machines for turning, engraving, carving, cutting mouldings. (F) Machines for cutting or dressing grinding wheels. (G) Machine-tools for working ceramic products (drilling, cutting, milling, polishing), except machines for working ceramic paste or unfired articles (heading 84.74)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(II) MÁY CÔNG CỤ GIA CÔNG NGUỘI THỦY TINH: Nhóm này bao gồm máy công cụ gia công nguội thủy tinh, khi vật liệu vẫn giữ được tính cứng chắc. Các loại máy bao gồm: (1) Máy cắt thủy tinh loại dùng bánh xe hoặc kim cương. (2) Máy cắt (tạo hình) thủy tinh để vát cạnh hoặc cắt vật phẩm. (3) Máy mài chỉnh hình, làm nhẵn các góc cạnh. (4) Máy đánh bóng và máy làm nhẵn bằng đĩa bọc nỉ. Loại trừ các máy gia công nóng thủy tinh (nhóm 84.75).",
+        "en": "(II) MACHINE-TOOLS FOR COLD WORKING GLASS: This category covers machine-tools for cold-working glass, where the material retains its hard consistency. The machine types include: (1) Glass cutting machines of the wheel or diamond type. (2) Glass cutting (shaping) machines for facetting or for cut-glass articles. (3) Trueing and grinding machines for smoothing edges. (4) Polishing machines and felt disc machines for smoothing. Machines for hot-working glass are excluded (heading 84.75)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Tiếp tục phần (II): (5) Máy chạm khắc loại dùng đá mài hoặc kim cương; trừ máy chạm khắc bằng phun cát (nhóm 84.24). (6) Máy công cụ dùng để hoàn thiện hoặc đánh bóng kính quang học, kính đeo mắt, kính đồng hồ treo tường, kính đồng hồ đeo tay, bao gồm máy cắt mắt kính và máy tạo hình hoặc đánh bóng bề mặt thấu kính, lăng kính.",
+        "en": "Continuation of Part (II): (5) Engraving machines of the grinding wheel or diamond type; excluding sand jet engraving machines (heading 84.24). (6) Machine-tools used for finishing or polishing optical, spectacle, clock or watch glass, including circular glass-cutters for eye-pieces and machines for shaping or polishing the surface of lenses and prisms."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "BỘ PHẬN VÀ PHỤ KIỆN: Theo quy định chung của Phần XVI, các bộ phận và phụ tùng của máy công cụ thuộc nhóm này được xếp vào nhóm 84.66. Quy định này không áp dụng cho các dụng cụ thuộc Chương 82.",
+        "en": "PARTS AND ACCESSORIES: Subject to the general provisions of Section XVI, parts and accessories of the machine-tools of this heading fall in heading 84.66. This provision does not apply to tools of Chapter 82."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các loại trừ: Nhóm này không bao gồm: (a) Dụng cụ cầm tay hoặc đá mài quay tay hoặc hoạt động bằng bàn đạp (nhóm 82.05). (b) Máy xe sợi thủy tinh và máy dệt (nhóm 84.45 hoặc 84.46). (c) Máy công cụ gia công bằng tia laze, siêu âm, hoặc hồ quang plasma (nhóm 84.56). (d) Dụng cụ thao tác bằng tay có động cơ (nhóm 84.67). (e) Máy nghiền, trộn, đúc, làm gạch (nhóm 84.74). (f) Máy cưa, mài, đánh bóng tấm bán dẫn mỏng hoặc tấm màn hình dẹt (nhóm 84.86).",
+        "en": "Exclusions: This heading also excludes: (a) Hand tools or hand or pedal operated grinding wheels (heading 82.05). (b) Machines for twisting glass fibres into yarns and weaving machines (heading 84.45 or 84.46). (c) Machine-tools working by laser, ultrasonic, or plasma arc processes (heading 84.56). (d) Tools for working in the hand with a self-contained motor (heading 84.67). (e) Crushing, grinding, mixing, moulding, brick-making machines (heading 84.74). (f) Machine-tools for sawing, grinding, or polishing semiconductor boules or wafers or flat panel displays (heading 84.86)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải phân nhóm 8464.10: Phân nhóm này bao gồm các máy cưa và máy cắt được mô tả trong đoạn (A) của phần (I) của chú giải nhóm 84.64.",
+        "en": "Subheading Explanatory Note 8464.10: This subheading covers the sawing or cutting machines described in paragraph (A) of Part (I) of the Explanatory Note to heading 84.64."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8464.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy cưa",
+        "en": "Sawing machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8464.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy mài hoặc máy đánh bóng",
+        "en": "Grinding or polishing machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8464.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

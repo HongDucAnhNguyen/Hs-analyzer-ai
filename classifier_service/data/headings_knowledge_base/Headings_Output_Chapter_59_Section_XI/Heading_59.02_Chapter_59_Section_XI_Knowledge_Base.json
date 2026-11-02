@@ -1,0 +1,65 @@
+{
+  "heading_id": "59.02",
+  "heading_title": {
+    "vi": "Vải mành dùng làm lốp từ sợi có độ bền cao từ ni lông hoặc các polyamit khác, các polyeste hoặc viscose rayon.",
+    "en": "Tyre cord fabric of high tenacity yarn of nylon or other polyamides, polyesters or viscose rayon."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm vải mành dùng làm lốp, đã được hoặc chưa được nhúng hoặc ngâm tẩm với cao su hoặc plastic. Vải này bao gồm sợi dọc từ các sợi filament song song có độ bền cao (từ nylon, polyamit khác, polyeste hoặc tơ nhân tạo visco), và được cố định bởi các sợi ngang xếp cách xa nhau. Định nghĩa về sợi có độ bền cao được nêu tại Chú giải 6 Phần XI. Nhóm này không bao gồm các loại vải dệt thoi khác dùng để sản xuất lốp xe hoặc vải sợi không thỏa mãn các chi tiết kỹ thuật của Chú giải 6 Phần XI (được phân loại vào Chương 54 hoặc nhóm 59.03 hoặc 59.06, tùy từng trường hợp).",
+    "en": "This heading covers tyre cord fabric, whether or not dipped or impregnated with rubber or plastics. These fabrics consist of a warp of parallel filament yarns of high tenacity (of nylon or other polyamides, polyesters or viscose rayon), held in place by widely-spaced weft yarns. For the description of high tenacity yarn, see Note 6 to Section XI. The heading does not cover other woven fabrics used in the manufacture of tyres nor fabrics of yarns which do not meet the specification of Note 6 to Section XI (Chapter 54 or heading 59.03 or 59.06, as the case may be)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm vải mành dùng làm lốp, đã được hoặc chưa được nhúng hoặc ngâm tẩm với cao su hoặc plastic.\nVải loại này được sử dụng trong sản xuất lốp xe và bao gồm sợi dọc từ các sợi filament song song, được cố định, với những khoảng cách nhất định, bằng các sợi ngang. Sợi dọc luôn bao gồm các sợi có độ bền cao từ nylon hoặc polyamit khác, polyeste hoặc tơ nhân tạo visco, trong khi sợi ngang được xếp ngang với khoảng cách khá xa và mục đích duy nhất là để giữ cho sợi dọc đứng yên, cũng có thể có thêm các sợi khác. Xem thêm mô tả về sợi có độ bền cao tại Chú giải 6 Phần XI.",
+        "en": "This heading covers tyre cord fabric, whether or not dipped or impregnated with rubber or plastics.\nThese fabrics are used in the manufacture of tyres and consist of a warp of parallel filament yarns, held in place, at specific distances, by weft yarns. The warp always consists of high tenacity yarns of nylon or other polyamides, polyesters or viscose rayon, while the weft, widely-spaced and intended solely to hold the warp in place, may consist of other yarns. For the description of high tenacity yarn, see Note 6 to Section XI."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm các loại vải dệt thoi khác được sử dụng để sản xuất lốp xe cũng như các loại vải sợi không thỏa mãn các chi tiết kỹ thuật của Chú giải 6 Phần XI (Chương 54 hoặc nhóm 59.03 hoặc 59.06, tùy từng trường hợp).",
+        "en": "The heading does not cover other woven fabrics used in the manufacture of tyres nor fabrics of yarns which do not meet the specification of Note 6 to Section XI (Chapter 54 or heading 59.03 or 59.06, as the case may be)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5902.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ ni lông hoặc các polyamit khác",
+        "en": "- Of nylon or other polyamides"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5902.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ các polyeste",
+        "en": "- Of polyesters"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5902.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

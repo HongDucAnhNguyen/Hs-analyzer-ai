@@ -1,0 +1,132 @@
+{
+  "heading_id": "84.11",
+  "heading_title": {
+    "vi": "Tua bin phản lực, tua bin cánh quạt và các loại tua bin khí khác (+).",
+    "en": "Turbo-jets, turbo-propellers and other gas turbines (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại động cơ đốt trong tuabin khí, cụ thể là tuabin phản lực, tuabin cánh quạt và các loại tuabin khí khác. Tuabin phản lực (turbo-jet) tạo ra lực đẩy trực tiếp từ phản ứng của luồng khí xả tốc độ cao, bao gồm các bộ phận chính như máy nén, buồng đốt, tuabin và vòi phun; một số loại có thể có quạt thông gió hoặc bộ phận đốt cháy tiếp. Tuabin cánh quạt (turbo-propeller) tương tự tuabin phản lực nhưng có thêm một tuabin tự do để chuyển hóa năng lượng khí nóng thành năng lượng cơ học để lai một cánh quạt. Các loại tuabin khí khác chủ yếu dùng trong công nghiệp, cho động cơ thủy, tàu hỏa hoặc sản xuất điện, có thể hoạt động theo chu kỳ đơn giản hoặc chu kỳ hồi nhiệt. Nhóm này cũng bao gồm các bộ phận của các động cơ trên như rôto, buồng đốt, vòi phun, cánh quạt, và bộ điều chỉnh nhiên liệu, theo các quy tắc chung của Phần XVI.",
+    "en": "This heading covers internal combustion gas turbines, specifically turbo-jets, turbo-propellers, and other gas turbines. Turbo-jets generate thrust directly from the reaction of a high-velocity exhaust gas stream, consisting of main components like a compressor, combustion system, turbine, and nozzle; some types may feature a ducted fan or an after-burning appliance. Turbo-propellers are similar to turbo-jets but have an additional free turbine that converts hot gas energy into mechanical power to drive a propeller. Other gas turbines are primarily for industrial use, such as in marine craft, locomotives, or for electrical power generation, operating on either a simple or regenerative cycle. The heading also includes parts for these engines, such as rotors, combustion chambers, nozzles, blades, and fuel regulators, subject to the general provisions of Section XVI."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tuabin phản lực, tuabin cánh quạt và các loại tuabin khí khác. Đây là các động cơ đốt trong, thường không cần nguồn nhiệt bên ngoài.\n(A) TUABIN PHẢN LỰC: Bao gồm một máy nén, hệ thống buồng đốt, một tuabin và vòi phun. Khí nóng áp suất cao từ tuabin được chuyển thành luồng khí tốc độ cao qua vòi phun, tạo ra lực đẩy. Các thiết kế phức tạp hơn có thể có máy nén hai thân, mỗi thân được kéo bởi một tuabin riêng. Một số loại có thêm quạt thông gió ở cửa máy nén, được kéo bởi tuabin thứ ba hoặc nối với thân máy nén đầu tiên, thổi khí ngược lại để tạo lực đẩy phụ (còn gọi là động cơ phản lực có lực đẩy phụ).",
+        "en": "This heading covers turbo-jets, turbo-propellers, and other gas turbines. These are internal combustion engines that generally do not require an external heat source.\n(A) TURBO-JETS: Consist of a compressor, a combustion system, a turbine, and a nozzle. Hot pressurized gas from the turbine is converted into a high-velocity gas stream by the nozzle, providing motive force. More complex designs may have a two-spool compressor, with each spool driven by its own turbine. Some variations add a ducted fan at the compressor inlet, driven by a third turbine or connected to the first compressor spool, which bypasses air to join the exhaust jet for extra thrust (sometimes called a “bypass fan jet”)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuabin phản lực có thể có thiết bị phụ trợ là bộ phận đốt cháy tiếp để tăng cường sức mạnh trong thời gian ngắn, sử dụng nhiên liệu riêng và oxy dư thừa từ khí xả.\n(B) TUABIN CÁNH QUẠT: Tương tự tuabin phản lực nhưng có thêm một tuabin (tuabin tự do) ở hạ nguồn để kéo một cánh quạt thông thường. Hầu hết năng lượng khí nóng được chuyển thành năng lượng cơ học để lai cánh quạt thay vì tạo lực đẩy trực tiếp, mặc dù khí xả vẫn có thể tạo ra một lực đẩy phụ.\n(C) CÁC LOẠI TUABIN KHÍ KHÁC: Gồm các tuabin khí công nghiệp được thiết kế đặc biệt hoặc được điều chỉnh từ tuabin phản lực/cánh quạt cho các mục đích khác ngoài đẩy máy bay. Có hai loại chu kỳ: chu kỳ đơn giản (khí vào, nén, đốt nóng, qua tuabin rồi thoát ra) và chu kỳ hồi nhiệt (khí được làm nóng trước bằng khí xả của tuabin). Về cấu tạo, có hai dạng: tuabin khí một đường trục (máy nén và tuabin trên cùng một trục, dùng cho ứng dụng tốc độ ổn định như sản xuất điện) và tuabin khí hai đường trục.",
+        "en": "Turbo-jets may have an auxiliary \"after-burning\" appliance to boost power for short periods, using its own fuel supply and excess oxygen from the exhaust.\n(B) TURBO-PROPELLERS: Similar to turbo-jets but have a further turbine (a \"free turbine\") downstream to drive a conventional propeller. Most of the hot gas energy is converted into shaft power to drive the propeller instead of being expanded for thrust, although the exhaust gas may still provide auxiliary jet power.\n(C) OTHER GAS TURBINES: Includes industrial gas turbines specifically designed for industrial use or adapted from turbo-jets/turbo-propellers for uses other than aircraft propulsion. There are two cycle types: the simple cycle (air is ingested, compressed, heated, passes through the turbine, and exhausts) and the regenerative cycle (air is pre-heated by the turbine exhaust). There are two design types: the single-shaft gas turbine (compressor and turbine on a single shaft, for constant speed applications like electrical power generation) and the two-shaft gas turbine."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Tuabin khí hai đường trục có một đơn vị sản xuất khí (máy nén, buồng đốt, tuabin nén khí) và một tuabin công thứ hai trên trục riêng nhận khí nóng để lai các thiết bị như máy nén hoặc bơm, phù hợp với nhu cầu công suất và tốc độ thay đổi. Các tuabin này được sử dụng trong động cơ thủy, tàu hỏa, nhà máy sản xuất điện, và trong công nghiệp dầu khí, hóa dầu. Nhóm này cũng bao gồm các tuabin khí không có buồng đốt, sử dụng năng lượng từ khí do máy khác tạo ra (ví dụ: máy sản xuất khí, động cơ diesel).\nBỘ PHẬN: Theo quy tắc của Phần XVI, các bộ phận của động cơ thuộc nhóm này cũng được phân loại ở đây, ví dụ: rôto tuabin khí, buồng đốt và ống tuy-e của động cơ phản lực, vòng stato, đĩa rô to, cánh quạt, bộ điều chỉnh lưu lượng nhiên liệu, vòi phun nhiên liệu.\nChú giải phân nhóm 8411.11 và 8411.12: Lực đẩy được tính bằng tích của khối lượng khí xả mỗi giây và hiệu số giữa tốc độ xả và tốc độ hút khí.",
+        "en": "The two-shaft gas turbine unit has a gas generator unit (compressor, combustion system, compressor turbine) and a second power turbine on a separate shaft that receives the hot gas to drive units like a compressor or pump, suitable for varied power and speed demands. These turbines are used for marine craft, locomotives, electrical power generation, and in the oil, gas, and petrochemical industries. This group also includes gas turbines without a combustion chamber, which use energy from gases provided by other machines (e.g., gas generators, diesel engines).\nPARTS: Subject to the provisions of Section XVI, parts of the engines of this heading are also classified here, e.g., gas turbine rotors, combustion chambers and vents for jet engines, stator rings, rotor discs, blades, fuel feed regulators, and fuel nozzles.\nSubheading Explanatory Note for 8411.11 and 8411.12: Thrust is defined as the product of the exhaust mass flow per second and the difference between the exhaust velocity and the air inlet velocity."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Tuabin phản lực:",
+        "en": "- Turbo-jets:"
+      },
+      "subheading_id": "8411.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có lực đẩy không quá 25 kN",
+        "en": "- - Of a thrust not exceeding 25 kN"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tuabin phản lực:",
+        "en": "- Turbo-jets:"
+      },
+      "subheading_id": "8411.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có lực đẩy trên 25 kN",
+        "en": "- - Of a thrust exceeding 25 kN"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tuabin cánh quạt:",
+        "en": "- Turbo-propellers:"
+      },
+      "subheading_id": "8411.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất không quá 1.100 kW",
+        "en": "- - Of a power not exceeding 1,100 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tuabin cánh quạt:",
+        "en": "- Turbo-propellers:"
+      },
+      "subheading_id": "8411.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất trên 1.100 kW",
+        "en": "- - Of a power exceeding 1,100 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Các loại tuabin khí khác:",
+        "en": "- Other gas turbines:"
+      },
+      "subheading_id": "8411.81",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất không quá 5.000 kW",
+        "en": "- - Of a power not exceeding 5,000 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Các loại tuabin khí khác:",
+        "en": "- Other gas turbines:"
+      },
+      "subheading_id": "8411.82",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất trên 5.000 kW",
+        "en": "- - Of a power exceeding 5,000 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ phận:",
+        "en": "- Parts:"
+      },
+      "subheading_id": "8411.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Của tuabin phản lực hoặc tuabin cánh quạt",
+        "en": "- - Of turbo-jets or turbo-propellers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ phận:",
+        "en": "- Parts:"
+      },
+      "subheading_id": "8411.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

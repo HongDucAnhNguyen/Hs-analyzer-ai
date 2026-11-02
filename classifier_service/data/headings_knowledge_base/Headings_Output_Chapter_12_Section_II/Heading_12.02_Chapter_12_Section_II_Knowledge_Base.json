@@ -1,0 +1,65 @@
+{
+  "heading_id": "12.02",
+  "heading_title": {
+    "vi": "Lạc chưa rang, hoặc chưa làm chín cách khác, đã hoặc chưa bóc vỏ hoặc vỡ mảnh. (+).",
+    "en": "Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm lạc (hay còn gọi là hạt đậu phộng), chưa rang hoặc chưa làm chín cách khác, đã hoặc chưa bóc vỏ hoặc vỡ mảnh. Chúng có thể được xử lý nhiệt để bảo quản tốt hơn. Lạc đã rang hoặc đã làm chín cách khác thuộc Chương 20. Theo Chú giải phân nhóm 1202.30, thuật ngữ “hạt giống” chỉ bao gồm lạc được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+    "en": "This heading covers ground-nuts (also known as peanuts), not roasted or otherwise cooked, whether or not shelled or broken. They may be heat-treated to ensure better preservation. Roasted or otherwise cooked ground-nuts fall in Chapter 20. According to the Subheading Explanatory Note for 1202.30, the term “seed” covers only ground-nuts regarded by the competent national authorities as being for sowing."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm các loại lạc (hay còn gọi là hạt đậu phộng) đã hoặc chưa tách vỏ hoặc vỡ mảnh, chưa rang hoặc chưa làm chín cách khác. Lạc thuộc nhóm này có thể bị xử lý nhiệt nhằm bảo quản tốt hơn (xem trong phần Chú giải tổng quát). Lạc đã rang hoặc đã làm chín cách khác thuộc Chương 20.",
+        "en": "This heading covers ground-nuts (also known as peanuts), whether or not shelled or broken, which are not roasted or otherwise cooked. The ground-nuts of this heading may be heat-treated to ensure better preservation (see the General Explanatory Note). Roasted or otherwise cooked ground-nuts fall in Chapter 20."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm. Phân nhóm 1202.30\nTheo mục đích của phân nhóm 1202.30, thuật ngữ “hạt giống” chỉ bao gồm lạc được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+        "en": "Subheading Explanatory Note. Subheading 1202.30\nFor the purposes of subheading 1202.30, the term “seed” covers only ground-nuts regarded by the competent national authorities as bieng for sowing."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1202.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hạt giống",
+        "en": "Seed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "1202.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lạc chưa bóc vỏ",
+        "en": "In shell"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "1202.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lạc nhân, đã hoặc chưa vỡ mảnh",
+        "en": "Shelled, whether or not broken"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "heading_id": "79.01",
+  "heading_title": {
+    "vi": "Kẽm chưa gia công",
+    "en": "Unwrought zinc."
+  },
+  "summary": {
+    "vi": "Nhóm 79.01 bao gồm kẽm chưa gia công ở mọi mức độ tinh khiết, từ kẽm thương phẩm đến kẽm tinh chế. Sản phẩm thuộc nhóm này có các dạng vật lý như khối, tấm, thỏi, phiến hoặc viên. Công dụng chính của chúng là để mạ kẽm, sản xuất hợp kim, hoặc dùng cho các quá trình gia công như cán, kéo, ép đùn và đúc. Cần lưu ý rằng nhóm này loại trừ một cách rõ ràng các sản phẩm như bụi, bột và vẩy kẽm, vốn được phân loại tại nhóm 79.03.",
+    "en": "Heading 79.01 covers unwrought zinc of all purity levels, from commercial spelter to refined zinc. Products under this heading come in physical forms such as blocks, plates, ingots, billets, slabs, or pellets. Their main applications are for galvanising, making alloys, or for processing like rolling, drawing, extrusion, and casting. It should be noted that this heading specifically excludes products like dust, powders, and flakes of zinc, which are classified under heading 79.03."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm kẽm chưa gia công ở các mức độ tinh khiết khác nhau, từ kẽm thương phẩm đến kẽm đã được tinh chế. Các sản phẩm này có thể ở dạng khối, tấm, thỏi, phiến hoặc các dạng tương tự hoặc có dạng viên. Các sản phẩm này thường được sử dụng trong mạ kẽm (bằng phương pháp nhúng nóng hoặc kết tủa điện phân), để tạo ra các hợp kim, cán, kéo, ép đùn, hoặc đúc thành các sản phẩm định hình. Nhóm này loại trừ bụi, bột, vẩy kẽm (nhóm 79.03).",
+        "en": "This heading covers unwrought zinc in its different degrees of purity from spelter to refined zinc, whether in blocks, plates, ingots, billets, slabs or similar forms or in pellets. The products of this heading are normally intended for use in galvanising (by the hot-dip or electro deposition processes), for making alloys, for rolling, drawing or extrusion, or for casting into shaped articles. The heading excludes zinc dust, powders and flakes (heading 79.03)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Kẽm, không hợp kim:",
+        "en": "- Zinc, not alloyed :"
+      },
+      "subheading_id": "7901.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có hàm lượng kẽm từ 99,99% trở lên tính theo khối lượng",
+        "en": "- - Containing by weight 99.99 % or more of zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Kẽm, không hợp kim:",
+        "en": "- Zinc, not alloyed :"
+      },
+      "subheading_id": "7901.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có hàm lượng kẽm dưới 99,99% tính theo khối lượng",
+        "en": "- - Containing by weight less than 99.99 % of zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7901.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Hợp kim kẽm",
+        "en": "- Zinc alloys"
+      }
+    }
+  ]
+}

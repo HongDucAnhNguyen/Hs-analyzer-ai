@@ -1,0 +1,53 @@
+{
+  "heading_id": "07.06",
+  "heading_title": {
+    "vi": "Cà rốt, củ cải, củ dền làm sa- lát, diếp củ (salsify), cần củ (celeriac), củ cải ri (radish) và các loại củ rễ ăn được tương tự, tươi hoặc ướp lạnh.",
+    "en": "Carrots, turnips, salad beetroot, salsify, celeriac, radishes and similar edible roots, fresh or chilled."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại củ rễ ăn được, tươi hoặc ướp lạnh như: cà rốt, củ cải, củ dền làm sa-lát, diếp củ, cần củ, củ cải ri, diếp củ đen, củ cải ngựa, rễ củ a-ti-sô Trung Quốc, củ ngưu bàng và củ cải vàng, kể cả khi đã cắt bỏ lá. Nhóm này không bao gồm: (a) Cần tây thuộc nhóm 07.09; (b) Rễ cây ngưu bàng bảo quản tạm thời (nhóm 07.11); (c) Thức ăn cho gia súc thuộc nhóm 12.14.",
+    "en": "This heading covers fresh or chilled edible roots such as: carrots, turnips, salad beetroot, salsify, celeriac, radishes, scorzonera, horseradish, Chinese artichokes, burdock, and parsnips, whether or not their tops have been removed. The heading excludes: (a) Celery of heading 07.09; (b) Provisionally preserved roots of burdock (heading 07.11); (c) Forage products of heading 12.14."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những loại rễ củ tươi hoặc ướp lạnh thuộc nhóm này bao gồm: Cà rốt, củ cải, củ dền làm sa- lát, diếp củ, cần củ (cần có rễ giống củ cải hoặc cần tây Đức), củ cải ri (radish), diếp củ đen (scorzonera), củ cải ngựa, rễ củ a-ti-sô Trung Quốc (Stachys afffinis), củ ngưu bàng (Arcticum lappa) và củ cải vàng (Pastinaca sativa). Những sản phẩm này vẫn ở trong nhóm này cho dù đã hoặc chưa cắt bỏ lá.",
+        "en": "The fresh or chilled roots of this heading include carrots, turnips, salad beetroot (salad beets), salsify, celeriac (turnip-rooted or German celery), radishes, scorzonera, horseradish, Chinese artichokes (Stachys afffinis), burdock (Arctium lappa) and parsnips (Pastinaca sativa). These products remain in this heading whether or not their tops have been removed."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm: \n(a) Cần tây thuộc nhóm 07.09. \n(b) Rễ cây ngưu bàng bảo quản tạm thời (nhóm 07.11).  \n(c) Thức ăn cho gia súc thuộc nhóm 12.14.",
+        "en": "The heading excludes : \n(a) Celery of heading 07.09. \n(b) Provisionally preserved roots of burdock (heading 07.11). \n(c) Forage products of heading 12.14."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0706.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cà rốt và củ cải",
+        "en": "Carrots and turnips"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0706.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

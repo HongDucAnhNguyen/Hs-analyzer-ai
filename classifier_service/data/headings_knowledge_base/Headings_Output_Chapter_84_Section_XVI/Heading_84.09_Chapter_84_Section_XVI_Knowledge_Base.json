@@ -1,0 +1,72 @@
+{
+  "heading_id": "84.09",
+  "heading_title": {
+    "vi": "Các bộ phận chỉ dùng hoặc chủ yếu dùng cho các loại động cơ thuộc nhóm 84.07 hoặc 84.08.",
+    "en": "Parts suitable for use solely or principally with the engines of heading 84.07 or 84.08."
+  },
+  "summary": {
+    "vi": "Theo các quy tắc chung về phân loại các bộ phận (xem Chú giải tổng quát của Phần XVI), nhóm này bao gồm các bộ phận của động cơ đốt trong kiểu piston thuộc các nhóm 84.07 hoặc 84.08 (ví dụ: piston, xi lanh, thân động cơ, quy lát, phần vỏ xi lanh, xu páp, van nạp và van xả, hệ thống ống thu, nạp nhiên liệu, xéc-măng, biên (thanh truyền), bộ chế hoà khí, bơm phun). Tuy nhiên, nhóm này không bao gồm: (a) Bơm phun các loại (nhóm 84.13), (b) Trục quay (trục khuỷu), trục cam và hộp số (nhóm 84.83), và (c) Thiết bị điện dùng khởi động hoặc mồi, kể cả bugi đánh lửa hoặc làm nóng (nhóm 85.11).",
+    "en": "Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), this heading covers parts of internal combustion piston engines of heading 84.07 or 84.08 (e.g., pistons, cylinders and cylinder blocks; cylinder heads; cylinder liners; inlet or exhaust valves; inlet or exhaust manifolds; piston rings; connecting-rods; carburettors; fuel nozzles). However, the heading excludes: (a) Injection pumps (heading 84.13), (b) Engine crank shafts and cam shafts; and gearboxes (heading 84.83), and (c) Electrical ignition or starting equipment (including sparking plugs and glow plugs) (heading 85.11)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo các quy tắc chung về phân loại các bộ phận (xem phần Chú giải tổng quát của Phần XVI), nhóm này bao gồm các bộ phận của động cơ đốt trong kiểu piston thuộc các nhóm 84.07 hoặc 84.08 (như piston, xi lanh, thân động cơ, quy lát, phần vỏ xi lanh, xu páp, van nạp và van xả, hệ thống ống thu, nạp nhiên liệu, xéc -măng, biên (thanh truyền), bộ chế hoà khí, bơm phun).",
+        "en": "Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), this heading covers parts of internal combustion piston engines of heading 84.07 or 84.08 (e.g., pistons, cylinders and cylinder blocks; cylinder heads; cylinder liners; inlet or exhaust valves; inlet or exhaust manifolds; piston rings; connecting-rods; carburettors; fuel nozzles)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này không bao gồm:\n(a) Bơm phun các loại (nhóm 84.13).\n(b) Trục quay (trục khuỷu) và trục cam (nhóm 84.83); hộp số (nhóm 84.83).",
+        "en": "However, the heading excludes:\n(a) Injection pumps (heading 84.13).\n(b) Engine crank shafts and cam shafts (heading 84.83); and gearboxes (heading 84.83)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(c) Thiết bị điện dùng khởi động hoặc mồi, (kể cả bugi đánh lửa hoặc làm nóng) (nhóm 85.11).",
+        "en": "(c) Electrical ignition or starting equipment (including sparking plugs and glow plugs) (heading 85.11)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8409.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dùng cho động cơ phương tiện bay",
+        "en": "For aircraft engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8409.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chỉ dùng hoặc chủ yếu dùng cho động cơ đốt trong kiểu piston đốt cháy bằng tia lửa điện",
+        "en": "- - Suitable for use solely or principally with spark-ignition internal combustion piston engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8409.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

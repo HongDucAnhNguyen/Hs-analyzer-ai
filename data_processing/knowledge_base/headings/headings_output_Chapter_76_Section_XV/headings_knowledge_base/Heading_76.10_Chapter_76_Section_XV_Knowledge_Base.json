@@ -1,0 +1,67 @@
+{
+  "heading_id": "76.10",
+  "heading_title": {
+    "vi": "Các kết cấu bằng nhôm (trừ nhà lắp ghép thuộc nhóm 94.06) và các bộ phận của các kết cấu bằng nhôm (ví dụ, cầu và nhịp cầu, tháp, cột lưới, mái nhà, khung mái, cửa ra vào và cửa sổ và các loại khung cửa và ngưỡng cửa ra vào, cửa chớp, lan can, cột trụ và các loại cột); tấm, thanh, dạng hình, ống và các loại tương tự bằng nhôm, đã được gia công để sử dụng làm kết cấu.",
+    "en": "Aluminium structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures."
+  },
+  "summary": {
+    "vi": "Nhóm 76.10 bao gồm các kết cấu hoàn chỉnh và các bộ phận kết cấu làm từ nhôm, cùng với các sản phẩm nhôm như tấm, thanh, ống đã được gia công để sử dụng trong kết cấu. Các ví dụ điển hình là cầu, tháp, cột lưới, mái nhà, khung cửa ra vào và cửa sổ. Do đặc tính nhẹ, nhôm và hợp kim nhôm thường được dùng thay thế sắt thép trong các siêu kết cấu tàu thuỷ, dàn chống, và tay vịn. Việc liên kết các bộ phận có thể sử dụng các phương pháp truyền thống như tán đinh, bu-lông hoặc các phương pháp hiện đại hơn như dùng nhựa tổng hợp. Chú giải của nhóm 73.08 về kết cấu sắt thép cũng được áp dụng tương tự cho nhóm này. Nhóm này loại trừ các bộ phận lắp ráp được xác định là bộ phận của máy móc thuộc các Chương 84 đến 88, các kết cấu nổi của Chương 89 và nhà lắp ghép thuộc nhóm 94.06.",
+    "en": "Heading 76.10 covers complete structures and parts of structures made of aluminium, along with aluminium products such as plates, rods, and tubes prepared for use in structures. Typical examples include bridges, towers, lattice masts, roofs, and door and window frames. Due to their lightness, aluminium and its alloys are often used as alternatives to iron or steel in ship superstructures, pit props, and railings. The joining of parts can be done by traditional methods like riveting and bolting, or by more modern methods using synthetic resins. The explanatory notes for heading 73.08 concerning iron and steel structures apply mutatis mutandis. This heading excludes assemblies identifiable as parts of machinery of Chapters 84 to 88, floating structures of Chapter 89, and prefabricated buildings of heading 94.06."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nội dung của chú giải nhóm 73.08 được áp dụng, với những sửa đổi phù hợp cho nhóm này.",
+        "en": "The provisions of the Explanatory Note to heading 73.08 apply, mutatis mutandis, to this heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Trong trường hợp nhôm, các bộ phận kết cấu đôi khi được gắn kết với nhau bằng nhựa tổng hợp hoặc các hợp chất cao su thay cho việc cố định bởi các phương pháp thông thường như tán đinh, ghép bằng bulông....",
+        "en": "In the case of aluminium, structural parts are sometimes bonded together with synthetic resins or rubber compounds instead of being fixed by the ordinary methods of riveting, bolting, etc."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Vì đặc tính nhẹ nên nhôm và các hợp kim của nhôm đôi khi được sử dụng thay cho sắt hoặc thép trong sản xuất các khung kết cấu, các siêu kết cấu của tàu thuỷ, cầu cống, các cửa ra vào dạng trượt, các mạng điện hoặc các tháp phát thanh, dàn chống cho kính thiên văn, khuôn cửa ra vào hoặc cửa sổ, tay vịn...",
+        "en": "In view of their lightness, aluminium and its alloys are sometimes used instead of iron or steel in the manufacture of structural frameworks, ships’ superstructures, bridges, sliding doors, electric grid or radio pylons, telescopic pit props, door or window frames, railings, etc."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (a) Các bộ phận lắp ráp được xác định như các bộ phận của sản phẩm của Chương 84 tới 88. (b) Các kết cấu nổi của Chương 89. (c) Nhà lắp ghép (nhóm 94.06).",
+        "en": "The heading excludes : (a) Assemblies identifiable as parts of articles of Chapters 84 to 88. (b) Floating structures of Chapter 89. (c) Prefabricated buildings (heading 94.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7610.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cửa ra vào, cửa sổ và các loại khung cửa và ngưỡng cửa ra vào",
+        "en": "Doors, windows and their frames and thresholds for doors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7610.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

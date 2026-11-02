@@ -1,0 +1,187 @@
+{
+  "heading_id": "07.13",
+  "heading_title": {
+    "vi": "Các loại rau đậu khô, đã bóc vỏ quả, đã hoặc chưa bóc vỏ hạt hoặc làm vỡ hạt.",
+    "en": "Dried leguminous vegetables, shelled, whether or not skinned or split (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại rau đậu thuộc nhóm 07.08 đã được làm khô và bóc vỏ quả, dùng cho người hoặc động vật, kể cả loại dùng để gieo trồng (ví dụ, đậu Hà Lan, đậu gà, các loại đậu, đậu lăng, đậu tằm). Chúng có thể đã bóc vỏ hạt hoặc làm vỡ hạt. Chú giải phân nhóm 0713.31 quy định phân nhóm này chỉ bao gồm đậu đen (Vigna mungo) và đậu xanh (Vigna radiata). Nhóm này loại trừ: bột của các loại rau này (nhóm 11.06), đậu tương (nhóm 12.01), một số loại hạt đậu tằm và hạt đậu lu-pin (nhóm 12.09), và hạt cây minh quyết (nhóm 12.12).",
+    "en": "This heading covers leguminous vegetables of heading 07.08 that have been dried and shelled, for human or animal consumption, including for sowing (e.g., peas, chickpeas, beans, lentils, broad beans). They may be skinned or split. The Subheading Explanatory Note to 0713.31 clarifies it only covers black gram (Vigna mungo) and green gram (Vigna radiata). The heading excludes: flour of these vegetables (heading 11.06), soya beans (heading 12.01), certain vetch and lupine seeds (heading 12.09), and locust beans (heading 12.12)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại rau đậu thuộc nhóm 07.08 đã làm khô và được bóc vỏ quả, thuộc loại được sử dụng cho người hoặc động vật (ví dụ, đậu Hà Lan, đậu gà, đậu hạt đỏ nhỏ và một số loại đậu khác, đậu lăng, đậu tằm, đậu ngựa, hạt guar), thậm chí khi chúng có thể sử dụng để gieo trồng (cho dù có hoặc không ăn được vì đã qua xử lý bằng hoá chất) hoặc được dùng vào mục đích khác. Các loại đậu này có thể đã qua xử lý nhiệt mức độ vừa phải chủ yếu nhằm bảo quản tốt hơn bằng cách khử hoạt tính của enzyme (đặc biệt là peroxidase) và loại trừ bớt độ ẩm; tuy nhiên, cách xử lý như vậy cần không làm ảnh hưởng đến đặc tính bên trong của phôi mầm.",
+        "en": "This heading covers leguminous vegetables of heading 07.08 which have been dried and shelled, of a kind used for human or animal consumption (e.g., peas, chickpeas, Adzuki and other beans, lentils, broad beans, horse beans, guar seeds), even if intended for sowing (whether or not rendered inedible by chemical treatment) or for other purposes. They may have undergone moderate heat treatment designed mainly to ensure better preservation by inactivating the enzymes (the peroxidases in particular) and eliminating part of the moisture; however, such treatment should not affect the internal character of the cotyledon."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại rau đậu đã làm khô thuộc nhóm này có thể đã được bóc vỏ hạt hoặc làm vỡ hạt.",
+        "en": "The dried leguminous vegetables of this heading may be skinned or split."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Rau đậu khô đã bóc vỏ dưới dạng bột, bột thô, bột mịn (nhóm 11.06).\n(b) Đậu tương (nhóm 12.01).\n(c) Hạt đậu tằm (trừ đậu tằm (broad bean) và đậu ngựa), hạt tare và hạt đậu lu-pin (nhóm 12.09).\n(d) Hạt cây minh quyết (nhóm 12.12).",
+        "en": "This heading excludes :\n(a) Flour, meal and powder of dried shelled leguminous vegetables (heading 11.06).\n(b) Soya beans (heading 12.01).\n(c) Seeds of vetches (other than broad beans and horse beans), tares and lupines (heading 12.09).\n(d) Locust beans (heading 12.12)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 0713.31\nPhân nhóm này chỉ bao gồm các loại đậu thuộc loài Vigna mungo (L) Hepper, cũng được gọi là đậu đen hoặc đậu urd, và các loại đậu thuộc loài Vigna radiata (L) Wilczek, cũng được gọi là đậu xanh. Cả hai loài này rất hay được dùng làm giá đỗ.",
+        "en": "Subheading Explanatory Note.\nSubheading 0713.31\nThis subheading covers only beans of the species Vigna mungo (L) Hepper, also known as urd or black gram, and beans of the species Vigna radiata (L.) Wilczek, also known as mung or green gram. Both species are widely used for bean sprout production."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0713.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu Hà Lan (Pisum sativum)",
+        "en": "Peas (Pisum sativum)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0713.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu gà (chickpeas) (garbanzos)",
+        "en": "Chickpeas (garbanzos)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đậu hạt (Vigna spp., Phaseolus spp.):",
+        "en": "Beans (Vigna spp., Phaseolus spp.):"
+      },
+      "subheading_id": "0713.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu thuộc loài Vigna mungo (L.) Hepper hoặc Vigna radiata (L.) Wilczek",
+        "en": "Beans of the species Vigna mungo (L.) Hepper or Vigna radiata (L.) Wilczek"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đậu hạt (Vigna spp., Phaseolus spp.):",
+        "en": "Beans (Vigna spp., Phaseolus spp.):"
+      },
+      "subheading_id": "0713.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu hạt đỏ nhỏ (Adzuki) (Phaseolus hoặc Vigna angularis)",
+        "en": "Small red (Adzuki) beans (Phaseolus or Vigna angularis)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đậu hạt (Vigna spp., Phaseolus spp.):",
+        "en": "Beans (Vigna spp., Phaseolus spp.):"
+      },
+      "subheading_id": "0713.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu tây, kể cả đậu trắng (Phaseolus vulgaris)",
+        "en": "Kidney beans, including white pea beans (Phaseolus vulgaris)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đậu hạt (Vigna spp., Phaseolus spp.):",
+        "en": "Beans (Vigna spp., Phaseolus spp.):"
+      },
+      "subheading_id": "0713.34",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu bambara (Vigna subterranea hoặc Voandzeia subterranea)",
+        "en": "Bambara beans (Vigna subterranea or Voandzeia subterranea)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đậu hạt (Vigna spp., Phaseolus spp.):",
+        "en": "Beans (Vigna spp., Phaseolus spp.):"
+      },
+      "subheading_id": "0713.35",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu đũa (Vigna unguiculata)",
+        "en": "Cow peas (Vigna unguiculata)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đậu hạt (Vigna spp., Phaseolus spp.):",
+        "en": "Beans (Vigna spp., Phaseolus spp.):"
+      },
+      "subheading_id": "0713.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0713.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu lăng",
+        "en": "Lentils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0713.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu tằm (Vicia faba var. major) và đậu ngựa (Vicia faba var. equina, Vicia faba var. minor)",
+        "en": "Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina, Vicia faba var. minor)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0713.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đậu triều, đậu săng (Cajanus cajan)",
+        "en": "Pigeon peas (Cajanus cajan)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0713.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

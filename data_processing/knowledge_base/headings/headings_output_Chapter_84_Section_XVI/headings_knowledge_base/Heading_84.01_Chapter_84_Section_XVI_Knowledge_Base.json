@@ -1,0 +1,98 @@
+{
+  "heading_id": "84.01",
+  "heading_title": {
+    "vi": "Lò phản ứng hạt nhân; các bộ phận chứa nhiên liệu (cartridges), không bị bức xạ, dùng cho các lò phản ứng hạt nhân; máy và thiết bị để tách chất đồng vị.",
+    "en": "Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation."
+  },
+  "summary": {
+    "vi": "Nhóm 84.01 bao gồm ba loại sản phẩm chính: lò phản ứng hạt nhân, máy móc thiết bị để tách chất đồng vị, và các bộ phận chứa nhiên liệu chưa bị bức xạ. Lò phản ứng hạt nhân được định nghĩa là toàn bộ thiết bị bên trong tấm chắn sinh học, bao gồm lõi, cấu trúc cơ khí, hệ thống đo lường và tấm chắn. Các bộ phận của lò phản ứng như thanh điều khiển và bình điều áp cũng thuộc nhóm này. Máy móc tách đồng vị bao gồm các thiết bị chuyên dụng để làm giàu nguyên tố, ví dụ như sản xuất nước nặng hoặc làm giàu uranium U 235, thông qua các phương pháp như ly tâm khí, khuếch tán khí hoặc chưng cất phân đoạn. Các bộ phận chứa nhiên liệu là vật liệu phân hạch hoặc vật liệu sinh sôi được bọc trong vỏ kim loại. Nhóm này loại trừ một số máy móc dù có thể được sử dụng trong nhà máy hạt nhân như máy tạo hơi nước (nhóm 84.02), bộ trao đổi nhiệt (nhóm 84.04 hoặc 84.19), máy bơm (nhóm 84.13 hoặc 84.14), và tua bin hơi nước (nhóm 84.06). Ngoài ra, các bộ phận chứa nhiên liệu đã qua sử dụng (bị bức xạ) và các vi cầu nhiên liệu hạt nhân thuộc nhóm 28.44.",
+    "en": "Heading 84.01 covers three main product categories: nuclear reactors, machinery and apparatus for isotopic separation, and non-irradiated fuel elements (cartridges). A nuclear reactor is defined as all apparatus within the biological shield, including the core, mechanical structures, measurement systems, and the shield itself. Parts of reactors such as control rods and pressurizers are also included. Machinery for isotopic separation comprises specialized equipment for enriching chemical elements, such as producing heavy water or enriching uranium in U 235, using methods like gas centrifugation, gaseous diffusion, or fractional distillation. Fuel elements consist of fissile or fertile material contained within a metal sheath. The heading excludes certain machinery that may be used in nuclear plants, such as steam generating boilers (heading 84.02), heat exchangers (heading 84.04 or 84.19), pumps (heading 84.13 or 84.14), and steam turbines (heading 84.06). Furthermore, spent (irradiated) fuel elements and microspheres of nuclear fuel are classified under heading 28.44."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(I) LÒ PHẢN ỨNG HẠT NHÂN: Thuật ngữ này chỉ toàn bộ máy móc và thiết bị nằm trong khu vực được che chắn bởi tấm bảo vệ sinh học và các bộ phận gắn liền bên ngoài. Lò phản ứng hạt nhân bao gồm: (A) Bộ phận trung tâm (lõi) chứa nhiên liệu, bộ điều tốc (beril, graphit, nước), bộ phận làm mát (khí các bon dioxide, heli, nước), và các thanh điều khiển (bo, catmin, haffini). (B) Cấu trúc cơ khí như nồi, lưới, ống dẫn, van. (C) Các máy đo lường, điều chỉnh và kiểm tra như nguồn neutron, buồng ion hóa, cặp nhiệt điện.",
+        "en": "(I) NUCLEAR REACTORS: This term covers all apparatus and appliances inside the area screened off by the biological shield and integral parts outside it. A nuclear reactor comprises: (A) The core, consisting of fuel, moderator (beryllium, graphite, water), coolant (carbon dioxide, helium, water), and control rods (boron, cadmium, hafnium). (B) The mechanical structure such as the reactor vessel, grid, piping, and valves. (C) Measuring, checking, and automatic-control instruments like neutron sources, ionisation chambers, and thermocouples."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các thành phần của lò phản ứng tiếp tục bao gồm (D) Màn chắn nhiệt và sinh học (bằng thép, bê tông, chì). Các lò phản ứng được phân biệt theo năng lượng neutron, cách phân phối nguyên liệu, mục đích sử dụng, hoặc vật liệu sử dụng. Lò phản ứng dưới mức tới hạn (subcritical) dùng cho nghiên cứu cũng thuộc nhóm này. Các bộ phận của lò phản ứng hạt nhân được phân loại theo Chú giải 2 Phần XVI, bao gồm các thanh điều khiển, nguồn neutron, nồi, lưới chắn và bộ phận điều áp. Tuy nhiên, nhóm này không bao gồm: (a) Các khối graphit (nhóm 38.01 hoặc 68.15), khối berili (nhóm 81.12), hoặc khối gluxin (oxit berili) (nhóm 69.14).",
+        "en": "Reactor components continue with (D) The thermal and biological shields (of steel, concrete, lead). Reactors are distinguished by neutron energy, material distribution, intended use, or materials used. Subcritical reactors for research are also included. Parts of nuclear reactors are classified according to Note 2 to Section XVI, including control rods, neutron sources, the vessel, grid, and pressurisers. However, this heading excludes: (a) Blocks of graphite (heading 38.01 or 68.15), beryllium (heading 81.12), or beryllium oxide (heading 69.14)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các mặt hàng bị loại trừ khỏi các bộ phận của lò phản ứng hạt nhân tiếp tục bao gồm: (b) Ống, ống dẫn bằng kim loại (Phần XV), (c) Máy sản sinh hơi nước (nhóm 84.02), (d) Máy trao đổi nhiệt (nhóm 84.04 hoặc 84.19), (e) Tuabin hơi nước (nhóm 84.06), (f) Bơm các loại (nhóm 84.13 hoặc 84.14), (g) Quạt không khí (nhóm 84.14), (h) Máy khử chất khoáng trong nước (nhóm 84.19 hoặc 84.21), (ij) Dụng cụ nạp hoặc tách nhiên liệu và cần cẩu (nhóm 84.26), (k) Máy trộn cơ khí điều khiển từ xa (nhóm 84.28). (II) MÁY MÓC VÀ THIẾT BỊ DÙNG ĐỂ TÁCH CHẤT ĐỒNG VỊ: Bao gồm máy móc để làm giàu một nguyên tố hóa học, chủ yếu để sản xuất nước nặng hoặc làm giàu uranium U 235. Các máy sản xuất nước nặng bao gồm: (1) máy lọc từng phần, (2) máy lọc từng phần chất khí hydro lỏng, (3) máy dựa trên trao đổi chất đồng vị, (4) pin điện phân.",
+        "en": "Goods excluded from being parts of nuclear reactors continue with: (b) Metal tubes and pipes (Section XV), (c) Steam generating boilers (heading 84.02), (d) Heat exchangers (heading 84.04 or 84.19), (e) Steam turbines (heading 84.06), (f) Pumps (heading 84.13 or 84.14), (g) Blowers (heading 84.14), (h) Apparatus for extracting minerals from water (heading 84.19 or 84.21), (ij) Handling machinery for fuel elements and cranes (heading 84.26), (k) Mechanical remote control manipulators (heading 84.28). (II) MACHINERY AND APPARATUS FOR ISOTOPIC SEPARATION: Covers machinery for enriching a chemical element, mainly for producing heavy water or enriching uranium in U 235. Apparatus for heavy water production includes: (1) fractional distillation apparatus, (2) low-temperature fractional distillation of liquid hydrogen, (3) apparatus based on isotopic exchange, (4) electrolytic cells."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các thiết bị để làm giàu uranium U 235 bao gồm: (1) Máy quay ly tâm chạy bằng khí ga, (2) Các loại máy tách bằng cách khuếch tán khí ga, (3) Các loại máy 'ống gió' (quá trình Becker). Các loại máy sử dụng sóng điện từ (Calutrons) cũng thuộc nhóm này. Các bộ phận của máy móc và thiết bị này cũng được bao gồm. (III) CÁC BỘ PHẬN CHỨA NHIÊN LIỆU (CARTRIDGES) KHÔNG BỊ BỨC XẠ: Bao gồm vật liệu phân hạch (uranium tự nhiên, uranium làm giàu, plutonium) hoặc vật liệu sinh sôi (thorium, uranium nghèo) chứa trong một vỏ bọc kim loại (kẽm, nhôm, magiê, thép không gỉ). Các bộ phận này có nhiều dạng, ví dụ: (1) kim loại hoặc hợp kim dạng thanh hoặc ống được bọc trong vỏ kim loại.",
+        "en": "Apparatus for the enrichment of uranium in U 235 includes: (1) Gas centrifuges, (2) Gaseous diffusion separators, (3) 'Nozzle' apparatus (Becker process). Calutrons for electro-magnetic separation are also classified here. Parts of these machines and apparatus are also covered. (III) FUEL ELEMENTS (CARTRIDGES), NON-IRRADIATED: Consist of fissile material (natural uranium, enriched uranium, plutonium) or fertile material (thorium, depleted uranium) contained in a base metal sheath (zirconium, aluminium, magnesium, stainless steel). These elements are of different types, for example: (1) combustible metals or alloys in the form of bars or tubes sheathed in base metal."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Các dạng bộ phận chứa nhiên liệu tiếp tục bao gồm: (2) Sự phân tán của nhiên liệu trong graphit dạng thanh, tấm hoặc cầu. (3) Dạng lắp ráp của các tấm, ống nhồi hoặc ống đồng tâm chứa nhiên liệu. Các bộ phận phụ đơn lẻ (ví dụ: ống gen chứa nhiên liệu và được niêm phong) được xếp loại là bộ phận của bộ phận chứa nhiên liệu. Nhóm này không bao gồm các vi cầu nhiên liệu hạt nhân được bao bọc và các bộ phận chứa nhiên liệu đã qua sử dụng (bị bức xạ), thuộc nhóm 28.44. Nhóm này cũng loại trừ: (a) Các loại lò dùng để tách nhiên liệu hạt nhân bị bức xạ (nhóm 84.17 hoặc 85.14), (b) Các máy tách nhiên liệu bị bức xạ bằng cách cất phân đoạn (nhóm 84.19), (c) Bộ phận lọc không khí, máy trao đổi ion để tách nguyên tố phóng xạ (nhóm 84.21).",
+        "en": "Types of fuel elements continue with: (2) Dispersions of the fuel in graphite in the form of bars, plates or spheres. (3) Assemblies of sandwiched plates, filled tubes, or concentric tubes. Separately presented sub-elements (e.g., sealed sheaths filled with fuel) are classified as parts of fuel elements. This heading excludes microspheres of nuclear fuel and spent (irradiated) fuel elements, which fall in heading 28.44. The heading also excludes: (a) Furnaces for the separation of irradiated nuclear fuel (heading 84.17 or 85.14), (b) Separators for irradiated fuels operating by fractional distillation (heading 84.19), (c) Air filters and ion-exchange apparatus for separation of radioactive elements (heading 84.21)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8401.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lò phản ứng hạt nhân",
+        "en": "Nuclear reactors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8401.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy và thiết bị để tách chất đồng vị, và bộ phận của chúng",
+        "en": "Machinery and apparatus for isotopic separation, and parts thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8401.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận chứa nhiên liệu (cartridges), không bị bức xạ",
+        "en": "Fuel elements (cartridges), non-irradiated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8401.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các bộ phận của lò phản ứng hạt nhân",
+        "en": "Parts of nuclear reactors"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "heading_id": "07.03",
+  "heading_title": {
+    "vi": "Hành tây, hành, hẹ, tỏi, tỏi tây và các loại rau họ hành, tỏi khác, tươi hoặc ướp lạnh.",
+    "en": "Onions, shallots, garlic, leeks and other alliaceous vegetables, fresh or chilled."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại rau họ hành, tỏi, tươi hoặc ướp lạnh, cụ thể là: (1) Hành tây (gồm cả hành củ để trồng và hành lá) và hành, hẹ. (2) Tỏi. (3) Tỏi tây, hẹ tây và các loại rau họ hành, tỏi khác.",
+    "en": "This heading covers fresh or chilled alliaceous vegetables, namely: (1) Onions (including onion sets and Spring onions) and shallots. (2) Garlic. (3) Leeks, chives and other alliaceous vegetables."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại rau họ hành, tỏi, tươi hoặc ướp lạnh sau:\n(1) Hành tây (gồm cả hành củ để trồng và hành lá) và hành, hẹ.\n(2) Tỏi.\n(3) Tỏi tây, hẹ tây và các loại rau họ hành, tỏi khác.",
+        "en": "This heading covers the following fresh or chilled alliaceous vegetables :\n(1) Onions (including onion sets and Spring onions) and shallots.\n(2) Garlic.\n(3) Leeks, chives and other alliaceous vegetables."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0703.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hành tây và hành, hẹ",
+        "en": "Onions and shallots"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0703.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tỏi",
+        "en": "Garlic"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0703.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tỏi tây và các loại rau họ hành, tỏi khác",
+        "en": "Leeks and other alliaceous vegetables"
+      }
+    }
+  ]
+}

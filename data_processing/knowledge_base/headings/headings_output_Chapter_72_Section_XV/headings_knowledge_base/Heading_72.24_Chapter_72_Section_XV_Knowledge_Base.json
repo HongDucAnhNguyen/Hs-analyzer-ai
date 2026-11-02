@@ -1,0 +1,46 @@
+{
+  "heading_id": "72.24",
+  "heading_title": {
+    "vi": "Thép hợp kim khác ở dạng thỏi đúc hoặc dạng thô khác; các bán thành phẩm bằng thép hợp kim khác",
+    "en": "Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel."
+  },
+  "summary": {
+    "vi": "Nhóm 72.24 bao gồm thép hợp kim khác ở dạng thỏi đúc, các dạng thô khác và bán thành phẩm. Việc phân loại hàng hóa trong nhóm này tuân theo các quy định và Chú giải của nhóm 72.06 (đối với sắt và thép không hợp kim dạng thỏi đúc hoặc dạng thô khác) và nhóm 72.07 (đối với bán thành phẩm bằng sắt hoặc thép không hợp kim), với những điều chỉnh phù hợp. Điều này có nghĩa là các định nghĩa, tiêu chí kỹ thuật và phạm vi sản phẩm cho dạng thỏi, dạng thô và bán thành phẩm được áp dụng tương tự từ các nhóm tương ứng của thép không hợp kim sang thép hợp kim khác thuộc nhóm này.",
+    "en": "Heading 72.24 covers other alloy steel in ingots, other primary forms, and semi-finished products. For the classification of these products, the provisions and Explanatory Notes of heading 72.06 (for ingots and other primary forms) and heading 72.07 (for semi-finished products) are to be applied with necessary modifications. This implies that the definitions, technical criteria, and product scope for these forms are referenced from the corresponding headings for non-alloy steel."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho các nhóm 72.06 và 72.07, với những sửa đổi thích hợp, áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to headings 72.06 and 72.07 apply, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7224.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ở dạng thỏi đúc và dạng thô khác",
+        "en": "Ingots and other primary forms"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7224.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "heading_id": "76.05",
+  "heading_title": {
+    "vi": "Dây nhôm",
+    "en": "Aluminium wire."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm dây nhôm được định nghĩa trong Chú giải 9(c) của Phần XV. Nhóm này không bao gồm: sợi kim loại (nhóm 56.05), dây bện và dây thừng được gia cố bằng dây nhôm (nhóm 56.07), dây bện tao, cáp và các hàng hóa khác của nhóm 76.14, điện cực hàn được bọc phủ (nhóm 83.11), dây điện và cáp điện cách điện (nhóm 85.44), và dây nhạc cụ (nhóm 92.09).",
+    "en": "This heading covers aluminium wire as defined in Note 9(c) to Section XV. This heading does not cover: metallised yarn (heading 56.05), twine and cordage reinforced with aluminium wire (heading 56.07), stranded wire, cables and other goods of heading 76.14, coated welding electrodes (heading 83.11), insulated electric wire and cable (heading 85.44), and musical instrument strings (heading 92.09)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Dây được định nghĩa trong Chú giải 9 (c) Phần XV.",
+        "en": "Wire is, defined in Note 9 (c) to Section XV."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Sợi kim loại (nhóm 56.05)\n(b) Dây bện và dây thừng được gia cố với dây nhôm (nhóm 56.07)\n(c) Dây bện tao, cáp và các hàng hoá khác của nhóm 76.14\n(d) Các điện cực hàn đã được bọc phủ (nhóm 83.11)\n(e) Dây điện và cáp điện cách điện (kể cả loại đã tráng men cách điện hoặc mạ lớp cách điện) (nhóm 85.44)\n(f) Dây nhạc cụ (nhóm 92.09).",
+        "en": "The heading does not cover:\n(a) Metallised yam (heading 56.05).\n(b) Twine and cordage reinforced with aluminium wire (heading 56.07).\n(c) Stranded wire, cables and other goods of heading 76.14.\n(d) Coated welding electrodes (heading 83.11).\n(e) Insulated electric wire and cable (including enamelled or anodised wire) (heading 85.44).\n(f) Musical instrument strings (heading 92.09)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng nhôm, không hợp kim:",
+        "en": "Of aluminium, not alloyed :"
+      },
+      "subheading_id": "7605.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Kích thước mặt cắt ngang lớn nhất trên 7mm",
+        "en": "- Of which the maximum cross-sectional dimension exceeds 7 mm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng nhôm, không hợp kim:",
+        "en": "Of aluminium, not alloyed :"
+      },
+      "subheading_id": "7605.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng hợp kim nhôm:",
+        "en": "Of aluminium alloys :"
+      },
+      "subheading_id": "7605.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Kích thước mặt cắt ngang lớn nhất trên 7mm",
+        "en": "- Of which the maximum cross-sectional dimension exceeds 7 mm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng hợp kim nhôm:",
+        "en": "Of aluminium alloys :"
+      },
+      "subheading_id": "7605.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

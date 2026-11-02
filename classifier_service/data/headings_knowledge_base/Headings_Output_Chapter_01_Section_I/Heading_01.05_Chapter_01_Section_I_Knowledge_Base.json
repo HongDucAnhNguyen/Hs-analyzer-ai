@@ -1,0 +1,113 @@
+{
+  "heading_id": "01.05",
+  "heading_title": {
+    "vi": "Gia cầm sống, gồm các loại gà thuộc loài Gallus domesticus, vịt, ngan, ngỗng, gà tây và gà lôi (+).",
+    "en": "Live poultry , that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này chỉ bao gồm các loại chim nuôi còn sống được chỉ rõ trong nhóm, bao gồm gà thuộc loài Gallus domesticus (gà giò, gà trống thiến), vịt, ngan, ngỗng, gà tây và gà lôi. Nhóm này không bao gồm các loại chim sống khác như gà gô, gà lôi, chim bồ câu, vịt trời, ngỗng trời (nhóm 01.06). Chú giải phân nhóm 0105.11 đến 0105.15 quy định giới hạn trọng lượng được mô tả liên quan đến trọng lượng của mỗi con chim.",
+    "en": "This heading covers only live domestic birds of the kinds specified in the heading, including fowls of the species Gallus domesticus (chickens, capons), ducks, geese, turkeys, and guinea fowls. It excludes other live birds (e.g., partridges, pheasants, pigeons, wild ducks, wild geese) which are classified under heading 01.06. The Subheading Explanatory Notes to subheadings 0105.11 to 0105.15 specify that the weight limit relates to the weight of each bird."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này chỉ bao gồm các loại chim nuôi còn sống được chỉ rõ trong nhóm. Gà thuộc các loài Gallus domesticus gồm gà giò và gà trống thiến. Nhóm này không bao gồm các loại chim sống khác (vd, gà gô, gà lôi, chim bồ câu, vịt trời, ngỗng trời) (nhóm 01.06).",
+        "en": "This heading covers only live domestic birds of the kinds specified in the heading. Fowls of the species Gallus domesticuss include chickens and capons. Other live birds (e.g., partridges, pheasants, pigeons, wild ducks, wild geese) are excluded (heading 01.06)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 0105.11, 0105.12, 0105.13, 0105.14, và 0105.15\nTheo mục đích của các phân nhóm 0105.11, 0105.12, 0105.13, 0105.14 và 0105.15, giới hạn trọng lượng được mô tả liên quan đến trọng lượng của mỗi con chim.",
+        "en": "Subheading Explanatory Note.\nSubheadings 0105.11, 0105.12, 0105.13, 0105.14 and 0105.15\nFor the purposes of subheadings 0105.11, 0105.12, 0105.13, 0105.14 and 0105.15, the specified weight limit relates to the weight of each bird."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại trọng lượng không quá 185 g:",
+        "en": "- Weighing not more than 185 g :"
+      },
+      "subheading_id": "0105.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Gà thuộc loài Gallus domesticus",
+        "en": "- - Fowls of the species Gallus domesticus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại trọng lượng không quá 185 g:",
+        "en": "- Weighing not more than 185 g :"
+      },
+      "subheading_id": "0105.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Gà tây",
+        "en": "- - Turkeys"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại trọng lượng không quá 185 g:",
+        "en": "- Weighing not more than 185 g :"
+      },
+      "subheading_id": "0105.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Vịt, ngan",
+        "en": "- - Ducks"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại trọng lượng không quá 185 g:",
+        "en": "- Weighing not more than 185 g :"
+      },
+      "subheading_id": "0105.14",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Ngỗng",
+        "en": "- - Geese"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại trọng lượng không quá 185 g:",
+        "en": "- Weighing not more than 185 g :"
+      },
+      "subheading_id": "0105.15",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Gà lôi",
+        "en": "- - Guinea fowls"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "0105.94",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Gà thuộc loài Gallus domesticus",
+        "en": "- - Fowls of the species Gallus domesticus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "0105.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

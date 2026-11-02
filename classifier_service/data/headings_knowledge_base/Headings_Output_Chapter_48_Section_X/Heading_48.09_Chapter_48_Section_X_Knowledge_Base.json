@@ -1,0 +1,60 @@
+{
+  "heading_id": "48.09",
+  "heading_title": {
+    "vi": "Giấy than, giấy tự nhân bản và các loại giấy sao chép hoặc giấy chuyển khác (kể cả giấy đã tráng hoặc thấm tẩm dùng cho giấy nến nhân bản hoặc các tấm in offset), đã hoặc chưa in, dạng cuộn hoặc tờ.",
+    "en": "Carbon paper, self-copy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại giấy được tráng, thấm tẩm hoặc xử lý bằng các cách khác để sao chép hoặc chuyển hình, ở dạng cuộn hoặc tờ. Các loại giấy này phải tuân thủ các điều kiện về kích thước quy định tại Chú giải 8 của Chương 48. Nếu không đáp ứng, chúng sẽ được phân loại vào nhóm 48.16. Nhóm này không bao gồm: (a) Lá phôi dập (nhóm 32.12); (b) Giấy phủ lớp chất nhạy (thường thuộc nhóm 37.03).",
+    "en": "This heading covers papers coated, impregnated or otherwise obtained for copying or transfer purposes, in rolls or sheets. These papers must meet the size conditions specified in Note 8 to Chapter 48. If they do not, they fall in heading 48.16. The heading excludes: (a) Stamping foils (heading 32.12); (b) Sensitised paper (generally heading 37.03)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm giấy được tráng, thấm tẩm hoặc thu được bằng cách khác, ở dạng cuộn hoặc tờ.",
+        "en": "This heading covers papers coated, impregnated or otherwise obtained, in rolls or sheets."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Về các kích thước của sản phẩm của nhóm này, xem Chú giải 8 của Chương này. Các loại giấy này khi không đáp ứng các điều kiện này, thì được phân loại vào nhóm 48.16; về mô tả chi tiết của các loại giấy này xem Chú giải chi tiết của nhóm 48.16.",
+        "en": "For the dimensions of the products of this heading, see Note 8 to this Chapter. These papers when not meeting these conditions, fall in heading 48.16; for detailed description of these papers see the Explanatory Note to heading 48.16."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Lá phôi dập (nhóm 32.12)\n(b) Giấy phủ lớp chất nhạy (thường thuộc nhóm 37.03).",
+        "en": "The heading excludes:\n(a) Stamping foils (heading 32.12).\n(b) Sensitised paper (generally heading 37.03)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4809.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Giấy tự nhân bản",
+        "en": "Self-copy paper"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4809.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

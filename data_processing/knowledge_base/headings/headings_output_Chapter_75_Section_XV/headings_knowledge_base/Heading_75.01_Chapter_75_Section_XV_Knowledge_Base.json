@@ -1,0 +1,46 @@
+{
+  "heading_id": "75.01",
+  "heading_title": {
+    "vi": "Sten niken, oxit niken thiêu kết và các sản phẩm trung gian khác của quá trình luyện niken.",
+    "en": "Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy."
+  },
+  "summary": {
+    "vi": "Nhóm 75.01 bao gồm các sản phẩm trung gian của quá trình luyện niken, cụ thể là sten niken, oxit niken thiêu kết, và các sản phẩm khác. Các sản phẩm này thu được từ việc xử lý quặng niken. Nội dung tổng quát của nhóm làm rõ rằng các phương pháp xử lý bề mặt kim loại nói chung không làm thay đổi phân loại hàng hóa, theo như chú giải của Chương 72, tuy nhiên có ngoại lệ đối với bản cực anod mạ điện thuộc nhóm 75.08. Việc phân loại hàng hóa phức hợp được hướng dẫn bởi chú giải tổng quát của Phần XV. Các sản phẩm cụ thể thuộc nhóm này bao gồm sten niken (dạng khối, hạt hoặc bột), oxit niken không tinh khiết, fero-niken không tinh khiết chứa hàm lượng lưu huỳnh cao, và xỉ niken. Fero-niken đã qua tinh luyện thì được phân loại ở nhóm 72.02.",
+    "en": "Heading 75.01 covers intermediate products of nickel metallurgy, specifically nickel mattes, nickel oxide sinters, and other related products. These are obtained from processing nickel ores. The general notes clarify that surface treatments on metals generally do not alter their classification, as per the explanatory notes of Chapter 72, with an exception for electroplating anodes of heading 75.08. The classification of composite articles is guided by the General Explanatory Note to Section XV. Specific products under this heading include nickel mattes (in blocks, granules, or powder), impure nickel oxides, impure ferro-nickel with a high sulphur content, and nickel speiss. Refined ferro-nickel is classified under heading 72.02."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm hai loại sản phẩm chính:\n(1) Sten Niken: Là sản phẩm thu được từ quá trình xử lý quặng niken, có thành phần là niken-sắt sunphua, niken-sắt-đồng sunphua, niken sunphua hoặc niken-đồng sunphua. Chúng thường ở dạng khối đúc, tấm đúc, hạt hoặc bột và được dùng để sản xuất niken chưa gia công.\n(2) Các sản phẩm trung gian khác của quá trình luyện niken, bao gồm:\n(i) Oxit niken không tinh khiết: ví dụ oxit niken thiêu kết, oxit niken dạng bột ('oxit niken xanh'), được sử dụng trong sản xuất thép hợp kim.\n(ii) Fero-niken không tinh khiết: có hàm lượng lưu huỳnh từ 0,5% trở lên, phospho và các tạp chất khác, không thể sử dụng trực tiếp trong công nghiệp thép. Fero-niken đã tinh luyện được phân loại ở nhóm 72.02 theo Chú giải 1(c) Chương 72.\n(iii) Xỉ niken (Nickel speiss): là hỗn hợp asenua dạng cục.",
+        "en": "This heading covers two main types of products:\n(1) Nickel mattes: These are obtained from the processing of nickel ores and consist of nickel-iron sulphides, nickel-iron-copper sulphides, nickel sulphides or nickel-copper sulphides. They are usually in the form of cast blocks, slabs, granules or powders and are used in the production of unwrought nickel.\n(2) The other intermediate products of nickel metallurgy, which include:\n(i) Impure nickel oxides: e.g., nickel oxide sinters, nickel oxide in powder form ('green nickel oxide'), used in the manufacture of alloy steels.\n(ii) Impure ferro-nickel: because of its high content of sulphur (0.5 % or more), phosphorus and other impurities, it cannot be used as an alloying product without prior refining. Refined ferro-nickel is classified as a ferro-alloy in heading 72.02 subject to the provisions of Note 1 (c) to Chapter 72.\n(iii) Nickel speiss: a lumpy mixture of arsenides."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7501.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sten niken",
+        "en": "Nickel mattes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7501.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Oxít niken thiêu kết và các sản phẩm trung gian khác của quá trình luyện niken",
+        "en": "Nickel oxide sinters and other intermediate products of nickel metallurgy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "heading_id": "85.19",
+  "heading_title": {
+    "vi": "Thiết bị ghi hoặc tái tạo âm thanh (+).",
+    "en": "Sound recording or reproducing apparatus (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 85.19 bao gồm các thiết bị ghi âm, tái tạo âm thanh, hoặc cả hai chức năng. Các thiết bị này hoạt động bằng cách ghi hoặc đọc dữ liệu âm thanh từ bộ nhớ trong hoặc các phương tiện lưu trữ ngoài như băng từ, đĩa quang, hoặc phương tiện bán dẫn thuộc nhóm 85.23. Nhóm này bao gồm nhiều loại thiết bị đa dạng, từ máy hát tự động (juke box) hoạt động bằng tiền xu, đầu quay đĩa, máy trả lời điện thoại không tích hợp, cho đến các thiết bị hiện đại sử dụng phương tiện từ tính (máy cát sét), quang học (máy CD), hoặc bán dẫn (máy MP3). Ngoài ra, nhóm còn bao gồm các máy quay đĩa (record player) có bộ khuếch đại và các thiết bị ghi hoặc tái tạo âm thanh dùng trong điện ảnh. Các bộ phận và phụ kiện của các thiết bị này được phân loại riêng trong nhóm 85.22. Nhóm này loại trừ các máy ép đĩa (nhóm 84.77), bộ điện thoại có tích hợp máy trả lời (nhóm 85.17), micro và loa rời (nhóm 85.18), thiết bị video (nhóm 85.21), và các thiết bị âm thanh kết hợp với radio (nhóm 85.27) hoặc tivi (nhóm 85.28).",
+    "en": "Heading 85.19 covers apparatus for recording sound, reproducing sound, or both. These devices operate by recording or reading audio data from internal storage or external media such as magnetic tapes, optical discs, or semiconductor media of heading 85.23. The heading includes a wide variety of apparatus, from coin-operated juke boxes, turntables (record-decks), and non-integrated telephone answering machines, to modern devices using magnetic (cassette players), optical (CD players), or semiconductor media (MP3 players). Furthermore, it also includes record players with amplifiers and cinematographic sound recording or reproducing apparatus. Parts and accessories for these devices are classified separately in heading 85.22. This heading excludes disc presses (heading 84.77), telephone sets with integrated answering machines (heading 85.17), separate microphones and loudspeakers (heading 85.18), video apparatus (heading 85.21), and sound apparatus combined with radios (heading 85.27) or televisions (heading 85.28)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các thiết bị ghi âm, tái tạo âm thanh và các thiết bị có cả hai chức năng. Âm thanh được ghi hoặc tái tạo từ một thiết bị lưu trữ bên trong hoặc phương tiện lưu trữ ngoài (ví dụ, băng từ, phương tiện lưu trữ quang, phương tiện lưu trữ bán dẫn hoặc các phương tiện lưu trữ khác thuộc nhóm 85.23). Thiết bị ghi âm chuyển đổi sóng âm thanh hoặc các file dữ liệu âm thanh thành dữ liệu số. Các thiết bị ghi âm theo mã kỹ thuật số thường cần một phương tiện để biến đổi bản ghi âm từ dạng kỹ thuật số sang dạng tín hiệu tương tự để có thể tái tạo âm thanh.",
+        "en": "This heading covers apparatus for recording sound, reproducing sound, and apparatus that can do both. Sound is recorded onto or reproduced from an internal storage device or external media (e.g., magnetic tape, optical media, semiconductor media or other media of heading 85.23). Sound recording apparatus modify a recording medium by receiving sound-waves or recording data sound files. Devices which record sound as digital code generally require a means for converting the recording from digital code to an analogue signal to be able to reproduce sound."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại thiết bị thuộc nhóm này bao gồm:\n(I) THIẾT BỊ HOẠT ĐỘNG BẰNG TIỀN XU, TIỀN GIẤY, THẺ NGÂN HÀNG, XÈNG (TOKEN) HOẶC BẰNG CÁC PHƯƠNG TIỆN THANH TOÁN KHÁC: Thường được gọi là 'juke box- máy hát tự động'.\n(II) ĐẦU QUAY ĐĨA (RECORD-DECKS): Thiết bị làm quay đĩa, có thể có hoặc không có đầu đọc âm thanh, nhưng không bao gồm thiết bị âm học hoặc phương tiện khuếch đại.\n(III) MÁY TRẢ LỜI ĐIỆN THOẠI: Thiết bị được thiết kế để hoạt động cùng với một bộ điện thoại nhưng không phải là bộ phận tích hợp.\n(IV) CÁC THIẾT BỊ KHÁC SỬ DỤNG PHƯƠNG TIỆN TỪ TÍNH, QUANG HỌC HOẶC BÁN DẪN: Các thiết bị này có thể xách tay và có thể được trang bị loa, tai nghe và bộ khuếch đại.\n(A) Thiết bị sử dụng phương tiện từ tính: Máy cát sét, máy ghi âm băng.\n(B) Thiết bị sử dụng phương tiện quang học: Máy CD, máy quay đĩa mini, và thiết bị sử dụng đĩa quang từ.\n(C) Thiết bị sử dụng phương tiện bán dẫn: Sử dụng chất bán dẫn không xóa để ghi âm dưới dạng mã kỹ thuật số.",
+        "en": "Types of apparatus in this heading include:\n(I) APPARATUS OPERATED BY COINS, BANKNOTES, BANK CARDS, TOKENS OR BY OTHER MEANS OF PAYMENT: Commonly referred to as 'juke boxes'.\n(II) TURNTABLES (RECORD-DECKS): Apparatus that rotate discs, may or may not incorporate a sound-head, but do not include an acoustic device or electrical amplification.\n(III) TELEPHONE ANSWERING MACHINES: Apparatus designed to operate in conjunction with a telephone set but not forming an integral part of it.\n(IV) OTHER APPARATUS USING MAGNETIC, OPTICAL OR SEMICONDUCTOR MEDIA: These may be portable and may be equipped with loudspeakers, earphones, and an amplifier.\n(A) Apparatus using magnetic media: Cassette-players, tape recorders.\n(B) Apparatus using optical media: Compact disc players, minidisc players, and apparatus using magneto-optical discs.\n(C) Apparatus using semiconductor media: Uses solid-state non-volatile media to record sound as digital code."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Tiếp tục phân loại các thiết bị:\n(C) Thiết bị sử dụng phương tiện bán dẫn (tiếp): Ví dụ bao gồm các máy phát âm thanh sử dụng bộ nhớ chớp (flash memory) như máy MP3.\n(D) Thiết bị sử dụng sự kết hợp bất kỳ phương tiện từ tính, quang học hoặc bán dẫn.\n(V) CÁC THIẾT BỊ GHI VÀ TÁI TẠO ÂM THANH KHÁC:\n(1) Máy hát/máy quay đĩa (Record player): Tạo ra âm thanh từ đĩa có rãnh bằng bộ khuếch đại và loa điện.\n(2) Thiết bị ghi âm phim chiếu bóng: Ghi âm bằng phương pháp quang điện lên phim.\n(3) Thiết bị tái tạo âm thanh quay phim: Trang bị bộ đọc với đầu đọc âm quang điện và thiết bị ghép điện tích (CCD).\n(4) Thiết bị ghi âm lại, cho quay phim: Dùng để ghi lại các bản ghi âm thanh đã được ghi bằng các cách khác.\nBỘ PHẬN VÀ PHỤ KIỆN: Theo quy tắc chung của Phần XVI, các bộ phận và phụ kiện của các thiết bị thuộc nhóm này được phân loại ở nhóm 85.22.",
+        "en": "Continuation of apparatus classification:\n(C) Apparatus using semiconductor media (cont.): Examples include flash memory audio players such as MP3 players.\n(D) Apparatus using any combination of magnetic, optical or semiconductor media.\n(V) OTHER SOUND RECORDING OR SOUND REPRODUCING APPARATUS:\n(1) Record players: Produce sound from grooved discs by electric amplifiers and loudspeakers.\n(2) Cinematographic sound recording apparatus: Record sound on film by photoelectrical methods.\n(3) Cinematographic sound reproducers: Equipped with a reader incorporating a photoelectric sound-head and a charge-coupled device (CCD).\n(4) Re-recording apparatus, for cinematography: Used for photoelectric or digital rerecording of sound tracks.\nPARTS AND ACCESSORIES: Subject to the general provisions of Section XVI, parts and accessories of the apparatus of this heading are classified in heading 85.22."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Máy đúc ép hoặc phun để sản xuất đĩa ghi âm quang học (nhóm 84.77).\n(b) Máy trả lời điện thoại là bộ phận tích hợp trong bộ điện thoại (nhóm 85.17).\n(c) Micro, loa, bộ khuếch đại âm tần xuất trình riêng rẽ (nhóm 85.18).\n(d) Thiết bị ghi hoặc tái tạo hình ảnh (nhóm 85.21).\n(e) Thiết bị ghi và tái tạo âm thanh kết hợp với thiết bị thu radio (nhóm 85.27).\n(f) Thiết bị ghi và tái tạo âm thanh kết hợp với bộ thu hình (nhóm 85.28).\n(g) Máy quay phim và máy chiếu kết hợp với thiết bị ghi hoặc tái tạo âm thanh (nhóm 90.07).\nChú giải Phân nhóm 8519.81: Phân nhóm này bao gồm các thiết bị sử dụng một hoặc nhiều phương tiện từ tính, quang học hoặc bán dẫn.",
+        "en": "The heading excludes:\n(a) Presses or injection moulding machinery for replicating recorded optical discs (heading 84.77).\n(b) Telephone answering machines forming an integral part of a telephone set (heading 85.17).\n(c) Separately presented microphones, loudspeakers, audio-frequency electric amplifiers (heading 85.18).\n(d) Video recording or reproducing apparatus (heading 85.21).\n(e) Sound recording or reproducing apparatus combined with a radio receiver (heading 85.27).\n(f) Sound recording or reproducing apparatus combined with television receivers (heading 85.28).\n(g) Cinematographic cameras and projectors combined with sound recording or reproducing apparatus (heading 90.07).\nSubheading Explanatory Note for 8519.81: This subheading covers apparatus using one or more of the following media: magnetic, optical, or semiconductor."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8519.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị hoạt động bằng tiền xu, tiền giấy, thẻ ngân hàng, xèng (tokens) hoặc bằng phương tiện thanh toán khác",
+        "en": "Apparatus operated by coins, banknotes, bank cards, tokens or by other means of payment"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8519.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đầu quay đĩa (có thể có bộ phận lưu trữ) nhưng không có bộ phận khuếch đại và không có bộ phận phát âm thanh (loa)",
+        "en": "Turntables (record-decks)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị khác:",
+        "en": "- Other apparatus:"
+      },
+      "subheading_id": "8519.81",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị truyền thông sử dụng công nghệ từ tính, quang học hoặc bán dẫn",
+        "en": "Using magnetic, optical or semiconductor media"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị khác:",
+        "en": "- Other apparatus:"
+      },
+      "subheading_id": "8519.89",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

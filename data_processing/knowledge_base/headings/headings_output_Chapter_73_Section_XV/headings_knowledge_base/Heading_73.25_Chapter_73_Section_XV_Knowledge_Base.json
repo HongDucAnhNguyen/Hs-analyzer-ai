@@ -1,0 +1,58 @@
+{
+  "heading_id": "73.25",
+  "heading_title": {
+    "vi": "Các sản phẩm đúc khác bằng sắt hoặc thép.",
+    "en": "Other cast articles of iron or steel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các sản phẩm đúc bằng sắt hoặc thép không được quy định cụ thể ở nơi khác trong Danh mục. Các sản phẩm chính thuộc nhóm này bao gồm cửa sập kiểm tra, nắp cống cho hệ thống nước thải, cột vòi nước, cột hòm thư, máng xối, bi cho máy nghiền, và nồi nấu kim loại trong luyện kim. Nhóm cũng bao gồm các đối trọng và các sản phẩm trang trí giả như hoa, lá cây, trừ khi chúng thuộc nhóm 83.06. Nhóm này loại trừ các vật đúc đã là bộ phận có thể nhận dạng của máy móc hoặc thiết bị cơ khí. Các sản phẩm được tạo ra bằng các phương pháp khác ngoài đúc, ví dụ như thiêu kết, được phân loại vào nhóm 73.26. Các mặt hàng trang trí như tượng, bình, lọ và cây thánh giá cũng bị loại trừ và thuộc nhóm 83.06.",
+    "en": "This heading covers all cast articles of iron or steel not specifically provided for elsewhere in the Nomenclature. Key products under this heading include inspection traps, drain covers for sewage systems, hydrant pillars, pillar-boxes, gutters, grinding balls for mills, and metallurgical pots. It also includes counterweights and imitation decorative items like flowers and foliage, unless they fall under heading 83.06. The heading excludes castings that are recognizable parts of machinery or mechanical appliances. Articles produced by methods other than casting, such as sintering, are classified under heading 73.26. Decorative items like statues, vases, urns, and crosses are also excluded and belong to heading 83.06."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các sản phẩm đúc bằng sắt hoặc thép, chưa được định rõ hay bao gồm ở nơi khác. Các mặt hàng cụ thể gồm: cửa sập kiểm tra, sàng, rây, nắp cống và các vật đúc tương tự cho các hệ thống nước, nước thải; cột vòi nước chảy và nắp đậy; vòi nước uống; cột hòm thư, cột vòi nước phòng hoả, hàng cọc ngăn thấp (cọc neo, cọc ngăn); ống máng và vòi ống máng; hệ thống ống ở hầm mỏ; bi để sử dụng trong các máy nghiền và máy xay; các loại gầu, nồi nấu kim loại trong luyện kim chưa được gắn với thiết bị cơ khí hoặc thiết bị nhiệt; các đối trọng; hoa, bộ lá cây giả (trừ các mặt hàng thuộc nhóm 83.06); chai thủy ngân. Nhóm này không bao gồm: (a) Các vật đúc là những sản phẩm rơi vào các nhóm khác của Danh mục (ví dụ các bộ phận máy móc có thể nhận dạng hoặc các đồ dùng cơ khí) hoặc các vật đúc chưa hoàn thiện nhưng có đặc tính cần thiết của những sản phẩm đã hoàn thiện; (b) Các sản phẩm thu được bằng các phương pháp trừ đúc (ví dụ như thiêu kết) (nhóm 73.26); (c) Tượng, bình, lọ, bình đựng tro hoả táng và các cây thánh giá thuộc kiểu dùng để trang trí (nhóm 83.06).",
+        "en": "This heading covers all cast articles of iron or steel, not elsewhere specified or included. The heading includes, inspection traps, gratings, drain covers and similar castings for sewage, water, etc. systems; hydrant pillars and covers; drinking fountains; pillar-boxes, fire alarm pillars, bollards, etc.; gutters and gutter spouts; mine tubbing; balls for use in grinding and crushing mills; metallurgical pots and crucibles not fitted with mechanical or thermal equipment; counterweights; imitation flowers, foliage, etc. (except articles of heading 83.06); mercury bottles. This heading does not cover: (a) Castings which are products falling in other headings of the Nomenclature (e.g., recognisable parts of machinery or mechanical appliances) or unfinished castings which require further working but have the essential character of such finished products; (b) Articles of a kind described above obtained by processes other than casting (e.g., sintering) (heading 73.26); (c) Statues, vases, urns and crosses of the type used for decoration (heading 83.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7325.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng gang đúc không dẻo",
+        "en": "Of non-malleable cast iron"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác",
+        "en": "Other"
+      },
+      "subheading_id": "7325.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bi nghiền và các hàng hoá tương tự dùng cho máy nghiền",
+        "en": "Grinding balls and similar articles for mills"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác",
+        "en": "Other"
+      },
+      "subheading_id": "7325.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác.",
+        "en": "Other."
+      }
+    }
+  ]
+}

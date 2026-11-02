@@ -1,0 +1,240 @@
+{
+  "heading_id": "08.02",
+  "heading_title": {
+    "vi": "Quả hạch (nut) khác, tươi hoặc khô, đã hoặc chưa bóc vỏ hoặc lột vỏ.",
+    "en": "Other nuts, fresh or dried, whether or not shelled or peeled."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại quả hạch khác ngoài dừa, quả hạch Brazil và hạt điều. Các loại chính bao gồm hạnh nhân, quả phỉ, quả óc chó, hạt dẻ (Castanea spp.), hồ trăn, hạt mắc-ca, hồ đào pecan và hạt thông. Nhóm này cũng bao gồm quả cau, hạt cola và củ mã thầy nước (Trapa natans). Nhóm này không bao gồm: (a) Củ mã thầy Trung Quốc (nhóm 07.14), (b) Vỏ quả óc chó hoặc hạnh nhân rỗng (nhóm 14.04), (c) Lạc (nhóm 12.02) và các sản phẩm từ lạc (nhóm 20.08), và (d) Hạt dẻ ngựa (nhóm 23.08).",
+    "en": "This heading covers other nuts besides coconuts, Brazil nuts and cashew nuts. The principal nuts are almonds, hazelnuts or filberts, walnuts, chestnuts (Castanea spp.), pistachios, macadamia nuts, pecans and pine nuts. It also covers areca (betel) nuts, cola (kola) nuts, and the fruit of the species Trapa natans (water chestnut). This heading does not include: (a) Chinese water chestnuts (heading 07.14), (b) Empty walnut or almond hulls (heading 14.04), (c) Ground-nuts (heading 12.02), roasted ground-nuts or peanut butter (heading 20.08), and (d) Horse chestnuts (heading 23.08)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Những quả hạch (nut) chủ yếu thuộc nhóm này là hạnh nhân (ngọt hoặc đắng), quả phỉ hoặc hạt phỉ, quả óc chó, hạt dẻ (Castanea spp.), hồ trăn, quả macadamia, quả hồ đào pecan và hạt thông.",
+        "en": "The principal nuts of this heading are almonds (sweet or bitter), hazelnuts or filberts, walnuts, chestnuts (Castanea spp.), pistachios, macadamia nuts, peancs and pine nuts."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm cả quả cau (betel) chủ yếu được sử dụng để nhai trầu, hạt cola (cây côla) được dùng để nhai và làm nguyên liệu để sản xuất đồ uống và cả loại quả ăn được, giống quả hạch (nutlike), có vỏ gai thuộc loài Trapa natans, đôi khi được gọi là củ mã thầy.",
+        "en": "This heading also covers areca (betel) nuts used chiefly as a masticatory, cola (kola) nuts used both as a masticatory and as a base in the manufacture of beverages, and an edible, nutlike, spiny-angled fruit of the species Trapa natans, sometimes referred to as a water chestnut."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Loại củ ăn được thuộc loài Elcocharis dulcis hoặc Elcocharis tuberosa, thường gọi là củ mã thầy Trung Quốc (nhóm 07.14).\n(b) Vỏ quả óc chó (bồ đào) hoặc hạnh nhân rỗng (nhóm 14.04).\n(c) Lạc (nhóm 12.02), lạc rang hoặc bơ lạc (nhóm 20.08).\n(d) Hạt dẻ ngựa (Aesculus hippocastanum) (nhóm 23.08).",
+        "en": "The heading does not include :\n(a) The edible tuber of the species Elcocharis dulcis or Elcocharis tuberosa, commonly known as the Chinese water chestnut (heading 07.14).\n(b) Empty walnut or almond hulls (heading 14.04).\n(e) Ground-nuts (heading 12.02), roasted ground-nuts or peanut butter (heading 20.08).\n(d) Horse chestnuts (Aesculus hippocastanum) (heading 23.08)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả hạnh nhân:",
+        "en": "- Almonds :"
+      },
+      "subheading_id": "0802.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa bóc vỏ",
+        "en": "- - In shell"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả hạnh nhân:",
+        "en": "- Almonds :"
+      },
+      "subheading_id": "0802.12",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã bóc vỏ",
+        "en": "- - Shelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả phỉ hay hạt phỉ (Corylus spp.):",
+        "en": "- Hazelnuts or filberts (Corylus spp.):"
+      },
+      "subheading_id": "0802.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa bóc vỏ",
+        "en": "- - In shell"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả phỉ hay hạt phỉ (Corylus spp.):",
+        "en": "- Hazelnuts or filberts (Corylus spp.):"
+      },
+      "subheading_id": "0802.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã bóc vỏ",
+        "en": "- - Shelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả óc chó:",
+        "en": "- Walnuts :"
+      },
+      "subheading_id": "0802.31",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa bóc vỏ",
+        "en": "- - In shell"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả óc chó:",
+        "en": "- Walnuts :"
+      },
+      "subheading_id": "0802.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã bóc vỏ",
+        "en": "- - Shelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Hạt dẻ (Castanea spp.):",
+        "en": "- Chestnuts (Castanea spp.):"
+      },
+      "subheading_id": "0802.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa bóc vỏ",
+        "en": "- - In shell"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Hạt dẻ (Castanea spp.):",
+        "en": "- Chestnuts (Castanea spp.):"
+      },
+      "subheading_id": "0802.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã bóc vỏ",
+        "en": "- - Shelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả hồ trăn (Hạt dẻ cười):",
+        "en": "- Pistachios:"
+      },
+      "subheading_id": "0802.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa bóc vỏ",
+        "en": "- - In shell"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quả hồ trăn (Hạt dẻ cười):",
+        "en": "- Pistachios:"
+      },
+      "subheading_id": "0802.52",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã bóc vỏ",
+        "en": "- - Shelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Hạt mắc-ca (Macadamia nuts):",
+        "en": "- Macadamia nuts:"
+      },
+      "subheading_id": "0802.61",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa bóc vỏ",
+        "en": "- - In shell"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Hạt mắc-ca (Macadamia nuts):",
+        "en": "- Macadamia nuts:"
+      },
+      "subheading_id": "0802.62",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã bóc vỏ",
+        "en": "- - Shelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0802.70",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Hạt cây côla (Cola spp.)",
+        "en": "- Kola nuts (Cola spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0802.80",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Quả cau",
+        "en": "- Areca nuts"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "0802.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Hạt thông, chưa bóc vỏ",
+        "en": "- - Pine nuts, in shell"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "0802.92",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Hạt thông, đã bóc vỏ",
+        "en": "- - Pine nuts, shelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "0802.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

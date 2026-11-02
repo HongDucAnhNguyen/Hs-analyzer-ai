@@ -1,0 +1,91 @@
+{
+  "heading_id": "25.29",
+  "heading_title": {
+    "vi": "Tràng thạch (đá bồ tát); lơxit (leucite), nephelin và nephelin xienit; khoáng fluorite.",
+    "en": "Feldspar; leucite; nepheline and nepheline syenite; fluorspar."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các silicat phức hợp của nhôm và kim loại kiềm hoặc kiềm thổ như tràng thạch (đá bồ tát), lơxit, nephelin và nephelin xienit, được sử dụng làm chất gây chảy trong ngành công nghiệp gốm. Nhóm này cũng bao gồm khoáng fluorit (florua canxi tự nhiên), được sử dụng trong sản xuất axit hydrofluoric và làm chất gây chảy cho mục đích luyện kim. Nhóm này không bao gồm cát chứa feldspathic (nhóm 25.05) và tràng thạch hoặc fluorit ở dạng đá quý hoặc bán quý (Chương 71).",
+    "en": "This heading covers complex silicates of aluminium and alkali or alkaline-earth metals such as feldspar, leucite, nepheline, and nepheline syenite, used as fluxes in the ceramic industry. It also includes fluorspar (natural calcium fluoride), used in the manufacture of hydrofluoric acid and as a flux for metallurgical purposes. The heading excludes feldspathic sands (heading 25.05) and feldspar or fluorspar in the form of precious or semi-precious stones (Chapter 71)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Tràng thạch (đá bồ tát), Lơxit, nephelin và nephelin xienit bao gồm các silicate phức hợp của nhôm và kim loại kiềm hay kim loại kiềm thổ. Chúng được dùng làm các chất gây chảy trong ngành công nghiệp gốm. Nhóm này không bao gồm cát chứa feldspathic (nhóm 25.05).",
+        "en": "Feldspar, leucite, nepheline and nepheline syenite are composed of complex silicates of aluminium and alkali or alkaline-earth metals. They are used as fluxes in the ceramic industry. The heading excludes feldspathic sands (heading 25.05)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Khoáng Flourit (hoặc florite) là dạng florua canxi tự nhiên, tồn tại ở dạng vỉa khối rắn, có nhiều màu sắc khác nhau hoặc ở dạng tinh thể kết tụ với màu sắc khác nhau. Nó được dùng chủ yếu trong sản xuất axit hydrofluoric và làm chất gây chảy cho luyện kim.",
+        "en": "Fluorspar (or fluorite) is natural calcium fluoride occurring as solid masses streaked with varied colours or in agglomerated crystals of various colours; it is principally used in the manufacture of hydrofluoric acid and as a flux for metallurgical purposes."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm flourit thu được từ khoáng chất qua xử lý nhiệt làm cho sản phẩm chia tách thành các hạt cấu thành của nó; vì các hạt khác nhau về kích thước nên việc sàng lọc đơn giản sau đó sẽ cho phép lấy đi phần hàm lượng oxit Silic.",
+        "en": "The heading also covers fluorspar obtained from the mineral by a heat treatment which causes the product to break up into its constituent particles; as these differ in size, simple screening then permits removal of part of the silica content."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm flourit hoặc flourit ở dạng đá quý hoặc bán quý (Chương 71).",
+        "en": "The heading excludes feldspar or fluorspar in the form of precious or semi-precious stones (Chapter 71)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2529.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tràng thạch (đá bồ tát)",
+        "en": "Feldspar"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Khoáng fluorite",
+        "en": "Fluorspar"
+      },
+      "subheading_id": "2529.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có chứa canxi florua không quá 97% tính theo khối lượng.",
+        "en": "Containing by weight 97 % or less of calcium fluoride"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Khoáng fluorite",
+        "en": "Fluorspar"
+      },
+      "subheading_id": "2529.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có chứa canxi florua trên 97% tính theo khối lượng",
+        "en": "Containing by weight more than 97 % of calcium fluoride"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2529.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lơxit; nephelin và nephelin xienit",
+        "en": "Leucite; nepheline and nepheline syenite"
+      }
+    }
+  ]
+}

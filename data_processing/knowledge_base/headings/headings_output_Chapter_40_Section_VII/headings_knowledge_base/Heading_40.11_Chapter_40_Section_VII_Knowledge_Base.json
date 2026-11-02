@@ -1,0 +1,132 @@
+{
+  "heading_id": "40.11",
+  "heading_title": {
+    "vi": "Lốp loại bơm hơi bằng cao su, chưa qua sử dụng (+).",
+    "en": "New pneumatic tyres, of rubber (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 40.11 bao gồm các loại lốp bơm hơi mới bằng cao su, có thể cần hoặc không cần săm bên trong. Các sản phẩm này được sử dụng cho nhiều loại phương tiện và thiết bị khác nhau, bao gồm xe cộ, máy bay, đồ chơi có bánh, máy móc và vũ khí pháo binh. Chú giải phân nhóm cung cấp hình ảnh minh họa để làm rõ các loại lốp cụ thể thuộc phân nhóm 4011.70, dành cho xe và máy nông nghiệp hoặc lâm nghiệp, và phân nhóm 4011.80, dành cho xe và máy xây dựng, hầm mỏ hoặc xếp dỡ công nghiệp.",
+    "en": "Heading 40.11 covers new pneumatic tyres of rubber, which may or may not require inner tubes. These products are for use on various types of vehicles and equipment, including vehicles, aircraft, wheeled toys, machinery, and artillery weapons. The Subheading Explanatory Notes provide illustrative images to clarify the specific types of tyres under subheading 4011.70, for agricultural or forestry vehicles and machines, and subheading 4011.80, for construction, mining, or industrial handling vehicles and machines."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại lốp này có thể dùng trong bất cứ loại xe cộ hoặc máy bay nào, trong đồ chơi có bánh, máy móc có bánh, vũ khí pháo binh có bánh. Chúng có thể cần hoặc không cần có săm bên trong.",
+        "en": "These tyres may be for use on any type of vehicle or aircraft, on wheeled toys, machinery, artillery weapons, etc. They may or may not require inner tubes."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 4011.70: Cung cấp hình ảnh minh họa cho một vài kiểu lốp thuộc phân nhóm này, bao gồm các lốp cho xe và máy nông nghiệp và lốp cho xe và máy lâm nghiệp.",
+        "en": "Subheading Explanatory Note 4011.70: Provides illustrative images of some types of tyres covered by this subheading, including examples of tyres for agricultural vehicles or machines and for forestry vehicles or machines."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 4011.80: Cung cấp hình ảnh minh họa cho một vài kiểu lốp thuộc phân nhóm này, bao gồm các lốp cho xe và máy xây dựng, hầm mỏ hoặc xếp dỡ công nghiệp.",
+        "en": "Subheading Explanatory Note 4011.80: Provides illustrative images of some types of tyres covered by this subheading, including examples of tyres for construction, mining or industrial handling vehicles or machines."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4011.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại sử dụng cho ô tô con (motor car) (kể cả loại ô tô chở người có khoang chở hành lý chung (station wagons) và ô tô đua)",
+        "en": "Of a kind used on motor cars (including station wagons and racing cars)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4011.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho ô tô buýt hoặc ô tô vận tải",
+        "en": "Of a kind used on buses or lorries"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4011.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại sử dụng cho phương tiện bay",
+        "en": "Of a kind used on aircraft"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4011.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho xe mô tô",
+        "en": "Of a kind used on motorcycles"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4011.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho xe đạp",
+        "en": "Of a kind used on bicycles"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4011.70",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho xe và máy nông nghiệp hoặc lâm nghiệp",
+        "en": "Of a kind used on agricultural or forestry vehicles and machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4011.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho xe và máy xây dựng, hầm mỏ hoặc xếp dỡ công nghiệp",
+        "en": "Of a kind used on construction, mining or industrial handling vehicles and machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4011.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

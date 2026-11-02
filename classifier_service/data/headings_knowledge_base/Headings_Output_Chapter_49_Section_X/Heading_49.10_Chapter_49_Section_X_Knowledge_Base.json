@@ -1,0 +1,35 @@
+{
+  "heading_id": "49.10",
+  "heading_title": {
+    "vi": "Các loại lịch in, kể cả bloc lịch.",
+    "en": "Calendars of any kind, printed, including calendar blocks."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại lịch in trên mọi chất liệu (giấy, bìa, vải, v.v.) miễn là việc in ấn mang lại đặc tính cơ bản cho sản phẩm. Chúng có thể chứa thông tin khác ngoài ngày tháng, và có thể có hình ảnh hoặc quảng cáo. Nhóm này cũng bao gồm lịch \"vạn niên\" hoặc lịch có khối lịch thay thế được gắn trên đế bằng các vật liệu khác giấy (gỗ, nhựa, kim loại), và các khối lịch (bloc lịch) riêng lẻ. Tuy nhiên, nhóm này loại trừ các ấn phẩm mà tính chất cơ bản không phải là lịch, các ấn phẩm đôi khi bị gọi sai là lịch nhưng chủ yếu cung cấp thông tin sự kiện (nhóm 49.01 hoặc 49.11), sổ ghi nhớ có lịch và nhật ký (nhóm 48.20), và bìa lịch in không kèm theo khối lịch (nhóm 49.11).",
+    "en": "This heading covers calendars of any kind printed on any material (paper, paperboard, fabric, etc.) provided that the printing gives the article its essential character. They may contain information other than dates, and may incorporate pictorial or advertising matter. The heading also includes 'perpetual' calendars or calendars with replaceable blocks mounted on bases of materials other than paper (e.g., wood, plastics, metal), and individual calendar blocks. However, the heading excludes articles whose essential character is not that of a calendar, publications improperly called calendars which are essentially for giving information on events (heading 49.01 or 49.11), memorandum pads incorporating calendars and diaries (heading 48.20), and printed calendar backs not incorporating calendar blocks (heading 49.11)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm lịch các loại dù chúng đã được in trên giấy, bìa, vải dệt hay bất cứ chất liệu nào khác, với điều kiện là việc in ấn đem lại cho sản phẩm đặc tính căn bản của nó. Chúng có thể chứa, ngoài ngày tháng, các ngày trong tuần..., còn bao gồm các mục thông tin khác nhau, như chú thích về các sự kiện quan trọng, lễ hội, thiên văn và các dữ liệu khác, thơ và tục ngữ. Chúng cũng có thể kết hợp tranh ảnh hoặc quảng cáo. Tuy nhiên, các xuất bản phẩm đôi khi bị gọi sai là lịch mà, mặc dù có ghi ngày tháng, được xuất bản nhằm mục đích chủ yếu là cung cấp tin liên quan đến sự kiện công hoặc tư,... được phân loại vào nhóm 49.01 (nếu không thuộc nhóm 49.11 khi mang tính chất quảng cáo).",
+        "en": "This heading relates to calendars of any kind whether they are printed on paper, paperboard, woven fabric or any other material, provided that the printing gives the article its essential character. They may contain, in addition to the normal sequence of dates, days of the week, etc., various other items of information, such as notes of important events, festivals, astronomical and other data, verses and proverbs- They may also incorporate pictorial or advertising matter. However, publications sometimes improperly called calendars which, although dated, are published essentially to give information concerning public or private events, etc., are classified in heading 49.01 (unless falling in heading 49.11 as publicity matter)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm lịch \"vạn niên\" hoặc lịch mà blốc có thể thay thế được được gắn lên nền từ vật liệu không phải bằng giấy hoặc bìa (ví dụ, như gỗ, plastic hoặc kim loại).\nNhóm này cũng bao gồm các blốc lịch. Chúng gồm một số tờ giấy mà mỗi tờ được in một ngày cụ thể của năm và được tập hợp theo thứ tự thời gian ở dạng blốc mà từ đó từng tờ riêng lẻ bị xé đi hàng ngày. Các blốc này nói chung được sử dụng để đặt trên nền bằng bìa, hoặc để thay thế hàng năm trong các cuốn lịch có nền có tính lâu dài hơn.\nTuy nhiên, nhóm này không bao gồm các sản phẩm mà tính chất căn bản không được xác định bởi sự hiện diện của cuốn lịch.",
+        "en": "The heading also covers calendars of the “perpetual” type or with replaceable blocks mounted on bases of materials other than paper of paperboard (e.g., wood, plastics or metal).\nThe heading further includes calendar blocks. These consist of a number of slips of paper each printed with particulars of a separate day of the year and assembled in chronological order in the form of a block from which the separate slips are removed daily. These blocks are generally used for mounting on a base of paperboard, or for annual replacement in calendars with bases of a more permanent nature.\nThe heading, however, does not cover articles whose essential character is not determined by the presence of a calendar."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm:\n(a) Tập ghi nhớ kết hợp lịch và nhật ký (kể cả lịch hẹn) (nhóm 48.20).\n(b) Phần sau của lịch in không kèm bloc lịch (nhóm 49.11).",
+        "en": "The heading also excludes :\n(a) Memorandum pads incorporating calendars and diaries (including so-called engagement calendars) (heading 48.20).\n(b) Printed calendar backs not incorporating calendar blocks (heading 49.11)."
+      }
+    }
+  ],
+  "subheadings": []
+}

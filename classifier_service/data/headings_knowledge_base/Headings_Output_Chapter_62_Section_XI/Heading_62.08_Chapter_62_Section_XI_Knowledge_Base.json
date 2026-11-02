@@ -1,0 +1,125 @@
+{
+  "heading_id": "62.08",
+  "heading_title": {
+    "vi": "Áo ba lỗ (singlet) và các loại áo lót khác, váy lót, váy lót bồng (petticoats), quần xi líp, quần đùi bó, váy ngủ, bộ pyjama, áo ngủ của phụ nữ bằng vải mỏng và trong suốt (negligees), áo choàng tắm, áo choàng dài mặc trong nhà và các loại tương tự dùng cho phụ nữ hoặc trẻ em gái.",
+    "en": "Women’s or girls’ singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, negligees, bathrobes, dressing gowns and similar articles."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm đồ lót, đồ ngủ và các loại áo mặc trong nhà tương tự cho phụ nữ hoặc trẻ em gái, với điều kiện chúng không phải là hàng dệt kim hoặc móc. Các sản phẩm dệt kim hoặc móc tương tự được phân loại trong nhóm 61.08 hoặc 61.09. Nhóm này cũng loại trừ xu chiêng, gen, áo nịt ngực và các loại tương tự của nhóm 62.12.",
+    "en": "This heading covers underclothing, nightwear, and similar indoor garments for women or girls, provided they are not knitted or crocheted. Similar knitted or crocheted articles are classified in heading 61.08 or 61.09. This heading also excludes brassières, girdles, corsets and similar articles of heading 62.12."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm toàn bộ đồ lót cho phụ nữ hoặc trẻ em gái (áo may ô và các loại áo lót khác, váy lót, quần lót, quần đùi bó và các loại tương tự), không dệt kim hoặc móc. Nhóm này cũng bao gồm áo ngủ, bộ pyjama, áo ngủ mỏng, áo choàng tắm (kể cả áo choàng tắm biển), áo choàng mặc ở nhà và các loại áo tương tự (các loại áo này thường mặc trong nhà).",
+        "en": "This heading covers underclothing for women or girls (singlets and other vests, slips, petticoats, briefs, panties and similar articles), not knitted or crocheted. The heading also includes nightdresses, pyjamas, negliges, bathrobes (including beachrobes), dressing gowns and similar articles for women or girls (garments usually worn indoors)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Cũng nên lưu ý rằng các sản phẩm dệt kim hoặc móc của loại này được phân loại trong nhóm 61.08 hoặc 61.09, tùy trường hợp.\nNhóm này loại trừ xu chiêng, gen, áo nịt ngực và các loại tương tự (nhóm 62.12).",
+        "en": "It should be noted that knitted or crocheted articles of this kind are to be classified in heading 61.08 or 61.09, as the case may be.\nThis heading also excludes brassières, girdles, corsets and similar articles (heading 62.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Váy lót và váy lót bồng (petticoats):",
+        "en": "- Slips and petticoats:"
+      },
+      "subheading_id": "6208.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi nhân tạo",
+        "en": "Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Váy lót và váy lót bồng (petticoats):",
+        "en": "- Slips and petticoats:"
+      },
+      "subheading_id": "6208.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Váy ngủ và bộ pyjama:",
+        "en": "- Nightdresses and pyjamas:"
+      },
+      "subheading_id": "6208.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ bông",
+        "en": "- - Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Váy ngủ và bộ pyjama:",
+        "en": "- Nightdresses and pyjamas:"
+      },
+      "subheading_id": "6208.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi nhân tạo",
+        "en": "- - Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Váy ngủ và bộ pyjama:",
+        "en": "- Nightdresses and pyjamas:"
+      },
+      "subheading_id": "6208.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "6208.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ bông",
+        "en": "- - Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "6208.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi nhân tạo",
+        "en": "- - Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "6208.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    }
+  ]
+}

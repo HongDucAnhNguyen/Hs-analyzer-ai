@@ -1,0 +1,71 @@
+[project]
+name = "unified-api"
+version = "2.0.0"
+description = "Unified API Gateway for HS Code RAG and Classifier Services"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.124.0",
+    "uvicorn>=0.38.0",
+    "pydantic>=2.12.5",
+    "python-dotenv>=1.2.1",
+    "python-multipart>=0.0.20",
+    # RAG Service dependencies
+    "pydantic-ai==0.8.1",
+    "pydantic-ai-slim==0.8.1",
+    "griffe>=1.15.0",
+    "httpx>=0.28.1",
+    "beautifulsoup4>=4.12.0",
+    "aiohttp>=3.13.2",
+    "llama-index>=0.14.10",
+    "llama-index-vector-stores-mongodb>=0.8.1",
+    "llama-index-llms-openai>=0.6.10",
+    "llama-index-llms-anthropic>=0.10.3",
+    "llama-index-llms-gemini>=0.6.1",
+    "llama-index-postprocessor-cohere-rerank>=0.5.1",
+    "llama-index-embeddings-gemini>=0.4.1",
+    "openai>=2.9.0",
+    "anthropic>=0.75.0",
+    "google-generativeai>=0.8.5",
+    "qdrant-client>=1.16.1",
+    "llama-index-vector-stores-qdrant>=0.9.0",
+    "elasticsearch>=9.2.0",
+    "neo4j>=6.0.3",
+    "arize-phoenix-otel>=0.8",
+    "openinference-instrumentation-llama-index>=4.3.9",
+    "loguru>=0.7.3",
+    "logfire>=4.16.0",
+    # Classifier Service dependencies
+    "cachetools>=6.2.2",
+    "celery>=5.6.0",
+    "redis>=7.1.0",
+    "flower>=2.0.1",
+    "amqp>=5.3.1",
+    "pika>=1.3.2",
+    "cloudscraper>=1.2.71",
+    "selenium>=4.39.0",
+    "playwright>=1.57.0",
+    # Crawl Service Zauba dependencies
+    "botasaurus>=4.0.96",
+    "botasaurus-driver>=4.0.92",
+    # Zendriver for Cloudflare bypass (Zauba)
+    "zendriver>=0.15.2",
+    "latest_user_agents>=0.0.5",
+    "selenium_authenticated_proxy>=1.1.2",
+    "user_agents>=2.2.0",
+    # TRAINS Service dependencies (Excel processing)
+    "pandas>=2.0.0",
+    "openpyxl>=3.1.0",
+    # Report Service dependencies (Excel binary format support)
+    "pyxlsb>=1.0.10",
+    # MinIO client for object storage
+    "minio>=7.2.0",
+    # Authentication dependencies
+    "python-jose[cryptography]>=3.3.0",
+    "bcrypt>=4.0.0",
+]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.4.0",
+]

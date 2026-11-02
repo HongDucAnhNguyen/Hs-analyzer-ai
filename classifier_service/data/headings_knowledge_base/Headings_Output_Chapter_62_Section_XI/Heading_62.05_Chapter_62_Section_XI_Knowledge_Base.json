@@ -1,0 +1,58 @@
+{
+  "heading_id": "62.05",
+  "heading_title": {
+    "vi": "Áo sơ mi nam giới hoặc trẻ em trai.",
+    "en": "Men’s or boys’ shirts."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm áo sơ mi không dệt kim hoặc móc cho nam giới hoặc trẻ em trai, theo định nghĩa tại Chú giải 4 của Chương này. Nó không bao gồm áo ngủ, áo may ô và các loại áo lót khác (nhóm 62.07), áo chống gió (nhóm 62.01), áo jacket (nhóm 62.03), và áo không có tay.",
+    "en": "This heading covers shirts (as defined in Note 4 to this Chapter) not knitted or crocheted for men or boys. It excludes nightshirts, singlets and other vests (heading 62.07), wind-cheaters and similar garments (heading 62.01), jackets (heading 62.03), and sleeveless garments."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Trừ áo ngủ, áo may ô và các loại áo lót khác thuộc nhóm 62.07, nhóm này bao gồm các loại áo sơ mi (như định nghĩa tại Chú giải 4 của Chương này) không dệt kim hoặc móc cho nam giới hoặc trẻ em trai, gồm áo sơ mi có cổ có thể tháo ra, áo sơ mi dài tay, áo sơ mi thể thao và các loại áo sơ mi cách điệu. Nhóm này không bao gồm áo có đặc trưng của áo chống gió, áo jacket chống gió,... thuộc nhóm 62.01 (loại áo này thường có dây thắt ở gấu áo), hoặc có đặc trưng của áo jacket thuộc nhóm 62.03 (loại áo này thường là loại áo có túi nằm dưới thắt lưng). Áo không có tay cũng bị loại ra khỏi nhóm này.",
+        "en": "With the exception of nightshirts, singlets and other vests of heading 62.07, this heading covers shirts (as defined hi Note 4 to this Chapter) not knitted or crocheted for men or boys including shirts with detachable collars, dress shirts, sports shirts and leisure shirts. The heading does not cover garments having the character of wind-cheaters, wind-jackets, etc., of heading 62.01, which generally have a tightening at the bottom, or of jackets of heading 62.03, which generally have pockets below the waist. Sleeveless garments are also excluded."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6205.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ bông",
+        "en": "- Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6205.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Từ sợi nhân tạo",
+        "en": "- Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6205.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Từ các vật liệu dệt khác",
+        "en": "- Of other textile materials"
+      }
+    }
+  ]
+}

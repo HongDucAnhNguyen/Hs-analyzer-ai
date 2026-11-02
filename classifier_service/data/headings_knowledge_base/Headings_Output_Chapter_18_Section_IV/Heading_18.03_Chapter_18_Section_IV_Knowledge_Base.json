@@ -1,0 +1,46 @@
+{
+  "heading_id": "18.03",
+  "heading_title": {
+    "vi": "Bột ca cao nhão, đã hoặc chưa khử chất béo.",
+    "en": "Cocoa paste, whether or not defatted."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bột ca cao nhão thu được từ việc nghiền hạt ca cao đã rang và đã làm sạch. Sản phẩm này có thể ở dạng chưa khử chất béo hoặc đã được khử một phần hoặc toàn bộ chất béo (còn gọi là khô dầu ca cao). Bột nhão này được dùng để sản xuất bơ ca cao, bột ca cao, sôcôla, hoặc theobromine. Nhóm này loại trừ bột nhão ca cao đã cho thêm đường hoặc chất làm ngọt khác (nhóm 18.06).",
+    "en": "This heading covers cocoa paste obtained by grinding roasted and cleaned cocoa beans. This product can be in an undefatted state or have been wholly or partly defatted (also known as cocoa cake). This paste is used for the manufacture of cocoa butter, cocoa powder, chocolate, or theobromine. This heading excludes cocoa paste containing added sugar or other sweetening matter (heading 18.06)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Bột ca cao nhão thu được từ việc nghiền hạt ca cao đã rang (hạt đã làm sạch vỏ cứng, vỏ lụa và phôi mầm của chúng) bằng máy nghiền đá mài nóng hoặc máy thớt nghiền; Sản phẩm thu được làm cứng dưới dạng viên, miếng hoặc khối. Bột nhão có thể được các nhà sản xuất bánh kẹo sử dụng luôn nhưng chúng thường được dùng để sản xuất bơ ca cao, bột ca cao và sôcôla.\nNhóm này cũng bao gồm bột nhão ca cao đã được khử một phần hoặc toàn bộ chất béo (khô dầu ca cao (cocoa cake)); Chúng được sử dụng cho sản xuất bột ca cao hoặc sôcôla; hoặc trong một số trường hợp được sử dụng để sản xuất theobromine.\nNhóm này loại trừ bột nhão ca cao đã cho thêm đường hoặc chất làm ngọt khác (nhóm 18.06).",
+        "en": "Cocoa paste is obtained by grinding roasted cocoa beans (cleaned of their shells, husks, skins and germs) between heated grindstones or disc crushers; the resulting product is solidified in tablets, lumps or blocks. The paste can be used in this state by confectioners but it is generally used for the manufacture of cocoa butter, cocoa powder and chocolate.\nThe heading also covers paste which has been wholly or partly defatted (cocoa cake); this is used for the manufacture of cocoa powder or chocolate, or in some cases for the manufacture of theobromine.\nThe heading excludes cocoa paste containing added sugar or other sweetening matter (heading 18.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1803.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa khử chất béo",
+        "en": "Not defatted"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1803.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã khử một phần hoặc toàn bộ chất béo",
+        "en": "Wholly or partly defatted"
+      }
+    }
+  ]
+}

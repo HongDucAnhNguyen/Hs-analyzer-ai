@@ -1,0 +1,89 @@
+{
+  "heading_id": "74.08",
+  "heading_title": {
+    "vi": "Dây đồng.",
+    "en": "Copper wire."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm dây đồng, được định nghĩa trong Chú giải 9(c) của Phần XV. Dây được sản xuất bằng cách cán, ép đùn hoặc kéo và được trình bày ở dạng cuộn. Các quy định về gia công thêm tương tự như của nhóm 74.07. Nhóm này loại trừ một danh sách dài các sản phẩm cụ thể, bao gồm: dây đồng tiệt trùng cho phẫu thuật (nhóm 30.06), sợi trộn kim loại (nhóm 56.05), dây xe hoặc sợi bện được gia cố (nhóm 56.07), dây bện tao và cáp (nhóm 74.13), điện cực hàn được phủ (nhóm 83.11), dây và cáp điện cách điện (nhóm 85.44), và dây dùng cho nhạc cụ (nhóm 92.09).",
+    "en": "This heading covers copper wire, as defined in Note 9(c) to Section XV. The wire is produced by rolling, extrusion, or drawing and is presented in coils. Provisions for further working are similar to those for heading 74.07. This heading excludes a long list of specific products, including: sterile bronze wire for surgery (heading 30.06), metallised yarn (heading 56.05), reinforced twine or cord (heading 56.07), stranded wire and cables (heading 74.13), coated welding electrodes (heading 83.11), insulated electric wire and cable (heading 85.44), and musical instrument strings (heading 92.09)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Dây được định nghĩa tại Chú giải 9(c) Phần XV. Dây được thu được bằng cách cán, ép đùn hoặc kéo chuốt và ở dạng cuộn. Các quy định về gia công thêm tương tự như của nhóm 74.07.",
+        "en": "Wire is defined in Note 9(c) to Section XV. It is obtained by rolling, extrusion, or drawing, and is presented in coils. The provisions for further working are similar to those of heading 74.07."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Dây đồng tiệt trùng rất mảnh dùng cho phẫu thuật khâu vết thương (nhóm 30.06).\n(b) Sợi trộn kim loại của nhóm 56.05.\n(c) Dây xe hoặc sợi bện được gia cố với dây (nhóm 56.07).\n(d) Dây bện tao, cáp và hàng hoá khác của nhóm 74.13.\n(e) Điện cực hàn được phủ (nhóm 83.11).\n(f) Dây cách điện và cáp, bao gồm cả dây tráng men (nhóm 85.44).\n(g) Dây nhạc cụ (nhóm 92.09).",
+        "en": "This heading does not include:\n(a) Very fine sterile bronze wire used for surgical sutures (heading 30.06).\n(b) Metallised yarn of heading 56.05.\n(c) Twine or cord reinforced with wire (heading 56.07).\n(d) Stranded wire, cables and other goods of heading 74.13.\n(e) Coated welding electrodes (heading 83.11).\n(f) Insulated electric wire and cable, including enamelled wire (heading 85.44).\n(g) Musical instrument strings (heading 92.09)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng đồng tinh luyện:",
+        "en": "- Of refined copper :"
+      },
+      "subheading_id": "7408.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Có kích thước mặt cắt ngang tối đa trên 6 mm",
+        "en": "- - Of which the maximum cross-sectional dimension exceeds 6 mm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng đồng tinh luyện:",
+        "en": "- Of refined copper :"
+      },
+      "subheading_id": "7408.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim đồng:",
+        "en": "- Of copper alloys :"
+      },
+      "subheading_id": "7408.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Bằng hợp kim đồng kẽm (đồng thau)",
+        "en": "- - Of copper-zinc base alloys (brass)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim đồng:",
+        "en": "- Of copper alloys :"
+      },
+      "subheading_id": "7408.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Bằng hợp kim đồng niken (đồng kền) hoặc hợp kim đồng-niken-kẽm (bạc niken)",
+        "en": "- - Of copper-nickel base alloys (cupro-nickel) or copper-nickelzinc base alloys (nickel silver)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim đồng:",
+        "en": "- Of copper alloys :"
+      },
+      "subheading_id": "7408.29",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

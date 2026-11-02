@@ -1,0 +1,101 @@
+{
+  "heading_id": "85.24",
+  "heading_title": {
+    "vi": "Mô-đun màn hình dẹt, có hoặc không tích hợp màn hình cảm ứng",
+    "en": "Flat panel display modules, whether or not incorporating touch-sensitive screens."
+  },
+  "summary": {
+    "vi": "Nhóm 85.24 bao gồm các mô-đun màn hình dẹt, có hoặc không tích hợp màn hình cảm ứng, theo định nghĩa tại Chú giải 7 của Chương này. Các mô-đun này sử dụng công nghệ hiển thị như tinh thể lỏng (LCD), đi-ốt phát quang hữu cơ (OLED), hoặc đi-ốt phát sáng (LED) và có thể ở dạng phẳng, cong, linh hoạt, gập lại hoặc cuộn lại. Chúng được phân thành các loại có hoặc không có trình điều khiển hoặc mạch điều khiển, cũng như loại tích hợp màn hình cảm ứng. Các sản phẩm này được thiết kế để kết hợp vào nhiều thiết bị khác nhau nhưng khi được trình bày riêng lẻ, chúng vẫn thuộc nhóm này. Bộ phận của các mô-đun này được phân loại riêng tại nhóm 85.29. Nhóm này loại trừ các mô-đun có bộ phận chuyển đổi video (nhóm 85.17, 85.28, 85.29), thiết bị phát tín hiệu hình ảnh (nhóm 85.31), thiết bị đo lường (Chương 90), nhạc cụ (Chương 92), hoặc các sản phẩm thuộc Chương 95 đã tích hợp sẵn các mô-đun này.",
+    "en": "Heading 85.24 covers flat panel display modules, whether or not incorporating touch-sensitive screens, as defined in Note 7 to this Chapter. These modules utilize display technologies such as liquid crystal display (LCD), organic light-emitting diodes (OLED), or light-emitting diodes (LED) and can be flat, curved, flexible, foldable, or rollable. They are classified into types with or without drivers or control circuits, as well as those with integrated touch-sensitive screens. These products are designed for incorporation into various apparatus, but when presented separately, they remain in this heading. Parts for these modules are separately classified in heading 85.29. This heading excludes modules with video-converting components (headings 85.17, 85.28, 85.29), visual signaling apparatus (heading 85.31), measuring apparatus (Chapter 90), musical instruments (Chapter 92), or goods of Chapter 95 that already incorporate these modules."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các mô-đun màn hình dẹt, có hoặc không kết hợp màn cảm ứng, theo Chú giải 7 của Chương này. Chúng được trang bị màn hình hiển thị sử dụng công nghệ tinh thể lỏng (LCD), điốt phát quang hữu cơ (OLED), điốt phát sáng (LED) hoặc các công nghệ khác. Màn hình có thể ở dạng phẳng, cong, linh hoạt, gập lại, co giãn hoặc cuộn lại. Nhóm này bao gồm: (1) Mô-đun màn hình dẹt không có trình điều khiển hoặc mạch điều khiển ('tế bào'). (2) Mô-đun màn hình dẹt có trình điều khiển hoặc mạch điều khiển được thêm vào 'tế bào'. (3) Mô-đun màn hình dẹt có màn cảm ứng gắn vào hoặc nhúng trong tế bào. Các mô-đun này được thiết kế để gắn vào các thiết bị như tủ lạnh, máy xử lý dữ liệu tự động, điện thoại di động, camera, màn hình, tivi và phương tiện có động cơ. Tuy nhiên, mô-đun được trình bày riêng biệt sẽ được phân loại vào nhóm này; nếu đã được tích hợp vào thiết bị khác, chúng sẽ được phân loại theo thiết bị đó.",
+        "en": "This heading covers flat panel display modules, whether or not incorporating touch-sensitive screens, as defined in Note 7 to this Chapter. They are equipped with a display screen utilizing liquid crystal display (LCD), organic light-emitting diodes (OLED), light-emitting diodes (LED) or other technologies. The screen can be flat, curved, flexible, foldable, stretchable or rollable. This heading includes: (1) Flat panel display modules without drivers or control circuits ('cells'). (2) Flat panel display modules with drivers or control circuits added to 'cells'. (3) Flat panel display modules with touch-sensitive screens attached or embedded in the cell. These modules are designed to be incorporated in apparatus such as refrigerators, automatic data processing machines, mobile phones, cameras, monitors, television and motor vehicles. However, modules presented separately are classified in this heading; if already integrated into other apparatus, they are classified with that apparatus."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Theo quy tắc chung, bộ phận của thiết bị thuộc nhóm này được phân loại vào nhóm 85.29. Nhóm này loại trừ: (a) Mô-đun màn hình dẹt có bộ phận chuyển đổi video (nhóm 85.17, 85.28 và 85.29). (b) Thiết bị phát tín hiệu bằng hình ảnh (bảng chỉ báo) kết hợp với mô-đun màn hình dẹt (nhóm 85.31). (c) Thiết bị đo hoặc kiểm tra có gắn mô-đun màn hình dẹt (Chương 90). (d) Nhạc cụ có gắn mô-đun màn hình dẹt (Chương 92). (e) Hàng hóa thuộc Chương 95 có chứa mô-đun màn hình dẹt, ví dụ như thiết bị trò chơi điện tử video, đồ chơi, trò chơi, thiết bị tập luyện và dụng cụ thể thao.",
+        "en": "Subject to general provisions, parts of the apparatus of this heading are classified in heading 85.29. The heading excludes: (a) Flat panel display modules with video-converting components (headings 85.17, 85.28 and 85.29). (b) Visual signaling apparatus (indicator panels) incorporating flat panel display modules (heading 85.31). (c) Measuring or checking apparatus incorporating flat panel display modules (Chapter 90). (d) Musical instruments incorporating flat panel display modules (Chapter 92). (e) All goods of Chapter 95 incorporating flat panel display modules, for example, video game consoles, toys, games, exercise equipment and sport requisites."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Không có trình điều khiển (driver) hoặc mạch điều khiển:",
+        "en": "Without drivers or control circuits:"
+      },
+      "page": 1,
+      "subheading_id": "8524.11",
+      "subheading_title": {
+        "vi": "- - Bằng tinh thể lỏng",
+        "en": "- - Of liquid crystals"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Không có trình điều khiển (driver) hoặc mạch điều khiển:",
+        "en": "Without drivers or control circuits:"
+      },
+      "page": 1,
+      "subheading_id": "8524.12",
+      "subheading_title": {
+        "vi": "- - Bằng đi-ốt phát quang hữu cơ (OLED)",
+        "en": "- - Of organic light-emitting diodes (OLED)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Không có trình điều khiển (driver) hoặc mạch điều khiển:",
+        "en": "Without drivers or control circuits:"
+      },
+      "page": 1,
+      "subheading_id": "8524.19",
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "page": 1,
+      "subheading_id": "8524.91",
+      "subheading_title": {
+        "vi": "- - Bằng tinh thể lỏng",
+        "en": "- - Of liquid crystals"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "page": 1,
+      "subheading_id": "8524.92",
+      "subheading_title": {
+        "vi": "- - Bằng đi-ốt phát quang hữu cơ (OLED)",
+        "en": "- - Of organic light-emitting diodes (OLED)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "page": 1,
+      "subheading_id": "8524.99",
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

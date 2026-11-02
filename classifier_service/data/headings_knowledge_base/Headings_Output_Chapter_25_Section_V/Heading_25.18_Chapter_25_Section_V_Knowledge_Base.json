@@ -1,0 +1,46 @@
+{
+  "heading_id": "25.18",
+  "heading_title": {
+    "vi": "Dolomite, đã hoặc chưa nung hoặc thiêu kết, kể cả dolomite đã đẽo thô hay mới chỉ cắt bằng cưa hoặc các cách khác, thành các khối hoặc tấm hình chữ nhật (kể cả hình vuông).",
+    "en": "Dolomite, whether or not calcined or sintered, including dolomite roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm dolomite, một dạng muối carbonate kép tự nhiên của canxi và magiê. Phạm vi bao gồm dolomite thô, dolomite đã nung (700-1000°C), dolomite thiêu kết (1700-1900°C), và dolomite đã đẽo thô hoặc cắt thành khối hoặc tấm hình chữ nhật/vuông. Nhóm này không bao gồm dolomite nghiền dùng làm cốt bê tông hoặc trải đường (nhóm 25.17) và hỗn hợp dolomite ramming (nhóm 38.16).",
+    "en": "This heading covers dolomite, a natural double carbonate of calcium and magnesium. The scope includes crude dolomite, calcined dolomite (700-1000°C), sintered dolomite (1700-1900°C), and dolomite roughly trimmed or cut into rectangular/square blocks or slabs. This heading does not cover crushed dolomite for concrete aggregates or road metalling (heading 25.17) or dolomite ramming mix (heading 38.16)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Dolomite là dạng muối carbonate kép tự nhiên của canxi và magiê.\nNhóm này cũng bao gồm dolomite thô và dolomite đã nung và thiêu kết. Dolomite được nung ở mức nhiệt độ 700 - 1000 °C để chuyển nó thành các magiê oxit và canxi oxit bằng cách giải phóng dioxide carbon. Mặt khác, dolomite thiêu kết thu được bằng cách nung dolomite tới mức nhiệt độ 1700 - 1900 °C khi nó trở thành vật liệu chịu lửa. Nhóm này cũng bao gồm cả dạng dolomite đã đẽo thô hoặc chỉ cắt, bằng cách cưa hoặc bằng phương pháp khác thành các khối hoặc tấm hình chữ nhật (kể cả hình vuông).\nTuy nhiên, nhóm này không bao gồm dolomite nghiền để làm cốt bê tông, lớp đá dăm trải đường hoặc đá rải đường tàu (nhóm 25.17) hoặc hỗn hợp dolomite ramming (nhóm 38.16).",
+        "en": "Dolomite is a natural double carbonate of calcium and magnesium.\nThe heading covers crude dolomite as well as calcined and sintered dolomite. Dolomite is calcined at a temperature range of 700 °C - 1000°C to convert it into magnesium and calcium oxides by releasing carbon dioxide. On the other hand, sintered dolomite is obtained by heating dolomite to a temperature range of 1700 °C - 1900 °C when it becomes a refractory material. The heading also includes dolomite which has been roughly trimmed or merely cut, by sawing or otherwise, into blocks or slabs of a rectangular (including square) shape.\nHowever, the heading does not cover crushed dolomite for concrete aggregates, road metalling or railway ballast (heading 25.17) or dolomite ramming mix (heading 38.16)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2518.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Dolomite, chưa nung hoặc thiêu kết",
+        "en": "- Dolomite not calcined or sintered"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2518.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Dolomite đã nung hoặc thiêu kết",
+        "en": "- Calcined or sintered dolomite"
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "heading_id": "51.06",
+  "heading_title": {
+    "vi": "Sợi len lông cừu chải thô, chưa đóng gói để bán lẻ.",
+    "en": "Yarn of carded wool, not put up for retail sale."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm sợi len lông cừu chải thô (đơn hoặc chập), bao gồm cả sợi chải thô-chải kỹ và sợi từ lông cừu rối đã chải kỹ của nhóm 51.05, chưa đóng gói để bán lẻ. Sợi này có đặc điểm là sợi ngắn hoặc hỗn hợp sợi dài ngắn không song song, ít đều và xoắn lỏng hơn sợi len xe. Nhóm này loại trừ sợi đã đóng gói để bán lẻ (theo quy định tại Phần (I) (B) (3) của Chú giải tổng quát Phần XI). Sợi chập có cả sợi chải thô và chải kỹ sẽ được phân loại vào nhóm 51.06 hoặc 51.07 tùy theo thành phần nào chiếm ưu thế về trọng lượng.",
+    "en": "This heading covers yarn of carded wool (single or multiple), including combed-carded yarns and yarns from combed wool in fragments of heading 51.05, not put up for retail sale. This yarn consists of short fibres or a mixture of long and short fibres which are not parallel, are less regular and more loosely twisted than worsted yarns. This heading excludes yarn put up for retail sale (as per provisions of Part (I) (B) (3) of the General Explanatory Note to Section XI). Multiple yarns containing both carded and combed wool strands are classified in heading 51.06 or 51.07 according to whether the carded or combed wool predominates in weight."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm những sợi len đơn hay những sợi len chập từ nhiều sợi đơn, thu được từ việc xe những sợi thô của lông cừu đã chải thô (nhưng chưa chải kỹ). Nhóm này cũng bao gồm cả những sợi xe đã chải thô và chải kỹ, thu được từ những sợi riêng lẻ đã chải thô nhưng qua những quá trình xe như đối với sợi đã chải kỹ. Tất cả những sợi này thường được quấn trên các cuộn sợi hay những suốt chỉ hình nón.",
+        "en": "This heading covers woollen yarns whether single or multiple (folded), i.e., those obtained by spinning the slubbings of carded (but not combed) wool. It also includes yarns, known as combed-carded yarns, which are obtained from carded (but not combed) slivers by the spinning operations employed for combed yarns. All these yarns are usually wound on bobbins or cones."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng gồm cả sợi làm từ lông cừu đã chải thô thu được từ lông cừu rối đã chải kỹ như đã được mô tả trong Chú giải chi tiết của nhóm 51.05.",
+        "en": "This heading also covers yarns of carded wool derived from the combed wool in fragments described in the Explanatory Note to heading 51.05."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này loại trừ những sợi đã được đóng gói để bán lẻ (xem các điều khoản của Phần (I) (B) (3) của Chú giải tổng quát phần XI).",
+        "en": "Yarns are excluded if put up for retail sale (see provisions of Part (I) (B) (3) of the General Explanatory Note to Section XI)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng gồm những sợi ngắn hay hỗn hợp cả sợi ngắn và dài mà không được sắp song song nhưng được để lẫn và đan với nhau. Nhìn chung, những sợi này ít đều và độ xoắn lỏng hơn là những sợi len xe.",
+        "en": "The yarns covered by this heading consist of short fibres or a mixture of long and short fibres which are not parallel but intermingle and cross each other. They are generally less regular and usually more loosely twisted than worsted yarns."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những sợi này cũng có thể đã trải qua các quá trình như đã đề cập ở phần (I) (B) (1) của Chú giải tổng quát phần XI.",
+        "en": "These yarns may have undergone the processes mentioned in Part (I) (B) (1) of the General Explanatory Note to Section XI."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Những sợi xe từ nhiều sợi đơn trong đó có một số được xe từ lông cừu đã chải thô và 1 số từ lông cừu đã chải kỹ như đã phân loại trong nhóm 51.06 hoặc 51.07 tùy lông cừu đã chải thô hay lông cừu đã chải kỹ trội hơn về trọng lượng.",
+        "en": "Multiple (folded) yarns in which some strands are of carded wool and some of combed wool are classified in heading 51.06 or 51.07 according to whether the carded or combed wool predominates in weight."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5106.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có hàm lượng lông cừu chiếm từ 85% trở lên tính theo khối lượng",
+        "en": "Containing 85 % or more by weight of wool"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5106.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có hàm lượng lông cừu chiếm dưới 85% tính theo khối lượng",
+        "en": "Containing less than 85 % by weight of wool"
+      }
+    }
+  ]
+}

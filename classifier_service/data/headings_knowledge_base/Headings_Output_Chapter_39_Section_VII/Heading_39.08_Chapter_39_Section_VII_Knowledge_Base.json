@@ -1,0 +1,46 @@
+{
+  "heading_id": "39.08",
+  "heading_title": {
+    "vi": "Các polyamide dạng nguyên sinh.",
+    "en": "Polyamides in primary forms."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các polyamide và các copolyme của chúng, ở dạng nguyên sinh. Các polyamide mạch thẳng được gọi là nylon (ví dụ: polyamide-6, -11, -12, -6,6, -6,9, -6,10, -6,12). Chúng có độ bền kéo và độ chống va đập cao, được ứng dụng rộng rãi làm vật liệu dệt, nhựa nhiệt dẻo trong đúc, chất phủ, chất dính, màng bao gói và dầu bóng. Việc phân loại các polyme (kể cả copolyme), polyme biến đổi hóa học và polyme pha trộn phải tuân theo Chú giải Tổng quát của Chương này.",
+    "en": "This heading covers polyamides and their copolymers, in primary forms. Linear polyamides are known as nylons (e.g., polyamide-6, -11, -12, -6,6, -6,9, -6,10, -6,12). They have high strength and resistance to shock, with wide applications as textiles, thermoplastics in moulding, coatings, adhesives, packaging films, and lacquers. The classification of polymers (including copolymers), chemically modified polymers, and polymer blends is subject to the General Explanatory Note to this Chapter."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các polyamide và các copolyme của chúng. Các polyamide mạch thẳng được xem như là các nylon.\nCác polyamide thu được bằng quá trình polyme hóa ngưng tụ của các axit hữu cơ hai bazơ (ví dụ, axit adipic, axit sebacic) với các diamin hoặc của một số axit amino nhất định (ví dụ, axit 11-aminoundecanoic) hoặc bằng quá trình polyme hóa chuyển vị của các lactam (ví dụ, epsilon-caprolactam).\nMột số polyamide kiểu nylon quan trọng là polyamide-6, polyamide-11, polyamide-12, polyamide-6,6, polyamide-6,9, polyamide-6,10 và polyamide-6,12. Các ví dụ về polyamide không phải là mạch thẳng là các sản phẩm ngưng tụ của các axit dầu thực vật đã nhị trùng hóa với các amine.\nCác polyamide có độ bền kéo cao và độ chống va đập cao. Chúng cũng có độ bền hóa học rất tốt, đặc biệt đối với các hydrocacbon, xeton và este thơm và béo.\nNgoài công dụng như vật liệu dệt, các polyamide có ứng dụng rộng rãi như các plastic nhiệt dẻo trong quá trình đúc. Chúng cũng được sử dụng như các chất phủ, các chất dính, màng bao gói. Trong các dung môi, chúng có công dụng đặc biệt như dầu bóng.\nĐể phân loại các polyme (kể cả các copolyme), các polyme đã bị biến đổi về mặt hoá học và polyme pha trộn, xem Chú giải Tổng quát thuộc Chương này.",
+        "en": "This heading covers polyamides and copolymers thereof. Linear polyamides are known as nylons.\nPolyamides are obtained by condensation polymerisation of dibasic organic acids (for example, adipic acid, sebacic acid) with diamines or of certain amino-acids (e.g., 11-aminoundecanoic acid) or by rearrangement polymerisation of lactams (e.g., epsilon-caprolactam).\nSome of the important nylon type polyamides are polyamide-6, polyamide-11, polyamide-12, polyamide-6,6, polyamide-6,9, polyamide-6,10 and polyamide-6,12. Examples of non-linear polyamides are the condensation products of dimerised vegetable oil acids with amines.\nPolyamides have a high strength and resistance to shock. They also have excellent chemical resistance, especially to aromatic and tensile aliphatic hydrocarbons, ketones and esters.\nApart from their use as textiles, polyamides have a wide application as thermoplastics in moulding. They are also used as coatings, adhesives, packaging films. In solvents, they have a specialised use as lacquers.\nFor the classification of polymers (including copolymers), chemically modified polymers and polymer blends, see the General Explanatory Note to this Chapter."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3908.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Polyamide-6, -11, -12, -6,6, -6,9, -6,10 hoặc -6,12",
+        "en": "Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3908.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

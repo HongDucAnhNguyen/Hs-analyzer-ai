@@ -1,0 +1,53 @@
+{
+  "heading_id": "85.29",
+  "heading_title": {
+    "vi": "Bộ phận chỉ dùng hoặc chủ yếu dùng với các thiết bị thuộc các nhóm từ 85.25 đến 85.28.",
+    "en": "Parts suitable for use solely or principally with the apparatus of headings 85.25 to 85.28."
+  },
+  "summary": {
+    "vi": "Nhóm 85.29 bao gồm các bộ phận được thiết kế để chỉ sử dụng hoặc chủ yếu sử dụng với các thiết bị thuộc các nhóm từ 85.25 đến 85.28, tuân theo các quy tắc chung về phân loại bộ phận của Phần XVI. Các sản phẩm chính thuộc nhóm này bao gồm ăng ten các loại, bộ phản xạ ăng ten, hệ thống xoay hướng ăng ten, hộp và tủ chuyên dụng, bộ chia và lọc tín hiệu ăng ten, và khung vỏ (chassis). Nhóm này áp dụng cho các bộ phận của thiết bị phát sóng, máy quay truyền hình, máy ảnh kỹ thuật số, và máy thu. Tuy nhiên, nhóm này loại trừ một số mặt hàng cụ thể được phân loại ở nơi khác. Các loại trừ đáng chú ý bao gồm cột ăng ten (nhóm 73.08), máy phát cao áp (nhóm 85.04), pin cho điện thoại di động (nhóm 85.07), và các bộ phận cũng phù hợp với hàng hóa của nhóm 85.17. Ngoài ra, tai nghe (nhóm 85.18), ống đèn tia âm cực (nhóm 85.40), bộ khuếch đại ăng-ten (nhóm 85.43), thấu kính quang học (nhóm 90.02) và chân máy (nhóm 96.20) cũng không thuộc nhóm này.",
+    "en": "Heading 85.29 covers parts suitable for use solely or principally with the apparatus of headings 85.25 to 85.28, subject to the general provisions for the classification of parts in Section XVI. Key products classified here include antennas of all kinds, aerial reflectors, rotor systems for antennas, specialized cases and cabinets, aerial filters and separators, and frames (chassis). This heading applies to parts for transmission apparatus, television cameras, digital cameras, and reception apparatus. However, the heading excludes several specific items which are classified elsewhere. Notable exclusions are aerial masts (heading 73.08), high-tension generators (heading 85.04), accumulators for mobile phones (heading 85.07), and parts equally suitable for goods of heading 85.17. Additionally, earphones and headphones (heading 85.18), cathode-ray tubes (heading 85.40), aerial amplifiers (heading 85.43), optical lenses (heading 90.02), and tripods (heading 96.20) are also excluded."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo quy tắc chung của Phần XVI, nhóm này bao gồm các bộ phận của các thiết bị thuộc năm nhóm trước (85.25 đến 85.28). Các bộ phận này bao gồm: (1) Ăng ten các loại và bộ phản xạ ăng ten; (2) Hệ thống xoay hướng cho ăng ten thu sóng truyền thanh hoặc truyền hình; (3) Hộp hoặc tủ được thiết kế đặc biệt cho các thiết bị thuộc nhóm 85.25 đến 85.28; (4) Bộ chia và lọc tín hiệu ăng ten; (5) Khung (khung vỏ). Nhóm này không bao gồm: (a) Cột ăng ten (nhóm 73.08); (b) Máy phát cao áp (nhóm 85.04); (c) Pin cho điện thoại di động (nhóm 85.07); (d) Các bộ phận phù hợp để sử dụng cho cả hàng hóa thuộc nhóm 85.17 và các nhóm từ 85.25 đến 85.28 (phân loại vào nhóm 85.17); (e) Tai nghe có hoặc không có micrô (nhóm 85.18).",
+        "en": "Subject to the general provisions of Section XVI, this heading covers parts of the apparatus of the five preceding headings (85.25 to 85.28). The range of parts classified here includes: (1) Aerials of all kinds and aerial reflectors; (2) Rotor systems for radio-broadcast or television-broadcast receiving aerials; (3) Cases and cabinets specialised to receive the apparatus of headings 85.25 to 85.28; (4) Aerial filters and separators; (5) Frames (chassis). This heading excludes: (a) Aerial masts (heading 73.08); (b) High-tension generators (heading 85.04); (c) Accumulators for cellular phones (heading 85.07); (d) Parts equally suitable for use principally with the goods of heading 85.17 and of headings 85.25 to 85.28 (heading 85.17); (e) Earphones and headphones, whether or not combined with a microphone (heading 85.18)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại trừ tiếp theo của nhóm này bao gồm: (f) Ống đèn tia âm cực và các bộ phận của chúng (ví dụ, cuộn lái tia) (nhóm 85.40); (g) Bộ khuếch đại ăng-ten và bộ dao động tần số vô tuyến (nhóm 85.43); (h) Các thấu kính và các bộ lọc quang học dùng cho camera truyền hình (nhóm 90.02); (ij) Chân đế loại một chân (monopod), hai chân (bipod), ba chân (tripod) và các mặt hàng tương tự (nhóm 96.20).",
+        "en": "Further exclusions from this heading include: (f) Cathode-ray tubes and parts thereof (e.g., deflection coils) (heading 85.40); (g) Aerial amplifiers and radio-frequency oscillator units (heading 85.43); (h) Lenses and optical filters for television cameras (heading 90.02); (lj) Monopods, bipods, tripods and similar articles (heading 96.20)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8529.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ăng ten và bộ phản xạ của ăng ten; các bộ phận sử dụng kèm",
+        "en": "Aerials and aerial reflectors of all kinds; parts suitable for use therewith"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8529.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "heading_id": "75.07",
+  "heading_title": {
+    "vi": "Các loại ống, ống dẫn và các phụ kiện để ghép nối của ống hoặc ống bằng niken (ví dụ, khớp nối đôi, khuỷu, măng sông).",
+    "en": "Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves)."
+  },
+  "summary": {
+    "vi": "Nhóm 75.07 bao gồm các loại ống, ống dẫn và phụ kiện ghép nối bằng niken hoặc hợp kim niken, được định nghĩa theo Chú giải 9(e) Phần XV. Do có khả năng chống ăn mòn cao, chúng được sử dụng trong các ngành công nghiệp hóa chất, thực phẩm, sản xuất giấy, cũng như trong sản xuất bộ ngưng tụ hơi và kim tiêm dưới da. Nhóm này không bao gồm các dạng hình rỗng (nhóm 75.05), bulông và đai ốc (nhóm 75.08), phụ kiện cho vòi, van (nhóm 84.81), và các sản phẩm đã được gia công thành các bộ phận máy móc cụ thể (Phần XVI).",
+    "en": "Heading 75.07 covers tubes, pipes, and fittings of nickel or nickel alloys, as defined by Note 9(e) to Section XV. Due to their high corrosion resistance, they are used in the chemical, food, and papermaking industries, as well as in the manufacture of steam condensers and hypodermic needles. This heading excludes hollow profiles (heading 75.05), bolts and nuts (heading 75.08), fittings for taps and valves (heading 84.81), and products made up into specific machinery parts (Section XVI)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 9 (e) Phần XV định nghĩa ống và ống dẫn.\nCác quy định của chú giải các nhóm 73.04 đến 73.07 được áp dụng, với những sửa đổi phù hợp, cho nhóm này.\nDo đặc tính chống ăn mòn (với axit, hơi nước...) các loại ống, ống dẫn và phụ kiện bằng niken hoặc hợp kim niken được sử dụng trong kết cấu của các thiết bị cho công nghiệp hoá chất, thực phẩm, sản xuất giấy..., trong sản xuất bộ ngưng tụ, của kim tiêm dưới da...\nNhóm này không bao gồm:\n(a) Các dạng hình rỗng (nhóm 75.05).\n(b) Bulông và đai ốc niken dùng để lắp ráp và gắn ống (nhóm 75.08).\n(c) Phụ kiện để ghép nối với vòi, van (nhóm 84.81).\n(d) Ống, ống dẫn và phụ kiện để ghép nối của ống hoặc ống dẫn được chế tạo thành hàng hóa dễ nhận biết, ví dụ bộ phận máy móc (Phần XVI).",
+        "en": "The Note 9 (e) to Section XV defines tubes and pipes.\nThe provisions of the Explanatory Notes to headings 73.04 to 73.07 apply, mutatis mutandis, to this heading.\nBecause of their resistance to corrosion (by acids, steam, etc.), tubes, pipes and fittings of nickel or of nickel alloys are used in apparatus for the chemical, food, papermaking industries, etc., in the manufacture of steam condensers, hypodermic needles, etc.\nThis heading excludes :\n(a) Hollow profiles (heading 75.05).\n(b) Nickel bolts and nuts used for assembling or fixing pipes, etc. (heading 75.08).\n(c) Fittings with taps, cocks, valves, etc. (heading 84.81).\n(d) Tubes, pipes and tube or pipe fittings made up into specific identifiable articles, e.g., machinery parts (Section XVI)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Ống và ống dẫn:",
+        "en": "- Tubes and pipes :"
+      },
+      "subheading_id": "7507.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bằng niken, không hợp kim",
+        "en": "Of nickel, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Ống và ống dẫn:",
+        "en": "- Tubes and pipes :"
+      },
+      "subheading_id": "7507.12",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bằng niken hợp kim",
+        "en": "Of nickel alloys"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7507.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Phụ kiện để ghép nối của ống hoặc ống dẫn",
+        "en": "Tube or pipe fittings"
+      }
+    }
+  ]
+}

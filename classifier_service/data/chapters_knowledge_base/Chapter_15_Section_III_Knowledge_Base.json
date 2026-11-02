@@ -1,0 +1,269 @@
+{
+  "chapter_id": "15",
+  "chapter_title": {
+    "vi": "Chất béo và dầu có nguồn gốc từ động vật, thực vật hoặc vi sinh vật và các sản phẩm tách từ chúng; chất béo ăn được đã chế biến; các loại sáp động vật hoặc thực vật",
+    "en": "Animal, vegetable or microbial fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes."
+  },
+  "summary": {
+    "vi": "Chương này bao gồm chất béo và dầu từ động vật, thực vật hoặc vi sinh vật, dù ở dạng thô, đã tinh chế hay đã qua xử lý (ví dụ: đun sôi, hydro hóa); các sản phẩm tách từ chúng (ví dụ: glycerin thô); hợp chất béo ăn được đã chế biến (ví dụ: margarin); sáp động vật hoặc thực vật; và phế thải từ quá trình xử lý các chất này.\n\nChương này không bao gồm:\n(a) Mỡ lợn hoặc mỡ gia cầm thuộc nhóm 02.09;\n(b) Bơ ca cao, chất béo hoặc dầu cacao (nhóm 18.04);\n(c) Các chế phẩm ăn được chứa trên 15% khối lượng sản phẩm của nhóm 04.05 (thường thuộc Chương 21);\n(d) Tóp mỡ (nhóm 23.01) hoặc phế liệu thuộc các nhóm từ 23.04 đến 23.06;\n(e) Axit béo, sáp đã chế biến, dược phẩm, sơn, vecni, xà phòng, nước hoa, mỹ phẩm hoặc chế phẩm vệ sinh, dầu đã được sulphonat hoá hoặc các mặt hàng khác thuộc Phần VI;\n(f) Chất thay thế cao su được điều chế từ dầu (nhóm 40.02).\n\nCác khái niệm quan trọng bao gồm sự phân biệt giữa chất béo (este của glycerin và axit béo) và sáp (este của axit béo bậc cao và cồn trừ glycerin). Chương cũng định nghĩa các quá trình như phân đoạn (không làm thay đổi cấu trúc hóa học) và làm biến chất (thêm chất làm cho không ăn được). Các nhóm từ 15.07 đến 15.15 bao gồm các loại chất béo và dầu thực vật hoặc vi sinh vật đơn, không bay hơi, chưa bị thay đổi về mặt hóa học.",
+    "en": "This Chapter covers animal, vegetable or microbial fats and oils, whether crude, refined or treated (e.g., boiled, hydrogenated); their cleavage products (e.g., crude glycerol); prepared edible fats (e.g., margarine); animal or vegetable waxes; and residues from the treatment of these substances.\n\nThis Chapter does not cover:\n(a) Pig fat or poultry fat of heading 02.09;\n(b) Cocoa butter, fat or oil (heading 18.04);\n(c) Edible preparations containing by weight more than 15% of the products of heading 04.05 (generally Chapter 21);\n(d) Greaves (heading 23.01) or residues of headings 23.04 to 23.06;\n(e) Fatty acids, prepared waxes, medicaments, paints, varnishes, soap, perfumery, cosmetic or toilet preparations, sulphonated oils or other goods of Section VI;\n(f) Factice derived from oils (heading 40.02).\n\nKey concepts include the distinction between fats (esters of glycerol and fatty acids) and waxes (esters of higher fatty acids and alcohols other than glycerol). The Chapter also defines processes such as fractionation (which does not alter the chemical structure) and denaturing (adding substances to render inedible). Headings 15.07 to 15.15 cover single, fixed vegetable or microbial fats and oils, not chemically modified."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Chương này không bao gồm:\n(a) Mỡ lợn hoặc mỡ gia cầm thuộc nhóm 02.09;\n(b) Bơ ca cao, chất béo hoặc dầu cacao (nhóm 18.04);\n(c) Các chế phẩm ăn được có chứa hàm lượng trên 15% tính theo trọng lượng các sản phẩm của nhóm 04.05 (thường thuộc Chương 21);\n(d) Tóp mỡ (nhóm 23.01) hoặc phế liệu thuộc các nhóm từ 23.04 đến 23.06;\n(e) Axit béo, sáp đã chế biến, dược phẩm, sơn, vecni, xà phòng, nước hoa, mỹ phẩm hoặc chế phẩm vệ sinh, dầu đã được sulphonat hoá hoặc các mặt hàng khác thuộc Phần VI; hoặc\n(f) Chất thay thế cao su được điều chế từ dầu (nhóm 40.02).",
+        "en": "1. This Chapter does not cover:\n(a) Pig fat or poultry fat of heading 02.09;\n(b) Cocoa butter, fat or oil (heading 18.04);\n(c) Edible preparations containing by weight more than 15% of the products of heading 04.05 (generally Chapter 21);\n(d) Greaves (heading 23.01) or residues of headings 23.04 to 23.06;\n(e) Fatty acids, prepared waxes, medicaments, paints, varnishes, soap, perfumery, cosmetic or toilet preparations, sulphonated oils or other goods of Section VI; or\n(f) Factice derived from oils (heading 40.02)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2. Nhóm 15.09 không áp dụng cho các loại dầu ô liu thu được bằng phương pháp tách chiết dung môi (nhóm 15.10).",
+        "en": "2. Heading 15.09 does not apply to oils obtained from olives by solvent extraction (heading 15.10)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "3. Nhóm 15.18 không bao gồm chất béo hoặc dầu hay phân đoạn của chúng, mới chỉ làm biến chất, những loại đó được phân loại vào nhóm thích hợp tương ứng với các loại chất béo và dầu và phân đoạn của chúng chưa bị biến chất.",
+        "en": "3. Heading 15.18 does not cover fats or oils or their fractions, merely denatured, which are to be classified in the heading appropriate to the corresponding undenatured fats and oils and their fractions."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "4. Nguyên liệu sản xuất xà phòng, cặn dầu, hắc ín stearin, hắc ín glyxerin và phế liệu mỡ lông (wool grease) được phân loại vào nhóm 15.22.",
+        "en": "4. Soap-stocks, oil foots and dregs, stearin pitch, glycerol pitch and wool grease residues fall in heading 15.22."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm.\n1. Theo mục đích của phân nhóm 1509.30, dầu ô liu nguyên chất (virgin olive oil) có chỉ số axit tự do tính theo axit oleic không quá 2,0g/100g và được phân biệt với các loại dầu ô liu nguyên chất khác (other virgin olive oils) tùy thuộc vào đặc tính theo chỉ dẫn Tiêu chuẩn Codex Alimentarius 33-1981.",
+        "en": "Subheading Note.\n1. For the purposes of subheading 1509.30, virgin olive oil has a free acidity expressed as oleic acid not exceeding 2,0 g/ 100 g and can be distinguished from the other virgin olive oil categories according to the characteristics indicated in the Codex Alimentarius Standard 33-1981."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2. Theo mục đích của các phân nhóm 1514.11 và 1514.19, khái niệm \"dầu cây cải dầu (rape oil hoặc colza oil) có hàm lượng axit eruxic thấp\" có nghĩa là dầu không bay hơi với hàm lượng axit eruxic dưới 2% tính theo khối lượng.",
+        "en": "2. For the purposes of subheadings 1514.11 and 1514.19, the expression “low erucic acid rape or colza oil” means the fixed oil which has an erucic acid content of less than 2% by weight."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) Chương này gồm:\n(1) Chất béo và dầu có nguồn gốc động vật, thực vật hoặc vi sinh vật, dạng thô, làm sạch hoặc tinh lọc hoặc tinh chế hoặc chế biến theo một số cách khác (ví dụ, được đun sôi, sulphurơ hoá hoặc hydro hoá).\n(2) Một số sản phẩm từ chất béo hoặc từ dầu, nhất là những sản phẩm từ sự phân ly chất béo hoặc dầu (ví dụ, glycerin thô).",
+        "en": "(A) This Chapter covers :\n(1) Animal, vegetable or microbial fats and oils, whether crude, purified or refined or treated in certain ways (e.g., boiled, sulphurised or hydrogenated).\n(2) Certain products derived from fats or oils, particularly their cleavage products (e.g., crude glycerol)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(3) Hợp chất ăn được của chất béo và dầu (ví dụ, margarin).\n(4) Sáp động vật hoặc thực vật\n(5) Phế thải thu được từ việc chế biến các chất béo từ sáp động vật hoặc thực vật.",
+        "en": "(3) Compounded edible fats and oils (e.g., margarine).\n(4) Animal or vegetable waxes.\n(5) Residues resulting from the treatment of fatty substances or of animal or vegetable waxes."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, Chương này không bao gồm:\n(a) Mỡ lợn không dính nạc, và mỡ gia cầm, chưa nấu chảy hoặc chiết xuất cách khác, thuộc nhóm 02.09.\n(b) Bơ và chất béo và dầu khác thu được từ sữa (nhóm 04.05); chất phết từ bơ sữa thuộc nhóm 04.05.\n(c) Bơ, chất béo và dầu từ cacao (nhóm 18.04).\n(d) Tóp mỡ (nhóm 23.01); khô dầu, khô dầu ô liu và chất bã khác (trừ cặn) chiết từ chất béo hoặc dầu thực vật (các nhóm từ 23.04 đến 23.06).\n(e) Axit béo, dầu axit tinh chế, cồn béo, glycerin (trừ glycerin thô), sáp đã chế biến, dược phẩm, sơn, vecni, xà phòng, nước hoa, mỹ phẩm hoặc chế phẩm vệ sinh, dầu sulphonat hóa hoặc những sản phẩm khác thuộc Phần VI.\n(f) Chất thay thế cao su dẫn xuất từ dầu (nhóm 40.02).",
+        "en": "The following are, however, excluded :\n(a) Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, of heading 02.09.\n(b) Butter and other fats and oils derived from milk (heading 04.05); dairy spreads of heading 04.05.\n(c) Cocoa butter, fat and oil (heading 18.04).\n(d) Greaves (heading 23.01): oil cake, residual olive pulp and other residues (except dregs) resulting from the extraction of vegetable or microbial fats and oils (headings 23.04 to 23.06).\n(e) Fatty acids, acid oils from refining, fatty alcohols, glycerol (other than crude glycerol), prepared waxes, medicaments, paints, varnishes, soap, perfumery, cosmetic or toilet preparations, sulphonated oils or other goods of Section VI.\n(f) Factice derived from oils (heading 40.02)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Trừ dầu cá nhà táng và dầu jojoba, chất béo và dầu thực vật hoặc động vật là este của glycerin với axit béo (như axit palmitic, stearic và oleic). Chúng có thể ở thể rắn hoặc lỏng, nhưng tất cả đều nhẹ hơn nước. Chúng không tan hoàn toàn trong nước, nhưng tan hoàn toàn trong diethyl ether, carbon disulphide, carbon tetrachloride, benzene v.v... Este tạo thành từ các chất béo triglyceride có thể bị phân hủy (sự xà phòng hóa) thành glycerin và axit béo, hoặc thành glycerin và muối kiềm của axit béo (xà phòng). Các nhóm 15.04 và từ 15.06 đến 15.15 cũng bao gồm những phần phân đoạn của chất béo và của dầu, với điều kiện chúng không được mô tả cụ thể hơn ở nơi khác trong Danh mục (ví dụ, mỡ cá nhà táng thuộc nhóm 15.21). Những phương pháp chính dùng để phân đoạn gồm phân đoạn khô, phân đoạn bằng dung môi, và phân đoạn với sự trợ giúp của tác nhân hoạt động bề mặt.",
+        "en": "With the exception of sperm oil and jojoba oil, animal, vegetable or microbial fats and oils are esters of glycerol with fatty acids (such as palmitic, stearic and oleic acids). They may be either solid or fluid, but are all lighter than water. They are all insoluble in water, but completely soluble in diethyl ether, carbon disulphide, carbon tetrachloride, benzene, etc. The esters forming triglyceride fats can be broken up (saponification) giving glycerol and fatty acids, or glycerol and the alkali salts of fatty acids (soaps). Headings 15.04 and 15.06 to 15.15 also cover fractions of the fats and oils mentioned in those headings, provided they are not more specifically described elsewhere in the Nomenclature (e.g., spermaceti, heading 15.21). The main methods used for fractionation are dry fractionation, solvent fractionation, and fractionation with the assistance of a surface-active agent."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Sự phân đoạn không dẫn đến thay đổi về cấu trúc hoá học của chất béo và dầu. Thuật ngữ 'chất béo hoặc dầu hoặc phân đoạn của chúng, mới chỉ làm biến chất' (Chú giải 3) đề cập đến chất béo hoặc dầu được thêm một chất làm biến tính (ví dụ, dầu cá, phenol, dầu nhựa thông) với lượng nhỏ (thường không quá 1%) để làm cho chúng không phù hợp để ăn. Chú giải 3 không áp dụng cho hỗn hợp hoặc chế phẩm biến chất của chất béo hoặc dầu (nhóm 15.18).",
+        "en": "Fractionation does not cause any changes in the chemical structure of the fats or oils. The expression “fats or oils or their fractions, merely denatured” (Note 3) refers to fats or oils to which a denaturant (e.g., fish oil, phenols, oil of turpentine) has been added in small quantities (generally not more than 1 %) to render them inedible. Note 3 does not apply to denatured mixtures or preparations of fats or oils or their fractions (heading 15.18)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Theo các loại trừ trong Chú giải 1, chất béo và dầu và các phần phân đoạn của chúng vẫn thuộc Chương này dù được dùng làm thực phẩm hoặc cho mục đích kỹ thuật hoặc công nghiệp. Sáp động vật hoặc thực vật cơ bản bao gồm các este của axit béo bậc cao với một số loại cồn trừ glycerin. Các loại sáp này không sinh ra glycerin khi thủy phân, không bốc mùi hăng của mỡ khi làm nóng và không bị ôi. Sáp thường cứng hơn chất béo.",
+        "en": "Subject to the exclusions in Note 1, animal, vegetable or microbial fats and oils and their fractions are classified in this Chapter whether used as foodstuffs or for technical or industrial purposes. Vegetable or animal waxes consist essentially of the esters of certain higher fatty acids with certain alcohols other than glycerol. These waxes do not yield glycerol on hydrolysis and on heating they do not give off the acrid odour of fats and do not become rancid. Waxes are generally harder than fats."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(B) Các nhóm từ 15.07 đến 15.15 bao gồm chất béo và dầu thực vật hoặc vi sinh vật đơn lẻ (không trộn lẫn), không bay hơi, cùng với các phần phân đoạn của chúng, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học. Chất béo và dầu thực vật rất phổ biến trong tự nhiên và được chiết xuất bằng cách ép hoặc bằng dung môi.",
+        "en": "(B) Headings 15.07 to 15.15 of this Chapter cover the single (i.e., not mixed with fats or oils of another nature), fixed vegetable or microbial fats and oils mentioned in the headings, together with their fractions, whether or not refined, but not chemically modified. Vegetable fats and oils occur widely in nature and are extracted by pressure or by means of solvents."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chất béo và dầu thực vật hoặc vi sinh vật trong các nhóm này là chất béo và dầu không bay hơi, tức là, không thể dễ dàng chưng cất mà không phân ly. Với ngoại lệ, ví dụ, dầu jojoba, chất béo và dầu thực vật là hỗn hợp các glycerit.",
+        "en": "The vegetable or microbial fats and oils classified in these headings are fixed fats and oils - i.e., fats and oils which cannot easily be distilled without decomposition. With the exception of, e.g., jojoba oil, vegetable fats and oils are mixtures of glycerides."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các nhóm này bao gồm chất béo thô và dầu thô và các phân đoạn của chúng, cũng như đã được tinh chế hoặc làm tinh khiết, ví dụ, bằng cách làm sạch, rửa, lọc, khử màu, khử axit hoặc khử mùi. Sản phẩm phụ khi tinh chế dầu, ví dụ, “cặn bã dầu”, và nguyên liệu làm xà phòng thuộc nhóm 15.22. Dầu axit từ quá trình tinh chế thuộc nhóm 38.23. Chất béo và dầu trong các nhóm này có nguồn gốc không chỉ từ hạt và quả có dầu của các nhóm từ 12.01 đến 12.07 mà còn từ những nguyên liệu thực vật trong các nhóm khác (ví dụ, dầu ôliu, dầu từ nhân hạt của nhóm 12.12, dầu từ quả của nhóm 08.02, dầu từ mầm ngũ cốc) và từ vi sinh vật. Các nhóm này không bao gồm các hỗn hợp hoặc các chế phẩm, hoặc chất béo và dầu thực vật đã thay đổi về mặt hoá học (nhóm 15.16, 15.17 hoặc 15.18).",
+        "en": "These headings cover crude fats and oils and their fractions, as well as those which have been refined or purified, e.g., by clarifying, washing, filtering, decolourising, deacidifying or deodorising. The by-products of the refining of oils, e.g., “oil foots and dregs” and soap-stocks fall in heading 15.22. Acid oils from refining fall in heading 38.23. The vegetable fats and oils covered by these headings are obtained from the oil seeds and oleaginous fruits of headings 12.01 to 12.07, but may also be obtained from vegetable materials classified elsewhere (e.g.: olive oil, oils from kernels of heading 12.12, oils from nuts of heading 08.02, oil from germ of cereals) and from oleaginous microorganisms. These headings do not cover edible or inedible mixtures or preparations, or vegetable fats and oils that have been chemically modified (heading 15.16, 15.17 or 15.18)."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "15.01",
+      "heading_title": {
+        "vi": "Mỡ lợn (kể cả mỡ từ mỡ lá và mỡ khổ) và mỡ gia cầm, trừ các loại thuộc nhóm 02.09 hoặc 15.03.",
+        "en": "Pig fat (including lard) and poultry fat, other than that of heading 02.09 or 15.03."
+      }
+    },
+    {
+      "heading_id": "15.02",
+      "heading_title": {
+        "vi": "Mỡ của động vật họ trâu bò, cừu hoặc dê, trừ các loại mỡ thuộc nhóm 15.03.",
+        "en": "Fats of bovine animals, sheep or goats, other than those of heading 15.03."
+      }
+    },
+    {
+      "heading_id": "15.03",
+      "heading_title": {
+        "vi": "Stearin mỡ lợn, dầu mỡ lợn, oleostearin, dầu oleo và dầu tallow, chưa nhũ hoá hoặc chưa pha trộn hoặc chưa chế biến cách khác.",
+        "en": "Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared."
+      }
+    },
+    {
+      "heading_id": "15.04",
+      "heading_title": {
+        "vi": "Mỡ và dầu và các phần phân đoạn của chúng, từ cá hoặc các loài động vật có vú sống ở biển, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học.",
+        "en": "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.05",
+      "heading_title": {
+        "vi": "Mỡ lông và chất béo thu được từ mỡ lông (kể cả lanolin).",
+        "en": "Wool grease and fatty substances derived therefrom (including lanolin)."
+      }
+    },
+    {
+      "heading_id": "15.06",
+      "heading_title": {
+        "vi": "Mỡ và dầu động vật khác và các phần phân đoạn của chúng, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học.",
+        "en": "Other animal fats and oils and their fractions, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.07",
+      "heading_title": {
+        "vi": "Dầu đậu tương và các phần phân đoạn của dầu đậu tương, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học",
+        "en": "Soya-bean oil and its fractions, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.08",
+      "heading_title": {
+        "vi": "Dầu lạc và các phần phân đoạn của dầu lạc, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học.",
+        "en": "Ground-nut oil and its fractions, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.09",
+      "heading_title": {
+        "vi": "Dầu ô liu và các phần phân đoạn của dầu ô liu, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học.",
+        "en": "Olive oil and its fractions, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.10",
+      "heading_title": {
+        "vi": "Dầu khác và các phần phân đoạn của chúng, thu được duy nhất từ ô liu, đã hoặc chưa tinh chế, nhưng chưa thay đổi về mặt hóa học, kể cả hỗn hợp của các loại dầu này hoặc các phần phân đoạn của các loại dầu này với dầu hoặc các phần phân đoạn của dầu thuộc nhóm 15.09.",
+        "en": "Other oils and their fractions, obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 15.09."
+      }
+    },
+    {
+      "heading_id": "15.11",
+      "heading_title": {
+        "vi": "Dầu cọ và các phần phân đoạn của dầu cọ, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hóa học.",
+        "en": "Palm oil and its fractions, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.12",
+      "heading_title": {
+        "vi": "Dầu hạt hướng dương, dầu cây rum hoặc dầu hạt bông và các phần phân đoạn của chúng, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hóa học.",
+        "en": "Sunflower-seed, safflower or cotton-seed oil and fractions thereof, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.13",
+      "heading_title": {
+        "vi": "Dầu dừa (copra), dầu hạt cọ hoặc dầu cọ ba-ba-su và các phần phân đoạn của chúng, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hóa học.",
+        "en": "Coconut (copra), palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.14",
+      "heading_title": {
+        "vi": "Dầu cây cải dầu (rape oil hoặc colza oil) hoặc dầu mù tạt và các phần phân đoạn của chúng, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hóa học.",
+        "en": "Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.15",
+      "heading_title": {
+        "vi": "Chất béo và dầu không bay hơi khác của thực vật hoặc vi sinh vật (kể cả dầu jojoba) và các phần phân đoạn của chúng, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hóa học.",
+        "en": "Other fixed vegetable or microbial fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified."
+      }
+    },
+    {
+      "heading_id": "15.16",
+      "heading_title": {
+        "vi": "Chất béo và dầu động vật, thực vật hoặc vi sinh vật và các phần phân đoạn của chúng, đã qua hydro hóa, este hóa liên hợp, tái este hóa hoặc elaiđin hóa toàn bộ hoặc một phần, đã hoặc chưa tinh chế, nhưng chưa chế biến thêm.",
+        "en": "Animal, vegetable or microbial fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised, whether or not refined, but not further prepared."
+      }
+    },
+    {
+      "heading_id": "15.17",
+      "heading_title": {
+        "vi": "Margarin; các hỗn hợp hoặc các chế phẩm ăn được của chất béo hoặc dầu động vật, thực vật hoặc vi sinh vật hoặc các phần phân đoạn của các loại chất béo hoặc dầu khác nhau thuộc Chương này, trừ chất béo hoặc dầu ăn được hoặc các phần phân đoạn của chúng thuộc nhóm 15.16.",
+        "en": "Margarine; edible mixtures or preparations of animal or vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, other than edible fats and oils or their fractions of heading 15.16."
+      }
+    },
+    {
+      "heading_id": "15.18",
+      "heading_title": {
+        "vi": "Chất béo và dầu động vật hoặc thực vật và các phần phân đoạn của chúng, đã đun sôi, oxy hoá, khử nước, sulphat hoá, thổi khô, polyme hoá bằng cách đun nóng trong chân không hoặc trong khí trơ hoặc bằng biện pháp thay đổi về mặt hoá học khác, trừ loại thuộc nhóm 15.16; các hỗn hợp hoặc các chế phẩm không ăn được từ chất béo hoặc dầu động vật hoặc thực vật hoặc vi sinh vật hoặc từ các phần phân đoạn của các loại chất béo hoặc dầu khác nhau thuộc Chương này, chưa được chi tiết hoặc ghi ở nơi khác.",
+        "en": "Animal, vegetable or microbial fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or in inert gas or otherwise chemically modified, excluding those of heading 15.16; inedible mixtures or preparations of animal, vegetable or microbial fats or oils or of fractions of different fats or oils of this Chapter, not elsewhere specified or included."
+      }
+    },
+    {
+      "heading_id": "15.20",
+      "heading_title": {
+        "vi": "Glycerin, thô; nước glycerin và dung dịch kiềm glycerin.",
+        "en": "Glycerol, crude; glycerol waters and glycerol lyes."
+      }
+    },
+    {
+      "heading_id": "15.21",
+      "heading_title": {
+        "vi": "Sáp thực vật (trừ triglyxerit), sáp ong, sáp côn trùng khác và sáp cá nhà táng, đã hoặc chưa tinh chế hay pha màu.",
+        "en": "Vegetable waxes (other than triglycerides), beeswax, other insect waxes and spermaceti, whether or not refined or coloured."
+      }
+    },
+    {
+      "heading_id": "15.22",
+      "heading_title": {
+        "vi": "Chất nhờn; bã, cặn còn lại sau quá trình xử lý các chất béo hoặc sáp động vật hoặc thực vật.",
+        "en": "Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes."
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "heading_id": "28.44",
+  "heading_title": {
+    "vi": "Các nguyên tố hóa học phóng xạ và các đồng vị phóng xạ (kể cả các nguyên tố hóa học và các đồng vị có khả năng phân hạch hoặc làm giàu) và các hợp chất của chúng; hỗn hợp và các phế liệu có chứa các sản phẩm trên.",
+    "en": "Radioactive chemical elements and radioactive isotopes (including the fissile or fertile chemical elements and isotopes) and their compounds; mixtures and residues containing these products."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các nguyên tố hóa học phóng xạ (ví dụ: tecneti, promethi, poloni, thori, urani, plutoni), các đồng vị phóng xạ (tự nhiên hoặc nhân tạo), và các hợp chất vô cơ hoặc hữu cơ của chúng. Nhóm này cũng bao gồm các nguyên tố và đồng vị có khả năng phân hạch (fissile) hoặc làm giàu (fertile), chẳng hạn như urani-233, urani-235, plutoni-239 (phân hạch), và thori-232, urani-238 (làm giàu). Các hỗn hợp (hợp kim, chất tán xạ, gốm kim loại), các sản phẩm gốm và các phế liệu (bao gồm cả các thanh nhiên liệu đã qua sử dụng từ lò phản ứng hạt nhân) có chứa các chất phóng xạ cũng thuộc nhóm này, với điều kiện hoạt độ phóng xạ riêng của chúng lớn hơn 74 Bq/g (0,002 μCi/g). Tuy nhiên, đối với các hợp chất phóng xạ hoặc dung dịch của chúng, chúng vẫn được phân loại trong nhóm này ngay cả khi hoạt độ phóng xạ riêng thấp hơn ngưỡng này.\n\nNhóm này không bao gồm (loại trừ):\n- Các nguyên tố có hỗn hợp đồng vị bền và phóng xạ được coi là ổn định trên thực tế do mức độ phóng xạ thấp (ví dụ: kali, rubidi, samari tự nhiên thuộc nhóm 28.05).\n- Các đồng vị bền (nhóm 28.45).\n- Các nguồn nơtron đã được lắp ráp, sẵn sàng để đưa vào lò phản ứng hạt nhân (được coi là bộ phận của lò phản ứng thuộc nhóm 84.01).\n- Các sản phẩm hoặc bộ phận của sản phẩm làm từ thori hoặc urani đã làm nghèo U 235 thuộc các Phần từ XVI đến XIX.",
+    "en": "This heading covers radioactive chemical elements (e.g., technetium, promethium, polonium, thorium, uranium, plutonium), radioactive isotopes (natural or artificial), and their inorganic or organic compounds. It also includes fissile and fertile chemical elements and isotopes, such as uranium-233, uranium-235, plutonium-239 (fissile), and thorium-232, uranium-238 (fertile). Mixtures (alloys, dispersions, cermets), ceramic products, and residues (including spent fuel elements from nuclear reactors) containing these radioactive substances are also included, provided their specific radioactivity is greater than 74 Bq/g (0.002 µCi/g). However, for radioactive compounds or their solutions, they remain in this heading even if their specific radioactivity is below this threshold.\n\nThis heading does not include (exclusions):\n- Elements with mixtures of stable and radioactive isotopes that are considered practically stable due to low radioactivity levels (e.g., natural potassium, rubidium, samarium of heading 28.05).\n- Stable isotopes (heading 28.45).\n- Assembled neutron sources ready for introduction into nuclear reactors (considered parts of reactors of heading 84.01).\n- Articles or parts of articles made of thorium or uranium depleted in U 235 of Sections XVI to XIX."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(I) ĐỒNG VỊ\nHạt nhân của một nguyên tố được xác định bởi số nguyên tử của nó, luôn chứa cùng số lượng như vậy các hạt proton, nhưng chúng có thể có số lượng notron khác nhau và, vì vậy, sẽ có sự khác nhau về khối lượng (khác nhau về số khối lượng). Những hạt nhân chỉ khác về số khối lượng mà không khác về số nguyên tử, thì được gọi là đồng vị của nguyên tố đó. Ví dụ, urani 233, urani 235, urani 238,... là đồng vị của urani. Các đồng vị khác nhau của một nguyên tố sẽ có đặc tính hóa học giống nhau nhưng tính chất vật lý sẽ biến thiên. Nguyên tố hóa học bao gồm một hạt nhân đơn (đồng vị đơn) hoặc hỗn hợp từ hai hay nhiều đồng vị. Khi một nguyên tố bao gồm hỗn hợp các đồng vị, các phần cấu thành của nó có thể bị phân chia. Đồng vị cũng có thể tạo ra bằng cách bắn phá các nguyên tố tự nhiên.",
+        "en": "(I) ISOTOPES\nThe nuclei of an element, defined by its atomic number, always contain the same number of protons, but they may have different numbers of neutrons and, consequently, will be of different mass (different mass number). Nuclides which differ only in the mass number and not in the atomic number, are called isotopes of the element. For example, uranium 233, uranium 235, uranium 238, etc. are isotopes of uranium. Different isotopes of an element will have the same chemical properties but their physical properties will vary. Chemical elements are composed either of a single nuclide (monoisotopic elements) or of a mixture of two or more isotopes. When an element is composed of a mixture of isotopes, its constituent parts can be separated. Isotopes can also be made by bombarding natural elements."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Đối với mục đích của Chú giải 6 của Chương này và của nhóm 28.44 và 28.45, thuật ngữ đồng vị bao hàm không chỉ các đồng vị ở trạng thái tinh khiết mà cả các nguyên tố hóa học mà thành phần đồng vị tự nhiên đã được cải biến nhân tạo. Các nguyên tố tồn tại ở trong tự nhiên ở trạng thái đồng vị đơn (ví dụ Beri 9, Flo 19, Nhôm 27,...) không được coi là đồng vị, nhưng vẫn được phân loại trong các nhóm cụ thể liên quan. Tuy nhiên, các đồng vị phóng xạ của cùng các nguyên tố này được tạo ra bằng cách nhân tạo (ví dụ, Be 10, F 18, Al 29) cũng được coi là đồng vị. Nhóm này chỉ bao gồm những đồng vị có hiện tượng của chất phóng xạ; các đồng vị bền vững được phân loại ở nhóm 28.45.\n(II) TÍNH PHÓNG XẠ\nMột số hạt nhân không bền vững, phát ra các tia phóng xạ hỗn hợp tạo ra hiệu ứng vật lý hoặc hóa học như ion hóa khí, phát huỳnh quang, làm mờ bản ảnh. Đây là hiện tượng mang tính phóng xạ, các nguyên tố hóa học, các đồng vị, các hợp chất và, nói chung, các chất được trình bày ở đây được gọi là phóng xạ.",
+        "en": "For the purposes of Note 6 to this Chapter and of headings 28.44 and 28.45, the term isotopes covers not only isotopes in their pure state but also chemical elements whose natural isotopic composition has been artificially modified. Elements existing in nature in the monoisotopic state, e.g., beryllium 9, fluorine 19, aluminium 27, etc., are not to be considered as isotopes, but are to be classified in the more specific headings relating. Radioactive isotopes of these same elements obtained artificially (e.g. Be 10, F 18, Al 29) are, however, to be considered as isotopes. This heading covers only those isotopes which possess the phenomenon of radioactivity; stable isotopes, on the other hand, are classified in heading 28.45.\n(II) RADIOACTIVITY\nCertain nuclides, whose nuclei are unstable, emit complex radiations producing physical or chemical effects such as ionisation of gases, fluorescence, fogging of photographic plates. This is the phenomenon of radioactivity; chemical elements, isotopes, compounds and, in general, substances that display it are called radioactive."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(III) CÁC NGUYÊN TỐ HÓA HỌC PHÓNG XẠ, CÁC ĐỒNG VỊ PHÓNG XẠ VÀ HỢP CHẤT CỦA CHÚNG; HỖN HỢP VÀ CÁC PHẾ LIỆU CÓ CHỨA CÁC SẢN PHẨM TRÊN.\n(A) Các nguyên tố phóng xạ. Bao gồm các nguyên tố hóa học phóng xạ đã nêu ở Chú giải 6(a) của Chương này: tecneti, promethi, poloni và tất cả các nguyên tố có số nguyên tử lớn hơn, như là astatin, radon, franci, radi, actini, thori, protactini, urani, neptuni, plutoni, americi, curi, berkeli, californi, einsteini, fermi, mendelevi, nobeli và lawrenci. Các nguyên tố bao gồm các hỗn hợp các đồng vị phóng xạ và bền vững như Kali, Rubi, Samari và Luteti (nhóm 28.05), mà có thể xem như thực sự ổn định thì không xếp vào nhóm này. Tuy nhiên, nếu các nguyên tố đó được làm giàu các đồng vị phóng xạ của chúng thì sẽ được coi là đồng vị phóng xạ của nhóm này.\n(B) Đồng vị phóng xạ. Gồm các đồng vị phóng xạ tự nhiên (K 40, U 235, U 238,...) và các đồng vị phóng xạ nhân tạo. Các nguyên tố hóa học mà thông thường ổn định có thể trở thành chất phóng xạ sau khi bị bắn phá với các hạt có động năng rất lớn hoặc sau khi hấp thụ nơtron trong một lò phản ứng hạt nhân.",
+        "en": "(Ill) RADIOACTIVE CHEMICAL ELEMENTS, RIDIOACTIVE ISOTOPES AND THEIR COMPOUNDS; MIXTURES AND RESIDUES CONTAINING THESE PRODUCTS\n(A) Radioactive elements. Within this heading fall the radioactive chemical elements referred to in Note 6 (a) to this Chapter, namely : technetium, promethium, polonium and all elements of greater atomic number, such as astatine, radon, francium, radium, actinium, thorium, protactinium, uranium, neptunium, plutonium, americium, curium, berkelium, californium, einsteinium, fermium, mendelevium, nobelium and lawrencium. Elements composed of mixtures of stable and radioactive isotopes, such as potassium, rubidium, samarium and lutetium (heading 28.05), which can be considered as practically stable do not fall in this heading. On the other hand, the same elements, if enriched in their radioactive isotopes, are to be considered as radioactive isotopes of this heading.\n(B) Radioactive isotopes. Includes natural radioactive isotopes (potassium 40, U 235, U 238, etc.) and artificial radioactive isotopes. Chemical elements which are normally stable may nonetheless become radioactive either after bombardment with particles having a very high kinetic energy or after absorbing neutrons in a nuclear reactor."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Các nguyên tố hóa học phóng xạ và đồng vị được xếp vào nhóm này, thậm chí kể cả khi ở dạng hỗn hợp hoặc với hợp chất phóng xạ, hoặc với các nguyên liệu không mang tính phóng xạ, có hoạt độ phóng xạ lớn hơn 74 Bg/g (0,002 µCi/g).\n(C) Các hợp chất phóng xạ; hỗn hợp và các phế liệu có chứa các chất phóng xạ. Các nguyên tố hóa học phóng xạ và đồng vị trong nhóm này thường được sử dụng ở dạng hợp chất hoặc các sản phẩm được “dán nhãn”. Các hợp chất như thế vẫn được phân loại trong nhóm này, thậm chí khi bị hòa tan hoặc bị phân tán, hoặc trộn lẫn với các vật liệu khác. Chúng cũng được phân loại trong nhóm này khi ở dạng hợp kim, tán xạ hoặc gốm kim loại. Các hợp chất vô cơ hoặc hữu cơ tạo thành từ các nguyên tố hóa học phóng xạ hoặc đồng vị phóng xạ, và dung dịch của chúng, cũng được xếp trong nhóm này, thậm chí nếu hoạt tính phóng xạ của chúng thấp hơn 74 Bq/g (0,002 μCi/g); mặt khác, hợp kim, chất tán xạ, các sản phẩm sứ và các hỗn hợp có chứa các chất phóng xạ được xếp vào trong nhóm này nếu hoạt tính phóng xạ của chúng lớn hơn 74 Bq/g (0.002 μCi/g). Các hợp chất phóng xạ quan trọng nhất là: (1) Muối radi (clorua, bromua, sulphat,...) được dùng làm nguồn phóng xạ.",
+        "en": "Radioactive chemical elements and isotopes fall in this heading, even when mixed together or with radioactive compounds, or with non-radioactive materials, provided that the specific radioactivity of the product is greater than 74 Bg/g (0.002 µCi/g).\n(C) Radioactive compounds; mixtures and residues containing radioactive substances. The radioactive chemical elements and isotopes of the present heading are often used in the form of compounds or products which are “ labelled \". Such compounds remain classified in this heading, even when dissolved or dispersed in, or mixed with, other radioactive or non-radioactive materials. These elements and isotopes are also classified in this heading when in the form of alloys, dispersions or cermets. Inorganic or organic compounds, chemically or otherwise constituted of radioactive chemical elements or radioactive isotopes, and solutions thereof, still fall in this heading, even if the specific radioactivity of these compounds or solutions is below 74 Bq/g (0.002 μCi/g); on the other hand, alloys, dispersions (including cermets), ceramic products and mixtures containing radioactive substances fall in this heading if their specific radioactivity is greater than 74 Bq/g (0.002 μCi/g). The most important radioactive compounds are: (1) Radium salts (chloride, bromide, sulphate, etc.) used as radiation sources."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "(2) Các hợp chất đồng vị phóng xạ nhân tạo được sử dụng trong: (a) công nghiệp (chiếu chụp kim loại, đo độ dày, sản xuất sơn phát quang); (b) y học (chẩn đoán, điều trị bệnh); (c) nông nghiệp (thanh trùng, nghiên cứu phân bón, biến đổi gen); (d) sinh học (nghiên cứu chức năng cơ quan); (e) nghiên cứu vật lý và hóa học. Các đồng vị phóng xạ và hợp chất của nó thường được đựng trong các thùng chứa bên ngoài có lớp kim loại chống phóng xạ. Các hỗn hợp có thể bao gồm các nguồn nơtron được hình thành bằng cách kết hợp một nguyên tố phóng xạ với một nguyên tố khác. Tuy vậy, tất cả các nguồn neutron đã được tập hợp lại, sẵn sàng được đưa vào các lò phản ứng hạt nhân để bắt đầu một phản ứng dây truyền phân hạch, sẽ được coi như các bộ phận hợp thành lò phản ứng và vì vậy được phân loại ở nhóm 84.01. Các vi hạt của nhiên liệu hạt nhân được phủ các lớp cacbon hoặc silic cacbua cũng được xếp ở nhóm này. Cũng bao gồm trong nhóm này là các sản phẩm được sử dụng làm chất phát quang có thêm chất phóng xạ, với điều kiện độ phóng xạ lớn hơn 74 Bq/g (0,002 μCi/g).",
+        "en": "(2) Compounds of artificial radioactive isotopes are used: (a) In industry (metal radiography, measuring thickness, manufacture of luminous paint); (b) In medicine (diagnosing, treating diseases); (c) In agriculture (sterilising produce, fertiliser studies, genetic mutations); (d) In biology (studying organ functions); (e) In physical or chemical research. Radioactive isotopes and their compounds are normally packed in anti-radiation metal outer containers. Mixtures may include certain neutron sources formed by associating a radioactive element with another element. However, all assembled neutron sources, ready to be introduced into nuclear reactors to initiate a fission chain reaction, are to be considered as reactor components and consequently are to be classified in heading 84.01. Microspheres of nuclear fuel coated with layers of carbon or silicon carbide fall in this heading. Also included in this heading are the products used as luminophores with added radioactive substances, provided that the resulting specific radioactivity is greater than 74 Bq/g (0.002 μCi/g)."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "Trong các chất thải phóng xạ, quan trọng nhất là: (1) Nước nặng đã được chiếu xạ hoặc Triti hóa; (2) Khối nhiên liệu đã qua sử dụng (bức xạ) (Cartidge), dùng để thu hồi lại các chất có khả năng phân tách và kết hợp.\n(IV) CÁC NGUYÊN TỐ HÓA HỌC VÀ ĐỒNG VỊ VÀ CÁC HỢP CHẤT CỦA CHÚNG CÓ KHẢ NĂNG PHÂN TÁCH VÀ LÀM GIÀU; HỖN HỢP VÀ PHẾ LIỆU CÓ CHỨA CÁC HỢP CHẤT ĐÓ.\n(A) Các nguyên tố hóa học và đồng vị có khả năng phân tách và kết hợp. Một số nguyên tố có khối lượng nguyên tử lớn (thori, urani, plutoni) có hạt nhân có thể phân chia (phân hạch) khi bị tác động bởi các hạt nguyên tử, giải phóng năng lượng lớn và nơtron thứ cấp, tạo ra phản ứng dây chuyền. Sự phân hạch bởi các nơtron chậm (nhiệt) được sử dụng trong các lò phản ứng hạt nhân.",
+        "en": "Of the radioactive residues, the most important are: (1) Irradiated or tritiated heavy water; (2) Spent (irradiated) fuel elements (cartridges), used for recovering the fissile and fertile materials.\n(IV) FISSILE AND FERTILE CHEMICAL ELEMENTS AND ISOTOPES AND COMPOUNDS THEREOF; MIXTURES AND RESIDUES CONTAINING THOSE SUBSTANCES\n(A) Fissile and fertile chemical elements and isotopes. Certain radioactive chemical elements with a high atomic mass (thorium, uranium, plutonium) have nuclei that can split (fission) when subjected to the action of subatomic particles, liberating considerable energy and secondary neutrons, producing a chain reaction. Fission caused by slow (thermal) neutrons is that most used in nuclear reactors."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "Thuật ngữ 'phân hạch' (fissile) được dùng cho các đồng vị qua sự phân hạch bởi các nơtron nhiệt, đặc biệt là urani 233, urani 235, plutoni 239. Các hạt nhân khác, như urani 238 và thori 232, không phân hạch bởi nơtron chậm nhưng có thể hấp thụ chúng để tạo thành đồng vị phân hạch, được gọi là 'kết hợp' (fertile). Các nguyên tố hóa học phân hạch và hợp hạch bao gồm:\n(1) Urani tự nhiên. Bao gồm 3 đồng vị: urani 238 (99,28%), urani 235 (0,71%), và urani 234 (0,006%). Nó vừa là nguyên tố phân hạch (do có U 235) vừa là nguyên tố hợp hạch (do có U 238). Urani là nguyên tố phóng xạ yếu, rất nặng và cứng, có bề mặt màu xám bạc.",
+        "en": "The term 'fissile' is commonly used to describe isotopes which undergo fission by thermal neutrons, particularly uranium 233, uranium 235, plutonium 239. Other nuclides, such as uranium 238 and thorium 232, are considered 'fertile' as they can absorb slow neutrons, giving rise to the formation of fissile isotopes. The fissile and fertile chemical elements are listed below:\n(1) Natural uranium. Composed of three isotopes: uranium 238 (99.28 %), uranium 235 (0.71 %), and uranium 234 (about 0.006 %). It is considered as both a fissile element (because of its U 235 content) and a fertile element (because of its U 238 content). Uranium is a slightly radioactive element, very heavy and hard, with a lustrous silver-grey surface."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "(2) Thori. Chủ yếu thu được từ monazit. Thori tự nhiên bao gồm chủ yếu là đồng vị thori 232. Thori và một số hợp kim của nó được sử dụng làm nguyên liệu phân hạch trong lò phản ứng hạt nhân. Các mặt hàng hoặc phần của hàng hóa, tạo ra từ thori của Phần XVI đến XIX được loại trừ khỏi nhóm này.\n(3) Plutoni. Thu được bằng bức xạ urani 238 trong lò phản ứng hạt nhân. Nó rất nặng, có tính phóng xạ và độc tính cao. Các đồng vị phân hạch bao gồm: urani 233 (thu được từ thori 232), urani 235 (tồn tại trong tự nhiên, để thu được urani làm giàu U 235 cần phải qua quá trình phân tách đồng vị), và plutoni 239 (thu được từ urani 238). Các đồng vị kết hợp, ngoài thori 232, còn có urani đã làm nghèo (làm nghèo U 235 và làm giàu U 238). Các sản phẩm làm từ urani được làm nghèo U 235 của Phần XVI đến XIX bị loại trừ khỏi nhóm này.",
+        "en": "(2) Thorium. Mainly obtained from monazite. Natural thorium consists essentially of the isotope thorium 232. Thorium and certain thorium alloys are mainly used as fertile materials in nuclear reactors. Articles or parts of articles, made of thorium of Sections XVI to XIX are excluded from this heading.\n(3) Plutonium. Obtained by irradiating uranium 238 in a nuclear reactor. It is very heavy, radioactive and highly toxic. The fissile isotopes include: uranium 233 (obtained from thorium 232), uranium 235 (occurs in nature, obtaining uranium enriched in U 235 requires isotopic separation), and plutonium 239 (obtained from uranium 238). Of the fertile isotopes, apart from thorium 232, depleted uranium (depleted in U 235 and enriched in U 238) should be mentioned. Articles or parts of articles, made of uranium depleted in U 235, of Sections XVI to XIX are excluded from this heading."
+      }
+    },
+    {
+      "page": 10,
+      "content": {
+        "vi": "(B) Các hợp chất của các nguyên tố phân hạch và hợp hạch hoặc các đồng vị. Bao gồm các hợp chất sau:\n(1) Của urani: oxit (UO2, U3O8, UO3), florua (UF4, UF6), cacbua (UC, UC2), uranat (Na2U2O7), uranyl nitrat và uranyl sulphat.\n(2) Của plutoni: tetraflorua (PuF4), dioxit (PuO2), nitrat (PuO2(NO3)2), cacbua (PuC, Pu2C3), nitrua (PuN).\n(3) Của thori: (a) Dạng oxit (ThO2) và hydroxit (Th(OH)4), được dùng trong sản xuất măng xông đèn ga, vật liệu chịu lửa, chất xúc tác, hoặc làm nguyên liệu kết hợp trong lò phản ứng hạt nhân. (b) các muối vô cơ như thori nitrat, sunphat, clorua.",
+        "en": "(B) Compounds of fissile and fertile chemical elements or isotopes. The following compounds, in particular, fall in this heading:\n(1) of uranium: oxides (UO2, U3O8, UO3), fluorides (UF4, UF6), carbides (UC, UC2), uranates (Na2U2O7), uranyl nitrate and uranyl sulphate.\n(2) of plutonium: tetrafluoride (PuF4), dioxide (PuO2), nitrate (PuO2(NO3)2), carbides (PuC, Pu2C3), nitride (PuN).\n(3) of thorium: (a) oxide (ThO2) and hydroxide (Th(OH)4), used in the manufacture of gas-mantles, as refractory products, as catalysts, or as fertile material in nuclear reactors. (b) inorganic salts such as thorium nitrate, sulphate, chloride."
+      }
+    },
+    {
+      "page": 11,
+      "content": {
+        "vi": "(iv) thori nitrua và thori cacbua, dùng làm sản phẩm chịu nhiệt, vật liệu mài hoặc nguyên liệu làm giàu. (c) các hợp chất hữu cơ như thori fomat, axetat, được dùng trong y học.\n(C) Các hợp kim, các chất tán xạ (bao gồm cả gốm kim loại), sản phẩm gốm, hỗn hợp và chất thải có chứa nguyên tố phân hạch hoặc hợp hạch hoặc đồng vị hoặc các hợp chất của nó. Các sản phẩm chủ yếu trong nhóm này là:\n(1) Hợp kim của urani hoặc plutoni với các kim loại khác (nhôm, crom, zirconi,...).\n(2) Dạng phân tán của urani dioxit hoặc urani cacbua trong graphit hoặc polyethylen.\n(3) Gốm kim loại bao gồm kim loại (ví dụ thép không gỉ) cùng với urani dioxit, plutoni dioxit, v.v. Các sản phẩm này ở dạng thanh, tấm, bột,... được dùng để sản xuất các thành phần nhiên liệu. Dạng thỏi, tấm và hình cầu, được đựng trong bao bì và gắn với các dạng đặc biệt dùng cho mục đích vận chuyển, được xếp vào nhóm 84.01.\n(4) Bã hoặc các thành phần nhiên liệu đã chiếu xạ (cartridges), là các nhiên liệu đã qua sử dụng cần được thay thế, dùng để thu hồi các vật liệu phân hạch.",
+        "en": "(iv) thorium nitride and thorium carbide. Used as retractory products, as abrasives or as fertile materials. (c) organic compounds such as thorium formate, acetate, used in medicine.\n(C) Alloys, dispersions (including cermets), ceramic products, mixtures and residues containing fissile or fertile elements or isotopes or inorganic or organic compounds thereof. The principal products in this group are:\n(1) Alloys of uranium or plutonium with other metals (aluminium, chromium, zirconium, etc.).\n(2) Dispersions of uranium dioxide or uranium carbide in graphite or polyethylene.\n(3) Cermets consisting of various metals (e.g. stainless Steel) together with uranium dioxide, plutonium dioxide, etc. These products in the form of bars, plates, powder, etc., are used for the manufacture of fuel elements. Bars, plates and spheres, contained in a sheath and fitted with special attachments for handling purposes, fall in heading 84.01.\n(4) Spent or irradiated fuel elements (cartridges), that is, those which, after more or less extensive use, must be replaced, used for recovery of residual fissile material."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2844.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Uranium tự nhiên và các hợp chất của nó; hợp kim, các chất tán xạ (kể cả gốm kim loại), sản phẩm gốm và hỗn hợp có chứa urani tự nhiên hoặc hợp chất urani tự nhiên",
+        "en": "Natural uranium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing natural uranium or natural uranium compounds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2844.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Urani đã làm giàu thành U 235 và hợp chất của nó; pluton và hợp chất của nó; hợp kim, các chất tán xạ (kể cả gốm kim loại), sản phẩm gốm và các chất hỗn hợp có chứa urani đã làm giàu thành U 235, plutoni hay hợp chất của các sản phẩm này",
+        "en": "Uranium enriched in U 235 and its compounds; plutonium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium enriched in U 235, plutonium or compounds of these products"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2844.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Urani đã được làm nghèo thành U 235 và các hợp chất của nó; thori và các hợp chất của nó; hợp kim, các chất tán xạ (kể cả gốm kim loại), sản phẩm gốm kim loại và các chất hỗn hợp chứa urani đã được làm nghèo thành U 235, thori hay các hợp chất của các sản phẩm trên",
+        "en": "Uranium depleted in U 235 and its compounds; thorium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing uranium depleted in U 235, thorium or compounds of these products"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nguyên tố phóng xạ, đồng vị phóng xạ và các hợp chất trừ loại thuộc phân nhóm 2844.10, 2844 .20 hoặc 2844.30; hợp kim, các chất tán xạ (kể cả gốm kim loại), sản phẩm gốm và các chất hỗn hợp có chứa các nguyên tố này, đồng vị hoặc các hợp chất trên; chất thải phóng xạ",
+        "en": "Radioactive elements and isotopes and compounds other than those of subheading 2844.10, 2844.20 or 2844.30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues:"
+      },
+      "subheading_id": "2844.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Triti và các hợp chất của nó; hợp kim, chất phân tán (kể cả gốm kim loại), các sản phẩm gốm và các hỗn hợp chứa triti hoặc các hợp chất của nó",
+        "en": "Tritium and its compounds; alloys, dispersions (including cermets), ceramic products and mixtures containing tritium or its compounds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nguyên tố phóng xạ, đồng vị phóng xạ và các hợp chất trừ loại thuộc phân nhóm 2844.10, 2844 .20 hoặc 2844.30; hợp kim, các chất tán xạ (kể cả gốm kim loại), sản phẩm gốm và các chất hỗn hợp có chứa các nguyên tố này, đồng vị hoặc các hợp chất trên; chất thải phóng xạ",
+        "en": "Radioactive elements and isotopes and compounds other than those of subheading 2844.10, 2844.20 or 2844.30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues:"
+      },
+      "subheading_id": "2844.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Actini-225, actini-227, californi-253, curi-240, curi-241, curi-242, curi-243, curi-244, einsteini-253, einsteini-254, gadolini-148, poloni-208, poloni-209, polini-210, radi-223, urani-230 hoặc urani-232, và các hợp chất của chúng; hợp kim, chất phân tán (kể cả gốm kim loại), các sản phẩm gốm và các hỗn hợp chứa các nguyên tố hoặc các hợp chất này",
+        "en": "Actinium-225, actinium-227, califomium-253, curium-240, curium-241, curium-242, curium-243, curium-244, einsteinium-253, einsteinium-254, gadolinium-148, polonium-208, polonium-209, polonium-210, radium-223, uranium-230 or uranium-232, and their compounds: alloys, dispersions (including cermets), ceramic products and mixtures containing these elements or compounds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nguyên tố phóng xạ, đồng vị phóng xạ và các hợp chất trừ loại thuộc phân nhóm 2844.10, 2844 .20 hoặc 2844.30; hợp kim, các chất tán xạ (kể cả gốm kim loại), sản phẩm gốm và các chất hỗn hợp có chứa các nguyên tố này, đồng vị hoặc các hợp chất trên; chất thải phóng xạ",
+        "en": "Radioactive elements and isotopes and compounds other than those of subheading 2844.10, 2844.20 or 2844.30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues:"
+      },
+      "subheading_id": "2844.43",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Các nguyên tố, đồng vị và hợp chất phóng xạ khác; hợp kim khác, chất phân tán khác (kể cả gốm kim loại), các sản phẩm gốm và các hỗn hợp khác chứa các nguyên tố, đồng vị hoặc hợp chất này",
+        "en": "Other radioactive elements and isotopes and compounds; other alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nguyên tố phóng xạ, đồng vị phóng xạ và các hợp chất trừ loại thuộc phân nhóm 2844.10, 2844 .20 hoặc 2844.30; hợp kim, các chất tán xạ (kể cả gốm kim loại), sản phẩm gốm và các chất hỗn hợp có chứa các nguyên tố này, đồng vị hoặc các hợp chất trên; chất thải phóng xạ",
+        "en": "Radioactive elements and isotopes and compounds other than those of subheading 2844.10, 2844.20 or 2844.30; alloys, dispersions (including cermets), ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues:"
+      },
+      "subheading_id": "2844.44",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Phế liệu phóng xạ",
+        "en": "Radioactive residues"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2844.50",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Hộp (cartridges) nhiên liệu đã bức xạ của lò phản ứng hạt nhân",
+        "en": "Spent (irradiated) fuel elements (cartridges) of nuclear reactors"
+      }
+    }
+  ]
+}

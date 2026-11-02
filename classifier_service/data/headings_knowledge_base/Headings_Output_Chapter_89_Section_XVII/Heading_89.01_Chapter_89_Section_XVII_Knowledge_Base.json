@@ -1,0 +1,70 @@
+{
+  "heading_id": "89.01",
+  "heading_title": {
+    "vi": "Tàu thủy chở khách, thuyền, xuồng du lịch, phà, tàu thủy chở hàng, xà lan và các tàu thuyền tương tự để vận chuyển người hoặc hàng hóa",
+    "en": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại tàu thuyền dùng để vận chuyển người hoặc hàng hóa, dùng cho đi biển hoặc đường thủy nội địa. Cụ thể bao gồm: tàu chở khách, du thuyền, phà các loại, tàu chở chất lỏng hoặc khí hóa lỏng (tàu chở dầu), tàu đông lạnh, các loại tàu chở hàng (tàu chở hàng rời, tàu container, tàu ro-ro), sà lan, tàu lướt, tàu cánh ngầm và tàu đệm khí. Nhóm này không bao gồm tàu thuyền thuộc nhóm 89.03, xuồng cứu hộ (trừ loại thuyền dùng mái chèo), tàu chở quân và tàu bệnh viện (nhóm 89.06).",
+    "en": "This heading covers all vessels for the transport of persons or goods, for sea navigation or inland navigation. Specifically, it includes: cruise ships, excursion boats, ferry-boats of all kinds, tankers, refrigerated vessels, cargo vessels of all kinds (bulk carriers, container ships, Ro-Ro ships), barges, hydrogliders, hydrofoils, and hovercraft. This heading excludes vessels of heading 89.03, lifeboats (other than rowing boats), troop-ships, and hospital ships (heading 89.06)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả tàu thuyền dùng để vận chuyển người hoặc hàng hóa, trừ tàu thuyền thuộc nhóm 89.03 và xuồng cứu hộ (trừ loại thuyền dùng mái chèo), các tàu chở quân và tầu bệnh viện (nhóm 89.06); các loại tàu thuyền này có thể sử dụng để đi biển hoặc đường thủy nội địa (ví dụ trên hồ, kênh, sông, cửa sông).\nNhóm này bao gồm:\n(1) Các tàu thuỷ chở khách và du thuyền.\n(2) Các loại phà, bao gồm cả phà chở tàu hoả, chở ôtô và phà chạy ở sông nhỏ.\n(3) Các tàu chở chất lỏng hoặc khí hoá lỏng (chở dầu, chở khí đốt lỏng, chở rượu, v.v...)\n(4) Các tàu đông lạnh để chở thịt, hoa quả, v.v...\n(5) Các loại tàu chở hàng (trừ tàu chở dầu và tàu đông lạnh) chuyên hoặc không chuyên dùng để vận chuyển một số hàng nhất định. Các loại tàu này bao gồm tàu chở quặng và tàu chở hàng rời (để chở ngũ cốc, than), các tàu chở côngtennơ, các tàu ro-ro (roll on roll off) và tàu LASH.\n(6) Các loại sà lan, sà lan sàn phẳng và cấu trúc nổi (ponttoon) có sàn phẳng dùng để vận chuyển hàng hoá, và đôi khi vận chuyển người.\n(7) Tàu lướt, tàu cánh ngầm và tàu đệm khí.",
+        "en": "This heading covers all vessels for the transport of persons or goods, other than vessels of heading 89.03 and lifeboats (other than rowing boats), troop-ships and hospital ships (heading 89.06); they may be for sea navigation or inland navigation (e.g., on lakes, canals, rivers, estuaries).\nThe heading includes:\n(1) Cruise ships and excursion boats.\n(2) Ferry-boats of all kinds, including train-ferries, car-ferries and small river-ferries.\n(3) Tankers (petrol, methane, wine, etc.).\n(4) Refrigerated vessels for the transport of meat, fruit, etc.\n(5) Cargo vessels of all kinds (other than tankers and refrigerated vessels), whether or not specialised for the transport of specific goods. These include ore vessels and other bulk carriers (for the transport of, e.g., grain, coal), container ships, Ro-Ro (roll-on-roll-off) ships and LASH-type vessels.\n(6) Barges of various kinds, lighters and pontoons being flat-decked vessels used for the transport of goods and, sometimes, of persons.\n(7) Vessels of the hydroglider type, hydrofoils and hovercraft."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8901.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tàu thủy chở khách, thuyền, xuồng du lịch và các tàu thuyền tương tự được thiết kế chủ yếu để vận chuyển người; phà các loại.",
+        "en": "Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry-boats of all kinds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8901.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Tàu chở chất lỏng hoặc khí hoá lỏng.",
+        "en": "Tankers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8901.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Tàu thuyền đông lạnh, trừ loại thuộc phân nhóm 8901.20",
+        "en": "Refrigerated vessels, other than those of subheading 8901.20"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8901.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Tàu thuyền khác để vận chuyển hàng hóa và tàu thuyền khác để vận chuyển cả người và hàng hóa",
+        "en": "Other vessels for the transport of goods and other vessels for the transport of both persons and goods"
+      }
+    }
+  ]
+}

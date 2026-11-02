@@ -1,0 +1,77 @@
+{
+  "heading_id": "09.04",
+  "heading_title": {
+    "vi": "Hạt tiêu thuộc chi Piper; quả ớt thuộc chi Capsicum hoặc chi Pimenta, khô hoặc xay hoặc nghiền.",
+    "en": "Pepper of the genus Piper; dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm: (1) Hạt tiêu thuộc chi Piper, như hạt tiêu đen, tiêu trắng (giống Piper nigrum) và hạt tiêu dài (Piper longum), kể cả cám và bụi hạt tiêu. (2) Các quả đã làm khô, xay hoặc nghiền thuộc chi Capsicum (ớt, ớt cựa gà) và chi Pimenta (ớt Jamaica). Nhóm này loại trừ hạt tiêu Cubeb (Piper cubera) thuộc nhóm 12.11 và các loại quả tươi chưa nghiền hoặc xay thuộc chi Capsicum hoặc Pimenta (nhóm 07.09).",
+    "en": "This heading covers: (1) Pepper of the genus Piper, such as black pepper, white pepper (species Piper nigrum) and long pepper (Piper longum), including pepper dust and sweepings. (2) Dried, crushed or ground fruits of the genus Capsicum (chillies, paprikas) and of the genus Pimenta (Jamaica pepper). This heading excludes Cubeb pepper (Piper cubeba) of heading 12.11 and uncrushed or unground fresh fruits of the genus Capsicum or Pimenta (heading 07.09)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(1) Hạt tiêu thuộc chi Piper.\nThuật ngữ này bao gồm hạt hoặc quả của tất cả các loại cây hạt tiêu thuộc chi Piper, trừ hạt tiêu Cubeb (Piper cubera) (nhóm 12.11). Giống thương phẩm chính là hạt tiêu giống Piper nigrum, có dạng hạt tiêu đen và tiêu trắng.\nHạt tiêu đen được chế biến từ quả chưa chín bằng cách phơi nắng hoặc hun khói, đôi khi sau khi xử lý bằng nước sôi.\nHạt tiêu trắng được chế biến từ những quả sắp chín, được ngâm hoặc lên men nhẹ để tách phần thịt và vỏ ngoài của hạt. Hạt tiêu trắng cũng thường được chế biến từ hạt tiêu đen bằng cách xay xát để loại bỏ lớp vỏ bên ngoài. Trong thực tế, hạt tiêu trắng có màu xám vàng và không cay bằng hạt tiêu đen.\nHạt tiêu dài (Piper longum) là một loại hạt tiêu khác.\nNhóm này cũng bao gồm cả cám và bụi hạt tiêu.\n\n(2) Các quả đã làm khô hoặc nghiền hoặc xay thuộc chi Capsicum hoặc chi Pimenta.\nQuả chi Capsicum nói chung thuộc giống Capsicum frutescens hoặc Capsicum annum và gồm hai nhóm chính, ớt và ớt cựa gà. Có nhiều giống khác nhau (ớt Cayenne, ớt Sierra leone và Zanzibar, ớt cựa gà Tây ban nha và Hung ga ri...).\nQuả chi Pimenta gồm ớt Jamaica (còn gọi là ớt hương, ớt Anh quốc và ớt allspice).",
+        "en": "(1) Pepper of the genus Piper.\nThis term includes the seeds or fruits of all pepper plants of the genus Piper, except Cubeb pepper (Piper cubeba) (heading 12.11). The main commercial variety is pepper of the species Piper nigrum, which takes the form of black or white pepper.\nBlack pepper-corns are obtained from the unripe fruits by sun-drying or smoking, sometimes after treatment with boiling water.\nWhite pepper is prepared from the nearly ripe fruit from which the pulp and outer coating of the seed have been removed by soaking or slight fermentation. White pepper is also often prepared from black pepper-corns by grinding off the outer parts. White pepper, which is in fact yellowish grey, is not so pungent as black.\nLong pepper (Piper longum) is another variety of pepper.\nThe heading also covers pepper dust and sweepings.\n\n(2) Dried or crushed or ground fruits of the genus Capsicum or of the genus Pimenta.\nFruits of the genus Capsicum generally belong to the species Capsicum frutescens or Capsicum annuum and include two main groups, the chillies and the paprikas. There are many varieties (Cayenne pepper, Sierra Leone and Zanzibar pepper, Spanish and Hungarian paprika, etc.).\nFruits of the genus Pimenta include Jamaica pepper (also known as clove pepper, English pepper and allspice)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Những loại quả này có chung đặc tính là có vị hăng, nồng, cay và lâu mất hương vị; tuy nhiên các giống khác của chi Capsicum không có vị cay (ví dụ: chi Capsicum annuum var.grossum (ớt ngọt)).\nNhóm này không bao gồm những quả tươi chưa nghiền hoặc xay thuộc chi Capsicum hoặc Pimenta (nhóm 07.09).",
+        "en": "These fruits share the common characteristic of a bitter, strong, burning and long-lasting flavour; however there are other varieties of the genus Capsicum which do not have a pungent odour (e.g., Capsicum annuum var. grossum).\nThe heading does not include uncrushed or unground fresh fruits of the genus Capsicum or of the genus Pimenta (heading 07.09)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Hạt tiêu:",
+        "en": "Pepper:"
+      },
+      "subheading_id": "0904.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa xay hoặc chưa nghiền",
+        "en": "Neither crushed nor ground"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hạt tiêu:",
+        "en": "Pepper:"
+      },
+      "subheading_id": "0904.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã xay hoặc nghiền",
+        "en": "Crushed or ground"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Quả ớt thuộc chi Capsicum hoặc chi Pimenta:",
+        "en": "Fruits of the genus Capsicum or of the genus Pimenta:"
+      },
+      "subheading_id": "0904.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã làm khô, chưa xay hoặc chưa nghiền",
+        "en": "Dried, neither crushed nor ground"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Quả ớt thuộc chi Capsicum hoặc chi Pimenta:",
+        "en": "Fruits of the genus Capsicum or of the genus Pimenta:"
+      },
+      "subheading_id": "0904.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã xay hoặc nghiền",
+        "en": "Crushed or ground"
+      }
+    }
+  ]
+}

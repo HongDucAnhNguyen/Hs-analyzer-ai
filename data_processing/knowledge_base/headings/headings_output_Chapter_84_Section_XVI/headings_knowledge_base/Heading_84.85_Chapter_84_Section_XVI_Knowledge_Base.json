@@ -1,0 +1,96 @@
+{
+  "heading_id": "84.85",
+  "heading_title": {
+    "vi": "Máy móc sử dụng công nghệ sản xuất bồi đắp.",
+    "en": "Machines for additive manufacturing."
+  },
+  "summary": {
+    "vi": "Nhóm 84.85 bao gồm các máy móc sử dụng công nghệ sản xuất bồi đắp, hay còn gọi là máy in 3D, để tạo ra các vật thể hữu hình từ mô hình kỹ thuật số. Quá trình này hoạt động bằng cách đắp chồng và liên kết các lớp vật liệu liên tiếp. Các máy này sử dụng nhiều nguồn năng lượng khác nhau như laser hoặc tia UV để xử lý các vật liệu đa dạng bao gồm kim loại, nhựa, cao su, thạch cao, xi măng, và gốm sứ. Nhóm này bao gồm nhiều loại máy cụ thể như máy phun chất kết dính, máy công nghệ stereolithography, máy phun vật liệu, máy ép đùn, và máy nung chảy bột. Các sản phẩm tạo ra có thể là thiết bị y tế, bộ phận giả, tác phẩm nghệ thuật, hoặc các bộ phận của tòa nhà và quần áo. Theo Chú giải tổng quát Phần XVI, các bộ phận của máy móc này cũng được phân loại tại đây, bao gồm cả hộp mực máy in được thiết kế riêng cho máy in 3D, trừ loại không có linh kiện điện tử hoặc cơ cấu cơ khí.",
+    "en": "Heading 84.85 covers machines for additive manufacturing, also known as 3D printers, which create physical objects from a digital model. This process works by successively adding and bonding layers of material. These machines use various energy sources like lasers or UV light to process a wide range of materials including metals, plastics, rubber, plaster, cement, and ceramics. The heading includes specific types of machines such as binder jetting machines, stereolithography machines, material jetting machines, material extrusion machines, and powder bed fusion machines. The resulting products can range from medical devices and prosthetics to art, or parts of buildings and clothing. Following the General Explanatory Note to Section XVI, parts for these machines are also classified here, including printer cartridges specifically designed for 3D printers, excluding those without electronic or mechanical components."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại máy sử dụng công nghệ sản xuất bồi đắp (còn được gọi là in 3D), một quá trình hình thành các vật thể hữu hình dựa trên mô hình kỹ thuật số. Máy tạo ra vật thể bằng cách đắp chồng, tạo lớp liên tiếp, hợp nhất và đóng rắn vật liệu. Máy sử dụng các nguồn năng lượng chọn lọc như laser, điện trở, chùm tia điện tử hoặc tia UV để tạo ra vật thể 3 chiều từ các vật liệu như kim loại, nhựa, cao su, thạch cao, xi măng, gốm sứ, thủy tinh, gỗ, giấy hoặc tế bào hạt.",
+        "en": "This heading covers machines of a kind used for additive manufacturing (also referred to as 3D printing) which is a process for the formation of physical objects based on a digital model. The machine creates the object by the successive addition and layering, and consolidation and solidification, of material. The machine uses selective application of an energy source, e.g., lasers, resistors, electron beams or UV light, to produce a 3-dimensional object out of materials such as metals, plastics, rubber, plaster, cement, ceramics, glass, wood, paper or seed cells."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tùy thuộc vào loại máy và vật liệu, các vật thể có thể được tạo ra bao gồm thiết bị y tế, chân tay giả, tác phẩm nghệ thuật, súng cầm tay, tòa nhà và các bộ phận của chúng, quần áo và các bộ phận. Nhóm này bao gồm các loại máy: (1) Máy phun chất kết dính; (2) Máy công nghệ stereolithography; (3) Máy phun vật liệu (sử dụng nhựa như Polypropylene (PP), Polyetylen mật độ cao (HDPE), Polystyren (PS), Polymethyl methacrylat (PMMA), Polycarbonat (PC), Acrylonitril Butadie Styren (ABS), Polystyren tác động cao (HIPS) và Plastic phân hủy môi trường (ED)); (4) Máy ép đùn vật liệu; (5) Máy nung chảy bột; (6) Máy sản xuất bồi đắp tạo lớp tấm; (7) Máy lắng đọng năng lượng định hướng.",
+        "en": "Depending on the type of machine and the material used, a wide variety of objects can be created, including medical devices, prosthetics, art, firearms, buildings and parts thereof, clothes and parts. This heading covers various types of additive manufacturing machines, for example: (1) Binder jetting machines; (2) Stereolithography machines; (3) Material jetting machines using plastics such as Polypropylene (PP), High-density polyethylene (HDPE), Polystyrene (PS), Polymethyl methacrylate (PMMA), Polycarbonate (PC), Acrylonitrile Butadiene Styrene (ABS), High Impact Polystyrene (HIPS) and Environmentally Degradable Plastic (ED); (4) Material extrusion machines; (5) Powder bed fusion machines; (6) Additive manufacturing machines that layer sheets; (7) Directed energy deposition machines."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN: Theo các quy định chung liên quan đến việc phân loại các bộ phận (xem Chú giải tổng quát Phần XVI), các bộ phận của hàng hóa thuộc nhóm này cũng được phân loại ở đây, bao gồm các hộp mực máy in được thiết kế đặc biệt để chứa các vật liệu và được giới hạn sử dụng với một máy in 3D cụ thể, trừ loại không có linh kiện điện tử hoặc cơ cấu cơ khí.",
+        "en": "PARTS: Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the goods of this heading are also classified here, including printer cartridges specifically designed for containing materials and limited to use with a particular 3D printer, excluding those without electronic components or mechanical mechanisms."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8485.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng lắng đọng kim loại",
+        "en": "By metal deposit"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8485.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng lắng đọng plastic hoặc cao su",
+        "en": "By plastics or rubber deposit"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8485.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng lắng đọng thạch cao, xi măng, gốm hoặc thủy tinh",
+        "en": "By plaster, cement, ceramics or glass deposit"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8485.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8485.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

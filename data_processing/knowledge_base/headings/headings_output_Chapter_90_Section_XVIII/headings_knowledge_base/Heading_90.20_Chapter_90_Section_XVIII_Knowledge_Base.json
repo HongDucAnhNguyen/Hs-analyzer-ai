@@ -1,0 +1,28 @@
+{
+  "heading_id": "90.20",
+  "heading_title": {
+    "vi": "Thiết bị thở và mặt nạ phòng khí khác, trừ các mặt nạ bảo hộ mà không có bộ phận cơ khí hoặc không có phin lọc có thể thay thế được.",
+    "en": "Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters."
+  },
+  "summary": {
+    "vi": "Nhóm 90.20 bao gồm các thiết bị thở và mặt nạ phòng khí. Các thiết bị thở có thể là loại độc lập (dùng bình oxy hoặc khí nén) sử dụng cho phi công, thợ lặn, hoặc loại kết nối bằng ống dẫn. Nhóm này cũng bao gồm mũ của thợ lặn và bộ đồ bảo vệ chống bức xạ có tích hợp thiết bị thở. Mặt nạ phòng khí thuộc nhóm này là loại cho phép người đeo thở trong môi trường ô nhiễm bằng cách lọc không khí từ bên ngoài qua bộ lọc. Tuy nhiên, nhóm này loại trừ các mặt nạ chống bụi đơn giản bằng vải dệt không có phin lọc thay thế được (nhóm 63.07), mặt nạ lưới kim loại (Phần XV), mặt nạ gây mê (nhóm 90.18), và mặt nạ lặn đơn giản hoặc ống thở (nhóm 95.06). Các bộ phận và phụ kiện của các thiết bị này, theo Chú giải 1 và 2 của Chương, cũng được phân loại trong nhóm này.",
+    "en": "Heading 90.20 covers breathing appliances and gas masks. Breathing appliances can be self-contained (using oxygen or compressed air cylinders) for use by airmen or divers, or hose-connected types. The heading also includes divers' helmets and anti-radiation suits incorporating breathing apparatus. Gas masks of this heading enable breathing in polluted environments by filtering outside air. However, the heading excludes simple textile dust masks without replaceable filters (heading 63.07), wire mesh masks (Section XV), masks for administering anaesthetics (heading 90.18), and simple divers' masks or snorkels (heading 95.06). Parts and accessories for these items, subject to Chapter Notes 1 and 2, are also classified here."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm (I) Các thiết bị thở và (II) Mặt nạ phòng khí. (I) Thiết bị thở được sử dụng bởi phi công, thợ lặn, người leo núi, nhân viên cứu hỏa. Chúng có thể là máy độc lập có bình oxy hoặc không khí nén, hoặc có ống nối với bộ nén khí. Nhóm này cũng bao gồm mũ của thợ lặn và bộ đồ bảo vệ chống bức xạ kết hợp thiết bị thở. (II) Mặt nạ phòng khí cho phép thở trong môi trường ô nhiễm (bụi, khí độc, khói) bằng cách lọc không khí từ bên ngoài. Nhóm này không bao gồm: (a) Mặt nạ chống bụi bằng vài lớp vải dệt không có phin lọc thay thế (nhóm 63.07); (b) Mặt nạ chống bụi bằng lưới thép sợi đơn giản (Phần XV).",
+        "en": "This heading includes (I) Breathing appliances and (II) Gas masks. (I) Breathing appliances are used by airmen, divers, mountaineers, or firemen. They can be self-contained with an oxygen or compressed air cylinder, or connected by a hose to compressors. It also includes divers' helmets and anti-radiation protective suits incorporating breathing apparatus. (II) Gas masks enable breathing in polluted atmospheres (dust, poisonous vapors, smoke) by filtering outside air. The heading excludes: (a) Masks for protection against dust consisting of several layers of bonded fibre fabric without a replaceable filter (heading 63.07); (b) Masks for protection against dust consisting of a simple wire mesh sheath (Section XV)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại bị loại trừ khỏi nhóm này bao gồm: (c) Mặt nạ để tiến hành gây mê (nhóm 90.18); (d) Mặt nạ hô hấp của thợ lặn không có bình ôxy hay không khí nén và các ống thở đơn giản (nhóm 95.06). Theo Chú giải 1 và 2 của Chương này, các bộ phận và phụ kiện của các thiết bị thuộc nhóm này cũng được phân loại tại đây.",
+        "en": "The following are excluded from this heading: (c) Masks for administering anaesthetics (heading 90.18); (d) Divers’ respiratory masks used without oxygen or compressed air bottles, and simple underwater breathing tubes (snorkels) (heading 95.06). Subject to Notes 1 and 2 to this Chapter, parts and accessories of apparatus or appliances of this heading are also classified here."
+      }
+    }
+  ],
+  "subheadings": []
+}

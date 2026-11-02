@@ -1,0 +1,186 @@
+{
+  "heading_id": "85.32",
+  "heading_title": {
+    "vi": "Tụ điện, loại có điện dung cố định, biến đổi hoặc điều chỉnh được (theo mức định trước) (+).",
+    "en": "Electrical capacitors, fixed, variable or adjustable (pre-set) (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại tụ điện (hoặc bộ điện dung), không phân biệt kiểu, phương pháp chế tạo, và mục đích sử dụng. Về nguyên lý, chúng bao gồm hai bề mặt dẫn được cách ly bằng vật liệu cách điện (điện môi). Nhóm này bao gồm tụ điện cố định, tụ điện biến đổi, và tụ điện điều chỉnh được (theo mức định trước). Nhóm này cũng bao gồm các nhóm tụ được lắp trên cùng một khung hoặc trong cùng một vỏ, cũng như các bộ phận của tụ điện. Tuy nhiên, nhóm này không bao gồm các động cơ đồng bộ được dùng để cải thiện hệ số công suất, thường được gọi là “các tụ đồng bộ” (nhóm 85.01).",
+    "en": "This heading covers all electrical capacitors (or condensers), irrespective of their type, method of manufacture, and intended use. In principle, they consist of two conducting surfaces separated by an insulating material (dielectric). The heading includes fixed capacitors, variable capacitors, and pre-set or adjustable capacitors. It also covers capacitors grouped together on a chassis or in a container, as well as parts of capacitors. However, the heading excludes certain synchronous motors used for power factor improvement, often called “synchronous capacitors” (heading 85.01)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Về mặt nguyên lý, các tụ điện (hoặc bộ điện dung) bao gồm hai bề mặt dẫn, được cách ly bằng vật liệu cách điện (điện môi), ví dụ không khí, giấy, mica, dầu nhờn, nhựa và cao su, gốm sứ hoặc thủy tinh...\nChúng được dùng vào nhiều mục đích trong nhiều lĩnh vực của công nghiệp điện (ví dụ: để cải thiện hệ số công suất trong mạch điện xoay chiều, để tạo ra các dòng điện lệch pha cho từ trường quay của động cơ cảm ứng, để bảo vệ tiếp điểm điện khỏi hiệu ứng hồ quang, để lưu trữ và tái sử dụng điện năng, trong các mạch dao động, trong các mạch lọc tần số, và được sử dụng rất rộng rãi trong phát thanh, truyền hình hoặc công nghiệp điện thoại hoặc cho các thiết bị điện tử công nghiệp).\nNhóm này bao gồm tất cả các tụ điện mà không xét đến kiểu tụ, phương pháp chế tạo, và với mọi mục đích sử dụng (kể cả những tụ tiêu chuẩn dùng trong phòng thí nghiệm hoặc trong một số lượng lớn các thiết bị đo, được chế tạo đặc biệt với dung sai nhỏ và được thiết kế sao cho vẫn duy trì chất lượng tốt trong suốt quá trình sử dụng).\nNhóm này cũng bao gồm các nhóm tụ trên cùng một khung hoặc trong cùng một vỏ (ví dụ các tụ có hệ số công suất lớn và các hộp tụ bao gồm một số các tụ tiêu chuẩn có khả năng kết nối với nhau, theo kiểu song song hoặc nối tiếp, để thu được bất kỳ điện dung cần thiết nào).",
+        "en": "Electrical capacitors (or condensers) consist, in principle, of two conducting surfaces separated by an insulating material (dielectric), e.g., air, paper, mica, oil, resins, rubber and plastics, ceramics or glass.\nThey are used for various purposes in many branches of the electrical industry (e.g., to improve the power factor of AC circuits, to produce phase-shifted currents for rotating fields in induction motors, to protect electrical contacts from the effects of arcing, for storing and releasing given quantities of electricity, in oscillating circuits, in frequency filters, and very widely in the radio, television or telephone industries or for industrial electronic equipment).\nThe heading, however, covers all capacitors irrespective of their type and method of manufacture and whatever their intended use (including standard capacitors used in laboratories or in numerous measuring instruments, specially made within fine limits and designed to remain constant during use).\nThe heading also covers capacitors grouped together on a chassis or in a container (e.g., certain large power factor capacitors and capacitor boxes consisting of a number of standard capacitors with means of connecting them together, in series or in parallel, to obtain any required capacitance)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) CÁC TỤ ĐIỆN CỐ ĐỊNH\nLà các loại tụ có dung kháng không thay đổi được. Các loại chính bao gồm: tụ khô, tụ thấm dầu, tụ khí, tụ chứa dầu và tụ điện hoá.\n(1) Trong các tụ điện khô, các bản cực và điện môi thường dưới dạng các phiến xếp chồng lên nhau, hoặc các băng cuốn tròn hoặc dưới dạng lá. Trong một số tụ điện khô nhất định, lớp điện môi phủ lên kim loại thường được xử lý hoá học hoặc xử lý nhiệt. Các tụ khô có thể được đóng kín trong hộp có kẹp hoặc không có hộp.",
+        "en": "(A) FIXED CAPACITORS\nFixed capacitors are those in which the capacitance cannot be varied. The main types are: dry capacitors, “oil” impregnated capacitors, “gas” impregnated capacitors, “oil” filled capacitors and electrolytic capacitors.\n(1) In dry capacitors the plates and dielectric are usually in the form of superimposed plates or rolled strip or foil. In certain dry capacitors a metal covering is applied by a chemical or thermic process to a fixed dielectric. Dry capacitors may be enclosed in a clamp-equipped box or be used without a box."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(2) Các tụ thấm dầu có cấu trúc gần với tụ khô trừ chất điện môi, thông thường bằng phim nhựa hoặc phim nhựa và giấy, được tẩm dầu hoặc chất lỏng khác.\n(3) Các tụ khí bao gồm hai hoặc nhiều điện cực được cách ly bằng khí, khác với không khí, làm thành chất điện môi.\n(4) Trong một số trường hợp, tụ điện (“tụ chứa dầu”) được khép kín trong một vỏ đổ đầy dầu hoặc chất lỏng thích hợp khác, và được gắn nhiều phụ kiện như đồng hồ đo áp suất và các van an toàn.\n(5) Trong các tụ điện hoá, một trong số các bản cực thường bằng nhôm hoặc tantan, trong khi vai trò của các bản cực khác được thực hiện nhờ chất điện phân thích hợp, mà nhờ nó dòng điện được dẫn bằng một điện cực, đôi khi điện cực này có dạng tương tự như bản cực bằng nhôm hoặc tantan. Phản ứng điện phân tạo ra trên bản cực nhôm hoặc tantan một lớp mỏng hợp chất hoá học phức tạp mà sau đó hình thành lớp điện môi. Tụ điện này đôi khi được đóng trong một vỏ, nhưng thông thường thì bản thân lớp vỏ bên ngoài của điện cực chính là vỏ; những tụ này thường được gắn với một pin cơ sở tương tự như pin cơ sở của van. Những tụ cụ thể của kiểu này thường có chất điện phân nhão còn được gọi là “tụ điện hoá khô”.",
+        "en": "(2) “Oil” impregnated capacitors are similar to dry capacitors but the dielectric, usually of plastic film or plastic film and paper, is impregnated with oil or other liquid.\n(3) “Gas” impregnated capacitors are capacitors consisting of two or more electrodes separated by a gas, other than air, which serves as a dielectric.\n(4) In some cases the capacitor (“oil filled capacitor”) is enclosed in a container filled with oil or other suitable liquid, and many incorporate accessory devices such as pressure gauges and safety valves.\n(5) In electrolytic capacitors, one of the plates is generally of aluminium or tantalum while the role of the other is fulfilled by a suitable electrolyte to which the current is led by means of an electrode, sometimes similar in form to the aluminium or tantalum plate. The electrolytic action produces on the aluminium or tantalum a thin layer of complex chemical compounds which thereafter constitutes the dielectric. The capacitor is sometimes enclosed in a container, but generally the outer electrode itself constitutes the container; these capacitors are often fitted with a pin base similar to that of a valve. Certain capacitors of this type containing a pasty form of electrolyte are also called “dry electrolytic capacitors”."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) TỤ BIẾN ĐỔI\nLà loại tụ mà dung kháng có thể thay đổi được. Trong phần lớn các tụ, chất điện môi được sử dụng là không khí, và các bản cực thường bao gồm 2 nhóm bản cực kim loại, một nhóm được gắn cố định trong khi đó nhóm kia, được gắn trên một trục, có thể được xoay sao cho các bản cực của nó có thể di chuyển giữa các bản cực của nhóm cố định. Góc xoay và sự xen kẽ giữa các tấm chuyển động (phần quay) và các tấm cố định (phần tĩnh) làm thay đổi dung kháng của tụ điện.",
+        "en": "(B) VARIABLE CAPACITORS\nVariable capacitors are those in which the capacitance can be varied at will. In most cases air is the dielectric, and the plates usually consist of two groups of metal plates, one group fixed while the other, mounted on an axis, can be turned so that its plates can pass between the fixed plates. The degree to which the mobile plates (rotors) are turned and overlap with the fixed plates (stators) varies the capacitance of the capacitor."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(C) TỤ ĐIỆN ĐIỀU CHỈNH ĐƯỢC HOẶC CÁC TỤ ĐIỆN CÓ MỨC ĐỊNH TRƯỚC\nCác tụ điện loại này (bao gồm cả các tụ điện tinh chỉnh) có thể điều chỉnh được dung kháng trong những giới hạn hẹp để có được một giá trị chính xác. Việc điều chỉnh này có thể tiến hành theo nhiều cách khác nhau. Trong một số kiểu nhất định, khoảng cách giữa các bản cực có thể thay đổi nhờ một đinh vít. Ở các kiểu khác bao gồm 2 xi lanh kim loại, một cái di chuyển được tới một vị trí thay đổi so với cái còn lại hoặc cả hai di chuyển tương đối theo hình bán nguyệt. Thông thường, chất điện môi được sử dụng là, ví dụ: mica, gốm sứ, nhựa hoặc không khí.",
+        "en": "(C) PRE-SET OR ADJUSTABLE CAPACITORS\nPre-set or adjustable capacitors (including trimming capacitors) are those in which the capacitance can be adjusted within narrow limits to a precise value. This adjustment can be made in different ways. In certain types the distance between the plates may be varied by means of a screw. Other types consist of two metal cylinders, one of which can be moved to a variable extent within the other or of two mutually moved semicircles. Usually, the dielectrics used are, for example, mica, ceramics, plastics or air."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung về phân loại các bộ phận (xem Chú giải Chi tiết Tổng quát phần XVI), các bộ phận của tụ điện cũng được phân loại trong nhóm này.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of capacitors are also classified here."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này không bao gồm các động cơ đồng bộ được dùng để cải thiện hệ số công suất, mặc dù chúng thường được gọi là “các tụ đồng bộ” (nhóm 85.01).",
+        "en": "The heading does not cover certain synchronous motors used for power factor improvement, even though they are often called “synchronous capacitors” (heading 85.01)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải chi tiết phân nhóm.\nPhân nhóm 8532.23\nPhân nhóm này bao gồm tất cả những tụ điện cố định với chất điện môi bằng gốm sứ một lớp, có dạng đĩa hoặc ống.",
+        "en": "Subheading Explanatory Notes.\nSubheading 8532.23\nThis subheading covers single layer ceramic dielectric fixed capacitors, which are in the form of discs or tubes."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Phân nhóm 8532.24\nPhân nhóm này bao gồm tất cả những tụ điện cố định với chất điện môi bằng gốm sứ nhiều lớp, có nhiều chân nối hoặc có hình dạng giống một chip.",
+        "en": "Subheading 8532.24\nThis subheading covers multilayered ceramic dielectric fixed capacitors, which have connecting leads or are in the form of chips."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8532.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tụ điện cố định được thiết kế dùng trong mạch có tần số 50/60 Hz và có giới hạn công suất phản kháng cho phép không dưới 0,5 kvar (tụ nguồn)",
+        "en": "Fixed capacitors designed for use in 50/60 Hz circuits and having a reactive power handling capacity of not less than 0.5 kvar (power capacitors)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tụ điện cố định khác:",
+        "en": "- Other fixed capacitors:"
+      },
+      "subheading_id": "8532.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tụ tantan (tantalum)",
+        "en": "Tantalum"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tụ điện cố định khác:",
+        "en": "- Other fixed capacitors:"
+      },
+      "subheading_id": "8532.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tụ nhôm",
+        "en": "Aluminium electrolytic"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tụ điện cố định khác:",
+        "en": "- Other fixed capacitors:"
+      },
+      "subheading_id": "8532.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tụ gốm, một lớp",
+        "en": "Ceramic dielectric, single layer"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tụ điện cố định khác:",
+        "en": "- Other fixed capacitors:"
+      },
+      "subheading_id": "8532.24",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tụ gốm, nhiều lớp",
+        "en": "Ceramic dielectric, multilayer"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tụ điện cố định khác:",
+        "en": "- Other fixed capacitors:"
+      },
+      "subheading_id": "8532.25",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tụ giấy hay plastic",
+        "en": "Dielectric of paper or plastics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tụ điện cố định khác:",
+        "en": "- Other fixed capacitors:"
+      },
+      "subheading_id": "8532.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8532.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tụ điện biến đổi hay tụ điện điều chỉnh được (theo mức định trước)",
+        "en": "Variable or adjustable (pre-set) capacitors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8532.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

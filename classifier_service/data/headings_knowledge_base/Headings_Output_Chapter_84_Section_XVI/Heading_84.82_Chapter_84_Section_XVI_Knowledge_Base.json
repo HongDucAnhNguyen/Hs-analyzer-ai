@@ -1,0 +1,139 @@
+{
+  "heading_id": "84.82",
+  "heading_title": {
+    "vi": "Ổ bi hoặc ổ đũa.",
+    "en": "Ball or roller bearings."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại ổ bi, ổ đũa, hoặc ổ đũa kim, được thiết kế để chịu lực hướng tâm, lực đẩy, hoặc cả hai. Nhóm này cũng bao gồm các bộ phận của chúng như bi (bằng thép đã đánh bóng đáp ứng tiêu chuẩn dung sai cụ thể, hoặc bằng các vật liệu khác), kim, đũa, vòng, lồng cố định, và ống lót cố định. Các viên bi thép không đáp ứng tiêu chuẩn dung sai được quy định (đường kính tối đa và tối thiểu không khác đường kính danh nghĩa hơn 1% hoặc 0,05mm, tùy theo mức nào nhỏ hơn) bị loại trừ và phân loại vào nhóm 73.26. Ngoài ra, nhóm này không bao gồm các bộ phận máy móc có lắp sẵn ổ bi, ổ đũa, chẳng hạn như thân ổ và giá đỡ ổ bi (nhóm 84.83) và moay ơ xe đạp (nhóm 87.14).",
+    "en": "This heading covers all types of ball, roller, or needle roller bearings, designed for radial support, thrust resistance, or both. It also includes their parts such as balls (of polished steel meeting specific tolerance standards, or of other materials), needles, rollers, rings, cages, and fixing sleeves. Steel balls not conforming to the specified tolerance definition (maximum and minimum diameters not differing from the nominal diameter by more than 1% or 0.05 mm, whichever is less) are excluded and classified in heading 73.26. Furthermore, the heading excludes machinery parts that incorporate bearings, such as bearing housings and brackets (heading 84.83) and bicycle hubs (heading 87.14)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả ổ bi, ổ đũa, ổ đũa hình kim. Chúng được sử dụng thay thế ổ trục kim loại trơn và để giảm đáng kể lực ma sát. Chúng thường được gắn vào giữa gối đỡ và trục chuyển động, và có thể được thiết kế để chịu lực hướng tâm (ổ trục hướng tâm) hoặc chịu đựng lực đẩy (ổ trục đẩy). Một số ổ có thể được thiết kế chịu cả lực hướng tâm và lực đẩy. Thông thường, ổ trục bao gồm hai vòng tròn đồng tâm (vòng rế) bao quanh bi hoặc đũa, và một lồng để giữ chúng tại vị trí và đảm bảo khoảng cách của chúng không đổi.",
+        "en": "This heading covers all ball, roller or needle roller type bearings. They are used in place of smooth metal bearings and enable friction to be considerably reduced. They are generally fitted between the bearing housing and the shaft or axle, and may be designed to give radial support (radial bearings) or to resist thrust (thrust bearings). Certain bearings may be designed for both radial and thrust support. Normally, bearings consist of two concentric rings (races) enclosing the balls or rollers, and a cage which keeps them in place and ensures that their spacing remains constant."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Ổ bi được phân loại vào nhóm này bao gồm :\n(A) Ổ bi, loại một dãy hoặc hai dãy bi. Nhóm này cũng bao gồm cơ chế trượt với ổ bi của vòng bi, ví dụ:\n(1) Ổ bi bao gồm một vòng bên ngoài bằng thép được lắp chặt với một vòng bên trong bằng đồng có 6 rãnh được sắp xếp theo chiều dọc và theo hình elip trải dài có chứa những viên bi nhỏ bằng thép.\n(2) Loại không tự lựa (restricted-travel), bằng thép, bao gồm một hình trụ có rãnh, một lồng cố định bi và một gối đỡ.\n(3) Loại tự lựa, bằng thép, bao gồm một xéc-măng, một ổ đỡ bao gồm các viên bi, và một đường dẫn hướng với một rãnh khía tiết diện hình tam giác.\n(B) Ổ bi đũa, với một hoặc hai hàng đũa ở bất kỳ hình thù (hình trụ, hình nón, hình thùng tròn, v.v..)\n(C) Ổ đũa kim. Loại này khác những ổ bi đũa thông thường vì nó là loại ổ bi đũa hình trụ với một đường kính thống nhất không quá 5mm và có chiều dài tối thiểu gấp 3 lần đường kính. Đầu của đũa có thể được làm tròn (xem chú giải phân nhóm 4 của chương này). Những đũa này được điều chỉnh cho vừa giữa hai vòng của ổ trục và và trong hầu hết các trường hợp không sử dụng lồng cố định.\nDo khả năng chịu lực cao lên những phần tiếp xúc, vật liệu làm ổ bi thường làm bằng thép (đặc biệt là thép crôm), mặc dù trong một số trường hợp cụ thể có thể dùng đồng thiếc, đồng hoặc nhựa.",
+        "en": "The bearings classified in this heading include :\n(A) Ball bearings, with single or double rows of balls. This group also includes slide mechanisms with bearing balls, for example :\n(1) Those consisting of a steel outer ring rigidly locked with a brass inner ring which has six slots arranged lengthwise and in the shape of elongated ellipses enclosing small steel balls.\n(2) The restricted-travel type, of steel, comprising a grooved cylinder, a ball cage and a housing.\n(3) The free-travelling type, of steel, comprising a segment, a casing enclosing the bearing balls, and a guide rail with a groove of triangular section.\n(B) Roller bearings, with single or double rows of rollers of any shape (cylindrical, conical, barrel-shaped, etc.).\n(C) Needle roller bearings. These differ from ordinary roller bearings in that they are bearings with cylindrical rollers of a uniform diameter not exceeding 5 mm and having a length which is at least three times the diameter. The ends of the rollers may be rounded (see Subheading Note 4 to the Chapter). These rollers are fitted between the two rings of the bearing and in most cases no cage is used.\nOwing to the high pressure to which they are exposed, bearings are normally of steel (especially chromium steel), though some for particular uses are of bronze, copper or plastics."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN\nNhóm này cũng bao gồm các bộ phận của ổ bi, ổ đũa, ổ đũa kim, ví dụ :\n(1) Bi bằng thép đã đánh bóng (dùng hoặc không dùng cho ổ bi thuộc nhóm này), đường kính tối đa và tối thiểu của chúng không khác với đường kính danh nghĩa hơn 1% hoặc hơn 0,05mm tùy theo cái nhỏ hơn; bi không phù hợp theo định nghĩa này được phân loại vào nhóm 73.26 (xem Chú giải 7 của Chương).\n(2) Bi của ổ bi bằng đồng, đồng thiếc, plastic,...\n(3) Kim hoặc con lăn dùng cho ổ bi, bất kỳ dạng hình gì.\n(4) Vòng, lồng cố định, ống lót cố định,...",
+        "en": "PARTS\nThe heading also covers parts of ball, roller or needle roller bearings, e.g.:\n(1) Polished steel balls (whether for bearings of this heading or not), the maximum and minimum diameters of which do not differ from the nominal diameter by more than 1 % or by more than 0.05 mm whichever is less; balls not conforming to this definition are classified in heading 73.26 (see Chapter Note 7).\n(2) Bearing balls of copper, bronze, plastics, etc.\n(3) Needles or rollers for bearings, of any shape.\n(4) Rings, cages, fixing sleeves, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm các bộ phận máy móc có lắp ổ bi, ổ đũa hoặc ổ đũa hình kim; những bộ phận này được phân loại vào các nhóm tương ứng với chúng, ví dụ :\n(a) Thân ổ và giá đỡ ổ bi (nhóm 84.83).\n(b) Moay ơ xe đạp (nhóm 87.14).",
+        "en": "The heading does not cover machinery parts incorporating ball, roller or needle roller bearings; these are classified in their own appropriate headings, e.g.:\n(a) Bearing housings and bearing brackets (heading 84.83).\n(b) Bicycle hubs (heading 87.14)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8482.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ổ bi",
+        "en": "Ball bearings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8482.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ổ đũa côn, kể cả cụm linh kiện vành côn và đũa côn",
+        "en": "Tapered roller bearings, including cone and tapered roller assemblies"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8482.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ổ đũa cầu",
+        "en": "Spherical roller bearings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8482.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ổ đũa kim, kể cả lồng (cage) và đũ kim đã lắp ráp",
+        "en": "Needle roller bearings, including cage and needle roller assemblies"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8482.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các loại ổ đũa hình trụ khác, kể cả lồng (cage) và đũa đã lắp ráp",
+        "en": "Other cylindrical roller bearings, including cage and roller assemblies"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8482.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, kể cả ổ kết hợp bi cầu/bi đũa",
+        "en": "Other, including combined ball/roller bearings"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ phận:",
+        "en": "- Parts:"
+      },
+      "subheading_id": "8482.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bi, kim, và đũa",
+        "en": "Balls, needles and rollers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ phận:",
+        "en": "- Parts:"
+      },
+      "subheading_id": "8482.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

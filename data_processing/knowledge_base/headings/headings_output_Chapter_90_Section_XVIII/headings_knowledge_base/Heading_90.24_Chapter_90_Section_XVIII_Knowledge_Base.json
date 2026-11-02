@@ -1,0 +1,86 @@
+{
+  "heading_id": "90.24",
+  "heading_title": {
+    "vi": "Máy và thiết bị thử độ cứng, độ bền, độ nén, độ đàn hồi hoặc các tính chất cơ học khác của vật liệu (ví dụ, kim loại, gỗ, hàng dệt, giấy, plastic).",
+    "en": "Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics)."
+  },
+  "summary": {
+    "vi": "Nhóm 90.24 bao gồm các loại máy móc và dụng cụ dùng để thử các tính chất cơ học của vật liệu. Các vật liệu được kiểm tra bao gồm kim loại, gỗ, bê tông, hàng dệt, giấy, bìa, cao su và nhựa. Các thử nghiệm được thực hiện bao gồm kiểm tra độ cứng, độ bền kéo, độ nén, độ đàn hồi, độ uốn, độ dẻo và độ mỏi. Các máy này được sử dụng trong phòng thí nghiệm công nghiệp hoặc nghiên cứu, cũng như trong quá trình sản xuất hoặc xây dựng. Nhóm này không bao gồm các dụng cụ kiểm tra cấu trúc vi thể (nhóm 90.11 hoặc 90.12), dụng cụ đo lường kích thước thông thường (nhóm 90.17 hoặc 90.31), máy phát hiện khuyết tật (nhóm 90.31) và thiết bị phân tích vật liệu (nhóm 90.27). Các bộ phận và phụ kiện của các máy thuộc nhóm này cũng được phân loại tại đây.",
+    "en": "Heading 90.24 covers machines and appliances for testing the mechanical properties of materials. The materials tested include metals, wood, concrete, textiles, paper, paperboard, rubber, and plastics. The tests performed include hardness, tensile strength, compressibility, elasticity, bending, ductility, and fatigue tests. These machines are used in industrial or research laboratories, as well as during manufacturing or construction processes. This heading excludes instruments for examining microscopic structure (heading 90.11 or 90.12), instruments for ordinary measurement (heading 90.17 or 90.31), instruments for detecting defects (heading 90.31), and apparatus for analysing materials (heading 90.27). Parts and accessories for the machines of this heading are also classified here."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm nhiều các loại máy móc hay dụng cụ để thử độ cứng, độ đàn hồi, độ bền khi bị kéo, bị nén, hay các đặc tính cơ học khác của các loại nguyên vật liệu khác nhau (ví dụ: kim loại, gỗ, bê-tông, sợi dệt và vải, giấy hoặc bìa, cao su, plastic, da thuộc).",
+        "en": "This heading covers a wide range of machines and appliances for testing the hardness, elasticity, tensile strength, compressibility or mechanical properties of various materials (e.g., metals, wood, concrete, textile yarns and fabrics, paper or paperboard, rubber, plastics, leather)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Các dụng cụ hoặc máy móc để kiểm tra cấu trúc vật chất vi thể (thiết bị nghiên cứu kết cấu kim loại hoặc kính hiển vi - nhóm 90.11 hay 90.12) hoặc phân tích vật liệu hay đo các đặc tính như độ xốp, sự giãn nở nhiệt (nhóm 90.27).\n(b) Các dụng cụ hoặc thiết bị chỉ để đo kích thước thông thường (nhóm 90.17 hay 90.31).\n(c) Các máy phát hiện lỗi, rạn nứt hay khiếm khuyết khác trong vật liệu (nhóm 90.31).\nCác máy móc thuộc nhóm này thường được sử dụng trong phòng thí nghiệm công nghiệp, nghiên cứu, trong quá trình chế tạo, thi công hoặc kiểm tra hàng hóa. Chúng có phạm vi từ máy móc nặng đến dụng cụ nhỏ xách tay. Kết quả kiểm tra có thể được đọc trực tiếp hoặc qua kiểm tra bằng kính hiển vi.\n(I) CÁC MÁY MÓC VÀ DỤNG CỤ THỬ NGHIỆM KIM LOẠI:\n(A) Thử sức bền khi bị kéo đối với mẫu thử, thanh, sợi, cáp, lò xo để xác định tính đàn hồi và ngưỡng đứt gãy.\n(B) Thử độ cứng trên mẫu thử, thanh, máy đã gia công, đo khả năng chống lại sức xuyên.",
+        "en": "This heading excludes:\n(a) Instruments or appliances for examining the microscopic structure of materials (e.g., metallographic or other microscopes - heading 90.11 or 90.12), or for analysing materials, or measuring properties such as porosity, thermal expansion, etc. (heading 90.27).\n(b) Instruments or apparatus designed only for ordinary measurement or checking of width, thickness, etc. (heading 90.17 or 90.31).\n(c) Instruments for detecting faults, fissures, cracks or other defects in materials (heading 90.31).\nThe machines and appliances of this heading are generally used in industrial or research laboratories, during manufacturing processes, in constructional work, or to check goods on delivery. They range from large machines to small portable instruments. Test results may be ascertained by direct reading or by separate microscopic examination.\n(I) MACHINES AND APPLIANCES FOR TESTING METALS:\n(A) Tensile testing on test-pieces, bars, wire, cables, springs to ascertain elasticity and breaking stress.\n(B) Hardness tests on test-pieces, bars, machined parts, to measure resistance to indentation."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các cuộc thử nghiệm độ cứng kim loại bao gồm:\n(1) Thử bằng độ lõm của bi thép (thử độ cứng Brinell).\n(2) Thử độ lõm bằng mũi kim cương (phương pháp Rockwell hoặc Vickers).\n(3) Thử bằng độ nảy (sử dụng dụng cụ đo hoặc ghi độ cứng).\n(4) Thử độ cứng bằng con lắc.\n(C) Thử độ uốn: Bằng va đập hoặc bằng áp lực.\n(D) Thử độ dẻo: Chủ yếu áp dụng cho kim loại dạng phiến (lá).\n(E) Thử độ gấp (đối với phiến, thanh, dây kim loại), thử nén và cắt.\n(F) Thử độ mỏi: các vật thử nghiệm chịu các lực tác động kép và thay đổi, sử dụng các công cụ uốn quay, máy xoắn hai chiều hoặc máy thử độ mỏi vận hành bằng điện từ.\n(II) CÁC MÁY MÓC VÀ DỤNG CỤ KIỂM TRA SỢI DỆT",
+        "en": "Hardness tests on metals include:\n(1) The steel ball indentation test or Brinell test.\n(2) The diamond pyramid indentation test (Rockwell method or Vickers method).\n(3) The rebound test (using scleroscopes or sclerographs).\n(4) The pendulum hardness test.\n(C) Bending tests: By impact or by pressure.\n(D) Ductility tests: Mainly used to test sheet metal.\n(E) Folding tests (for sheets, bars and wire), compression tests and shearing tests.\n(F) Fatigue tests: Test-pieces are subjected to compound and varying stresses, using rotating bending machines, reversal torsional machines, or electro-magnetic fatigue-testing machines.\n(II) MACHINES AND APPLIANCES FOR TESTING TEXTILES"
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các cuộc kiểm tra chính đối với sợi dệt bao gồm:\n(1) Thử độ dai, độ dãn, tính đàn hồi, độ bền khi bị kéo đối với sợi thô, chỉ, dây chão, vải, đai, bằng các kiểu lực kế khác nhau.\n(2) Kiểm tra sự thay đổi về kích thước của mẫu vải (đo độ kéo giãn hoặc co lại).\n(3) Thử độ sờn và độ rách đối với hàng dệt bằng máy đo độ mòn, máy đo độ sờn.\nNhóm này không bao gồm các dụng cụ kiểm tra vật liệu dệt như máy kiểm tra độ đều của sợi, máy đo sức căng, máy đo độ xoắn của sợi (nhóm 90.31).\n(III) CÁC MÁY MÓC VÀ DỤNG CỤ ĐỂ THỬ NGHIỆM GIẤY, BÌA, THẢM LINOLEUM, PLASTIC CO DÃN HAY CAO SU CO DÃN: Chủ yếu để thử độ bền khi bị kéo hoặc mức độ dễ bị xuyên thủng bằng lực kế. Nhóm này bao gồm máy thử khả năng chống bục, nát; máy thử độ gấp; đàn hồi kế, máy đo độ nảy, thử độ bền, thử độ mòn, độ dẻo.\n(IV) CÁC MÁY MÓC VÀ DỤNG CỤ THỬ CÁC VẬT LIỆU KHÁC: Gỗ, bê tông, plastic cứng được thử nghiệm bằng cách kéo, uốn, đập, ép, cắt, mài.",
+        "en": "The main tests for textiles include:\n(1) Extensibility, resistance to rupture tests, elasticity or tensile strength under strain tests on raw fibres, yarns, ropes, fabrics, belts, using various types of dynamometers.\n(2) Tests to detect changes in the dimensions of textile samples (expansion or shrinkage).\n(3) Wear and tear tests on textile goods using abrasion-testers or wear-testers.\nThe heading does not include instruments to inspect textile materials such as yarn uniformity testers, strain-testers, or yarn torsion counters (heading 90.31).\n(III) MACHINES AND APPLIANCES FOR TESTING PAPER, PAPERBOARD, LINOLEUM, FLEXIBLE PLASTICS OR FLEXIBLE RUBBER: Mainly concerned with tensile strength or resistance to perforation, using dynamometers. This group includes bursting strength testers, fold testers, elasticity meters, reboundimeters, tensile testers, abrasion machines, plastimeters.\n(IV) MACHINES AND APPLIANCES FOR TESTING OTHER MATERIALS: Materials like wood, concrete, hard plastics are subjected to tensile, bending, hardness, compression, shearing, abrasion tests."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm các dụng cụ nhỏ để xác định độ bền kéo, uốn, ép của các vật mẫu được đúc từ cát đúc khuôn và các thiết bị để đo độ cứng của mặt khuôn.\nCÁC BỘ PHẬN VÀ PHỤ KIỆN: Theo Chú giải 1 và 2 của Chương này, các bộ phận và phụ kiện của các dụng cụ hoặc thiết bị thuộc nhóm này cũng được phân loại trong nhóm này.",
+        "en": "The heading also includes small instruments designed to determine the tensile strength, resistance to bending, compression, etc., of test-pieces moulded from foundry moulding sand and instruments for measuring the surface hardness of finished foundry moulds or mould cores.\nPARTS AND ACCESSORIES: Subject to the provisions of Notes 1 and 2 to this Chapter, parts and accessories of apparatus or appliances of this heading remain classified here."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9024.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy và thiết bị thử kim loại",
+        "en": "Machines and appliances fortesting metals"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9024.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy và thiết bị khác",
+        "en": "Other machines and appliances"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9024.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

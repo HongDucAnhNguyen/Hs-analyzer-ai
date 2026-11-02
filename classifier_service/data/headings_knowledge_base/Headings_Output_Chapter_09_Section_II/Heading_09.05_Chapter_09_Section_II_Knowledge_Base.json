@@ -1,0 +1,53 @@
+{
+  "heading_id": "09.05",
+  "heading_title": {
+    "vi": "Vani.",
+    "en": "Vanilla."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm quả (hoặc đậu) của cây vani, một loại cây dây leo thuộc họ lan, có thể ở dạng chưa xay hoặc chưa nghiền (phân nhóm 0905.10) hoặc đã xay hoặc nghiền (phân nhóm 0905.20). Nhóm này không bao gồm nhựa dầu vani (nhóm 13.02), đường đã ướp hương vani (nhóm 17.01 hoặc 17.02), và chất vanillin (nhóm 29.12).",
+    "en": "This heading covers the fruit (or bean) of the vanilla plant, a climbing plant of the orchid family, which may be neither crushed nor ground (subheading 0905.10) or crushed or ground (subheading 0905.20). The heading does not include vanilla oleoresin (heading 13.02), vanilla sugar (heading 17.01 or 17.02), or vanillin (heading 29.12)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Đây là quả (hoặc đậu) của một loại cây dây leo thuộc họ \"lan\". Nó có màu đen nhạt và hương rất thơm. Có hai loại vani, dài và ngắn, và cả một giống phẩm cấp rất thấp nữa được gọi là Vanillon (thuộc dòng Vanilla pompana), mềm, gần như là nhão và lúc nào cũng nở.",
+        "en": "This is the fruit (or bean) of a climbing plant of the orchid family. It is blackish in colour and very aromatic. There are two kinds of vanilla, long and short, as well as a very low-grade variety known as vanillon (obtained from the species Vanilla pompana), soft, almost viscous and always open."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm: \n(a) Nhựa dầu vani (đôi khi còn được gọi sai là “nhựa vani” hoặc “chiết xuất vani”) (nhóm 13.02). \n(b) Đường đã ướp hương vani (nhóm 17.01 hoặc 17.02). \n(c) Chất vanillin (nguồn gốc hương thơm của vani) (nhóm 29.12).",
+        "en": "The heading does not include : \n(a) Vanilla oleoresin (sometimes erroneously known as “vanilla resinoid “or” vanilla extract\") (heading 13.02). \n(b) Vanilla sugar (heading 17.01 or 17.02). \n(c) Vanillin (the odoriferous principle of vanilla) (heading 29.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0905.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa xay hoặc chưa nghiền",
+        "en": "Neither crushed nor ground"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0905.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã xay hoặc nghiền",
+        "en": "Crushed or ground"
+      }
+    }
+  ]
+}

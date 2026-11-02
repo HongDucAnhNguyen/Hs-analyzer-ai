@@ -1,0 +1,67 @@
+{
+  "heading_id": "11.05",
+  "heading_title": {
+    "vi": "Bột, bột thô, bột mịn, mảnh lát, hạt và viên từ khoai tây.",
+    "en": "Flour, meal, powder, flakes, granules and pellets of potatoes."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm khoai tây khô dưới các dạng bột, bột thô, bột mịn, mảnh lát, hạt hoặc viên, thu được từ khoai tây tươi hấp chín, nghiền và làm khô. Các sản phẩm này có thể được bổ sung một lượng nhỏ chất chống oxy hoá, chất nhũ hoá hay vitamin. Tuy nhiên, nhóm này không bao gồm các sản phẩm có thêm các chất khác làm thay đổi đặc tính của chế phẩm khoai tây. Nhóm này cũng loại trừ: (a) Khoai tây chỉ được làm khô, tách nước mà không chế biến thêm (nhóm 07.12); (b) Tinh bột khoai tây (nhóm 11.08); (c) Sản phẩm thay thế tinh bột sắn làm từ tinh bột khoai tây (nhóm 19.03).",
+    "en": "This heading covers dried potatoes in the form of flour, meal, powder, flakes, granules, or pellets, obtained from steam-cooked, mashed, and dried fresh potatoes. These products may have very small amounts of anti-oxidants, emulsifiers, or vitamins added. However, the heading excludes products to which other substances have been added that alter the characteristics of potato preparations. This heading also excludes: (a) Potatoes simply dried or dehydrated without further processing (heading 07.12); (b) Potato starch (heading 11.08); (c) Tapioca substitutes prepared from potato starch (heading 19.03)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm khoai tây khô dưới dạng bột, bột thô, bột mịn, dạng mảnh lát, hạt hoặc viên. Bột thô, bột mịn, dạng mảnh lát và hạt của nhóm này thu được từ khoai tây tươi hấp chín và được nghiền nhừ rồi sau đó làm khô phần nghiền nhừ đó thành bột, bột thô, bột mịn hoặc hạt hoặc thành tấm mỏng được cắt thành các mảnh lát nhỏ. Viên thuộc nhóm này thường thu được từ quá trình ép nén bột, bột thô, bột mịn hoặc các mẩu vụn của khoai tây.",
+        "en": "This heading applies to dried potatoes presented as flour, meal, powder, flakes, granules or pellets. The flour, powder, flakes and granules of the heading may be obtained by steam-cooking and mashing fresh potatoes and subsequent drying of the resulting mash either to a flour, powder or granules or to thin sheets which are cut into small flakes. The pellets of the heading are usually obtained by agglomeration of flour, meal, powder or pieces of potato."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các sản phẩm thuộc nhóm này có thể được cải thiện bằng cách cho thêm một lượng rất nhỏ chất chống oxy hoá, chất nhũ hoá hay vitamin.",
+        "en": "Products of this heading may be improved by the addition of very small amounts of anti-oxidants, emulsifiers or vitamins."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này không bao gồm các sản phẩm được cho thêm một số chất thay đổi đặc tính của chế phẩm khoai tây.",
+        "en": "However, the heading excludes products to which other substances have been added so that they take on the characteristics of potato preparations."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm:\n(a) Khoai tây mới chỉ được làm khô đơn giản, được phơi khô hoặc tách nước, mà không được chế biến thêm (nhóm 07.12).\n(b) Tinh bột khoai tây (nhóm 11.08).\n(c) Những sản phẩm thay thế tinh bột sắn được làm từ tinh bột khoai tây (nhóm 19.03).",
+        "en": "The heading also excludes :\n(a) Potatoes which have been simply dried, dehydrated or evaporated, without further processing (heading 07.12).\n(b) Potato starch (heading 11.08).\n(c) Tapioca substitutes prepared from potato starch (heading 19.03)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1105.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bột, bột thô và bột mịn",
+        "en": "Flour, meal and powder"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1105.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dạng mảnh lát, hạt và viên",
+        "en": "Flakes, granules and pellets"
+      }
+    }
+  ]
+}

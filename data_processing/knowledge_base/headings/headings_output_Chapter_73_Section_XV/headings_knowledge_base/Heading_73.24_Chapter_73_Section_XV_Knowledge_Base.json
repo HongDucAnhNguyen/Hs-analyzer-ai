@@ -1,0 +1,77 @@
+{
+  "heading_id": "73.24",
+  "heading_title": {
+    "vi": "Thiết bị vệ sinh và các bộ phận của chúng, bằng sắt hoặc thép.",
+    "en": "Sanitary ware and parts thereof, of iron or steel."
+  },
+  "summary": {
+    "vi": "Nhóm 73.24 bao gồm các mặt hàng vệ sinh bằng sắt hoặc thép chưa được phân loại cụ thể ở nơi khác. Các sản phẩm này có thể được sản xuất bằng nhiều phương pháp như đúc, ép, rèn hoặc dập, từ các vật liệu như tấm, lá, dây hoặc lưới thép. Chúng có thể có các bộ phận bằng vật liệu khác nhưng phải giữ được đặc tính của sản phẩm sắt thép. Các mặt hàng chính thuộc nhóm này bao gồm bồn tắm, chậu thấp, bồn tắm ngồi nửa người, bồn rửa chân, bồn rửa, chậu rửa, bộ đồ vệ sinh cá nhân, đĩa đựng xà bông, giỏ đựng miếng bọt biển, bình vòi hoa sen, thùng vệ sinh, bồn tiểu tiện, bô, lọ đựng nước tiểu, bồn nước xối, ống nhổ và hộp kẹp giấy vệ sinh. Nhóm này không bao gồm bình, hộp chứa thuộc nhóm 73.10 và các loại tủ nhỏ đựng thuốc, tủ tường vệ sinh và đồ đạc khác thuộc Chương 94.",
+    "en": "Heading 73.24 covers sanitary articles of iron or steel not more specifically covered elsewhere. These products can be manufactured by various processes such as casting, pressing, forging, or stamping, from materials like sheet, plate, wire, or wire grill. They may have parts of other materials, provided they retain the character of iron or steel articles. Key items in this heading include baths, bidets, hip-baths, foot-baths, sinks, wash basins, toilet sets, soap dishes, sponge baskets, douche cans, sanitary pails, urinals, bedpans, chamber-pots, flushing cisterns, spittoons and toilet paper holders. This heading excludes cans and containers of heading 73.10 and small medicine cabinets, toilet wall cabinets, and other furniture of Chapter 94."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm một phạm vi rộng các mặt hàng bằng sắt hoặc thép được sử dụng cho các mục đích vệ sinh.",
+        "en": "This heading comprises a wide range of iron or steel articles used for sanitary purposes."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các mặt hàng này chưa được bao gồm một cách rõ ràng, riêng biệt hơn trong các nhóm khác của Danh mục. Chúng có thể được đúc, hoặc làm từ tấm, lá, vành, dải, dây, vỉ lưới dây thép, lưới kim loại bằng sắt hoặc thép, và có thể được sản xuất bởi bất kỳ phương pháp nào (ép theo khuôn, rèn, dập, dập nổi). Chúng có thể được gắn với các bộ phận bằng vật liệu khác với điều kiện chúng vẫn giữ được đặc tính của mặt hàng sắt hoặc thép. Nhóm này bao gồm: bồn tắm, chậu thấp, bồn tắm ngồi nửa người, bồn rửa chân, bồn rửa, chậu rửa, bộ đồ vệ sinh cá nhân; đĩa đựng xà bông và giỏ đựng miếng bọt biển; bình vòi hoa sen, thùng vệ sinh, bồn tiểu tiện, bô, lọ đựng nước tiểu, bồn để rửa mặt trong nhà vệ sinh và bồn nước xối, ống nhổ, hộp kẹp giấy vệ sinh. Nhóm này không bao gồm: (a) Bình, hộp và các đồ chứa tương tự thuộc nhóm 73.10; (b) Tủ nhỏ đựng thuốc và tủ tường vệ sinh và các đồ đạc khác thuộc Chương 94.",
+        "en": "These articles are not more specifically covered by other headings of the Nomenclature. They may be cast, or of iron or steel sheet, plate, hoop, strip, wire, wire grill, wire cloth, etc., and may be manufactured by any process (moulding, forging, punching, stamping, etc.). They may be fitted with lids, handles or other parts or accessories of other materials provided that they retain the character of iron or steel articles. The heading includes: baths, bidets, hip-baths, foot-baths, sinks, wash basins, toilet sets; soap dishes and sponge baskets; douche cans, sanitary pails, urinals, bedpans, chamber-pots, water closet pans and flushing cisterns, spittoons, toilet paper holders. The heading excludes: (a) Cans, boxes and similar containers of heading 73.10; (b) Small hanging medicine and toilet wall cabinets and other furniture of Chapter 94."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7324.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chậu rửa và bồn rửa, bằng thép không gỉ",
+        "en": "Sinks and wash basins, of stainless steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bồn tắm :",
+        "en": "Baths:"
+      },
+      "subheading_id": "7324.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng gang đúc, đã hoặc chưa được tráng men",
+        "en": "- - Of cast iron, whether or not enamelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bồn tắm :",
+        "en": "Baths:"
+      },
+      "subheading_id": "7324.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7324.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, kể cả các bộ phận",
+        "en": "Other, including parts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "heading_id": "84.62",
+  "heading_title": {
+    "vi": "Máy công cụ (kể cả máy ép) dùng để gia công kim loại bằng cách rèn, gò hoặc dập khuôn; máy công cụ (kể cả máy ép) để gia công kim loại bằng cách uốn, gấp, kéo thẳng, dát phẳng, cắt xén, đột dập hoặc cắt rãnh hình chữ V; máy ép để gia công kim loại hoặc carbide kim loại chưa được chi tiết ở trên.",
+    "en": "Machine-tools (including presses) for working metal by forging, hammering or die-stamping (excluding rolling mills); machine-tools (including presses, slitting lines and cut-to-length lines) for working metal by bending, folding, straightening, flattening, shearing, punching, notching or nibbling (excluding draw-benches); presses for working metal or metal carbides, not specified above."
+  },
+  "summary": {
+    "vi": "Nhóm 84.62 bao gồm các máy công cụ gia công kim loại hoặc carbide kim loại mà không bóc tách vật liệu. Các máy này hoạt động bằng cách thay đổi hình dạng vật liệu thông qua các phương pháp như rèn, dập, uốn, gấp, kéo thẳng, dát phẳng, cắt xén, và đột dập. Nhóm này áp dụng cho cả máy hoạt động bằng động cơ và máy vận hành bằng tay hoặc chân, miễn là chúng được thiết kế để gắn cố định thay vì cầm tay. Các loại máy chính bao gồm máy tạo hình nóng (búa máy, máy ép rèn), máy uốn và dát phẳng cho sản phẩm phẳng, dây chuyền xẻ cuộn và máy cắt xén, máy đột dập, máy gia công ống và thanh, cũng như các loại máy ép nguội kim loại (thủy lực, cơ khí, servo). Các bộ phận và phụ kiện của máy thuộc nhóm này được phân loại vào nhóm 84.66. Nhóm này loại trừ các dụng cụ cầm tay (nhóm 82.05, 84.67), máy cán (nhóm 84.55), trung tâm gia công (nhóm 84.57), máy ép đa dụng (nhóm 84.79), và máy móc kiểm tra (nhóm 90.24).",
+    "en": "Heading 84.62 covers machine tools for working metal or metal carbides without removing material. These machines operate by changing the material's shape through methods such as forging, hammering, die-stamping, bending, folding, straightening, flattening, shearing, and punching. This heading applies to both power-driven and hand- or pedal-operated machines, provided they are designed for fixed mounting rather than for working in the hand. The main types of machines include hot forming machines (hammers, forging presses), bending and flattening machines for flat products, slitting lines and shearing machines, punching machines, machines for working tubes and bars, as well as various cold metal working presses (hydraulic, mechanical, servo). Parts and accessories for machines of this heading are classified in heading 84.66. The heading excludes hand tools (headings 82.05, 84.67), rolling mills (heading 84.55), machining centres (heading 84.57), general-purpose presses (heading 84.79), and testing machines (heading 90.24)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy công cụ hoạt động bằng cách thay đổi hình dạng của kim loại hoặc carbide kim loại. Các máy này thường hoạt động bằng động cơ, nhưng cũng bao gồm các máy tương tự vận hành bằng tay hoặc chân. Chúng được phân biệt với dụng cụ cầm tay của nhóm 82.05 và 84.67 bởi đặc điểm được thiết kế để đặt trên sàn, trên giá máy, gắn tường hoặc trên máy móc khác, và thường có đế, khung gắn hoặc giá đỡ.",
+        "en": "This heading covers machine-tools that work by changing the shape or form of metal or metal carbides. These machines are generally power-driven but also include similar machines worked by hand or pedal. They are distinguished from hand tools of heading 82.05 and 84.67 by being designed to be mounted on the floor, a bench, a wall, or another machine, and are thus usually provided with a base plate, mounting frame, or stand."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n1. Máy tạo hình nóng để rèn, dập khuôn (kể cả máy ép) và búa máy nóng: Các máy này dùng để gia công kim loại nung nóng bằng cách dập hoặc ép. Các ví dụ bao gồm: (a) Máy rèn khuôn kín; (b) Máy rèn khuôn mở; (c) Búa máy, máy rèn, búa thả (cơ khí, thủy lực, khí nén, hơi); (d) Máy ép kim loại hoạt động bằng sức ép liên tục. Tuy nhiên, các máy ép đa dụng không được thiết kế đặc biệt để gia công kim loại bị loại trừ (nhóm 84.79).",
+        "en": "The heading includes:\n1. Hot forming machines for forging, die forging (including presses) and hot hammers: These machines are for working heated metal by impact or pressure. Examples include: (a) Closed die forging machines; (b) Open die forging machines; (c) Hammers, drop forges, and drop hammers (mechanical, hydraulic, pneumatic, steam); (d) Metal working presses operating by continuous pressure. However, general-purpose presses not specially designed for metal working are excluded (heading 84.79)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "2. Máy uốn, gấp, kéo thẳng hoặc dát phẳng (kể cả máy chấn) cho các sản phẩm phẳng: Bao gồm: (a) Máy định hình; (b) Máy chấn điều khiển số; (c) Máy uốn bảng điều khiển số; (d) Máy uốn định hình lăn điều khiển số; (e) Máy uốn mép, gấp; (f) Máy kéo thẳng và máy dát phẳng.",
+        "en": "2. Bending, folding, straightening or flattening machines (including press brakes) for flat products: These include: (a) Profile forming machines; (b) Numerically controlled press brakes; (c) Numerically controlled panel benders; (d) Numerically controlled roll forming machines; (e) Folding machines; (f) Straightening machines and flattening machines."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "3. Dây chuyền xẻ cuộn, dây chuyền cắt xén thành đoạn và các máy cắt xén khác (trừ máy ép) cho sản phẩm phẳng: Bao gồm: (a) Dây chuyền xẻ cuộn; (b) Dây chuyền cắt xén thành từng đoạn; (c) Máy xén (máy cắt đòn cân, máy cắt đòn bẩy, máy xén kim loại, máy xén quay).\n4. Máy đột dập, máy cắt rãnh theo hình hoặc máy cắt dập liên tục (trừ máy ép) cho sản phẩm phẳng: Bao gồm: (a) Máy đột dập dùng để đục lỗ, cắt rãnh; (b) Máy cắt rãnh (cắt ngấn) dùng để gia công các tiết diện.",
+        "en": "3. Slitting lines, cut-to-length lines and other shearing machines (excluding presses) for flat products: These include: (a) Slitting lines; (b) Cut to length lines; (c) Shearing machines (balance shears, lever shears, guillotine shears, rotary shearing machines).\n4. Punching, notching or nibbling machines (excluding presses) for flat products: These include: (a) Punching machines used for perforating or notching; (b) Notching machines for working various sections."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "5. Máy gia công ống, ống dẫn, dạng hình ống rỗng và dạng thanh (trừ máy ép): Các máy thực hiện các hoạt động như uốn, gấp, hoàn thiện đầu cuối, kéo thẳng, dát phẳng, đột dập (không loại bỏ kim loại) và tạo hình chi tiết dạng ống. Máy uốn dây phức tạp (ví dụ: máy sản xuất lò xo) và ghế kéo bị loại trừ (nhóm 84.63).\n6. Máy gia công ép nguội kim loại: Bao gồm: (a) Máy ép thủy lực; (b) Máy ép cơ khí.",
+        "en": "5. Machines for working tube, pipe, hollow section and bar (excluding presses): Machines that perform operations such as bending, folding, end-finishing, straightening, flattening, punching (without removal of metal), and tube hydroforming. Complex wire bending machines (e.g., spring manufacturing machines) and draw-benches are excluded (heading 84.63).\n6. Cold metal working presses: These include: (a) Hydraulic presses; (b) Mechanical presses."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "6. Máy gia công ép nguội kim loại (tiếp theo): Bao gồm: (c) Máy ép servo; (d) Máy ép đùn; (e) Máy ép để nén mẩu kim loại (phế liệu) thành khối.\nBộ phận và phụ kiện: Theo quy định chung của Phần XVI, các bộ phận và phụ kiện (trừ dụng cụ thuộc Chương 82) của máy công cụ thuộc nhóm này được phân loại vào nhóm 84.66.\nLoại trừ: Nhóm này không bao gồm: (a) Dụng cụ cầm tay (nhóm 82.05); (b) Máy cán (nhóm 84.55); (c) Trung tâm gia công và máy gia công chuyển dịch đa vị trí (nhóm 84.57); (d) Dụng cụ cầm tay hoạt động bằng khí nén, thủy lực hoặc động cơ (nhóm 84.67); (e) Máy dập nổi bảng địa chỉ (nhóm 84.72); (f) Máy đập nhỏ gang và máy dập phế liệu (nhóm 84.79); (g) Máy uốn, gấp, làm thẳng tấm bán dẫn (nhóm 84.86); (h) Máy móc và thiết bị kiểm tra (nhóm 90.24).",
+        "en": "6. Cold metal working presses (continued): These include: (c) Servo-presses; (d) Extruding presses; (e) Presses for compressing metal scrap into bales.\nParts and Accessories: Subject to the general provisions of Section XVI, parts and accessories (other than tools of Chapter 82) of the machine-tools of this heading are classified in heading 84.66.\nExclusions: The heading also excludes: (a) Hand tools (heading 82.05); (b) Rolling mills (heading 84.55); (c) Machining centres and multi-station transfer machines (heading 84.57); (d) Pneumatic, hydraulic or motor-driven tools for working in the hand (heading 84.67); (e) Machines for stamping address plates (heading 84.72); (f) Pig iron breakers and scrap stamping mills (heading 84.79); (g) Machine-tools for bending, folding, and straightening semiconductor leads (heading 84.86); (h) Testing machines and apparatus (heading 90.24)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy tạo hình nóng để rèn, dập khuôn (kể cả máy ép) và búa máy nóng:",
+        "en": "- Hot forming machines for forging, die forging (including presses) and hot hammers:"
+      },
+      "subheading_id": "8462.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy rèn khuôn kín",
+        "en": "- - Closed die forging machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy tạo hình nóng để rèn, dập khuôn (kể cả máy ép) và búa máy nóng:",
+        "en": "- Hot forming machines for forging, die forging (including presses) and hot hammers:"
+      },
+      "subheading_id": "8462.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy uốn, gấp, kéo thẳng hoặc dát phẳng (kể cả máy chấn) cho các sản phẩm phẳng:",
+        "en": "- Bending, folding, straightening or flattening machines (including press brakes) for flat products :"
+      },
+      "subheading_id": "8462.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy định hình (Profile forming machines)",
+        "en": "- - Profile forming machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy uốn, gấp, kéo thẳng hoặc dát phẳng (kể cả máy chấn) cho các sản phẩm phẳng:",
+        "en": "- Bending, folding, straightening or flattening machines (including press brakes) for flat products :"
+      },
+      "subheading_id": "8462.23",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy chấn điều khiển số",
+        "en": "- - Numerically controlled press brakes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy uốn, gấp, kéo thẳng hoặc dát phẳng (kể cả máy chấn) cho các sản phẩm phẳng:",
+        "en": "- Bending, folding, straightening or flattening machines (including press brakes) for flat products :"
+      },
+      "subheading_id": "8462.24",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy uốn bảng điều khiển số",
+        "en": "- - Numerically controlled panel benders"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy uốn, gấp, kéo thẳng hoặc dát phẳng (kể cả máy chấn) cho các sản phẩm phẳng:",
+        "en": "- Bending, folding, straightening or flattening machines (including press brakes) for flat products :"
+      },
+      "subheading_id": "8462.25",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy uốn định hình lăn điều khiển số",
+        "en": "- - Numerically controlled roll forming machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy uốn, gấp, kéo thẳng hoặc dát phẳng (kể cả máy chấn) cho các sản phẩm phẳng:",
+        "en": "- Bending, folding, straightening or flattening machines (including press brakes) for flat products :"
+      },
+      "subheading_id": "8462.26",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Các máy uốn, gấp, kéo thẳng hoặc dát phẳng điều khiển số khác",
+        "en": "- - Other numerically controlled bending, folding, straightening or flattening machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy uốn, gấp, kéo thẳng hoặc dát phẳng (kể cả máy chấn) cho các sản phẩm phẳng:",
+        "en": "- Bending, folding, straightening or flattening machines (including press brakes) for flat products :"
+      },
+      "subheading_id": "8462.29",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dây chuyền xẻ cuộn, dây chuyển cắt xén thành đoạn và các máy cắt xén khác (trừ máy ép) dùng cho các sản phẩm phẳng, trừ loại máy cắt xén và đột dập kết hợp:",
+        "en": "- Slitting lines, cut-to-length lines and other shearing machines (excluding presses) for flat products, other than combined punching and shearing machines :"
+      },
+      "subheading_id": "8462.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Dây chuyền xẻ cuộn, dây chuyền cắt xén thành đoạn",
+        "en": "- - Slitting lines and cut-to-length line"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dây chuyền xẻ cuộn, dây chuyển cắt xén thành đoạn và các máy cắt xén khác (trừ máy ép) dùng cho các sản phẩm phẳng, trừ loại máy cắt xén và đột dập kết hợp:",
+        "en": "- Slitting lines, cut-to-length lines and other shearing machines (excluding presses) for flat products, other than combined punching and shearing machines :"
+      },
+      "subheading_id": "8462.39",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy đột dập, máy cắt rãnh theo hình hoặc máy cắt dập liên tục (trừ máy ép) dùng cho các sản phẩm phẳng kể cả loại máy cắt xén và đột dập kết hợp:",
+        "en": "- Punching, notching or nibbling machines (excluding presses) for flat products including combined punching and shearing machines:"
+      },
+      "subheading_id": "8462.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy đột dập, máy cắt rãnh theo hình hoặc máy cắt dập liên tục (trừ máy ép) dùng cho các sản phẩm phẳng kể cả loại máy cắt xén và đột dập kết hợp:",
+        "en": "- Punching, notching or nibbling machines (excluding presses) for flat products including combined punching and shearing machines:"
+      },
+      "subheading_id": "8462.49",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy gia công ống, ống dẫn, dạng hình rỗng và dạng thanh (trừ máy ép):",
+        "en": "- Machines for working tube, pipe, hollow section and bar (excluding presses):"
+      },
+      "subheading_id": "8462.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy gia công ống, ống dẫn, dạng hình rỗng và dạng thanh (trừ máy ép):",
+        "en": "- Machines for working tube, pipe, hollow section and bar (excluding presses):"
+      },
+      "subheading_id": "8462.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy gia công ép nguội kim loại:",
+        "en": "- Cold metal working presses :"
+      },
+      "subheading_id": "8462.61",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy ép thủy lực",
+        "en": "- - Hydraulic presses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy gia công ép nguội kim loại:",
+        "en": "- Cold metal working presses :"
+      },
+      "subheading_id": "8462.62",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy ép cơ khí",
+        "en": "- - Mechanical presses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy gia công ép nguội kim loại:",
+        "en": "- Cold metal working presses :"
+      },
+      "subheading_id": "8462.63",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy ép Servo",
+        "en": "- - Servo-presses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy gia công ép nguội kim loại:",
+        "en": "- Cold metal working presses :"
+      },
+      "subheading_id": "8462.69",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8462.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "– Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

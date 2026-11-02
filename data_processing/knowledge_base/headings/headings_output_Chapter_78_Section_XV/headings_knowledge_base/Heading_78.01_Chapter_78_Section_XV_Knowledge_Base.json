@@ -1,0 +1,58 @@
+{
+  "heading_id": "78.01",
+  "heading_title": {
+    "vi": "Chì chưa gia công",
+    "en": "Unwrought lead"
+  },
+  "summary": {
+    "vi": "Nhóm 78.01 bao gồm chì chưa gia công ở các mức độ tinh khiết khác nhau, từ chì thỏi không tinh khiết hoặc chì có chứa bạc đến chì tinh khiết bằng phương pháp điện phân. Các dạng phổ biến của chì trong nhóm này bao gồm khối, thỏi, bánh, tấm, và các dạng tương tự, cũng như dạng thanh đúc. Các sản phẩm này chủ yếu được sử dụng cho quá trình cán, ép đùn, chế tạo hợp kim, hoặc đúc thành các sản phẩm có hình dạng cụ thể. Nhóm này cũng bao gồm các thanh anôt đúc dùng trong tinh chế điện phân và que đúc dùng cho cán, kéo hoặc đúc lại. Điều quan trọng cần lưu ý là nhóm này không bao gồm bột hoặc vảy chì, vì chúng được phân loại riêng trong nhóm 78.04.",
+    "en": "Heading 78.01 covers unwrought lead of various purity levels, from impure lead bullion to electrolytically refined lead. Common forms of lead in this heading include blocks, ingots, pigs, slabs, cakes, and similar forms, as well as cast sticks. These products are primarily intended for rolling, extrusion, manufacturing alloys, or for casting into shaped articles. The heading also includes cast anodes for electrolytic refining and cast rods intended for rolling, drawing, or re-casting. It is important to note that this heading explicitly excludes lead powders or flakes, which are classified separately under heading 78.04."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm chì chưa gia công ở mức độ tinh khiết khác nhau, từ các thỏi chì không tinh khiết hoặc chì có chứa bạc đến chì tinh khiết bằng phương pháp điện phân. Nó có thể ở dạng khối, thỏi, bánh, tấm, hoặc các dạng tương tự, hoặc ở dạng thanh đúc. Hầu hết các dạng đó là để đưa vào cán hoặc ép đùn, để chế tạo các loại hợp kim, hoặc cho việc đúc thành các sản phẩm dạng hình. Nhóm này cũng bao gồm các thanh anôt đúc sử dụng trong tinh chế bằng phương pháp điện phân, que đúc, ví dụ cho cán hoặc kéo hoặc đúc lại thành những sản phẩm dạng hình. Nhóm này loại trừ bột hoặc vảy chì (nhóm 78.04).",
+        "en": "This heading covers unwrought lead at its different degrees of purity, from impure lead bullion or argentiferous lead to electrolytically refined lead. It may be in blocks, ingots, pigs, slabs, cakes or similar forms, or in cast sticks. Most of these forms are intended for rolling or extrusion, for manufacture of alloys, or for casting into shaped articles. The heading also covers cast anodes for electrolytic refining, cast rods intended, for example, for rolling or drawing or for re-casting into shaped articles. The heading excludes lead powders or flakes (heading 78.04)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7801.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chì tinh luyện",
+        "en": "Refined lead"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "7801.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có hàm lượng antimon tính theo khối lượng là lớn nhất so với hàm lượng của các nguyên tố khác ngoài chì",
+        "en": "Containing by weight antimony as the principal other element"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "7801.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

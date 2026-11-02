@@ -1,0 +1,234 @@
+{
+  "chapter_id": "73",
+  "chapter_title": {
+    "vi": "Các sản phẩm bằng sắt hoặc thép",
+    "en": "Articles of iron or steel"
+  },
+  "summary": {
+    "vi": "Chương 73 bao gồm các sản phẩm làm từ sắt hoặc thép. Chương này định nghĩa \"gang đúc\" là sản phẩm từ quá trình đúc trong đó sắt chiếm ưu thế về khối lượng và có thành phần hóa học khác với thép theo Chú giải 1(d) của Chương 72. Nó cũng định nghĩa \"dây\" là sản phẩm được tạo hình nóng hoặc nguội, có kích thước mặt cắt ngang bất kỳ không vượt quá 16 mm. Phạm vi của chương bao quát các sản phẩm đặc trưng thuộc các nhóm từ 73.01 đến 73.24, và các sản phẩm không được định rõ hoặc không thuộc nơi khác trong các nhóm 73.25 và 73.26. Chương này loại trừ các sản phẩm thuộc Chương 82 và 83. Các định nghĩa chi tiết cho \"ống và ống dẫn\" và \"thanh dạng rỗng\" cũng được cung cấp để hỗ trợ phân loại. Chú giải tổng quát của Chương 72 cũng được áp dụng cho chương này khi cần thiết.",
+    "en": "Chapter 73 covers articles made of iron or steel. This chapter defines \"cast iron\" as a product of casting in which iron predominates by weight and its chemical composition differs from that of steel as per Note 1(d) to Chapter 72. It also defines \"wire\" as a hot or cold-formed product of any cross-section with a dimension not exceeding 16 mm. The scope of the chapter includes specific articles in headings 73.01 to 73.24, and articles not specified or included elsewhere in headings 73.25 and 73.26. This chapter excludes articles from Chapters 82 and 83. Detailed definitions for \"tubes and pipes\" and \"hollow profiles\" are also provided to aid classification. The General Explanatory Note to Chapter 72 also applies to this chapter where appropriate."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Khái niệm “gang đúc” áp dụng cho các sản phẩm thu được từ quá trình đúc, trong đó hàm lượng sắt theo khối lượng lớn hơn từng nguyên tố khác và có thành phần hoá học khác với thép theo định nghĩa của Chú giải 1(d) Chương 72.",
+        "en": "1.- In this Chapter the expression \"cast iron\" applies to products obtained by casting in which iron predominates by weight over each of the other elements and which do not comply with the chemical composition of steel as defined in Note 1 (d) to Chapter 72."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2. Từ \"dây\" là các loại sản phẩm tạo hình nóng hoặc nguội, có hình dạng mặt cắt ngang bất kỳ với kích thước không vượt quá 16 mm.",
+        "en": "2.- In this Chapter the word \"wire\" means hot or cold-formed products of any cross-sectional shape, of which no cross-sectional dimension exceeds 16 mm."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chương này bao gồm các sản phẩm đặc trưng trong các nhóm 73.01 đến 73.24 và các sản phẩm không được định rõ hoặc không thuộc Chương 82, 83 hoặc các Chương khác trong các nhóm 73.25 và 73.26, làm bằng sắt (gồm cả gang đúc) hoặc thép.",
+        "en": "This Chapter covers a certain number of specific articles in headings 73.01 to 73.24, and in headings 73.25 and 73.26 a group of articles not specified or included in Chapter 82 or 83 and not falling in other Chapters of the Nomenclature, of iron (including cast iron as defined in Note 1 to this Chapter) or steel."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Định nghĩa \"ống và ống dẫn\" và \"thanh dạng rỗng\":\n(1) Ống và ống dẫn: Là sản phẩm rỗng đồng tâm, mặt cắt ngang đồng nhất, chỉ một khoảng trống dọc theo chiều dài, bề mặt trong và ngoài cùng dạng. Các ống thép có thể có mặt cắt ngang hình tròn, ôvan, chữ nhật, tam giác đều, đa giác lồi đều.\n(2) Thanh hình rỗng: Là sản phẩm rỗng không theo định nghĩa trên, chủ yếu là các sản phẩm không có bề mặt trong và ngoài cùng dạng.",
+        "en": "The expressions \"tubes and pipes” and “hollow profiles\" have the following meanings:\n(1) Tubes and pipes: Concentric hollow products, of uniform cross-section with only one enclosed void along their whole length, having their inner and outer surfaces of the same form. Steel tubes may have circular, oval, rectangular, equilateral triangular and other regular convex polygonal cross-sections.\n(2) Hollow profiles: Hollow products not conforming to the above definition and mainly those not having their inner and outer surfaces of the same form."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải Tổng quát Chương 72, với những sửa đổi thích hợp, được áp dụng cho Chương này.",
+        "en": "The General Explanatory Note to Chapter 72 applies, mutatis mutandis, to this Chapter."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "73.01",
+      "heading_title": {
+        "vi": "Cọc cừ (sheet pilling) bằng sắt hoặc thép, đã hoặc chưa khoan lỗ, đục lỗ hoặc ghép từ các bộ phận lắp ráp; sắt hoặc thép, ở dạng góc, khuôn và dạng hình, đã được hàn.",
+        "en": "Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.02",
+      "heading_title": {
+        "vi": "Vật liệu xây dựng đường ray đường sắt hoặc đường ray tàu điện bằng sắt hoặc thép, như: ray, ray dẫn hướng và ray có răng, lưỡi ghi, ghi chéo, cần bẻ ghi và các đoạn nối chéo khác, tà vẹt (dầm ngang), thanh nối ray, gối ray, tấm đệm ray, tấm đế (đế ray), thanh chống xô, bệ đỡ (bedplate), tà vẹt và vật liệu chuyên dùng khác cho việc ghép hoặc định vị đường ray.",
+        "en": "Railway or tramway track construction material of iron or steel, the following : rails, check-rails and rack rails, switch blades, crossing frogs, point rods and other crossing pieces, sleepers (cross-ties), fish-plates, chairs, chair wedges, sole plates (base plates), rail clips, bedplates, ties and other material specialized for jointing or fixing rails."
+      }
+    },
+    {
+      "heading_id": "73.03",
+      "heading_title": {
+        "vi": "Các loại ống, ốn dẫn và thanh hình rỗng, bằng gang đúc.",
+        "en": "Tubes, pipes and hollow profiles, of cast iron."
+      }
+    },
+    {
+      "heading_id": "73.04",
+      "heading_title": {
+        "vi": "Các loại ống, ống dẫn và thanh hình rỗng, không nối, bằng sắt (trừ gang đúc) hoặc thép (+).",
+        "en": "Tubes, pipes and hollow profiles, seamless, of iron (other than cast iron) or steel (+)."
+      }
+    },
+    {
+      "heading_id": "73.05",
+      "heading_title": {
+        "vi": "Các loại ống và ống dẫn khác bằng sắt hoặc thép (ví dụ, được hàn, tán bằng đinh hoặc ghép với nhau bằng cách tương tự), có mặt cắt ngang hình tròn, đường kính ngoài trên 406,4 mm (+).",
+        "en": "Other tubes and pipes (for example, welded, riveted or similarly closed), having circular cross-sections, the external diameter of which exceeds 406.4 mm, of iron or steel (+)."
+      }
+    },
+    {
+      "heading_id": "73.06",
+      "heading_title": {
+        "vi": "Các loại ống, ống dẫn và thanh hình rỗng khác, bằng sắt hoặc thép (ví dụ, nối hở hoặc hàn, tán đinh hoặc ghép bằng cách tương tự) (+).",
+        "en": "Other tubes, pipes and hollow profiles (for example, open seam or welded, riveted or similarly closed), of iron or steel (+)."
+      }
+    },
+    {
+      "heading_id": "73.07",
+      "heading_title": {
+        "vi": "Phụ kiện ghép nối cho ống hoặc ống dẫn (ví dụ, khớp nối đôi, khuỷu, măng sông), bằng sắt hoặc thép.",
+        "en": "Tube or pipe fittings (for example, couplings, elbows, sleeves), of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.08",
+      "heading_title": {
+        "vi": "Các kết cấu (trừ nhà lắp ghép thuộc nhóm 94.06) và các bộ phận rời của các kết cấu (ví dụ cầu và nhịp cầu, cửa cống, tháp, cột lướt, mái nhà, khung mái, cửa ra vào, cửa sổ, và các loại khung cửa, ngưỡng cửa ra vào, cửa sổ, và các loại khung cửa, ngưỡng cửa ra vào, cửa chớp, lan can, cột trụ và các loại cột khác), bằng sắt hoặc thép; tấm, thanh, góc, khuôn, hình, ống và các loại tương tự, đã được gia công để dùng làm kết cấu, bằng sắt hoặc thép (+).",
+        "en": "Structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, lock-gates, towers, lattice masts, roofs, roofing frame-works, doors and windows and their frames and thresholds for doors, shutters, balustrades, pillars and columns), of iron or steel; plates, rods, angles, shapes, sections, tubes and the like, prepared for use in structures, of iron or steel (+)."
+      }
+    },
+    {
+      "heading_id": "73.09",
+      "heading_title": {
+        "vi": "Các loại bể chứa, két, bình chứa và các thùng chứa tương tự dùng để chứa mọi loại vật liệu (trừ khí nén hoặc khí hỏa lỏng), bằng sắt hoặc thép, có dung tích trên 300 lít, đã hoặc chưa được lót hoặc được cách nhiệt, nhưng chưa lắp ráp với thiết bị cơ khí hoặc thiết bị nhiệt.",
+        "en": "Reservoirs, tanks, vats and similar containers for any material (other than compressed or liquefied gas), of iron or steel, of a capacity exceeding 300 1, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment."
+      }
+    },
+    {
+      "heading_id": "73.10",
+      "heading_title": {
+        "vi": "Các loại đồ chứa dạng két, thùng phuy, thùng hình trống, hình hộp, lon và các loại đồ chứa tương tự, dùng để chứa mọi loại vật liệu (trừ khí nén hoặc khí hóa lỏng), bằng sắt hoặc thép, dung tích không quá 300 lít, đã hoặc chưa được lót hoặc được cách nhiệt, nhưng chưa được ghép với thiết bị cơ khí hoặc thiết bị nhiệt.",
+        "en": "Tanks, casks, drums, cans, boxes and similar containers, for any material (other than compressed or liquefied gas), of iron or steel, of a capacity not exceeding 300 1, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment."
+      }
+    },
+    {
+      "heading_id": "73.11",
+      "heading_title": {
+        "vi": "Các loại thùng chứa khí nén hoặc khí hóa lỏng, bằng sắt hoặc thép.",
+        "en": "Containers for compressed or liquefied gas, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.12",
+      "heading_title": {
+        "vi": "Dây bện tao, thừng, cáp, băng tết, dây treo và các loại tương tự, bằng sắt hoặc thép, chưa cách điện.",
+        "en": "Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated."
+      }
+    },
+    {
+      "heading_id": "73.13",
+      "heading_title": {
+        "vi": "Dây gai bằng sắt hoặc thép; dây đai xoán hoặc dây đơn dẹt, có gai hoặc không có gai, và dây đôi xoán, dùng làm hàng rào, bằng sắt hoặc thép.",
+        "en": "Barbed wire of iron or steel; twisted hoop or single flat wire, barbed or not, and loosely twisted double wire, of a kind used for fencing, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.14",
+      "heading_title": {
+        "vi": "Tấm đan (kể cả đai liền), phên, lưới và rào, làm bằng dây sắt hoặc thép; sản phẩm dạng lưới được tạo hình bằng phương pháp đột dập và kéo giãn thành lưới bằng sắt hoặc thép (+).",
+        "en": "Cloth (including endless bands), grill, netting and fencing, of iron or steel wire; expanded metal of iron or steel (+)."
+      }
+    },
+    {
+      "heading_id": "73.15",
+      "heading_title": {
+        "vi": "Xích và các bộ phận của xích, bằng sắt hoặc thép.",
+        "en": "Chain and parts thereof, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.16",
+      "heading_title": {
+        "vi": "Neo tàu, neo móc và các bộ phận của chúng, bằng sắt hoặc thép.",
+        "en": "Anchors, grapnels and parts thereof, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.17",
+      "heading_title": {
+        "vi": "Đinh, đinh bấm, đinh ấn (đinh rệp), đinh gấp, ghim dập (trừ các sản phẩm thuộc nhóm 83.05) và các sản phẩm tương tự, bằng sắt hoặc thép, có hoặc không có đầu bằng vật liệu khác, nhưng trừ loại có đầu bằng đồng.",
+        "en": "Nails, tacks, drawing pins, corrugated nails, staples (other than those of heading 83.05) and similar articles, of iron or steel, whether or not with heads of other material, but excluding such articles with heads of copper."
+      }
+    },
+    {
+      "heading_id": "73.18",
+      "heading_title": {
+        "vi": "Vít, bu lông, đai ốc, vít đầu vuông, vít treo, đinh tán, chốt hãm, chốt định vị, vòng đệm (kể cả vòng đệm lò xo vênh) và các sản phẩm tương tự, bằng sắt hoặc thép (+).",
+        "en": "Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter-pins, washers (including spring washers) and similar articles, of iron or steel (+)."
+      }
+    },
+    {
+      "heading_id": "73.19",
+      "heading_title": {
+        "vi": "Kim khâu, kim đan, cái xỏ dây, kim móc, kim thêu và các loại tương tự, để sử dụng bằng tay, bằng sắt hoặc thép; ghim băng và các loại ghim khác bằng sắt hoặc thép, chưa được ghi hoặc chi tiết ở nơi khác.",
+        "en": "Sewing needles, knitting needles, bodkins, crochet hooks, embroidery stilettos and similar articles, for use in the hand, of iron or steel; safety pins and other pins of iron or steel, not elsewhere specified or included."
+      }
+    },
+    {
+      "heading_id": "73.20",
+      "heading_title": {
+        "vi": "Lò xo và lá lò xo, bằng sắt hoặc thép.",
+        "en": "Springs and leaves for springs, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.21",
+      "heading_title": {
+        "vi": "Bếp, bếp có lò nướng, vỉ lò, bếp nấu (kể cả loại có nồi hơi phụ dùng cho hệ thống gia nhiệt trung tâm), vỉ nướng, lò nướng, lò ga hình vòng, dụng cụ hâm nóng dạng tấm và các loại đồ dùng gia đình không dùng điện tương tự, và các bộ phận của chúng, bằng sắt hoặc thép.",
+        "en": "Stoves, ranges, grates, cookers (including those with subsidiary boilers for central heating), barbecues, braziers, gas-rings, plate warmers and similar non-electric domestic appliances, and parts thereof, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.22",
+      "heading_title": {
+        "vi": "Lò sưởi của hệ thống nhiệt trung tâm không dùng điện và các bộ phận của chúng, bằng sắt hoặc thép; thiết bị làm nóng không khí và bộ phận phân phối khí nóng (kể cả loại có khả năng phân phối không khí tự nhiên hoặc khí điều hòa), không làm nóng bằng điện, có lắp quạt hoặc quạt thổi chạy bằng mô tơ, và bộ phận của chúng, bằng sắt hoặc thép.",
+        "en": "Radiators for central heating, not electrically heated, and parts thereof, of iron or steel; air heaters and hot air distributors (including distributors which can also distribute fresh or conditioned air), not electrically heated, incorporating a motor-driven fan or blower, and parts thereof, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.23",
+      "heading_title": {
+        "vi": "Bộ đồ ăn, đồ nhà bếp hoặc các loại đồ gia dụng khác và các bộ phận của chúng, bằng sắt hoặc thép; bùi nhùi bằng sắt hoặc thép; miếng cọ nồi và cọ rửa hoặc đánh bóng, bao tay và các loại tương tự, bằng sắt hoặc thép.",
+        "en": "Table, kitchen or other household articles and parts thereof, of iron or steel; iron or steel wool; pot scourers and scouring or polishing pads, gloves and the like, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.24",
+      "heading_title": {
+        "vi": "Thiết bị vệ sinh và các bộ phận của chúng, bằng sắt hoặc thép.",
+        "en": "Sanitary ware and parts thereof, of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.25",
+      "heading_title": {
+        "vi": "Các sản phẩm đúc khác bằng sắt hoặc thép.",
+        "en": "Other cast articles of iron or steel."
+      }
+    },
+    {
+      "heading_id": "73.26",
+      "heading_title": {
+        "vi": "Các sản phẩm khác bằng sắt hoặc thép (+).",
+        "en": "Other articles of iron or steel (+)."
+      }
+    }
+  ]
+  }

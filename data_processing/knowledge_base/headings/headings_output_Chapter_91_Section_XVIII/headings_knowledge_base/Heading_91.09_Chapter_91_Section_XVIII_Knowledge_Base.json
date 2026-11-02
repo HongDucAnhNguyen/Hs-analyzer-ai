@@ -1,0 +1,53 @@
+{
+  "heading_id": "91.09",
+  "heading_title": {
+    "vi": "Máy đồng hồ thời gian, hoàn chỉnh và đã lắp ráp.",
+    "en": "Clock movements, complete and assembled."
+  },
+  "summary": {
+    "vi": "Nhóm 91.09 bao gồm các máy đồng hồ thời gian hoàn chỉnh và đã lắp ráp, sẵn sàng để sử dụng. Các máy này thường có thiết bị hiển thị analog (kim) và có thể không kèm mặt số hay kim. Chúng chủ yếu được thiết kế cho các sản phẩm thuộc nhóm 91.04 đến 91.07, nhưng vẫn được phân loại trong nhóm này ngay cả khi được dùng cho các thiết bị khác như dụng cụ đo lường hay khí cụ nổ. Nhóm này loại trừ các mô tơ chạy bằng dây cót không có bộ điều tốc thuộc nhóm 84.12 và máy đồng hồ cá nhân được định nghĩa trong Chú giải 3 của Chương (nhóm 91.08). Cụ thể, nhóm này áp dụng cho các máy đồng hồ có độ dày trên 12 mm hoặc kích thước (rộng, dài, đường kính) trên 50 mm. Các loại máy đồng hồ quả lắc và máy đồng hồ chạy điện cũng thuộc nhóm này. Đối với máy đồng hồ đồng bộ và máy phụ, chúng phải bao gồm một bộ truyền động đồng hồ hoàn chỉnh ngoài động cơ. Máy đồng hồ thuộc nhóm này có thể được trình bày ở các dạng hoàn thiện khác nhau như chưa đánh bóng, đã đánh bóng, mạ kim loại quý hoặc quét véc ni.",
+    "en": "Heading 91.09 covers complete and assembled clock movements, ready for use. These movements typically feature an analogue display (hands) and may be presented without a dial or hands. They are primarily intended for goods of headings 91.04 to 91.07 but remain classified here even when incorporated into other apparatus like measuring instruments or explosive devices. The heading excludes spring-operated motors without escapements of heading 84.12 and watch movements as defined in Chapter Note 3 (heading 91.08). Specifically, this heading applies to movements exceeding 12 mm in thickness or 50 mm in width, length, or diameter. Pendulum movements and electrical clock movements are also included. For synchronous and secondary movements, they must incorporate a complete clock train in addition to the motor. The movements can be presented in various finishes, such as unpolished, polished, plated with precious metals, or varnished."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại máy đồng hồ thời gian đã lắp ráp, hoàn chỉnh và sẵn sàng sử dụng.",
+        "en": "This heading covers all assembled movements of the clock type, that is to say, complete and ready for use."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các máy đồng hồ này có thiết bị hiển thị analog (kim), có thể không có mặt số hay kim. Chúng chủ yếu dùng cho hàng hóa nhóm 91.04 đến 91.07, nhưng vẫn được phân loại ở đây dù dùng cho các thiết bị của Chương khác như dụng cụ đo lường, công tơ, khí cụ nổ. Nhóm này không bao gồm: (a) Mô tơ chạy bằng dây cót hoặc đối trọng không có bộ phận điều tốc thuộc nhóm 84.12. (b) Máy đồng hồ cá nhân theo định nghĩa ở Chú giải 3 của Chương (nhóm 91.08). Do đó, nhóm này bao gồm các máy đồng hồ có độ dày trên 12 mm hoặc chiều rộng, chiều dài hay đường kính trên 50 mm; máy đồng hồ quả lắc; máy đồng hồ thời gian chạy điện (máy đồng hồ thời gian phụ, đồng bộ). Máy đồng hồ thời gian đồng bộ và phụ phải có bộ truyền động đồng hồ ngoài động cơ. Máy đồng hồ có thể được hoàn thiện bằng cách đánh bóng, mạ niken, rhodium, bạc, vàng, hoặc quét véc ni.",
+        "en": "These movements have an analogue time display device (hands) and may be with or without a dial or hands. They are mainly intended for the goods of headings 91.04 to 91.07, but remain classified here even if for other Chapters' apparatus (measuring instruments, meters, explosive devices). The heading excludes: (a) Spring-operated or weight-operated motors not fitted with escapements, of heading 84.12. (b) Watch movements as defined in Chapter Note 3 (heading 91.08). The heading therefore covers movements exceeding 12 mm in thickness or 50 mm in width, length or diameter; pendulum movements; and electrical clock movements (secondary clock movements, synchronous clock movements). To be classified here, synchronous and secondary clock movements must incorporate a clock train in addition to the motor. These movements may be unpolished, polished, nickel-plated, rhodium-plated, silvered, gilded, or varnished."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9109.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoạt động bằng điện",
+        "en": "Electrically operated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9109.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

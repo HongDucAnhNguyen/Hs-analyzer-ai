@@ -1,0 +1,120 @@
+{
+  "heading_id": "85.11",
+  "heading_title": {
+    "vi": "Thiết bị đánh lửa hoặc khởi động bằng điện loại dùng cho động cơ đốt trong đốt cháy bằng tia lửa điện hoặc cháy do nén (ví dụ, magneto đánh lửa, dynamo magneto, cuộn dây đánh lửa, bugi đánh lửa và bugi sấy, động cơ khỏi động); máy phát điện (ví dụ, dynamo, alternator) và thiết bị ngắt mạch loại được sử dụng cùng các động cơ nêu trên.",
+    "en": "Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines."
+  },
+  "summary": {
+    "vi": "Nhóm 85.11 bao gồm các thiết bị điện dùng để đánh lửa hoặc khởi động cho các loại động cơ đốt trong, bất kể là loại đốt cháy bằng tia lửa điện hay cháy do nén. Các sản phẩm này được ứng dụng trên các phương tiện như ô tô, máy bay, tàu thuyền, hoặc dùng cho các động cơ tĩnh. Nhóm này phân loại một loạt các thiết bị cụ thể bao gồm bugi đánh lửa, magneto đánh lửa, cuộn dây đánh lửa, bugi sấy, động cơ khởi động, và máy phát điện như dynamo và alternator. Ngoài ra, các thiết bị ngắt mạch và bộ phận của các thiết bị nêu trên cũng thuộc nhóm này, tuân theo các quy định của Phần XVI. Nhóm này không bao gồm các bộ khởi động động cơ chuyên dụng dùng ở sân bay (nhóm 85.04), ắc quy điện (nhóm 85.07), và dynamo chỉ dùng cho mục đích chiếu sáng trên xe đạp (nhóm 85.12).",
+    "en": "Heading 85.11 covers electrical equipment for the ignition or starting of internal combustion engines, whether spark-ignition or compression-ignition types. These products are used on vehicles such as motor cars, aircraft, boats, or for stationary engines. This heading classifies a range of specific devices including sparking plugs, ignition magnetos, ignition coils, glow plugs, starter motors, and generators like dynamos and alternators. Furthermore, cut-outs and parts of the aforementioned equipment are also included in this heading, subject to the provisions of Section XVI. This heading excludes specialized engine starters used at airfields (heading 85.04), electric accumulators (heading 85.07), and dynamos used solely for lighting purposes on bicycles (heading 85.12)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các thiết bị khởi động hoặc đánh lửa điện dùng cho các loại động cơ đốt trong (piston hoặc loại khác), sử dụng cho ô tô, máy bay, tàu thủy hoặc động cơ tĩnh. Nó cũng bao gồm các máy phát điện và máy cắt điện được sử dụng kết hợp với các động cơ đó.\nCác mặt hàng thuộc nhóm này bao gồm:\n(A) Bugi đánh lửa: Gồm một cực điện cách điện trung tâm và một hoặc nhiều điểm gắn vào thân, tạo ra tia lửa để đốt cháy hỗn hợp nổ trong xi lanh.\n(B) Magneto đánh lửa (kể cả dynamo magneto): Dùng để cung cấp điện áp cao cần thiết cho bugi, chủ yếu dùng cho động cơ xe đua, máy kéo, máy bay, tàu thuyền hoặc xe máy. Các loại chính bao gồm:\n(1) Magneto có phần ứng xoay: Phần ứng có cuộn dây sơ cấp quay giữa các cực của nam châm vĩnh cửu.",
+        "en": "This heading covers electrical starting or ignition equipment for internal combustion engines of any kind (piston or other types), whether for use in motor cars, aircraft, boats or the like, or for stationary engines. It also covers generators and cut-outs for use in conjunction with such internal combustion engines.\nThe heading includes:\n(A) Sparking plugs: These consist of a central insulated electrode and a point (or points) attached to the casing, which produces a spark to ignite the explosive mixture in the cylinder.\n(B) Ignition magnetos (including magneto-dynamos): Used to provide the necessary high tension voltage to be applied to the sparking plugs, mainly for racing cars, tractors, aircraft, motor-boat or motor-cycle engines. Main types are:\n(1) Revolving armature magnetos: An armature, wound with a primary low tension coil, rotates between the poles of a permanent magnet."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tiếp theo (B) Magneto đánh lửa:\n(2) Magneto có phần ứng cố định: Có hai loại, một loại có nam châm quay và loại kia có nam châm tĩnh và vật dẫn bằng thép mềm quay.\n(3) Dynamo magneto: Kết hợp một magneto và một dinamo trong một tổ hợp chung.\n(C) Bánh đà từ tính: Gồm một bộ phận từ tính gắn vào bánh đà của động cơ để tạo ra dòng điện áp thấp để đánh lửa.\n(D) Bộ phân phối điện: Phân phối dòng đánh lửa cho các bugi một cách tuần tự và kết hợp với một bộ ngắt mạch, đồng bộ với chu kỳ của piston.\n(E) Cuộn dây đánh lửa: Gồm các cuộn cảm ứng, tạo ra điện áp cao để dẫn đến bugi qua bộ phân phối. Có cả hệ thống cuộn dây đánh lửa kép nối trực tiếp với 2 bugi.\n(F) Động cơ khởi động: Là các động cơ điện nhỏ, thường là loại một chiều, dùng để khởi động động cơ đốt trong.\n(G) Máy phát điện (dynamo, alternator): Được điều khiển bằng động cơ, dùng để sạc pin và cung cấp dòng điện cho các thiết bị chiếu sáng, tín hiệu, và các thiết bị điện khác.",
+        "en": "Continuation of (B) Ignition magnetos:\n(2) Stationary armature magnetos: Two types exist, one with revolving magnets and another with stationary magnets and revolving soft iron inductors.\n(3) Magneto-dynamos: Comprise a magneto and a dynamo combined into a single unit.\n(C) Magnetic flywheels: Consist of a magnetic device fitted to a flywheel to produce a low tension current for ignition purposes.\n(D) Distributors: Distribute the ignition current to the sparking plugs in turn and incorporate an interrupter, synchronised with the strokes of the pistons.\n(E) Ignition coils: Consist of modified induction coils that produce a high voltage led to the sparking plugs via a distributor. Includes double-spark ignition coil systems connected directly to two plugs.\n(F) Starter motors: Small electric motors, usually of the DC series wound type, for temporarily coupling to the internal combustion engine to be started.\n(G) Generators (dynamos and alternators): Driven by the engine, serve to charge the batteries and to supply current to the lighting, signalling, and other electrical equipment."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Tiếp theo (G) Máy phát điện: Máy phát điện xoay chiều (alternator) được sử dụng với một bộ chỉnh lưu.\n(H) Cuộn tăng áp: Là những cuộn cảm ứng nhỏ được dùng trên máy bay để hỗ trợ magneto khi khởi động ở tốc độ thấp.\n(IJ) Bugi sấy nóng: Dùng cho động cơ diesel, có một điện trở nhỏ được gia nhiệt để làm nóng không khí trong xi lanh trước và trong quá trình khởi động.\n(K) Cuộn xông nóng: Các bộ phận được lắp trong ống dẫn hút không khí của động cơ diesel cho mục đích khởi động.\n(L) Thiết bị dynamo đóng cắt: Ngăn chặn dynamo hoạt động như một động cơ khi động cơ tĩnh hoặc quay chậm. Có thể kết hợp với ổn áp hoặc bộ ổn dòng.\nBỘ PHẬN: Theo quy tắc chung trong Chú giải tổng quát Phần XVI, các bộ phận của hàng hóa thuộc nhóm này cũng được phân loại ở đây.\nLOẠI TRỪ: Nhóm này không bao gồm:\n(a) Các khởi động động cơ dùng trong sân bay, trạm xe buýt, bao gồm máy biến thế và bộ chỉnh lưu (nhóm 85.04).\n(b) Các ắc quy điện (nhóm 85.07).\n(c) Các dynamo cho xe đạp, chỉ dùng để chiếu sáng (nhóm 85.12).",
+        "en": "Continuation of (G) Generators: Alternators are used with a rectifier.\n(H) Booster coils: Small induction coils used on aircraft to enable engine magnetos to function at low starting speeds.\n(IJ) Glow plugs: Used in diesel engines, they have a small resistor which becomes heated to warm the air in the cylinders before and during starting.\n(K) Heating coils: Intended for mounting in the air intake of diesel engines for starting purposes.\n(L) Dynamo cut-out apparatus: Prevents the dynamo from being driven as a motor by the battery when the engine is stationary or at low speed. May be combined with a voltage or current regulator.\nPARTS: Subject to the general provisions in the General Explanatory Note to Section XVI, parts of the goods of this heading are also classified here.\nEXCLUSIONS: The heading excludes:\n(a) Engine starters used on airfields, bus stations, consisting of a transformer and rectifier (heading 85.04).\n(b) Electric accumulators (heading 85.07).\n(c) Dynamos for use on bicycles for lighting purposes only (heading 85.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8511.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bugi đánh lửa",
+        "en": "Sparking plugs"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8511.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Magneto đánh lửa; dynamo magneto; bánh đà từ tính",
+        "en": "Ignition magnetos; magneto-dynamos; magnetic flywheels"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8511.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phân phối điện; cuộn dây đánh lửa",
+        "en": "Distributors; ignition coils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8511.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ khởi động và máy tổ hợp hai tính năng khởi động và phát điện",
+        "en": "Starter motors and dual purpose starter-generators"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8511.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy phát điện khác",
+        "en": "Other generators"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8511.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị khác",
+        "en": "Other equipment"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8511.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

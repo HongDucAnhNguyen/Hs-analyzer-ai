@@ -1,0 +1,60 @@
+{
+  "heading_id": "10.02",
+  "heading_title": {
+    "vi": "Lúa mạch đen (+).",
+    "en": "Rye (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm lúa mạch đen, có hạt dài, màu xanh xám hoặc xám sáng. Nhóm này không bao gồm lúa mạch đen có cựa (ergot) được phân loại vào nhóm 12.11. Chú giải phân nhóm 1002.10 quy định thuật ngữ “hạt giống” chỉ bao gồm lúa mạch đen được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+    "en": "This heading covers rye, which has an elongated grain, greenish-grey or light grey in colour. The heading excludes rye bearing the fungoid growth known as ergot, which is classified in heading 12.11. The Subheading Explanatory Note to 1002.10 specifies that the term “seed” covers only rye regarded by the competent national authorities as being for sowing."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Lúa mạch đen có hạt hình dạng dài hơn, màu xanh xám hoặc xám sáng. Bột của nó màu xám.",
+        "en": "Rye has a rather elongated grain, greenish-grey or light grey in eolour. Its flour is grey."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Lúa mạch đen có cựa dùng làm thuốc do nấm gây nên gọi là hạt cựa (ergot) không thuộc nhóm này (nhóm 12.11).",
+        "en": "Rye bearing the fungoid growth known as ergot is excluded (heading 12.11)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 1002.10\nTheo mục đích của phân nhóm 1002.10, thuật ngữ “hạt giống” chỉ bao gồm lúa mạch đen được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+        "en": "Subheading Explanatory Note.\nSubheading 1002.10\nFor the purposes of subheading 1002.10, the term “seed” covers only rye regarded by the competent national authorities as being for sowing."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1002.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hạt giống",
+        "en": "Seed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1002.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

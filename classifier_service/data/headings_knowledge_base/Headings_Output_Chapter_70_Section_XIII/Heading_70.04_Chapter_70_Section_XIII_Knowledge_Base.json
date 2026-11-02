@@ -1,0 +1,46 @@
+{
+  "heading_id": "70.04",
+  "heading_title": {
+    "vi": "Kính kéo và kính thổi, ở dạng tấm, đã hoặc chưa tráng lớp hấp thụ, lớp phản chiếu hoặc không phản chiếu, nhưng chưa gia công cách khác.",
+    "en": "Drawn glass and blown glass, in sheets, whether or not having an absorbent, reflecting or non-reflecting layer, but not otherwise worked."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm kính kéo và kính thổi chưa được gia công, ở dạng tấm (đã hoặc chưa được cắt thành hình). Kính này thường mỏng hơn kính đúc của nhóm 70.03 và có thể được phủ màu hoặc làm mờ đục toàn bộ, được tráng lớp thủy tinh màu khác, hoặc được tráng lớp hấp thụ, lớp phản chiếu hoặc không phản chiếu. Các công dụng chính bao gồm làm kính cửa sổ, cửa ra vào, tủ trưng bày, đồng hồ, tranh ảnh, tấm chụp ảnh và kính đeo mắt thường. Nhóm này loại trừ kính kéo và kính thổi đã được mài bề mặt, đánh bóng hoặc gia công cách khác (được phân loại vào các nhóm 70.05, 70.06, 70.09, v.v...).",
+    "en": "This heading covers unworked drawn and blown glass, in sheets (whether or not cut to shape). This glass is generally thinner than cast glass of heading 70.03 and may be coloured or opacified throughout the mass, flashed with glass of another colour, or coated with an absorbent, reflecting or non-reflecting layer. Main uses include glass for windows, doors, display cases, clocks, pictures, photographic plates, and plain spectacle glass. The heading excludes drawn and blown glass which has been surface ground, polished or otherwise worked (classified in headings 70.05, 70.06, 70.09, etc.)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này được giới hạn cho kính kéo và kính thổi, được gia công và ở dạng tấm (đã hoặc chưa được cắt thành hình).\nHiện nay, phương pháp thổi thủ công gần như được loại bỏ hoàn toàn (trừ đối với một số dạng thủy tinh đặc biệt), đã được thay thế bằng các phương pháp cơ khí thiết yếu khác như phương pháp kéo (ví dụ các các phương pháp kéo Fourcault, Libbey-Owens hay Pittsburgh) hoặc phương pháp kéo kết hợp với phương pháp thổi.\nNhìn chung, kính thuộc nhóm này có thể có các độ dày khác nhau nhưng mỏng hơn so với thủy tinh đúc thuộc nhóm 70.03. Loại này có thể được phủ màu hoặc làm mờ đục toàn bộ, hoặc được tráng lớp phản chiếu với thủy tinh có màu khác khi gia công hoặc có thể được tráng lớp hấp thụ, lớp phản chiếu hoặc không phản chiếu.\nKính kéo và kính thổi thường được dùng ở dạng mà chúng được sản xuất ban đầu, không có bất kỳ sự gia công thêm nào. Ngoài công dụng chính như làm kính dùng cho cửa sổ, cửa ra vào, hộp trưng bày, nhà kính, đồng hồ, tranh ảnh,... những loại kính này còn được sử dụng như các bộ phận của các mặt hàng đồ đạc, cho các tấm chụp ảnh, kính đeo mắt thường,...\nNhóm này không bao gồm loại kính kéo và kính thổi đã được mài, mài bóng bề mặt hoặc gia công cách khác (xem Chú giải Chi tiết các nhóm 70.05, 70.06, 70.09,...).",
+        "en": "This heading is restricted to drawn glass and blown glass which must be unworked and in sheets (whether or not cut to shape).\nThe non-mechanical blowing process, now more or less completely discarded (except for certain special types of glass), has been replaced by various mechanical processes consisting essentially of drawing (e.g., the Fourcault, Libbey-Owens or Pittsburgh processes) or of drawing combined with blowing.\nThe glass of this heading may be of various thicknesses but, in general, is less thick than cast glass of heading 70.03. It may be coloured or opacified in the mass, or flashed with glass of another colour during manufacture or may be coated with an absorbent, reflecting or nonreflecting layer.\nDrawn glass and blown glass are frequently used in the form in which they are originally produced, without any further working. In addition to then main use as glass for windows, doors, display cases, greenhouses, clocks, pictures, etc., these types of glass are also used as parts of articles of furniture, for photographic plates, plain spectacle glass, etc.\nThe heading excludes drawn glass and blown glass which have been surface ground, polished or otherwise worked (see the Explanatory Notes to headings 70.05, 70.06, 70.09, etc.)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7004.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Kính, được phủ màu toàn bộ, mờ, sáng, hoặc có tráng lớp hấp thụ, lớp phản chiếu hoặc không phản chiếu",
+        "en": "Glass, coloured throughout the mass (body tinted), opacified, flashed or having an absorbent, reflecting or non-reflecting layer"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7004.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại kính khác",
+        "en": "Other glass"
+      }
+    }
+  ]
+}

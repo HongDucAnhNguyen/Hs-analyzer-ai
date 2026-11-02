@@ -1,0 +1,86 @@
+{
+  "heading_id": "90.29",
+  "heading_title": {
+    "vi": "Máy đếm vòng quay, máy đếm sản lượng, máy đếm cây số để tính tiền taxi, máy đếm dặm, máy đo bước và máy tương tự; đồng hồ chỉ tốc độ và máy đo tốc độ gốc, trừ các loại máy thuộc nhóm 90.14 hoặc 90.15; máy hoạt nghiệm.",
+    "en": "Revolution counters, production counters, taximeters, mileometers, pedometers and the like; speed indicators and tachometers, other than those of heading 90.14 or 90.15; stroboscopes."
+  },
+  "summary": {
+    "vi": "Nhóm 90.29 bao gồm ba loại thiết bị chính: (A) thiết bị đếm, (B) đồng hồ chỉ tốc độ và máy đo tốc độ góc, và (C) máy hoạt nghiệm. Thiết bị đếm dùng để tính tổng số vòng quay, sản phẩm, hoặc chiều dài, bao gồm máy đếm vòng, máy đếm sản lượng, công tơ taxi, công tơ dặm và máy đo bước. Đồng hồ chỉ tốc độ và máy đo tốc độ góc được sử dụng để chỉ tốc độ quay hoặc tốc độ tuyến tính theo thời gian, thường được lắp trên xe cộ hoặc máy móc công nghiệp. Máy hoạt nghiệm là dụng cụ để quan sát các máy đang hoạt động như thể chúng đang chuyển động chậm hoặc đứng yên, hoặc để đo tốc độ của chúng. Nhóm này loại trừ các thiết bị đo lường chuyên dụng khác như thiết bị đo thuộc nhóm 90.28, dụng cụ tính tổng của nhóm 84.73, thiết bị đo thời gian thuộc Chương 91, và các loại máy thuộc nhóm 90.14 hoặc 90.15. Các bộ phận và phụ kiện của các thiết bị thuộc nhóm này, khi được trình bày riêng, cũng được phân loại tại đây theo Chú giải 1 và 2 của Chương 90.",
+    "en": "Heading 90.29 covers three main categories of instruments: (A) counting devices, (B) speed indicators and tachometers, and (C) stroboscopes. Counting devices are used to indicate the total number of revolutions, products, or lengths, and include revolution counters, production counters, taximeters, mileometers, and pedometers. Speed indicators and tachometers are used to indicate the speed of revolution or linear speed in relation to time, commonly mounted on vehicles or industrial machines. Stroboscopes are instruments for observing machines in operation as if they were moving slowly or stationary, or for measuring their speed. This heading excludes other specialized measuring instruments such as meters of heading 90.28, totalling devices of heading 84.73, time-measuring instruments of Chapter 91, and instruments of heading 90.14 or 90.15. Parts and accessories for the instruments of this heading, when presented separately, are also classified here subject to Notes 1 and 2 of Chapter 90."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm ba loại thiết bị chính: (A) Các thiết bị đếm chỉ ra tổng số đơn vị (vòng, sản phẩm, độ dài) hoặc số tiền phải trả; (B) Các dụng cụ chỉ tốc độ quay hoặc tốc độ tuyến tính theo thời gian; và (C) Máy hoạt nghiệm các loại. Các dụng cụ này vẫn thuộc nhóm này dù có hoặc không có cơ cấu ghi hoặc các thiết bị cơ hoặc điện đơn giản. Phần (A) không bao gồm các dụng cụ tính tổng thuộc nhóm 84.73, thiết bị đo khí, chất lỏng hoặc điện thuộc nhóm 90.28, và dụng cụ đo độ cong hoặc diện tích thuộc nhóm 90.17 hoặc 90.31. Phần (B) không bao gồm các công tơ của nhóm 90.14 hoặc 90.15.",
+        "en": "This heading includes three main categories of devices: (A) Counters indicating a total number of units (revolutions, items, length) or an amount to be paid; (B) Apparatus indicating a speed of revolution or a linear speed in relation to a time factor; and (C) Stroboscopes of all kinds. These instruments remain in this heading whether or not they incorporate a recording device or simple mechanical or electric devices. Part (A) excludes totalling devices of heading 84.73, gas, liquid or electricity supply or production meters of heading 90.28, and opisometers or planimeters of heading 90.17 or 90.31. Part (B) excludes counters of heading 90.14 or 90.15."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phần (A) các thiết bị đếm bao gồm: (1) Máy đếm vòng, không bao gồm guồng quay kiểm định, xoắn kế và dụng cụ tương tự có công tơ vòng (nhóm 90.31); (2) Công tơ đo lượng sản xuất, dùng để đo độ dài, đếm chuyển động máy hoặc số sản phẩm, bao gồm cả công tơ điện tử và công tơ điện từ dùng trong tổng đài điện thoại; (3) Công tơ đếm giờ làm việc cho máy, môtơ; (4) Công tơ nhập, ghi lại số lượng khách vào cửa; (5) Công tơ bi-a, loại cơ học để tính điểm.",
+        "en": "Part (A) counting devices include: (1) Revolution counters, excluding yarn grading winding reels, torsiometers and similar apparatus with revolution counters (heading 90.31); (2) Production counters, used for measuring lengths, counting machine movements or number of articles, including electronic counters and electro-magnetic counters used in telephone exchanges; (3) Counters for indicating the working hours of machines, motors; (4) Entry counters, recording the number of visitors at entrances; (5) Billiards meters, mechanical type for recording the score."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Tiếp tục phần (A): Công tơ bi-a không bao gồm loại có chuyển động kiểu đồng hồ (nhóm 91.06) và loại bi lăn hoặc trượt (nhóm 95.04). Các loại khác bao gồm: (6) Dụng cụ đo khoảng thời gian ngắn bằng cách đếm, không thuộc Chương 91; (7) Đồng hồ tính tiền xe taxi (máy đếm cây số); (8) Công tơ hành trình (công tơ cây số); (9) Lộ trình kế (máy đo bước); (10) Công tơ cầm tay. Phần (B) Đồng hồ chỉ tốc độ và máy đo tốc độ góc chỉ ra số vòng, tốc độ, sản lượng theo đơn vị thời gian, hoạt động theo hệ thống đo thời gian (chronometric system).",
+        "en": "Continuing Part (A): Billiards meters exclude those with a clock movement (heading 91.06) and the ball or slide type (heading 95.04). Other types include: (6) Instruments for measuring short time intervals by counting, not falling in Chapter 91; (7) Taximeters; (8) Mileometers; (9) Pedometers; (10) Hand-held counters. Part (B) Speed indicators and tachometers indicate revolutions, speed, output per unit of time, operating on a chronometric system."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Tiếp tục phần (B): Các nguyên lý hoạt động khác của đồng hồ chỉ tốc độ và máy đo tốc độ góc bao gồm hệ thống ly tâm, hệ thống rung, hệ thống từ tính (cảm ứng) và các hệ thống điện. Các thiết bị này có thể là cố định hoặc xách tay, đơn hoặc đa chức năng, vi sai, hoặc kết hợp với công tơ tổng hợp, tính giờ hoặc cơ cấu ghi đồ họa. Phần (C) Máy hoạt nghiệm (stroboscopes) cho phép quan sát máy đang chạy như thể chuyển động chậm hoặc đứng im và đo tốc độ. Chúng hoạt động dựa trên nguyên lý chiếu sáng liên tục qua khe hở hoặc chiếu sáng định kỳ (chớp sáng).",
+        "en": "Continuing Part (B): Other operating principles for speed indicators and tachometers include centrifugal system, vibration system, magnetic (induction) system, and electrical systems. These devices may be fixed or portable, simple or multi-function, differential, or combined with an adding counter, time meter or graphical recording device. Part (C) Stroboscopes enable observation of machines in operation as though moving slowly or stationary and measure speed. They operate on the principle of permanent illumination through a window or periodic illumination (flashes)."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Tiếp tục phần (C): Máy hoạt nghiệm có thể dựa trên nguyên lý chiếu sáng liên tục hoặc chiếu sáng theo chu kỳ (sử dụng đèn phóng điện qua khí). Các máy chụp ảnh hoặc quay phim không được lắp cố định vào máy hoạt nghiệm sẽ được phân loại theo nhóm thích hợp của chúng. Máy hoạt nghiệm được sử dụng để quan sát hoặc đo tốc độ của động cơ, máy dệt, máy làm giấy, máy in, và trong y học. Các bộ phận và phụ kiện của các máy móc thuộc nhóm này, khi được trình bày riêng biệt, cũng được phân loại trong nhóm này theo Chú giải 1 và 2 của Chương 90.",
+        "en": "Continuing Part (C): Stroboscopes can be based on the principle of permanent illumination or periodic illumination (using a gas discharge lamp). Photographic or cinematographic cameras not permanently incorporated in stroboscopes fall in their appropriate heading. Stroboscopes are used for observing or measuring the speed of motors, textile machinery, paper-making machines, printing machinery, and in medicine. Parts and accessories of apparatus of this heading, when presented separately, are also classified here subject to Notes 1 and 2 to Chapter 90."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9029.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy đếm vòng quay, máy đếm sản lượng, máy đếm cây số để tính tiền taxi, máy đếm dặm, máy đo bước và máy tương tự",
+        "en": "Revolution counters, production counters, taximeters, mileometers, pedometers and the like"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9029.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đồng hồ chỉ tốc độ và máy đo tốc độ góc; máy hoạt nghiệm",
+        "en": "Speed indicators and tachometers; stroboscopes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9029.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

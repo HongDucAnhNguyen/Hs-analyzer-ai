@@ -1,0 +1,81 @@
+{
+  "heading_id": "91.03",
+  "heading_title": {
+    "vi": "Đồng hồ thời gian có lắp máy đồng hồ cá nhân, trừ các loại đồng hồ thời gian thuộc nhóm 91.04.",
+    "en": "Clocks with watch movements, excluding clocks of heading 91.04."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại đồng hồ thời gian (kể cả đồng hồ báo thức) được lắp máy đồng hồ cá nhân, dùng để chỉ thời gian trong ngày. Theo Chú giải 3 của Chương, 'máy đồng hồ cá nhân' là máy móc được điều chỉnh bởi một bánh xe cân bằng và dây tóc, tinh thể thạch anh hay bất cứ hệ thống nào khác có thể xác định các khoảng thời gian, có bộ hiện số hoặc hệ thống cho phép lắp bộ hiện số cơ, và không dày hơn 12 mm, chiều rộng/dài/đường kính không vượt quá 50 mm.\n\nNhóm này bao gồm, ví dụ, đồng hồ gia dụng, văn phòng, đồng hồ du lịch, đồng hồ lịch, đồng hồ 8 ngày, đồng hồ điểm chuông, và đồng hồ dạ quang.\n\nNhóm này không bao gồm:\n(a) Đồng hồ thời gian lắp trên bàn điều khiển phương tiện (nhóm 91.04).\n(b) Đồng hồ thời gian không đáp ứng định nghĩa 'máy đồng hồ cá nhân' (ví dụ: đồng hồ quả lắc, hoặc máy có kích thước lớn hơn quy định) (nhóm 91.05).\n(c) Máy (nhóm 91.08 hay 91.10), vỏ đồng hồ thời gian (nhóm 91.12) và các bộ phận của máy (nhóm 91.10 hay 91.14) khi chúng được trình bày riêng lẻ.",
+    "en": "This heading covers clocks (including alarm clocks) equipped with watch movements, constructed for indicating the time of day. According to Chapter Note 3, 'watch movements' are devices regulated by a balance-wheel and hairspring, quartz crystal or any other system capable of determining intervals of time, with a display or a system for a mechanical display, and not exceeding 12 mm in thickness and 50 mm in width, length or diameter.\n\nThis heading includes, for example, household or office clocks, travelling clocks, calendar clocks, eight-day clocks, striking clocks, and clocks with luminous dials.\n\nThis heading excludes:\n(a) Instrument panel clocks (heading 91.04).\n(b) Clocks which do not satisfy the definition of 'watch movement' (e.g., pendulum clocks, or movements with larger dimensions) (heading 91.05).\n(c) Movements (heading 91.08 or 91.10), clock cases (heading 91.12) and parts of movements (heading 91.10 or 91.14) when separately presented."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại đồng hồ thời gian (kể cả đồng hồ báo thức nhưng không bao gồm đồng hồ thời gian thuộc nhóm 91.04) với điều kiện chúng được lắp máy đồng hồ cá nhân, và về cơ bản được làm ra để chỉ thời gian trong ngày. Theo Chú giải 3 của Chương, khái niệm “máy đồng hồ cá nhân” trong nhóm này được hiểu là máy móc được điều chỉnh bởi một bánh xe cân bằng và dây tóc, tinh thể thạch anh hay bất cứ hệ thống nào khác có thể xác định các khoảng thời gian, có bộ hiện số hay một hệ thống cho phép lắp bộ hiện số cơ. Những máy đồng hồ cá nhân như thế không được dày hơn 12 mm và chiều rộng, chiều dài hay đường kính không vượt quá 50 mm.",
+        "en": "This heading covers clocks (including alarm clocks but excluding clocks of heading 91.04) provided they are equipped with watch movements, and are essentially constructed for indicating the time of day. Under Chapter Note 3, the expression “ watch movements ” in this heading means devices regulated by a balance-wheel and hairspring, quartz crystal or any other system capable of determining intervals of time, with a display or a system to which a mechanical display can be incorporated. Such watch movements shall not exceed 12 mm in thickness and 50 mm in width, length or diameter."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Tuy nhiên, nên lưu ý rằng nhóm này không bao gồm:\n(a) Đồng hồ thời gian lắp trên bàn điều khiển phương tiện và các dạng đồng hồ thời gian tương tự, dùng trên xe cộ, máy bay, tầu vũ trụ hay tàu thủy; những loại này được phân loại vào nhóm 91.04 bất kể chủng loại hay độ dày của máy.\n(b) Đồng hồ thời gian (bao gồm cả đồng hồ báo thức) không đáp ứng những điều kiện tại đoạn đầu tiên, ví dụ như đồng hồ quả lắc, đồng hồ thời gian có bất cứ hệ thống điều chỉnh nào khác có khả năng xác định các khoảng thời gian mà độ dày vượt quá 12 mm, hoặc chiều rộng, chiều dài hay đường kính vượt quá 50 mm và đồng hồ thời gian mà máy không có hệ thống điều chỉnh (chẳng hạn chạy bằng động cơ đồng bộ). Những loại này thuộc nhóm 91.05.",
+        "en": "It should however be noted that the heading excludes:\n(a) Instrument panel clocks and clocks of a similar type, for vehicles, aircraft, spacecraft or vessels; these are classified in heading 91.04 regardless of the type or thickness of the movement.\n(b) Clocks (including alarm clocks) which do not satisfy the conditions specified in the first paragraph, for example, pendulum clocks, clocks with any other regulating system capable of determining intervals of time and exceeding 12 mm in thickness or exceeding 50 mm in width, length or diameter and clocks with movements without a regulating system (e.g., driven by synchronous motor). These fall in heading 91.05."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Đồng hồ báo thức được lắp bộ chuông (thường dùng chính vỏ đồng hồ làm chuông) đổ chuông vào một giờ đã định trước trong ngày nhờ một kim đặc biệt. Bộ chuông đôi khi được thay thế bằng một thiết bị phát nhạc.",
+        "en": "Alarm clocks are equipped with a striking mechanism (usually with the clock case acting as gong) which is set off at a given time of day fixed in advance by means of a special hand. The striking mechanism is sometimes replaced by a musical device."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Với điều kiện có máy đồng hồ cá nhân, ngoài những loại khác, nhóm này còn bao gồm:\n(i) Đồng hồ thời gian gia dụng hay văn phòng (kể cả đồng hồ báo thức) có chân, đặt trên đế, v.v...",
+        "en": "Provided they have watch movements, the heading covers, inter alia:\n(i) Household or office clocks (including alarm clocks) on feet, on stands, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(ii) Đồng hồ thời gian du lịch có vỏ.\n(iii) Đồng hồ thời gian có lịch.\n(iv) Đồng hồ thời gian 8 ngày.\n(v) Đồng hồ thời gian điểm chuông theo giờ.\n(vi) Đồng hồ thời gian có mặt số và kim dạ quang.",
+        "en": "(ii) Travelling clocks with cases.\n(iii) Calendar clocks.\n(iv) Eight-day clocks.\n(v) Clocks which strike the hours.\n(vi) Clocks with luminous dials and hands."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm những loại sau khi chúng được trình bày riêng biệt: máy (nhóm 91.08 hay 91.10), vỏ đồng hồ thời gian (nhóm 91.12) và các bộ phận của máy (thường thuộc nhóm 91.10 hay 91.14).",
+        "en": "The heading excludes the following when separately presented: movements (heading 91.08 or 91.10), clock cases (heading 91.12) and parts of movements (generally heading 91.10 or 91.14)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9103.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoạt động bằng điện",
+        "en": "Electrically operated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9103.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

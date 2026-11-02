@@ -1,0 +1,113 @@
+{
+  "heading_id": "87.11",
+  "heading_title": {
+    "vi": "Mô tô (kể cả xe gắn máy có bàn đạp (moped)) và xe đạp có gắn động cơ phụ trợ, có hoặc không có thùng xe bên cạnh; thùng xe có bánh (side-cars).",
+    "en": "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars."
+  },
+  "summary": {
+    "vi": "Nhóm 87.11 bao gồm các loại xe hai bánh có động cơ được thiết kế chủ yếu để chở người. Phạm vi của nhóm này rất rộng, bao gồm xe mô tô thông thường, xe tay ga (scooter), xe gắn máy có bàn đạp (moped), và xe đạp có gắn động cơ phụ trợ. Nhóm này cũng bao gồm các thiết bị vận chuyển cá nhân chạy điện, tự cân bằng, hai bánh không nối tiếp. Ngoài ra, xe ba bánh như xe ba gác chở hàng cũng được phân loại ở đây nếu chúng không mang đặc điểm của xe thuộc nhóm 87.03 hoặc 87.04. Các loại thùng xe gắn bên cạnh (side-car) để chở người hoặc hàng hóa cũng thuộc nhóm này. Tuy nhiên, nhóm này loại trừ các xe mô tô bốn bánh có hệ thống lái kiểu ô tô (nhóm 87.03). Các rơ-moóc được thiết kế để kéo bởi xe mô tô hoặc xe đạp cũng không thuộc nhóm này mà thuộc nhóm 87.16. Các xe mô tô trong nhóm này có thể sử dụng động cơ đốt trong với nhiều dung tích xi lanh khác nhau hoặc động cơ điện.",
+    "en": "Heading 87.11 covers two-wheeled motorised vehicles primarily designed for transporting people. The scope is broad, including conventional motorcycles, motor-scooters, mopeds, and cycles fitted with an auxiliary motor. This heading also includes self-balancing, electrically-powered personal transportation devices with two non-tandem wheels. Additionally, three-wheeled vehicles like delivery tricycles are classified here, provided they do not have the characteristics of vehicles from heading 87.03 or 87.04. Side-cars for carrying passengers or goods are also included. However, this heading excludes four-wheeled motor vehicles with a car-type steering system (heading 87.03). Trailers designed to be attached to motorcycles or cycles are also excluded and fall under heading 87.16. Motorcycles in this heading can be powered by internal combustion engines of various cylinder capacities or by electric motors."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm nhóm những xe môtô hai bánh được thiết kế chủ yếu để chở người. Ngoài các xe mô tô thông thường, Nhóm này bao gồm cả các xe tay ga, xe gắn máy có bàn đạp được trang bị cả động cơ và hệ thống bàn đạp chân và xe đạp có lắp động cơ phụ trợ. Nhóm này cũng bao gồm xe 02 bánh chạy bằng động cơ điện, được thiết kế để chở 01 người, sử dụng công nghệ cho phép người lái đứng thẳng trong khi hệ thống cảm ứng con quay hồi chuyển và vi xử lý duy trì cân bằng. Xe mô tô của nhóm này, mà được đẩy bằng một hoặc hơn các động cơ điện, được gọi là “Xe mô tô điện”. Những xe mô tô này được gắn bộ ắc quy điện cung cấp năng lượng cho các mô tô điện.",
+        "en": "This heading covers a group of two-wheeled motorised vehicles which are essentially designed for carrying persons. In addition to motorcycles of the conventional type, the heading includes motor-scooters, mopeds equipped with both a built-in engine and a pedal system, and cycles fitted with an auxiliary motor. This heading also covers two-wheeled, electrically-powered transportation devices, designed for carrying a single person, using technology that allows the rider to stand upright while a system composed of gyroscope sensors and microprocessors maintains balance. Motorcycles of this heading, which are propelled by one or more electric motors, are known as “Electric Motorcycles”. These motorcycles incorporate an electric accumulator pack supplying power to the electric motors."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Ắc quy điện của những mô tô điện loại “plug - in” này có thể được sạc bằng cách cắm chúng vào một nguồn cấp điện hoặc trạm sạc. Các xe mô tô có thể được trang bị bảo vệ người lái tránh thời tiết xấu hoặc có trang bị một thùng xe gắn bánh xe bên hông xe. Cũng xếp trong nhóm này các xe ba bánh (ví dụ xe ba bánh chở hàng) với điều kiện là chúng không mang đặc tính của xe cơ giới thuộc nhóm 87.03 hoặc nhóm 87.04. Nhóm này cũng bao gồm tất cả các loại mô tô thùng, được thiết kế để chở người hoặc hàng hoá và không thể sử dụng độc lập được. Nhóm này không bao gồm: (a) Xe môtô bốn bánh dùng để chở người, có hệ thống lái loại xe hơi (nhóm 87.03); (b) Các rơmoóc dùng để gắn vào xe mô tô hay xe đạp (nhóm 87.16).",
+        "en": "The electric accumulators of these “plug-in” type motorcycles can be recharged by plugging them into an electrical power grid outlet or charging station. Motorcycles may be equipped to protect the driver against the weather or be fitted with a side-car. Three-wheeled vehicles (e.g., the “delivery tricycle” type) are also classified here provided they do not have the characteristics of motor vehicles of heading 87.03 or heading 87.04. The heading further covers side-cars of all kinds, designed for the transport of passengers or goods, and which cannot be used independently. The heading excludes: (a) Four-wheeled motor vehicles, for the transport of persons, having a motor-car type steering system (heading 87.03); (b) Trailers designed for attachment to a cycle or motorcycle (heading 87.16)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8711.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có động cơ đốt trong kiểu piston với dung tích xi lanh không quá 50 cc.",
+        "en": "With internal combustion piston engine of a cylinder capacity not exceeding 50 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8711.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có động cơ đốt trong kiểu piston với dung tích xi lanh trên 50 cc nhưng không quá 250 cc.",
+        "en": "With internal combustion piston engine of a cylinder capacity exceeding 50 cc but not exceeding 250 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8711.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có động cơ đốt trong kiểu piston với dung tích xi lanh trên 250 cc nhưng không quá 500 cc.",
+        "en": "With internal combustion piston engine of a cylinder capacity exceeding 250 cc but not exceeding 500 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8711.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có động cơ đốt trong kiểu piston với dung tích xi lanh trên 500 cc nhưng không quá 800 cc.",
+        "en": "With internal combustion piston engine of a cylinder capacity exceeding 500 cc but not exceeding 800 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8711.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có động cơ đốt trong kiểu piston với dung tích xi lanh trên 800 cc.",
+        "en": "With internal combustion piston engine of a cylinder capacity exceeding 800 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8711.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng động cơ điện để tạo động lực",
+        "en": "With electric motor for propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8711.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác.",
+        "en": "Other"
+      }
+    }
+  ]
+}

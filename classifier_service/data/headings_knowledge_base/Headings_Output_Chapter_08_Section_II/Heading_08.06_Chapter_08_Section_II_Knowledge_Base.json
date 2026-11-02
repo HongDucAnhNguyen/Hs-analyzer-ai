@@ -1,0 +1,46 @@
+{
+  "heading_id": "08.06",
+  "heading_title": {
+    "vi": "Quả nho, tươi hoặc khô.",
+    "en": "Grapes, fresh or dried."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm nho tươi, dù dùng để ăn tráng miệng hay sản xuất rượu vang, và nho khô. Các loại nho khô chính bao gồm “currants”, “sultanas”, “Izmir”, “Thompson” (phần lớn không hạt) và các loại có hạt lớn như “Muscatel”, “Malaga”, “Denia”, “Damascus”, “Lexir” hoặc “Gordo”.",
+    "en": "This heading covers fresh grapes, whether for dessert or wine-production, and dried grapes. The principal kinds of dried grapes include “currants”, “sultanas”, “Izmir”, “Thompson” (substantially without pips) and large raisins with seeds such as “Muscatel”, “Malaga”, “Denia”, “Damascus”, “Lexir” or “Gordo”."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại nho tươi dùng để ăn tráng miệng hay để sản xuất rượu vang (kể cả loại đóng thô trong thùng tô nô), và cho dù chúng được trồng tự nhiên hay trong nhà kính. Nhóm này cũng bao gồm các loại nho khô, loại chủ yếu là “currants”, “sultanas”, “Izmir”, “Thompson” hoặc loại được gọi là nho khô “không hạt” (tất cả các loại này phần lớn là không hột) và loại nho khô lớn có hạt như “Muscatel”, “Malaga”, “Denia”, “Damascus”, “Lexir” hoặc “Gordo”.",
+        "en": "The heading covers fresh grapes whether for dessert purposes or for wine-production (including those rough-packed in barrels), and whether grown outdoors or under glass (hot-house). The heading also covers dried grapes, the principal kinds being those known as currants”, “sultanas”, “Izmir”, “Thompson” or the so-called “seedless” raisins (all of which are substantially without pips) and the large raisins with seeds, such as “Muscatel”, “Malaga”, “Denia”, “Damascus”, “Lexir” or “Gordo” raisins."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0806.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tươi",
+        "en": "Fresh"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0806.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Khô",
+        "en": "Dried"
+      }
+    }
+  ]
+}

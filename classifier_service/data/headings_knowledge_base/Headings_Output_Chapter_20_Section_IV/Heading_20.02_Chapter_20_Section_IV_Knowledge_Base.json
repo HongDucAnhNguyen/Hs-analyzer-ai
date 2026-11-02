@@ -1,0 +1,53 @@
+{
+  "heading_id": "20.02",
+  "heading_title": {
+    "vi": "Cà chua đã chế biến hoặc bảo quản bằng cách khác trừ loại bảo quản bằng giấm hoặc axit axetic.",
+    "en": "Tomatoes prepared or preserved otherwise than by vinegar or acetic acid."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm cà chua, nguyên quả hoặc dạng miếng, đã được chế biến hoặc bảo quản bằng cách khác trừ bằng giấm hoặc axit acetic. Nhóm này cũng bao gồm cà chua đồng nhất đã chế biến hoặc bảo quản (ví dụ: bột quấy cà chua, bột cà chua dạng sệt, cà chua cô đặc) và nước ép cà chua có hàm lượng chất khô từ 7% trở lên. Nhóm này không bao gồm cà chua đã chế biến hoặc bảo quản bằng giấm hoặc axit acetic (nhóm 20.01), cà chua được nêu trong Chương 7, nước xốt cà chua và ketchup (nhóm 21.03), và súp cà chua hoặc chế phẩm làm súp (nhóm 21.04).",
+    "en": "This heading covers tomatoes, whole or in pieces, prepared or preserved otherwise than by vinegar or acetic acid. It also includes homogenised prepared or preserved tomatoes (e.g., tomato purée, paste, or concentrate) and tomato juice with a dry weight content of 7% or more. The heading excludes tomatoes prepared or preserved by vinegar or acetic acid (heading 20.01), tomatoes as specified in Chapter 7, tomato ketchup and other tomato sauces (heading 21.03), and tomato soup and preparations therefor (heading 21.04)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại cà chua, nguyên quả hay dạng miếng, trừ loại cà chua đã chế biến hoặc bảo quản bằng giấm hoặc axit acetic (nhóm 20.01) và các loại cà chua đã được nêu cụ thể trong Chương 7. Cà chua được phân loại trong nhóm này được chứa trong bất cứ loại bao bì nào.",
+        "en": "This heading covers tomatoes, whether whole or in pieces, other than tomatoes prepared or preserved by vinegar or acetic acid (heading 20.01) and tomatoes presented in the states specified in Chapter 7. Tomatoes are classified in this heading irrespective of the type of container in which they are put up."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm các loại cà chua đồng nhất đã chế biến hoặc bảo quản (ví dụ: bột quấy cà chua (tomato purée), bột cà chua dạng sệt, cà chua cô đặc) và nước ép cà chua mà hàm lượng thành phần khô từ 7% trở lên. Tuy nhiên, nhóm này không bao gồm: nước xốt cà chua có tên gọi ketchup và các loại xốt cà chua khác (nhóm 21.03) và cả các loại súp cà chua và các chế phẩm làm súp cà chua (nhóm 21.04).",
+        "en": "The heading also includes homogenised prepared or preserved tomatoes (e.g., tomato purée, paste or concentrate) and tomato juice of which the dry weight content is 7 % or more. However, the heading excludes tomato ketchup and other tomato sauces (heading 21.03) and tomato soup and preparations therefor (heading 21.04)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2002.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cà chua, nguyên quả hoặc dạng miếng",
+        "en": "Tomatoes, whole or in pieces"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2002.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

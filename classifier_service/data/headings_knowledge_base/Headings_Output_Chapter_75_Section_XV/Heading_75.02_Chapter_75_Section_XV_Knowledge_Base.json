@@ -1,0 +1,46 @@
+{
+  "heading_id": "75.02",
+  "heading_title": {
+    "vi": "Niken chưa gia công",
+    "en": "Unwrought nickel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm niken chưa gia công ở các dạng ban đầu như thỏi, cục, viên, tấm, hình khối, cathod và các dạng thanh mạ điện âm cực khác. Nhóm này bao gồm anod niken chưa tinh luyện dùng để tinh luyện bằng điện phân và cathod (kể cả đã đẽo gọt hoặc cắt) thu được từ kết tủa điện phân. Cần phân biệt các sản phẩm này với anod mạ điện của nhóm 75.08. Nhóm này không bao gồm bột và vảy niken (nhóm 75.04).",
+    "en": "This heading covers unwrought nickel in primary forms such as ingots, pigs, pellets, flats, cubes, cathodes and other electrodeposited shapes. It includes unrefined nickel anodes for refining by electrolysis and cathodes (including those merely trimmed or cut) obtained by electrolytic deposition. These products are to be distinguished from the electroplating anodes of heading 75.08. This heading excludes nickel powders and flakes (heading 75.04)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Niken chưa gia công thường ở dạng thỏi, dạng cục, viên, tấm, hình khối, vành, viên gạch, hạt, cathod hoặc dạng thanh mạ điện âm cực khác. Những dạng ban đầu này thường được sử dụng như phụ gia trong sản xuất thép hợp kim và hợp kim không chứa sắt và trong sản xuất một số hoá chất. Một số dạng được sử dụng làm giỏ titan trong mạ Niken hoặc để sản xuất bột niken.\nNiken chưa được tinh luyện thường được đúc thành anod để sau đó tinh luyện bằng điện phân. Anod của nhóm này thường ở dạng tấm phiến đúc với hai quai nhằm treo chúng vào trong bể tinh chế điện phân. Không được nhầm lẫn với anod mạ Niken được nêu trong chú giải nhóm 75.08.\nCác cathod dạng tấm thu được bởi kết tủa điện phân trên tấm ban đầu của niken tinh luyện có hai móc niken được bắt chặt để treo chúng vào bể điện phân tinh luyện. Khi Lớp lắng đọng niken tinh chế được hình thành, các “tấm ban đầu” trở thành một khối đồng nhất và không thể tách rời của cathod.\nNhững cathod đã được đẽo gọt một cách đơn giản hoặc được cắt thành dải hoặc các miếng hình chữ nhật nhỏ vẫn được xếp ở nhóm này mà không kể đến kích thước của chúng hay mục đích sử dụng của chúng. Chúng có thể phân biệt với anod điện phân của nhóm 75.08 bởi chúng không có móc nhúng hoặc đã gia công (ví dụ: đục lỗ, tạo ren) để làm móc treo.\nNhóm này cũng không bao gồm bột và vảy niken (nhóm 75.04).",
+        "en": "Unwrought nickel is usually in the form of ingots, pigs, pellets, flats, cubes, rondelles, briquettes, shots, cathodes or other electrodeposited shapes. These primary forms are mainly used as an additive in the manufacture of alloy steels and non-ferrous alloys and in the production of certain chemicals. Some of the forms are used in titanium baskets for nickel plating, or for the production of nickel powder.\nUnrefined nickel is normally cast into anodes for refining by electrolysis. The anodes of this heading are usually in the form of slabs cast with two lugs for suspending them in the electrolytic refining tank. They should not be confused with anodes for electroplating described in the Explanatory Note to heading 75.08.\nCathodes are plates obtained by electrolytic deposition onto “starting sheets” of refined nickel to which two nickel loops have been attached for suspending them in the electrolytic refining tank. As the deposit of refined nickel builds up, the “starting sheets” become an integral and inseparable part of the cathodes.\nCathodes which have been merely trimmed or cut into strips or small rectangular pieces remain classified in the heading irrespective of their size or the purpose for which they may be used. They can be distinguished from electroplating anodes of heading 75.08 by the fact that they are not fitted with suspension hooks or prepared (e.g., by piercing or tapping) for hooks.\nThis heading also excludes nickel powders and flakes (heading 75.04)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7502.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Niken, không hợp kim",
+        "en": "Nickel, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7502.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Hợp kim niken",
+        "en": "Nickel alloys"
+      }
+    }
+  ]
+}

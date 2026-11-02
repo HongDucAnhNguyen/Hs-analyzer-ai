@@ -1,0 +1,101 @@
+{
+  "heading_id": "61.10",
+  "heading_title": {
+    "vi": "Áo bó, áo chui đầu, áo cardigan, gi-lê và các mặt hàng tương tự, dệt kim hoặc móc.",
+    "en": "Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm dệt kim hoặc móc, không phân biệt dùng cho nam hay nữ, được thiết kế để che phần trên của cơ thể, ví dụ như áo bó, áo chui đầu, áo cardigan, áo gi-lê và các loại tương tự. Các sản phẩm có gắn các bộ phận bảo vệ như miếng lót khuỷu tay dùng cho thể thao (ví dụ áo thủ môn) vẫn thuộc nhóm này.\nNhóm này cũng bao gồm áo gi-lê trừ khi chúng là một bộ phận của bộ com-lê thuộc nhóm 61.03 hoặc 61.04.\nNhóm này loại trừ các loại áo gi-lê có lót đệm để bảo vệ chống lại thời tiết, thuộc các nhóm 61.01 hoặc 61.02.",
+    "en": "This heading covers a category of knitted or crocheted articles, for male or female wear, designed to cover the upper parts of the body, such as jerseys, pullovers, cardigans, waistcoats and similar articles. Articles with protective components like elbow pads for sports (e.g., goalkeeper jerseys) remain in this heading.\nIt also covers tailored waistcoats except when they are a component of a suit of heading 61.03 or 61.04.\nThis heading excludes padded waistcoats for protection against the weather, of heading 61.01 or 61.02."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm loại sản phẩm dệt kim hoặc móc, không phân biệt là của nam hay của nữ, được thiết kế để che phần trên của cơ thể (áo bó, áo chui đầu, áo (cardigan), áo gi-lê và các loại áo tương tự). Các sản phẩm có gắn các bộ phận bảo vệ như là miếng lót khuỷu tay được khâu ở trên các ống tay áo và được sử dụng cho một số hoạt động thể thao (ví dụ: áo bó của thủ môn bóng đá) vẫn được phân loại ở nhóm này.\nNhóm này cũng bao gồm các loại áo gi-lê trừ khi chúng đi kèm bộ và là một trong các bộ phận của bộ com-lê của nam giới hoặc của trẻ em trai hoặc của phụ nữ hoặc của trẻ em gái thuộc các nhóm 61.03 hoặc 61.04, tùy từng trường hợp.\nNhóm này cũng loại trừ các loại áo gi-lê có lót đệm thường được mặc bên ngoài tất cả các loại quần áo khác để bảo vệ chống lại thời tiết, thuộc các nhóm 61.01 hoặc 61.02.",
+        "en": "This heading covers a category of knitted or crocheted articles, without distinction between male or female wear, designed to cover the upper parts of the body (jerseys, pullovers, cardigans, waistcoats and similar articles). Articles incorporating incidentally protective components such as elbow pads sewn on sleeves and used for certain sports (e.g., soccer goalkeeper jerseys) remain classified in this heading.\nIt also covers tailored waistcoats except when these are presented with and constitute one of the components of a man’s or boy’s or woman’s or girl’s suit of heading 61.03 or 61.04, as the case may be.\nThe heading also excludes padded waistcoats generally worn over all other clothing for protection against the weather, of heading 61.01 or 61.02."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 6110.12\nNhững quy định của Chú giải phân nhóm 5102.11 được áp dụng, tương tự nhưng phải có sự sửa đổi sao cho phù hợp, đối với các sản phẩm của phân nhóm này.",
+        "en": "Subheading Explanatory Note.\nSubheading 6110.12\nThe provisions of the Explanatory Note to subheading 5102.11 apply, mutatis mutandis, to the products of this subheading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ lông cừu hoặc lông động vật loại mịn:",
+        "en": "- Of wool or fine animal hair:"
+      },
+      "subheading_id": "6110.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ lông cừu",
+        "en": "- - Of wool"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ lông cừu hoặc lông động vật loại mịn:",
+        "en": "- Of wool or fine animal hair:"
+      },
+      "subheading_id": "6110.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Của dê Ca-sơ-mia (len casơmia)",
+        "en": "- - Of Kashmir (cashmere) goats"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ lông cừu hoặc lông động vật loại mịn:",
+        "en": "- Of wool or fine animal hair:"
+      },
+      "subheading_id": "6110.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6110.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ bông",
+        "en": "- Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6110.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ sợi nhân tạo",
+        "en": "- Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6110.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ các vật liệu dệt khác",
+        "en": "- Of other textile materials"
+      }
+    }
+  ]
+}

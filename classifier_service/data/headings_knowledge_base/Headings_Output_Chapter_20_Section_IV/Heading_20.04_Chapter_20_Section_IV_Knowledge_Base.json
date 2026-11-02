@@ -1,0 +1,53 @@
+{
+  "heading_id": "20.04",
+  "heading_title": {
+    "vi": "Rau khác, đã chế biến hoặc bảo quản bằng cách khác trừ bảo quản bằng giấm hoặc axit axetic, đã đông lạnh, trừ các sản phẩm thuộc nhóm 20.06.",
+    "en": "Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 20.06."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại rau đã chế biến hoặc bảo quản ở dạng đông lạnh. Nếu không đông lạnh, các sản phẩm này sẽ được phân loại vào nhóm 20.05. Thuật ngữ \"đông lạnh\" được định nghĩa trong Chú giải Tổng quát của Chương 7. Ví dụ cụ thể bao gồm khoai tây rán đông lạnh, ngô ngọt, cà rốt, đậu Hà Lan đông lạnh. Nhóm này không bao gồm các sản phẩm thuộc nhóm 20.06.",
+    "en": "This heading covers other vegetables that have been prepared or preserved and are frozen. If not frozen, these products would be classified in heading 20.05. The term “frozen” is defined in the General Explanatory Note to Chapter 7. Specific examples include frozen French fries, frozen sweet corn, carrots, and peas. This heading excludes products of heading 20.06."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại rau đông lạnh thuộc nhóm này sẽ được phân loại trong nhóm 20.05 khi không được làm đông lạnh (xem Chú giải nhóm 20.05). Thuật ngữ \"đông lạnh\" đã được giải thích trong Chú giải Tổng quát Chương 7.",
+        "en": "The frozen vegetables of this heading are those which fall in heading 20.05 when not frozen (see the Explanatory Note to that heading). The term “frozen” is defined in the General Explanatory Note to Chapter 7."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Ví dụ các sản phẩm thường thấy trên thị trường thuộc Chương này là:\n(1) Khoai tây (khoai tây rán hoặc khoai tây rán kiểu pháp), rán chín hoàn toàn hoặc một phần bằng dầu ăn rồi được làm đông lạnh.\n(2) Ngô ngọt còn nguyên bắp hoặc dạng hạt, cà rốt, đậu hà lan,... đông lạnh, đã hoặc chưa nấu chín sơ, đóng trong bao bì kín khí với bơ hoặc nước xốt khác (ví dụ, trong túi plastic).\n(3) Các sản phẩm “Knödel”, “Klösse”, “Nockerln”, được chế biến từ bột khoai tây, đông lạnh.",
+        "en": "Examples of commonly traded products which fall in the heading are:\n(1) Potatoes (chips or French fries), cooked or partly cooked in oil and then frozen.\n(2) Frozen sweet corn, on the cob or in grains, carrots, peas, etc., whether or not pre-cooked, put up with butter or other sauce in an airtight container (e.g., in a plastic bag).\n(3) “Knödel”, “Klösse”, “Nockerln”, based on potato flour, frozen."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2004.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Khoai tây",
+        "en": "Potatoes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2004.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Rau khác và hỗn hợp các loại rau",
+        "en": "Other vegetables and mixtures of vegetables"
+      }
+    }
+  ]
+}

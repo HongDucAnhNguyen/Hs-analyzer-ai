@@ -1,0 +1,46 @@
+{
+  "heading_id": "26.17",
+  "heading_title": {
+    "vi": "Các quặng khác và tinh quặng của các quặng đó.",
+    "en": "Other ores and concentrates."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại quặng và tinh quặng khác chưa được chi tiết ở nơi khác. Các loại quặng chính gồm: quặng antimony (cervantite, kermesite, v.v.), quặng Beryllium (beryl, bertrandite), quặng bismuth (bismuthinite, bismutite, v.v.), quặng Germanium (germanite) và quặng thủy ngân (cinnabar). Nhóm này loại trừ beryl ở dạng đá quý (nhóm 71.03) và 'tinh quặng' germanium thu được từ các quá trình không thông thường trong công nghiệp luyện kim (thường thuộc nhóm 28.25). Lưu ý rằng Indium, gallium, rhenium, hafnium, thallium và cadmium thu được dưới dạng sản phẩm phụ khi luyện các kim loại khác.",
+    "en": "This heading covers other ores and concentrates not specified elsewhere. The principal ores are: Antimony ores (cervantite, kermesite, etc.), Beryllium ores (beryl, bertrandite), Bismuth ores (bismuthinite, bismutite, etc.), Germanium ores (germanite), and Mercury ores (cinnabar). This heading excludes beryl in the form of a precious stone (heading 71.03) and germanium 'concentrates' obtained by processes not normal to the metallurgical industry (generally heading 28.25). It is noted that Indium, gallium, rhenium, hafnium, thallium and cadmium are obtained as by-products of the metallurgy of other metals."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các quặng chính thường được phân loại trong nhóm này là:\n(1) Quặng antimony: (a) Cervantite; (b) Kermesite; (c) Senarmontite; (d) Stibnite (hoặc antimonite); (e) Valentinite hoặc antimon trắng.\n(2) Quặng Beryllium: (a) Beryl (nếu ở dạng đá quý thì beryl hoặc emerald thường được xếp trong nhóm 71.03); (b) Bertrandite.\n(3) Quặng bismuth: (a) Bismuthinite (hoặc quặng bóng); (b) Bismutite; (c) Ochre bismuth (hoặc bismite).\n(4) Quặng Germanium: Germanite. Nhóm này loại trừ các sản phẩm được biết trong thương mại như là 'những tinh quặng' của germanium mà chúng thu được từ quá trình không thông thường trong công nghiệp luyện kim (thường thuộc nhóm 28.25).\n(5) Quặng thuỷ ngân: Cinnabar.\nIndium, gallium, rhenium, hafnium, thallium và cadmium không được tách trực tiếp từ một quặng đặc biệt, nhưng thu được dưới dạng sản phẩm phụ khi luyện các kim loại khác (ví dụ: kẽm, chì, đồng, nhôm, zircon, molipden).",
+        "en": "The principal ores generally classified in this heading are:\n(1) Antimony ores: (a) Cervantite; (b) Kermesite; (c) Senarmontite; (d) Stibnite (or antimonite); (e) Valentinite or white antimony.\n(2) Beryllium ores: (a) Beryl (When in the form of a precious stone, beryl or common emerald falls within heading 71.03.); (b) Bertrandite.\n(3) Bismuth ores: (a) Bismuthinite (or bismuth glance); (b) Bismutile; (c) Bismuth ochre (or bismite).\n(4) Germanium ores: Germanite. The heading excludes those products known in trade as “concentrates” of germanium, which are obtained by processes not normal to the metallurgical industry (generally heading 28.25).\n(5) Mercury ores: Cinnabar.\nIndium, gallium, rhenium, hafnium, thallium and cadmium are not extracted directly from one particular ore, but are obtained as by-products of the metallurgy of other metals (e.g., zinc, lead, copper, aluminium, zirconium, molybdenum)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2617.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Quặng antimon và tinh quặng antimon",
+        "en": "Antimony ores and concentrates"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2617.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "heading_id": "72.20",
+  "heading_title": {
+    "vi": "Các sản phẩm thép không gỉ được cán phẳng, có chiều rộng dưới 600 mm (+)",
+    "en": "Flat-rolled products of stainless steel, of a width of less than 600 mm (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 72.20 bao gồm các sản phẩm thép không gỉ được cán phẳng có chiều rộng dưới 600 mm. Việc phân loại hàng hóa trong nhóm này tuân theo các quy định và điều khoản tương tự như đã nêu trong Chú giải của nhóm 72.11 và nhóm 72.12. Điều này có nghĩa là các tiêu chí về gia công, hoàn thiện bề mặt, và các đặc tính khác được áp dụng một cách tương ứng. Các phân nhóm cụ thể trong nhóm này được phân chia dựa trên quy trình gia công (cán nóng hay cán nguội) và chiều dày của sản phẩm. Ví dụ, phân nhóm 7220.11 và 7220.12 áp dụng cho sản phẩm cán nóng với các mức chiều dày khác nhau, trong khi phân nhóm 7220.20 dành cho sản phẩm cán nguội. Chú giải phân nhóm cũng tham chiếu đến các chú giải của các phân nhóm thuộc nhóm 72.08 và 72.09 để làm rõ hơn về tiêu chí phân loại.",
+    "en": "Heading 72.20 covers flat-rolled products of stainless steel with a width of less than 600 mm. The classification of goods under this heading follows the provisions and terms similar to those outlined in the Explanatory Notes to headings 72.11 and 72.12. This implies that criteria regarding processing, surface finishing, and other characteristics are applied mutatis mutandis. The specific subheadings within this heading are differentiated based on the processing method (hot-rolled or cold-rolled) and the thickness of the product. For instance, subheadings 7220.11 and 7220.12 apply to hot-rolled products of different thicknesses, while subheading 7220.20 is for cold-rolled products. The Subheading Explanatory Notes also reference the notes for subheadings under headings 72.08 and 72.09 for further classification clarity."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho nhóm 72.11 hoặc 72.12, với những sửa đổi thích hợp, áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to heading 72.11 or 72.12 apply, mutatis mutandis, to the products of this heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm. Các phân nhóm 7220.11 và 7220.12: Xem Chú giải cho các phân nhóm 7208.10, 7208.25, 7208.26, 7208.27, 7208.36, 7208.37, 7208.38, 7208.39, 7208.40, 7208.51, 7208.52, 7208.53, 7208.54.",
+        "en": "Subheading Explanatory Notes. Subheadings 7220.11 and 7220.12: See the Explanatory Note to subheadings 7208.10, 7208.25, 7208.26, 7208.27, 7208.36, 7208.37, 7208.38, 7208.39, 7208.40, 7208.51, 7208.52, 7208.53 and 7208.54."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Phân nhóm 7220.20: Xem Chú giải cho các phân nhóm 7209.15, 7209.16, 7209.17, 7209.18, 7209.25, 7209.26, 7209.27 và 7209.28.",
+        "en": "Subheading 7220.20: See the Explanatory Note to subheadings 7209.15, 7209.16, 7209.17, 7209.18, 7209.25, 7209.26, 7209.27 and 7209.28."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa được gia công quá mức cán nộng:",
+        "en": "Not further worked than hot-rolled:"
+      },
+      "subheading_id": "7220.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chiều dày từ 4,75 mm trở lên",
+        "en": "Of a thickness of 4.75 mm or more"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa được gia công quá mức cán nộng:",
+        "en": "Not further worked than hot-rolled:"
+      },
+      "subheading_id": "7220.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chiều dày dưới 4,75 mm",
+        "en": "Of a thickness of less than 4.75 mm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7220.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa được gia công quá mức cán nguội (ép nguội)",
+        "en": "Not further worked than cold-rolled (cold-reduced)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7220.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

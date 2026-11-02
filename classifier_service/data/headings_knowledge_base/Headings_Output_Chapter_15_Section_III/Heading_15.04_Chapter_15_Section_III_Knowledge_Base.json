@@ -1,0 +1,79 @@
+{
+  "heading_id": "15.04",
+  "heading_title": {
+    "vi": "Mỡ và dầu và các phần phân đoạn của chúng, từ cá hoặc các loài động vật có vú sống ở biển, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học.",
+    "en": "Fats and oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm mỡ và dầu và các phần phân đoạn của chúng có nguồn gốc từ cá (ví dụ: cá tuyết, cá bơn, cá trích) hoặc động vật có vú ở biển (ví dụ: cá voi, hải cẩu), được chiết xuất từ thân, gan hoặc phế liệu. Chúng bao gồm cả dầu gan cá có hàm lượng vitamin cao và stearin của cá. Các sản phẩm này vẫn thuộc nhóm này khi đã được tinh chế hoặc tăng hàm lượng vitamin. Tuy nhiên, nhóm này không bao gồm các sản phẩm được hydro hoá, este hoá liên hợp, tái este hóa hoặc elaidin hoá (nhóm 15.16), hoặc các sản phẩm được đóng gói như thuốc hoặc được chế biến cho mục đích điều trị (Chương 30).",
+    "en": "This heading covers fats, oils, and their fractions derived from fish (e.g., cod, halibut, herring) or marine mammals (e.g., whales, seals), extracted from the body, liver, or waste. They include vitamin-rich fish-liver oils and fish stearin. These products remain in the heading when refined or when their vitamin content is increased. However, the heading excludes products that have been hydrogenated, inter-esterified, re-esterified, or elaidinised (heading 15.16), or those put up as medicaments or prepared for therapeutic purposes (Chapter 30)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm mỡ và dầu và các phần phân đoạn của chúng, có nguồn gốc từ các loại cá (cá tuyết, cá bơn lưỡi ngựa (halibut), cá trích nước lạnh, cá trích dầu, cá cơm (cá trỏng), cá sac-đin biển Măng sơ (pilchard) v.v.) hoặc động vật có vú ở biển (cá voi, cá heo, hải cẩu v.v.). Chúng được chiết xuất từ thân động vật hoặc từ gan của cá hoặc động vật có vú ở biển hoặc từ phế liệu của chúng. Chúng thường có mùi tanh đặc trưng của cá, có vị khó chịu, và có màu thay đổi từ vàng đến nâu đỏ.",
+        "en": "This heading covers fats and oils and their fractions, derived from several varieties of fish (cod, halibut, menhaden, herring, sardines, anchovy, pilchard, etc.) or marine mammals (whales, dolphins, seals, etc.). They are extracted from the body or liver of the fish or marine mammal or from waste thereof. They usually have a characteristic fishy smell and a disagreeable taste, and vary in colour from yellow to reddish-brown."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Gan cá tuyết và gan cá bơn lưỡi ngựa và gan các loại cá khác cung cấp dầu với hàm lượng vitamin cao và các chất hữu cơ khác. Do đó, chúng chủ yếu được dùng trong sản xuất thuốc. Các loại dầu này vẫn thuộc nhóm này dù có hay không được tăng hàm lượng vitamin bằng chiếu xạ hoặc cách khác, nhưng chúng thuộc Chương 30 khi được đóng gói như thuốc, hoặc được nhũ hoá hoặc thêm chất khác vì mục đích điều trị.",
+        "en": "Cod liver and halibut liver and other fish liver yield oils with a high content of vitamins and other organic substances. They are, therefore, chiefly used in medicine. These oils remain in this heading whether or not their vitamin content has been increased by irradiation or otherwise, but they fall in Chapter 30 when put up as medicaments, or emulsified or containing other substances added with a view to therapeutic use."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm stearin của cá, sản phẩm rắn thu được bằng cách ép hoặc gạn dầu cá ướp lạnh. Sản phẩm này là một chất có mầu hơi vàng hoặc nâu có mùi tanh của cá và được dùng để chế biến chất nhờn (degras), chất bôi trơn hoặc xà phòng loại thấp cấp.",
+        "en": "This heading also includes “fish stearin”, a solid product obtained by pressing and decanting chilled fish oil. It is a yellowish or brown substance smelling of fish, and is used for the preparation of degras, lubricants and low-grade soap."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Mỡ và dầu có nguồn gốc từ cá hoặc động vật có vú ở biển vẫn thuộc nhóm này khi được tinh chế, nhưng bị loại trừ nếu được hydro hoá, este hoá liên hợp, tái este hóa hoặc eledin hoá một phần hoặc toàn bộ (nhóm 15.16).",
+        "en": "The fats and oils derived from fish or marine mammals remain in this heading when refined, but are excluded if partly or wholly hydrogenated, inter-esterified, re-esterified or elaidinised (heading 15.16)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1504.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dầu gan cá và các phần phân đoạn của chúng",
+        "en": "Fish-liver oils and their fractions"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1504.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Mỡ và dầu và các phần phân đoạn của chúng, từ cá, trừ dầu gan cá",
+        "en": "Fats and oils and their fractions, of fish, other than liver oils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1504.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Mỡ và dầu và các phần phân đoạn của chúng, từ động vật có vú ở biển",
+        "en": "Fats and oils and their fractions, of marine mammals"
+      }
+    }
+  ]
+}

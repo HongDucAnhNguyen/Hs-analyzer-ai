@@ -1,0 +1,28 @@
+{
+  "heading_id": "88.01",
+  "heading_title": {
+    "vi": "Khí cầu và khinh khí cầu điều khiển được; tàu lượn, tàu lượn treo và các phương tiện bay khác không dùng động cơ.",
+    "en": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft."
+  },
+  "summary": {
+    "vi": "Nhóm 88.01 bao gồm các phương tiện bay không dùng động cơ, được chia thành ba loại chính. Thứ nhất là khí cầu và khinh khí cầu, là các phương tiện bay nhẹ hơn không khí dùng cho nhiều mục đích khác nhau, bao gồm cả các loại khí cầu khí tượng chuyên dụng như khí cầu thăm dò, hoa tiêu và đo độ cao mây. Loại trừ khí cầu đồ chơi thuộc nhóm 95.03. Thứ hai là tàu lượn và tàu lượn treo, là các phương tiện bay nặng hơn không khí hoạt động nhờ dòng khí quyển. Loại trừ các tàu lượn được thiết kế để lắp động cơ, chúng thuộc nhóm 88.02. Thứ ba là các phương tiện bay khác không dùng động cơ như diều, không bao gồm diều đồ chơi. Nhóm này cũng loại trừ các mô hình dùng để trang trí (nhóm 44.20, 83.06), trưng bày (nhóm 90.23) hoặc giải trí (nhóm 95.03).",
+    "en": "Heading 88.01 covers non-powered aircraft, divided into three main categories. The first is balloons and dirigibles, which are lighter-than-air aircraft for various purposes, including specialized meteorological balloons like sounding, pilot, and ceiling balloons; it excludes toy balloons of heading 95.03. The second is gliders and hang gliders, which are heavier-than-air aircraft using atmospheric currents; it excludes gliders designed for engines, which fall under heading 88.02. The third category includes other non-powered aircraft such as kites, excluding toy kites. This heading also excludes models for decoration (headings 44.20, 83.06), demonstration (heading 90.23), or recreational purposes (heading 95.03)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm ba phân loại chính. (I) Khí cầu và khinh khí cầu điều khiển được: Bao gồm các phương tiện bay nhẹ hơn không khí cho mọi mục đích (quân sự, thể thao, khoa học, quảng cáo), kể cả khí cầu tự do, khí cầu có dây giữ và khinh khí cầu điều khiển cơ khí. Nhóm này cũng bao gồm các loại khí cầu khí tượng: (1) Khí cầu thăm dò (350g đến 1.500g) để mang máy thăm dò vô tuyến; (2) Khí cầu hoa tiêu (50g đến 100g) để xác định tốc độ và hướng gió; (3) Khí cầu đo độ cao mây (4g đến 30g). Loại trừ khí cầu đồ chơi trẻ em thuộc nhóm 95.03. (II) Tàu lượn và tàu lượn treo: Bao gồm các phương tiện bay nặng hơn không khí, hoạt động dựa vào các dòng khí quyển.",
+        "en": "This heading covers three main classifications. (I) Balloons and Dirigibles: Includes lighter-than-air aircraft for any purpose (military, sporting, scientific, publicity), including free balloons, captive balloons, and mechanically driven dirigibles. It also includes meteorological balloons: (1) Sounding balloons (350g to 1,500g) for carrying radio-sounding instruments; (2) Pilot balloons (50g to 100g) for indicating wind speed and direction; (3) Ceiling balloons (4g to 30g) for determining cloud height. Children's toy balloons of heading 95.03 are excluded. (II) Gliders and Hang Gliders: Includes heavier-than-air aircraft which stay airborne using atmospheric currents."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(II) Tàu lượn và tàu lượn treo (tiếp): Các tàu lượn được trang bị hoặc được thiết kế để gắn động cơ bị loại trừ và được phân loại vào nhóm 88.02. Mô tả chi tiết tàu lượn treo gồm cánh delta, bộ dây treo và khung cứng có thanh lái. (III) Các phương tiện bay khác không dùng động cơ: Bao gồm diều, là phương tiện bay nặng hơn không khí không có máy đẩy, được giữ bằng dây và dùng để mang dụng cụ khí tượng. Loại trừ diều được thiết kế làm đồ chơi (nhóm 95.03). Ghi chú loại trừ chung của nhóm: không bao gồm các mô hình dùng để trang trí (ví dụ, nhóm 44.20 hoặc 83.06), để trưng bày (nhóm 90.23), hoặc làm đồ chơi hay cho mục đích giải trí (nhóm 95.03).",
+        "en": "(II) Gliders and Hang Gliders (continued): Gliders fitted with or designed to be fitted with an engine are excluded and classified in heading 88.02. A detailed description of hang gliders is provided, including delta wings, a harness, and a rigid structure with a steering bar. (III) Other non-powered aircraft: Includes kites, which are heavier-than-air aircraft without mechanical propulsion, moored to the ground by a line, and used to carry meteorological instruments. Kites designed as toys are excluded (heading 95.03). General exclusion note for the heading: excludes models used for decoration (e.g., heading 44.20 or 83.06), for demonstrational purposes (heading 90.23), or as toys or models for recreational purposes (heading 95.03)."
+      }
+    }
+  ],
+  "subheadings": []
+}

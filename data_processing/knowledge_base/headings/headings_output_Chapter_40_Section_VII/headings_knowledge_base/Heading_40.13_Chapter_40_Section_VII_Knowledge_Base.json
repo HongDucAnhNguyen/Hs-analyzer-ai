@@ -1,0 +1,58 @@
+{
+  "heading_id": "40.13",
+  "heading_title": {
+    "vi": "Săm các loại, bằng cao su.",
+    "en": "Inner tubes, of rubber."
+  },
+  "summary": {
+    "vi": "Nhóm 40.13 bao gồm các loại săm (ruột xe) làm bằng cao su, được thiết kế để lắp vào bên trong lốp xe. Các sản phẩm này được sử dụng cho nhiều loại phương tiện khác nhau. Nhóm này được phân chia chi tiết dựa trên loại xe sử dụng, cụ thể là loại dùng cho ô tô con, ô tô khách hoặc ô tô chở hàng (phân nhóm 4013.10), loại dùng cho xe đạp (phân nhóm 4013.20), và các loại khác không được quy định cụ thể (phân nhóm 4013.90). Các phương tiện điển hình sử dụng săm thuộc nhóm này bao gồm ô tô con, xe rơ-moóc và xe đạp.",
+    "en": "Heading 40.13 covers inner tubes made of rubber, designed to be fitted inside tyres. These products are used for various types of vehicles. This heading is further detailed based on the type of vehicle, specifically those used on motor cars, buses, or lorries (subheading 4013.10), those used on bicycles (subheading 4013.20), and other types not specifically defined (subheading 4013.90). Typical vehicles using inner tubes of this heading include motor cars, trailers, and bicycles."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Săm được lắp vào lốp của, ví dụ, ô tô con, xe rơ-moóc hoặc xe đạp.",
+        "en": "Inner tubes are fitted to the tyres of, for example, motor cars, trailers or bicycles."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4013.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho ô tô con (motor car) (kể cả ô tô chở người có khoang chở hành lý chung (station wagons) và ô tô đua), ô tô khách hoặc ô tô chở hàng",
+        "en": "Of a kind used on motor cars (including station wagons and racing cars), buses or lorries"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4013.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho xe đạp",
+        "en": "Of a kind used on bicycles"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4013.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

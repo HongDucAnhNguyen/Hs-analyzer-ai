@@ -1,0 +1,58 @@
+{
+  "heading_id": "81.10",
+  "heading_title": {
+    "vi": "Antimon và các sản phẩm làm từ antimon, kể cả phế liệu và mảnh vụn.",
+    "en": "Antimony and articles thereof, including waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm antimon và các sản phẩm làm từ nó. Antimon là một kim loại trắng bóng, giòn, dễ nghiền thành bột, chủ yếu thu được từ quặng sunphua stibnite. Nó ít khi được sử dụng ở dạng không hợp kim mà chủ yếu được dùng để hợp kim với chì và thiếc để làm tăng độ cứng, tạo ra các hợp kim làm ổ trục, các loại máy in và các hợp kim đúc khác. Nhóm này không bao gồm \"antimon thô\" là sunphua thô thuộc nhóm 26.17. Các hợp kim của antimon với chì hoặc thiếc, trong đó chì hoặc thiếc chiếm hàm lượng trội hơn, được phân loại tương ứng tại Chương 78 hoặc Chương 80.",
+    "en": "This heading covers antimony and articles thereof. Antimony is a lustrous white, brittle metal that is easily powdered, mainly obtained from the sulphide ore stibnite. It has few uses in its unalloyed form and is primarily used alloyed with lead and tin to harden them, producing bearing alloys, printers' type, and other casting alloys. The heading excludes \"crude antimony,\" which is crude sulphide of heading 26.17. Alloys of antimony with lead or tin, where lead or tin predominates, are classified in Chapter 78 or Chapter 80, respectively."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Antimon chủ yếu thu được từ quặng Sulphat Stibnite bằng cách: (1) Cô đặc và nấu chảy tinh chế kim loại để tạo ra \"Antimon thô\", thực chất là sunphua thô thuộc nhóm 26.17. (2) Nấu chảy để tạo ra Antimon không tinh khiết (regulus). (3) Nấu chảy kỹ hơn và tinh chế để tạo ra các dạng tinh khiết nhất, \"Antimon sao\" hoặc \"Kim loại của Pháp\". Antimon là một kim loại màu trắng bóng có ánh xanh, giòn và dễ nghiền thành bột. Nó ít được sử dụng ở dạng không hợp kim. Tuy nhiên, nó được dùng để hợp kim, đặc biệt với chì và thiếc để làm cứng chúng, tạo ra các hợp kim làm ổ trục, các loại máy in và các hợp kim đúc khác, hợp kim gốc thiếc, kim loại Britannia,... (xem Chương 78 và 80 nơi mà các hợp kim đó được xếp vào bởi vì hàm lượng trội hơn của chì hoặc thiếc).",
+        "en": "Antimony is mainly obtained from the sulphide ore stibnite by: (1) Concentration and liquation to produce so-called “crude antimony” which is, in fact, crude sulphide proper to heading 26.17. (2) Smelting to produce impure antimony known as “singles” (regulus). (3) Further smelting and refining to give the purest forms, “star antimony” or “French metal”. Antimony is a lustrous white metal with a bluish tinge, brittle and easily powdered. It has very few uses in the unalloyed form. It is however alloyed, especially with lead and tin, to harden them, to produce bearing alloys, printers’ type and other casting alloys, pewter, Britannia metal, etc. (see Chapters 78 and 80, where these alloys normally fall because of the predominance of lead or tin)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8110.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Antimoan chưa gia công; bột",
+        "en": "Unwrought antimony; powders"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8110.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Phế liệu và mảnh vụn",
+        "en": "Waste and scrap"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8110.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

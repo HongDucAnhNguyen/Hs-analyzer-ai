@@ -1,0 +1,46 @@
+{
+  "heading_id": "76.01",
+  "heading_title": {
+    "vi": "Nhôm chưa gia công",
+    "en": "Unwrought aluminium"
+  },
+  "summary": {
+    "vi": "Nhóm 76.01 bao gồm nhôm chưa gia công ở nhiều dạng thô khác nhau, bao gồm trạng thái lỏng, khối, thỏi, phiến, tấm dày, và thanh phôi kéo dây. Các sản phẩm này được sản xuất thông qua quá trình đúc nhôm điện phân hoặc nấu chảy lại từ phế liệu kim loại. Mục đích sử dụng chính của chúng là làm nguyên liệu cho các quá trình gia công tiếp theo như cán, rèn, kéo, ép, hoặc để nấu chảy và đúc thành các sản phẩm có hình dạng cụ thể. Nhóm này cũng bao gồm các sản phẩm đặc thù như viên nhôm, được sử dụng như chất khử ôxy hóa trong ngành luyện kim sắt thép. Các thanh đúc hoặc thiêu kết cũng thuộc nhóm này, với việc áp dụng tương tự chú giải của nhóm 74.03. Cần lưu ý rằng nhóm này loại trừ các sản phẩm bột và vảy nhôm, vốn được phân loại vào nhóm 76.03.",
+    "en": "Heading 76.01 covers unwrought aluminium in various primary forms, including in a liquid state, as well as blocks, ingots, billets, slabs, and wire bars. These products are produced either by casting electrolytic aluminium or by remelting metal waste and scrap. Their primary purpose is to serve as raw material for subsequent processing such as rolling, forging, drawing, extruding, or for remelting and casting into shaped articles. The heading also includes specific products like aluminium pellets, used as de-oxidising agents in the iron and steel metallurgy industry. Cast or sintered bars are also covered, with the Explanatory Note to heading 74.03 applying mutatis mutandis. It is important to note that this heading explicitly excludes aluminium powders and flakes, which are classified under heading 76.03."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm nhôm chưa gia công ở các dạng: lỏng, khối, thỏi, phiến, tấm dày, thanh phôi kéo dây và các dạng tương tự thu được bằng đúc nhôm điện phân hoặc nấu chảy phế liệu kim loại. Các sản phẩm này dùng để cán mỏng, rèn, kéo, ép, dập, hoặc nấu chảy và đúc. Nhóm này cũng bao gồm viên nhôm dùng trong luyện kim (sản xuất sắt hoặc thép) và các thanh đúc hoặc thiêu kết (áp dụng chú giải nhóm 74.03). Nhóm này không bao gồm bột và vảy nhôm (nhóm 76.03).",
+        "en": "This heading covers unwrought aluminium in the liquid state, in blocks, ingots, billets, slabs, notched bars, wire bars, or similar forms obtained by casting electrolytic aluminium or by remelting metal waste or scrap. These goods are generally intended for rolling, forging, drawing, extruding, hammering or for remelting and for casting into shaped articles. The heading includes aluminium pellets, mainly used in metallurgy (as de-oxidising agents, especially in the manufacture of iron or steel). The heading also covers certain cast or sintered bars (the Explanatory Note to heading 74.03 applies, mutatis mutandis, to this heading). The heading excludes aluminium powders and flakes (heading 76.03)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7601.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Nhôm, không hợp kim",
+        "en": "Aluminium, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7601.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hợp kim nhôm",
+        "en": "Aluminium alloys"
+      }
+    }
+  ]
+}

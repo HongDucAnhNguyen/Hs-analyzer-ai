@@ -1,0 +1,65 @@
+{
+  "heading_id": "85.26",
+  "heading_title": {
+    "vi": "Ra đa, các thiết bị dẫn đường bằng sóng vô tuyến và các thiết bị điều khiển từ xa bằng vô tuyến.",
+    "en": "Radar apparatus, radio navigational aid apparatus and radio remote control apparatus."
+  },
+  "summary": {
+    "vi": "Nhóm 85.26 bao gồm ba loại thiết bị chính: ra đa, thiết bị dẫn đường bằng sóng vô tuyến, và thiết bị điều khiển từ xa bằng vô tuyến. Các thiết bị này được ứng dụng trong nhiều lĩnh vực dân sự và quân sự, từ hàng hải, hàng không đến khí tượng và quốc phòng. Các sản phẩm cụ thể thuộc nhóm này bao gồm hệ thống thu định vị toàn cầu (GPS), ra đa định vị cho tàu biển và máy bay, thiết bị kiểm soát không lưu tại sân bay, và ra đa khí tượng. Ngoài ra, nhóm này còn bao gồm các thiết bị điều khiển từ xa bằng sóng vô tuyến cho tàu thuyền, máy bay không người lái, tên lửa, và đồ chơi. Một số mặt hàng bị loại trừ khỏi nhóm này, đáng chú ý là kíp nổ hoàn chỉnh có gắn chất nổ (nhóm 93.06) và các xe chuyên dụng được trang bị cố định thiết bị rađa (nhóm 87.05). Theo quy định chung của Phần XVI, các bộ phận của những thiết bị này được phân loại riêng trong nhóm 85.29.",
+    "en": "Heading 85.26 covers three main categories of equipment: radar apparatus, radio navigational aid apparatus, and radio remote control apparatus. These devices are used in various civil and military applications, from maritime and aviation to meteorology and defense. Specific products within this heading include global positioning system (GPS) receivers, navigational radar for ships and aircraft, air traffic control equipment for airports, and meteorological radar. Additionally, the heading covers radio remote control apparatus for ships, pilotless aircraft, missiles, and toys. Certain items are excluded from this heading, notably complete fuses with their detonators (heading 93.06) and special purpose vehicles permanently equipped with radar apparatus (heading 87.05). In accordance with the general provisions of Section XVI, parts for this apparatus are classified separately in heading 85.29."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm: (1) Thiết bị dẫn đường bằng sóng vô tuyến (ví dụ: đèn tín hiệu dẫn đường vô tuyến, phao vô tuyến, các thiết bị thu tín hiệu, la bàn vô tuyến, hệ thống thu định vị toàn cầu - GPS). (2) Thiết bị rađa định vị cho tàu biển hoặc phương tiện bay. (3) Các thiết bị điều khiển hạ cánh hoặc giám sát giao thông cho sân bay. (4) Các thiết bị đo độ cao bằng rađa. (5) Rađa khí tượng. (6) Thiết bị dẫn đường ném bom. (7) Các thiết bị rađa dùng để xác định kíp nổ bom hoặc đạn (kíp nổ hoàn chỉnh thuộc nhóm 93.06). (8) Các thiết bị rađa cảnh báo tấn công bằng đường hàng không. (9) Các thiết bị rađa để định hướng và xác định phạm vi cho hải quân hoặc súng phòng không. (10) Các máy thu phát ra đa. (11) Các thiết bị radio để điều khiển từ xa tàu thuyền, máy bay không người lái, tên lửa, đạn đồ chơi, các mô hình tàu và máy bay. (12) Các thiết bị radio để kích nổ mìn hoặc để điều khiển máy móc từ xa. Bộ phận của các thiết bị thuộc nhóm này được phân loại vào nhóm 85.29.",
+        "en": "This heading includes: (1) Radio navigational aid equipment (e.g., radio beacons and radio buoys, receivers, radio compasses, global positioning system (GPS) receivers). (2) Ship or aircraft navigational radar equipment. (3) Blind approach landing or traffic control apparatus for airports. (4) Radar height measuring apparatus (radio altimeters). (5) Meteorological radar. (6) Blind bombing equipment. (7) Radar devices for proximity fuses of shells or bombs (The complete fuses fall in heading 93.06). (8) Air raid warning radar apparatus. (9) Range and direction finding radar apparatus for naval or anti-aircraft guns. (10) Radar transponders. (11) Radio apparatus for the remote control of ships, pilotless aircraft, rockets, missiles, toys, model ships or aircraft. (12) Radio apparatus for the detonation of mines, or for the remote control of machines. Parts of the apparatus of this heading are classified in heading 85.29."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này loại trừ các xe chuyên dùng được lắp cố định với các rađa hoặc thiết bị khác của nhóm này (thường thuộc nhóm 87.05).",
+        "en": "Special purpose vehicles permanently equipped with radar or other apparatus of this heading are excluded (generally heading 87.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8526.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Rađa",
+        "en": "Radar apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8526.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Thiết bị dẫn đường bằng sóng vô tuyến",
+        "en": "- Radio navigational aid apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8526.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Thiết bị điều khiển từ xa bằng sóng vô tuyến",
+        "en": "- Radio remote control apparatus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "heading_id": "04.09",
+  "heading_title": {
+    "vi": "Mật ong tự nhiên.",
+    "en": "Natural honey."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm mật của ong (Apis mellifera) hoặc của các côn trùng khác, đã được ly tâm, ở trong bánh tổ hoặc chứa những miếng bánh tổ, miễn là chưa thêm đường hoặc bất kỳ chất nào khác. Mật ong có thể được phân loại theo nguồn hoa, xuất xứ hoặc màu sắc. Nhóm này không bao gồm mật ong nhân tạo và hỗn hợp mật ong tự nhiên và nhân tạo (nhóm 17.02).",
+    "en": "This heading covers honey produced by bees (Apis mellifera) or by other insects, centrifuged, or in the comb or containing comb chunks, provided that neither sugar nor any other substance has been added. Such honey may be designated by floral source, origin or colour. The heading excludes artificial honey and mixtures of natural and artificial honey (heading 17.02)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm mật của ong (Apis mellifera) hoặc của côn trùng khác, đã quay ly tâm hoặc ở trong bánh tổ hoặc có chứa những miếng bánh tổ, miễn là chưa cho thêm đường hoặc bất kỳ chất nào khác. Mật có thể phân theo nguồn, xuất xứ hoặc màu sắc của hoa cho mật.",
+        "en": "This heading covers honey produced by bees (Apis mellifera) or by other insects, centrifuged, or in the comb or containing comb chunks, provided that neither sugar nor any other substance has been added. Such honey may be designated by floral source, origin or colour."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm mật ong nhân tạo hoặc hỗn hợp giữa mật ong tự nhiên và mật ong nhân tạo (nhóm 17.02).",
+        "en": "The heading excludes artificial honey and mixtures of natural and artificial honey (heading 17.02)."
+      }
+    }
+  ],
+  "subheadings": []
+}

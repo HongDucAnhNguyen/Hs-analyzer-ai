@@ -1,0 +1,77 @@
+{
+  "heading_id": "84.58",
+  "heading_title": {
+    "vi": "Máy tiện (kể cả trung tâm gia công tiện) để bóc tách kim loại.",
+    "en": "Lathes (including turning centres) for removing metal (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 84.58 bao gồm các loại máy tiện và trung tâm gia công tiện dùng để bóc tách kim loại. Các máy này thường được thiết kế để lắp đặt cố định, phân biệt với các dụng cụ cầm tay thuộc nhóm 84.67. Nhóm này bao gồm các máy tiện ngang và các loại máy tiện khác, được phân loại chi tiết thành loại điều khiển số và loại khác. Các loại máy tiện cụ thể được đề cập gồm máy tiện mâm, máy tiện trượt, máy tiện đứng, máy tiện rêvônve và máy tiện sao chép. Tuy nhiên, nhóm này loại trừ các máy tiện ép hoạt động bằng cách làm biến dạng kim loại (nhóm 84.63), máy công cụ sử dụng tia laze hoặc siêu âm (nhóm 84.56), trung tâm gia công và máy gia công chuyển dịch đa vị trí (nhóm 84.57), máy cắt đứt (nhóm 84.61) và máy kiểm tra (nhóm 90.24). Chú giải Phân nhóm định nghĩa rõ máy điều khiển số (CNC/NC) cho các phân nhóm 8458.11 và 8458.91. Các bộ phận và phụ kiện của máy thuộc nhóm này được phân loại vào nhóm 84.66, trong khi các dụng cụ thuộc Chương 82.",
+    "en": "Heading 84.58 covers lathes and turning centres used for removing metal. These machines are typically designed for stationary mounting, distinguishing them from handheld tools of heading 84.67. The heading includes horizontal lathes and other lathes, further classified into numerically controlled and other types. Specific types mentioned include slide, vertical, capstan, turret, and copying lathes. However, it excludes spinning lathes that work by deforming metal (heading 84.63), machine-tools using laser or ultrasonic processes (heading 84.56), machining centres and multi-station transfer machines (heading 84.57), cutting-off machines (heading 84.61), and testing machines (heading 90.24). A Subheading Explanatory Note defines numerically controlled (CNC/NC) machines for subheadings 8458.11 and 8458.91. Parts and accessories for these machines are classified in heading 84.66, while tools belong to Chapter 82."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Máy tiện (bao gồm trung tâm gia công tiện) thuộc nhóm này dùng để gia công bề mặt kim loại bằng cách cắt hoặc loại bỏ kim loại. Chúng khác với các dụng cụ cầm tay thuộc nhóm 84.67 vì thường được thiết kế để gắn cố định. Nhóm này bao gồm: (1) Máy tiện tự động hoặc không tự động (máy tiện mâm, máy tiện trượt, máy tiện đứng, máy tiện rêvônve, máy tiện chế tạo/sao chép), trừ máy tiện ép tạo hình kim loại thuộc nhóm 84.63; (2) Máy tiện trục; (3) Các trung tâm gia công tiện. Các bộ phận và phụ kiện (trừ dụng cụ thuộc Chương 82) được phân loại trong nhóm 84.66. Nhóm này không bao gồm: (a) Máy công cụ sử dụng các quy trình tia laze, siêu âm, phóng điện (nhóm 84.56); (b) Trung tâm gia công, máy kết cấu nguyên khối, máy gia công chuyển dịch đa vị trí (nhóm 84.57); (c) Máy cắt đứt (nhóm 84.61); (d) Dụng cụ cầm tay (nhóm 84.67); (e) Máy và dụng cụ kiểm tra (nhóm 90.24).",
+        "en": "The lathes (including turning centres) of this heading are machines used for surface-working metal by cutting away or otherwise removing metal. They are distinguished from tools for working in the hand of heading 84.67 by the fact that they are usually designed to be mounted. The heading includes: (1) Lathes, whether or not automatic, including slide lathes, vertical lathes, capstan or turret lathes, production (or copying) lathes, but excludes spinning lathes which function by deforming the metal (heading 84.63); (2) Spindle or axle turning machines; (3) Turning centres for removing metal. Parts and accessories (other than the tools of Chapter 82) are classified in heading 84.66. The heading also excludes: (a) Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes (heading 84.56); (b) Machining centres, unit construction machines (single station) and multi-station transfer machines (heading 84.57); (c) Cutting-off machines (heading 84.61); (d) Tools for working in the hand (heading 84.67); (e) Machines and appliances for testing (heading 90.24)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải phân nhóm 8458.11 và 8458.91: Máy công cụ điều khiển số (CNC hoặc NC) là máy có chức năng và sự dịch chuyển được vận hành theo những câu lệnh đã được lập trình trước. Máy công cụ điều khiển số luôn tích hợp một khối điều khiển (tách riêng hoặc gắn liền), kết hợp với một máy xử lý dữ liệu tự động hoặc một bộ vi xử lý và hệ thống servo. Nếu đơn vị điều khiển không được trình bày cùng với máy công cụ, thì máy công cụ vẫn được coi là máy điều khiển số với điều kiện là nó mang những đặc tính riêng của loại máy này.",
+        "en": "Subheading Explanatory Note for Subheadings 8458.11 and 8458.91: Numerically controlled machine-tools (CNC or NC) are machines where the functions and movements are performed according to pre-programmed instructions. Numerically controlled machine-tools always integrate a control unit (separate or built-in), incorporating an automatic data processing machine or a microprocessor, as well as servo systems. If the control unit is not presented with the machine-tool, the latter is nevertheless to be considered as a numerically controlled machine-tool provided it has the specific characteristics of this type."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy tiện ngang:",
+        "en": "- Horizontal lathes:"
+      },
+      "subheading_id": "8458.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy tiện ngang:",
+        "en": "- Horizontal lathes:"
+      },
+      "subheading_id": "8458.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy tiện khác:",
+        "en": "- Other lathes:"
+      },
+      "subheading_id": "8458.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Điều khiển số",
+        "en": "- - Numerically controlled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy tiện khác:",
+        "en": "- Other lathes:"
+      },
+      "subheading_id": "8458.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

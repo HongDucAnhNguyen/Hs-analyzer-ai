@@ -1,0 +1,42 @@
+{
+  "heading_id": "26.02",
+  "heading_title": {
+    "vi": "Quặng mangan và tinh quặng mangan, kể cả quặng mangan chứa sắt và tinh quặng mangan chứa sắt với hàm lượng mangan từ 20% trở lên, tính theo trọng lượng khô.",
+    "en": "Manganese ores and concentrates, including ferruginous manganese ores and concentrates with a manganese content of 20 % or more, calculated on the dry weight."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các quặng mangan chính như Braunite, Rhodochrosite, Hausmannite, Manganite, Psilomelane và Pyrolusite. Nhóm này áp dụng cho quặng mangan chứa sắt và tinh quặng mangan chứa sắt với hàm lượng mangan từ 20% trở lên tính theo trọng lượng khô. Những loại có hàm lượng mangan dưới 20% bị loại trừ và thuộc nhóm 26.01. Nhóm này cũng loại trừ pyrolusite được chế biến để sử dụng trong pin khô (nhóm 25.30).",
+    "en": "This heading covers principal manganese ores such as Braunite, Rhodochrosite, Hausmannite, Manganite, Psilomelane, and Pyrolusite. It applies to ferruginous manganese ores and concentrates with a manganese content of 20% or more by dry weight. Those with a manganese content of less than 20% are excluded (heading 26.01). The heading also excludes pyrolusite prepared for use in dry batteries (heading 25.30)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các quặng chính thường được phân loại trong nhóm này là:\n(a) Braunite, mangan oxit\n(b) Rhodochrosite (hoặc dialogite) mangan carbonate",
+        "en": "The principal ores generally covered by this heading are:\n(a) Braunite, manganese oxide.\n(b) Rhodochrosite (or dialogue), manganese carbonate."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(c) Hausmannite, saline mangan oxit\n(d) Manganite, mangan oxit đã hydrat hoá\n(e) Psilomelane, mangan dioxit đã hydrate hoá\n(f) Pyrolusite (hoặc polianite), mangan dioxit",
+        "en": "(c) Hausmannite, saline manganese oxide.\n(d) Manganite, hydrated manganese oxide.\n(e) Psilomelane, hydrated manganese dioxide.\n(f) Pyrolusite (or polianite), manganese dioxide."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm quặng và tinh quặng mangan chứa sắt, với hàm lượng mangan từ 20% trở lên tính theo trọng lượng khô (quặng và tinh quặng đã gia nhiệt tới nhiệt độ từ 105 đến 110°C); những loại với hàm lượng mangan nhỏ hơn 20% tính theo trọng lượng khô bị loại trừ (nhóm 26.01).",
+        "en": "The heading also covers ferruginous manganese ores and concentrates, provided they have a manganese content of 20 % or more, calculated on the dry weight (the ores and concentrates being heated to a temperature of 105 to 110 °C); those with a manganese content of less than 20 % calculated on the dry weight are excluded (heading 26.01)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng loại trừ pyrolusite được chế biến cho sử dụng trong pin khô (nhóm 25.30).",
+        "en": "The heading also excludes pyrolusite prepared for use in dry batteries (heading 25.30)."
+      }
+    }
+  ],
+  "subheadings": []
+}

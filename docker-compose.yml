@@ -1,0 +1,345 @@
+version: '3.8'
+
+services:
+  # ============================================================================
+  # Unified API Gateway (combines both RAG and Classifier services)
+  # ============================================================================
+  unified-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hscode-unified-api
+    ports:
+      - "8080:8080"
+    environment:
+      # API Configuration
+      - PYTHONPATH=/app
+      - API_HOST=0.0.0.0
+      - API_PORT=8080
+      - API_WORKERS=${API_WORKERS:-4}
+      - DEBUG=${DEBUG:-False}
+      
+      # LLM API Keys
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - CO_API_KEY=${CO_API_KEY}
+      
+      # RAG Service Configuration
+      - LLM_PROVIDER=${LLM_PROVIDER:-gemini}
+      - LLM_MODEL=${LLM_MODEL:-gemini-2.5-flash}
+      
+      # Classifier Service Configuration (uses LLM_MODEL_NAME)
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gemini-2.5-flash}
+      - LLM_TEMPERATURE=${LLM_TEMPERATURE:-0.0}
+      - QDRANT_HOST=${QDRANT_HOST:-qdrant}
+      - QDRANT_PORT=${QDRANT_PORT:-6333}
+      - QDRANT_URL=http://${QDRANT_HOST:-qdrant}:${QDRANT_PORT:-6333}
+      - QDRANT_COLLECTION=${QDRANT_COLLECTION:-hs_code_db_gemini}
+      - ES_URL=${ES_URL}
+      - GRAPH_DB_URL=${GRAPH_DB_URL}
+      - GRAPH_USER=${GRAPH_USER}
+      - GRAPH_PASSWORD=${GRAPH_PASSWORD}
+      - DB_NAME=${DB_NAME}
+      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
+      - LOGFIRE_ENVIRONMENT=${LOGFIRE_ENVIRONMENT:-production}
+      - OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT=true
+      
+      # Classifier Service Configuration
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+      
+      # MinIO Configuration (from .env file)
+      - MINIO_INTERNAL_ENDPOINT=${MINIO_INTERNAL_ENDPOINT}
+      - MINIO_EXTERNAL_ENDPOINT=${MINIO_EXTERNAL_ENDPOINT}
+      - MINIO_ROOT_USER=${MINIO_ROOT_USER}
+      - MINIO_ROOT_PASSWORD=${MINIO_ROOT_PASSWORD}
+      - MINIO_BUCKET=${MINIO_BUCKET}
+      - MINIO_SECURE=${MINIO_SECURE}
+
+      # Authentication Configuration
+      - AUTH_USERNAME=${AUTH_USERNAME}
+      - AUTH_PASSWORD_HASH=${AUTH_PASSWORD_HASH}
+      - ACCESS_TOKEN_EXPIRE_MINUTES=${ACCESS_TOKEN_EXPIRE_MINUTES}
+      - REFRESH_TOKEN_EXPIRE_DAYS=${REFRESH_TOKEN_EXPIRE_DAYS}
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY}
+      
+      # Email Configuration (for Password Rotation)
+      - SMTP_SERVER=${SMTP_SERVER}
+      - SMTP_PORT=${SMTP_PORT}
+      - SMTP_USERNAME=${SMTP_USERNAME}
+      - SMTP_PASSWORD=${SMTP_PASSWORD}
+      - EMAIL_SENDER=${EMAIL_SENDER}
+      - EMAIL_RECIPIENTS=${EMAIL_RECIPIENTS}
+      
+    volumes:
+      - ./rag_service:/app/rag_service
+      - ./classifier_service:/app/classifier_service
+      - ./crawl_service:/app/crawl_service
+      - ./shared:/app/shared
+      - ./main.py:/app/main.py
+      - ./logging_config.py:/app/logging_config.py
+      - ./logs:/app/logs
+      - ./auth:/app/auth
+      - ./.env:/app/.env
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - hscode-network
+
+  # ============================================================================
+  # Celery Worker - Classifier Service (for async classification tasks)
+  # ============================================================================
+  classifier-worker:
+    build:
+      context: ./classifier_service
+      dockerfile: Dockerfile
+    container_name: hscode-classifier-worker
+    command: uv run celery -A classifier_service.core.celery_app worker --loglevel=info --concurrency=4 -Q celery
+    environment:
+      - PYTHONPATH=/app
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - CO_API_KEY=${CO_API_KEY}
+      - LLM_PROVIDER=${LLM_PROVIDER:-gemini}
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gemini-2.5-flash}
+      - LLM_TEMPERATURE=${LLM_TEMPERATURE:-0.0}
+    volumes:
+      - ./classifier_service:/app/classifier_service
+      - ./shared:/app/shared
+      - ./logs:/app/logs
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - hscode-network
+
+  # ============================================================================
+  # Celery Worker - Crawl Service (for async crawl/HS database tasks)
+  # ============================================================================
+  crawl-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hscode-crawl-worker
+    command: >
+      bash -c "
+        Xvfb :99 -screen 0 1920x1080x24 -ac +extension GLX +render -noreset &
+        sleep 2 &&
+        uv run celery -A crawl_service.core.celery_app worker --loglevel=info --concurrency=2 -Q crawl_queue
+      "
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - CO_API_KEY=${CO_API_KEY}
+      - LLM_PROVIDER=${LLM_PROVIDER:-gemini}
+      - LLM_MODEL=${LLM_MODEL:-gemini-2.5-flash}
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gemini-2.5-flash}
+      - DISPLAY=:99
+      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
+      - LOGFIRE_ENVIRONMENT=${LOGFIRE_ENVIRONMENT:-production}
+    volumes:
+      - ./crawl_service:/app/crawl_service
+      - ./logs:/app/logs
+      - ./profiles:/app/profiles
+    shm_size: 2gb
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - hscode-network
+
+  # ============================================================================
+  # Celery Worker - Report Service (for async Excel/TRAINS tasks)
+  # ============================================================================
+  report-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hscode-report-worker
+    command: >
+      bash -c "
+        Xvfb :99 -screen 0 1920x1080x24 -ac +extension GLX +render -noreset &
+        sleep 2 &&
+        uv run celery -A report_service.core.celery_app worker --loglevel=info --concurrency=2 -Q report_queue --soft-time-limit=3300 --time-limit=3600
+      "
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+      - QDRANT_URL=http://qdrant:6333
+      - MINIO_INTERNAL_ENDPOINT=minio:9000
+      - MINIO_EXTERNAL_ENDPOINT=${MINIO_EXTERNAL_ENDPOINT}
+      - MINIO_ROOT_USER=${MINIO_ROOT_USER}
+      - MINIO_ROOT_PASSWORD=${MINIO_ROOT_PASSWORD}
+      - MINIO_BUCKET=${MINIO_BUCKET}
+      - MINIO_SECURE=${MINIO_SECURE:-false}
+      - DISPLAY=:99
+      # Logfire
+      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
+      - LOGFIRE_ENVIRONMENT=${LOGFIRE_ENVIRONMENT:-production}
+      
+      # LLM Configuration (for prefill_mode: llm and CAS extraction)
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - CO_API_KEY=${CO_API_KEY}
+      - LLM_PROVIDER=${LLM_PROVIDER:-gemini}
+      - LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gpt-4o-mini}
+      - LLM_TEMPERATURE=${LLM_TEMPERATURE:-0.0}
+    volumes:
+      - ./report_service:/app/report_service
+      - ./logs:/app/logs
+      - ./profiles:/app/profiles
+    shm_size: 2gb
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - hscode-network
+
+  # ============================================================================
+  # Celery Flower (monitoring UI for ALL Celery tasks)
+  # ============================================================================
+  celery-flower:
+    build:
+      context: ./classifier_service
+      dockerfile: Dockerfile
+    container_name: hscode-celery-flower
+    command: uv run celery -A classifier_service.core.celery_app flower --port=5555
+    ports:
+      - "5555:5555"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+    volumes:
+      - ./classifier_service:/app/classifier_service
+      - ./logs:/app/logs
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - hscode-network
+
+  # ============================================================================
+  # Redis (cache and Celery backend)
+  # ============================================================================
+  redis:
+    image: redis:7-alpine
+    container_name: hscode-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    networks:
+      - hscode-network
+
+  # ============================================================================
+  # RabbitMQ (message broker for Celery)
+  # ============================================================================
+  rabbitmq:
+    image: rabbitmq:3.12-management-alpine
+    container_name: hscode-rabbitmq
+    ports:
+      - "5672:5672"      # AMQP port
+      - "15672:15672"    # Management UI
+    environment:
+      RABBITMQ_DEFAULT_USER: admin
+      RABBITMQ_DEFAULT_PASS: admin123
+      RABBITMQ_DEFAULT_VHOST: /
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - hscode-network
+
+  # ============================================================================
+  # MinIO (Object Storage for large file handling)
+  # ============================================================================
+  minio:
+    image: minio/minio:latest
+    container_name: hscode-minio
+    ports:
+      - "9000:9000"      # API port
+      - "9001:9001"      # Console UI
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    volumes:
+      - minio_data:/data
+    command: server /data --console-address ":9001"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - hscode-network
+
+# ============================================================================
+# Volumes
+# ============================================================================
+volumes:
+  redis_data:
+    driver: local
+  rabbitmq_data:
+    driver: local
+  minio_data:
+    driver: local
+
+# ============================================================================
+# Networks
+# ============================================================================
+networks:
+  hscode-network:
+    driver: bridge
+
+# ============================================================================
+# Notes:
+# Password Rotation (Cron):
+# - Runs automatically every Sunday at 11:00 UTC (18:00 Vietnam Time)
+# - Updates AUTH_PASSWORD_HASH in .env file
+# - Sends new password via email to EMAIL_RECIPIENTS
+# - Logs: ./logs/password_rotation.log
+# - Manual run: docker exec hscode-unified-api /app/run_password_rotation.sh
+# ============================================================================

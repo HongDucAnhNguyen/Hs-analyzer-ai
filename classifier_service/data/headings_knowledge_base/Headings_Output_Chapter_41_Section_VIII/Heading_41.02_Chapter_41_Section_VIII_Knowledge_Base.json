@@ -1,0 +1,65 @@
+{
+  "heading_id": "41.02",
+  "heading_title": {
+    "vi": "Da sống của cừu hoặc cừu non (tươi, hoặc muối, khô, ngâm vôi, axit hóa hoặc được bảo quản cách khác, nhưng chưa thuộc, chưa làm thành da giấy hoặc gia công thêm), có hoặc không còn lông hoặc lạng xẻ, trừ các loại đã ghi ở Chú giải 1(c) của Chương này.",
+    "en": "Raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment- dressed or further prepared), whether or not with wool on or split, other than those excluded by Note 1(c) to this Chapter."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm da sống của cừu hoặc cừu non, có hoặc không còn lông, có thể ở dạng tươi hoặc được bảo quản tạm thời (muối, làm khô, ngâm vôi, ngâm axit, v.v...). Các loại da này có thể đã được làm sạch, lạng xẻ, cạo hoặc trải qua quá trình tiền thuộc có thể đảo ngược, nhưng chưa được thuộc, làm thành da giấy hoặc gia công thêm.\n\nNhóm này không bao gồm:\n(a) Da còn lông của loài cừu Astrakhan, Broadtail, Caracul, cừu Ba Tư hoặc các loài cừu tương tự, cừu Ấn Độ, Trung Quốc, Mông Cổ hoặc Tây Tạng (theo Chú giải 1(c) của Chương này).\n(b) Da động vật có thể ăn được nhưng chưa nấu chín (nhóm 02.06 hoặc 02.10). Nếu đã nấu chín, chúng thuộc nhóm 16.02.\n(c) Da vụn và phế liệu tương tự từ da sống (nhóm 05.11).",
+    "en": "This heading covers raw skins of sheep or lambs, whether or not with wool on, which may be fresh or temporarily preserved (salted, dried, limed, pickled, etc.). These skins may be cleaned, split, scraped, or have undergone a reversible pre-tanning process, but must not be tanned, parchment-dressed, or further prepared.\n\nThis heading excludes:\n(a) Skins with wool on of Astrakhan, Broadtail, Caracul, Persian or similar lambs, Indian, Chinese, Mongolian or Tibetan lambs (per Note 1(c) to this Chapter).\n(b) Uncooked edible skins of animals (heading 02.06 or 02.10). When cooked, they are classified in heading 16.02.\n(c) Parings and similar waste of raw skins (heading 05.11)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm da sống của cừu hoặc cừu non có hoặc không còn lông. Tuy nhiên, nhóm này không bao gồm da còn lông của loài cừu Astrakhan, Broadtail, Caracul, cừu Ba Tư hoặc các loài cừu tương tự (tức là, cừu thuộc loại tương tự như Caracul hoặc Ba Tư nhưng được biết bởi những tên khác nhau ở các nơi khác nhau trên thế giới), cừu Ấn Độ, Trung Quốc, Mông Cổ hoặc Tây Tạng.\nCác da sống này có thể tươi (xanh) hoặc được bảo quản tạm thời tránh sự thối rữa trong thời gian ngắn bằng ướp muối, làm khô, ngâm vôi, ngâm axit hoặc các phương pháp khác (xem Chú giải chi tiết nhóm 41.01). Chúng cũng có thể được làm sạch, lạng xẻ hoặc cạo, hoặc có thể trải qua quá trình thuộc (kể cả tiền thuộc), có thể lộn được, nhưng không dùng bất kỳ quá trình thuộc hoặc các quá trình tương đương nào khác (như sự làm thành da giấy) hoặc gia công thêm.",
+        "en": "This heading covers raw skins of sheep or lambs whether or not with wool on. It does not, however, cover skins with wool on of Astrakhan, Broadtail, Caracul, Persian or similar lambs (i.e., lambs of a variety similar to Caracul or Persian but known by different names in various parts of the world), Indian, Chinese, Mongolian or Tibetan lambs.\nThese raw skins may be fresh (green) or temporarily preserved by salting, drying, liming, pickling or any other method to prevent putrefaction in the short term (see the Explanatory Note to heading 41.01). They may also be cleaned, split or scraped, or may have undergone a tanning (including pre-tanning) process which is reversible, but not subjected to any other tanning or equivalent process (such as parchment-dressing) nor further prepared."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Da có thể ăn được của động vật nhưng chưa được nấu chín (nhóm 02.06 hoặc 02.10). (Khi đã nấu, những loại da như vậy được phân loại vào nhóm 16.02).\n(b) Da vụn và phế liệu tương tự từ da sống (nhóm 05.11).",
+        "en": "The heading does not include :\n(a) Uncooked edible skins of animals (heading 02.06 or 02.10). (When cooked, such skins are classified in heading 16.02).\n(b) Parings and similar waste of raw skins (heading 05.11)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4102.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại còn lông",
+        "en": "With wool on"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại không còn lông:",
+        "en": "Without wool on :"
+      },
+      "subheading_id": "4102.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã được axit hóa",
+        "en": "Pickled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại không còn lông:",
+        "en": "Without wool on :"
+      },
+      "subheading_id": "4102.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

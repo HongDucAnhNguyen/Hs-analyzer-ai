@@ -1,0 +1,21 @@
+{
+  "heading_id": "29.42",
+  "heading_title": {
+    "vi": "Hợp chất hữu cơ khác.",
+    "en": "Other organic compounds."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các hợp chất hữu cơ đã được xác định về mặt hóa học riêng biệt chưa được phân loại ở nơi khác. Các ví dụ bao gồm: (1) Ketenes (ví dụ, ketene, diphenylketene); (2) Phức boron triflorua với axit axetic, dietyl ete hoặc phenol; và (3) Dithymol di-iodua. Nhóm này loại trừ diketene vì nó là một lacton của nhóm 29.32.",
+    "en": "This heading covers separate chemically defined organic compounds not classified elsewhere. Examples include: (1) Ketenes (e.g., ketene, diphenylketene); (2) Boron trifluoride complexes with acetic acid, diethyl ether or phenol; and (3) Dithymol di-iodide. This heading excludes diketene which is a lactone of heading 29.32."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các hợp chất hữu cơ đã được xác định về mặt hóa học riêng biệt chưa được chi tiết ở nơi khác.\n(1) Ketenes*. Giống xeton, có đặc tính của nhóm carbonyl (C = 0) nhưng nó được nối với nguyên tử cacbon lân cận bằng một liên kết đôi (ví dụ, ketene, diphenylketene).\nTuy nhiên, nhóm này loại trừ diketene là một lacton của nhóm 29.32.\n(2) Phức boron triflorua với axit axetic, dietyl ete hoặc phenol*.\n(3) Dithymol di-iodua.",
+        "en": "This heading covers separate chemically defined organic compounds not classified elsewhere.\n(1) Ketenes*. Like ketones, these are characterised by a carbonyl group (C=O) but it is linked to the neighbouring carbon atom by a double bond (e.g., ketene, diphenylketene).\nThis heading however excludes diketene which is a lactone of heading 29.32.\n(2) Boron trifluoride complexes with acetic acid, diethyl ether or phenol*.\n(3) Dithymol di-iodide."
+      }
+    }
+  ],
+  "subheadings": []
+}

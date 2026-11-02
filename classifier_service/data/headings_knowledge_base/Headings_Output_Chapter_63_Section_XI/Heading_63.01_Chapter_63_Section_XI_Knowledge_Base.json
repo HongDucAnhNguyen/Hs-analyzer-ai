@@ -1,0 +1,110 @@
+{
+  "heading_id": "63.01",
+  "heading_title": {
+    "vi": "Chăn và chăn du lịch",
+    "en": "Blankets and travelling rugs."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm chăn và chăn du lịch, thường được làm từ len, lông động vật, bông hoặc sợi nhân tạo, có bề mặt tuyết nổi và dày để chống lạnh. Nhóm này cũng bao gồm thảm, chăn cho giường cũi hoặc xe đẩy trẻ em, chăn điện và vải ở dạng mảnh có thể dễ dàng cắt thành chăn. Tuy nhiên, nhóm này không bao gồm: (a) Chăn có hình dáng đặc biệt dùng để che, phủ động vật (nhóm 42.01); (b) Khăn trải giường và khăn phủ giường (nhóm 63.04); (c) Các loại tấm phủ giường được may chần hoặc nhồi (nhóm 94.04).",
+    "en": "This heading covers blankets and travelling rugs, usually made of wool, animal hair, cotton, or man-made fibres, frequently with a raised pile surface and of thick material for protection against the cold. The heading also includes rugs and blankets for cots or prams, electrically heated blankets, and fabrics in the piece which can be simply cut into blankets. However, the heading excludes: (a) Specially shaped blankets for covering animals (heading 42.01); (b) Bedspreads and counterpanes (heading 63.04); (c) Quilted or stuffed bed coverings of heading 94.04."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chăn và chăn du lịch thường được làm từ sợi len, lông động vật, bông hoặc bằng sợi nhân tạo, bề mặt có tuyết nổi, và thường được làm từ vật liệu được dệt dày dùng để chống lạnh. Nhóm này cũng bao gồm thảm, chăn cho giường cũi của trẻ nhỏ hoặc xe đẩy trẻ con.",
+        "en": "Blankets and travelling rugs are usually made of wool, animal hair, cotton or man-made fibres, frequently with a raised pile surface, and generally of thick heavy-texture material for protection against the cold. The heading also covers rugs and blankets for cots or prams."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chăn du lịch thường có tua, rua (thường được tạo thành bởi các sợi ngang và sợi dọc lồi ra) nhưng cạnh, viền của chăn thường được bảo quản bằng các đường khâu hoặc đường viền.",
+        "en": "Travelling rugs usually have fringes (generally formed by projecting warp or weft threads), but the edges of blankets are normally preserved by blanket stitching or binding."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm vải ở dạng mảnh, bằng cách cắt đơn giản theo các đường đã định sẵn, được chỉ ra bởi những đoạn không có sợi chỉ ngang, và có thể chuyển thành các sản phẩm rời có đặc trưng của chăn hoặc chăn du lịch.",
+        "en": "The heading includes fabrics in the piece which by the simple process of cutting along defined lines indicated by the absence of weft threads, may be converted into separate articles having the character of finished blankets or travelling rugs."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chăn được làm nóng bằng điện cũng được phân loại trong nhóm này.",
+        "en": "Electrically heated blankets are also included in the heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Các loại chăn có hình dáng đặc biệt dùng để che, phủ động vật (thuộc nhóm 42.01)\n(b) Khăn trải giường và khăn phủ giường (nhóm 63.04)\n(c) Các loại tấm phủ giường được may chần hoặc nhồi thuộc nhóm 94.04.",
+        "en": "The heading does not include:\n(a) Specially shaped blankets for covering animals (heading 42.01).\n(b) Bedspreads and counterpanes (heading 63.04).\n(c) Quilted or stuffed bed coverings of heading 94.04."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6301.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chăn điện",
+        "en": "Electric blankets"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6301.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chăn (trừ chăn điện) và chăn du lịch, từ lông cừu hoặc lông động vật loại mịn",
+        "en": "Blankets (other than electric blankets) and travelling rugs, of wool or of fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6301.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chăn (trừ chăn điện) và chăn du lịch, từ bông",
+        "en": "Blankets (other than electric blankets) and travelling rugs, of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6301.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chăn (trừ chăn điện) và chăn du lịch, từ xơ sợi tổng hợp",
+        "en": "Blankets (other than electric blankets) and travelling rugs, of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6301.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chăn và chăn du lịch khác",
+        "en": "Other blankets and travelling rugs"
+      }
+    }
+  ]
+}

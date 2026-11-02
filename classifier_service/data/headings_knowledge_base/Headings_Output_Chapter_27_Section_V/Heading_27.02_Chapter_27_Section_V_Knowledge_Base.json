@@ -1,0 +1,53 @@
+{
+  "heading_id": "27.02",
+  "heading_title": {
+    "vi": "Than non, đã hoặc chưa đóng bánh, trừ than huyền.",
+    "en": "Lignite, whether or not agglomerated, excluding jet."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm than non (than nâu), một loại nhiên liệu trung gian giữa than đá và than bùn, dù đã được khử nước, nghiền hay đóng bánh. Nhóm này loại trừ than huyền (một dạng của than non), được phân loại vào nhóm 25.30.",
+    "en": "This heading covers lignite (brown coal), a fuel intermediate between coal and peat, whether or not dehydrated, pulverized, or agglomerated. It excludes jet, a variety of lignite, which is classified in heading 25.30."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm cả than non (than nâu) dạng trung gian giữa than đá và than bùn, đã hoặc chưa được khử nước, nghiền hoặc đóng bánh.",
+        "en": "This heading covers lignite (brown coal), a fuel intermediate between coal and peat, whether or not dehydrated, pulverised or agglomerated."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này loại trừ than huyền, một dạng khác của than non (nhóm 25.30)",
+        "en": "The heading excludes jet, a variety of lignite (heading 25.30)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2702.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Than non, đã hoặc chưa nghiền thành bột, nhưng chưa đóng bánh",
+        "en": "- Lignite, whether or not pulverised, but not agglomerated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2702.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Than non đã đóng bánh",
+        "en": "- Agglomerated lignite"
+      }
+    }
+  ]
+}

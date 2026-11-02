@@ -1,0 +1,46 @@
+{
+  "heading_id": "44.14",
+  "heading_title": {
+    "vi": "Khung tranh, khung ảnh, khung gương bằng gỗ hoặc các sản phẩm bằng gỗ tương tự.",
+    "en": "Wooden frames for paintings, photographs, mirrors or similar objects."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại khung bằng gỗ với mọi hình dáng và kích thước, được làm từ gỗ khối đặc, gỗ ghép, ván dăm, ván sợi, gỗ dán hoặc gỗ đã được làm tăng độ rắn (tham khảo Chú giải 3 của Chương này). Khung có thể là gỗ khảm hoặc gỗ dát và có thể được gắn phần lưng, giá đỡ và kính thông thường. Các tranh và ảnh in sẵn được trình bày trong khung gỗ cũng thuộc nhóm này nếu khung tạo ra đặc tính cơ bản của sản phẩm.\nNhóm này loại trừ:\n- Tranh và ảnh in sẵn trong khung gỗ khi khung không tạo ra đặc tính cơ bản (nhóm 49.11).\n- Gương đã đóng khung (nhóm 70.09).\n- Việc phân loại tranh, tranh vẽ, tranh phác hoạ, v.v. đã được đóng khung phải tham chiếu đến Chú giải 6 Chương 97 và Chú giải của các nhóm 97.01 và 97.02.",
+    "en": "This heading covers wooden frames of all shapes and sizes, made from solid wood, mouldings, particle board, fibreboard, laminated wood, or densified wood (referencing Note 3 to this Chapter). The frames may be of wood marquetry or inlaid wood and may be fitted with backs, supports, and plain glass. Printed pictures and photographs in wooden frames are also included if the frame provides the essential character.\nThe heading excludes:\n- Printed pictures and photographs in wooden frames where the frame does not provide the essential character (heading 49.11).\n- Framed glass mirrors (heading 70.09).\n- The classification of framed paintings, drawings, pastels, etc., requires reference to Note 6 to Chapter 97 and the Explanatory Notes to headings 97.01 and 97.02."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm khung gỗ với mọi hình dáng và kích thước, dù được cắt thành miếng từ gỗ khối đặc hay được ghép từ quá trình tạo chuỗi hay tạo khuôn. Khung gỗ trong nhóm này cũng có thể là gỗ khảm hay gỗ dát.\nCác mặt hàng thuộc nhóm này có thể được làm bằng gỗ thông thường hoặc bằng ván dăm hoặc ván tương tự, ván sợi, gỗ ghép hoặc gỗ được làm tăng độ rắn (xem Chú giải 3 của Chương này).\nCác loại khung vẫn thuộc nhóm này nếu được gắn phần lưng, có giá đỡ và kính thông thường (plain glass).\nCác tranh và ảnh in sẵn được trình bày trong khung gỗ cũng được xếp vào nhóm này khi khung đó tạo ra đặc tính cơ bản của toàn bộ sản phẩm; trong các trường hợp khác, những mặt hàng như vậy được phân loại vào nhóm 49.11.\nGương đã đóng khung cũng bị loại trừ (nhóm 70.09).\nTrong trường hợp tranh, các bức tranh vẽ, tranh phác hoạ, tranh bột màu, hình ghép nghệ thuật và phù điêu trang trí tương tự và nguyên bản các bản khắc, bản in và bản in lytô đã được đóng khung, để quyết định các mặt hàng đã được đóng khung này sẽ được phân loại như toàn bộ sản phẩm hay khung được phân loại riêng, xem Chú giải 6 Chương 97 và Chú giải của các nhóm 97.01 và 97.02.",
+        "en": "This heading covers wooden frames of all shapes and dimensions, whether cut in one piece from a solid block of wood or built up from headings or mouldings. The frames of the heading may also be of wood marquetry or inlaid wood.\nThe articles of this heading may be made of ordinary wood or of particle board or similar board, fibreboard, laminated wood or densified wood (see Note 3 to this Chapter).\nFrames remain in this heading if fitted with backs, supports and plain glass.\nPrinted pictures and photographs presented in wooden frames are also classified in this heading when the essential character of the whole is given by the frames; in other cases such articles are classified in heading 49.11.\nFramed glass mirrors are also excluded (heading 70.09).\nIn the case of framed paintings, drawings, pastels, collages and similar decorative plaques, and original engravings, prints and lithographs, to determine whether the framed articles are to be classified as a whole or whether the frames are to be classified separately, see Note 6 to Chapter 97 and the Explanatory Notes to headings 97.01 and 97.02."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4414.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ gỗ nhiệt đới",
+        "en": "- Of tropical wood"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4414.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

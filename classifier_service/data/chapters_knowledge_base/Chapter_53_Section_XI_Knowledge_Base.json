@@ -1,0 +1,93 @@
+{
+  "chapter_id": "53",
+  "chapter_title": {
+    "vi": "Xơ dệt gốc thực vật khác; sợi giấy và vải dệt thoi từ sợi giấy",
+    "en": "Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm các loại xơ dệt gốc thực vật khác (trừ bông), sợi giấy và vải dệt thoi từ sợi giấy. Chương này bao quát các sản phẩm từ giai đoạn nguyên liệu thô hoặc đã qua chế biến nhưng chưa kéo thành sợi, cho đến sợi và cuối cùng là vải dệt thoi. Cụ thể, chương này bao gồm: Lanh (nhóm 53.01), gai dầu (nhóm 53.02), đay và các loại xơ libe dệt khác như Hibiscus, Abutilon, cây đậu chổi (nhóm 53.03), và các xơ dệt gốc thực vật khác chưa được chi tiết ở nơi khác như xơ dừa, xơ chuối abaca, và gai ramie (nhóm 53.05). Chương này cũng bao gồm sợi (nhóm 53.06 đến 53.08) và vải dệt thoi (nhóm 53.09 đến 53.11) được làm từ các loại xơ nêu trên và từ giấy. Việc phân loại cần tham chiếu đến Chú giải tổng quát của Phần XI. Cần lưu ý các loại trừ cụ thể tại các nhóm, ví dụ như một số loại xơ được gọi là 'lanh' hoặc 'gai' nhưng được phân loại ở các nhóm khác trong chương này.",
+    "en": "This chapter covers other vegetable textile fibres (excluding cotton), paper yarn, and woven fabrics of paper yarn. It encompasses products from the raw or processed but not spun stage, to yarn, and finally to woven fabrics. Specifically, the chapter includes: Flax (heading 53.01), true hemp (heading 53.02), jute and other textile bast fibres such as Hibiscus, Abutilon, broom (heading 53.03), and other vegetable textile fibres not elsewhere specified, such as coconut, abaca, and ramie (heading 53.05). The chapter also covers yarns (headings 53.06 to 53.08) and woven fabrics (headings 53.09 to 53.11) made from these fibres and from paper. Classification should take into account the General Explanatory Note to Section XI. Note should be taken of specific exclusions within the headings; for example, certain fibres known as 'flax' or 'hemp' are classified in other headings within this chapter."
+  },
+  "notes": [],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Khi đọc các Chú giải chi tiết của Chương này cần phải kết hợp xem xét với Chú giải tổng quát của Phần XI. Nhìn chung, và một số ngoại lệ đã được đề cập tại Chú giải chi tiết của nhóm 53.05, Chương này đề cập các nguyên liệu dệt gốc thực vật (trừ nguyên liệu bông) ở các cấp độ chế biến khác nhau, từ nguyên liệu thô cho đến khi tạo thành vải dệt thoi. Chương này cũng bao gồm sợi giấy và vải dệt bằng sợi giấy, và các sản phẩm có pha nguyên liệu dệt tương tự như các sản phẩm của Chương này theo quy định của Chú giải 2 Phần XI.",
+        "en": "The General Explanatory Note to Section XI should be taken into account in reading the Explanatory Notes to this Chapter. In general, and with certain exceptions referred to in the Explanatory Note to heading 53.05, this Chapter deals with vegetable textile materials (other than cotton) at the various stages from the raw materials to their transformation into woven fabrics. It also includes paper yarns and woven fabrics of paper yarn, and products of mixed textile materials assimilated to the products of this Chapter under the provisions of Note 2 to Section XI."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "53.01",
+      "heading_title": {
+        "vi": "Lanh, dạng nguyên liệu thô hoặc đã chế biến nhưng chưa kéo thành sợi; tô (tow) lanh và phế liệu lanh (kể cả phế liệu sơi và sợi tái chế) (+).",
+        "en": "Flax, raw or processed but not spun; flax tow and waste (including yarn waste and garnetted stock) (+)."
+      }
+    },
+    {
+      "heading_id": "53.02",
+      "heading_title": {
+        "vi": "Gai dầu (Cannabis sativa L.), dạng nguyên liệu thô hoặc đã chế biến nhưng chưa kéo thành sơi; tô (tow) và phế liệu gai dầu (kể cả phế liệu sợi và sợi tái chế).",
+        "en": "True hemp (Cannabis sativa L.), raw or processed but not spun; tow and waste of true hemp (including yarn waste and garnetted stock)."
+      }
+    },
+    {
+      "heading_id": "53.03",
+      "heading_title": {
+        "vi": "Đay và các loại xơ libe dệt khác (trừ lanh, gai dầu và gai ramie), dạng nguyên liệu thô hoặc đã chế biến nhưng chưa kéo thành sợi; tô (tow) và phế liệu của các loại xơ này (kể cả phế liệu sợi và sợi tái chế).",
+        "en": "Jute and other textile bast fibres (excluding flax, true hemp and ramie), raw or processed but not spun; tow and waste of these fibres (including yarn waste and garnetted stock)."
+      }
+    },
+    {
+      "heading_id": "53.05",
+      "heading_title": {
+        "vi": "Xơ dừa, xơ chuối abaca (Manila hemp hoặc Musa textilis Nee), xơ gai ramie và xơ dệt gốc thực vật khác, chưa được ghi hoặc chi tiết ở nơi khác hoặc kể cả, thô hoặc đã chế biến nhưng chưa kéo thành sợi; tô (tow), xơ vụn và phế liệu của các loại xơ này (kể cả phế liệu sợi và sợi tái chế).",
+        "en": "Coconut, abaca (Manila hemp or Musa textilis Nee), ramie and other vegetable textile fibres, not elsewhere specified or included, raw or processed but not spun; tow, noils and waste of these fibres (Including yarn waste and garnetted stock)."
+      }
+    },
+    {
+      "heading_id": "53.06",
+      "heading_title": {
+        "vi": "Sợi lanh.",
+        "en": "Flax yarn."
+      }
+    },
+    {
+      "heading_id": "53.07",
+      "heading_title": {
+        "vi": "Sợi đay hoặc sợi từ các loại xơ libe dệt khác thuộc nhóm 53.03.",
+        "en": "Yarn of jute or of other textile bast fibres of heading 53.03."
+      }
+    },
+    {
+      "heading_id": "53.08",
+      "heading_title": {
+        "vi": "Sợi từ các loại xơ dệt gốc thực vật khác; sợi giấy.",
+        "en": "Yarn of other vegetable textile fibres; paper yarn."
+      }
+    },
+    {
+      "heading_id": "53.09",
+      "heading_title": {
+        "vi": "Vải dệt thoi từ sợi lanh.",
+        "en": "Woven fabrics of flax."
+      }
+    },
+    {
+      "heading_id": "53.10",
+      "heading_title": {
+        "vi": "Vải dệt thoi từ sợi đay hoặc từ các loại xơ libe dệt khác thuộc nhóm 53.03.",
+        "en": "Woven fabrics of jute or of other textile bast fibres of heading 53.03."
+      }
+    },
+    {
+      "heading_id": "53.11",
+      "heading_title": {
+        "vi": "Vải dệt thoi từ các loại sợi dệt gốc thực vật khác; vải dệt thoi từ sợi giấy.",
+        "en": "Woven fabrics of other vegetable textile fibres; woven fabrics of paper yarn."
+      }
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "chapter_id": "88",
+  "chapter_title": {
+    "vi": "Phương tiện bay, tàu vũ trụ và các bộ phận của chúng",
+    "en": "Aircraft, spacecraft, and parts thereof"
+  },
+  "summary": {
+    "vi": "Chương 88 bao gồm các phương tiện bay, tàu vũ trụ và bộ phận của chúng. Cụ thể, chương này bao gồm:\n- Các phương tiện bay không dùng động cơ như khí cầu, khinh khí cầu, tàu lượn và tàu lượn treo (nhóm 88.01).\n- Các phương tiện bay có động cơ như máy bay, trực thăng; tàu vũ trụ (bao gồm vệ tinh), tàu bay trong quỹ đạo và phương tiện đẩy để phóng tàu vũ trụ (nhóm 88.02).\n- Dù, bao gồm dù điều khiển được, dù lượn và dù xoay, cùng các bộ phận và phụ kiện của chúng (nhóm 88.04).\n- Các thiết bị chuyên dụng như thiết bị phóng dùng cho phương tiện bay, dàn hãm tốc độ dùng cho tàu sân bay, và thiết bị huấn luyện bay mặt đất (nhóm 88.05).\n- Phương tiện bay không người lái (drones), được định nghĩa là phương tiện bay được thiết kế để bay mà không có phi công, có thể mang trọng tải hoặc được trang bị camera/thiết bị khác cho các chức năng thực tế (nhóm 88.06).\n- Các bộ phận của các phương tiện bay thuộc nhóm 88.01, 88.02 hoặc 88.06 (nhóm 88.07).\n\nChú giải quan trọng của Chương định nghĩa rõ \"phương tiện bay không người lái\" và loại trừ các loại đồ chơi bay chỉ nhằm mục đích giải trí (nhóm 95.03). Các chú giải phân nhóm cũng định nghĩa các thuật ngữ \"trọng lượng không tải\" (áp dụng cho các phân nhóm từ 8802.11 đến 8802.40) và \"trọng lượng cất cánh tối đa\" (áp dụng cho các phân nhóm 8806.21 đến 8806.24 và 8806.91 đến 8806.94).\n\nChương này không bao gồm các loại tên lửa đạn đạo và vũ khí chiến tranh tương tự (nhóm 93.06), các mô hình dùng để trang trí hoặc trưng bày (ví dụ, nhóm 44.20, 83.06, 90.23), và các mô hình cho mục đích giải trí (nhóm 95.03). Các phương tiện bay chưa hoàn chỉnh hoặc chưa hoàn thiện được phân loại như phương tiện bay hoàn chỉnh nếu chúng có đặc tính cơ bản của loại đó.",
+    "en": "Chapter 88 covers aircraft, spacecraft, and their parts. Specifically, this chapter includes:\n- Non-powered aircraft such as balloons, dirigibles, gliders, and hang gliders (heading 88.01).\n- Powered aircraft such as aeroplanes, helicopters; spacecraft (including satellites), suborbital and spacecraft launch vehicles (heading 88.02).\n- Parachutes, including dirigible parachutes, paragliders, and rotochutes, along with their parts and accessories (heading 88.04).\n- Specialized equipment such as aircraft launching gear, deck-arrestor gear, and ground flying trainers (heading 88.05).\n- Unmanned aircraft (drones), defined as aircraft designed to be flown without a pilot on board, which may carry a payload or be equipped with cameras/other equipment for utilitarian functions (heading 88.06).\n- Parts of the goods of heading 88.01, 88.02, or 88.06 (heading 88.07).\n\nAn important Chapter Note defines \"unmanned aircraft\" and excludes flying toys designed solely for amusement purposes (heading 95.03). Subheading Notes also define the terms \"unladen weight\" (for subheadings 8802.11 to 8802.40) and \"maximum take-off weight\" (for subheadings 8806.21 to 8806.24 and 8806.91 to 8806.94).\n\nThis chapter excludes artillery rockets, ballistic missiles, and similar munitions of war (heading 93.06), models for decorative or demonstrational purposes (e.g., heading 44.20, 83.06, 90.23), and models for recreational purposes (heading 95.03). Incomplete or unfinished aircraft are classified as the corresponding complete aircraft if they have the essential character of the latter."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1.- Theo mục đích của Chương này, khái niệm “phương tiện bay không người lái” có nghĩa là bất kỳ phương tiện bay nào, trừ các phương tiện bay thuộc nhóm 88.01, được thiết kế để bay mà không có người lái trên phương tiện bay. Chúng có thể được thiết kế để mang trọng tải hoặc được trang bị camera kỹ thuật số tích hợp vĩnh viễn hoặc các thiết bị khác cho phép chúng thực hiện các chức năng sử dụng thực tế trong suốt chuyến bay.\nTuy nhiên, cụm từ “phương tiện bay không người lái” không bao gồm đồ chơi bay, được thiết kế chỉ cho mục đích giải trí (nhóm 95.03).",
+        "en": "1.- For the purposes of this Chapter, the expression “unmanned aircraft” means any aircraft, other than those of heading 88.01, designed to be flown without a pilot on board. They may be designed to carry a payload or equipped with permanently integrated digital cameras or other equipment which would enable them to perform utilitarian functions during their flight.\nThe expression “unmanned aircraft”, however, does not cover flying toys, designed solely for amusement purposes (heading 95.03)."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chương này bao gồm khí cầu và khinh khí cầu điều khiển được và phương tiện bay không dùng động cơ (nhóm 88.01), phương tiện bay khác (các nhóm 88.02 hoặc 88.06), tàu vũ trụ (kể cả vệ tinh) và phương tiện đẩy để phóng tầu vũ trụ (nhóm 88.02), một số thiết bị tương tự khác như dù (nhóm 88.04), thiết bị phóng dùng cho phương tiện bay, dàn hãm tốc độ đùng cho tàu sân bay và thiết bị huấn luyện bay mặt đất (nhóm 88.05).\nCác phương tiện bay chưa hoàn chỉnh hoặc chưa hoàn thiện (ví dụ phương tiện bay không trang bị động cơ hoặc thiết bị bên trong) được phân loại như là các phương tiện bay hoàn chỉnh hoặc hoàn thiện, với điều kiện chúng mang những đặc điểm chủ yếu của phương tiện bay đã hoàn chỉnh hoặc hoàn thiện.",
+        "en": "This Chapter covers balloons and dirigibles and non-powered aircraft (heading 88.01), other aircraft (headings 88.02 or 88.06), spacecraft (including satellites) and spacecraft launch vehicles (heading 88.02), certain allied equipment such as parachutes (heading 88.04), aircraft launching gear, deck-arrestor gear and ground flying trainers (heading 88.05).\nIncomplete or unfinished aircraft (e.g., aircraft not equipped with engines or internal equipment) are classified as the corresponding complete or finished aircraft, provided they have the essential character of the latter."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "88.01",
+      "heading_title": {
+        "vi": "Khí cầu và khinh khí cầu điều khiển được; tàu lượn, tàu lượn treo và các phương tiện bay khác không dùng động cơ.",
+        "en": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft."
+      }
+    },
+    {
+      "heading_id": "88.02",
+      "heading_title": {
+        "vi": "Phương tiện bay khác (ví dụ, trực thăng, máy bay); trừ phương tiện bay không người lái thuộc nhóm 88.06; tàu vũ trụ (kể cả vệ tinh) và tàu bay trong quĩ đạo và phương tiện đẩy để phóng tàu vũ trụ.",
+        "en": "Other aircraft (for example, helicopters, aeroplanes), except unmanned aircraft of heading 88.06; spacecraft (including satellites) and suborbital and spacecraft launch vehicles."
+      }
+    },
+    {
+      "heading_id": "88.04",
+      "heading_title": {
+        "vi": "Dù (kể cả dù điều khiển được và dù lượn) và dù xoay; các bộ phận và phụ kiện của chúng.",
+        "en": "Parachutes (including dirigible parachutes and paragliders) and rotochutes; parts thereof and accessories thereto."
+      }
+    },
+    {
+      "heading_id": "88.05",
+      "heading_title": {
+        "vi": "Thiết bị phóng dùng cho phương tiện bay; dàn hãm tốc độ dùng cho tầu sân bay hoặc thiết bị tương tự; thiết bị huấn luyện bay mặt đất; các bộ phận của các thiết bị trên.",
+        "en": "Aircraft launching gear; deck-arrestor or similar gear; ground flying trainers; parts of the foregoing articles."
+      }
+    },
+    {
+      "heading_id": "88.06",
+      "heading_title": {
+        "vi": "Phương tiện bay không người lái.",
+        "en": "Unmanned aircraft."
+      }
+    },
+    {
+      "heading_id": "88.07",
+      "heading_title": {
+        "vi": "Các bộ phận của các mặt hàng thuộc nhóm 88.01, 88.02 hoặc 88.06.",
+        "en": "Parts of goods of heading 88.01, 88.02 or 88.06."
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "heading_id": "82.09",
+  "heading_title": {
+    "vi": "Chi tiết hình đĩa, thanh cỡ nhỏ, mũi chóp và các chi tiết tương tự cho dụng cụ, chưa được gắn vào dụng cụ, làm bằng gốm kim loại.",
+    "en": "Plates, sticks, tips and the like for tools, unmounted, of cermets."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các chi tiết chưa được gắn vào dụng cụ, làm bằng gốm kim loại, như đĩa, thanh, mũi chóp, que và vòng. Các sản phẩm này có đặc tính cứng và rắn, được dùng để gắn vào các dụng cụ cắt tốc độ cao như máy tiện, máy phay, máy khoan để gia công kim loại và vật liệu cứng khác. Các chi tiết này được phân loại vào đây dù đã được mài sắc hay chưa, miễn là chúng chưa được gắn vào dụng cụ. Nếu đã được gắn, chúng thuộc các nhóm dụng cụ, đặc biệt là nhóm 82.07. Nhóm này loại trừ cacbua kim loại chưa pha trộn (nhóm 28.49), hỗn hợp cacbua kim loại chưa thiêu kết (nhóm 38.24), các chi tiết tương tự bằng gốm (nhóm 69.09), và ống phun thổi cát hoặc các bộ phận chống mòn bằng gốm kim loại cho máy móc (Chương 84).",
+    "en": "This heading covers unmounted plates, sticks, tips, rods, and rings made of cermets for tools. These products are characterized by their hardness and rigidity and are intended to be mounted on high-speed cutting tools like lathes, milling tools, or drills for working metals and other hard materials. These parts are classified here whether sharpened or not, provided they are unmounted. If mounted, they are classified under the headings for tools, particularly heading 82.07. The heading excludes unmixed, non-sintered metal carbides (heading 28.49), prepared but non-sintered metal carbide mixtures (heading 38.24), similar parts of ceramics (heading 69.09), and sand blast nozzles or abrasion-resistant parts of cermets for machinery (Chapter 84)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những sản phẩm thuộc mục này thường có dạng đĩa, gậy, mũi chóp, que, viên, vòng và có đặc điểm là rất cứng và rất rắn ngay cả khi nóng.",
+        "en": "The products of this heading are usually in the form of plates, sticks, tips, rods, pellets, rings, etc., and are characterised by great hardness, even when hot, and great rigidity."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Do những thuộc tính đặc biệt, các chi tiết hình đĩa, hình chóp được hàn, hàn bằng đồng hoặc được kẹp chặt trên dụng cụ máy tiện, máy phay, máy khoan hoặc các dụng cụ cắt tốc độ cao khác được sử dụng để gia công kim loại hoặc gia công các loại vật liệu cứng khác. Những chi tiết dụng cụ đó xếp trong nhóm này dù đã mài sắc hoặc không hoặc đã được chuẩn bị nhưng chưa gắn vào dụng cụ; trong trường hợp đã gắn, chúng được xếp vào nhóm dùng cho các dụng cụ, đặc biệt là nhóm 82.07.",
+        "en": "In view of their special properties these plates, tips, etc., are welded, brazed or clamped on to lathe tools, milling tools, drills, dies, or other high-speed cutting tools used for working metals or other hard materials. They fall in this heading whether sharpened or not, or otherwise prepared, but not if already mounted on tools; in the latter case they fall in the headings for tools, particularly heading 82.07."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm: (a) Cacbua kim loại chưa pha trộn, chưa nung thiêu kết (nhóm 28.49). (b) Các hỗn hợp cacbua kim loại đã pha chế, chưa thiêu kết nung (nhóm 38.24). (c) Chi tiết dạng miếng gốm, dạng thanh mỏng, dạng chóp và các dạng tương tự cho các dụng cụ (nhóm 69.09).",
+        "en": "The heading also excludes : (a) Unmixed, non-sintered metal carbides (heading 28.49). (b) Prepared but non-sintered metal carbide mixtures (heading 38.24). (c) Ceramic plates, sticks, tips and the like, for tools (heading 69.09)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(d) Ống phun thổi cát và các bộ phận chống mòn của máy móc bằng gốm kim loại (Chương 84).",
+        "en": "(d) Sand blast nozzles and other abrasion resistant parts of machines, of cermets (Chapter 84)."
+      }
+    }
+  ],
+  "subheadings": []
+}

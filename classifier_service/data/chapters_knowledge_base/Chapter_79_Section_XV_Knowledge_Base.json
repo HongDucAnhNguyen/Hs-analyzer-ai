@@ -1,0 +1,87 @@
+{
+  "chapter_id": "79",
+  "chapter_title": {
+    "vi": "Kẽm và các sản phẩm bằng kẽm",
+    "en": "Zinc and articles thereof"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm kẽm, hợp kim kẽm và các sản phẩm bằng kẽm. Chương này định nghĩa cụ thể về 'Kẽm, không hợp kim' (hàm lượng kẽm ≥ 97,5%), 'Hợp kim kẽm' (kẽm chiếm ưu thế theo khối lượng và các nguyên tố khác > 2,5%), và 'Bụi kẽm' (dựa trên phương pháp thu được, kích thước hạt và hàm lượng kẽm kim loại). Các sản phẩm trong chương này bao gồm: kẽm chưa gia công, phế liệu và mảnh vụn (nhóm 79.01, 79.02); bụi, bột và vảy kẽm (nhóm 79.03); các sản phẩm bán thành phẩm như thanh, que, hình, dây, tấm, lá, dải và lá mỏng (nhóm 79.04, 79.05); và các sản phẩm hoàn chỉnh khác như ống, ống dẫn, phụ kiện, thùng chứa, đinh, bu lông, và các bộ phận dùng trong xây dựng (nhóm 79.07). Chương này không bao gồm các sản phẩm được đề cập trong Chú giải 1 của Phần XV, các sản phẩm thuộc Chương 82 hoặc 83, hoặc các sản phẩm được quy định cụ thể hơn ở nơi khác trong Danh mục.",
+    "en": "This Chapter covers zinc, zinc alloys, and articles thereof. The Chapter provides specific definitions for 'Zinc, not alloyed' (zinc content ≥ 97.5%), 'Zinc alloys' (zinc predominates by weight and other elements > 2.5%), and 'Zinc dust' (based on method of obtaining, particle size, and metallic zinc content). The products in this chapter include: unwrought zinc, waste and scrap (headings 79.01, 79.02); zinc dust, powders and flakes (heading 79.03); semi-finished products such as bars, rods, profiles, wire, plates, sheets, strip, and foil (headings 79.04, 79.05); and other finished articles like tubes, pipes, fittings, containers, nails, bolts, and fabricated building components (heading 79.07). This Chapter does not cover articles mentioned in Note 1 to Section XV, articles of Chapter 82 or 83, or articles more specifically covered elsewhere in the Nomenclature."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm. 1.- Trong Chương này các khái niệm sau có nghĩa:\n(a) Kẽm, không hợp kim: Là kim loại có hàm lượng kẽm ít nhất 97,5% tính theo khối lượng.\n(b) Hợp kim kẽm: Vật liệu kim loại mà trong đó hàm lượng của kẽm lớn hơn so với hàm lượng lượng của mỗi nguyên tố khác, với điều kiện tổng hàm lượng tính theo khối lượng của các nguyên tố khác trên 2,5%.\n(c) Bụi kẽm: Bụi thu được từ quá trình ngưng tụ hơi kẽm, bao gồm những hạt hình cầu nhỏ hơn bột kẽm. Có tối thiểu 80% tính theo khối lượng các hạt lọt qua mắt sàng 63 micromét (microns). Hàm lượng của kẽm ít nhất là 85% tính theo khối lượng.",
+        "en": "Subheading Note. 1.- In this Chapter the following expressions have the meanings hereby assigned to them:\n(a) Zinc, not alloyed: Metal containing by weight at least 97.5% of zinc.\n(b) Zinc alloys: Metallic substances in which zinc predominates by weight over each of the- other elements, provided that the total content by weight of such other elements exceeds 2.5%.\n(c) Zinc dust: Dust obtained by condensation of zinc vapour, consisting of spherical particles which are finer than zinc powders. At least 80% by weight of the particles pass through a sieve with 63 micrometres (microns) mesh. It must contain at least 85% by weight of metallic zinc."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chương này bao gồm kẽm và các hợp kim của kẽm, và một số sản phẩm của nó. Kẽm chủ yếu thu được từ quặng sunfua (hỗn hợp kẽm hoặc các Sphalerit) mặc dù nó cũng được chiết xuất từ quặng Cacbonat và Silicat (Smithsonite, Hemimorphite...) (xem chú giải giải thích nhóm 26.08). Trong cả hai trường hợp, đầu tiên quặng được tuyển và sau đó được nung hoặc nung khô để tạo ra oxit kẽm (trong trường hợp của quặng Sulphat và cacbonat) hoặc Silicat Kẽm đã được khử nuớc (trong trường hợp là quặng Silicate).",
+        "en": "This Chapter covers zinc and zinc alloys, and certain articles thereof. Zinc is mainly extracted from the sulphide ore (zinc blende or sphalerite), though the carbonate and silicate ores (smithsonite, hemimorphite, etc.) are also used (see the Explanatory Note to heading 26.08). In either case, the ore is first concentrated and is then roasted or calcined to produce zinc oxide (in the case of the sulphide and carbonate ores) or water free zinc silicate (in the case of silicate ores). Zinc is extracted"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Kẽm thu được từ các quá trình này bằng phương pháp khử nhiệt hoặc điện phân. Kẽm là kim loại màu trắng xanh, chống ăn mòn trong khí quyển, được dùng trong xây dựng và làm lớp phủ bảo vệ cho kim loại khác. Các hợp kim kẽm chính thuộc chương này theo Chú giải 5 Phần XV bao gồm:\n(1) Hợp kim kẽm-nhôm, thường có thêm đồng hoặc magiê, dùng để đúc áp lực (ví dụ, các bộ phận ô tô, xe đạp), sản xuất tấm, dụng cụ ép, và anốt bảo vệ.\n(2) Hợp kim kẽm-đồng (hợp kim kim loại núm) dùng để đúc, dập.",
+        "en": "Zinc is extracted from these by thermal reduction or electrolysis. Zinc is a bluish-white metal, resistant to atmospheric corrosion, used in building and as protective coverings for other metals. The principal zinc alloys which may fall in this Chapter under the provisions of Note 5 to Section XV are:\n(1) Zinc-aluminium alloys, usually with added copper or magnesium, used for die-casting (e.g., automobile parts, cycle parts), producing sheets, press-tools, and as cathodic protection anodes.\n(2) Zinc-copper alloys (button metal alloys), for casting, stamping, etc."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chương này bao gồm:\n(A) Kẽm thương phẩm và kẽm chưa qua gia công, phế liệu và các mảnh vụn (nhóm 79.01 và 79.02).\n(B) Bụi, bột và vẩy kẽm (nhóm 79.03).\n(C) Các sản phẩm thu được bởi các phương pháp cán, kéo, ép kẽm chưa qua gia công thuộc nhóm 79.01 (các nhóm 79.04 và 79.05).\n(D) Các ống, ống dẫn và các phụ kiện, các sản phẩm khác của nhóm 79.07, bao gồm tất cả các sản phẩm kẽm khác trừ các sản phẩm nằm trong Chú giải 1 của Phần XV hoặc thuộc Chương 82 hoặc Chương 83 hoặc các sản phẩm được mô tả chi tiết hơn thuộc nơi khác của Danh mục. Các sản phẩm và mặt hàng bằng kẽm có thể qua các quá trình xử lý được đề cập tại phần cuối của chú giải chi tiết Chương 72 mà không ảnh hưởng đến việc phân loại. Việc phân loại các sản phẩm phức hợp được giải thích trong chú giải Tổng quát phần XV.",
+        "en": "The Chapter covers :\n(A) Spelter and unwrought zinc, and waste and scrap (headings 79.01 and 79.02).\n(B) Zinc dust, powders and flakes (heading 79.03).\n(C) Products generally obtained by rolling, drawing or extruding the unwrought zinc of heading 79.01 (headings 79.04 and 79.05).\n(D) Tubes, pipes and fittings and the other articles of the residual heading 79.07 which covers all other zinc articles other than those covered by Note 1 to Section XV or included in Chapter 82 or 83 or those more specifically covered elsewhere in the Nomenclature. Products and articles of zinc may be subjected to various treatments referred to at the end of the General Explanatory Note to Chapter 72, and do not affect the classification of the goods. The classification of composite articles is explained in the General Explanatory Note to Section XV."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "79.01",
+      "heading_title": {
+        "vi": "Kẽm chưa gia công",
+        "en": "Unwrought zinc."
+      }
+    },
+    {
+      "heading_id": "79.02",
+      "heading_title": {
+        "vi": "Phế liệu và mảnh vụn kẽm.",
+        "en": "Zinc waste and scrap."
+      }
+    },
+    {
+      "heading_id": "79.03",
+      "heading_title": {
+        "vi": "Bột, bụi và vảy kẽm.",
+        "en": "Zinc dust, powders and flakes."
+      }
+    },
+    {
+      "heading_id": "79.04",
+      "heading_title": {
+        "vi": "Kẽm ở dạng thanh, que, hình và dây.",
+        "en": "Zinc bars, rods, profiles and wire."
+      }
+    },
+    {
+      "heading_id": "79.05",
+      "heading_title": {
+        "vi": "Kẽm ở dạng tấm, lá, dải và lá mỏng.",
+        "en": "Zinc plates, sheets, strip and foil."
+      }
+    },
+    {
+      "heading_id": "79.07",
+      "heading_title": {
+        "vi": "Các sản phẩm khác bằng kẽm.",
+        "en": "Other articles of zinc."
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "heading_id": "88.01",
+  "heading_title": {
+    "vi": "Khí cầu và khinh khí cầu điều khiển được; tàu lượn, tàu lượn treo và các phương tiện bay khác không dùng động cơ.",
+    "en": "Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các phương tiện bay nhẹ hơn không khí (khí cầu và khinh khí cầu điều khiển được) và các phương tiện bay nặng hơn không khí không dùng động cơ (tàu lượn, tàu lượn treo, diều). Nó bao gồm các khí cầu tự do, có dây giữ, và các loại dùng trong khí tượng (khí cầu thăm dò, hoa tiêu, đo độ cao mây). Tàu lượn và tàu lượn treo hoạt động dựa vào các dòng khí quyển. Diều được đề cập là loại được nối giữ với mặt đất. Nhóm này không bao gồm các tàu lượn được thiết kế để gắn động cơ (nhóm 88.02), khí cầu đồ chơi, diều đồ chơi và các mô hình để trang trí, trưng bày hoặc giải trí (nhóm 95.03).",
+    "en": "This heading covers lighter-than-air aircraft (balloons and dirigibles) and heavier-than-air non-powered aircraft (gliders, hang gliders, kites). It includes free or captive balloons and those used in meteorology (sounding, pilot, ceiling balloons). Gliders and hang gliders operate using atmospheric currents. Kites covered are those moored to the ground. The heading excludes gliders designed to be fitted with an engine (heading 88.02), toy balloons, toy kites, and models for decorative, demonstrational, or recreational purposes (heading 95.03)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(I) KHÍ CẦU VÀ KHINH KHÍ CẦU ĐIỀU KHIỂN ĐƯỢC\nNhóm này bao gồm các phương tiện bay nhẹ hơn không khí, không phân biệt mục đích sử dụng (quân sự, thể thao, khoa học, quảng cáo...). Loại này gồm những khí cầu tự do và khí cầu có dây giữ (ví dụ, giữ chặt vào mặt đất bằng cáp), và những khinh khí cầu có thể điều khiển cơ khí được.\nNhóm này cũng bao gồm các loại khí cầu được sử dụng trong ngành hàng không hoặc khí tượng:\n(1) Các khí cầu thăm dò.\n(2) Các khí cầu hoa tiêu.\n(3) Các khí cầu đo độ cao mây.\nCác loại khí cầu đồ chơi của trẻ em bị loại trừ (nhóm 95.03).",
+        "en": "(I) BALLOONS AND DIRIGIBLES\nThis group covers lighter-than-air aircraft whatever their intended use (military, sporting, scientific, publicity, etc.). These comprise balloons, free or captive (i.e., moored to the ground by a cable), and mechanically driven dirigibles.\nThis group also includes balloons of the following types, used in aeronautics or meteorology:\n(1) Sounding balloons.\n(2) Pilot balloons.\n(3) Ceiling balloons.\nChildren’s toy balloons are excluded (heading 95.03)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(II) TÀU LƯỢN VÀ TÀU LƯỢN TREO\nTàu lượn là những phương tiện bay nặng hơn không khí, hoạt động dựa theo các dòng khí quyển.",
+        "en": "(II) GLIDERS AND HANG GLIDERS\nGliders are heavier-than-air aircraft which stay airborne using atmospheric currents."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, các tàu lượn trang bị hoặc được thiết kế có gắn động cơ được phân loại vào nhóm 88.02. Tàu lượn treo, đặc biệt, bao gồm cánh hình tam giác vuốt về sau (cánh đen ta), cho phép cố định một hoặc hai người vào tàu lượn bởi bộ dây treo để thực hiện một số thao tác bay.",
+        "en": "However, gliders fitted with or designed to be fitted with an engine are classified in heading 88.02. Hang gliders include, in particular, delta wings which enable one or two persons, suspended by a harness, to perform certain aerial manoeuvres."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(III) CÁC PHƯƠNG TIỆN BAY KHÁC KHÔNG DÙNG ĐỘNG CƠ\nNhóm này bao gồm diều, là những phương tiện bay nặng hơn không khí, không có máy đẩy. Diều được đề cập ở đây là loại được nối giữ với mặt đất bằng một loại dây tương tự như những khí cầu có dây giữ và có thể được sử dụng, ví dụ, để mang các dụng cụ đo đạc khí tượng.\nNhóm này không bao gồm diều được thiết kế làm đồ chơi (nhóm 95.03).\nNhóm này không bao gồm các mô hình, cho dù có được chế tạo chính xác theo tỷ lệ hay không, để trang trí (ví dụ, nhóm 44.20 hoặc 83.06), để trưng bầy (nhóm 90.23), hoặc các đồ chơi hoặc nhằm mục đích giải trí (nhóm 95.03).",
+        "en": "(III) OTHER NON-POWERED AIRCRAFT\nThis group includes kites which are heavier-than-air aircraft without mechanical propulsion. Kites are moored to the ground by a line in the same way as captive balloons and may be used, for example, to carry meteorological instruments.\nKites clearly designed as toys are excluded (heading 95.03).\nThe heading also excludes models, whether or not built accurately to scale, used, for example, for decoration (e.g.,heading 44.20 or 83.06), for purely demonstrational purposes (heading 90.23), or as toys or models for recreational purposes (heading 95.03)."
+      }
+    }
+  ],
+  "subheadings": []
+}

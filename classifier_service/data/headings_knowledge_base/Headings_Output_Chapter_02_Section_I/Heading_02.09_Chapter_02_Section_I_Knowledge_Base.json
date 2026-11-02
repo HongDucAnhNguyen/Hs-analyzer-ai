@@ -1,0 +1,46 @@
+{
+  "heading_id": "02.09",
+  "heading_title": {
+    "vi": "Mỡ lợn không dính nạc và mỡ gia cầm, chưa nấu chảy hoặc chiết xuất cách khác, tươi, ướp lạnh, đông lạnh, muối, ngâm nước muối, làm khô hoặc hun khói.",
+    "en": "Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, dried or smoked."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm mỡ lợn không dính nạc (kể cả loại chỉ dùng cho công nghiệp) và mỡ gia cầm chưa nấu chảy hoặc chiết xuất. Nhóm này loại trừ thịt lợn ba chỉ và các loại thịt tương tự có tỷ lệ mỡ cao (phân loại vào nhóm 02.03 hoặc 02.10) và mỡ của động vật có vú ở biển (Chương 15). Mỡ nấu chảy hoặc chiết xuất được phân loại vào nhóm 15.01.",
+    "en": "This heading covers pig fat free of lean meat (even if only suitable for industrial use) and poultry fat, not rendered or otherwise extracted. It excludes streaky pork and similar meats with a high proportion of fat (classified in heading 02.03 or 02.10) and fat from marine mammals (Chapter 15). Rendered or otherwise extracted fats are classified in heading 15.01."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Mỡ lợn của nhóm này được giới hạn là mỡ không dính nạc; mỡ như vậy thuộc nhóm này ngay cả khi chỉ thích hợp dùng cho công nghiệp. Thịt ở các dạng ăn được nói chung bị loại trừ khỏi nhóm này (ví dụ, thịt lợn ba chỉ và các loại thịt tương tự có tỷ lệ mỡ giắt cao và mỡ tạo thành lớp dính với thịt tuỳ trường hợp được phân loa ̣i vào nhóm 02.03 hoặc 02.10).\nĐặc biệt nhóm này bao gồm mỡ chủ yếu ở xung quanh những bộ phận nội tạng của lợn mà khi được nấu chảy hoặc chiết xuất cách khác thì được phân loại vào nhóm 15.01.\nMỡ của gia cầm nuôi hoặc hoang (ví dụ của ngỗng), chưa nấu chảy hoặc chưa chiết xuất cách khác, cũng thuộc nhóm này; khi được nấu chảy hoặc chiết xuất cách khác thì chúng bị loại trừ (nhóm 15.01).\nMỡ của những động vật có vú ở biển bị loại trừ (Chương 15).",
+        "en": "The pig fat of this heading is restricted to fat free of lean meat; such fat falls in the heading even if suitable only for industrial use. Meat in forms commonly eaten as such is excluded (heading 02.03 or 02.10 as the case may be, for example, streaky pork and similar meals interlarded with a high proportion of fat, and fat with an adhering layer of meat).\nThis heading includes, in particular, the fat found mainly round the pig’s viscera and which, when rendered, or otherwise extracted, is classified in heading 15.01.\nFat of domestic or wild poultry (e.g., of geese), not rendered or otherwise extracted, also falls in the heading; when rendered or otherwise extracted it is excluded (heading 15.01).\nFat from marine mammals is excluded (Chapter 15)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0209.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Của lợn",
+        "en": "Of pigs"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0209.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

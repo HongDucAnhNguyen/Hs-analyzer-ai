@@ -1,0 +1,204 @@
+{
+  "heading_id": "60.06",
+  "heading_title": {
+    "vi": "Vải dệt kim hoặc móc khác.",
+    "en": "Other knitted or crocheted fabrics."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải dệt kim hoặc móc không được nêu ở các nhóm trước của Chương 60. Cụ thể, nhóm này bao gồm vải dệt kim sợi ngang và vải móc có khổ rộng hơn 30 cm, không chứa sợi đàn hồi hoặc sợi cao su, hoặc có tỷ trọng các loại sợi này dưới 5% theo khối lượng.\n\nNhóm này không bao gồm:\n(a) Băng y tế (nhóm 30.05).\n(b) Nhãn, phù hiệu và các mặt hàng tương tự (nhóm 58.07).\n(c) Vải thêu (nhóm 58.10).\n(d) Vải thuộc Chương 59, ví dụ vải đã ngâm tẩm, tráng, phủ (nhóm 59.03 hoặc 59.07), vải cao su hóa (nhóm 59.06), bấc đèn (nhóm 59.08).\n(e) Các mặt hàng hoàn thiện theo nghĩa của Chú giải 7 Phần XI.",
+    "en": "This heading covers knitted or crocheted fabrics other than those of the preceding headings of Chapter 60. Specifically, it includes weft knits and crocheted fabrics of a width exceeding 30 cm, containing no elastomeric yarn or rubber thread or containing by weight less than 5% of such yarn or thread.\n\nThis heading excludes:\n(a) Bandages, medicated or put up for retail sale (heading 30.05).\n(b) Labels, badges and similar articles (heading 58.07).\n(c) Embroidered fabrics (heading 58.10).\n(d) Fabrics of Chapter 59, e.g., impregnated, coated, or covered fabrics (heading 59.03 or 59.07), rubberised fabrics (heading 59.06), and wicks (heading 59.08).\n(e) Made up articles within the meaning of Note 7 to Section XI."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm vải dệt kim và móc loại trừ vải thuộc các nhóm trước của Chương này.\nNhóm này bao gồm, ví dụ như vải dệt kim sợi ngang và vải móc có khổ rộng hơn 30 cm, không chứa sợi đàn hồi hoặc sợi cao su hoặc có tỷ trọng sợi đàn hồi hoặc sợi cao su dưới 5%. Chú giải chi tiết của Chương này giải thích nghĩa của cụm từ “dệt kim sợi ngang” và “vải móc” (xem Khái quát chung, các Phần (A) (I) và (B) tương ứng).",
+        "en": "This heading covers knitted or crocheted fabrics other than those of the preceding headings of this Chapter.\nIt covers, for example, weft knits and crocheted fabrics of a width exceeding 30 cm, containing no elastomeric yarn or rubber thread or containing by weight less than 5 % of such yarn or thread. The Explanatory Note to this Chapter explains the meaning of “weft knits” and “crocheted fabrics” (see General, Parts (A) (I) and (B), respectively)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Băng, đã tẩm thuốc hoặc đóng gói để bán lẻ (nhóm 30.05).\n(b) Các loại nhãn, phù hiệu và các mặt hàng tương tự, dệt kim hoặc móc thuộc nhóm 58.07.",
+        "en": "This heading also excludes:\n(a) Bandages, medicated or put up for retail sale (heading 30.05).\n(b) Labels, badges and similar articles, knitted or crocheted, of heading 58.07."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(c) Vải thêu thuộc nhóm 58.10.\n(d) Vải thuộc Chương 59 (Ví dụ: vải đã được ngâm tẩm, tráng, phủ hoặc ép thuộc nhóm 59.03 hoặc 59.07, vải cao su hóa thuộc nhóm 59.06 và bấc hoặc vải dùng làm mạng đèn măng sông thuộc nhóm 59.08).\n(e) Các mặt hàng hoàn thiện theo nghĩa của Chú giải 7 Phần XI (xem cả Phần (II) Chú giải tổng quát của Phần).",
+        "en": "(c) Embroidered fabrics of heading 58.10.\n(d) Fabrics of Chapter 59 (e.g., impregnated, coated, covered or laminated fabrics of heading 59.03 or 59.07, rubberised fabrics of heading 59.06, andwicks or gas mantle fabric of heading 59.08).\n(e) Made up articles within the meaning of Note 7 to Section XI (see also Part (II) of the General Explanatory Note to the Section)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6006.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ lông cừu hoặc lông động vật loại mịn",
+        "en": "- Of wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ bông:",
+        "en": "- Of cotton:"
+      },
+      "subheading_id": "6006.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ bông:",
+        "en": "- Of cotton:"
+      },
+      "subheading_id": "6006.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ bông:",
+        "en": "- Of cotton:"
+      },
+      "subheading_id": "6006.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ bông:",
+        "en": "- Of cotton:"
+      },
+      "subheading_id": "6006.24",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ xơ sợi tổng hợp:",
+        "en": "- Of synthetic fibres:"
+      },
+      "subheading_id": "6006.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ xơ sợi tổng hợp:",
+        "en": "- Of synthetic fibres:"
+      },
+      "subheading_id": "6006.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ xơ sợi tổng hợp:",
+        "en": "- Of synthetic fibres:"
+      },
+      "subheading_id": "6006.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ xơ sợi tổng hợp:",
+        "en": "- Of synthetic fibres:"
+      },
+      "subheading_id": "6006.34",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ xơ tái tạo:",
+        "en": "- Of artificial fibres:"
+      },
+      "subheading_id": "6006.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ xơ tái tạo:",
+        "en": "- Of artificial fibres:"
+      },
+      "subheading_id": "6006.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ xơ tái tạo:",
+        "en": "- Of artificial fibres:"
+      },
+      "subheading_id": "6006.43",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Từ xơ tái tạo:",
+        "en": "- Of artificial fibres:"
+      },
+      "subheading_id": "6006.44",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6006.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

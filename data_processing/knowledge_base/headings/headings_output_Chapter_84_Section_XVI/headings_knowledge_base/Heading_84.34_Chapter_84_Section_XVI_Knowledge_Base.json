@@ -1,0 +1,79 @@
+{
+  "heading_id": "84.34",
+  "heading_title": {
+    "vi": "Máy vắt sữa và máy chế biến sữa.",
+    "en": "Milking machines and dairy machinery."
+  },
+  "summary": {
+    "vi": "Nhóm 84.34 bao gồm máy vắt sữa và máy chế biến sữa, dùng cho cả nông nghiệp và công nghiệp. Nhóm này bao gồm các loại máy vắt sữa cơ khí, từ các hệ thống thùng vắt đơn giản đến robot vắt sữa tự động phức tạp, cùng các bộ phận cấu thành. Về máy chế biến sữa, nhóm này bao gồm máy đồng hóa sữa. Ngoài ra, nhóm còn bao gồm các máy móc dùng để chuyển hóa sữa thành các sản phẩm khác như máy làm bơ (máy đánh, máy liên hợp, máy đổ khuôn) và máy làm phô mát (máy đánh sữa đông, máy tạo khuôn, máy ép). Tuy nhiên, nhóm này loại trừ nhiều loại máy móc quan trọng trong ngành sữa. Cụ thể, các thiết bị hoạt động dựa trên trao đổi nhiệt như máy tiệt trùng, máy cô đặc (nhóm 84.19), thiết bị làm lạnh (nhóm 84.18), máy tách kem và máy lọc (nhóm 84.21) không thuộc nhóm này. Các máy đóng gói, đóng chai, hoặc cân (nhóm 84.22, 84.23) và các thiết bị gia dụng (nhóm 82.10, 85.09) cũng bị loại trừ.",
+    "en": "Heading 84.34 covers milking machines and dairy machinery, for both agricultural and industrial use. This heading includes mechanical milking machines, from simple milking pail systems to complex automatic milking robots, along with their constituent parts. For dairy machinery, it includes milk homogenisers. Additionally, the heading covers machinery for converting milk into other products, such as butter-making machines (churns, combined churns and workers, moulding machines) and cheese-making machines (curd breaking machines, moulding machines, presses). However, this heading excludes many important machines in the dairy industry. Specifically, apparatus operating on the principle of heat exchange like pasteurizers and condensers (heading 84.19), refrigerating equipment (heading 84.18), and cream separators and filters (heading 84.21) are not included. Machines for packaging, bottling, or weighing (headings 84.22, 84.23) and domestic appliances (headings 82.10, 85.09) are also excluded."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm máy vắt sữa cơ khí và các máy móc khác, dùng cho trang trại hoặc công nghiệp, để xử lý sữa hoặc chế biến sữa thành các sản phẩm sữa khác.\n(I) MÁY VẮT SỮA",
+        "en": "This heading covers mechanical milking machines, and other machinery, whether for farm or industrial purposes, used in the treatment of milk or for converting it into other dairy products.\n(I) MILKING MACHINES"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Mô tả cấu tạo và hoạt động của máy vắt sữa, bao gồm cụm núm vắt, máy kích thích mạch động, thùng chứa sữa, và bộ phận bơm chân không. Các máy dung tích lớn có thể không có thùng vắt sữa, sữa được chuyển trực tiếp qua đường ống. Nhóm này cũng bao gồm robot vắt sữa (hệ thống vắt sữa tự nguyện) và các bộ phận của nó. Các bộ phận tạo thành một đơn vị chức năng thuộc nhóm này theo Chú giải 4 Phần XVI. Tuy nhiên, các thiết bị không trực tiếp vắt sữa như ống lọc, thiết bị làm lạnh, thiết bị rửa được phân loại vào nhóm riêng của chúng.\n(II) MÁY CHẾ BIẾN SỮA\nBao gồm máy đồng hóa sữa. Các máy chủ yếu dựa vào trao đổi nhiệt bị loại trừ (nhóm 84.19), ví dụ: máy tiệt trùng, máy cô đặc, máy sấy, máy làm lạnh sữa. Các loại bị loại trừ khác gồm: (a) Thiết bị làm lạnh và thùng làm lạnh sữa có gắn thiết bị bay hơi (nhóm 84.18).",
+        "en": "Describes the structure and operation of milking machines, including teat-cup clusters, pulsators, milk pails, and vacuum pump units. Larger capacity machines may lack milk pails, with milk passing directly through a pipeline. This heading also includes milking robots (voluntary milking systems) and their components. Components forming a functional unit under Note 4 to Section XVI are classified here. However, apparatus not directly contributing to milking, such as filters, cooling devices, and cleaning apparatus, are classified in their own headings.\n(II) MACHINES FOR PROCESSING MILK\nIncludes homogenisers. Machines depending essentially on heat exchange are excluded (heading 84.19), e.g., pasteurisers, condensers, drying apparatus, milk coolers. Other exclusions include: (a) Refrigerating appliances and milk-cooling vats incorporating an evaporator (heading 84.18)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các loại bị loại trừ tiếp theo:\n(b) Máy tách kem, máy ép lọc và các máy lọc khác (nhóm 84.21).\n(c) Máy rửa thùng chứa, máy đóng chai hoặc đóng hộp sữa (nhóm 84.22).\n(III) MÁY CHUYỂN HÓA SỮA THÀNH CÁC SẢN PHẨM SỮA KHÁC\nNhóm này bao gồm máy làm bơ và phô mát, nhưng loại trừ máy tách kem (nhóm 84.21). Bao gồm:\n(A) Máy làm bơ: máy làm bơ dạng thùng quay, máy làm bơ liên hợp, máy đổ khuôn bơ (không bao gồm máy gói hoặc cân thuộc nhóm 84.22 và 84.23).\n(B) Máy làm phô mát: máy đánh sữa đông, máy tạo khuôn phô mát (không bao gồm máy gói hoặc cân thuộc nhóm 84.22 và 84.23), máy ép phô mát.\nLưu ý về các loại thùng: Thùng có thiết bị gia nhiệt hoặc làm lạnh thuộc nhóm 84.18 hoặc 84.19. Thùng có thiết bị cơ khí như máy khuấy thuộc nhóm này nếu chuyên dùng cho ngành sữa, nếu không thì thuộc nhóm 84.79.",
+        "en": "Further exclusions:\n(b) Cream separators, filter-presses and other filtering machinery (heading 84.21).\n(c) Container washing machines, milk bottling or canning machines (heading 84.22).\n(III) MACHINERY FOR CONVERTING MILK INTO OTHER DAIRY PRODUCTS\nThis heading covers butter and cheese making machines, but excludes cream separators (heading 84.21). It includes:\n(A) Butter-making machines: churns, combined churns and workers, butter moulding machines (excluding wrapping or weighing machines of heading 84.22 and 84.23).\n(B) Cheese-making machines: machines for breaking up curd, cheese moulding machines (excluding wrapping or weighing machines of heading 84.22 and 84.23), cheese presses.\nNote on vats: Vats with heating or cooling equipment fall in heading 84.18 or 84.19. Vats with mechanical features like stirrers fall in this heading if specialized for dairy use, otherwise in heading 84.79."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Thùng không có thiết bị nhiệt hoặc cơ khí được phân loại theo vật liệu cấu thành (ví dụ: nhóm 73.09, 73.10, 74.19, 76.11, 76.12).\nCÁC BỘ PHẬN\nCác bộ phận của máy thuộc nhóm này được phân loại ở đây, ví dụ: thùng, nắp, máy kích thích mạch động, núm vắt (trừ đệm cao su thuộc nhóm 40.16) cho máy vắt sữa; thùng làm bơ; khuôn cho máy đổ khuôn bơ và phô mát. Loại trừ các thiết bị gia dụng thuộc nhóm 82.10 hoặc 85.09.",
+        "en": "Vats without thermal or mechanical equipment are classified by their constituent material (e.g., heading 73.09, 73.10, 74.19, 76.11, 76.12).\nPARTS\nParts of the machines of this heading are classified here, e.g., pails, lids, pulsators, teat-cups (other than rubber liners of heading 40.16) for milking machines; butter churn barrels; moulds for butter and cheese moulding machines. Domestic appliances of heading 82.10 or 85.09 are excluded."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8434.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy vắt sữa",
+        "en": "Milking machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8434.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy chế biến sữa",
+        "en": "Dairy machinery"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8434.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

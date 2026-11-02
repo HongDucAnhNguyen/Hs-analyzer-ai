@@ -1,0 +1,79 @@
+{
+  "chapter_id": "35",
+  "chapter_title": {
+    "vi": "Các chất chứa albumin; các dạng tinh bột biến tính; keo hồ; enzym",
+    "en": "Albuminoidal substances; modified starches; glues; enzymes"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm các chất chứa albumin, các dạng tinh bột biến tính, keo hồ và enzym. Cụ thể, chương này bao gồm: Casein, albumin, gelatin và các loại keo có nguồn gốc động vật khác (nhóm 35.01, 35.02, 35.03); Pepton, các chất protein khác và bột da sống (nhóm 35.04); Dextrin, các dạng tinh bột biến tính khác và keo từ tinh bột (nhóm 35.05); Các loại keo và chất kết dính đã điều chế khác, đặc biệt là các sản phẩm đóng gói để bán lẻ với trọng lượng tịnh không quá 1 kg (nhóm 35.06); và Enzym, kể cả enzym đã điều chế (nhóm 35.07). Chương này định nghĩa \"dextrin\" cho mục đích của nhóm 35.05 là sản phẩm phân giải tinh bột có hàm lượng đường khử không quá 10%; nếu trên 10% sẽ thuộc nhóm 17.02. Các loại trừ chính của chương này bao gồm: Men (nhóm 21.02); các phần phân đoạn của máu và thuốc (Chương 30); các chế phẩm enzym dùng để tiền thuộc da (nhóm 32.02) hoặc dùng để ngâm, giặt (Chương 34); protein đã làm cứng (nhóm 39.13); và các sản phẩm gelatin của ngành in (Chương 49).",
+    "en": "This chapter covers albuminoidal substances, modified starches, glues, and enzymes. Specifically, it includes: Casein, albumins, gelatin, and other glues of animal origin (headings 35.01, 35.02, 35.03); Peptones, other protein substances, and hide powder (heading 35.04); Dextrins, other modified starches, and starch-based glues (heading 35.05); Other prepared glues and adhesives, particularly products put up for retail sale not exceeding a net weight of 1 kg (heading 35.06); and Enzymes, including prepared enzymes (heading 35.07). The chapter defines \"dextrins\" for the purpose of heading 35.05 as starch degradation products with a reducing sugar content not exceeding 10%; products exceeding 10% fall in heading 17.02. Major exclusions from this chapter include: Yeasts (heading 21.02); blood fractions and medicaments (Chapter 30); enzymatic preparations for pre-tanning (heading 32.02) or for soaking or washing (Chapter 34); hardened proteins (heading 39.13); and gelatin products of the printing industry (Chapter 49)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1.- Chương này không bao gồm:\n(a) Men (nhóm 21.02);\n(b) Các phần phân đoạn của máu (trừ albumin máu chưa điều chế dùng cho phòng bệnh hoặc chữa bệnh), thuốc hoặc các sản phẩm khác thuộc Chương 30;\n(c) Các chế phẩm chứa enzym dùng trong quá trình tiền thuộc da (nhóm 32.02);\n(d) Các chế phẩm dùng để ngâm hoặc rửa có chứa enzym hoặc các sản phẩm khác thuộc Chương 34;\n(e) Các loại protein đã làm cứng (nhóm 39.13); hoặc\n(f) Các sản phẩm gelatin thuộc ngành công nghiệp in (Chương 49).",
+        "en": "1.- This Chapter does not cover:\n(a) Yeasts (heading 21.02);\n(b) Blood fractions (other than blood albumin not prepared for therapeutic or prophylactic uses), medicaments or other products of Chapter 30;\n(c) Enzymatic preparations for pre-tanning (heading 32.02);\n(d) Enzymatic soaking or washing preparations or other products of Chapter 34;\n(e) Hardened proteins (heading 39.13); or\n(f) Gelatin products of the printing industry (Chapter 49)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2.- Theo mục đích của nhóm 35.05, khái niệm \"dextrin\" chỉ các sản phẩm tinh bột đã phân giải với hàm lượng đường khử, tính theo hàm lượng chất khô dextroza, không quá 10%.\nCác sản phẩm như vậy có hàm lượng đường khử trên 10% sẽ thuộc nhóm 17.02.",
+        "en": "2.- For the purposes of heading 35.05, the term “dextrins” means starch degradation products with a reducing sugar content, expressed as dextrose on the dry substance, not exceeding 10%.\nSuch products with a reducing sugar content exceeding 10 % fall in heading 17.02."
+      }
+    }
+  ],
+  "general": [],
+  "headings": [
+    {
+      "heading_id": "35.01",
+      "heading_title": {
+        "vi": "Casein, các muối của casein và các dẫn xuất casein khác; keo casein.",
+        "en": "Casein, caseinates and other casein derivatives; casein glues."
+      }
+    },
+    {
+      "heading_id": "35.02",
+      "heading_title": {
+        "vi": "Albumin (kể cả các chất cô đặc của hai hoặc nhiều whey protein, chứa trên 80% whey protein tính theo trọng lượng khô), các muối của albumin và các dẫn xuất albumin khác.",
+        "en": "Albumins (including concentrates of two or more whey proteins, containing by weight more than 80% whey proteins, calculated on the dry matter), albuminates and other albumin derivatives."
+      }
+    },
+    {
+      "heading_id": "35.03",
+      "heading_title": {
+        "vi": "Gelatin (kể cả gelatin ở dạng tấm hình chữ nhật (kể cả hình vuông), đã hoặc chưa gia công bề mặt hoặc tạo màu) và các dẫn xuất gelatin; keo điều chế từ bong bóng cá; các loại keo khác có nguồn gốc động vật, trừ keo casein thuộc nhóm 35.01.",
+        "en": "Gelatin (including gelatin in rectangular (including square) sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading 35.01."
+      }
+    },
+    {
+      "heading_id": "35.04",
+      "heading_title": {
+        "vi": "Pepton và các dẫn xuất của chúng; protein khác và các dẫn xuất của chúng, chưa được chi tiết hoặc ghi ở nơi khác; bột da sống, đã hoặc chưa crom hóa.",
+        "en": "Peptones and their derivatives; other protein substances and their derivatives, not elsewhere specified or included; hide powder, whether or not chromed."
+      }
+    },
+    {
+      "heading_id": "35.05",
+      "heading_title": {
+        "vi": "Dextrin và các dạng tinh bột biến tính khác (ví dụ, tinh bột đã tiền gelatin hóa hoặc este hóa); các loại keo dựa trên tinh bột, hoặc dextrin hoặc các dạng tinh bột biến tính khác.",
+        "en": "Dextrins and other modified starches (for example, pregelatinised or esterified starches); glues based on starches, or on dextrins or other modified starches."
+      }
+    },
+    {
+      "heading_id": "35.06",
+      "heading_title": {
+        "vi": "Keo đã điều chế và các chất dính đã điều chế khác, chưa được chi tiết hoặc ghi ở nơi khác; các sản phẩm phù hợp dùng như keo hoặc các chất kết dính, đã đóng gói để bán lẻ như keo hoặc như các chất kết dính, trọng lượng tịnh không quá 1 kg.",
+        "en": "Prepared glues and other prepared adhesives, not elsewhere specified or included; products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1 kg."
+      }
+    },
+    {
+      "heading_id": "35.07",
+      "heading_title": {
+        "vi": "Enzym; enzym đã chế biến chưa được chi tiết hoặc ghi ở nơi khác.",
+        "en": "Enzymes; prepared enzymes not elsewhere specified or included."
+      }
+    }
+  ]
+}

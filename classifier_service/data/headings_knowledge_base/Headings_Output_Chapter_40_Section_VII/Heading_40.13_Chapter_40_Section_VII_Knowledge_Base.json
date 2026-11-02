@@ -1,0 +1,58 @@
+{
+  "heading_id": "40.13",
+  "heading_title": {
+    "vi": "Săm các loại, bằng cao su.",
+    "en": "Inner tubes, of rubber."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm săm bằng cao su, được lắp vào lốp của các loại xe như ô tô con, xe rơ-moóc hoặc xe đạp.",
+    "en": "This heading covers inner tubes of rubber, which are fitted to the tires of vehicles such as motor cars, trailers, or bicycles."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Săm được lắp vào lốp của, ví dụ, ô tô con, xe rơ-moóc hoặc xe đạp.",
+        "en": "Inner tubes are fitted to the tyres of, for example, motor cars, trailers or bicycles."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4013.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho ô tô con (motor car) (kể cả ô tô chở người có khoang chở hành lý chung (station wagons) và ô tô đua), ô tô khách hoặc ô tô chở hàng",
+        "en": "Of a kind used on motor cars (including station wagons and racing cars), buses or lorries"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4013.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng cho xe đạp",
+        "en": "Of a kind used on bicycles"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4013.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "chapter_id": "87",
+  "chapter_title": {
+    "vi": "Xe trừ phương tiện chạy trên đường sắt hoặc đường tàu điện, và các bộ phận và phụ kiện của chúng",
+    "en": "Vehicles other than railway or tramway rolling-stock, and parts and accessories thereof"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm các loại xe tự hành và không tự hành (trừ phương tiện chạy trên đường sắt hoặc đường tàu điện), cùng các bộ phận và phụ kiện của chúng. Phạm vi bao gồm xe kéo (nhóm 87.01), xe có động cơ để chở người (nhóm 87.02, 87.03), chở hàng hóa (nhóm 87.04), xe chuyên dùng (nhóm 87.05), xe vận chuyển trong nhà máy (nhóm 87.09), xe chiến đấu bọc thép (nhóm 87.10), xe mô tô và xe đạp (nhóm 87.11, 87.12), xe cho người tàn tật (nhóm 87.13), xe đẩy trẻ em (nhóm 87.15), và rơ-moóc (nhóm 87.16). Chương này cũng bao gồm khung gầm, thân xe, bộ phận và phụ kiện (nhóm 87.06, 87.07, 87.08, 87.14).\n\nCác chú giải quan trọng:\n- Định nghĩa 'xe kéo': phương tiện được thiết kế chủ yếu để kéo hoặc đẩy một phương tiện, thiết bị hoặc vật nặng khác.\n- Khung gầm có động cơ gắn với cabin được xếp vào các nhóm từ 87.02 đến 87.04, không phải nhóm 87.06.\n- Nhóm 87.12 bao gồm tất cả xe đạp trẻ em, các loại xe trẻ em khác thuộc nhóm 95.03.\n\nCác loại trừ chính:\n- Phương tiện chạy trên đường sắt hoặc đường tàu điện được thiết kế chỉ để chạy trên đường ray.\n- Một số máy móc di động nhất định thuộc Phần XVI.\n- Xe và bộ phận dùng để trưng bày (nhóm 90.23).\n- Đồ chơi có bánh xe và xe đạp trẻ em (trừ xe đạp hai bánh) (nhóm 95.03).\n- Thiết bị thể thao mùa đông (nhóm 95.06).\n- Các phương tiện dùng trong công viên giải trí hoặc hội chợ (nhóm 95.08).",
+    "en": "This chapter covers self-propelled and non-self-propelled vehicles (other than railway or tramway rolling-stock), and their parts and accessories. The scope includes tractors (heading 87.01), motor vehicles for transporting persons (headings 87.02, 87.03), goods (heading 87.04), special purpose vehicles (heading 87.05), works trucks (heading 87.09), armored fighting vehicles (heading 87.10), motorcycles and cycles (headings 87.11, 87.12), carriages for disabled persons (heading 87.13), baby carriages (heading 87.15), and trailers (heading 87.16). The chapter also covers chassis, bodies, parts, and accessories (headings 87.06, 87.07, 87.08, 87.14).\n\nKey Notes:\n- Definition of 'tractors': vehicles constructed essentially for hauling or pushing another vehicle, appliance, or load.\n- Motor chassis fitted with cabs fall in headings 87.02 to 87.04, not heading 87.06.\n- Heading 87.12 includes all children's bicycles; other children's cycles fall in heading 95.03.\n\nMain Exclusions:\n- Railway or tramway rolling-stock designed solely for running on rails.\n- Certain mobile machines of Section XVI.\n- Vehicles and parts for demonstrational purposes (heading 90.23).\n- Wheeled toys and children's cycles (other than bicycles) (heading 95.03).\n- Winter sports equipment (heading 95.06).\n- Vehicles for amusement parks or fairgrounds (heading 95.08)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1.- Chương này không bao gồm phương tiện chạy trên đường sắt hoặc đường tàu điện được thiết kế chỉ để chạy trên đường ray.",
+        "en": "1. - This Chapter does not cover railway or tramway rolling-stock designed solely for running on rails."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2.- Theo mục đích của Chương này, \"xe kéo\" có nghĩa là phương tiện được thiết kế chủ yếu để kéo hoặc đẩy một phương tiện, một thiết bị hoặc một vật nặng khác, có hoặc không bao gồm bộ phận phụ trợ để vận chuyển các loại công cụ, hạt giống (seeds), phân bón hoặc hàng hoá khác, phù hợp với mục đích sử dụng chính của xe kéo. Máy móc và công cụ làm việc được thiết kế để gắn vào xe kéo của nhóm 87.01 mà các thiết bị này có thể thay đổi (tháo lắp) thì vẫn được phân loại vào các nhóm tương ứng của chúng ngay cả khi chúng đi kèm với xe kéo, và có hoặc không được gắn vào nó.",
+        "en": "2. - For the purposes of this Chapter, “ tractors ” means vehicles constructed essentially for hauling or pushing another vehicle, appliance or load, whether or not they contain subsidiary provision for the transport, in connection with the main use of the tractor, of tools, seeds, fertilisers or other goods. Machines and working tools designed for fitting to tractors of heading 87.01 as interchangeable equipment remain classified in their respective headings even if presented with the tractor, and whether or not mounted on it."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "3.- Khung gầm có động cơ gắn với cabin xếp ở các nhóm từ 87.02 đến 87.04, và không thuộc nhóm 87.06.",
+        "en": "3. - Motor chassis fitted with cabs fall in headings 87.02 to 87.04, and not in heading 87.06."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "4.- Nhóm 87.12 bao gồm tất cả xe đạp trẻ em các loại. Các loại xe trẻ em khác được xếp trong nhóm 95.03.",
+        "en": "4. - Heading 87.12 includes all children’s bicycles. Other children’s cycles fall in heading 95.03."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm. 1.- Phân nhóm 8708.22 bao gồm: (a) - kính chắn gió phía trước (kính chắn gió), kính cửa phía sau và các kính cửa khác, có khung; và (b) - kính chắn gió phía trước (kính chắn gió), kính cửa phía sau và các kính cửa khác, có hoặc không có khung, có gắn thiết bị sưởi hoặc các thiết bị điện hoặc điện tử khác, khi chỉ dùng hoặc chủ yếu dùng cho các xe có động cơ thuộc các nhóm từ 87.01 đến 87.05.",
+        "en": "Subheading Note. 1.- Subheading 8708.22 covers: (a) - front windscreens (windshields), rear windows and other windows, framed; and (b) - front windscreens (windshields), rear windows and other windows, whether or not framed, incorporating heating devices or other electrical or electronic devices, when suitable for use solely or principally with the motor vehicles of headings 87.01 to 87.05."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Trừ một số máy móc di động nhất định thuộc phần XVI (xem Chú giải chi tiết nhóm 87.01, 87.05 và 87.16), Chương này gồm các phương tiện sau đây :\n(1) Xe kéo (nhóm 87.01)\n(2) Xe có động cơ được thiết kế để chở người (nhóm 87.02 hoặc 87.03), hoặc chở hàng hóa (nhóm 87.04) hoặc xe chuyên dùng (nhóm 87.05).",
+        "en": "This Chapter covers the following vehicles, with the exception of certain mobile machines of Section XVI (see the Explanatory Notes to headings 87.01, 87.05 and 87.16) :\n(1) Tractors (heading 87.01).\n(2) Motor vehicles designed for the transport of persons (heading 87.02 or 87.03) or goods (heading 87.04) or for special purposes (heading 87.05)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(3) Xe vận chuyển, loại tự hành, không lắp kèm thiết bị nâng hạ hoặc cặp giữ, thuộc loại dùng trong nhà máy, kho hàng, bến cảng hoặc sân bay để vận chuyển hàng hóa trong phạm vi gần; xe kéo loại dùng trong sân ga đường sắt (nhóm 87.09).\n(4) Xe chiến đấu bọc thép , loại cơ giới (nhóm 87.10)\n(5) Xe mô tô và xe mô tô có gắn thùng có bánh bên cạnh; xe đạp và các loại xe dành cho người tàn tật, có hoặc không lắp động cơ (nhóm 87.11 đến 87.13)\n(6) Xe đẩy trẻ em (nhóm 87.15).\n(7) Rơ-moóc và sơ mi rơ-moóc, và xe khác, không có cơ cấu đẩy cơ khí, ví dụ: các xe được kéo bằng xe khác, được kéo hoặc đẩy bằng tay hoặc do súc vật kéo (nhóm 87.16)\nChương này còn bao gồm các phương tiện chạy trên đệm không khí được thiết kế để chạy trên mặt đất hoặc cả mặt đất và một số vùng nước (đầm lầy v.v..) (xem Chú giải 5 phần XVII).\nViệc phân loại một chiếc xe động cơ không bị ảnh hưởng bởi các hoạt động được tiến hành sau khi lắp ráp tất cả các bộ phận tạo thành một một chiếc xe động cơ hoàn chỉnh, chẳng hạn như: cố định số nhận dạng xe, hệ thống phanh sạc và xả khí từ hệ thống phanh, nạp của hệ thống trợ lái (tay lái trợ lực) và các hệ thống làm mát, điều hòa không khí, điều khiển đèn pha, điều khiển cơ cấu lái (căn chỉnh) và điều khiển của hệ thống phanh. Việc phân loại những hàng hoá này áp dụng theo Quy tắc giải thích tổng quát 2(a).\nXe chưa hoàn chỉnh hoặc chưa hoàn thiện, đã hoặc chưa lắp ráp, được phân loại như các xe đã hoàn chỉnh hoặc hoàn thiện với điều kiện chúng có các đặc trưng cơ bản của xe đã hoàn chỉnh hoặc hoàn thiện (xem Quy tắc giải thích tổng quát (2a). Ví dụ:\n(A) Xe có động cơ, chưa lắp bánh xe hoặc lốp và ắc quy.\n(B) Xe có động cơ chưa lắp động cơ hoặc nội thất.\n(C) Xe đạp không có yên và lốp.\nChương này cũng bao gồm các bộ phận và phụ tùng được coi là phù hợp để chỉ sử dụng hoặc chủ yếu sử dụng cho các xe thuộc Chương này, theo qui định của Chú giải Phần XVII (xem Chú giải tổng quát của Phần này).\nCần chú ý là các xe lội nước được phân loại như xe có động cơ thuộc Chương này. Tuy nhiên, Phương tiện bay được thiết kế đặc biệt để cũng có thể sử dụng như loại phương tiện đường bộ vẫn được phân loại như là phương tiện bay (nhóm 88.02).\nChương này loại trừ:",
+        "en": "(3) Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods, and tractors of the type used on railway station platforms (heading 87.09).\n(4) Armoured fighting vehicles, motorised (heading 87.10).\n(5) Motorcycles and side-cars; cycles and carriages for disabled persons, whether or not motorised (headings 87.11 to 87.13).\n(6) Baby carriages (heading 87.15).\n(7) Trailers and semi-trailers, and other vehicles, not mechanically propelled, i.e., vehicles for towing by another vehicle, pushing or pulling by hand or drawing by animals (heading 87.16).\nThe Chapter also covers air-cushion vehicles designed to travel over land or over both land and certain tracts of water (swamps, etc.) (see Note 5 to Section XVII).\nThe classification of a motor vehicle is not affected by operations which are carried out after assembling all parts into a complete motor vehicle, such as: vehicle identification number fixation, brake system charging and bleeding air from brakes, charging of the steering booster system (power steering) and cooling and conditioning systems, headlights regulation, wheel geometry regulation (alignment) and regulation of brakes. This includes classification by the application of General Interpretative Rule 2 (a).\nAn incomplete or unfinished vehicle, whether or not assembled, is classified as the corresponding complete or finished vehicle provided it has the essential character of the latter (see General Interpretative Rule 2 (a)), as for example :\n(A) A motor vehicle, not yet fitted with the wheels or tyres and battery.\n(B) A motor vehicle not equipped with its engine or with its interior fittings.\n(C) A bicycle without saddle and tyres.\nThis Chapter also covers parts and accessories which are identifiable as being suitable for use solely or principally with the vehicles included therein, subject to the provisions of the Notes to Section XVII (see the General Explanatory Note to the Section).\nIt should be noted that amphibious motor vehicles are classified as motor vehicles of this Chapter. But aircraft specially constructed so that they can also be used as road vehicles remain classified as aircraft (heading 88.02).\nThe Chapter also excludes :"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(a) Xe và bộ phận của xe, mô hình xe cắt ngang, được thiết kế cho mục đích trưng bày, không sử dụng cho các mục đích khác (nhóm 90.23).\n(b) Đồ chơi có bánh xe được thiết kế để trẻ em lái và xe đạp đồ chơi (trừ xe đạp trẻ em) (nhóm 95.03)\n(c) Thiết bị thể thao mùa đông như xe trượt băng, xe trượt tuyết và loại tương tự (nhóm 95.06).\n(d) Các phương tiện được thiết kế đặc biệt để sử dụng cho trò chơi di chuyển trong công viên giải trí hoặc trong các trò chơi hội chợ (nhóm 95.08).",
+        "en": "(a) Vehicles and parts thereof, cross-sectioned, designed for demonstrational purposes, unsuitable for other uses (heading 90.23).\n(b) Wheeled toys designed to be ridden by children, and children’s cycles (other than children’s bicycles) (heading 95.03).\n(c) Winter sports equipment such as bobsleighs, toboggans and the like (heading 95.06).\n(d) Vehicles specially designed for use on amusement park rides or fairground amusements (heading 95.08)."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "87.01",
+      "heading_title": {
+        "vi": "Xe kéo (trừ xe kéo thuộc nhóm 87.09) (+).",
+        "en": "Tractors (other than tractors of heading 87.09) (+)."
+      }
+    },
+    {
+      "heading_id": "87.02",
+      "heading_title": {
+        "vi": "Xe có động cơ chở 10 người trở lên, kể cả lái xe.",
+        "en": "Motor vehicles for the transport of ten or more persons, including the driver."
+      }
+    },
+    {
+      "heading_id": "87.03",
+      "heading_title": {
+        "vi": "Ô tô và các loại xe khác có động cơ được thiết kế chủ yếu để chở người (trừ các loại thuộc nhóm 87.02), kể cả ô tô chở người có khoang hành lý chung (station wagons) và ô tô đua.",
+        "en": "Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 87.02), including station wagons and racing cars."
+      }
+    },
+    {
+      "heading_id": "87.04",
+      "heading_title": {
+        "vi": "Xe có động cơ dùng để chở hàng (+).",
+        "en": "Motor vehicles for the transport of goods (+)."
+      }
+    },
+    {
+      "heading_id": "87.05",
+      "heading_title": {
+        "vi": "Xe chuyên dùng có động cơ, trừ các loại được thiết kế chủ yếu dùng để chở người hay hàng hóa (ví dụ, xe cứu hộ, xe cần cẩu, xe cứu hỏa, xe trộn bê tông, xe quét đường, xe phun tưới, xe sửa chữa lưu động, xe chiếu chụp X-quang).",
+        "en": "Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units) (+)."
+      }
+    },
+    {
+      "heading_id": "87.06",
+      "heading_title": {
+        "vi": "Khung gầm đã lắp động cơ, dùng cho xe có động cơ thuộc các nhóm từ 87.01 đến 87.05.",
+        "en": "Chassis fitted with engines, for the motor vehicles of headings 87.01 to 87.05."
+      }
+    },
+    {
+      "heading_id": "87.07",
+      "heading_title": {
+        "vi": "Thân xe (kể cả ca-bin), dùng cho xe có động cơ thuộc các nhóm từ 87.01 đến 87.05",
+        "en": "Bodies (including cabs), for the motor vehicles of headings 87.01 to 87.05."
+      }
+    },
+    {
+      "heading_id": "87.08",
+      "heading_title": {
+        "vi": "Bộ phận và phụ kiện của xe có động cơ thuộc các nhóm từ 87.01 đến 87.05",
+        "en": "Parts and accessories of the motor vehicles of headings 87.01 to 87.05."
+      }
+    },
+    {
+      "heading_id": "87.09",
+      "heading_title": {
+        "vi": "Xe vận chuyển, loại tự hành, không lắp kèm thiết bị nâng hạ hoặc cặp giữ, thuộc loại dùng trong nhà máy, kho hàng, bến cảng hoặc sân bay để vận chuyển hàng hóa trong phạm vi gần; xe kéo loại dùng trong sân ga xe lửa; bộ phận của các loại xe kể trên",
+        "en": "Works trucks, self-propelled, not fitted with lifting or handling equipment, of the type used in factories, warehouses, dock areas or airports for short distance transport of goods; tractors of the type used on railway station platforms; parts of the foregoing vehicles."
+      }
+    },
+    {
+      "heading_id": "87.10",
+      "heading_title": {
+        "vi": "Xe tăng và các loại xe chiến đấu bọc thép khác, loại cơ giới, có hoặc không lắp kèm vũ khí, và bộ phận của các loại xe này.",
+        "en": "Tanks and other armoured fighting vehicles, motorised, whether or not fitted with weapons, and parts of such vehicles."
+      }
+    },
+    {
+      "heading_id": "87.11",
+      "heading_title": {
+        "vi": "Mô tô (kể cả xe gắn máy có bàn đạp (moped)) và xe đạp có gắn động cơ phụ trợ, có hoặc không có thùng xe bên cạnh; thùng xe có bánh (side-cars).",
+        "en": "Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars."
+      }
+    },
+    {
+      "heading_id": "87.12",
+      "heading_title": {
+        "vi": "Xe đạp hai bánh và xe đạp khác (kể cả xe xích lô ba bánh chở hàng), không lắp động cơ.",
+        "en": "Bicycles and other cycles (including delivery tricycles), not motorised."
+      }
+    },
+    {
+      "heading_id": "87.13",
+      "heading_title": {
+        "vi": "Các loại xe dành cho người tàn tật, có hoặc không lắp động cơ hoặc cơ cấu đẩy cơ khí khác.",
+        "en": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled."
+      }
+    },
+    {
+      "heading_id": "87.14",
+      "heading_title": {
+        "vi": "Bộ phận và phụ kiện của xe thuộc các nhóm từ 87.11 đến 87.13.",
+        "en": "Parts and accessories of vehicles of headings 87.11 to 87.13."
+      }
+    },
+    {
+      "heading_id": "87.15",
+      "heading_title": {
+        "vi": "Xe đẩy trẻ em và bộ phận của chúng.",
+        "en": "Baby carriages and parts thereof."
+      }
+    },
+    {
+      "heading_id": "87.16",
+      "heading_title": {
+        "vi": "Rơ-moóc và sơ mi rơ-moóc; xe khác, không có cơ cấu đẩy dạng cơ khí; các bộ phận của chúng.",
+        "en": "Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof."
+      }
+    }
+  ]
+}

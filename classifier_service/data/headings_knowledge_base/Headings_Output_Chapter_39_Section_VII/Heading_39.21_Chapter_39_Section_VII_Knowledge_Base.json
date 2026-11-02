@@ -1,0 +1,108 @@
+{
+  "heading_id": "39.21",
+  "heading_title": {
+    "vi": "Tấm, phiến, màng, lá và dải khác, bằng plastic.",
+    "en": "Other plates, sheets, film, foil and strip, of plastics."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tấm, phiến, màng, lá và dải bằng plastic, nhưng chỉ giới hạn ở các sản phẩm loại xốp (cellular) hoặc các sản phẩm đã được gia cố, gắn lớp mặt, bổ trợ hoặc kết hợp tương tự với các vật liệu khác. Nhóm này không bao gồm các sản phẩm thuộc nhóm 39.18, 39.19, 39.20 hoặc Chương 54. Theo Chú giải 10 của Chương 39, các sản phẩm này có thể ở dạng khối có hình dạng hình học đều, đã hoặc chưa in hoặc gia công bề mặt, chưa cắt hoặc đã cắt thành hình chữ nhật (kể cả hình vuông) nhưng không gia công gì thêm. Nếu các sản phẩm này được gia công thêm (ví dụ: mài cạnh, khoan, cán) hoặc cắt thành các hình dạng không phải hình chữ nhật (kể cả hình vuông), chúng thường được phân loại vào các nhóm 39.18, 39.19 hoặc 39.22 đến 39.26.",
+    "en": "This heading covers plates, sheets, film, foil and strip of plastics, but is limited to cellular products or those which have been reinforced, laminated, supported or similarly combined with other materials. This heading excludes products of heading 39.18, 39.19, 39.20 or Chapter 54. According to Note 10 to Chapter 39, these products can be in blocks of regular geometric shape, whether or not printed or otherwise surface-worked, uncut or cut into rectangles (including squares) but not further worked. If these products are further worked (e.g., edges ground, drilled, milled) or cut into shapes other than rectangular (including square), they are generally classified in headings 39.18, 39.19 or 39.22 to 39.26."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các tấm, phiến, màng, lá và dải, từ plastic, trừ loại thuộc nhóm 39.18, 39.19 hoặc 39.20 hoặc thuộc Chương 54. Do đó, nó chỉ bao gồm các sản phẩm loại xốp (cellular) hoặc các sản phẩm đã được gia cố, gắn lớp mặt, bổ trợ hoặc kết hợp tương tự với các vật liệu khác. (Để phân loại các sản phẩm dạng tấm,... kết hợp với các vật liệu khác, xem Chú giải Tổng quát).",
+        "en": "This heading covers plates, sheets, film, foil and strip, of plastics, other than those of heading 39.18, 39.19 or 39.20 or of Chapter 54. It therefore covers only cellular products or those which have been reinforced, laminated, supported or similarly combined with other materials. (For the classification of plates, etc. combined with other materials, see the General Explanatory Note.)"
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 10 thuộc Chương này, thuật ngữ \"tấm, phiến, màng, lá và dải\" chỉ áp dụng đối với các tấm, phiến, màng, lá và dải và đối với các khối có hình dạng hình học đều, đã hoặc chưa in hoặc gia công bề mặt cách khác (ví dụ, đánh bóng, dập nổi, tạo màu, uốn cong đơn thuần hoặc tạo sóng), chưa cắt hoặc đã cắt thành hình chữ nhật (kể cả hình vuông) nhưng không gia công gì thêm (thậm chí nếu sau khi cắt chúng trở thành các sản phẩm phục vụ ngay cho việc sử dụng).",
+        "en": "According to Note 10 to this Chapter, the expression “plates, sheets, film, foil and strip” applies only to plates, sheets, film, foil and strip and to blocks of regular geometric shape, whether or not printed or otherwise surface-worked (for example, polished, embossed, coloured, merely curved or corrugated), uncut or cut into rectangles (including squares) but not further worked (even if when so cut they become articles ready for use)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các tấm, phiến... đã hoặc chưa gia công bề mặt (kể cả các tấm, phiến đã bị cắt thành các dạng hình vuông và hình chữ nhật khác), có các cạnh được mài, được khoan, cán, làm viền, xoắn, đóng khung hoặc được gia công cách khác hoặc được cắt thành các hình dạng trừ hình chữ nhật (kể cả hình vuông) thì thường được phân loại như các sản phẩm thuộc các nhóm 39.18, 39.19 hoặc 39.22 đến 39.26.",
+        "en": "Plates, sheets, etc., whether or not surface-worked (including squares and other rectangles cut therefrom), with ground edges, drilled, milled, hemmed, twisted, framed or otherwise worked or cut into shapes other than rectangular (including square) are generally classified as articles of headings 39.18, 39.19 or 39.22 to 39.26."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Loại xốp:",
+        "en": "Cellular:"
+      },
+      "subheading_id": "3921.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các polyme từ styren",
+        "en": "- - Of polymers of styrene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại xốp:",
+        "en": "Cellular:"
+      },
+      "subheading_id": "3921.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các polyme từ vinyl clorua",
+        "en": "- - Of polymers of vinyl chloride"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại xốp:",
+        "en": "Cellular:"
+      },
+      "subheading_id": "3921.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các polyurethan",
+        "en": "- - Of polyurethanes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại xốp:",
+        "en": "Cellular:"
+      },
+      "subheading_id": "3921.14",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ xenlulo tái sinh",
+        "en": "- - Of regenerated cellulose"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại xốp:",
+        "en": "Cellular:"
+      },
+      "subheading_id": "3921.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ plastic khác",
+        "en": "- - Of other plastics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3921.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

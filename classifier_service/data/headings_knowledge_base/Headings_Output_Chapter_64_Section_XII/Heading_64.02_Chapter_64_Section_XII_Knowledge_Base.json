@@ -1,0 +1,82 @@
+{
+  "heading_id": "64.02",
+  "heading_title": {
+    "vi": "Các loại giày, dép khác có đế ngoài và mũ giày bằng cao su hoặc plastic",
+    "en": "Other footwear with outer soles and uppers of rubber or plastics."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại giày, dép có đế ngoài và mũ giày bằng cao su hoặc plastic. Nó bao gồm cả giày dép được làm một phần bằng các vật liệu này và một phần bằng vật liệu khác (ví dụ: đế cao su và mũ vải có lớp ngoài bằng plastic). Các ví dụ cụ thể bao gồm giày trượt tuyết, guốc, dép lê, dép có quai hậu, dép xỏ ngón và giày dép không thấm nước làm một mảnh. Nhóm này loại trừ các loại giày, dép thuộc nhóm 64.01.",
+    "en": "This heading covers footwear with outer soles and uppers of rubber or plastics. It includes footwear made partly of these materials and partly of other materials (e.g., rubber soles and textile uppers with a visible plastic layer). Specific examples include ski-boots, clogs, slippers, mules, sandals, thong-type sandals, and non-waterproof footwear made in one piece. This heading excludes footwear of heading 64.01."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm giày, dép có đế ngoài và mũ giày bằng cao su hoặc plastic, loại trừ các loại giày, dép thuộc nhóm 64.01.\nGiày, dép cũng được phân loại vào nhóm này thậm chí kể cả khi chúng được làm một phần bằng vật liệu này và một phần bằng vật liệu khác (ví dụ như: đế giày, dép có thể được làm bằng cao su và mũ giày, dép được làm bằng vải dệt thoi có lớp ngoài bằng plastic có thể nhìn thấy được bằng mắt thường; theo mục đích của phần này, chúng ta không tính đến sự thay đổi của màu sắc sản phẩm).\nNgoài những đề cập khác, nhóm này bao gồm:\n(a) Giày ống trượt tuyết, loại có một vài bộ phận đúc được gắn với nhau bằng đinh tán hoặc các loại tương tự;\n(b) Guốc không có quai hậu hoặc miếng đệm lót, mũ của loại này được làm một mảnh thường được gắn vào thân đế hoặc chân đế bằng đinh tán;\n(c) Các loại dép lê hoặc dép có đế mỏng không có quai hậu hoặc miếng đệm lót, mũ của các loại này được làm một mảnh hoặc được lắp ráp trừ lắp ráp bằng cách khâu, được gắn vào đế bằng cách khâu;\n(d) Sandal có đai vòng qua mu bàn chân, có miếng đệm lót, hoặc có đai gót chân được gắn với đế bằng bất kỳ nào;\n(e) Sandal kiểu dây gắn, là loại có các dây da được gắn với đế bằng các chốt cài mà chốt cài này được chốt vào các lỗ đục trên đế;\n(f) Giày, dép không thấm nước được làm một mảnh (ví dụ như: dép lê mỏng, nhẹ đi trong nhà tắm).",
+        "en": "This heading covers footwear with outer soles and uppers of rubber or plastics, other than those of heading 64.01.\nFootwear remains in this heading even if it is made partly of one and partly of another of the specified materials (e.g., the soles may be of rubber and the uppers of woven fabric with an external layer of plastics being visible to the naked eye; for the purpose of this provision no account should be taken of any resulting change of colour).\nThe heading covers, inter alia:\n(a) Ski-boots consisting of several moulded parts hinged on rivets or similar devices;\n(b) Clogs without quarter or counter, the uppers of which are produced in one piece usually attached to the base or platform by riveting;\n(c) Slippers or mules without quarter or counter, the uppers of which, being produced in one piece or assembled other than by stitching, are attached to the sole by stitching;\n(d) Sandals consisting of straps across the instep and of counter or heelstrap attached to the sole by any process;\n(e) Thong-type sandals in which the things are attached to the sole by plugs which lock into holes in the sole;\n(f) Non-waterproof footwear produced in one piece (for example, bathing slippers)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Giày, dép thể thao:",
+        "en": "Sports footwear:"
+      },
+      "subheading_id": "6402.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Giày ống trượt tuyết, giày trượt tuyết băng đồng và giày ống gắn ván trượt",
+        "en": "Ski-boots, cross-country ski footwear and snowboard boots"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Giày, dép thể thao:",
+        "en": "Sports footwear:"
+      },
+      "subheading_id": "6402.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6402.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Giày, dép có đai hoặc dây gắn mũ giày với đế bằng chốt cài",
+        "en": "Footwear with upper straps or thongs assembled to the sole by means of plugs"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Giày, dép khác:",
+        "en": "Other footwear:"
+      },
+      "subheading_id": "6402.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Giày cổ cao quá mắt cá chân",
+        "en": "Covering the ankle"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Giày, dép khác:",
+        "en": "Other footwear:"
+      },
+      "subheading_id": "6402.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

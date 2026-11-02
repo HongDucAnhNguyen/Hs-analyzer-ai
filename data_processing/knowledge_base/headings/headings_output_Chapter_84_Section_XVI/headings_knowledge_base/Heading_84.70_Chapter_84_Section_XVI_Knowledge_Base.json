@@ -1,0 +1,115 @@
+{
+  "heading_id": "84.70",
+  "heading_title": {
+    "vi": "Máy tính và các máy ghi, tái tạo và hiển thị dữ liệu loại bỏ túi có chức năng tính toán; máy kế toán, máy đóng dấu bưu phí, máy bán vé và các loại máy tương tự, có gắn bộ phận tính toán; máy tính tiền.",
+    "en": "Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers."
+  },
+  "summary": {
+    "vi": "Nhóm 84.70 bao gồm các loại máy có gắn bộ phận tính toán, có khả năng cộng ít nhất hai số có nhiều chữ số. Nhóm này được chia thành bốn loại chính: (A) Máy tính, bao gồm máy tính điện tử bỏ túi và máy văn phòng; (B) Máy kế toán, dùng để xử lý sổ sách kế toán, có khả năng in cả chữ và số theo chiều ngang và dọc; (C) Máy tính tiền, dùng để ghi lại các giao dịch, có thể kết nối với các thiết bị khác như đầu đọc thẻ; và (D) Các máy chuyên dụng khác như máy đóng dấu bưu phí, máy bán vé và máy cá cược. Các bộ phận và phụ kiện của các máy này thuộc nhóm 84.73. Nhóm này loại trừ máy xử lý dữ liệu tự động (nhóm 84.71), cân tính tổng trọng lượng (nhóm 84.23 hoặc 90.16), và các dụng cụ tính toán theo nguyên lý thước logarit (nhóm 90.17) hoặc các thiết bị chỉ đếm đơn vị (nhóm 90.29).",
+    "en": "Heading 84.70 covers machines incorporating a calculating device capable of adding at least two multi-digit numbers. This heading is divided into four main categories: (A) Calculating machines, including pocket and office electronic calculators; (B) Accounting machines, used for bookkeeping, capable of printing both letters and numbers horizontally and vertically; (C) Cash registers, used for recording transactions, which may be connected to other devices such as card readers; and (D) Other specialized machines like postage-franking machines, ticket-issuing machines, and totalisator machines. Parts and accessories for these machines are classified under heading 84.73. This heading excludes automatic data processing machines (heading 84.71), weighing machines which total weights (heading 84.23 or 90.16), calculating instruments based on the slide-rule principle (heading 90.17), and unit-counting instruments (heading 90.29)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Đặc tính chung của các máy thuộc nhóm này là chúng phải có một thiết bị tính toán có thể cộng ít nhất hai số, mỗi số gồm nhiều chữ số. Các thiết bị chỉ đếm hoặc cộng từng đơn vị một (như trong máy dán tem, máy đếm vòng quay) không được coi là thiết bị tính toán. Máy có thể hoạt động bằng tay hoặc điện, với cơ chế tính toán bằng cơ khí, điện từ, điện tử hoặc lưu thể.\n(A) MÁY TÍNH VÀ CÁC MÁY GHI, TÁI TẠO VÀ HIỂN THỊ DỮ LIỆU LOẠI BỎ TÚI CÓ CHỨC NĂNG TÍNH TOÁN: Bao gồm các máy tính từ đơn giản (cộng, trừ) đến phức tạp (bốn phép tính, khai căn, lũy thừa, lượng giác). Cụ thể là máy tính điện tử bỏ túi và máy tính văn phòng, dù có thể lập trình hay không. Nhóm này cũng bao gồm các máy ghi, tái tạo và hiển thị dữ liệu loại bỏ túi có chức năng tính toán theo Chú giải 9 của Chương này. Máy tính lập trình được khác với máy xử lý dữ liệu tự động ở chỗ chúng không thể tự thay đổi việc thực hiện chương trình bằng quyết định logic mà không có sự can thiệp của con người. Các bộ phận chính của máy tính gồm: (1) Bộ nhập dữ liệu thủ công (bàn phím, con trỏ), có thể có thiết bị phụ trợ để nhập tự động (đầu đọc thẻ đục lỗ, băng từ).",
+        "en": "The common characteristic of machines of this heading is that they must include a calculating device enabling them to add at least two figures, each comprising several digits. Devices which merely count or add one by one (e.g., in stamp affixing machines, revolution counters) are not regarded as calculating devices. The machines may be manually or electrically operated, with calculation performed by mechanical, electro-magnetic, electronic, or fluidic devices.\n(A) CALCULATING MACHINES AND POCKET-SIZE DATA RECORDING, REPRODUCING AND DISPLAYING MACHINES WITH CALCULATING FUNCTIONS: This includes calculators from simple types (add, subtract) to complex ones (four arithmetic operations, square roots, powers, trigonometric calculations). Specifically, it includes pocket and office electronic calculators, whether or not programmable. This group also includes pocket-size data recording, reproducing and displaying machines with calculating functions per Note 9 to this Chapter. Programmable calculators differ from automatic data processing machines in that they cannot, without human intervention, modify their program execution by logical decision. The main parts of a calculator include: (1) Manual data input arrangements (keyboard, cursors), which may have ancillary facilities for automatic input (punched card readers, magnetic tape readers)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các bộ phận chính của máy tính (tiếp theo): (2) Bộ phận tính toán hoạt động bằng phím hoặc chương trình (cố định hoặc có thể sửa đổi). (3) Bộ phận xuất hiển thị kết quả trên màn hình hoặc in ra. Máy tính có thể có hoặc không có bộ phận in. Máy tính có bộ phận in chỉ in theo chiều dọc trên băng giấy hoặc cuộn giấy. Các bộ phận của máy có thể được lắp thành một khối duy nhất hoặc là các bộ phận riêng biệt kết nối bằng cáp điện.\n(B) MÁY KẾ TOÁN: Được thiết kế để xử lý sổ sách kế toán, kết hợp chức năng tính toán với chức năng in chữ hoặc ký hiệu. Cấu trúc tương tự máy tính nhưng có thể có thêm thiết bị đọc thẻ hoặc băng để nhập dữ liệu lặp lại. Đặc điểm phân biệt chính là máy kế toán có bộ phận in có thể in cả theo chiều ngang và chiều dọc. Máy thường dùng với các mẫu in đặc biệt (hóa đơn, sổ cái) và có thể ghi dữ liệu ra phương tiện lưu trữ dưới dạng mã hóa.",
+        "en": "Main parts of a calculator (continued): (2) A calculating device operated by keys or a program (which may be fixed or modifiable). (3) An output device presenting results via a visual display or a print-out. Calculating machines are classified here whether or not they include a printing device. Calculators with a printing facility print vertically only, on paper bands or rolls. The components of these machines may be built into a single unit or be separate units connected by electric cable.\n(B) ACCOUNTING MACHINES: Designed to keep accounting books, combining the function of accounting with that of printing letters or symbols. Their structure is similar to calculating machines but may include devices for reading cards or tape to input recurrent data. A key distinguishing feature is that accounting machines have printing devices that can print both horizontally and vertically. They are often used with special printed forms (invoices, ledgers) and may transcribe data onto data media in coded form."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(C) MÁY TÍNH TIỀN: Bao gồm máy tính tiền có hoặc không có bộ phận tính toán. Dùng để ghi lại các giao dịch, số tiền, tổng tiền, và các chi tiết khác như mã sản phẩm. Dữ liệu có thể được nhập thủ công (bàn phím) hoặc tự động (đầu đọc mã vạch). Kết quả thường được hiển thị và in ra hóa đơn cho khách hàng và một cuộn lưu để kiểm tra. Máy thường được kết hợp với ngăn kéo đựng tiền. Chúng có thể hoạt động cùng các thiết bị khác như bộ nhân, máy tính tiền trả lại, đầu đọc thẻ tín dụng. Nếu các thiết bị này được xuất trình riêng, chúng sẽ được phân loại vào nhóm tương ứng. Nhóm này cũng bao gồm các máy tính tiền hoạt động kết nối với máy xử lý dữ liệu tự động và các thiết bị đầu cuối dùng cho thanh toán điện tử.\n(D) CÁC MÁY KHÁC CÓ KẾT HỢP THIẾT BỊ TÍNH TOÁN: Bao gồm: (1) Máy đóng dấu bưu phí: in lên phong bì thay cho tem và có bộ phận ghi tổng số tiền bưu phí. (2) Máy phát hành vé (vé xem phim, vé tàu hỏa): phát hành vé đồng thời ghi và cộng tổng số tiền.",
+        "en": "(C) CASH REGISTERS: This group comprises cash registers whether or not incorporating a calculating device. They are used to record transactions, amounts, totals, and other details like product codes. Data may be input manually (keyboard) or automatically (bar-code reader). The result is usually displayed and printed on a ticket for the customer and a tally roll for checking. They are often combined with a cash drawer. They may work in conjunction with other devices such as multipliers, change calculators, credit card readers. If presented separately, these devices are classified in their respective headings. This heading also covers cash registers working in conjunction with an automatic data processing machine and terminals for electronic payment.\n(D) OTHER MACHINES INCORPORATING A CALCULATING DEVICE: These include: (1) Postage-franking machines: print on envelopes in place of a stamp and have a device for totalling the postage value. (2) Ticket-issuing machines (cinema, railway tickets): issue tickets while recording and totalling the amounts involved."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "(D) CÁC MÁY KHÁC CÓ KẾT HỢP THIẾT BỊ TÍNH TOÁN (tiếp theo): (3) Máy totalisator (dùng trong trường đua): phát hành vé, ghi lại và tổng cộng số tiền đặt cược, và đôi khi tính cả tỷ lệ cược. Các máy chỉ đếm số vé mà không tính tổng số tiền thì bị loại trừ (nhóm 84.72 hoặc 84.76).\nBỘ PHẬN VÀ PHỤ KIỆN: Theo quy định của Phần XVI, các bộ phận và phụ tùng của máy thuộc nhóm này được phân loại vào nhóm 84.73.\nLOẠI TRỪ: Nhóm này không bao gồm: (a) Máy xử lý dữ liệu thuộc nhóm 84.71. (b) Cân có tính tổng trọng lượng (nhóm 84.23 hoặc 90.16). (c) Thước logarit và các dụng cụ tính toán toán học tương tự (nhóm 90.17). (d) Các thiết bị đếm từng đơn vị như máy đếm vòng quay, máy đếm sản lượng (nhóm 90.29).",
+        "en": "(D) OTHER MACHINES INCORPORATING A CALCULATING DEVICE (continued): (3) Totalisator machines (for racecourses): issue tickets, record and total the amounts staked, and sometimes calculate the odds. Machines which only count tickets without totalising amounts are excluded (heading 84.72 or 84.76).\nPARTS AND ACCESSORIES: Subject to the general provisions of Section XVI, parts and accessories of machines of this heading are classified in heading 84.73.\nEXCLUSIONS: The heading does not cover: (a) Data processing machines of heading 84.71. (b) Weighing machines which total the weights (heading 84.23 or 90.16). (c) Slide rules and other similar mathematical calculating instruments (heading 90.17). (d) Instruments which count unit by unit, such as revolution counters, production counters (heading 90.29)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8470.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy tính điện tử có thể hoạt động không cần nguồn điện ngoài và máy ghi, tái tạo và hiển thị dữ liệu, loại bỏ túi có chức năng tính toán",
+        "en": "Electronic calculators capable of operation without an external source of electric power and pocket-size data recording, reproducing and displaying machines with calculating functions"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy tính điện tử khác:",
+        "en": "Other electronic calculating machines :"
+      },
+      "subheading_id": "8470.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có gắn bộ phận in",
+        "en": "Incorporating a printing device"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy tính điện tử khác:",
+        "en": "Other electronic calculating machines :"
+      },
+      "subheading_id": "8470.29",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8470.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy tính khác",
+        "en": "Other calculating machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8470.50",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy tính tiền",
+        "en": "Cash registers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8470.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "heading_id": "85.37",
+  "heading_title": {
+    "vi": "Bảng, panel, giá đỡ, bàn, tủ và các loại hộp và đế khác, được lắp với hai hay nhiều thiết bị thuộc nhóm 85.35 hoặc 85.36, dùng để điều khiển hoặc phân phối điện, kể cả các loại trên có lắp các dụng cụ hay thiết bị thuộc Chương 90, và các thiết bị điều khiển số, trừ các thiết bị chuyển mạch thuộc nhóm 85.17.",
+    "en": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading 85.17."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại bảng, panel, tủ... được lắp ráp với ít nhất hai thiết bị thuộc nhóm 85.35 hoặc 85.36 (ví dụ: công tắc, cầu chì) để điều khiển hoặc phân phối điện. Chúng có thể kết hợp các dụng cụ thuộc Chương 90 (ví dụ: đồng hồ đo) và các thiết bị điều khiển số. Các loại hàng hóa cụ thể bao gồm: (1) Bảng điều khiển số có tích hợp máy xử lý dữ liệu tự động, dùng để điều khiển máy công cụ. (2) Bảng chuyển mạch được lập trình, dùng trong các thiết bị gia dụng như máy giặt. (3) 'Bộ điều khiển có khả năng lập trình' (Programmable controllers). Nhóm này không bao gồm: các thiết bị điều khiển tự động thuộc nhóm 90.32, tổng đài điện thoại (nhóm 85.17), các bộ phận chuyển mạch đơn giản (nhóm 85.35 hoặc 85.36), thiết bị điều khiển từ xa hồng ngoại (nhóm 85.43), và thiết bị đóng ngắt định giờ (nhóm 91.07). Bộ phận của các thiết bị này được phân loại vào nhóm 85.38.",
+    "en": "This heading covers boards, panels, cabinets, etc., assembled with two or more apparatus of heading 85.35 or 85.36 (e.g., switches, fuses) for electric control or distribution. They may incorporate instruments of Chapter 90 (e.g., meters) and numerical control apparatus. Specific goods include: (1) Numerical control panels with a built-in automatic data processing machine for controlling machine-tools. (2) Programmed switchboards used in domestic appliances like washing machines. (3) 'Programmable controllers'. The heading excludes: automatic controlling apparatus of heading 90.32, telephone switchboards (heading 85.17), simple switch assemblies (heading 85.35 or 85.36), cordless infrared remote control devices (heading 85.43), and time switches (heading 91.07). Parts for these apparatus are classified in heading 85.38."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chúng gồm một hệ thống các thiết bị thuộc hai nhóm 85.35 và 85.36 (ví dụ, các thiết bị đóng ngắt và cầu chì) được lắp ráp lại với nhau trên một bảng, panel, giá đỡ v.v… hoặc được gá trên tủ, bàn v.v.. Chúng cũng được gắn các đồng hồ đo, và đôi khi có thêm thiết bị phụ trợ như máy biến điện, các valve, các bộ điều chỉnh điện áp, biến trở hoặc các sơ đồ mạch sáng.\nHàng hóa của nhóm này đa dạng từ những bảng nhỏ chỉ có vài chuyển mạch, cầu chì vv... (ví dụ: cho những hệ thống lắp đặt chiếu sáng), cho đến những bảng điều khiển phức tạp dùng cho các máy công cụ, máy cán, nhà máy điện, trạm truyền thanh v.v... kể cả các hàng hóa đã được nêu ở đoạn trên của nhóm này.",
+        "en": "These consist of an assembly of apparatus of the kind referred to in the two preceding headings (e.g., switches and fuses) on a board, panel, console, etc., or mounted in a cabinet, desk, etc. They usually also incorporate meters, and sometimes also subsidiary apparatus such as transformers, valves, voltage regulators, rheostats or luminous circuit diagrams.\nThe goods of this heading vary from small switchboards with only a few switches, fuses, etc, (e.g., for lighting installations) to complex control panels for machine-tools, rolling mills, power stations, radio stations, etc., including assemblies of several of the articles cited in the text of this heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm:\n(1) Các bảng điều khiển số được gắn kết hợp máy xử lý dữ liệu tự động, nói chung thường được dùng để điều khiển máy công cụ.\n(2) Các bảng chuyển mạch được lập trình để điều khiển các thiết bị; thiết bị này cho phép thay đổi các thao tác có lựa chọn. Thường thì chúng được sử dụng trong những thiết bị điện gia dụng như máy giặt và máy rửa bát.\n(3) “Các bộ điều khiển có khả năng lập trình” là các thiết bị số sử dụng bộ nhớ có khả năng lập trình để lưu trữ những câu lệnh nhằm thực hiện những hàm cụ thể như logic, trình tự, thời gian, đếm và số học, để điều khiển, nhờ các module vào/ra tương tự hoặc số, các kiểu máy khác nhau.",
+        "en": "The heading also covers:\n(1) Numerical control panels with a built-in automatic data processing machine, which are generally used to control machine-tools.\n(2) Programmed switchboards to control apparatus; these permit variations in the choice of operations to be followed. They are normally used in domestic electrical appliances, such as washing machines and dish washers.\n(3) “Programmable controllers” which are digital apparatus using a programmable memory for the storage of instructions for implementing specific functions such as logic, sequencing, timing, counting and arithmetic, to control, through digital or analog input/output modules, various types of machines."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm các thiết bị điều khiển tự động thuộc nhóm 90.32.",
+        "en": "The heading does not cover automatic controlling apparatus of heading 90.32."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy định chung về phân loại các bộ phận (xem Chú giải Tổng quát Phần XVI), các bộ phận của sản phẩm thuộc nhóm này được phân loại vào nhóm 85.38.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the goods of this heading are classified in heading 85.38."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Các tổng đài điện thoại (nhóm 85.17).\n(b) Các bộ phận chuyển mạch đơn giản, chẳng hạn những bộ phận có hai chuyển mạch và một đầu nối (nhóm 85.35 hoặc nhóm 85.36).\n(c) Các thiết bị hồng ngoại không dây dùng để điều khiển từ xa thiết bị thu truyền hình, máy ghi video hoặc các thiết bị điện khác (nhóm 85.43).\n(d) Thiết bị đóng ngắt định giờ có đồng hồ cá nhân hoặc máy đồng hồ thời gian hoặc có động cơ đồng bộ (nhóm 91.07).",
+        "en": "The heading excludes:\n(a) Telephone switchboards (heading 85.17).\n(b) Simple switch assemblies, such as those consisting of two switches and a connector (heading 85.35 or 85.36).\n(c) Cordless infrared devices for the remote control of television receivers, video recorders or other electrical equipment (heading 85.43).\n(d) Time switches with clock or watch movement or with synchronous motor (heading 91.07)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8537.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dùng cho điện áp không quá 1.000V",
+        "en": "For a voltage not exceeding 1,000 V"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8537.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dùng cho điện áp trên 1.000V",
+        "en": "For a voltage exceeding 1,000 V"
+      }
+    }
+  ]
+}

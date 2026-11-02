@@ -1,0 +1,53 @@
+{
+  "heading_id": "76.08",
+  "heading_title": {
+    "vi": "Các loại ống và ống dẫn bằng nhôm.",
+    "en": "Aluminium tubes and pipes."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại ống và ống dẫn bằng nhôm, được định nghĩa tại Chú giải 9(e) Phần XV. Chúng có thể được sản xuất bằng các phương pháp như ép đùn, hàn, ép đùn va đập hoặc đúc, và có thể được kéo nguội. Các sản phẩm này được sử dụng làm đường ống, ống dẫn điện, trong sản xuất đồ nội thất, bộ trao đổi nhiệt, kết cấu, v.v. Các ống và ống dẫn này có thể được ren hoặc lắp với các phụ kiện. Nhóm này không bao gồm: dạng hình rỗng (nhóm 76.04), phụ kiện ghép nối ống (nhóm 76.09), ống dễ uốn (nhóm 83.07), và các ống, ống dẫn đã được làm thành các sản phẩm đặc trưng như kết cấu (nhóm 76.10) hoặc bộ phận máy móc/phương tiện (Phần XVI và XVII).",
+    "en": "This heading covers aluminium tubes and pipes, as defined in Note 9(e) to Section XV. They may be manufactured by processes such as extrusion, welding, impact extrusion, or casting, and may be cold-drawn. These products are used as pipelines, electrical conduits, in the manufacture of furniture, heat exchangers, structures, etc. The tubes and pipes may be threaded or fitted with accessories. The heading does not cover: hollow profiles (heading 76.04), tube or pipe fittings (heading 76.09), flexible tubing (heading 83.07), and tubes and pipes made up into specific articles such as structures (heading 76.10) or machinery/vehicle parts (Sections XVI and XVII)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 9 (e) Phần XV của Chương đã định nghĩa các loại ống và ống dẫn. Các loại ống và ống dẫn của nhóm này có thể được sản xuất bởi các quá trình như sau:\n(a) bằng việc ép đùn qua khuôn đúc rỗng hoặc thỏi tròn có lỗ.\n(b) bằng việc hàn nối theo chiều dọc hoặc xoắn ốc khuôn hoặc bán thành phẩm đã cán phẳng, dạng cuộn (dải hoặc tấm).\n(c) bằng việc ép đùn.\n(d) bằng việc đúc.\nCác loại ống được đùn hoặc được hàn có thể được xử lý kéo nguội để thu được các ống có thành mỏng hơn, kích thước chính xác và hoàn chỉnh hơn. Các loại ống và ống dẫn của nhóm này được sử dụng cho nhiều mục đích ví dụ như làm đường ống dẫn dầu hoặc dẫn nuớc, làm ống dẫn dây điện, trong việc sản xuất đồ nội thất, bộ trao đổi nhiệt, các kết cấu. Nhóm này bao gồm các ống và ống dẫn có thể có hoặc không có ren ở hai đầu, lắp với ống nối, các mặt bích, các đầu mối, các vòng đai...\nNhóm này không bao gồm:\n(a) Dạng hình rỗng (nhóm 76.04).\n(b) Các phụ kiện để ghép nối của ống hoặc ống dẫn (nhóm 76.09).\n(c) Ống dễ uốn (nhóm 83.07).\n(d) Các ống và ống nối làm thành các sản phẩm đặc trưng, như các sản phẩm được dùng trong các kết cấu (nhóm 76.10) các bộ phận của máy móc hoặc của",
+        "en": "Note 9 (e) to Section XV defines tubes and pipes. The tubes and pipes of this heading may be manufactured by the following processes :\n(a) by extruding a hollow cast or pierced round ingot;\n(b) by longitudinally or spirally seam welding a die or roll-formed flat-rolled semi-product (strip or sheet);\n(c) by impact extrusion;\n(d) by casting.\nExtruded or welded tubes may be subjected to a cold-drawing operation to obtain tubes with thinner walls, more accurate dimensions and a better finish. The tubes and pipes of this heading are used for many purposes, e.g., as pipelines for oil or water, as conduits for electrical wiring, in the manufacture of furniture, heat exchangers, structures. The heading includes tubes and pipes whether or not they are threaded at the ends, fitted with sockets, flanges, collars, rings, etc.\nThe heading does not cover:\n(a) Hollow profiles (heading 76.04).\n(b) Tube or pipe fittings (heading 76.09).\n(c) Flexible tubing (heading 83.07).\n(d) Tubes and pipes made up into specific identifiable articles, such as those prepared for use in structures (heading 76.10), machinery or vehicle parts"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "phương tiện giao thông (các Phần XVI và XVII), etc.",
+        "en": "(Sections XVI and XVII), etc."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7608.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng nhôm, không hợp kim",
+        "en": "Of aluminium, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7608.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng hợp kim nhôm",
+        "en": "Of aluminium alloys"
+      }
+    }
+  ]
+}

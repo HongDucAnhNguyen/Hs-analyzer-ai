@@ -1,0 +1,70 @@
+{
+  "heading_id": "74.11",
+  "heading_title": {
+    "vi": "Các loại ống và ống dẫn bằng đồng.",
+    "en": "Copper tubes and pipes."
+  },
+  "summary": {
+    "vi": "Nhóm 74.11 bao gồm các loại ống và ống dẫn bằng đồng, từ đồng tinh luyện đến các hợp kim đồng. Sản phẩm trong nhóm này được sản xuất dưới dạng liền mạch hoặc được hàn từ dải đồng. Các phương pháp chế tạo chính bao gồm khoan, ép phôi, cán nóng hoặc kéo qua khuôn. Chúng có ứng dụng đa dạng trong công nghiệp, như trong thiết bị nấu, làm mát, chưng cất, và trong hệ thống cấp nước, khí gas của các tòa nhà. Chú giải 9(e) của Phần XV cung cấp định nghĩa, và các chú giải của nhóm 73.04 đến 73.06 được áp dụng tương tự. Nhóm này không bao gồm các dạng hình rỗng đặc biệt (nhóm 74.07), phụ kiện ghép nối ống (nhóm 74.12), ống có gờ hoặc rãnh được gắn thêm (nhóm 74.19), ống mềm (nhóm 83.07) và các loại ống đã được gia công thành bộ phận máy móc (Phần XVI).",
+    "en": "Heading 74.11 covers copper tubes and pipes, made from both refined copper and copper alloys. Products in this heading are produced either seamlessly or by welding copper strips. Key manufacturing methods include piercing, extruding billets, hot-rolling, or drawing through a die. They have diverse industrial applications, such as in cooking, cooling, and distilling apparatus, and in water and gas supply systems for buildings. Note 9(e) to Section XV provides the definition, and the Explanatory Notes to headings 73.04 to 73.06 apply mutatis mutandis. The heading excludes special hollow profiles (heading 74.07), tube or pipe fittings (heading 74.12), tubes with attached fins or gills (heading 74.19), flexible tubing (heading 83.07), and tubes made into machinery parts (Section XVI)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 9(e) Phần XV, nhóm này định nghĩa về ống và ống dẫn. Chú giải chi tiết của các nhóm từ 73.04 đến 73.06 được áp dụng tương tự. Hầu hết ống và ống dẫn bằng đồng được làm liền khối (không hàn), nhưng cũng có thể được chế tạo bằng cách hàn mép của dải đồng. Chúng được ứng dụng trong công nghiệp (thiết bị nấu, làm nóng, làm mát, chưng cất) và trong xây dựng hệ thống cung cấp nước hoặc khí gas. Nhóm này không bao gồm: các dạng hình rỗng có gờ hoặc rãnh thu được bằng phương pháp ép đùn (nhóm 74.07), các loại ống nối (nhóm 74.12), ống và ống dẫn có gờ hoặc rãnh được ghép nối vào bằng cách hàn (thường thuộc nhóm 74.19), ống dễ uốn (nhóm 83.07), và các ống đã được gia công thành bộ phận máy móc của Phần XVI.",
+        "en": "According to Note 9(e) to Section XV, this heading defines tubes and pipes. The Explanatory Notes to headings 73.04 to 73.06 also apply, mutatis mutandis. Most copper tubes and pipes are seamless but can also be made by brazing or welding the edges of strip. They have industrial applications (e.g., in cooking, heating, cooling, distilling apparatus) and are used in buildings for water or gas supplies. The heading does not cover: hollow profiles including finned or gilled tubes obtained by extrusion (heading 74.07), tube or pipe fittings (heading 74.12), tubes and pipes with attached fins or gills, e.g., by welding (generally heading 74.19), flexible tubing (heading 83.07), and tubes and pipes made up into identifiable articles of other Chapters, e.g., machinery parts (Section XVI)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7411.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng đồng tinh luyện",
+        "en": "Of refined copper"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng hợp kim đồng:",
+        "en": "Of copper alloys :"
+      },
+      "subheading_id": "7411.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng hợp kim đồng-kẽm (đồng thau)",
+        "en": "Of copper-zinc base alloys (brass)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng hợp kim đồng:",
+        "en": "Of copper alloys :"
+      },
+      "subheading_id": "7411.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng hợp kim đồng-niken (đồng kền) hoặc hợp kim đồng-niken-kẽm (bạc- niken)",
+        "en": "Of copper-nickel base alloys (cupro-nickel) or copper-nickel-zinc base alloys (nickel silver)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng hợp kim đồng:",
+        "en": "Of copper alloys :"
+      },
+      "subheading_id": "7411.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

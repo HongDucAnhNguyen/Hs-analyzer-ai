@@ -1,0 +1,493 @@
+{
+  "chapter_id": "85",
+  "chapter_title": {
+    "vi": "Máy điện và thiết bị điện và các bộ phận của chúng; máy ghi và tái tạo âm thanh, máy ghi và tái tạo hình ảnh và âm thanh truyền hình, bộ phận và phụ kiện của các loại máy trên",
+    "en": "Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm tất cả các máy móc và thiết bị điện, ngoại trừ máy móc và thiết bị thuộc Chương 84 (ngay cả khi chạy bằng điện) và một số hàng hóa bị loại trừ cụ thể. Các hàng hóa thuộc Chương này vẫn được phân loại ở đây ngay cả khi chúng được làm từ gốm hoặc thủy tinh, ngoại trừ vỏ bóng đèn thủy tinh thuộc nhóm 70.11.\n\nPhạm vi của Chương bao gồm:\n1. Máy móc và thiết bị sản xuất, biến đổi hoặc lưu trữ điện năng: máy phát điện, máy biến áp (nhóm 85.01 đến 85.04), pin (nhóm 85.06) và ắc quy (nhóm 85.07).\n2. Một số thiết bị gia dụng: máy cơ điện gia dụng (nhóm 85.09), máy cạo, tông đơ và dụng cụ loại bỏ lông, tóc (nhóm 85.10).\n3. Các máy móc và thiết bị có hoạt động phụ thuộc vào đặc tính của điện: như nam châm điện (nhóm 85.05), thiết bị đánh lửa (nhóm 85.11), thiết bị chiếu sáng/tín hiệu cho xe (nhóm 85.12), thiết bị nhiệt điện (nhóm 85.14, 85.16), v.v.\n4. Thiết bị ghi hoặc tái tạo âm thanh và hình ảnh, bộ phận và phụ kiện (nhóm 85.19 đến 85.22).\n5. Các phương tiện ghi (nhóm 85.23), trừ phim ảnh của Chương 37.\n6. Mô-đun màn hình dẹt (nhóm 85.24).\n7. Các mặt hàng điện dùng làm bộ phận: tụ điện (nhóm 85.32), công tắc, cầu chì (nhóm 85.35, 85.36), bóng đèn (nhóm 85.39), đèn và ống điện tử (nhóm 85.40), thiết bị bán dẫn (nhóm 85.41), điện cực than (nhóm 85.45).\n8. Các sản phẩm và vật liệu dùng trong thiết bị điện nhờ tính dẫn điện hoặc cách điện: dây điện cách điện (nhóm 85.44), vật liệu cách điện (nhóm 85.46), phụ kiện cách điện (nhóm 85.47).\n\nChương này không bao gồm:\n- Chăn, đệm, quần áo... sưởi ấm bằng điện.\n- Sản phẩm thủy tinh thuộc nhóm 70.11.\n- Máy và thiết bị của nhóm 84.86.\n- Thiết bị hút chân không y tế (nhóm 90.18).\n- Đồ nội thất được gia nhiệt bằng điện thuộc Chương 94.\n\nCác Chú giải của Chương cung cấp các định nghĩa quan trọng cho việc phân loại các mặt hàng như 'ắc quy điện' (nhóm 85.07), 'điện thoại thông minh' (nhóm 85.17), 'thiết bị lưu trữ bền vững, thể rắn' và 'thẻ thông minh' (nhóm 85.23), 'mô-đun màn hình dẹt' (nhóm 85.24), 'mạch in' (nhóm 85.34), 'nguồn sáng đi-ốt phát quang (LED)' (nhóm 85.39), 'thiết bị bán dẫn' và 'mạch điện tử tích hợp' (bao gồm MCO) (nhóm 85.41 và 85.42).\n\nĐối với các bộ phận, các bộ phận không dùng điện của máy móc thuộc Chương này được phân loại vào các chương khác (đặc biệt là Chương 84), hoặc cùng với máy móc mà chúng thuộc về (hoặc trong các nhóm 85.03, 85.22, 85.29, 85.38), hoặc trong nhóm 84.87.",
+    "en": "This Chapter covers all electrical machinery and equipment, except for machinery and apparatus of Chapter 84 (even if electric) and certain specifically excluded goods. Goods of this Chapter remain classified here even if they are of ceramic materials or glass, with the exception of glass envelopes of heading 70.11.\n\nThe scope of the Chapter includes:\n1. Machines and apparatus for the production, transformation or storage of electricity: generators, transformers (headings 85.01 to 85.04), primary cells (heading 85.06) and accumulators (heading 85.07).\n2. Certain domestic appliances: electro-mechanical domestic appliances (heading 85.09), shavers, hair clippers and hair-removing appliances (heading 85.10).\n3. Certain machines and appliances which depend on the properties of electricity: such as electro-magnets (heading 85.05), ignition equipment (heading 85.11), lighting/signalling equipment for vehicles (heading 85.12), electro-thermic apparatus (headings 85.14, 85.16), etc.\n4. Sound or video recording or reproducing apparatus, parts and accessories (headings 85.19 to 85.22).\n5. Recording media (heading 85.23), excluding photographic films of Chapter 37.\n6. Flat panel display modules (heading 85.24).\n7. Electrical goods used as components: capacitors (heading 85.32), switches, fuses (headings 85.35, 85.36), lamps (heading 85.39), electronic valves and tubes (heading 85.40), semiconductor devices (heading 85.41), electrical carbons (heading 85.45).\n8. Articles and materials used in electrical equipment because of their conducting or insulating properties: insulated wire (heading 85.44), insulators (heading 85.46), insulating fittings (heading 85.47).\n\nThis Chapter does not cover:\n- Electrically warmed blankets, bed pads, clothing, etc.\n- Articles of glass of heading 70.11.\n- Machines and apparatus of heading 84.86.\n- Medical vacuum apparatus of heading 90.18.\n- Electrically heated furniture of Chapter 94.\n\nThe Chapter Notes provide important definitions for the classification of goods such as 'electric accumulators' (heading 85.07), 'smartphones' (heading 85.17), 'solid-state non-volatile storage devices' and 'smart cards' (heading 85.23), 'flat panel display modules' (heading 85.24), 'printed circuits' (heading 85.34), 'light-emitting diode (LED) light sources' (heading 85.39), 'semiconductor devices' and 'electronic integrated circuits' (including MCOs) (headings 85.41 and 85.42).\n\nAs for parts, non-electrical parts of the machines of this Chapter are classified in other Chapters (especially Chapter 84), or with the machines of which they are part (or in headings 85.03, 85.22, 85.29, 85.38), or in heading 84.87."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Chương này không bao gồm:\n(a) Chăn, đệm giường, bao ủ chân hoặc các sản phẩm tương tự sưởi ấm bằng điện; quần áo, giày dép hoặc đệm lót tai hoặc các mặt hàng khác sưởi ấm bằng điện để mặc hoặc sử dụng cho người;\n(b) Các sản phẩm thủy tinh thuộc nhóm 70.11;\n(c) Máy và thiết bị của nhóm 84.86;\n(d) Thiết bị hút chân không sử dụng trong lĩnh vực y tế, phẫu thuật, nha khoa hoặc thú y (nhóm 90.18); hoặc\n(e) Đồ nội thất được gia nhiệt bằng điện thuộc Chương 94.",
+        "en": "1. This Chapter does not cover:\n(a) Electrically warmed blankets, bed pads, foot-muffs or the like; electrically warmed clothing, footwear or ear pads or other electrically warmed articles worn on or about the person;\n(b) Articles of glass of heading 70.11;\n(c) Machines and apparatus of heading 84.86;\n(d) Vacuum apparatus of a kind used in medical, surgical, dental or veterinary sciences (heading 90.18); or\n(e) Electrically heated furniture of Chapter 94."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2. Các nhóm từ 85.01 đến 85.04 không áp dụng cho các loại hàng hóa đã mô tả trong nhóm 85.11, 85.12, 85.40, 85.41 hoặc 85.42.\nTuy nhiên, thiết bị chỉnh lưu hồ quang thủy ngân vỏ kim loại vẫn được xếp vào nhóm 85.04.",
+        "en": "2. Headings 85.01 to 85.04 do not apply to goods described in heading 85.11, 85.12, 85.40, 85.41 or 85.42.\nHowever, metal tank mercury arc rectifiers remain classified in heading 85.04."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "3. Theo mục đích của nhóm 85.07, khái niệm \"ắc quy điện\" bao gồm cả các loại ắc qui có thành phần phụ trợ đóng góp vào chức năng lưu điện và cấp điện hoặc bảo vệ ắc qui khỏi sự hư hại, như đầu nối điện, thiết bị kiểm soát nhiệt độ (ví dụ, điện trở nhiệt) và thiết bị bảo vệ mạch điện. Chúng cũng có thể gồm phần vỏ bảo vệ của hàng hóa mà trong đó chúng được sử dụng.",
+        "en": "3. For the purposes of heading 85.07, the expression “electric accumulators” includes those presented with ancillary components which contribute to the accumulator’s function of storing and supplying energy or protect it from damage, such as electrical connectors, temperature control devices (for example, thermistors) and circuit protection devices. They may also include a portion of the protective housing of the goods in which they are to be used."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "4. Nhóm 85.09 chỉ gồm những máy cơ điện loại thông thường được sử dụng cho mục đích gia dụng sau đây:\n(a) Máy đánh bóng sàn, máy nghiền và trộn thực phẩm, và máy ép rau hoặc quả, với khối lượng bất kỳ;\n(b) Các loại máy khác có khối lượng không quá 20 kg.\nTuy nhiên, nhóm này không bao gồm quạt hoặc nắp chụp hút tuần hoàn gió hoặc thông gió có kèm theo quạt, có hoặc không lắp bộ phận lọc (nhóm 84.14),",
+        "en": "4. Heading 85.09 covers only the following electro-mechanical machines of the kind commonly used for domestic purposes:\n(a) Floor polishers, food grinders and mixers, and fruit or vegetable juice extractors, of any weight;\n(b) Other machines provided the weight of such machines does not exceed 20 kg.\nThe heading does not, however, apply to fans or ventilating or recycling hoods incorporating a fan, whether or not fitted with filters (heading 84.14),"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "4. (tiếp) ... máy làm khô quần áo bằng ly tâm (nhóm 84.21), máy rửa bát đĩa (nhóm 84.22), máy giặt gia đình (nhóm 84.50), các loại máy cán hoặc máy là khác (nhóm 84.20 hoặc 84.51), máy khâu (nhóm 84.52), kéo điện (nhóm 84.67) hoặc các dụng cụ nhiệt điện (nhóm 85.16).",
+        "en": "4. (cont.) ... centrifugal clothes-dryers (heading 84.21), dish washing machines (heading 84.22), household washing machines (heading 84.50), roller or other ironing machines (heading 84.20 or 84.51), sewing machines (heading 84.52), electric scissors (heading 84.67) or to electro-thermic appliances (heading 85.16)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "5. Theo mục đích của nhóm 85.17, thuật ngữ \"điện thoại thông minh\" có nghĩa là điện thoại dùng cho mạng di động tế bào, được trang bị hệ điều hành di động được thiết kế để thực hiện các chức năng của máy xử lý dữ liệu tự động như tải xuống và chạy nhiều ứng dụng đồng thời, kể cả ứng dụng của bên thứ ba, và có hoặc không tích hợp các tính năng khác như camera kỹ thuật số và hệ thống hỗ trợ điều hướng.",
+        "en": "5. For the purposes of heading 85.17, the term “smartphones” means telephones for cellular networks, equipped with a mobile operating system designed to perform the functions of an automatic data processing machine such as downloading and running multiple applications simultaneously, including thirdparty applications, and whether or not integrating other features such as digital cameras and navigational aid systems."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "6. Theo mục đích của nhóm 85.23:\n(a) \"Các thiết bị lưu trữ bền vững, thể rắn (sản phẩm lưu trữ bán dẫn không bị xóa dữ liệu khi không còn nguồn điện cung cấp)\" (ví dụ, “thẻ nhớ flash (flash memory cards)” hoặc “thẻ lưu trữ điện tử flash (flash electronic storage cards)”) là thiết bị lưu trữ gắn với đầu kết nối (đầu cắm nối), có chứa trong cùng một vỏ một hoặc nhiều linh kiện nhớ flash (ví dụ, “FLASH E2PROM”) dưới dạng mạch tích hợp lắp ghép trên tấm mạch in. Chúng có thể gồm phần điều khiển dưới dạng mạch tích hợp và phần tử thụ động riêng biệt, như tụ điện và điện trở;\n(b) Khái niệm “thẻ thông minh” nghĩa là thẻ được gắn bên trong một hoặc nhiều mạch điện tử tích hợp (bộ vi xử lý, bộ nhớ truy cập ngẫu nhiên (RAM) hoặc bộ nhớ chỉ đọc (ROM)) ở dạng các chip. Các thẻ này có thể bao gồm các tiếp điểm, dải từ tính hoặc ăng ten gắn bên trong nhưng không chứa bất cứ phần tử chủ động hoặc thụ động nào khác.",
+        "en": "6. For the purposes of heading 85.23:\n(a) “Solid-state non-volatile storage devices” (for example, “flash memory cards” or “flash electronic storage cards”) are storage devices with a connecting socket, comprising in the same housing one or more flash memories (for example, “FLASH E2PROM”) in the form of integrated circuits mounted on a printed circuit board. They may include a controller in the form of an integrated circuit and discrete passive components, such as capacitors and resistors;\n(b) The term “smart cards” means cards which have embedded in them one or more electronic integrated circuits (a microprocessor, random access memory (RAM) or read-only memory (ROM)) in the form of chips. These cards may contain contacts, a magnetic stripe or an embedded antenna but do not contain any other active or passive circuit elements."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "7. Theo mục đích của nhóm 85.24, “mô-đun màn hình dẹt” dùng để chỉ các thiết bị hoặc dụng cụ để hiển thị thông tin, được trang bị tối thiểu một màn hiển thị, được thiết kế để lắp vào các sản phẩm thuộc các nhóm khác trước khi sử dụng. Màn hình hiển thị cho các mô-đun màn hình dẹt bao gồm, nhưng không giới hạn ở dạng dẹt, cong, linh hoạt, ở dạng có thể gập lại hoặc co giãn. Mô-đun màn hình dẹt có thể kết hợp thêm các chi tiết, bao gồm cả những chi tiết cần thiết để nhận tín hiệu video và phân bổ các tín hiệu đó đến các điểm ảnh trên màn hiển thị. Tuy nhiên, nhóm 85.24 không bao gồm các mô-đun hiển thị được trang bị các thành phần để chuyển đổi tín hiệu video (ví dụ, IC điều chỉnh tỷ lệ, IC giải mã hoặc bộ xử lý ứng dụng) hoặc mang đặc tính của hàng hóa thuộc các nhóm khác.\nĐể phân loại mô-đun màn hình dẹt được định nghĩa trong Chú giải này, nhóm 85.24 sẽ được ưu tiên hơn bất kỳ nhóm nào khác trong Danh mục.",
+        "en": "7. For the purposes of heading 85.24, “flat panel display modules” refer to devices or apparatus for the display of information, equipped at a minimum with a display screen, which are designed to be incorporated into articles of other headings prior to use. Display screens for flat panel display modules include, but are not limited to, those which are flat, curved, flexible, foldable or stretchable in form. Flat panel display modules may incorporate additional elements, including those necessary for receiving video signals and the allocation of those signals to pixels on the display. However, heading 85.24 does not include display modules which are equipped with components for converting video signals (e.g., a scaler IC, decoder IC or application processer) or have otherwise assumed the character of goods of other headings.\nFor the classification of flat panel display modules defined in this Note, heading 85.24 shall take precedence over any other heading in the Nomenclature."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "8. Theo mục đích của nhóm 85.34 “mạch in” là mạch được tạo ra trên một tấm cách điện bằng một quy trình in mạch nào đó (ví dụ, rập nổi, mạ, khắc axit) hoặc bằng",
+        "en": "8. For the purposes of heading 85.34 “printed circuits” are circuits obtained by forming on an insulating base, by any printing process (for example,"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "8. (tiếp) ... kỹ thuật tạo “mạch điện màng”, các phần tử dẫn điện, các tiếp điểm hoặc các thành phần dùng cho mạch in khác (ví dụ, cuộn cảm, điện trở, tụ điện) đơn lẻ hoặc được liên kết theo sơ đồ mẫu đã thiết kế trước, trừ các phần tử có thể phát (tạo ra), chỉnh lưu, điều biến hoặc khuếch đại tín hiệu điện (ví dụ, các phần tử bán dẫn).\nThuật ngữ “mạch in” không bao gồm mạch đã tổ hợp với các phần tử trừ các phần tử đã được hình thành trong quá trình in mạch, và cũng không bao gồm điện trở, tụ điện hoặc cuộn cảm đơn lẻ hoặc bố trí ghép nối riêng biệt. Tuy nhiên, những mạch in này có thể gắn với phần tử kết nối không qua quá trình in mạch.\nMạch điện màng mỏng hoặc dày bao gồm phần tử chủ động và thụ động hợp thành trong cùng một quy trình công nghệ được phân loại trong nhóm 85.42.",
+        "en": "8. (cont.) ... embossing, plating-up, etching) or by the “film circuit” technique, conductor elements, contacts or other printed components (for example, inductances, resistors, capacitors) alone or interconnected according to a pre-established pattern, other than elements which can produce, rectify, modulate or amplify an electrical signal (for example, semiconductor elements).\nThe expression “printed circuits” does not cover circuits combined with elements other than those obtained during the printing process, nor does it cover individual, discrete resistors, capacitors or inductances. Printed circuits may, however, be fitted with non-printed connecting elements.\nThin- or thick-film circuits comprising passive and active elements obtained during the same technological process are to be classified in heading 85.42."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "9. Theo mục đích của nhóm 85.36, “đầu nối dùng cho sợi quang, bó sợi quang hoặc cáp quang” nghĩa là đầu nối chỉ dùng để ghép nối đối đầu một cách cơ học các sợi quang trong hệ thống đường truyền kỹ thuật số. Chúng không có chức năng khác, như khuếch đại, tái tạo hoặc biến đổi tín hiệu.",
+        "en": "9. For the purpose of heading 85.36, “connectors for optical fibres, optical fibre bundles or cables” means connectors that simply mechanically align optical fibres end to end in a digital line system. They perform no other function, such as the amplification, regeneration or modification of a signal."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "10. Nhóm 85.37 không gồm các thiết bị không dây hồng ngoại dùng cho điều khiển từ xa của máy thu truyền hình hoặc các thiết bị điện khác (nhóm 85.43).",
+        "en": "10. Heading 85.37 does not include cordless infrared devices for the remote control of television receivers or other electrical equipment (heading 85.43)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "11. Theo mục đích của nhóm 85.39, khái niệm “nguồn sáng đi-ốt phát quang (LED)” bao gồm:\n(a) “Mô-đun đi-ốt phát quang (LED)” là nguồn sáng điện dựa trên các đi-ốt phát quang (LED) được bố trí trong các mạch điện và chứa thêm các phần tử như phần tử điện, cơ, nhiệt hoặc quang học. Chúng cũng chứa các phần tử chủ động riêng biệt, phần tử thụ động riêng biệt, hoặc các sản phẩm thuộc nhóm 85.36 hoặc 85.42 nhằm mục đích cung cấp nguồn điện hoặc điều khiển nguồn điện. Mô-đun đi-ốt phát quang (LED) không có đầu đèn được thiết kế để cho phép dễ dàng lắp đặt hoặc thay thế trong đèn điện và đảm bảo tiếp xúc cơ và điện.\n(b) “Đèn đi-ốt phát quang (LED)” là nguồn sáng điện gồm một hoặc nhiều mô-đun LED có chứa thêm các phần tử như phần tử điện, cơ, nhiệt hoặc quang học. Sự khác biệt giữa mô-đun đi-ốt phát quang (LED) và bóng đèn đi-ốt phát quang (LED) là đèn (lamp) có đầu đèn được thiết kế để cho phép dễ dàng lắp đặt hoặc thay thế trong đèn (luminaire) và đảm bảo tiếp xúc cơ và điện.",
+        "en": "11.- For the purposes of heading 85.39, the expression “light-emitting diode (LED) light sources” covers:\n(a) “Light-emitting diode (LED) modules” which are electrical light sources based on light-emitting diodes (LED) arranged in electrical circuits and containing further elements like electrical, mechanical, thermal or optical elements. They also contain discrete active elements, discrete passive elements, or articles of heading 85.36 or 85.42 for the purposes of providing power supply or power control. Lightemitting diode (LED) modules do not have a cap designed to allow easy installation or replacement in a luminaire and ensure mechanical and electrical contact.\n(b) “Light-emitting diode (LED) lamps” which are electrical light sources containing one or more LED modules containing further elements like electrical, mechanical, thermal or optical elements. The distinction between light-emitting diode (LED) modules and light-emitting diode (LED) lamps is that lamps have a cap designed to allow easy installation or replacement in a luminaire and ensure mechanical and electrical contact."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "12. Theo mục đích của nhóm 85.41 và 85.42:\n(a) (i) “Thiết bị bán dẫn” là các thiết bị bán dẫn mà hoạt động của nó phụ thuộc vào sự thay đổi của điện trở suất khi áp dụng điện trường hoặc các bộ chuyển đổi dựa trên chất bán dẫn. Các thiết bị bán dẫn cũng có thể bao gồm nhiều phần tử được lắp ráp, có hoặc không được trang bị các chức năng phụ trợ của thiết bị chủ động và thụ động.",
+        "en": "12. For the purposes of headings 85.41 and 85.42:\n(a) (i) “Semiconductor devices” are semiconductor devices the operation of which depends on variations in resistivity on the application of an electric field or semiconductor-based transducers. Semiconductor devices may also include assembly of plural elements, whether or not equipped with active and passive device ancillary functions."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "12. (tiếp) Theo mục đích của định nghĩa này, “Bộ chuyển đổi dựa trên chất bán dẫn” là cảm biến dựa trên chất bán dẫn, bộ truyền động dựa trên chất bán dẫn, bộ cộng hưởng dựa trên chất bán dẫn và bộ tạo dao động dựa trên chất bán dẫn, là các loại thiết bị dựa trên chất bán dẫn riêng biệt, thực hiện một chức năng theo bản chất của nó, có thể chuyển đổi bất kỳ loại hiện tượng vật lý hoặc hóa học hoặc hoạt động nào thành tín hiệu điện hoặc tín hiệu điện thành bất kỳ loại hiện tượng vật lý hoặc hoạt động nào. Tất cả các phần tử trong bộ chuyển đổi dựa trên chất bán dẫn được kết hợp một cách không thể tách rời và cũng có thể bao gồm các vật liệu cần thiết được gắn một cách không thể tách rời, nó đảm bảo cho cấu trúc hoặc chức năng của chúng. Các thuật ngữ sau đây có nghĩa là:\n(1) “Dựa trên chất bán dẫn” có nghĩa là được chế tạo hoặc sản xuất trên nền bán dẫn hoặc làm bằng vật liệu bán dẫn, được sản xuất bằng công nghệ bán dẫn, trong đó chất nền hoặc vật liệu bán dẫn đóng vai trò quan trọng và không thể thay thế đối với chức năng và hiệu suất của bộ chuyển đổi và hoạt động của nó dựa trên các đặc tính bán dẫn bao gồm các đặc tính vật lý, điện, hóa học và quang học.\n(2) “Đại lượng vật lý hoặc đại lượng hóa học” liên quan đến các đại lượng như áp suất, sóng âm thanh, gia tốc, rung, chuyển động, phương hướng, sức căng, cường độ từ trường, cường độ điện trường, ánh sáng, phóng xạ, độ ẩm, dòng chảy, nồng độ hóa chất…\n(3) “Cảm biến dựa trên chất bán dẫn” là một loại thiết bị bán dẫn, bao gồm các cấu trúc vi điện tử hoặc cấu trúc cơ khí được chế tạo trong khối hoặc trên bề mặt chất bán dẫn và có chức năng dò tìm đại lượng vật lý hoặc hóa học và chuyển đổi thành các tín hiệu điện nhờ vào kết quả của sự thay đổi những thuộc tính điện hoặc sự dịch chuyển một cấu trúc cơ khí.\n(4) “Cơ cấu chấp hành dựa trên chất bán dẫn” là một loại thiết bị bán dẫn, bao gồm các cấu trúc vi điện tử hoặc cấu trúc cơ khí được chế tạo trong khối hoặc trên bề mặt chất bán dẫn và có chức năng chuyển đổi tín hiệu điện thành chuyển động vật lý.\n(5) “Thiết bị cộng hưởng dựa trên chất bán dẫn” là một loại thiết bị bán dẫn, bao gồm các cấu trúc vi điện tử hoặc cấu trúc cơ khí được chế tạo trong khối hoặc trên bề mặt chất bán dẫn và chúng có chức năng tạo ra dao động điện hoặc dao động cơ với một tần số xác định trước phụ thuộc vào hình dạng vật lý của các cấu trúc đó để đáp ứng với một đầu vào bên ngoài.\n(6) “Thiết bị dao động dựa trên chất bán dẫn” là một loại thiết bị bán dẫn, bao gồm bao gồm các cấu trúc vi điện tử hoặc cấu trúc cơ khí được chế tạo trong khối",
+        "en": "12. (cont.) “Semiconductor-based transducers” are, for the purposes of this definition, semiconductor-based sensors, semiconductorbased actuators, semiconductorbased resonators and semiconductor-based oscillators, which are types of discrete semiconductor-based devices, which perform an intrinsic function, which are able to convert any kind of physical or chemical phenomena or an action into an electrical signal or an electrical signal into any type of physical phenomenon or an action. All the elements in semiconductorbased transducers are indivisibly combined, and may also include necessary materials indivisibly attached, that enable their construction or function. The following expressions mean:\n(1) “Semiconductor-based” means built or manufactured on a semiconductor substrate or made of semiconductor materials, manufactured by semiconductor technology, in which the semiconductor substrate or material plays a critical and unreplaceable role of transducer function and performance, and the operation of which is based on semiconductor properties including physical, electrical, chemical and optical properties.\n(2) “Physical or chemical phenomena” relate to phenomena, such as pressure, acoustic waves, acceleration, vibration, movement, orientation, strain, magnetic field strength, electric field strength, light, radioactivity, humidity, flow, chemicals concentration, etc.\n(3) “Semiconductor-based sensor” is a type of semiconductor device, which consists of microelectronic or mechanical structures that are created in the mass or on the surface of a semiconductor and that have the function of detecting physical or chemical quantities and converting these into electric signals caused by resulting variations in electric properties or displacement of a mechanical structure.\n(4) “Semiconductor-based actuator” is a type of semiconductor device, which consists of microelectronic or mechanical structures that are created in the mass or on the surface of a semiconductor and that have the function of converting electric signals into physical movement.\n(5) “Semiconductor-based resonator” is a type of semiconductor device, which consists of microelectronic or mechanical structures that are created in the mass or on the surface of a semiconductor and that have the function of generating a mechanical or electrical oscillation of a predefined frequency that depends on the physical geometry of these structures in response to an external input.\n(6) “Semiconductor-based oscillator” is a type of semiconductor device, which consists of microelectronic or mechanical structures that are created in the mass or on the surface of a semiconductor and that have the function of generating a mechanical or electrical oscillation of a predefined frequency that depends on the physical geometry of these structures."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "12. (tiếp) ... (a)(ii) “Đi-ốt phát quang (LED)” là thiết bị bán dẫn dựa trên vật liệu bán dẫn chuyển đổi năng lượng điện thành các tia có thể nhìn thấy, tia hồng ngoại hoặc tia cực tím, có hoặc không kết nối điện với nhau và có hoặc không kết hợp với đi-ốt bảo vệ. Đi-ốt phát quang (LED) thuộc nhóm 85.41 không kết hợp các phần tử với mục đích cung cấp nguồn hoặc điều khiển nguồn;\n(b) “Mạch điện tử tích hợp” là:\n(i) Mạch tích hợp đơn khối trong đó các phần tử của mạch điện (đi-ốt, tranzito, điện trở, tụ điện, cuộn cảm...) được tạo (chủ yếu) trong khối đó và trên bề mặt của một vật liệu bán dẫn hoặc vật liệu bán dẫn kết hợp (ví dụ, silic đã kích tạp, gali asenua, silic-germani, indi photphua) và ở dạng liên kết chặt chẽ (không tách biệt);\n(ii) Mạch tích hợp lai trong đó các phần tử thụ động (điện trở, tụ điện, cuộn cảm...), được tạo thành từ công nghệ màng mỏng hoặc màng dày và các phần tử chủ động (đi-ốt, tranzito, mạch tích hợp đơn khối...), được tạo thành nhờ công nghệ bán dẫn, các phần tử này được kết nối không tách rời, bằng việc gắn kết với nhau hoặc bằng dây liên kết, trên một tấm cách điện đơn (thủy tinh, gốm sứ...). Những mạch này cũng có thể kể cả các linh kiện bố trí riêng biệt;\n(iii) Mạch tích hợp đa chíp bao gồm hai hoặc nhiều mạch tích hợp đơn khối gắn với nhau không tách rời, có hoặc không gắn một hoặc nhiều tấm cách điện, có hoặc không có khung dây, nhưng không gắn phần tử mạch chủ động hoặc thụ động khác.\n(iv) Mạch tích hợp đa thành phần (MCOs): sự kết hợp một hoặc nhiều mạch tích hợp đơn khối, lai hoặc đa chíp có ít nhất một trong những thành phần sau: cảm biến, cơ cấu chấp hành, bộ dao động, bộ cộng hưởng nền silic, hoặc kết hợp giữa chúng, hoặc các thành phần thực hiện chức năng của hàng hóa thuộc nhóm 85.32, 85.33, 85.41, hoặc cuộn cảm thuộc nhóm 85.04, được định hình với mọi mục đích thành một khối duy nhất không thể tách rời giống một bảng mạch tích hợp, như thành phần được lắp ráp trên tấm mạch in (PCB) hoặc trên vật mang khác, thông qua việc kết nối các chân cắm, dây dẫn (leads), khớp nối cầu (balls), dải nối (lands), mấu nối (bumps), hoặc đế/đệm nối (pads).\nTheo mục đích của định nghĩa này:\n1. “Thành phần” có thể riêng biệt, được chế tạo độc lập, sau đó được lắp ráp lên mạch tích hợp đa thành phần (MCO), hoặc được tích hợp trong những thành phần khác.\n2. “Nền silic” nghĩa là được đặt trên một nền silic, hoặc được làm bằng vật liệu silic, hoặc được chế tạo trên khuôn mạch tích hợp (integrated circuit die).",
+        "en": "12. (cont.) ... (a)(ii) “Light-emitting diodes (LED)” are semiconductor devices based on semiconductor materials which convert electrical energy into visible, infra-red or ultra-violet rays, whether or not electrically connected among each other and whether or not combined with protective diodes. Light-emitting diodes (LED) of heading 85.41 do not incorporate elements for the purposes of providing power supply or power control;\n(b) “Electronic integrated circuits” are:\n(i) Monolithic integrated circuits in which the circuit elements (diodes, transistors, resistors, capacitors, inductances, etc.) are created in the mass (essentially) and on the surface of a semiconductor or compound semiconductor material (for example, doped silicon, gallium arsenide, silicon germanium, indium phosphide) and are inseparably associated;\n(ii) Hybrid integrated circuits in which passive elements (resistors, capacitors, inductances, etc.), obtained by thin- or thick-film technology, and active elements (diodes, transistors, monolithic integrated circuits, etc.), obtained by semiconductor technology, are combined to all intents and purposes indivisibly, by interconnections or interconnecting cables, on a single insulating substrate (glass, ceramic, etc.). These circuits may also include discrete components;\n(iii) Multichip integrated circuits consisting of two or more interconnected monolithic integrated circuits combined to all intents and purposes indivisibly, whether or not on one or more insulating substrates, with or without leadframes, but with no other active or passive circuit elements.\n(iv) Multi-component integrated circuits (MCOs): a combination of one or more monolithic, hybrid, or multi-chip integrated circuits with at least one of the following components: silicon-based sensors, actuators, oscillators, resonators or combinations thereof, or components performing the functions of articles classifiable under heading 85.32, 85.33, 85.41, or inductors classifiable under heading 85.04, formed to all intents and purposes indivisibly into a single body like an integrated circuit, as a component of a kind used for assembly onto a printed circuit board (PCB) or other carrier, through the connecting of pins, leads, balls, lands, bumps, or pads.\nFor the purpose of this definition:\n1. “Components” may be discrete, manufactured independently then assembled onto the rest of the MCO, or integrated into other components.\n2. “Silicon based” means built on a silicon substrate, or made of silicon materials, or manufactured onto integrated circuit die."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "12. (tiếp) 3. (a) “Cảm biến nền silic” bao gồm những cấu trúc vi điện tử hoặc cấu trúc cơ khí được chế tạo trong khối hoặc trên bề mặt bán dẫn và chúng có chức năng dò tìm đại lượng vật lý hoặc đại lượng hóa học và chuyển đổi thành những tín hiệu điện nhờ vào kết quả của sự thay đổi những thuộc tính điện hoặc sự dịch chuyển một cấu trúc cơ khí. “Đại lượng vật lý hoặc đại lượng hóa học” liên quan đến các đại lượng như áp suất, sóng âm thanh, gia tốc, rung, chuyển động, phương hướng, sức căng, cường độ từ trường, cường độ điện trường, ánh sáng, phóng xạ, độ ẩm, dòng chảy, nồng độ hóa chất...\n(b) “Cơ cấu chấp hành nền silic” bao gồm những cấu trúc vi điện tử và cấu trúc cơ khí được chế tạo trong khối hoặc trên bề mặt chất bán dẫn và chúng có chức năng chuyển đổi tín hiệu điện thành chuyển động vật lý.\n(c) “Bộ cộng hưởng nền silic” là thành phần bao gồm những cấu trúc vi điện tử hoặc cấu trúc cơ khí được chế tạo trong khối hoặc trên bề mặt chất bán dẫn và chúng có chức năng tạo ra dao động điện hoặc dao động cơ với một tần số xác định trước phụ thuộc vào hình dạng vật lý của các cấu trúc đó để đáp ứng với một đầu vào bên ngoài.\n(d) “Bộ dao động nền silic” là thành phần chủ động bao gồm những cấu trúc vi điện tử hoặc cấu trúc cơ khí được chế tạo trong khối hoặc trên bề mặt chất bán dẫn và chúng có chức năng tạo ra sự dao động điện hoặc dao động cơ với một tần số xác định trước phụ thuộc vào hình dạng vật lý của các cấu trúc đó.\nĐể phân loại những mặt hàng được định nghĩa trong Chú giải này, các nhóm 85.41 và 85.42 được ưu tiên xem xét trước hết so với bất kỳ nhóm nào khác trong Danh mục hàng hóa, trừ các mặt hàng thuộc nhóm 85.23.",
+        "en": "12. (cont.) 3. (a) “Silicon-based sensors” consist of microelectronic or mechanical structures that are created in the mass or on the surface of a semiconductor and that have the function of detecting physical or chemical phenomena and transducing these into electric signals, caused by resulting variations in electric properties or displacement of a mechanical structure. “Physical or chemical phenomena” relates to real world phenomena, such as pressure, acoustic waves, acceleration, vibration, movement, orientation, strain, magnetic field strength, electric field strength, light, radioactivity, humidity, flow, chemicals concentration, etc.\n(b) “Silicon based actuators” consist of microelectronic and mechanical structures that are created in the mass or on the surface of a semiconductor and that have the function of converting electrical signals into physical movement.\n(c) “Silicon based resonators” are components that consist of microelectronic or mechanical structures that are created in the mass or on the surface of a semiconductor and have the function of generating a mechanical or electrical oscillation of a predefined frequency that depends on the physical geometry of these structures in response to an external input.\n(d) “Silicon based oscillators” are active components that consist of microelectronic or mechanical structures that are created in the mass or on the surface of a semiconductor and that have the function of generating a mechanical or electrical oscillation of a predefined frequency that depends on the physical geometry of these structures.\nFor the classification of the articles defined in this Note, headings 85.41 and 85.42 shall take precedence over any other heading in the Nomenclature, except in the case of heading 85.23, which might cover them by reference to, in particular, their function."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 7,
+      "content": {
+        "vi": "(A) PHẠM VI VÀ CẤU TRÚC CỦA CHƯƠNG\nChương này bao gồm tất cả các máy móc và thiết bị điện, ngoại trừ:\n(a) Các loại máy móc và thiết bị được mô tả ở Chương 84, chúng vẫn được xếp ở chương 84 mặc dù chúng chạy bằng điện (xem chú giải chi tiết tổng quát cúa chương 84).\nvà (b) Một số máy móc và thiết bị cụ thể được loại trừ khỏi Phần này (xem chú giải chi tiết tổng quát phần XVI).\nTrái với các quy tắc trong chương 84, các hàng hóa vẫn được phân loại ở chương này dù nó được làm từ chất liệu bằng sứ hoặc bằng thủy tinh, ngoại trừ các phần vỏ bóng đèn thủy tinh (kể cả bóng dạng bầu và dạng ống) thuộc nhóm 70.11.\nChương này bao gồm:\n(1) Máy móc và thiết bị để sản xuất, biến đổi hoặc lưu trữ điện năng, ví dụ như máy phát điện, máy biến áp, v.v... (từ nhóm 85.01 đến 85.04) và các pin (nhóm 85.06) và ắc-quy (nhóm 85.07).\n(2) Một số thiết bị gia dụng cụ thể (nhóm 85.09) và máy cạo, tông đơ và dụng cụ loại bỏ râu, lông, tóc (nhóm 85.10).\n(3) Các máy móc và thiết bị cụ thể có hoạt động phụ thuộc vào đặc tính và hiệu ứng của điện, như các hiệu ứng điện-từ, đặc tính nhiệt, v.v... (nhóm 85.05, 85.11 đến 85.18, 85.25 đến 85.31 và 85.43).\n(4) Các thiết bị ghi hoặc tái tạo âm thanh; các thiết bị ghi hoặc tái tạo hình ảnh; bộ phận và phụ kiện của các thiết bị này (từ nhóm 85.19 đến 85.22).\n(5) Các phương tiện ghi âm hoặc các phương tiện tương tự để ghi các hiện tượng khác (bao gồm cả các phương tiện ghi hình ảnh, nhưng ngoại trừ phim để tạo ảnh hoặc phim dùng trong điện ảnh của Chương 37) (nhóm 85.23).",
+        "en": "(A) SCOPE AND STRUCTURE OF THE CHAPTER\nThis Chapter covers all electrical machinery and equipment, other than:\n(a) Machinery and apparatus of a kind covered by Chapter 84, which remains classified there even if electric (see the General Explanatory Note to that Chapter).\nand (b) Certain goods excluded from the Section as a whole (see the General Explanatory Note to Section XVI).\nContrary to the rules in Chapter 84, the goods of this Chapter remain classified here, even if they are of ceramic materials or glass, with the exception of glass envelopes (including bulbs and tubes) of heading 70.11.\nThis Chapter covers:\n(1) Machines and apparatus for the production, transformation or storage of electricity, e.g., generators, transformers, etc. (headings 85.01 to 85.04) and primary cells (heading 85.06) and accumulators (heading 85.07).\n(2) Certain domestic appliances (heading 85.09), and shavers, hair clippers and hair-removing appliances (heading 85.10).\n(3) Certain machines and appliances which depend for their operation on the properties or effects of electricity, such as its electro-magnetic effects, heating properties, etc. (headings 85.05, 85.11 to 85.18, 85.25 to 85.31 and 85.43).\n(4) Instruments and appliances for recording or reproducing sound; video recorders or reproducers; parts and accessories for such instruments and appliances (headings 85.19 to 85.22).\n(5) Recording media for sound or similar recording of other phenomena (including video recording media, but excluding photographic or cinematographic films of Chapter 37) (heading 85.23)."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "(A) (tiếp)\n(6) Mô-đun màn hình dẹt (nhóm 85.24).\n(7) Các mặt hàng điện loại thường không được sử dụng độc lập, nhưng được thiết kế như những thành phần có chức năng cụ thể trong các thiết bị điện,... ví dụ như tụ điện (nhóm 85.32), công tắc điện, cầu chì, hộp đấu nối, v.v... (nhóm 85.35 hoặc 85.36), bóng đèn (nhóm 85.39), đèn điện tử và ống điện tử dùng nhiệt điện tử, v.v... (nhóm 85.40), các điốt, tranzito và các thiết bị bán dẫn tương tự (nhóm 85.41), điện cực than (nhóm 85.45).\n(8) Một số sản phẩm và vật liệu dùng trong các dụng cụ và thiết bị điện nhờ tính dẫn điện hoặc cách điện, chẳng hạn như dây điện cách điện và phụ kiện của chúng (nhóm 85.44), vật liệu cách điện (nhóm 85.46), phụ kiện cách điện và các ống dẫn dây điện bằng kim loại đã được lót vật liệu cách điện bên trong (nhóm 85.47).\nNgoài các thiết bị được nêu ở trên, Chương này cũng bao gồm các nam châm vĩnh cửu, kể cả loại chưa được từ hóa và các nam châm vĩnh cửu dùng làm dụng cụ giữ (nhóm 85.05).\nTuy nhiên, cũng phải chú ý rằng, Chương này chỉ bao gồm một số thiết bị nhiệt điện nhất định như lò nung v.v... (nhóm 85.14), và các thiết bị làm nóng không gian, và các thiết bị nhiệt gia dụng v.v... (nhóm 85.16).\nCũng phải chú ý thêm rằng một số mô đun nhớ điện tử (ví dụ SIMMs và DIMMs), nó không thể được xem như sản phẩm của nhóm 85.23 hoặc mạch tích hợp đa thành phần (MCOs) của nhóm 85.42 (xem Chú giải 12 (b) (iv) của Chương này), và không có chức năng riêng biệt khác sẽ được phân loại bằng cách áp dụng Chú giải 2 Phần XVI như sau:\n(a) mô đun thích hợp để chỉ dùng hoặc chủ yếu dùng với các máy xử lý dữ liệu tự động được phân loại vào nhóm 84.73 như bộ phận của các máy này,\n(b) mô đun thích hợp để chỉ dùng hoặc chủ yếu dùng với các máy cụ thể khác hoặc với một số các máy móc trong cùng nhóm thì được phân loại như bộ phận của máy hoặc nhóm máy đó, và\n(c) trường hợp không thể xác định được công dụng chính thì các mô đun này phân loại vào nhóm 85.48.\nTuy nhiên, nhìn chung các thiết bị nhiệt điện rơi vào chương khác (chủ yếu ở Chương 84), ví dụ: nồi hơi tạo ra hơi nước và nồi hơi nước quá nhiệt (nhóm 84.02), máy điều hòa không khí (nhóm 84.15), thiết bị rang, chưng cất hay thiết bị khác của nhóm 84.19, các loại máy cán là hay máy cán ép phẳng kiểu trục con lăn khác và các loại trục cán của chúng (nhóm 84.20), máy ấp trứng gia cầm và thiết bị sưởi ấm gia cầm mới nở (nhóm 84.36), các loại máy in nhãn có mục đích dùng chung cho gỗ, lie, da... (nhóm 84.79) và thiết bị y khoa (nhóm 90.18).",
+        "en": "(A) (cont.)\n(6) Flat panel display modules (heading 85.24).\n(7) Certain electrical goods not generally used independently, but designed to play a particular role as components, in electrical equipment, e.g., capacitors (heading 85.32), switches, fuses, junction boxes, etc. (heading 85.35 or 85.36), lamps (heading 85.39), thermionic, etc., valves and tubes (heading 85.40), diodes, ftansistors and similar semiconductor devices (heading 85.41), electrical carbons (heading 85.45).\n(8) Certain articles and materials which are used in electrical apparatus and equipment because of their conducting or insulating properties, such as insulated electric wire and assemblies thereof (heading 85.44), insulators (heading 85.46), insulating fittings and metal conduit tubing with an interior insulating lining (heading 85.47).\nIn addition to the electrical goods indicated above, the Chapter also covers permanent magnets, including those not yet magnetised, and permanent magnet work holders (heading 85.05).\nIt should, however, be noted that this Chapter covers only certain types of electro-thermic apparatus, e.g., furnaces, etc. (heading 85.14) and space heating equipment, domestic appliances, etc. (heading 85.16).\nIt should be further noted that certain electronic memory modules (e.g., SIMMs (Single In-line Memory Modules) and DIMMs (Dual In-line Memory Modules)) which cannot be regarded as products of heading 85.23 or as multi-component integrated circuits (MCOs) of heading 85.42 (see Note 12 (b) (iv) to this Chapter), and do not have another individual function are to be classified by application of Note 2 to Section XVI as follows:\n(a) modules suitable for use solely or principally with automatic data processing machines are to be classified in heading 84.73 as parts of those machines,\n(b) modules suitable for use solely or principally with other specific machines or with a number of machines of the same heading are to be classified as parts of those machines or groups of machines, and\n(c) where it is not possible to determine principal use, the modules are to be classified in heading 85.48.\nIn general, however, electrically heated apparatus falls in other Chapters (mainly in Chapter 84), for example: steam generating boilers and super-heated water boilers (heading 84.02), air conditioning machines (heading 84.15), roasting, distilling or other apparatus of heading 84.19, calendering or other rolling machines and cylinders therefor (heading 84.20), poultry incubators and brooders (heading 84.36), general purpose branding machines for wood, cork, leather, etc. (heading 84.79), medical apparatus (heading 90.18)."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "(B) CÁC BỘ PHẬN\nLiên quan đến các bộ phận nói chung, xem chú giải chi tiết tổng quát Phần XVI\nCác bộ phận không dùng điện của máy móc hoặc thiết bị trong Chương này được phân loại như sau:\n(i) Trên thực tế, rất nhiều bộ phận thuộc các sản phẩm của chương này được phân loại vào chương khác (đặc biệt là Chương 84), ví dụ như máy bơm và quạt (nhóm 84.13 hoặc 84.14), van, vòi v.v... (nhóm 84.81), vòng bi (nhóm 84.82), trục truyền động, bánh răng v.v... (nhóm 84.83).\n(ii) Các bộ phận không dùng điện khác thích hợp để chỉ dùng hoặc chủ yếu dùng cho các máy hoặc thiết bị điện cụ thể... của Chương này (hoặc với một số máy của cùng nhóm) thì được phân loại cùng với máy đó (hoặc các máy đó), hoặc nếu phù hợp thì được xếp vào nhóm 85.03, 85.22, 85.29 hoặc 85.38.\n(iii) Các bộ phận không dùng điện khác xếp vào nhóm 84.87.",
+        "en": "(B) PARTS\nAs regards parts in general, see the General Explanatory Note to Section XVI.\nNon-electrical parts of the machines or apparatus of this Chapter are classified as follows:\n(i) Many are in fact articles falling in other Chapters (especially Chapter 84), for example, pumps and fans (heading 84.13 or 84.14), taps, cocks, etc. (heading 84.81), ball bearings (heading 84.82), transmission shafts, gearing, etc. (heading 84.83).\n(ii) Other non-electrical parts suitable for use solely or principally with a particular kind of electrical machine of this Chapter (or with a number of machines falling in the same heading) are to be classified with that machine (or those machines) or, if appropriate, in heading 85.03, 85.22, 85.29 or 85.38.\n(iii) Other non-electrical parts fall in heading 84.87."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "85.01",
+      "heading_title": {
+        "vi": "Động cơ điện và máy phát điện (trừ tổ máy phát điện).",
+        "en": "Electric motors and generators (excluding generating sets)."
+      }
+    },
+    {
+      "heading_id": "85.02",
+      "heading_title": {
+        "vi": "Tổ máy phát điện và máy biến đổi điện quay.",
+        "en": "Electric generating sets and rotary converters."
+      }
+    },
+    {
+      "heading_id": "85.03",
+      "heading_title": {
+        "vi": "Các bộ phận chỉ dùng hoặc chủ yếu dùng cho các loại máy thuộc nhóm 85.01 hoặc 85.02.",
+        "en": "Parts suitable for use solely or principally with the machines of heading 85.01 or 85.02."
+      }
+    },
+    {
+      "heading_id": "85.04",
+      "heading_title": {
+        "vi": "Máy biến điện (máy biến áp và máy biến dòng), máy biến đổi điện tĩnh (ví dụ, bộ chỉnh lưu) và cuộn cảm.",
+        "en": "Electrical transformers, static converters (for example, rectifiers) and inductors."
+      }
+    },
+    {
+      "heading_id": "85.05",
+      "heading_title": {
+        "vi": "Nam châm điện; nam châm vĩnh cửu và các mặt hàng được dùng làm nam châm vĩnh cửu sau khi từ hóa; bàn cặp, giá kẹp và các dụng cụ để giữ tương tự, hoạt động bằng nam châm điện hoặc nam châm vĩnh cửu; các khớp nối, khớp ly hợp và phanh hoạt động bằng điện từ; đầu nâng hoạt động bằng điện từ.",
+        "en": "Electro-magnets; permanent magnets and articles intended to become permanent magnets after magnetisation; electro-magnetic or permanent magnet chucks, clamps and similar holding devices; electro-magnetic couplings, clutches and brakes; electro-magnetic lifting heads."
+      }
+    },
+    {
+      "heading_id": "85.06",
+      "heading_title": {
+        "vi": "Pin và bộ pin (+).",
+        "en": "Primary cells and primary batteries (+)."
+      }
+    },
+    {
+      "heading_id": "85.07",
+      "heading_title": {
+        "vi": "Ắc qui điện, kể cả tấm vách ngăn của nó, có hoặc không ở dạng hình chữ nhật (kể cả hình vuông).",
+        "en": "Electric accumulators, including separators therefor, whether or not rectangular (including square)."
+      }
+    },
+    {
+      "heading_id": "85.08",
+      "heading_title": {
+        "vi": "Máy hút bụi.",
+        "en": "Vacuum cleaners."
+      }
+    },
+    {
+      "heading_id": "85.09",
+      "heading_title": {
+        "vi": "Thiết bị cơ điện gia dụng có động cơ điện gắn liền, trừ máy hút bụi của nhóm 85.08.",
+        "en": "Electro-mechanical domestic appliances, with self-contained electric motor, other than vacuum cleaners of heading 85.08."
+      }
+    },
+    {
+      "heading_id": "85.10",
+      "heading_title": {
+        "vi": "Máy cạo, tông đơ và các dụng cụ loại bỏ râu, lông, tóc, có động cơ điện gắn liền.",
+        "en": "Shavers, hair clippers and hair-removing appliances, with self-contained electric motor."
+      }
+    },
+    {
+      "heading_id": "85.11",
+      "heading_title": {
+        "vi": "Thiết bị đánh lửa hoặc khởi động bằng điện loại dùng cho động cơ đốt trong đốt cháy bằng tia lửa điện hoặc cháy do nén (ví dụ, magneto đánh lửa, dynamo magneto, cuộn dây đánh lửa, bugi đánh lửa và bugi sấy, động cơ khỏi động); máy phát điện (ví dụ, dynamo, alternator) và thiết bị ngắt mạch loại được sử dụng cùng các động cơ nêu trên.",
+        "en": "Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines."
+      }
+    },
+    {
+      "heading_id": "85.12",
+      "heading_title": {
+        "vi": "Thiết bị chiếu sáng hoặc thiết bị tín hiệu hoạt động bằng điện (trừ loại thuộc nhóm 85.39), gạt nước, gạt và chống tạo sương và tuyết trên kính chắn, loại dùng cho xe đạp hoặc xe có động cơ.",
+        "en": "Electrical lighting or signalling equipment (excluding articles of heading 85.39), windscreen wipers, defrosters and demisters, of a kind used for cycles or motor vehicles."
+      }
+    },
+    {
+      "heading_id": "85.13",
+      "heading_title": {
+        "vi": "Đèn điện xách tay được thiết kế để hoạt động bằng nguồn năng lượng riêng của nó (ví dụ, pin khô, ắc qui, magneto), trừ thiết bị chiếu sáng thuộc nhóm 85.12.",
+        "en": "Portable electric lamps designed to function by their own source of energy (for example, dry batteries, accumulators, magnetos), other than lighting equipment of heading 85.12."
+      }
+    },
+    {
+      "heading_id": "85.14",
+      "heading_title": {
+        "vi": "Lò luyện, nung và lò sấy điện dùng trong công nghiệp hoặc trong phòng thí nghiệm (kể cả các loại hoạt động bằng cảm ứng điện hoặc tổn hao điện môi); các thiết bị khác dùng trong công nghiệp hoặc trong phòng thí nghiệm để xử lý nhiệt các vật liệu bằng cảm ứng điện hoặc tổn hao điện môi.",
+        "en": "Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss."
+      }
+    },
+    {
+      "heading_id": "85.15",
+      "heading_title": {
+        "vi": "Máy và thiết bị hàn các loại dùng điện (kể cả khí ga nung nóng bằng điện), dùng chùm tia laser hoặc chùm tia sáng khác hoặc chùm phô-tông, siêu âm, chùm electron, xung từ hoặc hồ quang, có hoặc không có khả năng cắt; máy và thiết bị dùng điện để xì nóng kim loại hoặc gốm kim loại.",
+        "en": "Electric (including electrically heated gas), laser or other light or photon beam, ultrasonic, electron beam, magnetic pulse or plasma arc soldering, brazing or welding machines and apparatus, whether or not capable of cutting; electric machines and apparatus for hot spraying of metals or cermets."
+      }
+    },
+    {
+      "heading_id": "85.16",
+      "heading_title": {
+        "vi": "Dụng cụ điện đun nước nóng tức thời hoặc đun nước nóng có dự trữ và đun nước nóng kiểu nhúng; dụng cụ điện làm nóng không gian và làm nóng đất; dụng cụ nhiệt điện làm tóc (ví dụ, máy sấy tóc, máy uốn tóc, dụng cụ kẹp uốn tóc) và máy sấy làm khô tay; bàn là điện; dụng cụ nhiệt điện gia dụng khác; các loại điện trở đốt nóng bằng điện, trừ loại thuộc nhóm 85.45.",
+        "en": "Electric instantaneous or storage water heaters and immersion heaters; electric space heating apparatus and soil heating apparatus; electro-thermic hair-dressing apparatus (for example, hair diyers, hair curlers, curling tong heaters) and hand dryers; electric smoothing irons; other electro-thermic appliances of a kind used for domestic purposes; electric heating resistors, other than those of heading 85.45."
+      }
+    },
+    {
+      "heading_id": "85.17",
+      "heading_title": {
+        "vi": "Bộ điện thoại, kể cả điện thoại cho mạng di động tế bào hoặc mạng không dây khác; thiết bị khác để truyền hoặc nhận tiếng, hình ảnh hoặc dữ liệu khác, kể cả các thiết bị viễn thông nối mạng hữu tuyến hoặc không dây (như loại sử dụng trong mạng nội bộ hoặc mạng diện rộng), trừ loại thiết bị truyền hoặc thu của nhóm 84.43, 85.25, 85.27 hoặc 85.28.",
+        "en": "Telephone sets, including smartphones and other telephones for cellular networks or for other wireless networks; other apparatus for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network), other than transmission or reception apparatus of heading 84.43, 85.25, 85.27 or 85.28 (+)."
+      }
+    },
+    {
+      "heading_id": "85.18",
+      "heading_title": {
+        "vi": "Micro và giá đỡ micro; loa, đã hoặc chưa lắp ráp vào trong vỏ loa; tai nghe có khung chụp qua đầu và tai nghe không có khung chụp qua đầu, có hoặc không ghép nối với một micro, và các bộ gồm có một micro và một hoặc nhiều loa; thiết bị điện khuếch đại âm tần; bộ tăng âm điện.",
+        "en": "Microphones and stands therefor; loudspeakers, whether or not mounted in their enclosures; headphones and earphones, whether or not combined with a microphone, and sets consisting of a microphone and one or more loudspeakers; audio-frequency electric amplifiers; electric sound amplifier sets."
+      }
+    },
+    {
+      "heading_id": "85.19",
+      "heading_title": {
+        "vi": "Thiết bị ghi hoặc tái tạo âm thanh (+).",
+        "en": "Sound recording or reproducing apparatus (+)."
+      }
+    },
+    {
+      "heading_id": "85.21",
+      "heading_title": {
+        "vi": "Thiết bị ghi hoặc tái tạo video, có hoặc không gắn bộ phận thu tín hiệu video.",
+        "en": "Video recording or reproducing apparatus, whether or not incorporating a video tuner."
+      }
+    },
+    {
+      "heading_id": "85.22",
+      "heading_title": {
+        "vi": "Bộ phận và đồ phụ trợ chỉ dùng hoặc chủ yếu dùng cho các thiết bị của nhóm 85.19 hoặc 85.21.",
+        "en": "Parts and accessories suitable for use solely or principally with the apparatus of heading 85.19 or 85.21."
+      }
+    },
+    {
+      "heading_id": "85.23",
+      "heading_title": {
+        "vi": "Đĩa, băng, các thiết bị lưu trữ bền vững, thể rắn, “thẻ thông minh” và các phương tiện lưu trữ thông tin khác để ghi âm thanh hoặc các nội dung, hình thức thể hiện khác, đã hoặc chưa ghi, kể cả bản khuôn mẫu và bản gốc để sản xuất băng đĩa, nhưng không bao gồm các sản phẩm của Chương 37.",
+        "en": "Discs, tapes, solid-state non-volatile storage devices, “smart cards” and other media for the recording of sound or of other phenomena, whether or not recorded, including matrices and masters for the production of discs, but excluding products of Chapter 37."
+      }
+    },
+    {
+      "heading_id": "85.24",
+      "heading_title": {
+        "vi": "Mô-đun màn hình dẹt, có hoặc không tích hợp màn hình cảm ứng",
+        "en": "Flat panel display modules, whether or not incorporating touch-sensitive screens."
+      }
+    },
+    {
+      "heading_id": "85.25",
+      "heading_title": {
+        "vi": "Thiết bị phát dùng cho phát thanh sóng vô tuyến hoặc truyền hình, có hoặc không gắn với thiết bị thu hoặc ghi hoặc tái tạo âm thanh; camera truyền hình, camera kỹ thuật số và camera ghi hình ảnh.",
+        "en": "Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders."
+      }
+    },
+    {
+      "heading_id": "85.26",
+      "heading_title": {
+        "vi": "Ra đa, các thiết bị dẫn đường bằng sóng vô tuyến và các thiết bị điều khiển từ xa bằng vô tuyến.",
+        "en": "Radar apparatus, radio navigational aid apparatus and radio remote control apparatus."
+      }
+    },
+    {
+      "heading_id": "85.27",
+      "heading_title": {
+        "vi": "Thiết bị thu dùng cho phát thanh sóng vô tuyến, có hoặc không kết hợp với thiết bị ghi hoặc tái tạo âm thanh hoặc với đồng hồ, trong cùng một khối.",
+        "en": "Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock."
+      }
+    },
+    {
+      "heading_id": "85.28",
+      "heading_title": {
+        "vi": "Màn hình và máy chiếu, không gắn với thiết bị thu dùng trong truyền hình; thiết bị thu dùng trong truyền hình, có hoặc không gắn với máy thu thanh sóng vô tuyến hoặc thiết bị ghi hoặc tái tạo âm thanh hoặc hình ảnh.",
+        "en": "Monitors and projectors, not incorporating television reception apparatus; reception apparatus for television, whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus."
+      }
+    },
+    {
+      "heading_id": "85.29",
+      "heading_title": {
+        "vi": "Bộ phận chỉ dùng hoặc chủ yếu dùng với các thiết bị thuộc các nhóm từ 85.25 đến 85.28.",
+        "en": "Parts suitable for use solely or principally with the apparatus of headings 85.25 to 85.28."
+      }
+    },
+    {
+      "heading_id": "85.30",
+      "heading_title": {
+        "vi": "Thiết bị điện phát tín hiệu thông tin, bảo đảm an toàn hoặc điều khiển giao thông, dùng cho đường sắt, đường tàu điện, đường bộ, đường thủy nội địa, điểm dừng đỗ, cảng hoặc sân bay (trừ loại thuộc nhóm 86.08).",
+        "en": "Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (other than those of heading 86.08)."
+      }
+    },
+    {
+      "heading_id": "85.31",
+      "heading_title": {
+        "vi": "Thiết bị báo hiệu bằng âm thanh hoặc hình ảnh (ví dụ, chuông, còi báo, bảng chỉ báo, báo động chống trộm hoặc báo cháy), trừ các thiết bị thuộc nhóm 85.12 hoặc 85.30.",
+        "en": "Electric sound or visual signalling apparatus (for example, bells, sirens, indicator panels, burglar or fire alarms), other than those of heading 85.12 or 85.30."
+      }
+    },
+    {
+      "heading_id": "85.32",
+      "heading_title": {
+        "vi": "Tụ điện, loại có điện dung cố định, biến đổi hoặc điều chỉnh được (theo mức định trước) (+).",
+        "en": "Electrical capacitors, fixed, variable or adjustable (pre-set) (+)."
+      }
+    },
+    {
+      "heading_id": "85.33",
+      "heading_title": {
+        "vi": "Điện trở (kể cả biến trở và chiết áp), trừ điện trở nung nóng.",
+        "en": "Electrical resistors (including rheostats and potentiometers), other than heating resistors."
+      }
+    },
+    {
+      "heading_id": "85.34",
+      "heading_title": {
+        "vi": "Mạch in.",
+        "en": "Printed circuits."
+      }
+    },
+    {
+      "heading_id": "85.35",
+      "heading_title": {
+        "vi": "Thiết bị điện để đóng ngắt mạch hay bảo vệ mạch điện, hoặc dùng để đấu nối hay lắp trong mạch điện (ví dụ, cầu dao, công tắc, cầu chì, bộ chống sét, bộ khống chế điện áp, bộ triệt xung điện, phích cắm và đầu nối khác, hộp đấu nối), dùng cho điện áp trên 1.000 V.",
+        "en": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 volts."
+      }
+    },
+    {
+      "heading_id": "85.36",
+      "heading_title": {
+        "vi": "Thiết bị điện để đóng ngắt mạch hay bảo vệ mạch điện, hoặc dùng để đấu nối hay lắp trong mạch điện (ví dụ, cầu dao, rơ le, công tắc, chi tiết đóng ngắt mạch, cầu chì, bộ triệt xung điện, phích cắm, ổ cắm, đui đèn và các đầu nối khác, hộp đấu nối), dùng cho điện áp không quá 1.000V; đầu nối dùng cho sợi quang, bó sợi quang hoặc cáp quang.",
+        "en": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 volts; connectors for optical fibres, optical fibre bundles or cables."
+      }
+    },
+    {
+      "heading_id": "85.37",
+      "heading_title": {
+        "vi": "Bảng, panel, giá đỡ, bàn, tủ và các loại hộp và đế khác, được lắp với hai hay nhiều thiết bị thuộc nhóm 85.35 hoặc 85.36, dùng để điều khiển hoặc phân phối điện, kể cả các loại trên có lắp các dụng cụ hay thiết bị thuộc Chương 90, và các thiết bị điều khiển số, trừ các thiết bị chuyển mạch thuộc nhóm 85.17.",
+        "en": "Boards, panels, consoles, desks, cabinets and other bases, equipped with two or more apparatus of heading 85.35 or 85.36, for electric control or the distribution of electricity, including those incorporating instruments or apparatus of Chapter 90, and numerical control apparatus, other than switching apparatus of heading 85.17."
+      }
+    },
+    {
+      "heading_id": "85.38",
+      "heading_title": {
+        "vi": "Bộ phận chuyên dùng hay chủ yếu dùng với các thiết bị thuộc nhóm 85.35, 85.36 hoặc 85.37.",
+        "en": "Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37."
+      }
+    },
+    {
+      "heading_id": "85.39",
+      "heading_title": {
+        "vi": "Bóng đèn dây tóc hoặc bóng đèn phóng điện, kể cả đèn pha gắn kín và bóng đèn tia cực tím hoặc tia hồng ngoại; bóng đèn hồ quang; đèn đi-ốt phát quang (LED).",
+        "en": "Electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps; arc-lamps; light-emitting diode (LED) lamps."
+      }
+    },
+    {
+      "heading_id": "85.40",
+      "heading_title": {
+        "vi": "Đèn điện tử và ống điện tử dùng nhiệt điện tử, ca tốt lạnh hoặc ca tốt quang điện (ví dụ, đèn điện tử và ống đèn chân không hoặc nạp khí hoặc hơi, đèn và ống điện tử chỉnh lưu hồ quang thủy ngân, ống điện tử dùng tia âm cực, ống điện tử camera truyền hình).",
+        "en": "Thermionic, cold cathode or photo-cathode valves and tubes (for example, vacuum or vapour or gas filled valves and tubes, mercury arc rectifying valves and tubes, cathode-ray tubes, television camera tubes)."
+      }
+    },
+    {
+      "heading_id": "85.41",
+      "heading_title": {
+        "vi": "Thiết bị bán dẫn (ví dụ đi-ốt, bóng bán dẫn (tranzito), bộ chuyển đổi dựa trên chất bán dẫn tương tự; thiết bị bán dẫn cảm quang, kể cả tế bào quang điện đã hoặc chưa lắp ráp thành các mảng module hoặc thành bảng; đi-ốt phát quang (LED), đã hoặc chưa lắp ráp với đi-ốt phát quang (LED) khác; tinh thể áp điện đã lắp ráp (+).",
+        "en": "Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED), whether or not assembled with other light-emitting diodes (LED); mounted piezo-electric crystals. (+)."
+      }
+    },
+    {
+      "heading_id": "85.42",
+      "heading_title": {
+        "vi": "Mạch điện tử tích hợp.",
+        "en": "Electronic integrated circuits."
+      }
+    },
+    {
+      "heading_id": "85.43",
+      "heading_title": {
+        "vi": "Máy và thiết bị điện, có chức năng riêng, chưa được chi tiết hay ghi ở nơi khác trong Chương này.",
+        "en": "Electrical machines and apparatus, having individual functions, not specified or included elsewhere in this Chapter."
+      }
+    },
+    {
+      "heading_id": "85.44",
+      "heading_title": {
+        "vi": "Dây điện, cáp điện (kể cả cáp đồng trục) có cách điện (kể cả loại đã tráng men cách điện hoặc mạ lớp cách điện) và dây dẫn có cách điện khác, đã hoặc chưa gắn với đầu nối; cáp sợi quang, làm bằng các bó sợi đơn có vỏ bọc riêng biệt từng sợi, có hoặc không gắn với dây dẫn điện hoặc gắn với đầu nối.",
+        "en": "Insulated (including enamelled or anodised) wire, cable (including co-axial cable) and other insulated electric conductors, whether or not fitted with connectors; optical fibre cables, made up of individually sheathed fibres, whether or not assembled with electric conductors or fitted with connectors."
+      }
+    },
+    {
+      "heading_id": "85.45",
+      "heading_title": {
+        "vi": "Điện cực than, chổi than, carbon cho chế tạo bóng đèn, carbon cho chế tạo pin, ắc qui và các sản phẩm khác làm bằng graphit hoặc carbon khác, có hoặc không có thành phần kim loại, dùng cho kỹ thuật điện.",
+        "en": "Carbon electrodes, carbon brushes, lamp carbons, battery carbons and other articles of graphite or other carbon, with or without metal, of a kind used for electrical purposes."
+      }
+    },
+    {
+      "heading_id": "85.46",
+      "heading_title": {
+        "vi": "Vật cách điện làm bằng vật liệu bất kỳ.",
+        "en": "Electrical insulators of any material."
+      }
+    },
+    {
+      "heading_id": "85.47",
+      "heading_title": {
+        "vi": "Phụ kiện cách điện dùng cho máy điện, dụng cụ điện hay thiết bị điện, được làm hoàn toàn bằng vật liệu cách điện trừ một số phụ kiện thứ yếu bằng kim loại (ví dụ, phần ống có ren) đã làm sẵn khi đúc chủ yếu để lắp, trừ cách điện thuộc nhóm 85.46; ống dẫn dây điện và các khớp nối của chúng, bằng kim loại cơ bản được lót lớp vật liệu cách điện.",
+        "en": "Insulating fittings for electrical machines, appliances or equipment, being fittings wholly of insulating material apart from any minor components of metal (for example, threaded sockets) incorporated during moulding solely for purposes of assembly, other than insulators of heading 85.46; electrical conduit tubing and joints therefor, of base metal lined with insulating material."
+      }
+    },
+    {
+      "heading_id": "85.48",
+      "heading_title": {
+        "vi": "Các bộ phận điện của máy móc hoặc thiết bị, chưa được chi tiết hoặc ghi ở nơi khác trong Chương này.",
+        "en": "Electrical parts of machinery or apparatus, not specified or included elsewhere in this Chapter."
+      }
+    },
+    {
+      "heading_id": "85.49",
+      "heading_title": {
+        "vi": "Phế liệu và phế thải điện và điện tử (+).",
+        "en": "Electrical and electronic waste and scrap (+)."
+      }
+    }
+  ]
+}

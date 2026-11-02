@@ -1,0 +1,46 @@
+{
+  "heading_id": "28.19",
+  "heading_title": {
+    "vi": "Crom oxit và hydroxit.",
+    "en": "Chromium oxides and hydroxides."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các oxit và hydroxit của crom.\n(A) CROM OXIT bao gồm:\n(1) Crom trioxit (CrO3), còn được gọi là crom (VI) oxit hoặc crom anhydrit.\n(2) Dicrom trioxit (Cr2O3), còn được gọi là crom (III) oxit hoặc crom sesquioxit.\n(B) CROM HYDROXIT bao gồm các hydrat khác nhau của các oxit crom, đặc biệt là dạng oxit crom ngậm nước màu xanh (Cr2O3.2H2O).\n\nNhóm này không bao gồm cromit, một oxit crom tự nhiên có chứa sắt (quặng crom sắt), được phân loại vào nhóm 26.10.",
+    "en": "This heading covers chromium oxides and hydroxides.\n(A) CHROMIUM OXIDES includes:\n(1) Chromium trioxide (CrO3), also known as chromium (VI) oxide or chromic anhydride.\n(2) Dichromium trioxide (Cr2O3), also known as chromium (III) oxide or chromium sesquioxide.\n(B) CHROMIUM HYDROXIDES includes the various hydrates of chromium oxides, in particular, the green hydrate of chromic oxide (Cr2O3.2H2O).\n\nThis heading excludes chromite, a natural chromium oxide containing iron (chrome iron ore), which is classified under heading 26.10."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) CROM OXIT\n(1) Crom trioxit (crom (VI) oxit hoặc crom anhydrit (CrO3)). Dạng hình kim hoặc dạng phiến màu đỏ hoặc da cam; chảy rữa; rất dễ hòa tan trong nước. Là tác nhân oxy hóa trong hóa chất hữu cơ (sản xuất thuốc nhuộm indigo, isatin,...); cũng được sử dụng trong y học và, khi trộn với kieselgur (“epurite”), để tinh chế axetylen.\n(2) Dicrom trioxit, crom (III) oxit (crom sesquioxit) (Cr2O3). Sản phẩm rất cứng, có màu xanh ô liu, ở dạng bột hay tinh thể; không hòa tan trong nước. Oxit dạng tinh khiết được sử dụng làm bột màu với tên 'oxit crom xanh'. Nó cũng được sử dụng để sản xuất sơn và mực in, và trong sản xuất đồ sứ, thủy tinh (thủy tinh quang học màu) hoặc công nghiệp cao su. Do độ cứng và khả năng chịu nhiệt, nó được sử dụng chế tạo hợp chất mài mòn và gạch chịu lửa trong các lò luyện kim loại. Nó cũng được sử dụng để sản xuất các sản phẩm chống gỉ, và trong luyện crôm.\n\nCromit, oxit crom tự nhiên có chứa sắt (quặng crom sắt, sắt cromit) được loại trừ (nhóm 26.10).\n\n(B) CROM HYDROXIT\nThuật ngữ 'crom hydroxit' được áp dụng cho nhiều hydrat khác nhau của các loại oxit được miêu tả ở trên và, đặc biệt, là dạng oxit crom ngậm nước màu xanh (Cr2O3.2H2O), được sử dụng như chất màu với tên gọi 'xanh crom' hoặc trong sản xuất chất màu xanh Guignet. Đây cũng là crom hydroxit màu tím.",
+        "en": "(A) CHROMIUM OXIDES\n(1) Chromium trioxide (chromium (VI) oxide) or chromic anhydride (CrO3). Orange or red slabs or needles; deliquescent; very soluble in water. An oxidising agent in organic chemistry (manufacture of isatin, indigo dyes, etc.); also used in medicine and, when mixed with kieselguhr (“ epurite ”), for purifying acetylene.\n(2) Dichromium trioxide, chromium (III) oxide (chromium sesquioxide) (Cr2O3). A very hard, olive green product, in powder or in crystals; insoluble in water. The pure oxide is used as a pigment known as “ chromium oxide green ”. It is also used for the preparation of paints and printing inks, and in the porcelain, glass (coloured optical glass) or rubber industries. Because of its hardness and its resistance to heat, it serves for the preparation of abrasive compounds and refractory bricks for metal furnaces. It is also used for obtaining anti-rust products, and in chromium metallurgy.\n\nChromite, natural chromium oxide containing iron (chrome iron ore, iron chromite) is excluded (heading 26.10).\n\n(B) CHROMIUM HYDROXIDES\nThe term “ chromium hydroxide ” applies to the various hydrates of the oxides described above and, in particular, the green hydrate of chromic oxide (Cr2O3.2H2O), this is used as colouring matter under the name of “ chrome green ” or in the manufacture of Guignet's green. There is also a violet chromium hydroxide."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2819.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Crom trioxit",
+        "en": "Chromium trioxide"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2819.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

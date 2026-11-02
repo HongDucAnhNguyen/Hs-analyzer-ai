@@ -1,0 +1,21 @@
+{
+  "heading_id": "85.48",
+  "heading_title": {
+    "vi": "Các bộ phận điện của máy móc hoặc thiết bị, chưa được chi tiết hoặc ghi ở nơi khác trong Chương này.",
+    "en": "Electrical parts of machinery or apparatus, not specified or included elsewhere in this Chapter."
+  },
+  "summary": {
+    "vi": "Nhóm 85.48 bao gồm các bộ phận điện của máy móc hoặc thiết bị, chưa được chi tiết hoặc ghi ở nơi khác trong Chương 85. Nhóm này áp dụng cho các mặt hàng có thể nhận biết là bộ phận điện, nhưng không phải của một máy móc hay thiết bị cụ thể. Các mặt hàng này thường có các yếu tố như nối điện, phần cách điện, cuộn dây, hoặc tiếp điểm. Tuy nhiên, nhóm này loại trừ các bộ phận chỉ dùng hoặc chủ yếu dùng cho một máy móc hoặc thiết bị cụ thể. Các bộ phận đã được phân loại trong các nhóm trước của Chương này hoặc bị loại trừ theo Chú giải 1 của Phần XVI cũng không thuộc nhóm này.",
+    "en": "Heading 85.48 covers electrical parts of machinery or apparatus not specified or included elsewhere in Chapter 85. This heading applies to articles identifiable as electrical parts, but not of a particular machine or apparatus. These items typically incorporate elements such as electrical connections, insulated sections, coils, or contacts. However, this heading excludes parts suitable for use solely or principally with a particular machine or appliance. Parts covered by an earlier heading of this Chapter or excluded by Note 1 to Section XVI are also excluded."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm tất cả các bộ phận điện trong máy, hoặc thiết bị trừ: (a) Các bộ phận chỉ dùng hoặc chủ yếu dùng với máy móc hoặc thiết bị cụ thể. (b) Các bộ phận nằm trong nhóm trước của Chương này hoặc bị loại trừ theo Chú giải 1 của Phần XVI. Do đó nhóm này bao gồm các mặt hàng có thể nhận biết được là các bộ phận điện của máy hoặc thiết bị, nhưng không phải là những bộ phận của máy hoặc thiết bị cụ thể, và gắn với nối điện, các phần cách điện, các cuộn dây, các tiếp điểm hoặc các yếu tố điện đặc biệt khác.",
+        "en": "This heading includes all electrical parts of machinery or apparatus, other than: (a) Those suitable for use solely or principally with a particular machine or appliance. (b) Parts covered by an earlier heading of this Chapter or which are excluded by Note 1 to Section XVI. This heading therefore covers articles which are identifiable as electrical parts of machinery or apparatus but not as parts of a particular machine or apparatus, and which incorporate electrical connections, insulated sections, coils, contacts or other specifically electrical elements."
+      }
+    }
+  ],
+  "subheadings": []
+}

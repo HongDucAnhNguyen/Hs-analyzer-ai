@@ -1,0 +1,120 @@
+{
+  "heading_id": "85.07",
+  "heading_title": {
+    "vi": "Ắc qui điện, kể cả tấm vách ngăn của nó, có hoặc không ở dạng hình chữ nhật (kể cả hình vuông).",
+    "en": "Electric accumulators, including separators therefor, whether or not rectangular (including square)."
+  },
+  "summary": {
+    "vi": "Nhóm 85.07 bao gồm ắc quy điện (pin sạc), có thể nạp lại được nhờ phản ứng điện hóa thuận nghịch. Chúng được dùng để lưu trữ và cung cấp điện cho nhiều thiết bị như xe cộ, dụng cụ điện, điện thoại, và máy tính xách tay. Các loại chính bao gồm ắc quy axit-chì (chất điện phân là axit sunfuric) và ắc quy kiềm (chất điện phân là hydroxit kali hoặc liti). Nhóm này cũng bao gồm các \"bộ nguồn ắc quy\" (battery packs) và các bộ phận của ắc quy như hộp chứa, tấm vách ngăn, và lưới chì. Các tấm ngăn bằng cao su lưu hóa không cứng hoặc vật liệu dệt bị loại trừ. Các mặt hàng bị loại trừ khỏi nhóm này bao gồm đầu nối điện (nhóm 85.36) và ắc quy đã qua sử dụng hoặc phế liệu của chúng (nhóm 85.49).",
+    "en": "Heading 85.07 covers electric accumulators (rechargeable batteries), which can be recharged through reversible electrochemical reactions. They are used to store and supply electricity for various devices such as vehicles, power tools, mobile phones, and portable computers. The main types include lead-acid accumulators (with sulphuric acid electrolyte) and alkaline accumulators (with potassium or lithium hydroxide electrolyte). This heading also includes \"battery packs\" and parts of accumulators like containers, separators, and lead grids. Separators made of unhardened vulcanised rubber or textile material are excluded. Items excluded from this heading include terminals (heading 85.36) and spent accumulators or their waste and scrap (heading 85.49)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Ắc quy điện (pin sạc hoặc pin thứ cấp) được đặc trưng bởi phản ứng điện hóa có thể đảo ngược, cho phép nạp lại. Chúng được sử dụng để lưu trữ và cung cấp điện. Về cơ bản, ắc quy gồm một hộp chứa chất điện phân và hai điện cực. Nhiều ngăn (cell) được nối tiếp nhau tạo thành ắc quy có điện áp cao hơn. Các loại chính bao gồm: (1) Ắc quy axit-chì, với chất điện phân là axit sunfuric và các điện cực bằng chì.",
+        "en": "Electric accumulators (storage batteries or secondary batteries) are characterised by reversible electrochemical action, allowing them to be recharged. They are used to store and supply electricity. Essentially, an accumulator consists of a container holding an electrolyte and two electrodes. Multiple cells are connected in series to produce a higher voltage. The main types include: (1) Lead-acid accumulators, with sulphuric acid as the electrolyte and lead electrodes."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(2) Ắc quy kiềm, với chất điện phân thường là hi-đrô-xít kali, hi-đrô-xít li-ti hoặc clorua thionyl. Các ví dụ về điện cực bao gồm: (i) Niken/sắt, cadimi hoặc hydride kim loại; (ii) Oxit coban liti/graphite; (iii) Cacbon/liti hoặc hợp kim liti; (iv) Oxit bạc/kẽm. Nhiều ắc quy kiềm có thể có hình dạng giống pin của nhóm 85.06. Ắc quy vẫn được phân loại trong nhóm này ngay cả khi không có chất điện phân. Các 'bộ nguồn ắc quy' (battery packs) cũng thuộc nhóm này. Theo Chú giải tổng quát Phần XVI, các bộ phận của ắc quy cũng được bao gồm, ví dụ: hộp đựng, vỏ bọc, tấm và lưới chì, và vách ngăn (trừ loại bằng cao su lưu hóa không cứng hoặc bằng vật liệu dệt).",
+        "en": "(2) Alkaline accumulators, with the electrolyte usually being potassium hydroxide, lithium hydroxide, or thionyl chloride. Examples of electrodes include: (i) Nickel/iron, cadmium or metal hydride; (ii) Lithiated cobalt oxide/graphite; (iii) Carbon/metallic lithium or lithium alloy; (iv) Silver oxide/zinc. Many alkaline accumulators may have the external appearance of primary cells of heading 85.06. Accumulators are classified here even without their electrolyte. 'Battery packs' are also covered by this heading. Subject to the General Explanatory Note to Section XVI, parts of accumulators are also covered, e.g., containers, covers, lead plates and grids, and separators (except of unhardened vulcanised rubber or of textile material)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (a) Phần đầu nối điện (nhóm 85.36); (b) Ắc qui đã sử dụng hết và các chất phế liệu, phế thải của nó (nhóm 85.49).",
+        "en": "The heading does not cover: (a) Terminals (heading 85.36); (b) Spent electric accumulators and waste and scrap thereof (heading 85.49)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8507.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng axit - chì, loại dùng để khởi động động cơ piston",
+        "en": "- Lead-acid, of a kind used for starting piston engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8507.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ắc qui axit - chì khác",
+        "en": "- Other lead-acid accumulators"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8507.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng niken-cađimi",
+        "en": "- Nickel-cadmium"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8507.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng Nikel - hydrua kim loại",
+        "en": "- Nickel-metal hydride"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8507.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng ion liti",
+        "en": "- Lithium-ion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8507.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ắc qui khác",
+        "en": "- Other accumulators"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8507.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bộ phận",
+        "en": "- Parts"
+      }
+    }
+  ]
+}

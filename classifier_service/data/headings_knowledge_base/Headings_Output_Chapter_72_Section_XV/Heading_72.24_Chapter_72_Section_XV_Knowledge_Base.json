@@ -1,0 +1,46 @@
+{
+  "heading_id": "72.24",
+  "heading_title": {
+    "vi": "Thép hợp kim khác ở dạng thỏi đúc hoặc dạng thô khác; các bán thành phẩm bằng thép hợp kim khác",
+    "en": "Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thép hợp kim khác ở dạng thỏi đúc hoặc các dạng thô khác, và các bán thành phẩm bằng thép hợp kim khác. Các quy định trong Chú giải của các nhóm 72.06 và 72.07 được áp dụng tương tự cho các sản phẩm của nhóm này.",
+    "en": "This heading covers other alloy steel in ingots or other primary forms, and semi-finished products of other alloy steel. The provisions of the Explanatory Note to headings 72.06 and 72.07 apply, mutatis mutandis, to the products of this heading."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho các nhóm 72.06 và 72.07, với những sửa đổi thích hợp, áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to headings 72.06 and 72.07 apply, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7224.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ở dạng thỏi đúc và dạng thô khác",
+        "en": "- Ingots and other primary forms"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7224.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "heading_id": "69.11",
+  "heading_title": {
+    "vi": "Bộ đồ ăn, bộ đồ nhà bếp, đồ gia dụng và đồ sứ vệ sinh khác, bằng sứ.",
+    "en": "Tableware, kitchenware, other household articles and toilet articles, of porcelain or china."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bộ đồ ăn, bộ đồ nhà bếp, đồ gia dụng và các đồ vệ sinh khác, được làm bằng sứ (porcelain or china). Để biết chi tiết các mặt hàng thuộc phạm vi, cần tham khảo Chú giải của nhóm 69.12.",
+    "en": "This heading covers tableware, kitchenware, other household articles and toilet articles, of porcelain or china. For details on the articles covered, reference should be made to the Explanatory Note to heading 69.12."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Xem phần chú giải chi tiết của nhóm 69.12.",
+        "en": "See the Explanatory Note to heading 69.12."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6911.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ đồ ăn và bộ đồ nhà bếp",
+        "en": "Tableware and kitchenware"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6911.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

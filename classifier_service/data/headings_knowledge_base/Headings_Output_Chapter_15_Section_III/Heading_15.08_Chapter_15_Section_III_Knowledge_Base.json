@@ -1,0 +1,53 @@
+{
+  "heading_id": "15.08",
+  "heading_title": {
+    "vi": "Dầu lạc và các phần phân đoạn của dầu lạc, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hoá học",
+    "en": "Ground-nut oil and its fractions, whether or not refined, but not chemically modified"
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm dầu lạc (dầu đậu phộng) và các phần phân đoạn của nó, thu được từ lạc (Arachis hypogaea) bằng cách chiết xuất dung môi hoặc ép. Dầu này là loại không khô, đã hoặc chưa tinh chế nhưng không được thay đổi về mặt hóa học. Dầu lọc và tinh chế được dùng làm thực phẩm (dầu salad, dầu nấu ăn, chế margarin), trong khi loại chất lượng kém hơn được dùng làm xà phòng hoặc chất bôi trơn. Chú giải phân nhóm 1508.10 tham chiếu đến Chú giải của phân nhóm 1507.10 để định nghĩa 'dầu thô'.",
+    "en": "This heading covers ground-nut oil (peanut oil) and its fractions, obtained from the common ground-nut (Arachis hypogaea) by solvent extraction or pressing. It is a non-drying oil, whether or not refined, but not chemically modified. The filtered and refined oil is used for food purposes (salad oil, cooking, margarine), while inferior grades are used for making soaps or lubricants. The Subheading Explanatory Note to 1508.10 refers to the Explanatory Note to subheading 1507.10 for the definition of 'crude oil'."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Dầu lạc là một loại dầu không khô, thu được từ lạc thông thường (Arachis hypogaea) bằng cách chiết xuất dung môi hay ép.\nDầu lọc và tinh chế được dùng, ví dụ, làm dầu salad, làm dầu nấu ăn và chế margarin. Những loại có chất lượng kém hơn được dùng để làm xà phòng hoặc chất bôi trơn.",
+        "en": "Ground-nut oil or peanut oil is a non-drying oil obtained from the seeds or “nuts’’ of the common ground-nut (Arachis hypogaea), by solvent extraction or by pressing.\nThe filtered and refined oil is used, for example, as a salad oil, for cooking and for making margarine. Inferior grades are used for making soaps or lubricants."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm. Phân nhóm 1508.10\nXem Chú giải của phân nhóm 1507.10.",
+        "en": "Subheading Explanatory Note. Subheading 1508.10\nSee the Explanatory Note to subheading 1507.10."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1508.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Dầu thô",
+        "en": "Crude oil"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1508.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

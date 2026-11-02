@@ -1,0 +1,65 @@
+{
+  "heading_id": "01.03",
+  "heading_title": {
+    "vi": "Lợn sống (+).",
+    "en": "Live swine (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm lợn nuôi và lợn hoang (ví dụ: lợn lòi). Chú giải Phân nhóm 0103.10 định nghĩa \"loại thuần chủng để nhân giống” là những động vật giống được các cơ quan quốc gia có thẩm quyền công nhận là “thuần chủng”. Chú giải Phân nhóm 0103.91 và 0103.92 quy định giới hạn trọng lượng áp dụng cho mỗi con vật.",
+    "en": "This heading covers both domestic pigs and wild pigs (e.g., wild boars). Subheading Explanatory Note to 0103.10 defines 'pure-bred breeding animals' as those breeding animals which are regarded as 'pure-bred' by the competent national authorities. Subheading Explanatory Notes to 0103.91 and 0103.92 state that the specified weight limits relate to the weight of each animal."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm lợn nuôi và hoang (như lợn lòi).",
+        "en": "This heading covers both domestic pigs and wild pigs (e.g., wild boars)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm\nPhân nhóm 0103.10\nTheo mục đích của phân nhóm 0103.10, thuật ngữ \"loại thuần chủng để nhân giống” chỉ gồm những động vật giống được các cơ quan quốc gia có thẩm quyền công nhận là “thuần chủng”.\nPhân nhóm 0103.91 và 0103.92\nTheo mục đích của các phân nhóm 0103.91 và 0103.92, các giới hạn trọng lượng được mô tả liên quan đến trọng lượng của mỗi con vật.",
+        "en": "Subheading Explanatory Notes.\nSubheading 0103.10\nFor the purposes of subheading 0103.10, the expression “pure-bred breeding animals” covers only those breeding animals which are regarded as “pure-bred” by the competent national authorities.\nSubheadings 0103.91 and 0103.92\nFor the purposes of subheadings 0103.91 and 0103.92, the specified weight limits relate to the weight of each animal."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0103.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại thuần chủng để nhân giống",
+        "en": "Pure-bred breeding animals"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "0103.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "-- Trọng lượng dưới 50 kg",
+        "en": "-- Weighing less than 50 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "0103.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "-- Trọng lượng từ 50 kg trở lên",
+        "en": "-- Weighing 50 kg or more"
+      }
+    }
+  ]
+}

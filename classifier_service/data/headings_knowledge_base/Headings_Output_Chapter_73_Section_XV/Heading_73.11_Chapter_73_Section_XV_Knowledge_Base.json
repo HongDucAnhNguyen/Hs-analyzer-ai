@@ -1,0 +1,28 @@
+{
+  "heading_id": "73.11",
+  "heading_title": {
+    "vi": "Các loại thùng chứa khí nén hoặc khí hóa lỏng, bằng sắt hoặc thép.",
+    "en": "Containers for compressed or liquefied gas, of iron or steel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại thùng chứa bằng sắt hoặc thép, không phân biệt dung tích, dùng để vận chuyển hoặc bảo quản khí nén hoặc khí hóa lỏng (ví dụ: heli, oxy, hydro, axetylen, butan). Các thùng chứa này có thể là các xylanh, ống, chai cứng chắc, được hàn hoặc không hàn, hoặc có thể bao gồm một bình bên trong và một hoặc nhiều lớp vỏ bên ngoài với khoảng trống được lấp bằng vật liệu cách nhiệt, duy trì trong chân không, hoặc chứa chất lỏng làm lạnh. Chúng có thể được trang bị các thiết bị kiểm tra, điều chỉnh và đo lường. Một số thùng chứa, ví dụ như loại dùng cho axetylen, chứa một chất xốp trơ để tăng độ an toàn. Nhóm này loại trừ các loại ắc quy hơi nước (nhóm 84.04).",
+    "en": "This heading covers iron or steel containers of any capacity used for the transport or storage of compressed or liquefied gases (e.g., helium, oxygen, hydrogen, acetylene, butane). These containers may be strong cylinders, tubes, or bottles, either weldless or welded, or may consist of an inner vessel and one or more outer shells with the intervening space packed with insulating material, maintained under vacuum, or arranged to contain a cryogenic fluid. They may be fitted with control, regulating, and measuring devices. Some containers, e.g., for acetylene, contain an inert porous substance for safety. This heading excludes steam accumulators (heading 84.04)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại thùng chứa có dung tích bất kỳ được sử dụng để vận chuyển hoặc bảo quản các khí nén hoặc khí hoá lỏng (ví dụ như hêli, ôxy, agon, hydro, axêtylen, cacbon điôxit hay butan).\nMột số là những xylanh, ống, chai lọ,... cứng, vững chắc, đã thử sức chịu đựng ở áp suất cao, những loại này có thể không hàn hoặc được hàn (ví dụ được hàn ở các đáy, hàn vòng quanh điểm giữa hoặc dọc theo chiều dài).",
+        "en": "This heading covers containers of any capacity used for the transport or storage of compressed or liquefied gases (e.g., helium, oxygen, argon, hydrogen, acetylene, carbon dioxide or butane).\nSome are strong cylinders, tubes, bottles, etc., tested at high pressure; these may be weldless or welded (e.g., at the bases, round the middle or along the length)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "số khác bao gồm một bình ở trong và một hay nhiều lớp vỏ bên ngoài, khoảng trống xen giữa được chèn vật liệu ngăn cách, được duy trì trong chân không hoặc được bố trí để chứa một chất lỏng làm lạnh, cách này làm cho một số khí hoá lỏng sẽ được giữ ở áp suất khí quyển hoặc áp suất thấp.\nNhững đồ chứa này có thể được gắn với các dụng cụ kiểm tra, điều chỉnh và đo lường ví dụ như van, vòi nước, áp kế, cái chỉ mức,...\nMột số (ví dụ, dùng để chứa axêtylen) chứa một chất xốp trơ ví dụ như kizengua (đất tảo cát), than củi hoặc amiăng, với một chất kết dính như xi măng và đôi khi được tẩm axêton, nhằm làm thuận tiện cho việc nạp đầy và để ngăn ngừa nguy cơ bị nổ nếu axêtylen bị nén một mình.\nỞ một số khác, ví dụ như những đồ chứa được thiết kế để cung cấp chất lỏng hoặc khí theo yêu cầu, khí hoá lỏng sẽ được làm bay hơi chỉ dưới tác động của nhiệt độ khí quyển, bằng cách cho đi qua đường ống dạng một cuộn dây được gắn vào thành trong của lớp vỏ ngoài.\nNhóm này loại trừ các loại ắc quy hơi nước (nhóm 84.04)",
+        "en": "Others consist of an inner vessel and one or more outer shells, the intervening space being packed with insulating material, maintained under vacuum or arranged to contain a cryogenic fluid, thus enabling certain liquefied gases to be kept at atmospheric pressure or low pressure.\nThese containers may be fitted with control, regulating and measuring devices such as valves, taps, pressure gauges, level indicators, etc.\nSome (e.g., for acetylene) contain an inert porous substance such as kieselguhr, charcoal or asbestos, with a binder such as cement and sometimes impregnated with acetone, to facilitate filling and to prevent the risk of explosion if acetylene were compressed alone.\nIn others, such as those designed to supply liquid or gas as required, the liquefied gas is vapourised solely under the influence of the atmospheric temperature, by passing through a coil attached to the inner wall of the outer shell.\nThe heading excludes steam accumulators (heading 84.04)."
+      }
+    }
+  ],
+  "subheadings": []
+}

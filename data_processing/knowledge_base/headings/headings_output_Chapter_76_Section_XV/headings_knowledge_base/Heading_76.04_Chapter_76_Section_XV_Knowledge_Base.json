@@ -1,0 +1,58 @@
+{
+  "heading_id": "76.04",
+  "heading_title": {
+    "vi": "Nhôm ở dạng thanh, que và hình",
+    "en": "Aluminium bars, rods and profiles."
+  },
+  "summary": {
+    "vi": "Nhóm 76.04 bao gồm nhôm ở dạng thanh, que và các dạng hình, được định nghĩa trong Chú giải 9(a) và 9(b) của Phần XV. Việc phân loại các sản phẩm này tương tự như các mặt hàng làm từ đồng, theo hướng dẫn của Chú giải nhóm 74.07. Nhóm này không bao gồm các thanh và dạng hình đã được gia công để sử dụng trong các kết cấu (nhóm 76.10) và các điện cực hàn đã được bọc phủ (nhóm 83.11). Hàng hóa được phân chia thành loại làm từ nhôm không hợp kim và loại làm từ hợp kim nhôm, với các phân nhóm chi tiết cho dạng hình rỗng và các loại khác.",
+    "en": "Heading 76.04 covers aluminium in the form of bars, rods, and profiles, as defined in Notes 9(a) and 9(b) to Section XV. The classification of these products corresponds to similar goods made of copper, following the guidance of the Explanatory Note to heading 74.07. This heading excludes bars and profiles prepared for use in structures (heading 76.10) and coated welding electrodes (heading 83.11). Goods are divided into those made of non-alloyed aluminium and those of aluminium alloys, with specific subheadings for hollow profiles and other types."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các sản phẩm này được định nghĩa trong Chú giải 9(a) và 9(b) Phần XV, tương tự như các mặt hàng làm từ đồng. Các quy định của Chú giải nhóm 74.07 được áp dụng cho nhóm này.\nNhóm này không bao gồm:\n(a) Các thanh và các dạng hình, đã được gia công để sử dụng trong các kết cấu (nhóm 76.10).\n(b) Các điện cực hàn đã được bọc phủ (nhóm 83.11).",
+        "en": "These products, which are defined in Notes 9 (a) and 9 (b) to Section XV, correspond to similar goods made of copper. The provisions of the Explanatory Note to heading 74.07 apply, mutatis mutandis, to this heading.\nThe heading does not cover:\n(a) Rods and profiles, prepared for use in structures (heading 76.10).\n(b) Coated welding electrodes, etc. (heading 83.11)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7604.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng nhôm, không hợp kim",
+        "en": "- Of aluminium, not alloyed:"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim nhôm:",
+        "en": "- Of aluminium alloys"
+      },
+      "subheading_id": "7604.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dạng hình rỗng",
+        "en": "- - Hollow profiles"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim nhôm:",
+        "en": "- Of aluminium alloys"
+      },
+      "subheading_id": "7604.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

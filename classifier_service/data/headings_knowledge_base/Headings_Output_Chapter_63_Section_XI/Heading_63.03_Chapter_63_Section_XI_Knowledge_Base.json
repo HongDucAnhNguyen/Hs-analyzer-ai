@@ -1,0 +1,82 @@
+{
+  "heading_id": "63.03",
+  "heading_title": {
+    "vi": "Màn che (kể cả rèm trang trí) và rèm mờ che phía trong; diềm màn che hoặc diềm giường.",
+    "en": "Curtains (including drapes) and interior blinds; curtain or bed valances."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm: (1) Màn che và rèm trang trí dùng cho cửa sổ hoặc sân khấu; (2) Rèm mờ che phía trong, thường là loại cuốn; và (3) Diềm màn che và diềm giường dùng để che và trang trí. Nhóm này cũng bao gồm các loại vải theo chiều dài đã được gia công để có thể dễ dàng chuyển đổi thành các sản phẩm hoàn chỉnh của nhóm. Loại trừ duy nhất được đề cập là tấm che nắng ở bên ngoài (nhóm 63.06).",
+    "en": "This heading covers: (1) Curtains and drapes for windows or stages; (2) Interior blinds, usually of the roller variety; and (3) Curtain valances and bed valances for concealment and decoration. It also includes fabric in the length that has been processed for easy conversion into finished articles of this heading. The only mentioned exclusion is exterior sunblinds (heading 63.06)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Màn che (kể cả rèm trang trí), được sử dụng như, ví dụ: để che bên trong của cửa sổ hoặc để che, đóng sân khấu khi nghỉ giải lao,... thuật ngữ \"màn che\" bao gồm các sản phẩm nhẹ và trong suốt hoặc bán trong suốt và các sản phẩm làm bằng vải dày.\n(2) Rèm mờ (che phía trong), các sản phẩm này thường mờ đục và có dạng cuốn (như các sản phẩm dùng trong các toa tàu hỏa).\n(3) Diềm màn che (vải đặt phía bên trên cửa sổ để cho que luồn qua rèm- pelmets), bao gồm các dải vải dùng để gắn trên cửa sổ để che phần gáy (phần trên cùng) của rèm cửa sổ, và diềm giường dùng để gắn vào giường để che đậy hoặc trang trí.\nNhóm này cũng bao gồm vật liệu với độ dài sợi không hạn chế, được gia công sau khi dệt để thể hiện rõ ràng là thích hợp cho việc chuyển thành các sản phẩm hoàn chỉnh của nhóm này bằng các thao tác nhỏ (ví dụ, vải có chiều dài cho đến một cạnh rìa của nó được thêm vào lề xếp nếp và được cắt đơn giản theo chiều dài thích hợp và có viền, được chuyển thành màn che).\nNhóm này không bao gồm tấm che nắng ở bên ngoài (nhóm 63.06).",
+        "en": "This heading includes :\n(1) Curtains (including drapes), which are used, for example, inside windows or to close recesses, theatre stages, etc. The expression “curtains” covers lightweight and transparent or semi - transparent articles and articles made of thick fabrics.\n(2) Interior blinds, which are usually opaque and of the roller variety (e.g., those for railway carriages).\n(3) Curtain valances (or pelmets), which consist of strips of fabric designed to be fitted above windows to hide the tops of curtains, and bed valances for attachment to beds for concealment and decoration.\nThe heading also covers material in the length so processed after weaving that it is clearly suitable for conversion, by a minor operation, into finished articles of this heading (e.g., fabric in the length to one edge of which has been added a frilled border and which, by simply cutting to required lengths and hemming, is converted into curtains).\nThe heading does not include exterior sunblinds (heading 63.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Dệt kim hoặc móc:",
+        "en": "- Knitted or crocheted:"
+      },
+      "subheading_id": "6303.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi tổng hợp",
+        "en": "- - Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dệt kim hoặc móc:",
+        "en": "- Knitted or crocheted:"
+      },
+      "subheading_id": "6303.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "6303.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ bông",
+        "en": "- - Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "6303.92",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ sợi tổng hợp",
+        "en": "- - Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "6303.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ các vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    }
+  ]
+}

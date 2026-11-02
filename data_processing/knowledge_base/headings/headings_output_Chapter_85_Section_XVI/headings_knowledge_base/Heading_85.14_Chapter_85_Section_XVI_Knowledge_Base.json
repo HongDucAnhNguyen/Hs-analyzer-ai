@@ -1,0 +1,139 @@
+{
+  "heading_id": "85.14",
+  "heading_title": {
+    "vi": "Lò luyện, nung và lò sấy điện dùng trong công nghiệp hoặc trong phòng thí nghiệm (kể cả các loại hoạt động bằng cảm ứng điện hoặc tổn hao điện môi); các thiết bị khác dùng trong công nghiệp hoặc trong phòng thí nghiệm để xử lý nhiệt các vật liệu bằng cảm ứng điện hoặc tổn hao điện môi.",
+    "en": "Industrial or laboratory electric furnaces and ovens (including those functioning by induction or dielectric loss); other industrial or laboratory equipment for the heat treatment of materials by induction or dielectric loss."
+  },
+  "summary": {
+    "vi": "Nhóm 85.14 bao gồm các lò luyện, nung, sấy điện và thiết bị xử lý nhiệt bằng cảm ứng hoặc tổn hao điện môi dùng trong công nghiệp hoặc phòng thí nghiệm. Các thiết bị này tạo nhiệt bằng điện trở, hồ quang điện, cảm ứng điện hoặc tổn hao điện môi, bao gồm cả lò vi sóng công nghiệp. Nhóm này áp dụng cho các lò đa dụng như luyện kim, xử lý nhiệt, làm bánh, nha khoa, hỏa táng và lò đốt rác, cũng như các thiết bị xử lý nhiệt không phải lò nung, chẳng hạn máy làm cứng bề mặt kim loại hoặc máy sấy gỗ. Tuy nhiên, nhóm này loại trừ các thiết bị gia dụng (nhóm 85.16), thiết bị sấy và khử trùng (nhóm 84.19), máy hàn (nhóm 85.15), thiết bị tách đồng vị (nhóm 84.01), máy ép có gia nhiệt (Chương 84), lò nung sản xuất bán dẫn (nhóm 84.86), và các bộ phận như vật liệu gốm chịu lửa (Chương 69) hay điện trở đốt nóng và điện cực carbon (nhóm 85.16, 85.45).",
+    "en": "Heading 85.14 covers industrial or laboratory electric furnaces, ovens, and equipment for heat treatment by induction or dielectric loss. These apparatus generate heat through electrical resistance, electric arc, induction, or dielectric loss, including industrial microwave ovens. This heading applies to various furnaces for metallurgy, heat treatment, baking, dental applications, cremation, and waste incineration, as well as other heat treatment equipment that are not furnaces, such as machines for surface hardening of metals or wood drying. However, this heading excludes domestic appliances (heading 85.16), drying and sterilising apparatus (heading 84.19), welding machines (heading 85.15), isotopic separation appliances (heading 84.01), presses with heating devices (Chapter 84), furnaces for semiconductor manufacturing (heading 84.86), and parts like refractory ceramic goods (Chapter 69) or heating resistors and carbon electrodes (headings 85.16, 85.45)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy móc và dụng cụ điện nhiệt công nghiệp hoặc phòng thí nghiệm, nơi nhiệt được tạo ra bằng điện (ví dụ: hiệu ứng nhiệt của dòng điện, hồ quang điện). Nhóm này bao gồm lò nung và lò sấy hoạt động bằng cảm ứng điện hoặc tổn hao điện môi, và các thiết bị khác để xử lý nhiệt bằng các phương pháp này (ví dụ: lò vi sóng công nghiệp). Các thiết bị điện nhiệt gia dụng bị loại trừ (nhóm 85.16). Các lò điện và lò sấy thường là không gian khép kín để đạt nhiệt độ cao, dùng cho các mục đích như nóng chảy, luyện kim, tráng men, hàn, xử lý nhiệt. Các loại chính bao gồm lò chưng cất, lò kiểu chuông, lò nung đáy, lò nấu, lò kiểu hầm.",
+        "en": "This heading covers industrial or laboratory electro-thermic machines and appliances where heat is obtained electrically (e.g., heating effect of a current, electric arc). It includes furnaces and ovens functioning by induction or dielectric loss, and other equipment for heat treatment by these methods (e.g., industrial microwave ovens). Domestic electro-thermic appliances are excluded (heading 85.16). Electric furnaces and ovens are typically closed spaces for achieving high temperatures, used for purposes like melting, annealing, enamelling, welding, and heat treatment. Principal types include retort furnaces, bell-type furnaces, trough furnaces, crucible furnaces, and tunnel furnaces."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại lò nung và lò sấy trong nhóm này bao gồm: (A) Lò nhiệt điện trở; (B) Lò trong đó vật liệu cần nung nóng đóng vai trò như điện trở; (C) Lò điện trở dạng lỏng (bể ngâm); (D) Lò điện phân để luyện hoặc tinh chế kim loại; (E) Lò nung cảm ứng tần số thấp; (F) Lò nung cảm ứng tần số cao; (G) Lò nung và lò sấy dung kháng chất điện môi, bao gồm lò vi sóng công nghiệp dùng để sấy, rã đông, đúc nhựa, nung gốm; (H) Lò hồ quang, dùng để sản xuất gang, hợp kim sắt, cacbua canxi.",
+        "en": "The types of furnaces and ovens in this heading include: (A) Resistance heated furnaces; (B) Furnaces where the material to be heated serves as the resistor; (C) Liquid resistance furnaces (baths); (D) Electrolytic furnaces for smelting or refining metals; (E) Low frequency induction furnaces; (F) High frequency induction furnaces; (G) Dielectric capacitance furnaces and ovens, including industrial microwave ovens used for drying, defrosting, moulding of plastics, firing ceramics; (H) Arc furnaces, used for the production of pig iron, ferro-alloys, calcium carbide."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Lò hồ quang dùng để chưng cất vật liệu có điểm sôi thấp (kẽm, photpho) nhưng nếu có thiết bị ngưng tụ sẽ bị loại trừ (nhóm 84.19). Các loại lò khác bao gồm (IJ) Lò nướng bức xạ hồng ngoại. Một số lò sử dụng nhiều phương pháp gia nhiệt. Ví dụ cụ thể bao gồm: lò nướng bánh mì, bánh ngọt; lò nha khoa; lò hỏa táng; lò đốt chất phế thải; lò ủ hoặc tôi kính. Nhóm này loại trừ thiết bị điện nhiệt để sấy, khử trùng (nhóm 84.19). Nhóm này cũng bao gồm các thiết bị xử lý nhiệt bằng cảm ứng hoặc tổn hao điện môi không phải là lò nung, dùng để xử lý vật thể nhỏ, ví dụ: máy làm cứng bề mặt trục khuỷu, xi lanh, bánh răng; máy sấy gỗ.",
+        "en": "Arc furnaces for distilling low boiling point materials (zinc, phosphorus) are excluded if equipped with condensers (heading 84.19). Other types include (IJ) Infra-red radiation ovens. Some furnaces use multiple heating methods. Specific examples include: ovens for bread or pastry making; dental ovens; crematorium furnaces; furnaces for incinerating waste; furnaces for annealing or tempering glass. The heading excludes electrically heated apparatus for drying or sterilising (heading 84.19). It also covers induction or dielectric heat treatment equipment which are not furnaces, used for treating small articles, e.g., machines for surface hardening of crankshafts, cylinders, gear wheels; wood-drying machines."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Máy biến đổi điện xoay và máy phát điện tần số cao đi kèm thiết bị xử lý nhiệt thuộc nhóm này; nếu riêng lẻ, chúng thuộc nhóm 85.02 hoặc 85.43. Máy móc xử lý cảm ứng để hàn hoặc hàn thau, và máy xử lý bằng hao tổn điện môi để hàn nhựa thuộc nhóm 85.15. Máy ép có thiết bị làm nóng bị loại trừ (Chương 84). Nhóm này cũng bao gồm các lò nung để tách nhiên liệu hạt nhân đã qua chiếu xạ hoặc xử lý chất thải phóng xạ, nhưng loại trừ thiết bị tách đồng vị (nhóm 84.01). Các bộ phận của sản phẩm thuộc nhóm này được phân loại ở đây (ví dụ: cốt thép, cửa ra vào, điện cực kim loại). Loại trừ: (a) Gạch và sản phẩm gốm chịu lửa (Chương 69); (b) Lò điện để sản xuất tấm bán dẫn mỏng hoặc màn hình dẹt (nhóm 84.86); (c) Điện trở đốt nóng bằng điện (nhóm 85.16 hoặc 85.45); (d) Điện cực graphit hoặc carbon khác (nhóm 85.45).",
+        "en": "Rotary converters and high-frequency generators presented with heat-treatment equipment are classified here; if presented separately, they fall in heading 85.02 or 85.43. Machines for induction treatment for soldering or brazing, and machines for dielectric loss treatment for welding plastics fall in heading 85.15. Presses with heating devices are excluded (Chapter 84). The heading also covers furnaces for separating irradiated nuclear fuels or treating radioactive waste, but excludes appliances for isotopic separation (heading 84.01). Parts of the goods of this heading are classified here (e.g., armatures, doors, metal electrodes). Exclusions: (a) Refractory bricks and ceramic goods (Chapter 69); (b) Electric furnaces for manufacturing semiconductor wafers or flat panel displays (heading 84.86); (c) Electric heating resistors (heading 85.16 or 85.45); (d) Graphite or other carbon electrodes (heading 85.45)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Lò luyện, nung và lò sấy gia nhiệt bằng điện trở",
+        "en": "Resistance heated furnaces and ovens"
+      },
+      "subheading_id": "8514.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Lò ép nóng đẳng tĩnh",
+        "en": "- Hot isostatic presses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Lò luyện, nung và lò sấy gia nhiệt bằng điện trở",
+        "en": "Resistance heated furnaces and ovens"
+      },
+      "subheading_id": "8514.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8514.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lò luyện, nung và lò sấy hoạt động bằng cảm ứng điện hoặc tổn hao điện môi",
+        "en": "Furnaces and ovens functioning by induction or dielectric loss"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Lò luyện, nung và lò sấy khác",
+        "en": "Other furnaces and ovens"
+      },
+      "subheading_id": "8514.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Lò tia điện tử (tia electron)",
+        "en": "- Electron beam furnaces"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Lò luyện, nung và lò sấy khác",
+        "en": "Other furnaces and ovens"
+      },
+      "subheading_id": "8514.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Lò hồ quang plasma và chân không",
+        "en": "- Plasma and vacuum arc furnaces"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Lò luyện, nung và lò sấy khác",
+        "en": "Other furnaces and ovens"
+      },
+      "subheading_id": "8514.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8514.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị khác để xử lý nhiệt các vật liệu bằng cảm ứng điện hoặc tổn hao điện môi",
+        "en": "Other equipment for the heat treatment of materials by induction or dielectric loss"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8514.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

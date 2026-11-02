@@ -1,0 +1,53 @@
+{
+  "heading_id": "55.05",
+  "heading_title": {
+    "vi": "Phế liệu (kể cả phế liệu xơ, phế liệu sợi và nguyên liệu tái chế) từ xơ nhân tạo.",
+    "en": "Waste (including noils, yarn waste and garnetted stock) of man-made fibres."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các phế liệu xơ nhân tạo (sợi filament và xơ staple), bao gồm phế liệu xơ (phế liệu mềm), phế liệu sợi (phế liệu cứng), và nguyên liệu tái chế. Phế liệu này được phân loại vào nhóm này dù đã được tẩy trắng hoặc nhuộm, miễn là chưa được chải thô, chải kỹ hoặc gia công cách khác để kéo sợi. Nhóm này không bao gồm mền xơ, bông (nhóm 30.05 hoặc 56.01), xơ phế liệu đã được chải thô, chải kỹ (nhóm 55.06 hoặc 55.07), xơ vụn, bụi xơ và kết xơ (nhóm 56.01), và vải vụn (Chương 63).",
+    "en": "This heading covers waste of man-made fibres (filaments and staple fibres), including fibre wastes (soft waste), yarn wastes (hard waste), and garnetted stock. Such wastes are classified here whether bleached or dyed, provided they have not been carded, combed or otherwise processed for spinning. The heading excludes wadding (heading 30.05 or 56.01), waste fibres that have been carded or combed (heading 55.06 or 55.07), textile flock, dust, and mill neps (heading 56.01), and rags (Chapter 63)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải chi tiết của nhóm 55.03 được áp dụng, một cách tương tự, với các mặt hàng của nhóm này. Nhóm này cũng bao gồm các phế liệu xơ nhân tạo (sợi filament và xơ staple, xem Chú giải tổng quát của Chương 54) và gồm:\n(1) Phế liệu xơ (phế liệu mềm) như xơ tương đối dài thu được dưới dạng phế liệu trong quá trình hình thành và gia công sợi filament; xơ ngắn thu được dưới dạng phế liệu từ quá trình chải thô, chải kỹ và các quá trình gia công khác chuẩn bị cho kéo sợi từ xơ staple (ví dụ phế liệu xơ, các miếng đứt đoạn nhỏ từ các lớp bông, cúi hoặc sợi thô...).\n(2) Phế liệu sợi (phế liệu cứng) tức là sợi đứt, sợi thắt nút hoặc sợi rối được gom lại dưới dạng phế liệu trong quá trình kéo sợi, xe sợi, guồng sợi, dệt thoi, dệt kim v.v.\n(3) Nguyên liệu tái chế, tức là xơ có được bằng cách xé các miếng vải vụn hoặc sợi thành các xơ thành phần.\nPhế liệu như vậy được xếp vào nhóm này cho dù đã hoặc chưa được tẩy trắng hoặc nhuộm, miễn là nó chưa được chải thô, chải kỹ hoặc gia công cách khác để kéo sợi.",
+        "en": "The Explanatory Note to heading 55.03 applies, mutatis mutandis, to the products of this heading. This heading covers waste of man-made fibres (filaments and staple fibres - see the General Explanatory Note to Chapter 54) and includes:\n(1) Fibre wastes (soft waste), such as relatively long fibres obtained as waste during the formation and processing of filaments; short fibres obtained as waste from the carding, combing and other processes preparatory to the spinning of staple fibres (e.g., noils, small broken pieces of laps, slivers or rovings).\n(2) Yarn wastes (hard waste), i.e., broken, knotted or tangled yarns collected as waste during the spinning, doubling, reeling, weaving, knitting, etc., operations.\n(3) Garnetted stock, i.e., fibres obtained by tearing rags or yarns into their component fibres.\nSuch wastes are classified in this heading whether or not they have been bleached or dyed, provided that they have not been carded, combed or otherwise processed for spinning."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Mền xơ, bông (nhóm 30.05 hoặc 56.01).\n(b) Xơ phế liệu đã được chải thô, chải kỹ, hoặc gia công cách khác để kéo sợi (nhóm 55.06 hoặc 55.07).\n(c) Xơ vụn và bụi xơ và kết xơ từ công nghiệp dệt (nhóm 56.01).\n(d) Vải vụn mới hoặc cũ (Chương 63).",
+        "en": "The heading does not include:\n(a) Wadding (heading 30.05 or 56.01).\n(b) Waste fibres, carded, combed or otherwise processed for spinning (heading 55.06 or 55.07).\n(c) Textile flock and dust and mill neps (heading 56.01).\n(d) New or used rags (Chapter 63)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5505.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ các xơ tổng hợp",
+        "en": "- Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5505.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ các xơ tái tạo",
+        "en": "- Of artificial fibres"
+      }
+    }
+  ]
+}

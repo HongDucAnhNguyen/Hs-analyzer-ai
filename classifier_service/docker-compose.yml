@@ -1,0 +1,115 @@
+services:
+  redis:
+    image: redis:7-alpine
+    container_name: classification-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    command: redis-server --appendonly yes
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 5
+    networks:
+      - classification-network
+
+  rabbitmq:
+    image: rabbitmq:3.12-management-alpine
+    container_name: classification-rabbitmq
+    ports:
+      - "5672:5672"      # AMQP port
+      - "15672:15672"    # Management UI
+    environment:
+      RABBITMQ_DEFAULT_USER: admin
+      RABBITMQ_DEFAULT_PASS: admin123
+      RABBITMQ_DEFAULT_VHOST: /
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - classification-network
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: classification-app
+    ports:
+      - "8000:8000"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+      - PORT=8000
+      - WORKERS=4
+    volumes:
+      - .:/app/classifier_service
+      - ./logs:/app/logs
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - classification-network
+
+  celery_worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: classification-celery-worker
+    command: uv run celery -A classifier_service.core.celery_app worker --loglevel=info --concurrency=4
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+    volumes:
+      - .:/app
+      - ./logs:/app/logs
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - classification-network
+
+  celery_flower:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: classification-celery-flower
+    command: uv run celery -A classifier_service.core.celery_app flower --port=5555
+    ports:
+      - "5555:5555"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@rabbitmq:5672/
+    volumes:
+      - .:/app
+    depends_on:
+      redis:
+        condition: service_healthy
+      rabbitmq:
+        condition: service_healthy
+    restart: unless-stopped
+    networks:
+      - classification-network
+
+volumes:
+  redis_data:
+    driver: local
+  rabbitmq_data:
+    driver: local
+
+networks:
+  classification-network:
+    driver: bridge

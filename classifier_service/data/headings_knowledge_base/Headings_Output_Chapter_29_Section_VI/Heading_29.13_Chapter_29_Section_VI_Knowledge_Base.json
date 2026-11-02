@@ -1,0 +1,21 @@
+{
+  "heading_id": "29.13",
+  "heading_title": {
+    "vi": "Dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của các sản phẩm của nhóm 29.12.",
+    "en": "Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading 29.12."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các dẫn xuất của aldehyde từ nhóm 29.12, được tạo thành bằng cách thay thế một hoặc nhiều nguyên tử hydro (trừ hydro trong nhóm aldehyde -CHO) bằng halogen, nhóm sulpho (-SO3H), nhóm nitro (-NO2), hoặc nhóm nitroso (-NO). Sản phẩm quan trọng nhất là cloral (trichloroacetaldehyde). Nhóm này không bao gồm cloral hydrat (nhóm 29.05) và các hợp chất aldehyt-bisulphit, được phân loại là dẫn xuất sulphonat hóa của rượu (các nhóm từ 29.05 đến 29.11).",
+    "en": "This heading covers derivatives of aldehydes of heading 29.12, formed by replacing one or more hydrogen atoms (other than in the aldehyde group -CHO) with halogens, sulpho groups (-SO3H), nitro groups (-NO2), or nitroso groups (-NO). The most important product is chloral (trichloroacetaldehyde). This heading excludes chloral hydrate (heading 29.05) and aldehyde-bisulphite compounds, which are classified as sulphonated derivatives of alcohols (headings 29.05 to 29.11)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chúng được tạo thành từ aldehyt bằng cách thay thế một hay nhiều nguyên tử hydro, trừ một hydro của nhóm aldehyt (-CHO) bằng một hay nhiều halogen, nhóm sulpho (-SO3H), nhóm nitro (-NO2) hoặc nhóm nitroso (-NO) hoặc bằng sự kết hợp bất kỳ nào của các nhóm đó.\nQuan trọng nhất là cloral (trichloroacetaldehyde) (Cl3CCHO); chất lỏng khan, linh động, không mầu, có mùi gắt; làm thuốc ngủ.\nNhóm này không bao gồm cloral hydrat (Cl3CCH(OH)2) (2,2,2‑trichloroethane‑1,1‑diol) xếp vào nhóm 29.05.\nNhóm này cũng loại trừ các hợp chất aldehyt - bisulphit, được phân loại như các dẫn xuất sulphonat hóa của rượu (các nhóm từ 29.05 đến 29.11).",
+        "en": "These are derived from aldehydes by replacing one or more of the hydrogen atoms (other than a hydrogen in the aldehyde group (-CHO) by one or more halogens, sulpho groups (-SO3H). nitro groups (-NO;) or nitroso groups (-NO) or by any combination thereof.\nThe most important is chloral (trichloroacetaldehyde) (Cl3CCHO); anhydrous, mobile, colourless liquid with a penetrating odour; a hypnotic.\nThis heading excludes chloral hydrate (Cl3CCH(OH)2) (2,2,2 trichloroethane-1.1-diol) which falls in heading 29.05.\nThis heading also excludes aldehyde bisulphite compounds which are classified as sulphonated derivatives of alcohols (headings 29.05 to 29.11)."
+      }
+    }
+  ],
+  "subheadings": []
+}

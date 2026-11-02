@@ -1,0 +1,53 @@
+{
+  "heading_id": "03.09",
+  "heading_title": {
+    "vi": "Bột mịn, bột thô và viên của cá, động vật giáp xác, động vật thân mềm và động vật thủy sinh không xương sống khác, thích hợp dùng làm thức ăn cho người.",
+    "en": "Flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, fit for human consumption."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại bột mịn, bột thô và viên từ cá, động vật giáp xác, động vật thân mềm và động vật thủy sinh không xương sống khác, đã hoặc chưa nấu chín, miễn là chúng thích hợp dùng làm thức ăn cho người. Các sản phẩm đã khử chất béo hoặc qua xử lý nhiệt vẫn được phân loại ở đây. Nhóm này loại trừ các sản phẩm tương tự không thích hợp dùng làm thức ăn cho người, được phân loại vào nhóm 23.01.",
+    "en": "This heading covers flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, whether or not cooked, provided they are fit for human consumption. Products that have been defatted or heat-treated remain classified here. The heading excludes similar products that are unfit for human consumption, which are classified in heading 23.01."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại bột mịn, bột thô và viên từ cá, động vật giáp xác, động vật thân mềm và động vật thủy sinh không xương sống khác, đã hoặc chưa nấu chín.\nBột mịn và bột thô từ cá, đã khử chất béo (ví dụ bằng phương pháp chiết xuất dung môi) hoặc đã qua xử lý nhiệt, thích hợp dùng làm thức ăn cho người, vẫn được phân loại ở đây.",
+        "en": "This heading covers flours, meals and pellets obtained from fish, crustaceans, molluscs and other aquatic invertebrates, whether or not cooked.\nFish flour and fish meal, defatted (for example by a solvent-extract method) or subjected to heat treatment, fit for human consumption, remain classified here."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm các loại bột mịn, bột thô và viên của cá, động vật giáp xác, động vật thân mềm và động vật thủy sinh không xương sống khác, không thích hợp dùng làm thức ăn cho người (nhóm 23.01).",
+        "en": "The heading does not cover flours, meals and pellets of fish, crustaceans, molluscs and other aquatic invertebrates, unfit for human consumption (heading 23.01)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0309.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Của cá",
+        "en": "- Of fish"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0309.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "heading_id": "55.11",
+  "heading_title": {
+    "vi": "Sợi (trừ chỉ khâu) từ xơ staple nhân tạo, đã đóng gói để bán lẻ.",
+    "en": "Yarn (other than sewing thread) of man-made staple fibres, put up for retail sale."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại sợi (trừ chỉ khâu) làm từ xơ staple nhân tạo, đã được đóng gói để bán lẻ. Việc đóng gói phải ở các dạng và đáp ứng điều kiện nêu tại Phần (I) (B) (3) của Chú giải tổng quát Phần XI.",
+    "en": "This heading covers yarn (other than sewing thread) of man-made staple fibres when put up for retail sale. The packing must be in the forms and subject to the conditions described in Part (I) (B) (3) of the General Explanatory Note to Section XI."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại sợi (trừ chỉ khâu) làm từ xơ staple nhân tạo, đã được đóng gói để bán lẻ, tức là, ở các dạng và đáp ứng điều kiện nêu tại Phần (I) (B) (3) của Chú giải tổng quát Phần XI.",
+        "en": "This heading covers yarns (other than sewing thread) of man-made staple fibres when put up for retail sale, i.e., in the forms and subject to the conditions described in Part (I) (B) (3) of the General Explanatory Note to Section XI."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5511.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ xơ staple tổng hợp, có hàm lượng loại xơ này chiếm từ 85% trở lên tính theo khối lượng",
+        "en": "- Of synthetic staple fibres, containing 85 % or more by weight of such fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5511.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ xơ staple tổng hợp, có hàm lượng loại xơ này chiếm dưới 85% tính theo khối lượng",
+        "en": "- Of synthetic staple fibres, containing less than 85 % by weight of such fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5511.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ xơ staple tái tạo",
+        "en": "- Of artificial staple fibres"
+      }
+    }
+  ]
+}

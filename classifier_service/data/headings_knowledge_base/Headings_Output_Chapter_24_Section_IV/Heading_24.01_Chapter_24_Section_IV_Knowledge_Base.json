@@ -1,0 +1,58 @@
+{
+  "heading_id": "24.01",
+  "heading_title": {
+    "vi": "Lá thuốc lá chưa chế biến; phế liệu lá thuốc lá.",
+    "en": "Unmanufactured tobacco; tobacco refuse."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm lá thuốc lá chưa chế biến dưới dạng cả cây hoặc lá ở dạng tự nhiên, đã sấy hoặc ủ men, còn nguyên hoặc đã tước cọng, chưa sẵn sàng để hút. Nhóm này cũng bao gồm các lá thuốc lá đã được xử lý bằng dung dịch để ngăn ẩm mốc và bảo quản hương vị. Ngoài ra, nhóm này còn bao gồm phế liệu lá thuốc lá như thân, cuống, gân lá, và bụi phát sinh trong quá trình xử lý lá thuốc hoặc sản xuất các sản phẩm thuốc lá.",
+    "en": "This heading covers unmanufactured tobacco in the form of whole plants or leaves in their natural state, cured or fermented, whole or stemmed/stripped, but not ready for smoking. It also includes tobacco leaves that have been treated with a liquid to prevent mould and preserve flavor. Additionally, the heading covers tobacco refuse, such as stalks, stems, midribs, and dust resulting from the manipulation of tobacco leaves or the manufacture of tobacco products."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Lá thuốc lá chưa chế biến dưới dạng cả cây hay dạng lá ở dạng tự nhiên hoặc lá thuốc lá đã sấy hoặc đã ủ men, còn nguyên hoặc được tước cọng, lá này có thể còn nguyên dạng hay đã được tước cọng, đã hoặc chưa được xén, đã được nghiền hoặc thái (kể cả thái miếng theo hình dạng, nhưng với điều kiện là thuốc lá chưa thể dùng để hút ngay được).\nCác lá thuốc lá được trộn lẫn, được tước cọng và được \"sao tẩm\" (\"tẩm nước xốt\" hoặc \"tẩm rượu mùi\") bằng một chất lỏng có thành phần phù hợp nhằm chủ yếu là ngăn ẩm mốc và khô và cũng để bảo quản hương vị, cũng thuộc nhóm này.\n(2) Phế liệu lá thuốc lá, ví dụ, phế thải thu được từ việc hái tay lá thuốc lá hoặc từ việc sản xuất các sản phẩm thuốc lá (thân lá, cuống lá, gân lá, rẻo lá xén ra, bụi,...).",
+        "en": "This heading covers:\n(1) Unmanufactured tobacco in the form of whole plants or leaves in the natural state or as cured or fermented leaves, whole or stemmed/stripped, trimmed or untrimmed, broken or cut (including pieces cut to shape, but not tobacco ready for smoking).\nTobacco leaves, blended, stemmed/stripped and “cased” (“sauced” or “liquored”) with a liquid of appropriate composition mainly in order to prevent mould and drying and also to preserve the flavour are also covered in this heading.\n(2) Tobacco refuse, e.g., waste resulting from the manipulation of tobacco leaves, or from the manufacture of tobacco products (stalks, stems, midribs, trimmings, dust. etc.)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2401.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lá thuốc lá chưa tước cọng",
+        "en": "Tobacco, not stemmed/stripped"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2401.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lá thuốc lá, đã tước cọng một phần hoặc toàn bộ",
+        "en": "Tobacco, partly or wholly stemmed/stripped"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2401.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Phế liệu lá thuốc lá",
+        "en": "Tobacco refuse"
+      }
+    }
+  ]
+}

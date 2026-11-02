@@ -1,0 +1,89 @@
+{
+  "heading_id": "84.50",
+  "heading_title": {
+    "vi": "Máy giặt gia đình hoặc trong hiệu giặt, kể cả máy giặt có chức năng sấy khô (+).",
+    "en": "Household or laundry-type washing machines, including machines which both wash and dry (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 84.50 bao gồm các loại máy giặt dùng trong gia đình hoặc hiệu giặt, không phân biệt dùng điện hay không và trọng lượng. Các máy này dùng để làm sạch vải lanh và các sản phẩm dệt may khác, có thể sử dụng các cơ chế như cánh trộn, trụ xoay, hoặc dao động tần số cao. Nhóm này cũng bao gồm các máy kết hợp chức năng giặt và sấy. Một điểm loại trừ quan trọng là máy giặt khô, được phân loại vào nhóm 84.51. Chú giải phân nhóm 8450.11 làm rõ rằng các máy tự động hoàn toàn, thực hiện giặt, xả, và vắt mà không cần người dùng can thiệp, thuộc phân nhóm này. Các bộ phận của máy giặt thuộc nhóm này cũng được phân loại tại đây theo quy định chung của Phần XVI.",
+    "en": "Heading 84.50 covers household or laundry-type washing machines, regardless of whether they are electric or their weight. These machines are used for cleaning linens and other textile articles, possibly using mechanisms like paddles, rotating cylinders, or high-frequency vibrations. This heading also includes machines that combine both washing and drying functions. A key exclusion is dry-cleaning machinery, which is classified under heading 84.51. The subheading explanatory note for 8450.11 clarifies that fully automatic machines, which perform washing, rinsing, and spinning without user intervention, belong to this subheading. Parts for machines of this heading are also classified here under the general provisions of Section XVI."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm máy giặt gia đình hoặc trong hiệu giặt (dùng điện hoặc không, ở bất kỳ trọng lượng nào), thường được sử dụng trong gia đình, tiệm giặt ủi, bệnh viện để làm sạch vải lanh và các sản phẩm hoàn thiện khác. Chúng có thể bao gồm cánh trộn, trụ xoay tròn, hoặc thiết bị tạo dao động tần số cao. Nhóm này cũng bao gồm máy có cả chức năng giặt và sấy. Tuy nhiên, máy giặt khô được loại trừ và thuộc nhóm 84.51. Theo Chú giải tổng quát của Phần XVI, các bộ phận của máy móc thuộc nhóm này cũng được phân loại ở đây.",
+        "en": "This heading covers household or laundry-type washing machines (whether electric or not and of any weight), normally used in households, commercial laundries, hospitals, etc., to clean linens and finished goods. They may include paddles, rotating cylinders, or devices for high-frequency vibrations. The heading also covers machines which both wash and dry. However, dry-cleaning machinery is excluded and falls in heading 84.51. Subject to the general provisions of the General Explanatory Note to Section XVI, the heading also covers parts of these machines."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 8450.11: Phân nhóm này bao gồm máy giặt mà sau khi chương trình được lựa chọn, máy sẽ thực hiện các công đoạn giặt, xả và vắt mà không cần sự can thiệp của người sử dụng.",
+        "en": "Subheading Explanatory Note for 8450.11: This subheading covers washing machines which, once the programme has been selected, wash, rinse and spin without the intervention of the user."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Máy giặt, có sức chứa không quá 10kg vải khô một lần giặt",
+        "en": "Machines, each of a dry linen capacity not exceeding 10 kg"
+      },
+      "subheading_id": "8450.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy tự động hoàn toàn",
+        "en": "Fully-automatic machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy giặt, có sức chứa không quá 10kg vải khô một lần giặt",
+        "en": "Machines, each of a dry linen capacity not exceeding 10 kg"
+      },
+      "subheading_id": "8450.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy giặt khác, có chức năng sấy ly tâm",
+        "en": "Other machines, with built-in centrifugal drier"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy giặt, có sức chứa không quá 10kg vải khô một lần giặt",
+        "en": "Machines, each of a dry linen capacity not exceeding 10 kg"
+      },
+      "subheading_id": "8450.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8450.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy giặt, có sức chứa trên 10kg vải khô một lần giặt",
+        "en": "Machines, each of a dry linen capacity exceeding 10 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8450.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

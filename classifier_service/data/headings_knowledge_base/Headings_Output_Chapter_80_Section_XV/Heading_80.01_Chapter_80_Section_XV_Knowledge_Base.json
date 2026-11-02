@@ -1,0 +1,46 @@
+{
+  "heading_id": "80.01",
+  "heading_title": {
+    "vi": "Thiếc chưa gia công",
+    "en": "Unwrought tin."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thiếc chưa gia công ở dạng hình khối, thỏi, thanh, que, cục, phiến hoặc các dạng tương tự, cùng với các mảnh, hạt và sản phẩm tương tự. Các sản phẩm này chủ yếu được sử dụng để mạ thiếc, cán hoặc đúc ép, sản xuất hợp kim, hoặc đúc thành các sản phẩm có hình dạng. Nhóm này loại trừ thiếc ở dạng bột và vảy thuộc nhóm 80.07.",
+    "en": "This heading covers unwrought tin in blocks, ingots, pigs, slabs, bars, sticks or similar forms, and fragments, granules and similar products. These products are mainly intended for use in tinplating, for rolling or extrusion, for the manufacture of alloys, or for casting into shaped articles. This heading excludes tin powders and flakes of heading 80.07."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm thiếc chưa gia công ở dạng hình khối, thỏi, thanh, que, cục, phiến hoặc các dạng tương tự, và các mảnh, các hạt và các sản phẩm tương tự bằng thiếc. Hầu hết các sản phẩm thuộc nhóm này được dự định đưa vào sử dụng trong việc mạ thiếc, cho quá trình cán hoặc đúc ép, cho sản xuất các loại hợp kim đúc thành các sản phẩm có hình dạng.\nNhóm này loại trừ thiếc ở dạng bột và vảy (nhóm 80.07).",
+        "en": "This heading covers unwrought tin in blocks, ingots, pigs, slabs, bars, sticks or similar forms, and fragments, granules and similar products, of tin. Most of the products of this heading are intended for use in tinplating, for rolling or extrusion, for the manufacture of alloys, or for casting into shaped articles.\nThis heading excludes tin powders and flakes (heading 80.07)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8001.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiếc, không hợp kim",
+        "en": "Tin, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8001.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hợp kim thiếc",
+        "en": "Tin alloys"
+      }
+    }
+  ]
+}

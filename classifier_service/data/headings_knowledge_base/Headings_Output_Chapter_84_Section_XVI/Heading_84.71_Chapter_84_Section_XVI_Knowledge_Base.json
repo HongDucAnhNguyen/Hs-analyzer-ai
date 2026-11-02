@@ -1,0 +1,160 @@
+{
+  "heading_id": "84.71",
+  "heading_title": {
+    "vi": "Máy xử lý dữ liệu tự động và các khối chức năng của chúng; đầu đọc từ tính hoặc đầu đọc quang học, máy truyền dữ liệu lên các phương tiện truyền dữ liệu dưới dạng mã hóa và máy xử lý những dữ liệu này, chưa được chi tiết hoặc ghi ở nơi khác (+).",
+    "en": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hai nhóm hàng hóa chính. Phần (I) bao gồm các máy xử lý dữ liệu tự động và các khối chức năng của chúng. Một máy xử lý dữ liệu tự động phải đáp ứng đồng thời các điều kiện của Chú giải 6(A) của Chương 84: (1) Lưu trữ chương trình xử lý và dữ liệu cần thiết; (2) Có thể được lập trình tự do; (3) Thực hiện các phép tính số học do người dùng chỉ định; và (4) Thực hiện chương trình có quyết định logic mà không có sự can thiệp của con người. Các máy này có thể là một khối đơn lẻ hoặc ở dạng một hệ thống (gồm ít nhất một bộ xử lý trung tâm, một bộ nhập và một bộ xuất). Nhóm này cũng bao gồm các khối chức năng được trình bày riêng lẻ nếu chúng đáp ứng các điều kiện trong Chú giải 6(C) của Chương này. Phần (II) bao gồm các đầu đọc từ tính hoặc quang học (kể cả đầu đọc mã vạch), máy truyền dữ liệu sang các phương tiện dữ liệu dưới dạng mã hóa (ví dụ máy sao chép đĩa, máy lập trình mạch tích hợp) và máy xử lý dữ liệu đó, chưa được chi tiết hoặc ghi ở nơi khác. \n\nCác loại trừ chính của nhóm này bao gồm: máy hoạt động theo chương trình cố định; máy móc kết hợp hoặc hoạt động cùng máy xử lý dữ liệu tự động nhưng thực hiện một chức năng cụ thể (Chú giải 6(E) của Chương này); máy tính, máy kế toán của nhóm 84.70; máy chữ tự động, máy soạn thảo văn bản của nhóm 84.72; bộ nguồn (nhóm 85.04); modem và thiết bị mạng (nhóm 85.17); mạch tích hợp (nhóm 85.42); và thiết bị mô phỏng bay (ví dụ nhóm 88.05). \n\nCác bộ phận và phụ kiện của máy thuộc nhóm này được phân loại vào nhóm 84.73.",
+    "en": "This heading covers two main groups of goods. Part (I) covers automatic data processing (ADP) machines and units thereof. An ADP machine must simultaneously meet the conditions of Note 6(A) to Chapter 84: (1) Store the processing program(s) and necessary data; (2) Be freely programmable; (3) Perform user-specified arithmetical computations; and (4) Execute a program with logical decision-making without human intervention. These machines can be self-contained or in the form of a system (comprising at least a central processing unit, an input unit, and an output unit). The heading also includes separately presented constituent units if they meet the conditions of Note 6(C) to this Chapter. Part (II) covers magnetic or optical readers (including bar code readers), machines for transcribing data onto data media in coded form (e.g., disc reproducers, integrated circuit programmers), and machines for processing such data, not elsewhere specified or included.\n\nKey exclusions from this heading include: machines that operate on fixed programs; machines incorporating or working in conjunction with an ADP machine but performing a specific function (Note 6(E) to this Chapter); calculating and accounting machines of heading 84.70; automatic typewriters and word-processing machines of heading 84.72; power supply units (heading 85.04); modems and networking apparatus (heading 85.17); integrated circuits (heading 85.42); and flight simulators (e.g., heading 88.05).\n\nParts and accessories for machines of this heading are classified in heading 84.73."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(I) MÁY XỬ LÝ DỮ LIỆU TỰ ĐỘNG VÀ CÁC KHỐI CHỨC NĂNG CỦA CHÚNG\n\nXử lý dữ liệu là việc xử lý tất cả các loại thông tin, theo chuỗi lôgíc thiết lập trước và cho một hoặc nhiều mục đích cụ thể.\nMáy xử lý dữ liệu tự động là máy thực hiện theo những chỉ dẫn (chương trình) được thiết lập trước bằng những hoạt động liên kết lôgíc, cung cấp dữ liệu có thể được sử dụng, trong một số trường hợp cung cấp trở lại các số liệu cho các hoạt động xử lý dữ liệu khác.\nNhóm này bao gồm những máy xử lý dữ liệu mà trong đó chuỗi lôgic các hoạt động có thể bị thay đổi từ hoạt động này tới hoạt động khác, và trong đó hoạt động có thể tự động, có nghĩa là không có sự tham gia thủ công trong quá trình hoạt động. Chúng có thể là một khối, tất cả những bộ phận cần thiết để xử lý dữ liệu chứa trong cùng một vỏ, hoặc có thể ở dạng hệ thống bao gồm một loạt các đơn vị riêng biệt.\nTuy nhiên, nhóm này không bao gồm máy, dụng cụ hoặc thiết bị kết hợp hoặc làm việc cùng với máy xử lý dữ liệu tự động và thực hiện một chức năng cụ thể. Những máy móc, dụng cụ hoặc thiết bị đó được phân loại vào những nhóm phù hợp với chức năng tương ứng hoặc nếu không được thì xếp vào những nhóm còn lại (Xem Phần E của Chú giải tổng quát của Chương này).\n(A) MÁY XỬ LÝ DỮ LIỆU TỰ ĐỘNG\nMáy xử lý dữ liệu tự động của nhóm này phải có khả năng đáp ứng đồng thời các điều kiện của Chú giải 6(A) chương này. Có nghĩa là, chúng phải có khả năng: \n(1) Lưu trữ một hoặc nhiều chương trình xử lý và ít nhất là dữ liệu cần thiết ngay lập tức cho việc thực hiện chương trình.\n(2) Được cài đặt chương trình một cách tự do theo yêu cầu của người sử dụng.\n(3) Thực hiện các phép tính số học cụ thể bởi người sử dụng và\n(4) Thực hiện chương trình xử lý đòi hỏi phải thay đổi tiến trình thực hiện bằng quyết định lôgic trong quá trình xử lý mà không có sự tác động của con người.\nDo đó, những máy chỉ hoạt động theo những chương trình cố định, không thể thay đổi bởi người sử dụng, bị loại trừ ngay cả khi người sử dụng có thể chọn giữa các chương trình cố định đó.",
+        "en": "(I) AUTOMATIC DATA PROCESSING MACHINES AND UNITS THEREOF\n\nData processing is the handling of information of all kinds, in pre-established logical sequences and for a specific purpose or purposes.\nAutomatic data processing machines are machines which, by logically interrelated operations performed in accordance with pre-established instructions (program), furnish data which can be used as such or, in some cases, serve in turn as data for other data processing operations.\nThis heading covers data processing machines in which the logical sequences of the operations can be changed from one job to another, and in which the operation can be automatic, that is to say with no manual intervention for the duration of the task. They may be self-contained, all the elements required for data processing being combined in the same housing, or they may be in the form of systems consisting of a variable number of separate units.\nHowever, the heading excludes machines, instruments or apparatus incorporating or working in conjunction with an automatic data processing machine and performing a specific function. Such machines, instruments or apparatus are classified in the headings appropriate to their respective functions or, failing that, in residual headings (See Part (E) of the General Explanatory Note to this Chapter).\n(A) AUTOMATIC DATA PROCESSING MACHINES\nThe automatic data processing machines of this heading must be capable of fulfilling simultaneously the conditions laid down in Note 6 (A) to this Chapter. That is to say, they must be capable of:\n(1) Storing the processing program or programs and at least the data immediately necessary for the execution of the program;\n(2) Being freely programmed in accordance with the requirements of the user;\n(3) Performing arithmetical computations specified by the user; and\n(4) Executing, without human intervention, a processing program which requires them to modify their execution, by logical decision during the processing run.\nThus, machines which operate only on fixed programs, i.e., programs which cannot be modified by the user, are excluded even though the user may be able to choose between a number of such fixed programs."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Những máy này có khả năng lưu trữ và các chương trình đã được lưu trữ có thể bị thay đổi từ việc này đến việc khác. Chúng xử lý dữ liệu ở dạng mã hóa. Việc nhập dữ liệu thường tự động nhưng cũng có thể nhập thủ công. Dữ liệu đầu vào được chuyển đổi thành tín hiệu và được lưu trữ trong bộ lưu trữ.\nMột máy xử lý dữ liệu tự động phải có một bộ lưu trữ chính có thể truy cập trực tiếp để thực hiện một chương trình cụ thể.\nChúng có thể chứa trong cùng 1 vỏ gồm: bộ xử lý trung tâm, một đơn vị nhập và một đơn vị xuất, hoặc có thể bao gồm một số bộ phận riêng biệt được kết nối với nhau. Trong trường hợp sau, các bộ phận tạo nên 1 “hệ thống” khi nó gồm ít nhất 1 bộ xử lý trung tâm, một bộ nhập và một bộ xuất (xem Chú giải phân nhóm 2 chương này). Sự kết hợp giữa các bộ phận với nhau có thể bằng dây hoặc không dây.\nMột hệ thống xử lý dữ liệu tự động hoàn chỉnh phải bao gồm, ít nhất:\n(1) Một bộ xử lý trung tâm.\n(2) Bộ nhập tiếp nhận dữ liệu đầu vào và chuyển đổi chúng thành những tín hiệu có thể được xử lý bằng máy.\n(3) Bộ xuất chuyển đổi những tín hiệu do máy tạo ra thành dạng có thể hiểu được hoặc thành dữ liệu ở dạng mã hóa để sử dụng ở các bước tiếp theo.\nHai trong số những bộ phận này có thể được kết hợp trong một khối.",
+        "en": "These machines have storage capability and also stored programs which can be changed from job to job. They process data in coded form. Data input is usually automatic but may also be manual. The input data are converted by the input units into signals which can be used by the machine, and stored in the storage units.\nThese automatic data processing machines must have a main storage capability which is directly accessible for the execution of a particular program.\nThey may comprise in the same housing, the central processing unit, an input unit and an output unit, or may consist of a number of interconnected separate units. In the latter case, the units form a “system” when it comprises at least the central processing unit, an input unit and an output unit (see Subheading Note 2 to this Chapter). The interconnections may be made by wired or wireless means.\nA complete automatic data processing system must comprise, at least:\n(1) A central processing unit.\n(2) An input unit which receives input data and converts them into signals which can be processed by the machine.\n(3) An output unit which converts the signals provided by the machine into an intelligible form or into coded data for further use.\nTwo of these units may be combined in one single unit."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(B) THIẾT BỊ ĐƯỢC XUẤT TRÌNH RIÊNG RẼ\nTheo điều khoản Chú giải 6(D) và 6(E) chương này, nhóm này cũng bao gồm các thiết bị cấu thành của hệ thống xử lý dữ liệu tự động được xuất trình (trình bày) riêng lẻ.\nThiết bị chỉ có thể được phân loại ở nhóm này như một bộ phận của hệ thống xử lý dữ liệu tự động nếu nó:\n(a) Thực hiện chức năng xử lý dữ liệu;\n(b) Đáp ứng với các tiêu chí đặt ra ở chú giải 6(C) chương này:\n(i) Thiết bị là loại chỉ dùng hoặc chủ yếu dùng trong hệ thống xử lý dữ liệu tự động;\n(ii) Thiết bị có thể kết nối với bộ xử lý dữ liệu trung tâm hoặc trực tiếp hoặc gián tiếp qua một hoặc một vài thiết bị khác; và\n(iii) Thiết bị có thể chấp nhận hoặc phân phối dữ liệu ở dạng mà hệ thống có thể sử dụng (như dạng mã hóa hoặc tín hiệu).\n(c) Thiết bị không bị loại trừ bởi các điều khoản trong Chú giải 6(D) và (E) Chương này.\nTheo đoạn cuối của chú giải 6(C) chương này, bàn phím, thiết bị nhập tọa độ X-Y và thiết bị lưu trữ thỏa mãn điều kiện của mục (b) (ii) và (iii) nêu trên, trong mọi trường hợp được phân loại như là các bộ phận cấu thành của hệ thống xử lý dữ liệu.\nNếu thiết bị thực hiện một chức năng riêng biệt ngoài xử lý dữ liệu, nó sẽ được phân loại vào nhóm phù hợp với chức năng đó hoặc, phân loại vào nhóm còn lại (xem chú giải 6(E) chương này).",
+        "en": "(B) SEPARATELY PRESENTED UNITS\nSubject to the provisions of Notes 6 (D) and (E) to this Chapter, this heading also covers separately presented constituent units of automatic data processing systems.\nAn apparatus can only be classified in this heading as a unit of an automatic data processing system if it:\n(a) Performs a data processing function;\n(b) Meets the following criteria set out in Note 6 (C) to this Chapter:\n(i) It is of a kind solely or principally used in an automatic data processing system;\n(ii) It is connectable to the central processing unit either directly or through one or more other units; and\n(iii) It is able to accept or deliver data in a form (codes or signals) which can be used by the system.\n(c) Is not excluded by the provisions of Notes 6 (D) and (E) to this Chapter.\nIn accordance with the last paragraph of Note 6 (C) to this Chapter, keyboards, X-Y co-ordinate input devices and disc storage units which satisfy the conditions of items (b) (ii) and (iii) above, are in all cases to be classified as constituent units of data processing systems.\nIf the unit performs a specific function other than data processing, it is to be classified in the heading appropriate to that function or, failing that, in a residual heading (see Note 6 (E) to this Chapter)."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Các ví dụ về các bộ phận khác ngoài bộ xử lý trung tâm, bộ nhập và bộ xuất bao gồm:\n(1) Bộ lưu trữ bổ sung bên ngoài bộ xử lý trung tâm (ví dụ: bộ lưu trữ đĩa từ hoặc đĩa quang, thư viện ổ đĩa quang, v.v.).\n(2) Bộ phận bổ sung nâng cao khả năng xử lý của bộ xử lý trung tâm (ví dụ bộ xử lý dấu chấm động).\n(3) Bộ điều khiển và bộ thích ứng (adaptor), thực hiện việc kết nối bộ xử lý trung tâm với bộ nhập hoặc bộ xuất (ví du: bộ chia cổng usb ). Tuy nhiên, bộ điều khiển và thích ứng dùng trong viễn thông nối mạng hữu tuyến hoặc không dây (như mạng máy tính cục bộ LAN hoặc mạng diện rộng WAN) thì bị loại trừ (nhóm 85.17).\n(4) Bộ chuyển đổi tín hiệu.\n(5) Bộ nhập các tọa độ X - Y, đó là những thiết bị để nhập dữ liệu vào máy xử lý dữ liệu tự động. Những thiết bị này bao gồm con chuột, bút quang, cần điều khiển, track ball và màn hình cảm ứng. Mục này cũng bao gồm bảng đồ họa.",
+        "en": "Examples of other units apart from central processing units and input and output units include:\n(1) Additional storage external to the central processing unit (e.g., magnetic or optical disc storages, optical disc drive libraries, etc.).\n(2) Additions which enhance the processing power of the central processing unit (e.g. floating point processing units).\n(3) Control and adaptor units such as those to effect interconnection of the central processing unit to input or output units (e.g., USB hubs). However, control and adaptor units for communication in a wired or wireless network (such as a local or wide area network) are excluded (heading 85.17).\n(4) Signal converting units.\n(5) X-Y co-ordinate input devices, which are units for inputting position data into automatic data processing machines. These devices include the mouse, the light pen, the joystick, the track ball and the touch-sensitive screen. This category also covers graphic tablets."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Mục này cũng bao gồm thêm bộ số hóa (bàn số hóa) có đặc điểm tương tự như chức năng của bảng đồ họa.\n(II) ĐẦU ĐỌC TỪ TÍNH hoặc QUANG HỌC, MÁY TRUYỀN DỮ LIỆU LÊN CÁC PHƯƠNG TIỆN TRUYỀN DỮ LIỆU DƯỚI DẠNG MÃ HÓA VÀ MÁY ĐỂ XỬ LÝ NHỮNG DỮ LIỆU NÀY, CHƯA ĐƯỢC CHI TIẾT hoặc GHI Ở NƠI KHÁC.\nNhóm này bao gồm một loạt các máy, thường bổ trợ lẫn nhau và thường được sử dụng trong hệ thống để thu thập thống kê hoặc kế toán hoặc các hoạt động khác.\nNhóm này chỉ bao gồm những máy chưa được chi tiết hoặc ghi ở nơi khác. Do đó, nhóm này không bao gồm:\n(a) Máy xử lý dữ liệu tự động và những bộ phận của chúng được mô tả ở Phần I trên đây, trừ máy đọc mã vạch.\n(b) Máy tính, máy kế toán, máy tính tiền thuộc nhóm 84.70.\n(c) Máy chữ tự động và máy soạn thảo văn bản (nhóm 84.72).\n(A) ĐẦU ĐỌC TỪ TÍNH HOẶC QUANG HỌC\n(1) Đầu đọc từ tính: đọc các ký tự in bằng mực 'từ' đặc biệt.\n(2) Đầu đọc quang học: đọc trực tiếp các ký tự bằng tế bào quang điện. Nhóm này bao gồm cả máy đọc mã vạch.",
+        "en": "This category further covers digitizers, which have similar functions to graphic tablets.\n(II) MAGNETIC OR OPTICAL READERS, MACHINES FOR TRANSCRIBING DATA ONTO DATA MEDIA IN CODED FORM AND MACHINES FOR PROCESSING SUCH DATA, NOT ELSEWHERE SPECIFIED OR INCLUDED\nThis group comprises a wide range of machines, which usually complement each other and are generally used in systems for compiling statistics or for accounting or other operations.\nThe group includes machines only if they are not elsewhere specified or included. It thus excludes, for example :\n(a) The automatic data processing machines and units thereof described in Part (I) above, other than bar code readers.\n(b) Calculating machines, accounting machines and cash registers of heading 84.70.\n(c) Automatic typewriters and word processing machines (heading 84.72).\n(A) MAGNETIC OR OPTICAL READERS\n(1) Magnetic readers: read characters printed with a special magnetic ink.\n(2) Optical readers: read characters directly by a series of photoelectric cells. This group also includes bar code readers."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(B) MÁY TRUYỀN DỮ LIỆU LÊN CÁC PHƯƠNG TIỆN TRUYỀN DỮ LIỆU DƯỚI DẠNG MÃ HÓA\nNhóm này bao gồm:\n(1) Máy để truyền thông tin được mã hóa từ môi trường này sang môi trường khác. Bao gồm máy tái tạo được dùng để tái tạo lại toàn bộ hoặc một phần dữ liệu vào băng, đĩa từ hoặc quang gốc.\n(2) Máy đưa chương trình cố định vào mạch tích hợp (máy lập chương trình).\nCÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo các quy định chung liên quan đến phân loại các bộ phận (xem chú giải tổng quát của phần XVI), các bộ phận và phụ kiện của những máy thuộc nhóm này được phân loại vào nhóm 84.73.\nNhóm này không bao gồm:\n(a) Bộ nguồn (thuộc nhóm 85.04).\n(b) Bộ điều biến-giải biến (modem) (nhóm 85.17).\n(c) Mạch điện tử tích hợp (nhóm 85.42).\n(d) Thiết bị mô phỏng bay (ví dụ nhóm 88.05).",
+        "en": "(B) MACHINES FOR TRANSCRIBING DATA ONTO DATA MEDIA IN CODED FORM\nThis group includes:\n(1) Machines for transferring coded information from one medium to another. This includes reproducing machines which are used to reproduce all or part of the data on a master tape, magnetic or optical discs.\n(2) Machines for introducing fixed programs into integrated circuits (programmers).\nPARTS AND ACCESSORIES\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts and accessories of the machines of this heading are classified in heading 84.73.\nThis heading also excludes :\n(a) Power supply units (heading 85.04).\n(b) Modulator-demodulator apparatus (modems) (heading 85.17).\n(c) Electronic integrated circuits (heading 85.42).\n(d) Flight simulators (e.g., heading 88.05)."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 8471.30\nPhân nhóm này bao gồm các máy xử lý dữ kiện tự động xách tay trọng lượng không quá 10 kg. Được trang bị một màn hình phẳng, các máy này có khả năng hoạt động không cần nguồn điện ngoài và thường có 1 modem hoặc phương tiện khác để thiết lập một mối liên kết thông qua 1 hệ thống mạng.\nPhân nhóm 8471.90\nNgoài những mặt hàng khác, phân nhóm này bao gồm những hệ thống ghi đĩa quang học, thường gồm bàn phím, màn hình, ổ đĩa quang học, máy quét và máy in. Những hệ thống này có thể bao gồm một máy xử lý dữ liệu tự động như là máy điều khiển hoặc đạt cấu hình mà chúng có thể sử dụng được hoặc điều khiển được bằng một máy xử lý dữ liệu tự động.",
+        "en": "Subheading Explanatory Notes.\nSubheading 8471.30\nThis subheading covers portable automatic data processing machines weighing not more than 10 kg. These machines, which are equipped with a flat screen, may be capable of operating without an external source of electric power and often have a modem or other means for establishing a link with a network.\nSubheading 8471.90\nThis subheading covers, inter alia, optical disc filing systems which usually include keyboards, displays, optical disc drive units, scanners and printers. These systems may include an automatic data processing machine as the controller or they may be configured such that they are accessible or controllable by an automatic data processing machine."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8471.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy xử lý dữ liệu tự động loại xách tay, có trọng lượng không quá 10 kg, gồm ít nhất một đơn vị xử lý dữ liệu trung tâm, một bàn phím và một màn hình",
+        "en": "Portable automatic data processing machines, weighing not more than 10 kg, consisting of at least a central processing unit, a keyboard and a display"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy xử lý dữ liệu tự động khác:",
+        "en": "- Other automatic data processing machines :"
+      },
+      "subheading_id": "8471.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chứa trong cùng một vỏ có ít nhất một đơn vị xử lý trung tâm, một đơn vị nhập và một đơn vị xuất, kết hợp hoặc không kết hợp với nhau",
+        "en": "- - Comprising in the same housing at least a central processing unit and an input and output unit, whether or not combined"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy xử lý dữ liệu tự động khác:",
+        "en": "- Other automatic data processing machines :"
+      },
+      "subheading_id": "8471.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác, ở dạng hệ thống",
+        "en": "- - Other, presented in the form of systems"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8471.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ xử lý trừ loại của phân nhóm 8471.41 hoặc 8471.49, có hoặc không chứa trong cùng vỏ của một hoặc hai thiết bị sau: bộ lưu trữ, bộ nhập, bộ xuất",
+        "en": "Processing units other than those of subheading 8471.41 or 8471.49, whether or not containing in the same housing one or two of the following types of unit : storage units, input units, output units"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8471.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ nhập hoặc bộ xuất, có hoặc không chứa bộ lưu trữ trong cùng một vỏ.",
+        "en": "Input or output units, whether or not containing storage units in the same housing"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8471.70",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ lưu trữ",
+        "en": "Storage units"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8471.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các bộ khác của máy xử lý dữ liệu tự động",
+        "en": "Other units of automatic data processing machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8471.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

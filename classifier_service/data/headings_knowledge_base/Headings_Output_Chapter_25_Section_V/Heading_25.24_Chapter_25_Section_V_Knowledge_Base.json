@@ -1,0 +1,53 @@
+{
+  "heading_id": "25.24",
+  "heading_title": {
+    "vi": "Amiăng",
+    "en": "Asbestos."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm amiăng, một loại khoáng vật tự nhiên có kết cấu dạng sợi, chịu nhiệt và axit. Nó bao gồm amiăng thô ở dạng đá, sợi thô (đã đập nhỏ, rửa, phân loại hoặc chưa), amiăng dạng vẩy hoặc bột, và amiăng phế liệu. Một dạng cụ thể được đề cập là Crocidolite (amiăng xanh). Nhóm này không bao gồm sợi amiăng đã được gia công sâu hơn (ví dụ: nhuộm, chải) và các sản phẩm hoàn thiện từ amiăng, được phân loại tại nhóm 68.12.",
+    "en": "This heading covers asbestos, a natural mineral substance with a fibrous texture, resistant to fire and acids. It includes crude asbestos in rock form, raw fibres (beaten, washed, graded or not), asbestos in flakes or powder, and asbestos waste. A specific form mentioned is Crocidolite (blue asbestos). The heading excludes asbestos fibre which has been further processed (e.g., carded, dyed) and finished articles of asbestos, which are classified in heading 68.12."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Amiăng là một loại khoáng vật tự nhiên tạo bởi sự phân huỷ một số loại đá nhất định. Nó có kết cấu dạng sợi rất đặc trưng; đôi khi ở dạng tơ và màu sắc thay đổi rất rõ rệt, thường có màu trắng, nhưng đôi khi có màu xám, xanh lá cây nhạt, xanh nước biển hoặc nâu đậm. Đặc tính chính của nó là chịu nhiệt và axit.",
+        "en": "Asbestos a natural mineral substance produced by the decomposition of certain rocks. It has a very characteristic fibrous texture; it is sometimes silky in appearance and the colour varies greatly, being usually white, but sometimes grey, greenish, blue or dark brown. Its main property is its resistance to fire and acids."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Crocidolite là dạng amiăng từ riebeckite. Nó được thấy ở dạng bó sợi khi là đá magma, là dạng axit có chứa hàm lượng kiềm cao và cũng ở dạng đá biến chất. Nó có màu từ xanh nước biển đậm đến xanh xanh lá đậm hoặc đen và ở dạng từ trong mờ đến mờ đục một phần. Amiăng crocidolite hay còn gọi là amiăng xanh, nó có độ bền kéo hơn, độ chịu nhiệt thấp hơn và sợi đàn hồi kém so với các dạng khác của amiăng và có tính chịu axit nhưng không chịu kiềm. Nó được xem là loại amiăng nguy hiểm nhất.\nNhóm này áp dụng cho amiăng thô ở dạng đá, cho các sợi thô, sợi đã được đập nhỏ hoặc đã rửa, đã hoặc chưa được phân loại theo chiều dài sợi, cũng áp dụng cho amiăng ở dạng vẩy hoặc bột kể cả dạng amiăng phế liệu. Nhóm này loại trừ sợi đã được gia công nhiều hơn (ví dụ nhuộm, chải...) và các sản phẩm hoàn thiện của amiăng (nhóm 68.12).",
+        "en": "Crocidolite is the asbestos form of riebeckite. It is found in the form of fibre bundles in magmatic rock which is acid with a high alkali content and also in metamorphic rock. It is dark blue to black or dark green and is translucent to partially opaque. Crocidolite asbestos, also known as blue asbestos, has a greater tensile strengths but a lower resistance to heat and less elastic fibres than other forms of asbestos and is acid resistant but not base resistant. It is considered the most dangerous form of asbestos.\nThe heading applies to crude asbestos in rock form, to raw, beaten or washed fibres, whether graded to length or not, to asbestos in flakes or powder and also to asbestos waste. The heading excludes fibre which has been further processed (carded, dyed, etc.) and finished articles of asbestos (heading 68.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2524.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Crocidolite",
+        "en": "Crocidolite"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2524.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

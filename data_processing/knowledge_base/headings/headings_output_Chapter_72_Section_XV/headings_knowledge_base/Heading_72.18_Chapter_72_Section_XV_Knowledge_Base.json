@@ -1,0 +1,58 @@
+{
+  "heading_id": "72.18",
+  "heading_title": {
+    "vi": "Thép không gỉ ở dạng thỏi đúc hoặc dạng thô khác; bán thành phẩm của thép không gỉ.",
+    "en": "Stainless steel in ingots or other primary forms; semi-finished products of stainless steel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thép không gỉ ở hai dạng chính: dạng thỏi đúc hoặc các dạng thô khác, và bán thành phẩm. Việc phân loại hàng hóa trong nhóm này phải tuân theo các quy định và điều khoản được nêu trong Chú giải của các nhóm 72.06 và 72.07. Các sản phẩm được phân loại chi tiết hơn vào các phân nhóm dựa trên hình dạng, ví dụ như thỏi đúc, dạng thô khác, hoặc bán thành phẩm có mặt cắt ngang hình chữ nhật (trừ hình vuông) hoặc các hình dạng khác.",
+    "en": "This heading covers stainless steel in two main forms: ingots or other primary forms, and semi-finished products. The classification of goods under this heading is subject to the provisions and terms outlined in the Explanatory Notes to headings 72.06 and 72.07. Products are further classified into subheadings based on their form, such as ingots, other primary forms, or semi-finished products with a rectangular (other than square) cross-section or other cross-sections."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho các nhóm 72.06 và 72.07, với những sửa đổi thích hợp áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to headings 72.06 and 72.07 apply, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7218.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ở dạng thỏi đúc và các dạng thô khác",
+        "en": "Ingots and other primary forms"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7218.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có mặt cắt ngang hình chữ nhật (trừ hình vuông)",
+        "en": "- - Of rectangular (other than square) cross-section"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7218.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

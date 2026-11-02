@@ -1,0 +1,53 @@
+{
+  "heading_id": "71.05",
+  "heading_title": {
+    "vi": "Bụi và bột của đá quý hoặc đá bán quý tự nhiên hoặc tổng hợp.",
+    "en": "Dust and powder of natural or synthetic precious or semiprecious stones."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bụi và bột thu được từ việc đánh bóng hoặc mài các loại đá thuộc các nhóm 71.02, 71.03 và 71.04, quan trọng nhất là từ kim cương và đá garnet. Bụi và bột này có các hạt quá nhỏ để được gắn riêng lẻ, thường được sử dụng cho mục đích mài mòn và được cân thay vì đếm. Bụi kim cương tự nhiên thu được từ việc nghiền vụn kim cương công nghiệp (bort), trong khi bụi kim cương tổng hợp được sản xuất từ graphit. Chúng được dùng để sản xuất đá mài, bột nhão đánh bóng,... Bột đá garnet được dùng để mài thấu kính quang học hoặc làm chất mài mòn. Nhóm này không bao gồm bột đá corindon nhân tạo (nhóm 28.18).",
+    "en": "This heading covers dust and powder obtained from polishing or grinding stones of headings 71.02, 71.03, and 71.04, most importantly from diamonds and garnets. This dust and powder consists of particles too small to be mounted individually, are typically used for abrasive purposes, and are weighed instead of counted. Natural diamond dust is obtained from crushing industrial diamonds (bort), while synthetic diamond dust is produced from graphite. They are used for making grinding wheels, polishing pastes, etc. Garnet powder is used for grinding optical lenses or as an abrasive. The heading excludes artificial corundum powder (heading 28.18)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm bụi và bột thu được, ví dụ: từ sự đánh bóng hoặc mài các loại đá thuộc ba nhóm trước.",
+        "en": "This heading covers dust and powder obtained, for example, from the polishing or grinding of the stones covered by the three preceding headings."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Quan trọng nhất trong các bụi này là những bụi thu được từ kim cương và đá garnet.\nBụi và bột kim cương tự nhiên thu được chủ yếu là bằng cách đập vụn, nghiền mảnh vụn kim cương (các hạt kim cương loại công nghiệp). Bụi và bột kim cương tổng hợp được tạo ra bằng biến đổi trực tiếp, thông thường từ graphit, trong nhiệt độ và áp suất cao.\nBụi và bột này khác với những loại kim cương thuộc các nhóm 71.02 và 71.04 ở chỗ đối với các mục đích thực tế, chúng quá nhỏ để được gắn riêng lẻ. Chúng thường được sử dụng cho các mục đích mài mòn. Kích cỡ hạt của chúng thường không vượt quá 1.000 micromet (micron) nhưng sự phân loại theo kích cỡ được thực hiện thông qua rây chứ không phải bằng việc đo các hạt riêng lẻ. Có thể có mức độ trùng lặp đáng kể giữa kích thước của các hạt bụi, hạt bột và hạt đá, nhưng trái lại các đá được đếm từng hạt một để xác định số lượng, còn bụi và bột thì được cân.\nBụi và bột kim cương được sử dụng để sản xuất đá mài, đá đánh bóng hoặc đá mài khôn, các loại đá cắt, bột nhão đánh bóng,...\nBột đá garnet chủ yếu được sử dụng để mài các thấu kính quang học hoặc được sử dụng như chất liệu mài trên nền giấy hoặc vật liệu khác.\nNhóm này không bao gồm bột đá corindon nhân tạo (nhóm 28.18).",
+        "en": "The most important of these powders are derived from diamonds and garnets.\nNatural diamond dust and powder are obtained mainly by crushing “bort” (industrial grade diamond grains). Synthetic diamond dust and powder are produced by direct conversion, generally of graphite, at high temperatures and pressures.\nThese dusts and powders differ from the diamonds of headings 71.02 and 71.04 in that, for practical purposes, they are too small to be mounted individually. They are normally used for abrasive purposes. Their particle size generally does not exceed 1,000 micrometers (microns) but sizing is effected by sieving rather than by measuring individual particles. There can be a considerable degree of overlap between the size of dust and powder particles and that of stones, but whereas stones are counted individually to determine quantity, dust and powder are weighed.\nDiamond dust and powder are used for the manufacture of grinding, polishing or honing wheels, cutters, polishing pastes, etc.\nGarnet powder is used mainly for the grinding of optical lenses or as an abrasive on a base of paper or other material.\nThe heading does not cover artificial corundum powder (heading 28.18)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7105.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Của kim cương",
+        "en": "Of diamonds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7105.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

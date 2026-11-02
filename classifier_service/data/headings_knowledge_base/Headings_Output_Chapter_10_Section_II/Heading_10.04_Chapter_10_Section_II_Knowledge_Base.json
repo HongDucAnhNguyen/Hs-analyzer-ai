@@ -1,0 +1,53 @@
+{
+  "heading_id": "10.04",
+  "heading_title": {
+    "vi": "Yến mạch (+).",
+    "en": "Oats (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hai loại yến mạch chính (xám/đen và trắng/vàng), kể cả hạt có vỏ và hạt tự nhiên không có vỏ, miễn là chúng chưa qua quá trình chế biến nào khác ngoài đập hay sàng sẩy. Nhóm này cũng bao gồm yến mạch có thể đã bị mất phần mày trong quá trình xử lý thông thường. Chú giải Phân nhóm 1004.10 quy định rằng thuật ngữ “hạt giống” chỉ áp dụng cho yến mạch được các cơ quan quốc gia có thẩm quyền công nhận là để gieo trồng.",
+    "en": "This heading covers the two main kinds of oats (grey/black and white/yellow), including grains with their husks and those naturally without a husk, provided they have not undergone any process other than threshing or winnowing. The heading also covers oats from which the glume tips may have been removed during normal processing. The Subheading Explanatory Note to 1004.10 specifies that the term “seed” applies only to oats regarded by competent national authorities as being for sowing."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Có hai loại yến mạch chính: Yến mạch xám (hoặc đen) và yến mạch trắng (hoặc vàng). Nhóm này bao gồm hạt yến mạch có vỏ cũng như các hạt về bản chất tự nhiên không có trấu hoặc vỏ, miễn là chưa qua bất kỳ một quá trình chế biến nào trừ đập hay sàng sẩy. Nhóm này cũng bao gồm loại yến mạch phần mày có thể đã bị mất trong quá trình chế biến hoặc xử lý đơn thuần (đập, chuyên chở, chất hàng...).",
+        "en": "There are two main kinds of oats: grey (or black) oats and white (or yellow) oats. This heading covers grains with their husks as well as those which in their natural state have no husk or hull, provided they have not undergone any process other than threshing or winnowing. The heading also covers oats from which the glume tips may have been removed during normal processing or handling (threshing, transportation, reloading, etc.)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 1004.10\nTheo mục đích của phân nhóm 1004.10, thuật ngữ “hạt giống” chỉ bao gồm yến mạch được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+        "en": "Subheading Explanatory Note.\nSubheading 1004.10\nFor the purposes of subheading 1004.10, the term “seed” covers only oats regarded by the competent national authorities as being for sowing."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1004.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hạt giống",
+        "en": "Seed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1004.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

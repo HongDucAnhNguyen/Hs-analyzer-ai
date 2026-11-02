@@ -1,0 +1,94 @@
+{
+  "chapter_id": "89",
+  "chapter_title": {
+    "vi": "Tàu thủy, thuyền và các kết cấu nổi",
+    "en": "Ships, boats and floating structures"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm tàu thuyền các loại (tự hành hoặc không) và các kết cấu nổi. Nó bao gồm tàu thuyền chưa hoàn chỉnh, chưa hoàn thiện, hoặc ở dạng chưa lắp ráp, tháo rời, cũng như thân tàu. Các loại tàu thuyền chính bao gồm:\n- Nhóm 89.01: Tàu chở khách, thuyền du lịch, phà, tàu chở hàng, và xà lan.\n- Nhóm 89.02: Tàu đánh bắt thủy sản và tàu chế biến hoặc bảo quản thủy sản.\n- Nhóm 89.03: Du thuyền, tàu thuyền thể thao, giải trí, thuyền dùng mái chèo và canô.\n- Nhóm 89.04: Tàu kéo và tàu đẩy.\n- Nhóm 89.05: Tàu chuyên dụng mà tính năng di động chỉ là phụ, như tàu đèn hiệu, tàu cứu hỏa, tàu nạo vét, cần cẩu nổi, ụ nổi và dàn khoan nổi hoặc nửa nổi nửa chìm.\n- Nhóm 89.06: Các tàu thuyền khác, bao gồm tàu chiến và xuồng cứu sinh (trừ loại dùng mái chèo).\n- Nhóm 89.07: Các kết cấu nổi khác như bè mảng, thùng chứa, phao và mốc hiệu.\n- Nhóm 89.08: Tàu thuyền và kết cấu nổi khác để phá dỡ.\n\nMột chú giải quan trọng của chương (Chú giải 1) quy định rằng thân tàu, tàu chưa hoàn chỉnh hoặc chưa lắp ráp sẽ được phân loại vào nhóm 89.06 nếu chúng không có đặc trưng cơ bản của một loại tàu cụ thể.\n\nChương này loại trừ tất cả các bộ phận và phụ kiện ở dạng riêng lẻ (trừ thân tàu), ví dụ: mái chèo bằng gỗ (nhóm 44.21), buồm (nhóm 63.06), các bộ phận kết cấu bằng kim loại (nhóm 73.08), neo (nhóm 73.16), chân vịt (nhóm 84.87), và thiết bị lái (nhóm 84.79). Chương này cũng không bao gồm mô hình tàu thuyền trang trí (ví dụ, nhóm 44.20, 83.06), ngư lôi (nhóm 93.06), đồ chơi (nhóm 95.03), ván lướt nước (nhóm 95.06), xe lội nước (Chương 87), và thủy phi cơ (nhóm 88.02).",
+    "en": "This Chapter covers ships, boats and other vessels of all kinds (whether or not self-propelled) and floating structures. It includes unfinished, incomplete, unassembled, or disassembled vessels, as well as hulls. The main types of vessels covered are:\n- Heading 89.01: Cruise ships, excursion boats, ferry-boats, cargo ships, and barges.\n- Heading 89.02: Fishing vessels and factory ships for processing or preserving fishery products.\n- Heading 89.03: Yachts, other vessels for pleasure or sports, rowing boats, and canoes.\n- Heading 89.04: Tugs and pusher craft.\n- Heading 89.05: Special purpose vessels where navigability is subsidiary, such as light-vessels, fire-floats, dredgers, floating cranes, floating docks, and floating or submersible drilling or production platforms.\n- Heading 89.06: Other vessels, including warships and lifeboats (other than rowing boats).\n- Heading 89.07: Other floating structures like rafts, tanks, buoys, and beacons.\n- Heading 89.08: Vessels and other floating structures for breaking up.\n\nAn important chapter note (Note 1) specifies that a hull, or an incomplete or unassembled vessel, is to be classified in heading 89.06 if it does not have the essential character of a vessel of a particular kind.\n\nThe Chapter excludes all separately presented parts and accessories (other than hulls), for example: wooden oars (heading 44.21), sails (heading 63.06), metal structural parts (heading 73.08), anchors (heading 73.16), propellers (heading 84.87), and steering equipment (heading 84.79). Also excluded are model vessels for ornamental purposes (e.g., headings 44.20, 83.06), torpedoes (heading 93.06), toys (heading 95.03), water-skis (heading 95.06), amphibious motor vehicles (Chapter 87), and seaplanes (heading 88.02)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1.- Thân tàu, tàu chưa hoàn chỉnh hoặc chưa hoàn thiện, đã lắp ráp, hoặc chưa lắp ráp hoặc tháo rời, hoặc tàu hoàn chỉnh chưa lắp ráp hoặc tháo rời, được phân loại vào nhóm 89.06 nếu không có đặc trưng cơ bản của một loại tàu cụ thể.",
+        "en": "1.- A hull, an unfinished or incomplete vessel, assembled, unassembled or disassembled, or a complete vessel unassembled or disassembled, is to be classified in heading 89.06 if it does not have the essential character of a vessel of a particular kind."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chương này bao gồm tàu thuyền các loại (tự hành hoặc không) và cả các kết cấu nổi như giếng chìm hơi ép để làm việc dưới nước, các thùng nổi buộc tàu thuyền, bến tàu thủy, phao tiêu. Chương này cũng bao gồm các xe đệm không khí (tàu đệm khí) được thiết kế để di chuyển trên mặt nước (biển, cửa sông, hồ), có thể hoặc không thể đỗ trên bãi biển hoặc bến tàu hoặc có thể di chuyển trên bề băng (xem Chú giải 5 Phần XVII).\nChương này cũng bao gồm:\n(A) Tàu thuyền chưa hoàn chỉnh hoặc chưa hoàn thiện (ví dụ tàu chưa lắp động cơ đẩy, khí cụ hàng hải, máy nâng hàng hoặc máy xếp dỡ hàng hoặc đồ nội thất)\n(B) Thân tàu làm bằng bất cứ chất liệu gì.\nTàu thuyền hoàn chỉnh ở dạng chưa lắp ráp hoặc tháo rời và thân tàu, tàu thuyền chưa hoàn chỉnh hoặc chưa hoàn thiện (đã hoặc chưa lắp ráp), được phân loại vào một loại tầu thuyền cụ thể, nếu chúng có đặc trưng cơ bản của tàu thuyền đó. Trong các trường hợp khác, chúng được phân loại vào nhóm 89.06.\nNgược với quy định liên quan đến thiết bị chuyên chở của những Chương khác thuộc Phần XVII, Chương này loại trừ các bộ phận ở dạng riêng lẻ (trừ thân tàu) và",
+        "en": "This Chapter covers ships, boats and other vessels of all kinds (whether or not self-propelled), and also floating structures such as coffer-dams, landing stages and buoys. It also includes air-cushion vehicles (hovercraft) designed to travel over water (sea, estuaries, lakes), whether or not able to land on beaches or landing-stages or also able to travel over ice (see Note 5 to Section XVII).\nThe Chapter also includes :\n(A) Unfinished or incomplete vessels (e.g., those not equipped with their propelling machinery, navigational instruments, lifting or handling machinery or interior furnishings).\n(B) Hulls of any material.\nComplete vessels presented unassembled or disassembled, and hulls, unfinished or incomplete vessels (whether assembled or not), are classified as vessels of a particular kind, if they have the essential character of that kind of vessel. In other cases, such goods are classified in heading 89.06.\nContrary to the provisions relating to the transport equipment falling in other Chapters of Section XVII, this Chapter excludes all separately presented parts"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "phụ kiện của tàu thuyền hoặc kết cấu nổi, mặc dù chúng có thể được xác định rõ ràng là bộ phận của tàu thuyền. Những bộ phận và phụ kiện như trên được phân loại vào nhóm phù hợp quy định tại mục khác thuộc Danh mục, ví dụ:\n(1) Các bộ phận và đồ phụ trợ đã được định rõ tại Chú giải 2 Phần XVII.\n(2) Các mái chèo và giầm chèo bằng gỗ (nhóm 44.21).\n(3) Cáp và thừng chão bằng vật liệu dệt (nhóm 56.07).\n(4) Buồm (nhóm 63.06).\n(5) Cột buồm, cửa boong, cầu tàu, đường ray và vách ngăn của tàu hoặc thuyền và bộ phận của thân tàu, có đặc tính kết cấu bằng kim loại thuộc nhóm 73.08.\n(6) Cáp bằng sắt hoặc thép (nhóm 73.12).\n(7) Các neo bằng sắt hoặc thép (nhóm 73.16).\n(8) Chân vịt và bánh guồng nước tàu thủy (nhóm 84.87).\n(9) Bánh lái (các nhóm 44.21, 73.25, 73.26…) và các thiết bị lái hoặc thiết bị bánh lái khác của tàu hoặc thuyền (nhóm 84.79).\nChương này không bao gồm:\n(a) Các mô hình tàu thuyền dùng để trang trí (ví dụ như thuyền buồm và các thuyền chạy bằng sức gió khác) (nhóm 44.20, 83.06, ...).\n(b) Các mẫu trưng bày và các mô hình thuộc nhóm 90.23.\n(c) Ngư lôi, mìn và các loại đạn dược tương tự (nhóm 93.06).\n(d) Đồ chơi lắp bánh xe hình thuyền thiết kế cho trẻ em chơi và các đồ chơi khác (nhóm 95.03).\n(e) Các ván lướt trên mặt nước và các dụng cụ tương tự (nhóm 95.06)\n(f) Các thuyền bé được thiết kế đặc biệt dùng trong trò chơi di chuyển trong công viên giải trí (amusement park rides), trò chơi công viên nước (water park amusements) hoặc trò chơi hội chợ (fairground amusements) (nhóm 95.08).\n(g) Các cổ vật trên 100 tuổi (nhóm 97.06)\nCác xe cơ giới lội nước và các xe chạy bằng đệm khí được thiết kế để di chuyển cả trên đất liền và trên một số mặt nước (đầm, v.v...) đều được phân loại như xe có động cơ của Chương 87, và thuỷ phi cơ và thuyền bay thuộc nhóm 88.02.",
+        "en": "(other than hulls) and accessories of vessels or floating structures, even if they are clearly identifiable as such. Such parts and accessories are classified in the appropriate headings elsewhere in the Nomenclature, for example :\n(1) The parts and accessories specified in Note 2 to Section XVII.\n(2) Wooden oars and paddles (heading 44.21).\n(3) Ropes and cables of textile material (heading 56.07).\n(4) Sails (heading 63.06).\n(5) Masts, hatchways, gangways, rails and bulkheads for ships or boats and parts of hulls, having the character of metal structures of heading 73.08.\n(6) Cables of iron or steel (heading 73.12).\n(7) Anchors of iron or steel (heading 73.16).\n(8) Propellers and paddle-wheels (heading 84.87).\n(9) Rudders (headings 44.21, 73.25, 73.26, etc.) and other steering or rudder equipment for ships or boats (heading 84.79).\nThe following are also excluded from this Chapter :\n(a) Model vessels used for ornamental purposes (e.g., galleons and other sailing vessels) (headings 44.20, 83.06, etc.).\n(b) Demonstrational apparatus or models of heading 90.23.\n(c) Torpedoes, mines and similar munitions of war (heading 93.06).\n(d) Wheeled toys, in the form of boats, designed to be ridden by children and other toys (heading 95.03).\n(e) Water-skis and the like (heading 95.06).\n(f) Small boats specially designed for use on amusement park rides, water park amusements or fairground amusements (heading 95.08).\n(g) Antiques of an age exceeding 100 years (heading 97.06).\nAmphibious motor vehicles and air-cushion vehicles designed to travel over both land and certain tracts of water (swamps, etc.) are classified as motor vehicles in Chapter 87, and seaplanes and flying boats fall in heading 88.02."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "89.01",
+      "heading_title": {
+        "vi": "Tàu thủy chở khách, thuyền, xuồng du lịch, phà, tàu thủy chở hàng, xà lan và các tàu thuyền tương tự để vận chuyển người hoặc hàng hóa",
+        "en": "Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods."
+      }
+    },
+    {
+      "heading_id": "89.02",
+      "heading_title": {
+        "vi": "Tàu thuyền đánh bắt thủy sản; tàu chế biến và các loại tàu khác dùng cho chế biến hay bảo quản thủy sản đánh bắt.",
+        "en": "Fishing vessels; factory ships and other vessels for processing or preserving fishery products."
+      }
+    },
+    {
+      "heading_id": "89.03",
+      "heading_title": {
+        "vi": "Du thuyền hạng nhẹ và các loại tàu thuyền khác phục vụ nghỉ ngơi, giải trí hoặc thể thao; thuyền dùng mái chèo và canô (+).",
+        "en": "Yachts and other vessels for pleasure or sports; rowing boats and canoes (+)."
+      }
+    },
+    {
+      "heading_id": "89.04",
+      "heading_title": {
+        "vi": "Tàu kéo và tàu đẩy.",
+        "en": "Tugs and pusher craft."
+      }
+    },
+    {
+      "heading_id": "89.05",
+      "heading_title": {
+        "vi": "Tàu đèn hiệu, tàu cứu hỏa, tàu hút nạo vét (tàu cuốc), cần cẩu nổi và tàu thuyền khác mà tính năng di động trên mặt nước chỉ nhằm bổ sung cho chức năng chính của các tàu thuyền này; ụ nổi sửa chữa tàu; dàn khoan hoặc dàn sản xuất nổi hoặc nửa nổi nửa chìm.",
+        "en": "Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms."
+      }
+    },
+    {
+      "heading_id": "89.06",
+      "heading_title": {
+        "vi": "Tàu thuyền khác, kể cả tàu chiến và xuồng cứu sinh trừ thuyền dùng mái chèo.",
+        "en": "Other vessels, including warships and lifeboats other than rowing boats."
+      }
+    },
+    {
+      "heading_id": "89.07",
+      "heading_title": {
+        "vi": "Kết cấu nổi khác (ví dụ, bè mãng, thùng chứa chất lỏng, ketxon giếng kín (coffer-dams), cầu lên bờ, các loại phao nổi và mốc hiệu).",
+        "en": "Other floating structures (for example, rafts, tanks, coffer-dams, landing-stages, buoys and beacons)."
+      }
+    },
+    {
+      "heading_id": "89.08",
+      "heading_title": {
+        "vi": "Tàu thuyền và kết cấu nổi khác để phá dỡ.",
+        "en": "Vessels and other floating structures for breaking up."
+      }
+    }
+  ]
+}

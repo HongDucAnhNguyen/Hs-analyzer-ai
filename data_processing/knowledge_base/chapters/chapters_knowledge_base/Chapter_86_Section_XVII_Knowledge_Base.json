@@ -1,0 +1,115 @@
+{
+  "chapter_id": "86",
+  "chapter_title": {
+    "vi": "Đầu máy, các phương tiện di chuyển trên đường sắt hoặc đường tàu điện và các bộ phận của chúng; các bộ phận cố định và ghép nối đường ray đường sắt hoặc tàu điện và bộ phận của chúng; thiết bị tín hiệu giao thông bằng cơ khí (kể cả cơ điện) các loại",
+    "en": "Railway or tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds"
+  },
+  "summary": {
+    "vi": "Chương 86 bao gồm các phương tiện vận tải đường sắt và đường tàu điện, cùng với các bộ phận liên quan. Các sản phẩm chính bao gồm đầu máy (nhóm 86.01, 86.02), toa xe tự hành (86.03), xe bảo dưỡng (86.04), và các loại toa kéo như toa khách và toa hàng (86.05, 86.06). Chương này cũng bao gồm các bộ phận chuyên dụng của các phương tiện trên (86.07), các bộ phận cố định và ghép nối đường ray, và thiết bị tín hiệu giao thông cơ khí (86.08). Phạm vi của chương không chỉ giới hạn ở đường sắt thông thường mà còn mở rộng cho các hệ thống dẫn hướng tương tự như tàu đệm từ hoặc đường ray bê tông. Các loại trừ quan trọng bao gồm vật liệu xây dựng đường ray cơ bản như tà vẹt gỗ (nhóm 44.06) hoặc ray thép (nhóm 73.02), thiết bị tín hiệu điện (nhóm 85.30), xe lửa đồ chơi (nhóm 95.03), và các mô hình trưng bày (nhóm 90.23). Các phương tiện chưa hoàn thiện được phân loại cùng với phương tiện hoàn thiện nếu chúng có đặc tính cơ bản.",
+    "en": "Chapter 86 covers railway and tramway transport vehicles, along with their related parts. Key products include locomotives (headings 86.01, 86.02), self-propelled coaches (86.03), maintenance vehicles (86.04), and various hauled rolling-stock like passenger and goods wagons (86.05, 86.06). This chapter also includes specialized parts for these vehicles (86.07), railway track fixtures and fittings, and mechanical signalling equipment (86.08). The scope is not limited to conventional railways but extends to similar guided systems like magnetic levitation or concrete tracks. Important exclusions include basic track construction materials such as wooden sleepers (heading 44.06) or steel rails (heading 73.02), electrical signalling equipment (heading 85.30), toy trains (heading 95.03), and display models (heading 90.23). Incomplete vehicles are classified with complete ones if they possess their essential character."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1: Chương này không bao gồm: (a) Tà vẹt đường sắt bằng gỗ (nhóm 44.06) hoặc bằng bê tông (nhóm 68.10), hoặc đường ray dẫn bằng bê tông cho tàu đệm không khí; (b) Vật liệu xây dựng đường ray bằng sắt hoặc thép thuộc nhóm 73.02; (c) Thiết bị tín hiệu, an toàn hoặc điều khiển giao thông bằng điện thuộc nhóm 85.30.",
+        "en": "Note 1: This Chapter does not cover: (a) Railway or tramway sleepers of wood (heading 44.06) or of concrete (heading 68.10), or concrete guide-track sections for hovertrains; (b) Railway or tramway track construction material of iron or steel of heading 73.02; (c) Electrical signalling, safety or traffic control equipment of heading 85.30."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 2: Nhóm 86.07 áp dụng cho: (a) Trục, bánh xe, bộ trục bánh xe, đai bánh xe, mâm bánh và moay ơ; (b) Khung, bệ xe, giá chuyển hướng và trục bitxen; (c) Hộp trục và cơ cấu hãm; (d) Bộ giảm chấn, móc và các bộ phận ghép nối khác; (e) Toa xe.",
+        "en": "Note 2: Heading 86.07 applies, inter alia, to: (a) Axles, wheels, wheel sets, metal tyres, hoops and hubs; (b) Frames, underframes, bogies and bissel-bogies; (c) Axle boxes and brake gear; (d) Buffers for rolling-stock, hooks and other coupling gear; (e) Coachwork."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 3: Theo Chú giải 1, nhóm 86.08 áp dụng cho: (a) Đường ray đã lắp ghép, bàn quay, thanh đệm chắn va ở bậc thềm đường sắt, khổ giới hạn vận dụng; (b) Thiết bị điều khiển giao thông, tín hiệu hoặc an toàn bằng cơ học (kể cả cơ điện), cho đường sắt, đường tàu điện, đường bộ, đường thủy nội địa, bến đỗ, cảng hoặc sân bay.",
+        "en": "Note 3: Subject to Note 1, heading 86.08 applies, inter alia, to: (a) Assembled track, turntables, platform buffers, loading gauges; (b) Mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chương này bao gồm đầu máy, toa xe, bộ phận của chúng, bộ phận cố định và khớp nối cho đường sắt hoặc đường tàu điện các loại, kể cả đường sắt một ray. Nó cũng bao gồm công-ten-nơ và thiết bị tín hiệu, an toàn hoặc điều khiển giao thông cơ khí. Khái niệm \"đường sắt\" và \"đường tàu điện\" bao gồm cả các hệ thống dẫn hướng như đệm từ hoặc đường rãnh bê tông. Hàng hóa được phân loại như sau: (A) Phương tiện tự hành như đầu máy và toa xe có động cơ (nhóm 86.01 đến 86.03); (B) Xe bảo dưỡng hay phục vụ (nhóm 86.04); (C) Các loại xe kéo như toa khách và toa hàng (nhóm 86.05 và 86.06).",
+        "en": "This Chapter covers locomotives, rolling-stock, parts thereof, and track fixtures and fittings for railways or tramways of any kind, including single-rail railways. It also covers containers and mechanical signalling, safety, or traffic control equipment. The terms \"railway\" and \"tramway\" also refer to guided systems such as those using magnetic levitation or concrete tracks. Goods are classified as follows: (A) Self-propelled vehicles such as locomotives and motorised coaches (headings 86.01 to 86.03); (B) Railway or tramway maintenance or service vehicles (heading 86.04); (C) Hauled vehicles such as passenger coaches and goods wagons (headings 86.05 and 86.06)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Hàng hóa của chương còn có: (D) Bộ phận của đầu máy hoặc phương tiện di chuyển (nhóm 86.07) và bộ phận cố định đường ray, thiết bị tín hiệu (nhóm 86.08); (E) Công-ten-nơ vận chuyển chuyên dụng (nhóm 86.09). Chương cũng bao gồm phương tiện chạy trên đệm không khí trên đường dẫn hướng (tàu đệm hơi). Các phương tiện chưa hoàn chỉnh được phân loại cùng loại hoàn chỉnh nếu có đặc tính cơ bản. Chương này loại trừ: (a) Mô hình toa xe để trưng bày (nhóm 90.23); (b) Pháo hạng nặng lắp trên toa chở hàng (nhóm 93.01); (c) Xe lửa đồ chơi (nhóm 95.03); (d) Thiết bị cho công viên giải trí (nhóm 95.08).",
+        "en": "The goods of the chapter also include: (D) Parts of locomotives or rolling-stock (heading 86.07) and track fixtures, signalling equipment (heading 86.08); (E) Specially designed containers (heading 86.09). The Chapter also includes air-cushion vehicles designed to travel on a guide-track (hovertrains). Incomplete vehicles are classified with the corresponding complete vehicles if they have the essential character. The Chapter excludes: (a) Model railway rolling-stock for demonstrational purposes (heading 90.23); (b) Heavy artillery mounted on railway trucks (heading 93.01); (c) Toy trains (heading 95.03); (d) Equipment for amusement park rides (heading 95.08)."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "86.01",
+      "heading_title": {
+        "vi": "Đầu máy di chuyển trên đường sắt chạy bằng nguồn điện bên ngoài hoặc bằng ắc qui điện.",
+        "en": "Rail locomotives powered from an external source of electricity or by electric accumulators."
+      }
+    },
+    {
+      "heading_id": "86.02",
+      "heading_title": {
+        "vi": "Đầu máy di chuyển trên đường ray khác; toa tiếp liệu đầu máy.",
+        "en": "Other rail locomotives; locomotive tenders"
+      }
+    },
+    {
+      "heading_id": "86.03",
+      "heading_title": {
+        "vi": "Toa xe khách, toa xe hàng và toa xe hành lý, loại tự hành dùng trên đường sắt hoặc đường tàu điện, trừ loại thuộc nhóm 86.04",
+        "en": "Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 86.04."
+      }
+    },
+    {
+      "heading_id": "86.04",
+      "heading_title": {
+        "vi": "Xe bảo dưỡng hoặc phục vụ dùng trong đường sắt hoặc đường tàu điện, loại tự hành hoặc không (ví dụ, toa xưởng, xe gắn cần cẩu, máy chèn đường, máy đặt ray, toa xe thử nghiệm và xe kiểm tra đường ray)",
+        "en": "Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles)."
+      }
+    },
+    {
+      "heading_id": "86.05",
+      "heading_title": {
+        "vi": "Toa xe chở khách không tự hành dùng cho đường sắt hoặc đường tàu điện; toa xe hành lý, toa xe bưu vụ và toa xe chuyên dùng khác cho đường sắt hoặc đường tàu điện, không tự hành (trừ các loại thuộc nhóm 86.04).",
+        "en": "Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 86.04)."
+      }
+    },
+    {
+      "heading_id": "86.06",
+      "heading_title": {
+        "vi": "Toa xe hàng và toa gòong dùng trên đường sắt hoặc đường tàu điện, không tự hành.",
+        "en": "Railway or tramway goods vans and wagons, not self- propelled."
+      }
+    },
+    {
+      "heading_id": "86.07",
+      "heading_title": {
+        "vi": "Các bộ phận của đầu máy hoặc của phương tiện di chuyển trên đường sắt hoặc đường tàu điện.",
+        "en": "Parts of railway or tramway locomotives or rolling-stock."
+      }
+    },
+    {
+      "heading_id": "86.08",
+      "heading_title": {
+        "vi": "Bộ phận cố định và ghép nối của đường ray đường sắt hoặc tàu điện; các thiết hi phát tín hiệu, an toàn hoặc điều khiển giao thông bằng cơ khí (kể cả cơ điện) đùng cho đường sắt, đường tàu điện, đường bộ, đường thủy nội địa, điểm dừng đỗ, cảng hoặc sân bay; các bộ phận của các loại trên..",
+        "en": "Railway or tramway track fixtures and fittings; mechanical (including electro-mechanical) signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields; parts of the foregoing."
+      }
+    },
+    {
+      "heading_id": "86.09",
+      "heading_title": {
+        "vi": "Công-ten-nơ (kể cả công-ten-nơ dùng vận chuyển chất lỏng) được thiết kế và trang bị đặc biệt để vận chuyển theo một hoặc nhiều phương thức.",
+        "en": "Containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or modes of transport."
+      }
+    }
+  ]
+}

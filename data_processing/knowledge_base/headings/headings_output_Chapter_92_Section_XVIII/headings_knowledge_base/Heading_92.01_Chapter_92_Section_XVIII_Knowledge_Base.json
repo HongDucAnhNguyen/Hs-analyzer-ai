@@ -1,0 +1,58 @@
+{
+  "heading_id": "92.01",
+  "heading_title": {
+    "vi": "Đàn piano, kể cả piano tự động; đàn clavecin (hapsichords) và các loại đàn đây có phím bấm khác (+).",
+    "en": "Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 92.01 bao gồm các loại đàn dây có phím bấm. Cụ thể, nhóm này phân loại đàn piano, bao gồm đàn piano loại đứng và đại dương cầm (grand piano), có thể được trang bị thiết bị điện để thu và khuếch đại âm thanh. Nhóm cũng bao gồm các loại đàn piano tự động, hoạt động bằng băng giấy hoặc bìa đục lỗ, dù có hoặc không có bàn phím. Ngoài ra, nhóm này còn bao gồm các nhạc cụ khác như đàn clavecin (harpsichords), đàn xpinet (spinets) và đàn clavichord. Tuy nhiên, các loại 'đàn piano điện tử' và các nhạc cụ điện tử khác có thể kết hợp với piano để tạo hiệu ứng âm thanh sẽ bị loại trừ và được phân loại vào nhóm 92.07. Chú giải phân nhóm làm rõ rằng đàn piano tự động cũng được bao gồm trong các phân nhóm 9201.10 và 9201.20.",
+    "en": "Heading 92.01 covers keyboard string instruments. Specifically, it classifies pianos, including upright and grand pianos, which may be fitted with electrical sound pick-up and amplifying devices. The heading also includes automatic pianos, operated by perforated paper or paperboard rolls, whether or not they have a keyboard. Additionally, this heading covers other instruments such as harpsichords, spinets, and clavichords. However, 'electronic pianos' and other electronic musical instruments that can be fitted to pianos to produce sound effects are excluded and fall under heading 92.07. The Subheading Explanatory Note clarifies that automatic pianos are also included in subheadings 9201.10 and 9201.20."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Đàn piano (loại đứng và đại dương cầm), với bàn phím và dây đàn được gõ bằng búa, dù có hoặc không gắn thiết bị khuếch đại âm thanh điện. Nhóm này bao gồm cả đàn piano tự động, có hoặc không có bàn phím, hoạt động bằng băng giấy hay bìa đục lỗ. Tuy nhiên, “đàn piano điện tử” và các nhạc cụ điện tử khác có thể hòa với piano để tạo hiệu ứng âm thanh của những nhạc cụ khác thuộc nhóm 92.07.\n(2) Đàn clavecin, đàn xpinet (spinet) và đàn clavichord.\nChú giải Phân nhóm 9201.10 và 9201.20 quy định rằng các phân nhóm này cũng bao gồm đàn piano tự động.",
+        "en": "This heading covers:\n(1) Pianos (upright and grand), with a keyboard and strings struck by hammers, whether or not fitted with an electrical sound pick-up and amplifying device. This group includes automatic pianos, whether or not incorporating a keyboard, played by means of perforated rolls of paper or paperboard. However, “electronic pianos” and electronic musical instruments which may be fitted to pianos to produce the sound effects of other instruments fall in heading 92.07.\n(2) Harpsichords and other keyboard stringed instruments such as spinets and clavichords.\nThe Subheading Explanatory Note for subheadings 9201.10 and 9201.20 states that these subheadings also include automatic pianos."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9201.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đàn piano loại đứng",
+        "en": "Upright pianos"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9201.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Đại dương cầm (grand piano)",
+        "en": "Grand pianos"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9201.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

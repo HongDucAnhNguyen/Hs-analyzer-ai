@@ -1,0 +1,115 @@
+{
+  "heading_id": "84.15",
+  "heading_title": {
+    "vi": "Máy điều hòa không khí, gồm có một quạt chạy bằng mô tơ và các bộ phận làm thay đổi nhiệt độ và độ ẩm, kể cả loại máy không điều chỉnh độ ẩm một cách riêng biệt (+).",
+    "en": "Air conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 84.15 bao gồm các máy điều hòa không khí dùng để duy trì điều kiện nhiệt độ và độ ẩm yêu cầu trong không gian kín. Để được phân loại vào nhóm này, máy phải được trang bị một quạt chạy bằng mô tơ, các bộ phận làm thay đổi nhiệt độ (làm nóng hoặc làm lạnh) và các bộ phận làm thay đổi độ ẩm (làm ẩm hoặc làm khô), tất cả được trình bày cùng nhau. Nhóm này bao gồm cả loại một khối (lắp liền) và loại \"hệ thống nhiều khối chức năng\" (cục nóng, cục lạnh tách biệt), cũng như các bơm nhiệt đảo chiều có van đảo chiều chu trình nóng/lạnh. Các bộ phận trong nhà và ngoài trời của hệ thống nhiều khối chức năng, khi được trình bày riêng biệt, cũng thuộc nhóm này. Tuy nhiên, nhóm này không bao gồm các thiết bị làm nóng không khí của nhóm 73.22, bơm nhiệt không đảo chiều và thiết bị làm lạnh của nhóm 84.18, và các máy chỉ thay đổi nhiệt độ hoặc độ ẩm (nhóm 84.79, 85.16). Các bộ phận khác được phân loại theo Chú giải 2 của Phần XVI.",
+    "en": "Heading 84.15 covers air conditioning machines for maintaining required temperature and humidity conditions in enclosed spaces. To be classified in this heading, a machine must be equipped with a motor-driven fan, elements for changing temperature (heating or cooling), and elements for changing humidity (humidifying or drying), all presented together. This heading includes both self-contained (single-unit) types and \"split-systems\" (separate indoor and outdoor units), as well as reversible heat pumps with a valve for reversal of the cooling/heat cycle. Indoor and outdoor units of split-systems, when presented separately, also fall under this heading. However, the heading excludes air heaters of heading 73.22, non-reversible heat pumps and chillers of heading 84.18, and machines that only change either the temperature or the humidity (headings 84.79, 85.16). Other parts are classified according to Note 2 of Section XVI."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các thiết bị dùng để duy trì điều kiện nhiệt độ và độ ẩm theo yêu cầu trong một không gian kín, có thể có thêm bộ phận làm sạch không khí. Các máy này được sử dụng trong văn phòng, nhà ở, tàu thuyền, phương tiện vận tải và trong các ngành công nghiệp như dệt, giấy, thuốc lá, hoặc thực phẩm. Để thuộc nhóm này, máy phải có (1) quạt hoặc máy thổi chạy bằng động cơ, (2) bộ phận thay đổi cả nhiệt độ và độ ẩm, và (3) các bộ phận này phải được trình bày cùng nhau. Máy có thể làm ẩm hoặc làm khô không khí riêng biệt hoặc đồng thời thay đổi nhiệt độ và độ ẩm bằng cách ngưng tụ. Các loại máy này có thể là dạng một khối (lắp liền cửa sổ hoặc tường) hoặc dạng \"hệ thống nhiều khối chức năng tách biệt\" (bộ phận ngưng tụ bên ngoài và bộ phận bay hơi bên trong).",
+        "en": "This heading covers apparatus for maintaining required temperature and humidity conditions in a closed space, and may include air purification elements. These machines are used in offices, homes, ships, motor vehicles, and in industries such as textile, paper, tobacco, or food. To belong to this heading, a machine must have (1) a motor-driven fan or blower, (2) elements to change both temperature and humidity, and (3) these elements must be presented together. The machine may humidify or dry the air separately or change both temperature and humidity simultaneously by condensation. These machines can be self-contained units (window or wall types) or \"split-systems\" (an external condenser unit and an internal evaporator unit)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Về cấu trúc, ngoài quạt chạy bằng động cơ, máy điều hòa không khí phải có ít nhất: một thiết bị làm nóng và một thiết bị làm ẩm/hút ẩm; hoặc một dàn làm lạnh nước hoặc bộ bay hơi của thiết bị làm lạnh; hoặc một bộ phận làm lạnh khác với một thiết bị thay đổi độ ẩm riêng biệt. Nhóm này bao gồm các máy bơm nhiệt đảo chiều có van đảo chiều chu trình nóng/lạnh. Máy cũng có thể được trang bị bộ lọc không khí và bộ điều khiển nhiệt độ/độ ẩm. Nhóm này cũng bao gồm các máy không điều chỉnh độ ẩm riêng biệt nhưng làm được điều đó thông qua ngưng tụ, ví dụ như các hệ thống một khối hoặc nhiều khối, và các thiết bị cho kho lạnh. Tuy nhiên, nhóm này không bao gồm các thiết bị làm lạnh được thiết kế để duy trì nhiệt độ cố định dưới 0°C trong các phương tiện vận tải, ngay cả khi có hệ thống sưởi phụ, các thiết bị này thuộc nhóm 84.18.",
+        "en": "Structurally, in addition to a motor-driven fan, air conditioning machines must have at least: a heating device and a humidifier/de-humidifier; or a cold water coil or a refrigerator unit evaporator; or another type of cooling element with a separate humidity-changing device. This heading includes reversible heat pumps with a valve for reversal of the cooling/heat cycle. The machines may also be fitted with air filters and temperature/humidity controls. This heading also covers machines that do not separately regulate humidity but do so through condensation, such as self-contained or split-systems, and units for cold stores. However, the heading excludes refrigeration units designed to maintain a fixed temperature below 0°C in transport vehicles, even with an auxiliary heating system; such equipment is classified in heading 84.18."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Về bộ phận, theo Chú giải 2(b) của Phần XVI, các bộ phận trong nhà và ngoài trời của hệ thống nhiều khối chức năng được trình bày riêng biệt thuộc nhóm này. Các bộ phận khác được phân loại theo Chú giải 2(a) của Phần XVI (ví dụ, các nhóm 84.14, 84.18, 84.19, 84.21, 84.79) hoặc theo Chú giải 2(b) hoặc 2(c). Nhóm này không bao gồm: (a) Thiết bị làm nóng không khí và phân phối không khí nóng thuộc nhóm 73.22. (b) Bơm nhiệt không đảo chiều và thiết bị làm lạnh cho máy điều hòa không khí thuộc nhóm 84.18. (c) Các thiết bị chỉ thay đổi nhiệt độ hoặc độ ẩm, có gắn quạt (nhóm 84.79, 85.16). Chú giải Phân nhóm 8415.10: Bao gồm máy điều hòa không khí được thiết kế để lắp cố định vào cửa sổ, tường, trần hoặc sàn, dạng một khối hoặc hệ thống nhiều khối. Loại trừ hệ thống điều hòa không khí trung tâm sử dụng ống dẫn khí.",
+        "en": "Regarding parts, according to Note 2(b) to Section XVI, separately presented indoor and outdoor units for split-systems belong to this heading. Other parts are classified according to Note 2(a) of Section XVI (e.g., headings 84.14, 84.18, 84.19, 84.21, 84.79) or according to Note 2(b) or 2(c). This heading excludes: (a) Air heaters and hot air distributors of heading 73.22. (b) Non-reversible heat pumps and chillers for air conditioning machines of heading 84.18. (c) Apparatus that only changes either temperature or humidity, fitted with a fan (headings 84.79, 85.16). Subheading Explanatory Note 8415.10: Covers air conditioning machines designed to be fixed to a window, wall, ceiling, or floor, of the self-contained or split-system type. It excludes ducted central air conditioning systems."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Chú giải phân nhóm 8415.20: Phân nhóm này bao gồm thiết bị điều hòa không khí dùng cho các loại phương tiện vận tải hành khách có gắn động cơ hoặc các loại phương tiện có động cơ khác để điều hòa không khí trong cabin hoặc khoang chở người. Chú giải phân nhóm 8415.90: Phân nhóm này bao gồm các bộ phận lắp trong nhà và ngoài trời dùng cho máy điều hòa không khí dạng hệ thống nhiều khối chức năng tách biệt thuộc phân nhóm 8415.10 khi chúng được trình bày riêng biệt.",
+        "en": "Subheading Explanatory Note 8415.20: This subheading covers air conditioning equipment for passenger motor vehicles of all kinds or other motor vehicles for air conditioning the cabs or compartments for persons. Subheading Explanatory Note 8415.90: This subheading includes both indoor and outdoor units for split-system air conditioning machines of subheading 8415.10 when presented separately."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8415.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại thiết kế để lắp vào cửa sổ, tường, trần hoặc sàn, kiểu một khối (lắp liền trong cùng một vỏ, một cục) hoặc \"hệ thống nhiều khối chức năng\" (cục nóng, cục lạnh tách biệt)",
+        "en": "Of a kind designed to be fixed to a window, wall, ceiling or floor, self-contained or “split-system”"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8415.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại sử dụng cho người, trong xe có động cơ",
+        "en": "Of a kind used for persons, in motor vehicles"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8415.81",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Kèm theo một bộ phận làm lạnh và một van đảo chiều chu trình nóng/lạnh (bơm nhiệt có đảo chiều)",
+        "en": "- - Incorporating a refrigerating unit and a valve for reversal of the cooling/heat cycle (reversible heat pumps)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8415.82",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác, có kèm theo bộ phận làm lạnh",
+        "en": "- - Other, incorporating a refrigerating unit"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8415.83",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Không gắn kèm bộ phận làm lạnh",
+        "en": "- - Not incorporating a refrigerating unit."
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8415.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

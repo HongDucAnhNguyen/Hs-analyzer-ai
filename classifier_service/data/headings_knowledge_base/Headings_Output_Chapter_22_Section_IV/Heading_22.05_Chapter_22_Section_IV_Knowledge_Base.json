@@ -1,0 +1,53 @@
+{
+  "heading_id": "22.05",
+  "heading_title": {
+    "vi": "Rượu Vermouth và rượu vang khác làm từ nho tươi đã pha thêm hương liệu từ thảo mộc hoặc chất thơm.",
+    "en": "Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại đồ uống (thường được dùng làm rượu khai vị hoặc rượu bổ) được sản xuất từ rượu vang nho tươi thuộc nhóm 22.04, và được tạo hương bằng các chất thơm hoặc pha chế các phần của cây (lá, rễ, quả,...). Nhóm này cũng có thể bao gồm các loại đồ uống trên đã được cho thêm vitamin hoặc hợp chất sắt. Các sản phẩm này đôi khi được gọi là 'thực phẩm bảo vệ sức khỏe'.\n\nNhóm này không bao gồm:\n(a) Rượu vang từ nho khô được pha chế với các loại cây hoặc chất có hương (nhóm 22.06).\n(b) Dược phẩm thuộc nhóm 30.03 hoặc 30.04.",
+    "en": "This heading covers beverages (generally used as aperitives or tonics) made with wine of fresh grapes of heading 22.04, and flavoured with aromatic substances or infusions of plant substances (leaves, roots, fruits, etc.). It may also include these beverages with added vitamins or iron compounds. These products are sometimes referred to as 'food supplements'.\n\nThe heading does not cover:\n(a) Wines obtained from dried grapes and prepared with aromatic plants or substances (heading 22.06).\n(b) Medicaments of heading 30.03 or 30.04."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại đồ uống (thường được dùng làm rượu khai vị hoặc rượu bổ), được sản xuất từ rượu vang nho tươi thuộc nhóm 22.04, và được tạo hương bằng pha chế các phần của cây (lá, rễ, quả...) hoặc các chất thơm. Nhóm này có thể cũng bao gồm các loại đồ uống trên đã được cho thêm vitamin hoặc hợp chất sắt. Các loại sản phẩm này đôi khi được gọi là các sản phẩm \"thực phẩm bảo vệ sức khỏe (food supplements)\" được dùng vào bồi bổ sức khoẻ.",
+        "en": "This heading includes a variety of beverages (generally used as aperitives or tonics) made with wine of fresh grapes of heading 22.04, and flavoured with infusions of plant substances (leaves, roots, fruits, etc.) or aromatic substances. It may also include the above types of beverages which contain added vitamins or iron compounds. These products which are sometimes referred to as “food supplements” are designed to maintain general health or well-being."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Rượu vang thu được từ nho khô và được pha chế với các loại cây hoặc các chất có hương (nhóm 22.06).\n(b) Dược phẩm thuộc nhóm 30.03 hoặc 30.04.",
+        "en": "The heading does not cover:\n(a) Wines obtained from dried grapes and prepared with aromatic plants or substances (heading 22.06).\n(b) Medicaments of heading 30.03 or 30.04."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2205.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại trong đồ đựng không quá 2 lít",
+        "en": "In containers holding 2 l or less"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2205.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

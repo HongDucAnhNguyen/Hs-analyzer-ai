@@ -1,0 +1,28 @@
+{
+  "heading_id": "29.27",
+  "heading_title": {
+    "vi": "Hợp chất diazo-, azo- hoặc azoxy",
+    "en": "Diazo-, azo- or azoxy-compounds."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm ba nhóm hợp chất: hợp chất diazo-, azo-, và azoxy, đặc trưng bởi hai nguyên tử nitơ liên kết với nhau. Nhóm diazo- bao gồm muối diazo (kể cả loại đã ổn định hoặc pha loãng để sản xuất thuốc nhuộm azo) và các hợp chất có công thức xác định. Nhóm azo- bao gồm các hợp chất chứa nhóm R1-N=N-R2, có thể chứa nhiều nhóm -N=N- (hợp chất bisazo-, trisazo-, v.v.). Nhóm azoxy- bao gồm các hợp chất có công thức R1-N2O-R2. Nhóm này cũng bao gồm các dẫn xuất thay thế của các hợp chất trên. Tuy nhiên, các chất màu hữu cơ bị loại trừ và được phân loại vào Chương 32.",
+    "en": "This heading covers three groups of compounds: diazo-, azo-, and azoxy-compounds, which are characterized by two linked nitrogen atoms. The diazo- group includes diazonium salts (whether stabilized or diluted for the production of azo dyes) and compounds of specific formulae. The azo- group includes compounds containing the group R1-N=N-R2, which may contain further -N=N- groups (bisazo-, trisazo-, etc. compounds). The azoxy- group includes compounds of the general formula R1-N2O-R2. This heading also includes substitution derivatives of these compounds. However, organic colouring matters are excluded and are classified in Chapter 32."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các hợp chất này, quan trọng nhất thuộc về các loại chất thơm, được đặc trưng bởi hai nguyên tử nitơ nối bằng nối đôi.\n(A) CÁC HỢP CHẤT DIAZO\nNhóm các sản phẩm này bao gồm:\n(1) Muối diazo. Là chất có công thức chung. RN2+ X- ở đây R là một gốc hữu cơ - và X- là một anion, ví dụ:\n(a) Benzen diazo clorua*.\n(b) Benzen diazo tetrafloroborat.\nNhóm này bao gồm các muối diazo, đã hoặc chưa được ổn định.\nNhóm này cũng bao gồm các muối diazo pha loãng đến nồng độ chuẩn (ví dụ, thêm muối trung tính như natri sulphat) cho sản xuất thuốc nhuộm azo.",
+        "en": "These compounds, the most important of which belong to the aromatic series, are characterised by two nitrogen atoms linked by a double bond.\n(A) DIAZO-COMPOUNDS\nThis group of products includes:\n(1) Diazonium salts. These are products of general formula RN2+ X- where R is an organic radical and X is an anion, for example:\n(a) Benzenediazoniuni chloride*.\n(b) Benzenediazoniuni tetrafluorohorate.\nThis heading covers diazonium salts, whether or not stabilised.\nThis heading also covers diazonium salts diluted to standard strengths (e.g., by the addition of a neutral salt such as sodium sulphate) for the production of azo dyes."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(2) Các hợp chất có công thức chung RN2 ở đây R là gốc hữu cơ, ví dụ:\n(a) Diazometan.\n(b) Etyl diazo axetate.\n(3) Các hợp chất có công thức chung: R1R2N-N=N-R3 ở đây R1 và R2 là gốc hữu cơ và R3 hoặc là gốc hữu cơ hoặc hydro, ví dụ:\n(B) CÁC HỢP CHẤT AZO\nĐây là các hợp chất có chứa nhóm R1 - N = N - R2, ở đây R1 và R2 là gốc hữu cơ có một nguyên tử cacbon của chúng liên kết trực tiếp với một nguyên tử nitơ, ví dụ:\n(5) Amino azo benzen sulphonic axit.\n(6) p- Amino azo benzen.\nGốc R1 và R2 bản thân có thể chứa tiếp nhóm - N = N - (các hợp chất bisazo -, triazo,…)\n(C) CÁC HỢP CHẤT AZOXY*\nĐây là các hợp chất có công thức chung: R1 - N2O - R2 trong đó một nguyên tử oxy được nối với một trong hai nguyên tử nitơ và ở đây R1 và R2 thường là các gốc Aryl.\nHợp chất Azoxy thường là các chất kết tinh màu vàng nhợt. Chúng bao gồm:\n(1) Azoxy benzen*\n(2) Azoxy toluen\n(3) p-Azoxyanisole\n(4) p-Azoxyphenetole\n(5) Azoxy benzoic axit\n(6) Azoxy cinamic axit\n(7) Azoxy toluidin\nCác hợp chất diazo và azo là chất khởi đầu để tạo thành thuốc nhuộm azo. Chúng tạo ra các dẫn xuất thay thế cũng được xếp ở đây.\nCác chất màu hữu cơ được loại trừ khỏi nhóm này và xếp vào Chương 32.",
+        "en": "(2) Compounds of general formula RN2 where R is an organic radical, for example:\n(a) Diazomethane.\n(b) Ethyl diazoacetate.\n(3) Compounds of general formula R1R2N-N=N-R3 where R1 and R2 are organic radicals and R3 is either an organic radical or hydrogen, for example:\n(B) AZO-COMPOUNDS\nThese are compounds containing the group R1 - N = N - R2. where R1 and R2 are organic radicals with one of their carbon atoms linked directly to one of the nitrogen atoms, for example:\n(5) Aminoazobenzenesulphonic acids\n(6) p- Aminoazobenzene.\nThe radicals R1 and R2 may themselves contain further -N=N- groups (bisazo-. trisazo-, etc., compounds).\n(C) AZOXY-COMPOUNDS*\nThese are compounds of the general formula R1 - N2O - R2 in which an oxygen atom is linked to one of the two nitrogen atoms and where R1 and R2 are generally aryl radicals.\nAzoxy-compounds are generally pale yellow crystalline substances. They include:\n(1) Azoxybenzene*.\n(2) Azoxytoluene.\n(3) p-Azoxyanisole\n(4) p-Azoxyphenetole\n(5) Azoxybenzoic axit\n(6) Azoxycinamic axit\n(7) Azoxytoluidine\nDiazo- and azo-compounds arc the starting point in the formation of azo dyes. They give substitution derivatives which are also included here.\nOrganic colouring matters are excluded from this heading and are classified in Chapter 32."
+      }
+    }
+  ],
+  "subheadings": []
+}

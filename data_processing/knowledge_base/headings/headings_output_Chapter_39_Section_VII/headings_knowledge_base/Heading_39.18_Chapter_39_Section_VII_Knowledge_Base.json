@@ -1,0 +1,46 @@
+{
+  "heading_id": "39.18",
+  "heading_title": {
+    "vi": "Tấm trải sàn bằng plastic, có hoặc không tự dính, dạng cuộn hoặc dạng tấm rời để ghép; tấm phủ tường hoặc phủ trần bằng plastic, như đã nêu trong Chú giải 9 của Chương này.",
+    "en": "Floor coverings of plastics, whether or not self-adhesive, in rolls or in the form of tiles; wall or ceiling coverings of plastics, as defined in Note 9 to this Chapter."
+  },
+  "summary": {
+    "vi": "Nhóm 39.18 phân loại các sản phẩm tấm trải sàn và tấm phủ tường hoặc trần làm từ plastic. Các sản phẩm này có thể được cung cấp dưới dạng cuộn hoặc tấm rời để lắp ghép, bao gồm cả loại có khả năng tự dính. Phạm vi của nhóm đối với tấm phủ tường hoặc trần được định nghĩa chi tiết trong Chú giải 9 của Chương 39, và bao gồm cả các loại có lớp bồi bằng vật liệu dệt. Một điểm quan trọng cần lưu ý là các sản phẩm có in hoa văn, ký tự hoặc hình ảnh vẫn thuộc nhóm này miễn là các chi tiết in không chỉ mang tính chất phụ trợ cho công dụng chính của sản phẩm, theo Chú giải 2 của Phần VII. Nhóm này loại trừ một cách cụ thể các loại giấy dán tường hoặc vật liệu phủ tường tương tự bằng giấy đã được tráng hoặc phủ plastic, những sản phẩm này thuộc về nhóm 48.14.",
+    "en": "Heading 39.18 classifies floor coverings and wall or ceiling coverings made of plastics. These products can be in rolls or in the form of tiles for assembly, including self-adhesive types. The scope for wall or ceiling coverings is specifically defined in Note 9 to Chapter 39, and it includes types with a textile backing. An important point to note is that products printed with motifs, characters, or pictorial representations fall within this heading, provided that the print is not merely subsidiary to the primary use of the goods, as per Note 2 to Section VII. The heading specifically excludes wallpaper or similar wall coverings of paper coated or covered with plastics, which are classified under heading 48.14."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm hai loại sản phẩm chính. Loại thứ nhất là plastic thường được sử dụng làm tấm trải sàn, ở dạng cuộn hoặc dạng tấm rời để ghép, bao gồm cả tấm trải sàn tự dính. Loại thứ hai, có phạm vi được xác định trong Chú giải 9 của Chương 39, là các tấm phủ tường hoặc phủ trần bằng plastic, kể cả loại có lớp bồi bằng vật liệu dệt. Nhóm này loại trừ giấy dán tường hoặc các loại phủ tường tương tự bằng giấy được tráng hoặc phủ bằng plastic (nhóm 48.14). Nhóm này cũng bao gồm các sản phẩm có in hoa văn, ký tự hoặc các biểu tượng tranh ảnh, không chỉ đơn thuần phục vụ cho mục đích sử dụng chính của sản phẩm (tham khảo Chú giải 2 thuộc Phần VII).",
+        "en": "This heading has two parts. The first part covers plastics of the types normally used as floor coverings, in rolls or in the form of tiles, including self-adhesive floor coverings. The second part, the scope of which is defined in Note 9 to this Chapter, covers wall or ceiling coverings of plastics, including those with a textile backing. Wallpaper or similar wall coverings of paper coated or covered with plastics are excluded (heading 48.14). It should be noted that this heading includes articles printed with motifs, characters or pictorial representations, which are not merely subsidiary to the primary use of the goods (see Note 2 to Section VII)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3918.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ các polyme từ vinyl clorua",
+        "en": "Of polymers of vinyl chloride"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3918.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ plastic khác",
+        "en": "Of other plastics"
+      }
+    }
+  ]
+}

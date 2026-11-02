@@ -1,0 +1,58 @@
+{
+  "heading_id": "79.01",
+  "heading_title": {
+    "vi": "Kẽm chưa gia công",
+    "en": "Unwrought zinc"
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm kẽm chưa gia công ở các mức độ tinh khiết khác nhau, từ kẽm thương phẩm đến kẽm đã được tinh chế, ở dạng khối, tấm, thỏi, phiến hoặc các dạng tương tự hoặc có dạng viên. Các sản phẩm này thường được dùng trong mạ kẽm, tạo hợp kim, cán, kéo, ép đùn, hoặc đúc thành các sản phẩm định hình. Nhóm này không bao gồm bụi, bột, và vẩy kẽm thuộc nhóm 79.03.",
+    "en": "This heading covers unwrought zinc in different degrees of purity, from spelter to refined zinc, whether in blocks, plates, ingots, billets, slabs or similar forms or in pellets. These products are normally intended for use in galvanising, making alloys, for rolling, drawing or extrusion, or for casting into shaped articles. The heading excludes zinc dust, powders and flakes of heading 79.03."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm kẽm chưa gia công ở các mức độ khác nhau về độ tinh khiết từ kẽm thương phẩm (Xem chú giải chung ở trên) đến kẽm đã được tinh chế, nó có thể ở dạng khối, tấm, thỏi, phiến hoặc các dạng tương tự hoặc có dạng viên. Các sản phẩm của nhóm này thường được dự định sử dụng trong mạ kẽm (bởi phương pháp nhúng nóng hoặc quá trình (kết tủa điện phân) mạ âm cực, tạo ra các hợp kim, cán, kéo, hoặc ép đùn, hoặc đúc thành các sản phẩm định hình.\nNhóm này loại trừ bụi, bột, vẩy kẽm (nhóm 79.03).",
+        "en": "This heading covers unwrought zinc in its different degrees of purity from spelter (see the General Explanatory Note above) to refined zinc, whether in blocks, plates, ingots, billets, slabs or similar forms or in pellets. The products of this heading are normally intended for use in galvanising (by the hot-dip or electro deposition processes), for making alloys, for rolling, drawing or extrusion, or for casting into shaped articles.\nThe heading excludes zinc dust, powders and flakes (heading 79.03)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Kẽm, không hợp kim:",
+        "en": "Zinc, not alloyed :"
+      },
+      "subheading_id": "7901.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có hàm lượng kẽm từ 99,99% trở lên tính theo khối lượng",
+        "en": "Containing by weight 99.99 % or more of zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Kẽm, không hợp kim:",
+        "en": "Zinc, not alloyed :"
+      },
+      "subheading_id": "7901.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có hàm lượng kẽm dưới 99,99% tính theo khối lượng",
+        "en": "Containing by weight less than 99.99 % of zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7901.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hợp kim kẽm",
+        "en": "Zinc alloys"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "heading_id": "85.06",
+  "heading_title": {
+    "vi": "Pin và bộ pin (+).",
+    "en": "Primary cells and primary batteries (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm pin sơ cấp và bộ pin sơ cấp, là các thiết bị phát ra điện năng bằng các phản ứng hóa học không thể đảo ngược hoặc không hiệu quả để sạc lại. Các loại pin này có nhiều dạng khác nhau như pin ướt, pin khô, pin trơ và pin nồng độ, với các thành phần điện cực đa dạng (ví dụ: anode kẽm, magie, liti; cathode dioxit mangan, oxit thủy ngân, oxit bạc). Nhóm này cũng bao gồm các bộ phận của pin và bộ pin sơ cấp. Nhóm này không bao gồm các loại pin và bộ pin có thể sạc lại (ắc quy điện thuộc nhóm 85.07), đầu nối điện (nhóm 85.36), pin mặt trời (nhóm 85.41), điện cực carbon (nhóm 85.45), pin và bộ pin đã sử dụng hết (nhóm 85.49), và cặp nhiệt điện (ví dụ nhóm 85.03, 85.48, 90.33).",
+    "en": "This heading covers primary cells and primary batteries, which are devices that generate electrical energy through chemical reactions that are not readily or efficiently reversible for recharging. These cells come in various types such as wet cells, dry cells, inert cells, and concentration cells, with diverse electrode compositions (e.g., zinc, magnesium, or lithium anodes; manganese dioxide, mercuric oxide, or silver oxide cathodes). The heading also includes parts of primary cells and batteries. The heading excludes rechargeable cells and batteries (electric accumulators of heading 85.07), terminals (heading 85.36), solar cells (heading 85.41), carbon electrodes (heading 85.45), spent primary cells and batteries (heading 85.49), and thermocouples (e.g., headings 85.03, 85.48, 90.33)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các pin điện phát ra điện năng bằng các phản ứng hoá học. Về cơ bản, pin sơ cấp gồm một vỏ chứa một chất điện phân kiềm hoặc không phải kiềm (hiđrôxit kali hoặc hiđrôxit natri, clorua amôniac hoặc hỗn hợp của clorua liti, clorua amôniac, clorua kẽm và nước), trong đó, có hai điện cực được nhúng vào. A-nốt thông thường là kẽm, magie hoặc liti, còn ca-tốt (điện cực khử cực) bằng, ví dụ, đi ô xit măng gan (trộn lẫn với bột than), ô xit thủy ngân hoặc ô xit bạc. Trong các pin li ti, a-nốt làm bằng li ti, còn ca-tốt làm bằng các chất như là clorua ti-ô-nin, đi-ô-xit lưu huỳnh, đi ô xit măng gan, hoặc sun-phit sắt. Một điện phân khô được sử dụng bởi độ hòa tan và phản ứng của liti trong dung dịch lỏng. Trong pin sơ cấp kẽm khí, một điện phân kiềm hoặc trung tính thường được sử dụng. Kẽm được dùng như a-nốt, còn ô xi khuếch tán vào trong pin được dùng như là ca-tốt. Mỗi điện cực được cung cấp một đầu nối hoặc được sắp xếp khác để nối với mạch điện bên ngoài. Đặc điểm chính của pin sơ cấp là không sạc được hoặc sạc không hiệu quả.",
+        "en": "These generate electrical energy by means of chemical reactions. A primary cell consists basically of a container holding an alkaline or a non-alkaline electrolyte (e.g., potassium or sodium hydroxide, ammonium chloride or a mixture of lithium chloride, ammonium chloride, zinc chloride and water) in which two electrodes are immersed. The anode is generally of zinc, magnesium or of lithium and the cathode (depolarising electrode) is, for example, of manganese dioxide (mixed with carbon powder), of mercuric oxide or of silver oxide. In lithium primary cells, the anode is of lithium and the cathode is, for example, of thionyl chloride, of sulphur dioxide, manganese dioxide or of iron sulphide. A nonaqueous electrolyte is used because of the solubility and reactivity of lithium in aqueous solutions. In air-zinc primary cells, an alkaline or neutral electrolyte is generally used. The zinc is used as the anode, oxygen diffuses into the cell and is used as the cathode. Each electrode is provided with a terminal or other arrangement for connection to an external circuit. The principal characteristic of a primary cell is that it is not readily or efficiently recharged."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các pin sơ cấp được sử dụng để cấp nguồn cho nhiều mục đích khác nhau (chuông điện, các thiết bị điện thoại, máy trợ thính, camera, đồng hồ, máy tính bỏ túi, máy tạo nhịp tim, đài, đồ chơi, đèn xách tay, roi điện để đuổi gia súc...). Chúng có thể tập hợp lại thành một bộ pin, bằng cách nối tiếp, song song hay kết hợp cả hai cách. Pin và bộ pin vẫn được phân loại ở đây không cần xét đến mục đích sử dụng, (ví dụ, các pin mẫu, sử dụng cho các phòng thí nghiệm, các pin này tạo ra một điện áp không đổi chính xác thuộc nhóm này).\nCác loại khác nhau của pin bao gồm:\n(1) Các pin ướt, trong đó chất điện phân ở dạng lỏng, và rất dễ bị chảy. Do vậy, pin ướt rất nhạy cảm với hướng đặt pin.\n(2) Các pin khô trong đó chất điện phân được giữ cố định trong các vật liệu thấm hút hoặc dạng gel (ví dụ trộn với một chất đóng rắn giống như là thạch hoặc bột để tạo thành dạng nhão). Chất điện phân sử dụng có thể là chất lỏng nhưng không chảy. Pin khô được sử dụng chủ yếu trong các thiết bị cầm tay.\n(3) Pin trơ hoặc pin dự trữ hoặc bộ pin mà phải cho nước hoặc phần điện phân vào trước khi sử dụng, hoặc trong đó, chất điện phân phải được làm nóng trước khi trở thành chất dẫn ion.\n(4) Các pin nồng độ, chất điện phân ở các nồng độ khác nhau ở mỗi điện cực.\nPin và bộ pin có thể được sản xuất dưới nhiều hình dạng và kích cỡ. Loại phổ biến là loại có dạng hình trụ hoặc hình nút áo.\nCác pin (ví dụ pin ướt và một vài pin trơ) thường được hiện diện mà không có chất điện phân nhưng vẫn được phân loại ở đây.",
+        "en": "Primary cells are used for supplying current for a number of purposes (for bells, telephones, hearing aids, cameras, watches, calculators, heart pacemakers, radios, toys, portable lamps, electric prods for cattle, etc.). Cells may be grouped together in batteries, either in series or in parallel or a combination of both. Cells and batteries remain classified here irrespective of the use for which they are intended (e.g., standard cells for laboratory work producing a constant known voltage fall in the heading).\nThe various types of cells include:\n(1) Wet cells, in which the electrolyte is a liquid, and is not restrained from flowing. Wet cells are therefore sensitive to orientation.\n(2) Dry cells, in which the electrolyte is immobilised in absorbent materials or gels (e.g., mixed with a thickener such as agar-agar or flour to form a paste). The electrolyte used may be liquid but it is restrained from flowing. Dry cells are used mainly for portable devices.\n(3) Inert cells, or reserve cells or batteries to which water or all or part of the electrolyte must be added before they can be used, or in which the electrolyte must be heated to become ionically conductive.\n(4) Concentration cells, the electrolyte being at a different degree of concentration at each electrode.\nPrimary cells and batteries may be manufactured to various shapes and sizes. Common types are those having a cylindrical or button shape.\nCertain cells (e.g., wet cells and some inert cells) are usually presented without their electrolyte, but remain classified here."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm các pin và bộ pin có thể sạc lại, thông thường chúng được phân loại vào nhóm 85.07 như ắc quy điện.",
+        "en": "This heading does not cover rechargeable cells and batteries, as these are classified in heading 85.07 as electric accumulators."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung phân loại các bộ phận (xem chú giải chi tiết tổng quát phần XVI), nhóm này cũng bao gồm bộ phận của pin và bộ pin, kể cả vỏ pin.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), the heading covers parts of primary cells or batteries, including containers."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Phần đầu nối điện (nhóm 85.36).\n(b) Pin mặt trời (nhóm 85.41)\n(c) Điện cực cacbon (nhóm 85.45).\n(d) Pin và bộ pin đã sử dụng hết và các chất phế liệu, phế thải của nó (nhóm 85.49)\n(e) Cặp nhiệt điện (ví dụ nhóm 85.03, 85.48, 90.33)",
+        "en": "The heading does not cover:\n(a) Terminals (heading 85.36).\n(b) Solar cells (heading 85.41).\n(c) Carbon electrodes (heading 85.45).\n(d) Spent primary cells and spent primary batteries and waste and scrap thereof (heading 85.49).\n(e) Thermocouples (e.g., headings 85.03, 85.48, 90.33)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải chi tiết phân nhóm.\nCác phân nhóm 8506.10, 8506.30 và 8506.40\nMặt hàng được phân loại vào phân nhóm này được căn cứ vào thành phần của ca-tốt (điện cực khử cực). Tuy nhiên, pin với ca-tốt bằng đioxit mangan và a-nốt là liti được xếp vào phân nhóm 8506.50 như là pin liti (xem chú giải chi tiết phân nhóm dưới đây).\nPhân nhóm 8506.50\nPin được phân loại trong phân nhóm này được xác định bởi thành phần của a-nốt.",
+        "en": "Subheading Explanatory Notes.\nSubheadings 8506.10, 8506.30 and 8506.40\nClassification in these subheadings is determined by the composition of the cathode (depolarising electrode). However, primary cells with cathode of manganese dioxide and anode of lithium are classified in subheading 8506.50 as lithium primary cells (see the Explanatory Note to that subheading below).\nSubheading 8506.50\nClassification in this subheading is determined by the composition of the anode."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng dioxit mangan",
+        "en": "Manganese dioxide"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng oxit thủy ngân",
+        "en": "Mercuric oxide"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng oxit bạc",
+        "en": "Silver oxide"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng liti",
+        "en": "Lithium"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng kẽm-khí",
+        "en": "Air-zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Pin và bộ pin khác",
+        "en": "Other primary cells and primary batteries"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

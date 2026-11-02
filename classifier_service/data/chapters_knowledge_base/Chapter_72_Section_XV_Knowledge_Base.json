@@ -1,0 +1,451 @@
+{
+  "chapter_id": "72",
+  "chapter_title": {
+    "vi": "Sắt và thép",
+    "en": "Iron and steel"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm các kim loại đen (sắt và thép) và các sản phẩm của chúng ở dạng nguyên liệu thô, bán thành phẩm và các sản phẩm cơ bản. Chương được chia thành bốn phân chương:\n- Phân chương I (72.01-72.05): Nguyên liệu thô (gang thỏi, gang kính, hợp kim fero), các sản phẩm sắt xốp, phế liệu, và các sản phẩm dạng hạt hoặc dạng bột.\n- Phân chương II (72.06-72.17): Sắt và thép không hợp kim ở các dạng thô, bán thành phẩm, sản phẩm cán phẳng, thanh, que, góc, khuôn, hình và dây.\n- Phân chương III (72.18-72.23): Thép không gỉ ở các dạng tương tự như Phân chương II.\n- Phân chương IV (72.24-72.29): Thép hợp kim khác (trừ thép không gỉ) ở các dạng tương tự, cùng với các dạng thanh và que rỗng dùng để khoan bằng thép hợp kim hoặc không hợp kim.\n\nCác định nghĩa quan trọng của Chương này bao gồm:\n- Gang thỏi (Pig iron): Hợp kim sắt-carbon không rèn được, chứa trên 2% carbon và các nguyên tố khác trong giới hạn nhất định.\n- Gang kính (Spiegeleisen): Hợp kim sắt-carbon chứa trên 6% đến 30% mangan.\n- Hợp kim fero (Ferro-alloys): Hợp kim dùng làm phụ gia trong luyện kim đen, không rèn được, chứa từ 4% sắt trở lên và các nguyên tố khác theo tỷ lệ quy định.\n- Thép (Steel): Vật liệu chứa sắt dễ uốn, chứa từ 2% carbon trở xuống (trừ thép crôm).\n- Thép không gỉ (Stainless steel): Thép hợp kim chứa từ 1,2% carbon trở xuống và từ 10,5% crôm trở lên.\n- Thép hợp kim khác (Other alloy steel): Thép không phải thép không gỉ và chứa các nguyên tố hợp kim khác theo tỷ lệ quy định.\n- Các định nghĩa chi tiết cho các dạng sản phẩm như: Bán thành phẩm, sản phẩm cán phẳng, thanh và que, góc, khuôn, hình, dây, và thanh và que rỗng.\n\nChương này không bao gồm các sản phẩm được gia công sâu hơn như đúc, rèn, cọc cừ, các sản phẩm hàn thuộc Chương 73, hoặc các sản phẩm thuộc các Chương khác.",
+    "en": "This Chapter covers ferrous metals (iron and steel) and their products in primary, semi-finished, and basic product forms. The Chapter is divided into four sub-chapters:\n- Sub-Chapter I (72.01-72.05): Primary materials (pig iron, spiegeleisen, ferro-alloys), spongy ferrous products, waste and scrap, and products in granular or powder form.\n- Sub-Chapter II (72.06-72.17): Iron and non-alloy steel in primary forms, semi-finished products, flat-rolled products, bars, rods, angles, shapes, sections, and wire.\n- Sub-Chapter III (72.18-72.23): Stainless steel in similar forms to Sub-Chapter II.\n- Sub-Chapter IV (72.24-72.29): Other alloy steel (excluding stainless steel) in similar forms, along with hollow drill bars and rods of alloy or non-alloy steel.\n\nKey definitions for this Chapter include:\n- Pig iron: Non-malleable iron-carbon alloys containing more than 2% carbon and other elements within specified limits.\n- Spiegeleisen: Iron-carbon alloys containing more than 6% up to 30% manganese.\n- Ferro-alloys: Alloys used as additives in ferrous metallurgy, not usefully malleable, containing 4% or more of iron and other elements in specified proportions.\n- Steel: Malleable ferrous materials containing 2% or less of carbon (except for chromium steels).\n- Stainless steel: Alloy steels containing 1.2% or less of carbon and 10.5% or more of chromium.\n- Other alloy steel: Steels not complying with the definition of stainless steel and containing other alloying elements in specified proportions.\n- Detailed definitions for product forms such as: Semi-finished products, flat-rolled products, bars and rods, angles, shapes, sections, wire, and hollow drill bars and rods.\n\nThis Chapter excludes further worked articles such as castings, forgings, sheet piling, welded articles of Chapter 73, or articles of other Chapters."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Trong Chương này và, trong các Chú giải (d), (e) và (f) của Danh mục, các khái niệm sau có nghĩa: (a) Gang thỏi: Là loại hợp kim sắt-carbon không có tính rèn, có hàm lượng carbon trên 2% tính theo khối lượng và có thể chứa một hoặc nhiều nguyên tố khác trong giới hạn dưới đây: Crôm không quá 10%, Mangan không quá 6%, Phospho không quá 3%, Silic không quá 8%, Tổng các nguyên tố khác không quá 10%.",
+        "en": "1.- In this Chapter and, in the case of Notes (d), (e) and (f) throughout the Nomenclature, the following expressions have the meanings hereby assigned to them: (a) Pig iron: Iron-carbon alloys not usefully malleable, containing more than 2% by weight of carbon and which may contain by weight one or more other elements within the following limits: not more than 10% of chromium, not more than 6% of manganese, not more than 3% of phosphorus, not more than 8% of silicon, a total of not more than 10% of other elements."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(b) Gang kính (gang thỏi giàu mangan): Là loại hợp kim sắt-carbon chứa trên 6% nhưng không quá 30% mangan tính theo khối lượng và các thành phần khác theo giới hạn đã nêu ở điểm (a) nêu trên.",
+        "en": "(b) Spiegeleisen: Iron-carbon alloys containing by weight more than 6% but not more than 30% of manganese and otherwise conforming to the specification at (a) above."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(c) Hợp kim fero: Là các hợp kim có dạng thỏi, khối, cục hoặc dạng thô tương tự, các dạng thu được bằng phương pháp đúc liên tục và cũng như dạng hạt hoặc dạng bột, đã hoặc chưa kết tụ, thường được sử dụng như một chất phụ gia cho quá trình sản xuất các hợp kim khác hoặc như tác nhân khử ôxy, khử lưu huỳnh hoặc cho mục đích tương tự trong ngành luyện kim đen và thông thường hợp kim này không có tính rèn, có hàm lượng sắt từ 4% trở lên tính theo khối lượng và một hoặc nhiều nguyên tố khác dưới đây: Crôm trên 10%, Mangan trên 30%, Phospho trên 3%, Silic trên 8%, Tổng các nguyên tố khác trên 10%, trừ carbon, riêng hàm lượng của đồng tối đa là 10%.",
+        "en": "(c) Ferro-alloys: Alloys in pigs, blocks, lumps or similar primary forms, in forms obtained by continuous casting and also in granular or powder forms, whether or not agglomerated, commonly used as an additive in the manufacture of other alloys or as deoxidants, de-sulphurising agents or for similar uses in ferrous metallurgy and generally not usefully malleable, containing by weight 4% or more of the element iron and one or more of the following: more than 10% of chromium, more than 30% of manganese, more than 3% of phosphorus, more than 8% of silicon, a total of more than 10% of other elements, excluding carbon, subject to a maximum content of 10% in the case of copper."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(d) Thép: Là các vật liệu dễ uốn có chứa sắt trừ các vật liệu thuộc nhóm 72.03 (không kể loại được sản xuất bằng phương pháp đúc) và có hàm lượng carbon không quá 2% tính theo khối lượng. Tuy nhiên, riêng thép crôm có thể có hàm lượng carbon cao hơn.",
+        "en": "(d) Steel: Ferrous materials other than those of heading 72.03 which (with the exception of certain types produced in the form of castings) are usefully malleable and which contain by weight 2% or less of carbon. However, chromium steels may contain higher proportions of carbon."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(e) Thép không gỉ: Là loại thép hợp kim có hàm lượng carbon không quá 1,2% tính theo khối lượng và crôm từ 10,5% trở lên tính theo khối lượng, có thể chứa hoặc không chứa các nguyên tố khác.",
+        "en": "(e) Stainless steel: Alloy steels containing, by weight, 1.2% or less of carbon and 10.5% or more of chromium, with or without other elements."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(f) Thép hợp kim khác: Là những loại thép có thành phần không tuân theo định nghĩa của \"thép không gỉ\" và chứa ít nhất một trong các nguyên tố với hàm lượng sau: Nhôm từ 0,3% trở lên, Bo từ 0,0008% trở lên, Crôm từ 0,3% trở lên, Coban từ 0,3% trở lên, Đồng từ 0,4% trở lên, Chì từ 0,4% trở lên, Mangan từ 1,65% trở lên, Molybđen từ 0,08% trở lên, Nikel từ 0,3% trở lên, Niobi từ 0,06% trở lên, Silic từ 0,6% trở lên, Titan từ 0,05% trở lên, Vonfram từ 0,3% trở lên, Vanadi từ 0,1% trở lên, Zircon từ 0,05% trở lên, Các nguyên tố khác tính cho mỗi nguyên tố từ 0,1% trở lên (trừ lưu huỳnh, phostpho, carbon và nitơ).",
+        "en": "(f) Other alloy steel: Steels not complying with the definition of stainless steel and containing by weight one or more of the following elements in the proportion shown: 0.3% or more of aluminium, 0.0008% or more of boron, 0.3% or more of chromium, 0.3% or more of cobalt, 0.4% or more of copper, 0.4% or more of lead, 1.65% or more of manganese, 0.08% or more of molybdenum, 0.3% or more of nickel, 0.06% or more of niobium, 0.6% or more of silicon, 0.05% or more of titanium, 0.3% or more of tungsten (wonfram), 0.1% or more of vanadium, 0.05% or more of zirconium, 0.1% or more of other elements (except sulphur, phosphorus, carbon and nitrogen), taken separately."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(g) Các thỏi sắt hoặc thép từ phế liệu nấu lại: Các sản phẩm đúc thô dạng thỏi không có đậu rót hoặc đậu ngót, có những khuyết tật bề mặt rõ ràng và thành phần hoá học của chúng không giống với gang thỏi, gang kính hoặc hợp kim fero.",
+        "en": "(g) Remelting scrap ingots of iron or steel: Products roughly cast in the form of ingots without feeder- heads or hot tops, or of pigs, having obvious surface faults and not complying with the chemical composition of pig iron, spiegeleisen or ferro-alloys."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(h) Hạt: Là những sản phẩm có dưới 90% tính theo khối lượng lọt qua mắt sàng 1 mm và 90% trở lên tính theo khối lượng lọt qua mắt sàng 5 mm.",
+        "en": "(h) Granules: Products of which less than 90% by weight passes through a sieve with a mesh aperture of 1 mm and of which 90% or more by weight passes through a sieve with a mesh aperture of 5 mm."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(ij) Bán thành phẩm: Các sản phẩm đúc liên tục có mặt cắt đông đặc, đã hoặc chưa qua cán nóng thô; và Các sản phẩm khác có mặt cắt đông đặc, chưa được gia công quá mức cán nóng thô hoặc được tạo hình thô bằng phương pháp rèn, kể cả phôi để tạo các sản phẩm dạng góc, khuôn hoặc hình. Các sản phẩm này không ở dạng cuộn.",
+        "en": "(ij) Semi-finished products: Continuous cast products of solid section, whether or not subjected to primary hot-rolling; and Other products of solid section, which have not been further worked than subjected to primary hot-rolling or roughly shaped by forging, including blanks for angles, shapes or sections. These products are not presented in coils."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(k) Các sản phẩm được cán phẳng: Các sản phẩm cán có mặt cắt ngang đông đặc hình chữ nhật (trừ hình vuông), không thích hợp như định nghĩa tại mục (ij) nêu trên ở dạng sau: - cuộn từ các lớp được chồng lên nhau liên tiếp, hoặc - đoạn thẳng, nếu chiều dày của nó dưới 4,75 mm thì chiều rộng tối thiểu phải gấp 10 lần chiều dày hoặc nếu chiều dày từ 4,75 mm trở lên thì chiều rộng phải trên 150 mm và tối thiểu phải gấp 2 lần chiều dày. Các sản phẩm cán phẳng kể cả các sản phẩm đó với các hình nổi được tạo ra trực tiếp từ quá trình cán (ví dụ, rãnh, gân, kẻ carô, hình giọt nước, hình núm, hình thoi) và các sản phẩm được khoan, gấp nếp hoặc đánh bóng, với điều kiện là bằng cách đó chúng không mang đặc tính của các mặt hàng hoặc sản phẩm của các nhóm khác. Các sản phẩm cán phẳng có hình dạng khác với dạng hình chữ nhật hoặc hình vuông, với mọi kích thước, được phân loại như các sản phẩm có chiều rộng từ 600 mm trở lên, với điều kiện là chúng không mang đặc tính của các mặt hàng hoặc các sản phẩm thuộc nhóm khác.",
+        "en": "(k) Flat-rolled products: Rolled products of solid rectangular (other than square) cross-section, which do not conform to the definition at (ij) above in the form of: - coils of successively superimposed layers, or - straight lengths, which if of a thickness less than 4.75 mm are of a width measuring at least ten times the thickness or if of a thickness of 4.75 mm or more are of a width which exceeds 150 mm and measures at least twice the thickness. Flat-rolled products include those with patterns in relief derived directly from rolling (for example, grooves, ribs, chequers, tears, buttons, lozenges) and those which have been perforated, corrugated or polished, provided that they do not thereby assume the character of articles or products of other headings. Flat-rolled products of a shape other than rectangular or square, of any size, are to be classified as products of a width of 600 mm or more, provided that they do not assume the character of articles or products of other headings."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(l) Thanh và que, cán nóng, ở dạng cuộn cuốn không đều: Các sản phẩm cán nóng dạng cuộn cuốn không đều, có mặt cắt ngang đông đặc hình tròn, hình dẻ quạt, bầu dục, chữ nhật (kể cả hình vuông), tam giác hoặc đa giác lồi (kể cả “hình tròn phẳng” và \"hình chữ nhật biến dạng\", có 2 cạnh đối diện là vòng cung lồi, 2 cạnh kia thẳng, chiều dài bằng nhau và song song). Các sản phẩm này có thể được khía răng cưa, gân, rãnh hoặc các dạng khác được tạo ra trong quá trình cán (thanh và que gia cố).",
+        "en": "(l) Bars and rods, hot-rolled, in irregularly wound coils: Hot-rolled products in irregularly wound coils, which have a solid cross-section in the shape of circles, segments of circles, ovals, rectangles (including squares), triangles or other convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). These products may have indentations, ribs, grooves or other deformations produced during the rolling process (reinforcing bars and rods)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(m) Thanh và que khác: Các sản phẩm không phù hợp với các định nghĩa tại mục (ij), (k) hoặc (l) ở trên hoặc định nghĩa về dây, có mặt cắt ngang đông đặc đều nhau dọc theo chiều dài hình dạng mặt cắt là hình tròn, hình rẻ quạt, bầu dục, chữ nhật (kể cả hình vuông), tam giác hoặc đa giác lồi (kể cả \"hình tròn phẳng\" và \"hình chữ nhật biến dạng\", có 2 cạnh đối diện là vòng cung lồi, 2 cạnh kia thẳng, chiều dài bằng nhau và song song). Các sản phẩm này có thể: - có khía răng cưa, rãnh, gân hoặc các dạng khác được tạo ra trong quá trình cán (thanh và que gia cố); - được xoắn sau khi cán.",
+        "en": "(m) Other bars and rods: Products which do not conform to any of the definitions at (ij), (k) or (l) above or to the definition of wire, which have a uniform solid cross-section along their whole length in the shape of circles, segments of circles, ovals, rectangles (including squares), triangles or other convex polygons (including “flattened circles” and “modified rectangles”, of which two opposite sides are convex arcs, the other two sides being straight, of equal length and parallel). These products may: - have indentations, ribs, grooves or other deformations produced during the rolling process (reinforcing bars and rods); - be twisted after rolling."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(n) Góc, khuôn và hình: Các sản phẩm có mặt cắt ngang đông đặc đều nhau dọc chiều dài và không thích hợp với mọi định nghĩa về sản phẩm tại mục (ij), (k), (l) hoặc (m) ở trên hoặc định nghĩa về dây. Chương 72 không kể đến các sản phẩm của nhóm 73.01 hoặc 73.02.",
+        "en": "(n) Angles, shapes and sections: Products having a uniform solid cross-section along their whole length which do not conform to any of the definitions at (ij), (k), (l) or (m) above or to the definition of wire. Chapter 72 does not include products of heading 73.01 or 73.02."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(o) Dây: Các sản phẩm được tạo hình nguội, ở dạng cuộn, có mặt cắt ngang đông đặc đều nhau dọc chiều dài, khác với định nghĩa về sản phẩm được cán phẳng.",
+        "en": "(o) Wire: Cold-formed products in coils, of any uniform solid cross-section along their whole length, which do not conform to the definition of flat-rolled products."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(p) Thanh và que rỗng: Thanh và que rỗng với mặt cắt ngang bất kỳ, thích hợp cho các mũi khoan, kích thước bên ngoài lớn nhất của mặt cắt ngang trên 15 mm nhưng không quá 52 mm, và kích thước bên trong lớn nhất của mặt cắt không quá 1/2 kích thước bên ngoài lớn nhất. Thanh và que rỗng bằng sắt hoặc thép không đúng như định nghĩa này được phân loại vào nhóm 73.04.",
+        "en": "(p) Hollow drill bars and rods: Hollow bars and rods of any cross-section, suitable for drills, of which the greatest external dimension of the cross-section exceeds 15 mm but does not exceed 52 mm, and of which the greatest internal dimension does not exceed one half of the greatest external dimension. Hollow bars and rods of iron or steel not conforming to this definition are to be classified in heading 73.04."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "2. Kim loại đen được phủ bằng một kim loại đen khác được phân loại như những sản phẩm từ kim loại đen có khối lượng trội hơn.",
+        "en": "2.- Ferrous metals clad with another ferrous metal are to be classified as products of the ferrous metal predominating by weight."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "3. Các sản phẩm sắt hoặc thép thu được bằng phương pháp điện phân, bằng đúc áp lực hoặc thiêu kết được phân loại vào các nhóm của Chương này như các sản phẩm được cán nóng tương tự, theo hình dạng, thành phần và mô tả bề ngoài của chúng.",
+        "en": "3.- Iron or steel products obtained by electrolytic deposition, by pressure casting or by sintering are to be classified, according to their form, their composition and their appearance, in the headings of this Chapter appropriate to similar hot-rolled products."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Chú giải phân nhóm. 1. Trong Chương này các khái niệm sau có nghĩa: (a) Gang thỏi hợp kim: Gang thỏi chứa 1 hoặc nhiều nguyên tố có phần trăm tính theo khối lượng như sau: Crôm trên 0,2%, Đồng trên 0,3%, Niken trên 0,3%, Trên 0,1% của một trong các nguyên tố bất kỳ sau: nhôm, molypden, titan, vonfram, vanadi.",
+        "en": "Subheading Notes. 1.- In this Chapter the following expressions have the meanings hereby assigned to them: (a) Alloy pig iron: Pig iron containing, by weight, one or more of the following elements in the specified proportions: more than 0.2% of chromium, more than 0.3% of copper, more than 0.3% of nickel, more than 0.1% of any of the following elements: aluminium, molybdenum, titanium, tungsten (wonfram), vanadium."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "(b) Thép không hợp kim dễ cắt gọt: Thép không hợp kim chứa 1 hoặc nhiều nguyên tố sau có phần trăm tính theo khối lượng như sau: Lưu huỳnh từ 0,08% trở lên, Chì từ 0,1% trở lên, Selen trên 0,05%, Telu trên 0,01%, Bismut trên 0,05%.",
+        "en": "(b) Non-alloy free-cutting steel: Non-alloy steel containing, by weight, one or more of the following elements in the specified proportions: 0.08% or more of sulphur, 0.1 % or more of lead, more than 0.05% of selenium, more than 0.01% of tellurium, more than 0.05% of bismuth."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "(c) Thép silic kỹ thuật điện: Thép hợp kim có hàm lượng silic tối thiểu là 0,6% nhưng không quá 6% và chứa hàm lượng carbon không quá 0,08% tính theo khối lượng. Trong thành phần của chúng có thể chứa nhôm không quá 1% tính theo khối lượng và không chứa nguyên tố khác theo một tỷ lệ mà khiến chúng mang đặc tính của thép hợp kim khác.",
+        "en": "(c) Silicon-electrical steel: Alloy steels containing by weight at least 0.6% but not more than 6% of silicon and not more than 0.08% of carbon. They may also contain by weight not more than 1% of aluminium but no other element in a proportion that would give the steel the characteristics of another alloy steel."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "(d) Thép gió: Thép hợp kim chứa ít nhất 2 trong 3 nguyên tố molybden, vonfram và vanadi với hàm lượng tổng cộng từ 7% trở lên tính theo khối lượng, carbon từ 0,6% trở lên tính theo khối lượng và crôm từ 3% đến 6% tính theo khối lượng, có hoặc không có các nguyên tố khác.",
+        "en": "(d) High speed steel: Alloy steels containing, with or without other elements, at least two of the three elements molybdenum, tungsten and vanadium with a combined content by weight of 7% or more, 0.6% or more of carbon and 3 to 6% of chromium."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "(e) Thép silic-mangan: Thép hợp kim có hàm lượng các nguyên tố sau tính theo khối lượng: Carbon không quá 0,7%, Mangan từ 0,5% đến 1,9%, và Silic từ 0,6% đến 2,3%, nhưng không chứa nguyên tố khác theo một tỷ lệ mà khiến chúng mang đặc tính của thép hợp kim khác.",
+        "en": "(e) Silico-manganese steel: Alloy steels containing by weight: not more than 0.7% of carbon, 0.5% or more but not more than 1.9% of manganese, and 0.6% or more but not more than 2.3% of silicon, but no other element in a proportion that would give the steel the characteristics of another alloy steel."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "2. Khi phân loại các hợp kim fero trong các phân nhóm của nhóm 72.02 cần lưu ý nguyên tắc sau: Một hợp kim fero được coi như 2 nguyên tố và được phân loại vào phân nhóm thích hợp (nếu có) nếu chỉ 1 trong các nguyên tố của hợp kim vượt quá tỷ lệ phần trăm tối thiểu được nêu ở Chú giải 1 (c) của Chương này; tương tự, nó sẽ được coi như 3 hoặc 4 nguyên tố nếu 2 hoặc 3 nguyên tố của hợp kim vượt quá phần trăm tối thiểu trên. Để áp dụng nguyên tắc này hàm lượng \"mỗi nguyên tố khác\" không được nói rõ trong Chú giải 1 (c) của Chương này phải trên 10% tính theo khối lượng.",
+        "en": "2.- For the classification of ferro-alloys in the subheadings of heading 72.02 the following rule should be observed: A ferro-alloy is considered as binary and classified under the relevant subheading (if it exists) if only one of the alloy elements exceeds the minimum percentage laid down in Chapter Note 1 (c); by analogy, it is considered respectively as ternary or quaternary if two or three alloy elements exceed the minimum percentage. For the application of this rule the unspecified “other elements” referred to in Chapter Note 1 (c) must each exceed 10% by weight."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 6,
+      "content": {
+        "vi": "Chương này bao gồm các kim loại đen, có nghĩa là gang thỏi, gang kính, hợp kim fero và các vật liệu thô khác (phân Chương I), cũng như một số các sản phẩm của ngành công nghiệp sắt và thép (dạng thỏi và các dạng thô khác, bán thành phẩm và các sản phẩm chính) bằng sắt hoặc thép không hợp kim (phân Chương II), bằng thép không gỉ (phân Chương III) và bằng thép hợp kim khác (phân Chương IV). Các sản phẩm được gia công tiếp theo, như đúc, rèn, cọc cừ, thép góc, khuôn và hình được hàn, các đường ống và nguyên vật liệu xây dựng đường ray xe lửa và đường tàu điện được phân loại ở Chương 73 hoặc trong các chương khác.",
+        "en": "This Chapter covers the ferrous metals, i.e., pig iron, spiegeleisen, ferro-alloys and other primary materials (sub-Chapter I), as well as certain products of the iron and steel industry (ingots and other primary forms, semi-finished products and the principal products derived directly therefrom) of iron or non-alloy steel (sub-Chapter II), of stainless steel (sub-Chapter III) and of other alloy steel (sub-Chapter IV). Further worked articles, such as castings, forgings, etc., and sheet piling, welded angles, shapes and sections, railway or tramway track construction material and tubes are classified in Chapter 73 or, in certain cases, in other Chapters."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Công nghiệp sắt và thép sử dụng nguyên liệu thô là các loại quặng sắt (nhóm 26.01), bã pirit thiêu, và phế liệu sắt thép.",
+        "en": "As raw material, the iron and steel industry uses various natural iron ores (heading 26.01), pyrites cinder, and waste and scrap of iron or steel."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "(I) Sự biến đổi (sự khử) quặng sắt: Quặng sắt được biến đổi thành gang thỏi trong lò cao hoặc lò điện, hoặc thành dạng xốp (sắt xốp) bằng các quá trình khử trực tiếp. (A) Biến đổi bằng công nghệ lò cao: Sắt thu được ở dạng gang thỏi nóng chảy. Phần lớn được chuyển trực tiếp thành thép. (B) Hoàn nguyên trong các thiết bị khử trực tiếp: Sử dụng khí hoặc than làm chất khử, sản phẩm thu được là sắt xốp.",
+        "en": "(I) Conversion (reduction) of iron ore: Iron ore is converted either into pig iron in blast or electric furnaces, or into a spongy form (sponge iron) by direct reduction processes. (A) Conversion by blast furnace process: Iron is obtained as molten pig iron. Most is converted directly into steel. (B) Conversion in direct reduction plants: Using gaseous or liquid hydrocarbons or coal as reductants, the resulting product is sponge iron."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(II) Sản xuất thép: Gang thỏi và sắt xốp, cùng với phế liệu, là vật liệu ban đầu. Các phương pháp chính bao gồm phương pháp \"thổi khí\" (như LD, OBM) và phương pháp lò nung (lò Martin, lò điện). Có thể kết hợp các phương pháp (phương pháp kép) để sản xuất thép đặc biệt.",
+        "en": "(II) Steel production: Pig iron and sponge iron, with waste and scrap, are the primary materials. Main processes include \"pneumatic\" processes (like LD, OBM) and hearth processes (open hearth, electric furnace). Processes can be combined (duplex process) for special steels."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "(III) Sản xuất thép ở dạng thỏi hoặc các dạng thô khác, và các bán thành phẩm: Thép nóng chảy chủ yếu được đúc thành thỏi. Thép được chia thành thép sôi, thép lặng và thép nửa lặng tùy thuộc vào quá trình khử ôxy. Sau khi đông đặc, thỏi được cán thành bán thành phẩm (thép cán thô, phôi thanh, phôi tấm) hoặc được rèn. Quá trình đúc liên tục cũng được sử dụng để tạo ra bán thành phẩm.",
+        "en": "(III) Production of ingots or other primary forms and of semi-finished products: Molten steel is mostly cast into ingots. Steel is divided into rimming, killed, and semi-killed steel depending on de-oxidation. After solidification, ingots are rolled into semi-finished products (blooms, billets, slabs) or forged. Continuous casting is also used to produce semi-finished products."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "(IV) Sản xuất thành phẩm: Bán thành phẩm được biến đổi thành thành phẩm, chia thành sản phẩm cán phẳng (tấm, dải) và sản phẩm dài (thanh, que, hình). Quá trình này được thực hiện bằng biến dạng dẻo, nóng (cán nóng, rèn, kéo nóng) hoặc nguội (cán nguội, ép đùn, kéo dây). Các sản phẩm sắt thép thu được bằng kết tủa điện phân, đúc áp lực hoặc thiêu kết được phân loại như các sản phẩm cán nóng tương tự.",
+        "en": "(IV) Production of finished products: Semi-finished products are converted into finished products, divided into flat products (sheets, strip) and long products (bars, rods, sections). This is done by plastic deformation, either hot (hot-rolling, forging, hot-drawing) or cold (cold-rolling, extrusion, wire-drawing). Iron and steel products from electrolytic deposition, pressure casting, or sintering are classified as similar hot-rolled products."
+      }
+    },
+    {
+      "page": 10,
+      "content": {
+        "vi": "Định nghĩa cho các quá trình: (A) Biến dạng dẻo nóng: Cán nóng, rèn, kéo nóng, rèn khuôn và dập khuôn nóng. (B) Biến dạng dẻo nguội: Cán nguội, rèn khuôn và dập khuôn nguội, ép đùn, kéo dây, chuốt dây.",
+        "en": "Definitions for processes: (A) Hot plastic deformation: Hot-rolling, forging, hot-drawing, hot drop forging and drop stamping. (B) Cold plastic deformation: Cold-rolling, cold drop forging and drop stamping, extrusion, wire-drawing, bright-drawing."
+      }
+    },
+    {
+      "page": 11,
+      "content": {
+        "vi": "Các sản phẩm gia công nguội có thể được phân biệt với sản phẩm cán nóng qua bề mặt tốt hơn, dung sai kích thước nhỏ hơn và cấu trúc vi mô bị biến dạng. Quá trình cán nguội nhẹ (gia công lớp bề mặt) không làm thay đổi tính chất của thành phẩm cán nóng. (C) Gia công tiếp theo và gia công hoàn thiện: Bao gồm gia công cơ khí (tiện, phay, mài,...) và xử lý bề mặt.",
+        "en": "Cold-worked products can be distinguished from hot-rolled products by a better surface appearance, smaller dimensional tolerances, and a deformed grain structure. A very light cold-rolling process (skin pass) does not change the character of a hot-rolled product. (C) Subsequent manufacture and finishing: Includes mechanical working (turning, milling, grinding, etc.) and surface treatments."
+      }
+    },
+    {
+      "page": 12,
+      "content": {
+        "vi": "Các xử lý bề mặt bao gồm: (a) Nhiệt luyện (ủ, tôi, ram,...); (b) Làm sạch gỉ, tẩy gỉ; (c) Tráng thô để bảo vệ; (d) Xử lý hoàn thiện bề mặt (đánh bóng, ôxy hóa nhân tạo, phốt phát hóa, mạ kim loại); (e) Mạ (cladding).",
+        "en": "Surface treatments include: (a) Heat treatments (annealing, hardening, tempering, etc.); (b) Descaling, pickling; (c) Rough coating for protection; (d) Surface finishing (polishing, artificial oxidation, phosphatising, metallisation); (e) Cladding."
+      }
+    },
+    {
+      "page": 13,
+      "content": {
+        "vi": "Các quá trình phủ kim loại (mạ) bao gồm: nhúng nóng, mạ điện, tẩm hoặc khuếch tán, phun, bay hơi trong chân không, bắn phá ion, bay hơi ở catốt. Lớp phủ phi kim loại bao gồm tráng men, sơn bóng, sơn mài, phủ plastic. Mạ (cladding) là sự liên kết các lớp kim loại bằng sự thâm nhập phân tử. Sản phẩm sắt thép mạ kim loại đen khác được phân loại theo kim loại trội hơn về trọng lượng (Chú giải 2 Chương này).",
+        "en": "Metal coating (metallisation) processes include: hot-dip immersion, electroplating, impregnation or diffusion, spraying, evaporation in a vacuum, ion bombardment, cathode vaporisation. Non-metallic coatings include enamelling, varnishing, lacquering, coating with plastics. Cladding is the association of layers of metals by molecular interpenetration. Ferrous products clad with another ferrous metal are classified according to the metal predominating by weight (Note 2 to this Chapter)."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "72.01",
+      "heading_title": {
+        "vi": "Gang thỏi và, gang kính ở dạng thỏi, dạng khối hoặc dạng thô khác.",
+        "en": "Pig iron and, Spiegeleisen in pigs, blocks or other primary forms."
+      }
+    },
+    {
+      "heading_id": "72.02",
+      "heading_title": {
+        "vi": "Hợp kim fero.",
+        "en": "Ferro-alloys."
+      }
+    },
+    {
+      "heading_id": "72.03",
+      "heading_title": {
+        "vi": "Các sản phẩm chứa sắt được hoàn nguyên trực tiếp từ quặng sắt và các sản phẩm sắt xốp khác, dạng tảng, cục hoặc các dạng tương tự; sắt có độ tinh khiết tối thiểu là 99,94%, ở dạng tảng, cục hoặc các dạng tương tự.",
+        "en": "Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94 %, in lumps, pellets or similar forms."
+      }
+    },
+    {
+      "heading_id": "72.04",
+      "heading_title": {
+        "vi": "Phế liệu và mảnh vụn sắt; thỏi đúc phế liệu nấu lại từ sắt hoặc thép.",
+        "en": "Ferrous waste and scrap; remelting scrap ingots of iron or steel."
+      }
+    },
+    {
+      "heading_id": "72.05",
+      "heading_title": {
+        "vi": "Hạt và bột, của gang thỏi, gang kính, sắt hoặc thép.",
+        "en": "Granules and powders, of pig iron, spiegeleisen, iron or steel."
+      }
+    },
+    {
+      "heading_id": "72.06",
+      "heading_title": {
+        "vi": "Sắt và thép không hợp kim dạng thỏi đúc hoặc các dạng thô khác (trừ sắt thuộc nhóm 72.03).",
+        "en": "Iron and non-alloy steel in ingots or other primary forms (excluding iron of heading 72.03)."
+      }
+    },
+    {
+      "heading_id": "72.07",
+      "heading_title": {
+        "vi": "Sắt hoặc thép không hợp kim ở dạng bán thành phẩm.",
+        "en": "Semi-finished products of iron or non-alloy steel."
+      }
+    },
+    {
+      "heading_id": "72.08",
+      "heading_title": {
+        "vi": "Các sản phẩm sắt hoặc thép không hợp kim được cán phẳng, có chiều rộng từ 600mm trở lên, được cán nóng, chưa dát phủ (clad), phủ, mạ (coated) hoặc tráng (plated) (+).",
+        "en": "Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated (+)."
+      }
+    },
+    {
+      "heading_id": "72.09",
+      "heading_title": {
+        "vi": "Các sản phẩm sắt hoặc thép không hợp kim được cán phẳng, có chiều rộng từ 600 mm trở lên, cán nguội (ép nguội), chưa dát phủ (clad), phủ, mạ (coated) hoặc tráng (plated) (+).",
+        "en": "Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated (+)."
+      }
+    },
+    {
+      "heading_id": "72.10",
+      "heading_title": {
+        "vi": "Các sản phẩm sắt hoặc thép không hợp kim được cán phẳng, có chiều rộng từ 600mm trở lên, đã dát phủ (clad), phủ, mạ (coated) hoặc tráng (plated) (+).",
+        "en": "Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated (+)."
+      }
+    },
+    {
+      "heading_id": "72.11",
+      "heading_title": {
+        "vi": "Các sản phẩm sắt hoặc thép không hợp kim cán phẳng, có chiều rộng dưới 600mm, chưa dát phủ (clad), phủ, mạ (coated) hoặc tráng (plated) (+).",
+        "en": "Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated (+)."
+      }
+    },
+    {
+      "heading_id": "72.12",
+      "heading_title": {
+        "vi": "Các sản phẩm sắt hoặc thép không hợp kim cán phẳng, có chiều rộng dưới 600mm, đã dát phủ (clad), phủ, mạ (coated) hoặc tráng (plated) (+).",
+        "en": "Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated (+)."
+      }
+    },
+    {
+      "heading_id": "72.13",
+      "heading_title": {
+        "vi": "Sắt hoặc thép không hợp kim, dạng thanh và que, ở dạng cuộn cuốn không đều, được cán nóng.",
+        "en": "Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel."
+      }
+    },
+    {
+      "heading_id": "72.14",
+      "heading_title": {
+        "vi": "Sắt hoặc thép không hợp kim ở dạng thanh và que khác, chưa được gia công quá mức rèn, cán nóng, kéo nóng hoặc ép đùn nóng, nhưng kể cả những dạng này được xoắn sau khi cán.",
+        "en": "Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling."
+      }
+    },
+    {
+      "heading_id": "72.15",
+      "heading_title": {
+        "vi": "Sắt hoặc thép không hợp kim ở dạng thanh và que khác (+).",
+        "en": "Other bars and rods of iron or non-alloy steel (+)."
+      }
+    },
+    {
+      "heading_id": "72.16",
+      "heading_title": {
+        "vi": "Sắt hoặc thép không hợp kim dạng góc, khuôn, hình (+).",
+        "en": "Angles, shapes and sections of iron or non-alloy steel (+)."
+      }
+    },
+    {
+      "heading_id": "72.17",
+      "heading_title": {
+        "vi": "Dây của sắt hoặc thép không hợp kim (+).",
+        "en": "Wire of iron or non-alloy steel (+)."
+      }
+    },
+    {
+      "heading_id": "72.18",
+      "heading_title": {
+        "vi": "Thép không gỉ ở dạng thỏi đúc hoặc dạng thô khác; bán thành phẩm của thép không gỉ.",
+        "en": "Stainless steel in ingots or other primary forms; semi-finished products of stainless steel."
+      }
+    },
+    {
+      "heading_id": "72.19",
+      "heading_title": {
+        "vi": "Các sản phẩm của thép không gỉ cán phẳng, có chiều rộng từ 600 mm trở lên (+).",
+        "en": "Flat-rolled products of stainless steel, of a width of 600 mm or more (+)."
+      }
+    },
+    {
+      "heading_id": "72.20",
+      "heading_title": {
+        "vi": "Các sản phẩm thép không gỉ được cán phẳng, có chiều rộng dưới 600 mm (+)",
+        "en": "Flat-rolled products of stainless steel, of a width of less than 600 mm (+)."
+      }
+    },
+    {
+      "heading_id": "72.21",
+      "heading_title": {
+        "vi": "Thanh và que thép không gỉ được cán nóng, dạng cuộn cuốn không đều.",
+        "en": "Bars and rods, hot-rolled, in irregularly wound coils, of stainless steel."
+      }
+    },
+    {
+      "heading_id": "72.22",
+      "heading_title": {
+        "vi": "Thép không gỉ dạng thanh và que khác; thép không gỉ ở dạng góc, khuôn và hình khác (+).",
+        "en": "Other bars and rods of stainless steel; angles, shapes and sections of stainless steel (+)."
+      }
+    },
+    {
+      "heading_id": "72.23",
+      "heading_title": {
+        "vi": "Dây thép không gỉ.",
+        "en": "Wire of stainless steel."
+      }
+    },
+    {
+      "heading_id": "72.24",
+      "heading_title": {
+        "vi": "Thép hợp kim khác ở dạng thỏi đúc hoặc dạng thô khác; các bán thành phẩm bằng thép hợp kim khác",
+        "en": "Other alloy steel in ingots or other primary forms; semi-finished products of other alloy steel."
+      }
+    },
+    {
+      "heading_id": "72.25",
+      "heading_title": {
+        "vi": "Thép hợp kim khác được cán phẳng, có chiều rộng từ 600 mm trở lên (+).",
+        "en": "Flat-rolled products of other alloy steel, of a width of 600 mm or more (+)."
+      }
+    },
+    {
+      "heading_id": "72.26",
+      "heading_title": {
+        "vi": "Sản phẩm của thép hợp kim khác được cán phẳng, có chiều rộng dưới 600 mm (+).",
+        "en": "Flat-rolled products of other alloy steel, of a width of less than 600 mm (+)."
+      }
+    },
+    {
+      "heading_id": "72.27",
+      "heading_title": {
+        "vi": "Các dạng thanh và que, của thép hợp kim khác, được cán nóng, dạng cuộn không đều.",
+        "en": "Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel."
+      }
+    },
+    {
+      "heading_id": "72.28",
+      "heading_title": {
+        "vi": "Các dạng thanh và que khác bằng thép hợp kim khác; các dạng góc, khuôn và hình, bằng thép hợp kim khác; thanh và que rỗng, bằng thép hợp kim hoặc không hợp kim.",
+        "en": "Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or non-alloy steel (+)."
+      }
+    },
+    {
+      "heading_id": "72.29",
+      "heading_title": {
+        "vi": "Dây thép hợp kim khác.",
+        "en": "Wire of other alloy steel."
+      }
+    }
+  ]
+}

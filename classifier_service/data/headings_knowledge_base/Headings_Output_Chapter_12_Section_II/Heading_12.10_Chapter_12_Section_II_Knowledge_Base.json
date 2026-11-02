@@ -1,0 +1,46 @@
+{
+  "heading_id": "12.10",
+  "heading_title": {
+    "vi": "Hublong (hoa bia), tươi hoặc khô, đã hoặc chưa nghiền, xay thành bột hoặc ở dạng viên; phấn hoa bia.",
+    "en": "Hop cones, fresh or dried, whether or not ground, powdered or in the form of pellets; lupulin."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hublong (hoa bia, Humulus lupulus), là loại hoa đuôi sóc có vảy, và phấn hoa bia (lupulin). Các sản phẩm này có thể ở dạng tươi hoặc khô, đã hoặc chưa nghiền, xay thành bột hoặc ở dạng viên (được nén trực tiếp hoặc có chất kết dính không quá 3% trọng lượng). Chúng được dùng chủ yếu trong sản xuất bia và làm dược phẩm. Nhóm này không bao gồm chiết xuất từ hublong (nhóm 13.02), phế liệu hublong chưa khai thác hết (nhóm 23.03), và tinh dầu hublong (nhóm 33.01).",
+    "en": "This heading covers hop cones (Humulus lupulus), which are scaly cone-like catkins, and lupulin. These products can be fresh or dried, whether or not ground, powdered, or in the form of pellets (agglomerated by compression or with a binder not exceeding 3% by weight). They are used mainly in the brewing industry and for medicinal purposes. The heading excludes extract of hops (heading 13.02), spent hops (heading 23.03), and the essential oil of hops (heading 33.01)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Hublong là loại hoa đuôi sóc có vảy giống hình nón hoặc hoa của cây hublong (Humulus lupulus). Chúng được dùng chủ yếu trong công nghiệp sản xuất bia tạo hương vị cho bia, nhưng Hublong còn dùng làm dược phẩm. Nhóm 12.10 gồm hublong tươi hay khô, đã hoặc chưa xay, nghiền thành bột hoặc ở dạng viên (nghĩa là, được tích tụ lại bằng cách nén trực tiếp hoặc cho thêm chất kết dính với tỉ lệ không quá 3% trọng lượng).\nPhấn hoa bia là một loại bụi phấn nhựa màu vàng bao phủ hublong, bột này có vị đắng, mùi thơm tạo nên tính đặc trưng của hoa. Phấn hoa được sử dụng trong công nghiệp sản xuất bia như là sản phẩm thay thế phần nào hublong và trong dược phẩm. Phấn hoa được tách khỏi hoa bằng máy móc, sau khi làm khô.\nNhóm này không bao gồm:\n(a) Chiết xuất từ hublong (nhóm 13.02).\n(b) Phế liệu của hublong chưa được khai thác hết (nhóm 23.03).\n(c) Tinh dầu hublong (nhóm 33.01).",
+        "en": "Hop cones are the scaly cone-like catkins or flowers of the hop plant (Humulus lupulus). They are used mainly in the brewing industry to give flavour to the beer, but they are also used for medicinal purposes. The cones fall in this heading whether fresh or dried and whether or not ground or powdered or in the form of pellets (i.e., agglomerated cither directly by compression or by the addition of a binder in a proportion not exceeding 3 % by weight).\nLupulin is a yellow resinous powder which covers the hop cones and contains the bitter, aromatic principle which gives hops their characteristic properties. It is used in brewing as a partial substitute for hops and in medicine. It may be separated from the hops mechanically after drying.\nThe heading excludes :\n(a) Extract of hops (heading 13.02).\n(b) Spent hops (heading 23.03).\n(c) The essential oil of hops (heading 33.01)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1210.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hublong, chưa nghiền và chưa xay thành bột và chưa ở dạng viên",
+        "en": "Hop cones, neither ground nor powdered nor in the form of pellets"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1210.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hublong, đã nghiền, đã xay thành bột hoặc ở dạng viên; phấn hoa bia",
+        "en": "Hop cones, ground, powdered or in the form of pellets; lupulin"
+      }
+    }
+  ]
+}

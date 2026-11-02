@@ -1,0 +1,58 @@
+{
+  "heading_id": "64.04",
+  "heading_title": {
+    "vi": "Giày, dép có đế ngoài bằng cao su, plastic, da thuộc hoặc da tổng hợp và mũ giày bằng vật liệu dệt",
+    "en": "Footwear with outer soles of rubber, plastics, leather or composition leather and uppers of textile materials."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm giày, dép có mũ giày làm bằng vật liệu dệt và đế ngoài làm bằng các vật liệu tương tự như giày, dép của nhóm 64.03, cụ thể là cao su, plastic, da thuộc hoặc da tổng hợp.",
+    "en": "This heading covers footwear with uppers made of textile materials and outer soles made of the same materials as the footwear of heading 64.03, namely rubber, plastics, leather or composition leather."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm giày, dép có phần mũ (xem Chú giải tổng quát, Phần (D)) được làm bằng vật liệu dệt và có đế ngoài (xem Chú giải tổng quát, Phần (C)) được làm bằng các loại vật liệu giống các vật liệu dùng làm đế của giày, dép thuộc nhóm 64.03 (xem Chú giải của nhóm đó).",
+        "en": "This heading covers footwear with uppers (see General Explanatory Note, Part (D)) made of textile materials and with outer soles (see General Explanatory Note, Part (C)) made of the same materials as the footwear of heading 64.03 (see the Explanatory Note to that heading)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Giày, dép có đế ngoài bằng cao su hoặc plastic:",
+        "en": "Footwear with outer soles of rubber or plastics:"
+      },
+      "subheading_id": "6404.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Giày, dép thể thao, giày tennis, giày bóng rổ, giày thể dục, giày luyện tập và các loại tương tự.",
+        "en": "Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Giày, dép có đế ngoài bằng cao su hoặc plastic:",
+        "en": "Footwear with outer soles of rubber or plastics:"
+      },
+      "subheading_id": "6404.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6404.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Giày, dép có đế ngoài bằng da thuộc hoặc da tổng hợp",
+        "en": "Footwear with outer soles of leather or composition leather"
+      }
+    }
+  ]
+}

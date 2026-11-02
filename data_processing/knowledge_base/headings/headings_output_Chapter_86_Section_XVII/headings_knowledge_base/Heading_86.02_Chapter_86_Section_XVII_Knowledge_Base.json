@@ -1,0 +1,53 @@
+{
+  "heading_id": "86.02",
+  "heading_title": {
+    "vi": "Đầu máy di chuyển trên đường ray khác; toa tiếp liệu đầu máy.",
+    "en": "Other rail locomotives; locomotive tenders"
+  },
+  "summary": {
+    "vi": "Nhóm 86.02 bao gồm các loại đầu máy di chuyển trên đường ray, trừ những loại chạy bằng nguồn điện ngoài hoặc ắc quy thuộc nhóm 86.01. Nhóm này phân loại đầu máy dựa trên nguồn năng lượng, bao gồm động cơ hơi nước, diesel, tua bin khí, động cơ xăng và máy khí nén. Cụ thể, nó bao gồm ba loại đầu máy diesel chính là điện-diesel, thủy lực-diesel và cơ-diesel. Ngoài ra, các loại đầu máy hơi nước như đầu máy tua bin, đầu máy có két nước và đầu máy không lò lửa cũng thuộc nhóm này. Nhóm này cũng áp dụng cho các đầu máy công suất vừa phải dùng để di chuyển toa xe trong ga hoặc khu công nghiệp. Bên cạnh đầu máy, nhóm còn bao gồm cả các toa tiếp liệu chuyên dụng, là phương tiện được móc vào đầu máy hơi nước để chở nước và nhiên liệu. Tuy nhiên, cần lưu ý rằng các xe kéo được thiết kế để hoạt động trên cả đường bộ và đường sắt bị loại trừ và được phân loại vào nhóm 87.01.",
+    "en": "Heading 86.02 covers rail locomotives, excluding those powered by external electricity or accumulators which fall under heading 86.01. This heading classifies locomotives based on their power source, including steam, diesel, gas turbine, petrol, and pneumatic power engines. Specifically, it includes three main types of diesel locomotives: diesel-electric, diesel-hydraulic, and diesel-mechanical. Additionally, various steam locomotives such as turbine, tank, and fireless locomotives are also classified here. The heading also applies to moderate-power locomotives used for shunting wagons in stations or industrial areas. Besides locomotives, the heading also covers locomotive tenders, which are vehicles coupled to steam locomotives to carry water and fuel. It is important to note that tractors designed to travel on both road and rail are excluded and classified under heading 87.01."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các đầu máy đường sắt trừ loại được cung cấp nguồn điện từ bên ngoài hoặc từ các ắc quy điện (nhóm 86.01), không phụ thuộc vào loại động cơ (động cơ hơi nước, động cơ diesel, tua bin khí, động cơ xăng, máy khí nén). Cụ thể bao gồm: (1) Các đầu máy điêzen gồm ba loại: (a) điện - diesel, (b) thuỷ lực - diesel, (c) cơ - diesel. (2) Các đầu máy hơi nước các loại, kể cả đầu máy có tua bin, đầu máy có mang két nước và đầu máy không có lò lửa. Nhóm này cũng bao gồm một số đầu máy xe lửa công suất vừa phải, không có giá chuyển hướng, dùng để di chuyển toa xe goòng ở ga hoặc cơ sở công nghiệp. Ngoài ra, nhóm này còn bao gồm Toa tiếp liệu, là phương tiện được móc vào đầu máy hơi nước để chở nước và nhiên liệu (than đá hoặc dầu FO).",
+        "en": "This group covers all types of rail locomotives other than those powered from an external source of electricity or by electric accumulators (heading 86.01), whatever the type of power unit (steam engine, diesel engine, gas turbine, petrol engine, pneumatic power engine). These include: (1) Diesel locomotives which are of three types: (a) Diesel-electric locomotives, (b) Diesel-hydraulic locomotives, (c) Diesel-mechanical locomotives. (2) Steam locomotives of all types, including turbine locomotives, tank locomotives and fireless locomotives. The heading includes certain locomotives of moderate power which are not equipped with bogies, used for moving wagons in stations and by industrial facilities. The heading also covers Locomotive Tenders, which are vehicles coupled to steam locomotives that carry water and fuel (coal or fuel-oil)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các xe kéo được chế tạo để có thể vừa di chuyển trên đường ray và cả trên đường bộ được loại trừ khỏi nhóm này (nhóm 87.01).",
+        "en": "Tractors constructed to travel on both road and rail are excluded from this heading (heading 87.01)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8602.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đầu máy diesel truyền động điện.",
+        "en": "Diesel-electric locomotives"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8602.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

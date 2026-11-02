@@ -1,0 +1,86 @@
+{
+  "heading_id": "44.02",
+  "heading_title": {
+    "vi": "Than củi (kể cả than đốt từ vỏ quả hoặc hạt), đã hoặc chưa đóng thành khối.",
+    "en": "Wood charcoal (including shell or nut charcoal), whether or not agglomerated."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm than củi thu được khi gỗ bị carbon hoá không tiếp xúc với không khí, dù ở dạng khối, que, hạt, bột, hoặc được đóng thành khối (bánh, viên). Nó cũng bao gồm các sản phẩm tương tự thu được từ việc carbon hoá vỏ dừa hoặc các loại vỏ khác. Đặc điểm nhận dạng là nhẹ hơn nước và trong mẩu than có thể thấy thớ gỗ. Nhóm này không bao gồm: than củi dạng dược phẩm (Chương 30), than củi trộn với hương trầm (nhóm 33.07), than hoạt tính (nhóm 38.02), và than vẽ (bút chì than) (nhóm 96.09).",
+    "en": "This heading covers wood charcoal obtained when wood is carbonised out of contact with air, whether in the form of blocks, sticks, granules, powder, or agglomerated (briquettes, tablets). It also includes similar products from carbonising coconut or other shells. A distinguishing feature is that it is lighter than water and shows the grain of the wood. The heading excludes: wood charcoal in the form of medicaments (Chapter 30), wood charcoal mixed with incense (heading 33.07), activated carbon (heading 38.02), and drawing charcoals (heading 96.09)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Than củi thu được khi gỗ bị carbon hoá và không có tiếp xúc với không khí. Nó được phân loại vào nhóm này dù ở dạng khối, que hay ở dạng hạt hay bột, hoặc được đóng thành khối cùng với nhựa đường hay các chất liệu khác ở dạng bánh, viên hay khối cầu...",
+        "en": "Wood charcoal is obtained when wood is carbonised out of contact with air. It is classified in this heading whether in the form of blocks, sticks or in granules or powder, or agglomerated with tar or other substances in briquettes, tablets, balls, etc."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Than củi, không giống carbon động vật hoặc carbon khoáng, nó nhẹ hơn nước và trong mẩu than nhìn thấy thớ gỗ.",
+        "en": "Wood charcoal, unlike animal or mineral carbon, is lighter than water and in the piece shows the grain of wood."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các sản phẩm tương tự thu được bởi sự carbon hoá vỏ dừa hay các loại vỏ khác cũng được phân loại vào nhóm này.",
+        "en": "The similar products obtained by carbonising coconut or other shells also fall in this heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (a) Than củi ở dạng dược phẩm được định nghĩa trong Chương 30. (b) Than củi trộn với hương trầm, dưới dạng viên hoặc các dạng khác (nhóm 33.07). (c) Than hoạt tính (nhóm 38.02).",
+        "en": "The heading excludes: (a) Wood charcoal put up in the form of medicaments as defined in Chapter 30. (b) Wood charcoal mixed with incense, put up in tablets or other forms (heading 33.07). (c) Activated carbon (heading 38.02)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(d) Than vẽ (bút chì than) (nhóm 96.09).",
+        "en": "(d) Drawing charcoals (charcoal pencils) (heading 96.09)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4402.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Của tre",
+        "en": "Of bamboo"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4402.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Của vỏ quả hoặc hạt",
+        "en": "Of shell or nut"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4402.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

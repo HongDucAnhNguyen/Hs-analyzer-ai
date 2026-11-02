@@ -1,0 +1,155 @@
+{
+  "heading_id": "90.27",
+  "heading_title": {
+    "vi": "Dụng cụ và thiết bị phân tích lý hoặc hóa học (ví dụ, máy đo phân cực, đo khúc xạ, quang phổ kế, máy phân tích khí hoặc khói); dụng cụ và thiết bị đo hoặc kiểm tra độ nhớt, độ xốp, độ giãn nở, sức căng bề mặt hoặc các loại tương tự; dụng cụ và thiết bị đo hoặc kiểm tra nhiệt lượng, âm lượng hoặc ánh sáng (kể cả máy đo độ phơi sáng); thiết bị vi phẫu.",
+    "en": "Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes."
+  },
+  "summary": {
+    "vi": "Nhóm 90.27 bao gồm một loạt các dụng cụ và thiết bị phức tạp dùng cho phân tích lý hoặc hóa học. Phạm vi của nhóm này rất rộng, bao gồm các thiết bị đo các đặc tính quang học của vật chất như phân cực kế, khúc xạ kế, và quang phổ kế. Nhóm cũng bao gồm các máy phân tích thành phần hóa học như máy phân tích khí hoặc khói, sắc ký, điện di, và khối phổ kế. Ngoài ra, các dụng cụ đo các đặc tính vật lý như độ nhớt, độ xốp, sức căng bề mặt, và độ giãn nở cũng thuộc nhóm này. Các thiết bị đo lường nhiệt, âm, hoặc ánh sáng, ví dụ như nhiệt lượng kế, quang kế, và máy đo độ phơi sáng, cũng được phân loại ở đây. Cuối cùng, nhóm này bao gồm cả thiết bị vi phẫu (microtome) dùng để cắt các lát mẫu cực mỏng. Cần lưu ý rằng nhóm này không bao gồm dụng cụ thủy tinh đơn giản trong phòng thí nghiệm (nhóm 70.17), máy móc thử nghiệm vật liệu (nhóm 90.24), và các dụng cụ đo lường thuộc nhóm 90.25 hoặc 90.26. Các bộ phận và phụ kiện chuyên dụng cho các thiết bị này cũng thuộc nhóm 90.27.",
+    "en": "Heading 90.27 covers a wide variety of complex instruments and apparatus for physical or chemical analysis. Its scope is extensive, including instruments for measuring the optical properties of substances such as polarimeters, refractometers, and spectrometers. The heading also includes apparatus for chemical composition analysis like gas or smoke analyzers, chromatographs, electrophoresis instruments, and mass spectrometers. Additionally, instruments for measuring physical properties like viscosity, porosity, surface tension, and expansion fall under this heading. Apparatus for measuring quantities of heat, sound, or light, for instance, calorimeters, photometers, and exposure meters, are also classified here. Finally, the heading includes microtomes, which are used for cutting extremely thin sections of specimens. It is important to note that this heading excludes simple laboratory glassware (heading 70.17), material testing machines (heading 90.24), and measuring instruments of heading 90.25 or 90.26. Parts and accessories specifically for these instruments are also classified in heading 90.27."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Các phân cực kế, để đo góc quay của mặt phẳng phân cực của tia sáng.\n(2) Dụng cụ phân tích bản ảnh để phân tích ánh sáng bị phân cực.\n(3) Dụng cụ đo nồng độ đường (phân cực kế đặc biệt).\n(4) Khúc xạ kế, để xác định chỉ số khúc xạ của chất lỏng hoặc rắn. Chúng được sử dụng rộng rãi trong công nghiệp thực phẩm, thủy tinh, lọc dầu và sinh học.\n(5) Các phổ kế để đo bước sóng của các tia phổ phát xạ hoặc hấp thụ.",
+        "en": "This heading includes:\n(1) Polarimeters, for measuring the angle of rotation of the plane of polarisation of a ray of light.\n(2) Half-shadow polarimeters for analysing polarised light.\n(3) Saccharimeters (special polarimeters) for determining the strength of sugar solutions.\n(4) Refractometers, for determining the refractive index of liquids or solids. They are widely used in the food, glass, oil refining and biology industries.\n(5) Spectrometers, used to measure the wave-lengths of emission and absorption spectra."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm phổ kế bao gồm: kính quang phổ, quang phổ ký, và đơn sắc kế. Nhóm này không bao gồm kính thiên văn quang phổ (nhóm 90.05), máy chiếu quang phổ (nhóm 90.08), kính hiển vi vi kế (nhóm 90.11), và dụng cụ phân tích phổ điện (nhóm 90.30).\n(6) Các phổ ký trọng lượng và các thiết bị tương tự để phân tích cấu tạo đồng vị. Loại trừ các thiết bị tách đồng vị (nhóm 84.01).\n(7) Các dụng cụ đo màu - sắc kế, dùng để xác định màu của một chất hoặc nồng độ của chất trong dung dịch. Nhóm này cũng bao gồm các máy đo độ đục, hấp thụ kế, huỳnh quang kế, khí cụ đo độ trắng và độ mờ.\n(8) Các thiết bị phân tích khí hoặc khói để xác định hàm lượng các khí như carbon dioxit, carbon monoxit, oxy, hydro, nitơ.",
+        "en": "The spectrometer group includes: spectroscopes, spectrographs, and monochromators. This heading excludes spectroheliographs (heading 90.05), spectrum projectors (heading 90.08), micrometric microscopes (heading 90.11), and spectrum analysers for electrical quantities (heading 90.30).\n(6) Mass spectrographs and similar apparatus for analysing isotopic constitution. Calutrons for isotopic separation are excluded (heading 84.01).\n(7) Colorimeters, used to determine the colour of a substance or the concentration of a substance in a solution. This group also includes nephelometers, turbidimeters, absorptiometers, fluorimeters, blancometers and opacimeters.\n(8) Gas or smoke analysis apparatus for determining the content of gases such as carbon dioxide, carbon monoxide, oxygen, hydrogen, nitrogen."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Thiết bị phân tích khí hoặc khói hoạt động dựa trên nhiều nguyên lý: (i) dụng cụ Orsat (hấp thụ hóa học), (ii) đốt hoặc nổ, (i) độ dẫn nhiệt, (ii) hiệu ứng nhiệt của khí cháy, (iii) hấp thụ chọn lọc tia, (iv) độ thấm từ, (v) phản ứng phát quang, (vi) ion hóa ngọn lửa, (vii) độ dẫn điện của thuốc thử, (viii) phản ứng điện hóa. Nhóm này bao gồm các thiết bị công nghiệp nối trực tiếp với lò, nhưng không bao gồm dụng cụ thủy tinh đơn giản trong phòng thí nghiệm (nhóm 70.17).\n(9) Các máy dò khói điện tử, dùng cho lò nung, lò đốt, hoạt động dựa trên sự thay đổi dòng điện trong tế bào quang điện do khói.",
+        "en": "Gas or smoke analysis apparatus operate on various principles: (i) Orsat's apparatus (chemical absorption), (ii) combustion or explosion, (i) heat conductivity, (ii) heating effect of combustible gases, (iii) selective absorption of radiations, (iv) magnetic permeability, (v) chemiluminescent reactions, (vi) flame ionisation, (vii) conductivity of a liquid reagent, (viii) electrochemical reaction. This heading includes industrial apparatus directly connected to furnaces, but excludes simple laboratory glassware (heading 70.17).\n(9) Electronic smoke detectors, used in furnaces and ovens, operating on the variation of current in a photoelectric cell caused by smoke."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Máy dò khói chỉ có báo động thuộc nhóm 85.31.\n(10) Máy đo khí nổ mỏ than và dụng cụ phát hiện khí khác.\n(11) Thiết bị đo bụi trong các khí, hoạt động bằng cách lọc và cân.\n(12) Thiết bị đo hàm lượng oxy hoà tan trong chất lỏng.\n(13) Dụng cụ phân cực để xác định thành phần chất lỏng.\n(14) Dụng cụ phân tích bằng hoá ẩm để xác định thành phần hữu cơ hoặc vô cơ của chất lỏng (ví dụ COD, TOC).\n(15) Các thước đo nhớt.\n(16) Các phân cực nghiệm để đo biến dạng bên trong thủy tinh.\n(17) Dụng cụ đo độ giãn nở của vật liệu.",
+        "en": "Smoke detectors equipped solely with an alarm fall in heading 85.31.\n(10) Fire damp detectors and other gas detectors.\n(11) Apparatus for dust analysis in gases, operating by filtering and weighing.\n(12) Oxygen meters for determining dissolved oxygen in liquids.\n(13) Polarographic analysers for determining components of liquids.\n(14) Wet-chemical analysers for determination of inorganic or organic components of liquids (e.g., COD, TOC).\n(15) Viscometers.\n(16) Polariscopes (strain viewers) for measuring internal strains in glass.\n(17) Expansion meters for measuring expansion or contraction of materials."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "(18) Dụng cụ xác định độ xốp hoặc độ thấm.\n(19) Dụng cụ đo sức căng bề mặt hoặc mặt tiếp xúc của chất lỏng.\n(20) Dụng cụ xác định áp suất thẩm thấu (thẩm thấu kế).\n(21) Dụng cụ thử dầu mỏ và các dẫn xuất của nó (ví dụ, xác định điểm chớp cháy, điểm đông).\n(22) Thước đo nồng độ pH và khí cụ đo thế năng oxy hoá khử (thước rH).\n(23) Dụng cụ sử dụng hiện tượng điện di.\n(24) Các sắc ký (lỏng, khí, ion, lớp mỏng) để xác định thành phần của khí hoặc chất lỏng.",
+        "en": "(18) Apparatus for the determination of porosity or permeability.\n(19) Instruments for measuring the surface or interfacial tension of liquids.\n(20) Apparatus for measuring osmotic pressure (osmometers).\n(21) Apparatus for testing mineral oils and their derivatives (e.g., for determining flash point, setting point).\n(22) pH meters and rH (redoxpotential) meters.\n(23) Electrophoresis instruments.\n(24) Chromatographs (gas, liquid, ion, thin-layer) for the determination of gas or liquid components."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(25) Các công cụ chuẩn độ điện tử.\n(26) Các công cụ phân tích chất rắn (\"ẩm kế cho chất rắn\") dựa trên hằng số điện môi, độ dẫn điện, hoặc sự hấp thụ năng lượng.\n(27) Dụng cụ đo tính dẫn điện của chất lỏng.\n(28) Các vi quang kế và mật độ kế tế vi.\n(29) Các quang kế đo cường độ ánh sáng, bao gồm cả quang phổ kế.\n(30) Các lux kế đo độ sáng.\n(31) Các nhiệt lượng kế đo lượng nhiệt hấp thụ hoặc tỏa ra. Gồm hai loại chính: (A) nhiệt lượng kế nước đá (Bunsen) và (B) nhiệt lượng kế nung (Berthelot).",
+        "en": "(25) Electronic titration instruments.\n(26) Analytical instruments for solids (\"moisture meters for solids\") based on dielectric constant, electrical conductivity, or energy absorption.\n(27) Conductivity meters for liquids.\n(28) Photoelectric cell densitometers and microdensitometers.\n(29) Photometers for measuring the intensity of light, including spectrophotometers.\n(30) Luxmeters for determining light intensity.\n(31) Calorimeters for measuring amounts of heat absorbed or given off. The main categories are: (A) Ice calorimeters (Bunsen's) and (B) Heating calorimeters (Berthelot)."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "Các loại nhiệt lượng kế bao gồm: (i) loại xác định nhiệt đặc biệt của khí hoặc nhiên liệu lỏng, và (ii) nhiệt lượng kế bom để xác định nhiệt đốt. Nhiệt lượng kế công nghiệp cũng thuộc nhóm này, trừ khi chúng được kết nối với thiết bị điều chỉnh (nhóm 90.32).\n(32) Khí cụ nghiệm lạnh và khí cụ nghiệm sôi (trừ loại có đặc tính của đồ thủy tinh, nhóm 70.17).\n(33) Dụng cụ và thiết bị dùng trong phòng thí nghiệm lâm sàng để chẩn đoán in vitro.\nNhóm này cũng gồm các dao vi cắt (microtomes) để cắt các mẫu cực mỏng.\nCÁC BỘ PHẬN VÀ PHỤ KIỆN: Các bộ phận và phụ kiện được xác định là chỉ dùng hoặc chủ yếu cho các dụng cụ trên cũng được phân loại trong nhóm này.\nLoại trừ: (a) thiết bị phòng thí nghiệm bằng vật liệu chịu lửa hoặc gốm (Chương 69); (b) dụng cụ thủy tinh phòng thí nghiệm (nhóm 70.17); (c) kính hiển vi (nhóm 90.11 hoặc 90.12); (d) cân chính xác (nhóm 90.16); (e) máy tia X (nhóm 90.22).",
+        "en": "Types of calorimeters include: (i) those for determining the specific heat of gases or liquid fuels, and (ii) bomb calorimeters for determining heats of combustion. Industrial calorimeters are also included, unless connected to regulating apparatus (heading 90.32).\n(32) Cryoscopes and ebullioscopes (other than those having the character of laboratory glassware, heading 70.17).\n(33) Instruments and apparatus used in clinical laboratories for in vitro diagnostic testing.\nThis heading also includes microtomes for cutting very thin sections.\nPARTS AND ACCESSORIES: Parts and accessories identifiable as being solely or principally for use with the above instruments are also classified in this heading.\nExcludes: (a) laboratory equipment of refractory or ceramic materials (Chapter 69); (b) laboratory glassware (heading 70.17); (c) microscopes (heading 90.11 or 90.12); (d) precision balances (heading 90.16); (e) X-ray apparatus (heading 90.22)."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "Loại trừ thêm: (f) thiết bị trưng bày (nhóm 90.23); (g) máy và thiết bị thử vật liệu (nhóm 90.24); (h) tỷ trọng kế, nhiệt kế, ẩm kế (nhóm 90.25); (ij) thiết bị thuộc nhóm 90.26.\nViệc phân loại giữa nhóm này và nhóm 70.17 (dụng cụ thủy tinh phòng thí nghiệm) được quyết định bởi đặc tính cơ bản của sản phẩm. Nếu đặc tính cơ bản là của thủy tinh (dù đã chia độ) thì thuộc nhóm 70.17. Nếu nó bao gồm chủ yếu các vật liệu khác, hoặc có các bộ phận thủy tinh gắn cố định vào khung, nó sẽ mất đi đặc tính của thủy tinh. Việc kết hợp với các dụng cụ đo lường (áp kế, nhiệt kế) có thể làm cho nó thuộc nhóm này. Nhóm này cũng loại trừ các máy móc và thiết bị thuộc Phần XVI (lò, tủ sấy, máy ly tâm) và đồ nội thất phòng thí nghiệm (Chương 94 hoặc 96).",
+        "en": "Further exclusions: (f) demonstrational apparatus (heading 90.23); (g) machines for testing materials (heading 90.24); (h) hydrometers, thermometers, hygrometers (heading 90.25); (ij) apparatus of heading 90.26.\nClassification between this heading and heading 70.17 (laboratory glassware) is governed by the essential character of the article. If it has the essential character of glassware (even if graduated), it falls in heading 70.17. If it consists mainly of other materials, or has glass parts permanently fixed in frames, it generally loses the character of glassware. Combination with measuring instruments (pressure gauges, thermometers) may provide grounds for classification in this heading. This heading also excludes machines and apparatus of Section XVI (ovens, desiccators, centrifuges) and laboratory furniture (Chapter 94 or 96)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9027.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thiết bị phân tích khí hoặc khói",
+        "en": "Gas or smoke analysis apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9027.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy sắc ký và điện di",
+        "en": "Chromatographs and electrophoresis instruments"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9027.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Quang phổ kế, ảnh phổ và quang phổ ký sử dụng bức xạ quang học (tia cực tím, tia có thể nhìn thấy được, tia hồng ngoại)",
+        "en": "Spectrometers, spectrophotometers and spectrographs using optical radiations (UV, visible, IR)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9027.50",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Dụng cụ và thiết bị khác sử dụng bức xạ quang học (tia cực tím, tia có thể nhìn thấy được, tia hồng ngoại)",
+        "en": "Other instruments and apparatus using optical radiations (UV, visible, IR)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác:",
+        "en": "- Other instruments and apparatus:"
+      },
+      "subheading_id": "9027.81",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Khối phổ kế",
+        "en": "-- Mass spectrometers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác:",
+        "en": "- Other instruments and apparatus:"
+      },
+      "subheading_id": "9027.89",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "-- Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9027.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thiết bị vi phẫu; các bộ phận và phụ kiện",
+        "en": "Microtomes; parts and accessories"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "heading_id": "90.12",
+  "heading_title": {
+    "vi": "Kính hiển vi trừ kính hiển vi quang học; thiết bị nhiễu xạ.",
+    "en": "Microscopes other than optical microscopes; diffraction apparatus."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại kính hiển vi không dùng tia sáng quang học, chủ yếu là kính hiển vi điện tử (kể cả kính hiển vi điện tử quét), kính hiển vi proton và các thiết bị nhiễu xạ điện tử. Chúng hoạt động bằng cách sử dụng chùm điện tử hoặc proton. Nhóm này cũng bao gồm các bộ phận và phụ kiện chuyên dụng cho các thiết bị này. Tuy nhiên, nhóm này không bao gồm bơm chân không (nhóm 84.14), thiết bị điện như pin và bộ chỉnh lưu (Chương 85), và các dụng cụ đo điện như vôn kế (nhóm 90.30).",
+    "en": "This heading covers microscopes that do not use optical light rays, primarily electron microscopes (including scanning electron microscopes), proton microscopes, and electron diffraction apparatus. They operate using beams of electrons or protons. The heading also includes parts and accessories solely or principally for use with these instruments. However, it excludes vacuum pumps (heading 84.14), electrical equipment such as batteries and rectifiers (Chapter 85), and electrical measuring instruments like voltmeters (heading 90.30)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(A) Các kính hiển vi điện tử, khác với kính hiển vi quang học ở chỗ chúng dùng những chùm điện tử thay vì các tia sáng.\nKính hiển vi điện tử kiểu thông thường là một tập hợp của các bộ phận, thường được chứa trong cùng một khung tạo thành một thiết bị.",
+        "en": "This heading includes:\n(A) Electron microscopes differ from optical microscopes in that they use a beam of electrons instead of light rays.\nThe normal type of electron microscope is an assembly of the following devices usually enclosed in a common frame as a unit:"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các bộ phận của kính hiển vi điện tử bao gồm: (1) Súng điện tử; (2) Hệ thống thấu kính tĩnh điện hoặc điện từ; (3) Bàn soi mẫu; (4) Thiết bị bơm chân không; (5) Thiết bị quan sát và ghi lại hình ảnh; (6) Các giá và bảng điều khiển.\nNhóm này cũng bao gồm các kính hiển vi điện tử quét trong đó một chùm điện tử rất mịn được nhiều lần hướng trực tiếp đến những điểm khác nhau của mẫu cần xem xét.\n(B) Các kính hiển vi Proton trong đó các điện tử được thay thế bằng các proton có bước sóng ngắn hơn. Cấu trúc và chức năng của chúng không khác biệt đáng kể so với kính hiển vi điện tử.\n(C) Các thiết bị ghi nhiễu xạ điện tử bằng cách thức hướng trực tiếp một chùm điện tử vào một mẫu, những thiết bị này sẽ vẽ ra các biểu đồ ghi nhiễu xạ và được chụp ảnh. Các máy này không khác mấy về nguyên lý so với các kính hiển vi điện tử, và một số kính hiển vi điện tử có thể được trang bị một buồng nhiễu xạ để thực hiện chức năng kép.",
+        "en": "The components of an electron microscope include: (1) An electron gun; (2) A system of electrostatic or electromagnetic “lenses”; (3) The specimen stage; (4) The vacuum pump unit; (5) Elements for visual observation and photographic recording; (6) Control stands and panels.\nThis heading also includes scanning electron microscopes in which a very fine beam of electrons is directed repeatedly onto different points of the sample.\n(B) Proton microscopes. In place of electrons, these employ protons which have a shorter wavelength. Their structure and functioning do not differ appreciably from those of the electron microscope.\n(C) Electron diffraction apparatus. By means of a beam of electrons directed at a specimen, these produce diffraction patterns which are photographed. This apparatus does not differ appreciably in principle from an electron microscope, and certain electron microscopes may be equipped with a diffraction chamber to perform a double function."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "CÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo các quy định của Chú giải 1 và 2 của Chương này (xem Chú giải tổng quát), các bộ phận và phụ kiện thích hợp chỉ sử dụng hoặc chủ yếu sử dụng cùng các kính hiển vi, ngoại trừ kính hiển vi quang học, hay các thiết bị ghi nhiễu xạ cũng được phân loại ở đây; ví dụ như khung và các khoang cấu thành của chúng và bàn soi mẫu. Mặt khác, nhóm này không bao gồm bơm chân không (nhóm 84.14), thiết bị điện (ắc quy, chỉnh lưu...) (Chương 85), và các dụng cụ đo điện (vôn kế, miliampe kế, ...) (nhóm 90.30).",
+        "en": "PARTS AND ACCESSORIES\nSubject to the provisions of Notes 1 and 2 to this Chapter (see the General Explanatory Note), parts and accessories suitable for use solely or principally with microscopes, other than optical microscopes, or diffraction apparatus are also classified here; examples are the frame and its constituent chambers and the specimen stage. On the other hand, the heading excludes vacuum pumps (heading 84.14), electrical equipment (batteries, rectifiers, etc.) (Chapter 85), and electrical measuring instruments (voltmeters, milliammeters, etc.) (heading 90.30)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9012.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Kính hiển vi trừ kính hiển vi quang học; thiết bị nhiễu xạ",
+        "en": "Microscopes other than optical microscopes; diffraction apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9012.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

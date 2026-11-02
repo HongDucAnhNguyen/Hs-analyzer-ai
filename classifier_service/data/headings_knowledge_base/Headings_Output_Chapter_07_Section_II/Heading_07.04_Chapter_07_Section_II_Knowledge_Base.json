@@ -1,0 +1,58 @@
+{
+  "heading_id": "07.04",
+  "heading_title": {
+    "vi": "Bắp cải, súp lơ, su hào, cải xoăn và cây họ bắp cải ăn được tương tự, tươi hoặc ướp lạnh.",
+    "en": "Cabbages, cauliflowers, kohlrabi, kale and similar edible brassicas, fresh or chilled."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm tươi hoặc ướp lạnh như: (1) Súp lơ và súp lơ xanh; (2) Cải Bruc-xen; (3) Các loại khác dạng bắp thuộc chi Brassica (ví dụ: Bắp cải trắng, bắp cải vùng Savoy, bắp cải đỏ, bắp cải Trung Quốc), bắp cải vụ xuân, bắp cải xoăn và các loại rau họ bắp cải lá khác, cũng như các loại bắp cải đã mọc mầm khác và su hào.\nTuy nhiên, nhóm này không bao gồm các loại rễ củ khác thuộc chi Brassica (như củ cải nhóm 07.06, cải củ Thụy Điển (rutabaga) của nhóm 12.14).",
+    "en": "This heading includes fresh or chilled products such as: (1) Cauliflowers and broccoli; (2) Brussels sprouts; (3) Other headed brassicas (e.g., white cabbage, Savoy cabbage, red cabbage, Chinese cabbage), collards, kale and other leafy brassicas, as well as other sprouting brassicas, and kohlrabi.\nHowever, this heading excludes other brassicas in the form of roots (e.g., turnips of heading 07.06, swedes (rutabagas) of heading 12.14)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại sản phẩm tươi hoặc ướp lạnh thuộc nhóm này bao gồm:\n(1) Súp lơ và súp lơ xanh (ví dụ. Brassica oleracea botrytis và Brassica oleracea var. italica).\n(2) Cải Bruc-xen.\n(3) Các loại khác dạng bắp thuộc chi Brassica (ví dụ: Bắp cải trắng, bắp cải vùng Savoy, bắp cải đỏ, bắp cải Trung Quốc), bắp cải vụ xuân, bắp cải xoăn và những loại rau thuộc họ bắp cải lá khác, cũng như các loại bắp cải đã mọc mầm khác và su hào.\nTuy nhiên, nhóm này không bao gồm các loại rễ củ khác thuộc chi Brassica (như củ cải nhóm 07.06, cải củ Thụy Điển (rutabaga) của nhóm 12.14).",
+        "en": "The fresh or chilled products of this heading include the following :\n(1) Cauliflowers and broccoli (e.g., Brassica oleracea botrytis and Brassica oleracea var. italica).\n(2) Brussels sprouts.\n(3) Other headed brassicas, (e.g., white cabbage, Savoy cabbage, red cabbage, Chinese cabbage), collards, kale and other leafy brassicas, as well as other sprouting brassicas, and kohlrabi.\nOther brassicas in the form of roots are, however, excluded (e.g., turnips of heading 07.06, swedes (rutabagas) of heading 12.14)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0704.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Súp lơ và súp lơ xanh",
+        "en": "Cauliflowers and broccoli"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0704.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cải Bruc-xen",
+        "en": "Brussels sprouts"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0704.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

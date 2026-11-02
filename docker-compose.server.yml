@@ -1,0 +1,329 @@
+version: '3.8'
+
+# ============================================================================
+# Server-specific Docker Compose
+# Uses existing RabbitMQ, Redis, and Qdrant on the server
+# Changes API port to 8081 to avoid conflict with pdf-server on 8080
+# ============================================================================
+
+services:
+  # ============================================================================
+  # MinIO (Object Storage for large file handling)
+  # ============================================================================
+  minio:
+    image: minio/minio:latest
+    container_name: hscode-minio
+    ports:
+      - "9000:9000"      # API port
+      - "9001:9001"      # Console UI
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER:-minioadmin}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-minioadmin123}
+    volumes:
+      - minio_data:/data
+    command: server /data --console-address ":9001"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - hscode-network
+
+  # ============================================================================
+  # Unified API Gateway (combines both RAG and Classifier services)
+  # Port changed to 8081 to avoid conflict with pdf-server
+  # ============================================================================
+  unified-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hscode-unified-api
+    ports:
+      - "8081:8081"
+    networks:
+      - hscode-network
+    depends_on:
+      minio:
+        condition: service_healthy
+    environment:
+      # API Configuration
+      - PYTHONPATH=/app
+      - API_HOST=0.0.0.0
+      - API_PORT=8081
+      - API_WORKERS=${API_WORKERS:-4}
+      - DEBUG=${DEBUG:-False}
+      
+      # LLM API Keys
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - CO_API_KEY=${CO_API_KEY}
+      
+      # RAG Service Configuration
+      - LLM_PROVIDER=${LLM_PROVIDER:-gemini}
+      - LLM_MODEL=${LLM_MODEL:-gemini-2.5-flash}
+      
+      # Classifier Service Configuration
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gemini-2.5-flash}
+      - LLM_TEMPERATURE=${LLM_TEMPERATURE:-0.0}
+      
+      # Qdrant configuration (uses existing Qdrant on host)
+      - QDRANT_HOST=${QDRANT_HOST:-localhost}
+      - QDRANT_PORT=${QDRANT_PORT:-6333}
+      - QDRANT_URL=http://${QDRANT_HOST:-localhost}:${QDRANT_PORT:-6333}
+      - QDRANT_COLLECTION=${QDRANT_COLLECTION:-hs_code_db_gemini}
+      
+      # Optional services
+      - ES_URL=${ES_URL}
+      - GRAPH_DB_URL=${GRAPH_DB_URL}
+      - GRAPH_USER=${GRAPH_USER}
+      - GRAPH_PASSWORD=${GRAPH_PASSWORD}
+      - DB_NAME=${DB_NAME}
+      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
+      - LOGFIRE_ENVIRONMENT=${LOGFIRE_ENVIRONMENT:-production}
+      - OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT=true
+      
+      # Redis and RabbitMQ configuration (using host.docker.internal to access host services)
+      - REDIS_URL=redis://host.docker.internal:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@host.docker.internal:5672/
+      
+      # MinIO Configuration
+      - MINIO_INTERNAL_ENDPOINT=minio:9000
+      - MINIO_EXTERNAL_ENDPOINT=${MINIO_EXTERNAL_ENDPOINT:-34.143.173.34:9000}
+      - MINIO_ROOT_USER=${MINIO_ROOT_USER:-minioadmin}
+      - MINIO_ROOT_PASSWORD=${MINIO_ROOT_PASSWORD:-minioadmin123}
+      - MINIO_BUCKET=${MINIO_BUCKET:-excel-reports}
+      - MINIO_SECURE=${MINIO_SECURE:-false}
+      
+      # Authentication Configuration
+      - AUTH_USERNAME=${AUTH_USERNAME}
+      - AUTH_PASSWORD_HASH=${AUTH_PASSWORD_HASH}
+      - ACCESS_TOKEN_EXPIRE_MINUTES=${ACCESS_TOKEN_EXPIRE_MINUTES}
+      - REFRESH_TOKEN_EXPIRE_DAYS=${REFRESH_TOKEN_EXPIRE_DAYS}
+      - JWT_SECRET_KEY=${JWT_SECRET_KEY}
+      
+      # Email Configuration (for Password Rotation)
+      - SMTP_SERVER=${SMTP_SERVER}
+      - SMTP_PORT=${SMTP_PORT}
+      - SMTP_USERNAME=${SMTP_USERNAME}
+      - SMTP_PASSWORD=${SMTP_PASSWORD}
+      - EMAIL_SENDER=${EMAIL_SENDER}
+      - EMAIL_RECIPIENTS=${EMAIL_RECIPIENTS}
+      
+      # Botasaurus/Chrome configuration
+      - DISPLAY=:99
+    volumes:
+      - ./rag_service:/app/rag_service
+      - ./classifier_service:/app/classifier_service
+      - ./crawl_service:/app/crawl_service
+      - ./shared:/app/shared
+      - ./main.py:/app/main.py
+      - ./logging_config.py:/app/logging_config.py
+      - ./logs:/app/logs
+      - ./profiles:/app/profiles
+      - ./auth:/app/auth
+      - ./.env:/app/.env
+    shm_size: 2gb
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  # ============================================================================
+  # Celery Worker - Classifier Service (for async classification tasks)
+  # Uses existing RabbitMQ and Redis on host
+  # ============================================================================
+  classifier-worker:
+    build:
+      context: ./classifier_service
+      dockerfile: Dockerfile
+    container_name: hscode-classifier-worker
+    networks:
+      - hscode-network
+    command: uv run celery -A classifier_service.core.celery_app worker --loglevel=info --concurrency=4 -Q celery
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      # Redis and RabbitMQ configuration (using host.docker.internal to access host services)
+      - PYTHONPATH=/app
+      - REDIS_URL=redis://host.docker.internal:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@host.docker.internal:5672/
+      
+      # LLM Configuration
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - CO_API_KEY=${CO_API_KEY}
+      - LLM_PROVIDER=${LLM_PROVIDER:-gemini}
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gemini-2.5-flash}
+      - LLM_TEMPERATURE=${LLM_TEMPERATURE:-0.0}
+      
+      # Logfire
+      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
+      - LOGFIRE_ENVIRONMENT=${LOGFIRE_ENVIRONMENT:-production}
+      - OTEL_INSTRUMENTATION_GENAI_CAPTURE_MESSAGE_CONTENT=true
+    volumes:
+      - ./classifier_service:/app/classifier_service
+      - ./shared:/app/shared
+      - ./logs:/app/logs
+    restart: unless-stopped
+
+  # ============================================================================
+  # Celery Worker - Crawl Service (for async crawl/HS database tasks)
+  # Uses existing RabbitMQ and Redis on host
+  # ============================================================================
+  crawl-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hscode-crawl-worker
+    networks:
+      - hscode-network
+    command: >
+      bash -c "
+        Xvfb :99 -screen 0 1920x1080x24 -ac +extension GLX +render -noreset &
+        sleep 2 &&
+        uv run celery -A crawl_service.core.celery_app worker --loglevel=info --concurrency=2 -Q crawl_queue
+      "
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      - REDIS_URL=redis://host.docker.internal:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@host.docker.internal:5672/
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - CO_API_KEY=${CO_API_KEY}
+      - LLM_PROVIDER=${LLM_PROVIDER:-gemini}
+      - LLM_MODEL=${LLM_MODEL:-gemini-2.5-flash}
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gemini-2.5-flash}
+      - DISPLAY=:99
+      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
+      - LOGFIRE_ENVIRONMENT=${LOGFIRE_ENVIRONMENT:-production}
+    volumes:
+      - ./crawl_service:/app/crawl_service
+      - ./rag_service:/app/rag_service
+      - ./logs:/app/logs
+      - ./profiles:/app/profiles
+    shm_size: 2gb
+    restart: unless-stopped
+
+  # ============================================================================
+  # Celery Worker - Report Service (for async Excel/TRAINS tasks)
+  # Uses existing RabbitMQ and Redis on host
+  # ============================================================================
+  report-worker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: hscode-report-worker
+    networks:
+      - hscode-network
+    command: >
+      bash -c "
+        Xvfb :99 -screen 0 1920x1080x24 -ac +extension GLX +render -noreset &
+        sleep 2 &&
+        uv run celery -A report_service.core.celery_app worker --loglevel=info --concurrency=2 -Q report_queue
+      "
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      - REDIS_URL=redis://host.docker.internal:6379/0
+      - RABBITMQ_URL=amqp://admin:admin123@host.docker.internal:5672/
+      - QDRANT_URL=http://host.docker.internal:6333
+      - MINIO_INTERNAL_ENDPOINT=minio:9000
+      - MINIO_EXTERNAL_ENDPOINT=${MINIO_EXTERNAL_ENDPOINT:-136.115.248.10:9000}
+      - MINIO_ROOT_USER=${MINIO_ROOT_USER:-minioadmin}
+      - MINIO_ROOT_PASSWORD=${MINIO_ROOT_PASSWORD:-minioadmin123}
+      - MINIO_BUCKET=${MINIO_BUCKET:-excel-reports}
+      - MINIO_SECURE=${MINIO_SECURE:-false}
+      - DISPLAY=:99
+      # Logfire
+      - LOGFIRE_TOKEN=${LOGFIRE_TOKEN}
+      - LOGFIRE_ENVIRONMENT=${LOGFIRE_ENVIRONMENT:-production}
+      
+      # LLM Configuration (for prefill_mode: llm and CAS extraction)
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - COHERE_API_KEY=${COHERE_API_KEY}
+      - CO_API_KEY=${CO_API_KEY}
+      - LLM_PROVIDER=${LLM_PROVIDER:-gemini}
+      - LLM_MODEL=${LLM_MODEL:-gpt-4o-mini}
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-gpt-4o-mini}
+      - LLM_TEMPERATURE=${LLM_TEMPERATURE:-0.0}
+    volumes:
+      - ./report_service:/app/report_service
+      - ./logs:/app/logs
+      - ./profiles:/app/profiles
+    shm_size: 2gb
+    depends_on:
+      minio:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # ============================================================================
+  # Celery Flower (monitoring UI for ALL Celery tasks)
+  # Uses existing RabbitMQ and Redis on host
+  # ============================================================================
+  celery-flower:
+    build:
+      context: ./classifier_service
+      dockerfile: Dockerfile
+    container_name: hscode-celery-flower
+    command: uv run celery -A classifier_service.core.celery_app flower --port=5555
+    ports:
+      - "5555:5555"
+    networks:
+      - hscode-network
+    environment:
+      # Use existing Redis on host (via host.docker.internal)
+      - REDIS_URL=redis://host.docker.internal:6379/0
+      
+      # Use existing RabbitMQ on host (via host.docker.internal)
+      - RABBITMQ_URL=amqp://admin:admin123@host.docker.internal:5672/
+    volumes:
+      - ./classifier_service:/app/classifier_service
+      - ./logs:/app/logs
+    depends_on:
+      - classifier-worker
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+# ============================================================================
+# Volumes
+# ============================================================================
+volumes:
+  minio_data:
+    driver: local
+
+# ============================================================================
+# Networks
+# ============================================================================
+networks:
+  hscode-network:
+    driver: bridge
+
+# ============================================================================
+# Notes:
+# - This compose file is for DEPLOYMENT ONLY (no Qdrant, Redis, RabbitMQ)
+# - Make sure these services are running on the server:
+#   * hscode-qdrant (port 6333, 6334)
+#   * hscode-rabbitmq (port 5672, 15672) 
+#   * hscode-redis (port 6379)
+# - API runs on port 8081 (not 8080) to avoid conflict with pdf-server
+# - Flower monitoring: http://server-ip:5555
+# - API: http://server-ip:8081
+# - MinIO Console: http://server-ip:9001
+# - MinIO API: http://server-ip:9000
+# - For full stack deployment, use docker-compose-full.yml instead
+#
+# Password Rotation (Cron):
+# - Runs automatically every Sunday at 11:00 UTC (18:00 Vietnam Time)
+# - Updates AUTH_PASSWORD_HASH in .env file
+# - Sends new password via email to EMAIL_RECIPIENTS
+# - Logs: ./logs/password_rotation.log
+# - Manual run: docker exec hscode-unified-api /app/run_password_rotation.sh
+# ============================================================================

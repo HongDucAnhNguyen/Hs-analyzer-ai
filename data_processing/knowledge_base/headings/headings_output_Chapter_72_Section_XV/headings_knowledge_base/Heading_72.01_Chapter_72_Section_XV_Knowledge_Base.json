@@ -1,0 +1,65 @@
+{
+  "heading_id": "72.01",
+  "heading_title": {
+    "vi": "Gang thỏi và, gang kính ở dạng thỏi, dạng khối hoặc dạng thô khác.",
+    "en": "Pig iron and, Spiegeleisen in pigs, blocks or other primary forms."
+  },
+  "summary": {
+    "vi": "Nhóm 72.01 bao gồm gang thỏi và gang kính ở các dạng thô như thỏi, khối, cục hoặc ở trạng thái nóng chảy. Gang thỏi, được định nghĩa tại Chú giải 1(a) của Chương này, là một hợp kim sắt-cacbon thô chứa các nguyên tố khác như silic, mangan, lưu huỳnh và phốt pho. Nhóm này cũng bao gồm gang thỏi hợp kim theo định nghĩa của Chú giải phân nhóm 1(a). Gang kính, được định nghĩa tại Chú giải 1(b), có hàm lượng mangan cao và chủ yếu được sử dụng trong sản xuất thép. Nhóm này áp dụng cho cả vật liệu thô và vật liệu đã được nấu lại, miễn là thành phần hóa học vẫn tuân thủ định nghĩa. Tuy nhiên, các sản phẩm đã được tạo hình hoặc gia công, như sản phẩm đúc hay ống, đều bị loại trừ. Thép crôm chứa hơn 2% cacbon cũng bị loại trừ và được phân loại vào Phân chương IV theo Chú giải 1(d).",
+    "en": "Heading 72.01 covers pig iron and spiegeleisen in primary forms such as pigs, blocks, lumps, or in a molten state. Pig iron, as defined in Note 1(a) to this Chapter, is a primary iron-carbon alloy containing other elements like silicon, manganese, sulfur, and phosphorus. This heading also includes alloy pig iron as defined by Subheading Note 1(a). Spiegeleisen, defined in Note 1(b), has a high manganese content and is primarily used in steel manufacturing. The heading applies to both crude and remelted materials, provided their chemical composition remains within the specified limits. However, shaped or worked articles, such as castings or tubes, are excluded. Chromium steels containing more than 2% carbon are also excluded and are classified in Sub-Chapter IV according to Note 1(d)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Việc phân loại các hợp kim của kim loại đen và của các sản phẩm hợp chất được nêu trong Chú giải chung của Phần XV.",
+        "en": "The classification of alloys of ferrous metals and of composite articles is dealt with in the General Explanatory Note to Section XV."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Phân chương I bao gồm: (1) Các vật liệu thô của luyện kim sắt và gang (gang thỏi, gang kính, hợp kim fero, các sản phẩm chứa sắt được hoàn nguyên trực tiếp từ quặng sắt và các sản phẩm sắt xốp khác, phế liệu và mảnh vụn và thỏi đúc phế liệu nấu lại) và sắt có hàm lượng nguyên chất tối thiểu 99,94% (nhóm 72.01 đến 72.04). (2) Hạt và bột của gang thỏi, gang kính, sắt hoặc thép (nhóm 72.05).",
+        "en": "The sub-Chapter covers: (1) The primary materials of iron and steel metallurgy (pig iron, spiegeleisen, ferro-alloys, ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, waste and scrap and remelting scrap ingots) and iron having a minimum purity by weight of 99.94 % (headings 72.01 to 72.04). (2) Granules and powders, of pig iron, spiegeleisen, iron or steel (heading 72.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7201.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Gang thỏi không hợp kim có hàm lượng phospho từ 0,5% trở xuống tính theo trọng lượng",
+        "en": "Non-alloy pig iron containing by weight 0.5 % or less of phosphorus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7201.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Gang thỏi không hợp kim có hàm lượng phospho trên 0,5% tính theo trọng lượng",
+        "en": "Non-alloy pig iron containing by weight more than 0.5 % of phosphorus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7201.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Gang thỏi hợp kim; gang kính",
+        "en": "Alloy pig iron; spiegeleisen"
+      }
+    }
+  ]
+}

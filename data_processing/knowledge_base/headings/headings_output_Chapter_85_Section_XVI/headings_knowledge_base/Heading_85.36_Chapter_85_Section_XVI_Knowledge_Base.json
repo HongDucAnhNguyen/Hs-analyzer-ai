@@ -1,0 +1,170 @@
+{
+  "heading_id": "85.36",
+  "heading_title": {
+    "vi": "Thiết bị điện để đóng ngắt mạch hay bảo vệ mạch điện, hoặc dùng để đấu nối hay lắp trong mạch điện (ví dụ, cầu dao, rơ le, công tắc, chi tiết đóng ngắt mạch, cầu chì, bộ triệt xung điện, phích cắm, ổ cắm, đui đèn và các đầu nối khác, hộp đấu nối), dùng cho điện áp không quá 1.000V; đầu nối dùng cho sợi quang, bó sợi quang hoặc cáp quang.",
+    "en": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, relays, fuses, surge suppressors, plugs, sockets, lamp-holders and other connectors, junction boxes), for a voltage not exceeding 1,000 volts; connectors for optical fibres, optical fibre bundles or cables."
+  },
+  "summary": {
+    "vi": "Nhóm 85.36 bao gồm các thiết bị điện dùng cho điện áp không quá 1.000V, sử dụng trong gia dụng và công nghiệp. Nhóm này phân loại ba loại thiết bị chính: thiết bị đóng ngắt mạch, thiết bị bảo vệ mạch, và thiết bị đấu nối. Thiết bị đóng ngắt bao gồm công tắc các loại (gia dụng, công nghiệp, điện tử), bộ chuyển mạch và rơ le. Thiết bị bảo vệ mạch chủ yếu là cầu chì và các bộ ngắt mạch tự động để chống quá tải. Thiết bị đấu nối gồm phích cắm, ổ cắm, đui đèn, các loại đầu nối, và hộp đấu nối. Ngoài ra, nhóm này còn bao gồm các đầu nối dùng riêng cho sợi quang, bó sợi hoặc cáp quang. Các bộ phận của những thiết bị này được phân loại ở nhóm 85.38. Nhóm này loại trừ các thiết bị cho điện áp trên 1.000V (nhóm 85.35), các cụm lắp ráp phức tạp (nhóm 85.37), máy biến áp (nhóm 85.04), bộ điều chỉnh điện áp tự động (nhóm 90.32), và các đầu nối sợi quang đã đi kèm cáp (nhóm 85.44 hoặc 90.01).",
+    "en": "Heading 85.36 covers electrical apparatus for a voltage not exceeding 1,000V, used in domestic and industrial applications. This heading classifies three main types of apparatus: for switching, for protecting, and for making connections in electrical circuits. Switching apparatus includes various switches (domestic, industrial, electronic), change-over switches, and relays. Protective apparatus mainly consists of fuses and automatic circuit breakers to prevent overload. Connection apparatus includes plugs, sockets, lamp-holders, various connectors, and junction boxes. Additionally, the heading covers connectors specifically for optical fibers, fiber bundles, or cables. Parts for these apparatus are classified under heading 85.38. This heading excludes apparatus for voltages exceeding 1,000V (heading 85.35), complex assemblies (heading 85.37), transformers (heading 85.04), automatic voltage regulators (heading 90.32), and optical fiber connectors with cables (heading 85.44 or 90.01)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các thiết bị điện dùng cho điện áp không quá 1000V, thường dùng cho thiết bị gia dụng hoặc công nghiệp. Các thiết bị dùng cho điện áp trên 1000V thuộc nhóm 85.35. Nhóm này cũng bao gồm các đầu nối dùng cho sợi quang, bó sợi quang hoặc cáp quang.",
+        "en": "This heading covers electrical apparatus for a voltage not exceeding 1,000 volts generally used for dwellings or industrial equipment. Apparatus for a voltage exceeding 1,000 volts is covered by heading 85.35. This heading also covers connectors for optical fibres, optical fibre bundles or cables."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(I) THIẾT BỊ ĐÓNG NGẮT MẠCH ĐIỆN: Gồm các thiết bị đóng và ngắt một hoặc nhiều mạch điện.\n(A) Công tắc: bao gồm công tắc nhỏ cho radio, thiết bị đo; công tắc trong lắp đặt điện gia dụng (công tắc lật, gạt, xoay, đạp chân, nút ấn); công tắc công nghiệp (công tắc hành trình, cam, siêu nhỏ, gần). Cũng bao gồm công tắc hoạt động khi đóng mở cửa, tắcte (starters) cho đèn huỳnh quang, công tắc AC điện tử, công tắc điện tử bảo vệ nhiệt, công tắc tác động nhanh cơ điện tử, và công tắc điện tử không tiếp xúc. Loại trừ chốt cửa có gắn công tắc (nhóm 83.01).\n(B) Bộ chuyển mạch: dùng để kết nối một hoặc nhiều đường dây. Bao gồm bộ khởi động động cơ điện, bộ điều khiển cho xe điện (có thể gồm cả điện trở thuộc nhóm 85.33), và các bộ đóng ngắt phức tạp cho radio, TV.\n(C) Rơ le: thiết bị điều khiển tự động mạch điện, dùng trong viễn thông, tín hiệu đường bộ hoặc đường sắt, điều khiển máy công cụ.",
+        "en": "The heading includes:\n(I) APPARATUS FOR SWITCHING ELECTRICAL CIRCUITS: Consists of devices for making or breaking one or more circuits.\n(A) Switches: including small switches for radio apparatus, electrical instruments; switches for domestic wiring (tumbler, lever operated, rotary, pendant, push button); and industrial switches (limit, cam, micro, proximity). Also includes switches operated by doors, automatic thermo-electric switches (starters) for fluorescent lamps, electronic AC switches, temperature protected electronic switches, electro-mechanical snap-action switches, and contactless electronic switches. Excludes door locks which incorporate a switch (heading 83.01).\n(B) Change-over switches: used to connect one or more lines. Includes starting switches for electric motors, control gear for electric vehicles (which may include resistors of heading 85.33), and complicated switching-units for radio or television sets.\n(C) Relays: electrical devices for automatic circuit control, used in telecommunication, road or rail signalling apparatus, and for controlling machine-tools."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các loại rơ le được phân biệt bởi: (1) cách điều khiển điện (điện từ, nam châm vĩnh cửu, nhiệt, cảm ứng, tĩnh điện, quang điện, điện tử); (2) điều kiện hoạt động (dòng điện cực đại, điện áp cực đại/cực tiểu, vi sai, tác động nhanh, thời gian trễ). Công tắc tơ cũng được xem là rơ le.\n(II) THIẾT BỊ BẢO VỆ MẠCH ĐIỆN: Bao gồm cầu chì (cầu chì ống và các loại khác), các ổ cắm và đầu nối trình bày riêng (trừ loại hoàn toàn bằng vật liệu cách điện thuộc nhóm 85.47). Dây chảy có sẵn vòng nối để sử dụng cũng thuộc nhóm này. Nhóm này cũng bao gồm các thiết bị ngăn ngừa quá tải khác như thiết bị điện-từ tự động cắt mạch. Loại trừ máy biến áp ổn áp (nhóm 85.04) và bộ điều chỉnh điện áp tự động (nhóm 90.32).\n(III) THIẾT BỊ ĐẤU NỐI HOẶC LẮP TRONG MẠCH ĐIỆN.",
+        "en": "Relays are distinguished by: (1) the electrical means of control (electromagnetic, permanent magnet, thermo-electric, induction, electro-static, photoelectric, electronic); (2) the operating conditions (maximum current, maximum or minimum voltage, differential, fast acting cut-out, time delay). Contactors are also considered as relays.\n(II) APPARATUS FOR PROTECTING ELECTRICAL CIRCUITS: Includes fuses (cartridge fuses and others), sockets and connecting pieces presented separately (except those wholly of insulating material of heading 85.47). Short lengths of fuse wire ready for use remain in this heading. The heading also includes other devices for preventing overload, such as electro-magnetic devices that automatically break the circuit. Excludes constant voltage transformers (heading 85.04) and automatic voltage regulators (heading 90.32).\n(III) APPARATUS FOR MAKING CONNECTIONS TO OR IN ELECTRICAL CIRCUITS."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Thiết bị đấu nối bao gồm:\n(A) Phích cắm, ổ cắm và các loại tiếp xúc khác: (1) Phích cắm và ổ cắm; (2) Tiếp xúc trượt như chổi than cho động cơ và bộ lấy điện (trừ loại bằng 'than' hoặc graphit thuộc nhóm 85.45); (3) Đui đèn và ổ cắm đèn. Loại trừ các phích cắm và ổ cắm đã được lắp với dây dẫn (nhóm 85.44).\n(B) Các khối đấu nối, dải đấu nối, và bộ nối điện khác: bao gồm domino, các đầu nối kim loại, kẹp cá sấu, và các dải đầu cuối.\n(C) Hộp đấu nối: các hộp có gắn đầu nối bên trong. Hộp rỗng được phân loại theo vật liệu cấu thành.\n(IV) ĐẦU NỐI DÙNG CHO SỢI QUANG, BÓ SỢI HOẶC CÁP QUANG: là các đầu nối chỉ thực hiện việc sắp xếp cơ học các sợi quang đầu đối đầu, không khuếch đại, tái tạo hay hiệu chỉnh tín hiệu. Các đầu nối không có cáp vẫn được phân loại ở nhóm này.",
+        "en": "Connection apparatus includes:\n(A) Plugs, sockets and other contacts: (1) Plugs and sockets; (2) Sliding contacts such as brushes for motors and current-collectors (other than articles of 'carbon' or graphite of heading 85.45); (3) Lamp or valve sockets and lamp-holders. Excludes plugs and sockets assembled with a length of wire (heading 85.44).\n(B) Other connectors, terminals, terminal strips, etc.: includes dominoes, metal terminals, crocodile clips, and tag strips.\n(C) Junction boxes: boxes fitted internally with terminals. Empty boxes are classified according to their constituent material.\n(IV) CONNECTORS FOR OPTICAL FIBRES, OPTICAL FIBRE BUNDLES OR CABLES: are connectors that simply mechanically align optical fibres end to end. They perform no other function such as amplification, regeneration or modification of a signal. Connectors for optical fibres, without cables, remain classified in this heading."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Đầu nối có cáp dùng cho sợi quang bị loại trừ (nhóm 85.44 hoặc 90.01).\nBỘ PHẬN: Theo quy tắc chung, các bộ phận của thiết bị thuộc nhóm này được phân loại vào nhóm 85.38.\nLOẠI TRỪ: Nhóm này cũng không bao gồm:\n(a) Các điện trở phi tuyến dùng như bộ điều khiển điện áp (nhóm 85.33).\n(b) Các cụm lắp ráp (trừ các cụm đóng-ngắt đơn giản) của các thiết bị nêu trên (nhóm 85.37).\n(c) Các đi ốt bán dẫn được dùng như bộ điều khiển điện áp (nhóm 85.41).",
+        "en": "Connectors for optical fibres with cables are excluded (heading 85.44 or 90.01).\nPARTS: Subject to the general provisions regarding the classification of parts, parts of the apparatus of this heading are classified in heading 85.38.\nEXCLUSIONS: The heading also excludes:\n(a) Non-linear voltage resistors (varistors/VDR) used as voltage controllers (heading 85.33).\n(b) Assemblies (other than simple switch assemblies) of the apparatus mentioned above (heading 85.37).\n(c) Semiconductor diodes used as voltage controllers (heading 85.41)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8536.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cầu chì",
+        "en": "Fuses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8536.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ ngắt mạch tự động",
+        "en": "Automatic circuit breakers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8536.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị bảo vệ mạch điện khác",
+        "en": "Other apparatus for protecting electrical circuits"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Rơ le",
+        "en": "Relays"
+      },
+      "subheading_id": "8536.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dùng cho điện áp không quá 60 V",
+        "en": "For a voltage not exceeding 60 V"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Rơ le",
+        "en": "Relays"
+      },
+      "subheading_id": "8536.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8536.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị đóng ngắt mạch khác",
+        "en": "Other switches"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đui đèn, phích cắm và ổ cắm",
+        "en": "Lamp-holders, plugs and sockets"
+      },
+      "subheading_id": "8536.61",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đui đèn",
+        "en": "Lamp-holders"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đui đèn, phích cắm và ổ cắm",
+        "en": "Lamp-holders, plugs and sockets"
+      },
+      "subheading_id": "8536.69",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8536.70",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đầu nối dùng cho sợi quang, bó sợi quang hoặc cáp quang",
+        "en": "Connectors for optical fibres, optical fibre bundles or cables"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8536.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị khác",
+        "en": "Other apparatus"
+      }
+    }
+  ]
+}

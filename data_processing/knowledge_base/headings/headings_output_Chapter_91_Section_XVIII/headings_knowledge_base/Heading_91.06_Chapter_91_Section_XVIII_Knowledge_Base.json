@@ -1,0 +1,67 @@
+{
+  "heading_id": "91.06",
+  "heading_title": {
+    "vi": "Thiết bị ghi thời gian và các thiết bị dùng để đo, ghi hoặc biểu thị các khoảng thời gian bằng cách khác, kèm theo máy đồng hồ thời gian và đồng hồ cá nhân hoặc kèm theo động cơ đồng bộ (ví dụ, thiết bị chấm công (time-registers), thiết bị ghi thời gian).",
+    "en": "Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, time-registers, time-recorders)."
+  },
+  "summary": {
+    "vi": "Nhóm 91.06 bao gồm các thiết bị ghi nhận thời gian trong ngày và các thiết bị đo, ghi hoặc chỉ báo các khoảng thời gian. Điều kiện tiên quyết để phân loại vào nhóm này là chúng phải được vận hành bằng máy đồng hồ cá nhân, đồng hồ thời gian, hoặc động cơ đồng bộ. Nhóm này bao gồm một loạt các sản phẩm như thiết bị chấm công của nhân viên, máy ghi thời gian cho bồ câu đưa thư, đồng hồ chỉ báo của nhân viên bảo vệ, và các loại đồng hồ bấm giờ dùng trong thể thao hoặc để đo lường các quy trình ngắn. Tuy nhiên, nhóm này có nhiều loại trừ quan trọng. Cụ thể, các dụng cụ và thiết bị của Chương 90 không có mặt số chỉ thời gian, như máy ghi địa chấn (90.15), máy ghi khí áp (90.25), và các loại máy đếm (90.29, 90.31), đều bị loại trừ. Các loại đồng hồ cá nhân như đồng hồ bấm giờ (91.01, 91.02), thiết bị đóng ngắt định giờ (91.07), và máy nhịp (92.09) cũng không thuộc nhóm này. Ngoài ra, các bộ phận như vỏ (91.12) và máy đồng hồ (91.08 đến 91.10, 91.14) nếu được trình bày riêng lẻ cũng bị loại trừ.",
+    "en": "Heading 91.06 covers apparatus for recording the time of day and apparatus for measuring, recording, or otherwise indicating intervals of time. The prerequisite for classification in this heading is that they must be operated by a clock or watch movement, or a synchronous motor. This heading includes a wide range of products such as employee time-registers, pigeon-timers, watchmen's tell-tales, and various stop-clocks used in sports or for measuring short processes. However, this heading has several important exclusions. Specifically, instruments and apparatus of Chapter 90 that do not have a time dial, such as seismographs (90.15), barographs (90.25), and various counters (90.29, 90.31), are excluded. Personal timepieces like stop-watches (91.01, 91.02), time switches (91.07), and metronomes (92.09) are also not included in this heading. Furthermore, parts such as cases (91.12) and movements (91.08 to 91.10, 91.14) are excluded if presented separately."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các thiết bị ghi thời gian trong ngày và các thiết bị đo, ghi, hoặc chỉ ra các khoảng thời gian, với điều kiện chúng hoạt động bằng máy đồng hồ cá nhân, đồng hồ thời gian hoặc động cơ đồng bộ. Các thiết bị này có thể có hoặc không có mặt số. Cụ thể bao gồm: (1) Thiết bị chấm công: dùng để ghi lại thời gian đến và rời khỏi nơi làm việc của nhân viên, có thể được nối với bộ chuông hay còi (được đề cập trong Chú giải nhóm 91.05).",
+        "en": "This heading covers apparatus for recording the time of day and apparatus for measuring, recording, or otherwise indicating intervals of time, provided they are operated by a watch or clock movement or a synchronous motor. Such apparatus may or may not have dials. Specifically includes: (1) Time-registers: for recording the arrival and departure of employees, may be connected to a striking mechanism or a siren (as mentioned in the Explanatory Note to heading 91.05)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm: (2) Thiết bị ghi thời gian tương tự thiết bị chấm công nhưng ghi cả tháng, năm, số thứ tự; (3) Đồng hồ chỉ báo của nhân viên bảo vệ; (4) Máy ghi thời gian dùng cho bồ câu đưa thư; (5) Thiết bị kiểm soát tần số chính; (6) Đồng hồ dùng để đo thời gian diễn ra các hiện tượng ngắn; (7) Đồng hồ để bàn hay đồng hồ ở sân vận động dùng cho các hoạt động thể thao; (8) Đồng hồ bấm giờ để đo thời gian của một số quá trình. Nhóm này không bao gồm: đồng hồ đo thời gian bằng điện hay điện tử không có máy kiểu đồng hồ hoặc không có động cơ đồng bộ (nhóm 90.31); đồng hồ thời gian ở sân vận động có mặt số chỉ thời gian (nhóm 91.05).",
+        "en": "This heading includes: (2) Time-recorders similar to time-registers but also marking the month, the year, a serial number; (3) Watchmen’s tell-tales; (4) Pigeon-timers; (5) Master frequency control instruments; (6) Timers for measuring the duration of short-lived phenomena; (7) Table or stadium timers for sporting events; (8) Stop-clocks for measuring the duration of some processes. This heading excludes: Electric or electronic timers without a movement of the clock type or a synchronous motor (heading 90.31); Stadium clocks with clock dials (heading 91.05)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này bao gồm: (9) Đồng hồ đo thời gian nói chuyện điện thoại; (10) Đồng hồ ghi thời gian cho hoạt động thể thao; (11) Đồng hồ ghi tiến trình dùng cho một khoảng thời gian ngắn; (12) Đồng hồ phụ được điều khiển bởi đồng hồ chính; (13) Máy đếm cho trò chơi bi-a; (14) Đồng hồ bấm giờ cho những người chơi cờ. Nhóm này không bao gồm khi được trình bày riêng: vỏ (nhóm 91.12), máy đồng hồ cá nhân hoặc đồng hồ thời gian (các nhóm từ 91.08 đến 91.10), và các bộ phận của máy đồng hồ này (nhóm 91.10 hay 91.14). Nhóm cũng loại trừ: Dụng cụ của Chương 90 không có mặt số thời gian, ví dụ: máy ghi thủy triều và máy ghi địa chấn (nhóm 90.15), máy ghi khí áp và máy ghi nhiệt (nhóm 90.25), áp kế (nhóm 90.26), đồng hồ đo lượng cung cấp hay tiêu thụ (nhóm 90.28), máy đếm vòng quay, máy đếm sản phẩm, đồng hồ tốc độ, máy đo tốc độ góc, đồng hồ tính tiền gắn trên tắc xi, đồng hồ đếm bước và máy đo đường cong (nhóm 90.29, 90.31).",
+        "en": "This heading includes: (9) Timers for registering the duration of telephone conversations; (10) Time-recorders for sporting events; (11) Process timers for short periods of time; (12) Secondary clocks operated by a master clock; (13) Billiards meters; (14) Time clocks for chess-players. The heading excludes when presented separately: cases (heading 91.12), watch or clock movements (headings 91.08 to 91.10), and parts of such movements (heading 91.10 or 91.14). The heading also excludes: Instruments of Chapter 90 not equipped with a time dial, such as recording tide gauges and seismographs (heading 90.15), barographs and thermographs (heading 90.25), manometers (heading 90.26), supply or production meters (heading 90.28), revolution counters, production counters, speed indicators, tachometers, taximeters, pedometers and opisometers (heading 90.29, 90.31)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm: (b) Đồng hồ cá nhân tính giờ chính xác, đồng hồ tính giờ và đồng hồ bấm giờ (nhóm 91.01 hoặc 91.02); (c) Máy nhịp (nhóm 92.09).",
+        "en": "The heading also excludes: (b) Chronometer watches, chronograph watches and stop-watches (heading 91.01 or 91.02); (c) Metronomes (heading 92.09)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9106.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị chấm công (time-registers), thiết bị ghi thời gian",
+        "en": "Time-registers; time-recorders"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9106.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

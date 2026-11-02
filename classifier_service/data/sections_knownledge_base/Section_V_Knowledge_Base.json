@@ -1,0 +1,36 @@
+{
+  "section_id": "V",
+  "section_title": {
+    "vi": "KHOÁNG SẢN",
+    "en": "MINERAL PRODUCTS"
+  },
+  "summary": {
+    "vi": "Phần V bao gồm các sản phẩm khoáng, được chia thành ba chương: Chương 25, 26 và 27.\nChương 25 bao gồm muối, lưu huỳnh, đất và đá, vật liệu làm thạch cao, vôi và xi măng. Theo quy định chung, trừ khi có yêu cầu khác, các nhóm của Chương này chỉ bao gồm các sản phẩm ở dạng thô hoặc đã qua các quá trình xử lý cơ bản (rửa, nghiền, sàng...) mà không làm thay đổi cấu trúc sản phẩm, trừ sự kết tinh. Chương này không bao gồm: lưu huỳnh thăng hoa, kết tủa hoặc dạng keo (nhóm 28.02); chất màu từ đất có hàm lượng sắt Fe2O3 từ 70% trở lên (nhóm 28.21); dược phẩm (Chương 30); mỹ phẩm (Chương 33); đá quý hoặc bán quý (nhóm 71.02 hoặc 71.03). Theo Chú giải 3 của Chương 25, bất kỳ sản phẩm nào có thể xếp vào nhóm 25.17 và vào bất kỳ nhóm nào khác của Chương này thì phải được xếp vào nhóm 25.17.\nChương 26 bao gồm quặng, xỉ và tro. Thuật ngữ \"quặng\" dùng để chỉ các khoáng sản thường được sử dụng trong công nghiệp luyện kim để tách chiết thủy ngân, kim loại thuộc nhóm 28.44 hoặc kim loại thuộc Phần XIV hoặc XV. Chương này không bao gồm các khoáng sản đã qua các quy trình không thông thường đối với ngành luyện kim. Các loại trừ chính của chương này bao gồm: xỉ hoặc phế liệu công nghiệp tương tự đã được gia công như đá dăm (nhóm 25.17); magiê carbonat tự nhiên (nhóm 25.19); xỉ bazơ (Chương 31); sợi xỉ, bông len đá (nhóm 68.06); phế liệu kim loại quý (nhóm 71.12 hoặc 85.49); sten đồng, niken, hay coban (Phần XV).\nChương 27 bao gồm nhiên liệu khoáng, dầu khoáng và các sản phẩm chưng cất từ chúng, các chất chứa bi-tum và sáp khoáng chất. Chương này không bao gồm: các hợp chất hữu cơ đã được xác định về mặt hóa học riêng biệt (trừ metan và propan tinh khiết thuộc nhóm 27.11); dược phẩm (nhóm 30.03 hoặc 30.04); và hỗn hợp hydrocarbon chưa no thuộc các nhóm 33.01, 33.02 hoặc 38.05.",
+    "en": "Section V covers mineral products, divided into three chapters: Chapter 25, 26, and 27.\nChapter 25 covers salt, sulphur, earths and stone, plastering materials, lime and cement. As a general rule, except where their context otherwise requires, the headings of this Chapter cover only products in the crude state or which have undergone basic processes (washing, crushing, screening, etc.) without changing the structure of the product, except crystallisation. This Chapter does not cover: sublimed, precipitated or colloidal sulphur (heading 28.02); earth colours containing 70% or more by weight of combined iron as Fe2O3 (heading 28.21); medicaments (Chapter 30); perfumery, cosmetic or toilet preparations (Chapter 33); precious or semi-precious stones (heading 71.02 or 71.03). According to Note 3 to Chapter 25, any products classifiable in heading 25.17 and any other heading of the Chapter are to be classified in heading 25.17.\nChapter 26 covers ores, slag and ash. The term \"ores\" means minerals of mineralogical species actually used in the metallurgical industry for the extraction of mercury, of the metals of heading 28.44 or of the metals of Section XIV or XV. This chapter does not cover minerals which have been submitted to processes not normal to the metallurgical industry. Major exclusions from this chapter include: slag or similar industrial waste prepared as macadam (heading 25.17); natural magnesium carbonate (magnesite) (heading 25.19); basic slag (Chapter 31); slag wool, rock wool (heading 68.06); waste or scrap of precious metal (heading 71.12 or 85.49); and copper, nickel or cobalt mattes (Section XV).\nChapter 27 covers mineral fuels, mineral oils and products of their distillation, bituminous substances, and mineral waxes. This Chapter does not cover: separate chemically defined organic compounds (other than pure methane and propane of heading 27.11); medicaments (heading 30.03 or 30.04); and mixed unsaturated hydrocarbons of headings 33.01, 33.02 or 38.05."
+  },
+  "notes": [],
+  "general": [],
+  "chapters": [
+    {
+      "chapter_id": "25",
+      "chapter_title": {
+        "vi": "Muối; lưu huỳnh; đất và đá; thạch cao, vôi và xi măng",
+        "en": "Salt; sulphur; earths and stone; plastering materials, lime and cement"
+      }
+    },
+    {
+      "chapter_id": "26",
+      "chapter_title": {
+        "vi": "Quặng, xỉ và tro",
+        "en": "Ores, slag and ash"
+      }
+    },
+    {
+      "chapter_id": "27",
+      "chapter_title": {
+        "vi": "Nhiên liệu khoáng, dầu khoáng và các sản phẩm chưng cất từ chúng; các chất chứa bi-tum; các loại sáp khoáng chất",
+        "en": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes"
+      }
+    }
+  ]
+}

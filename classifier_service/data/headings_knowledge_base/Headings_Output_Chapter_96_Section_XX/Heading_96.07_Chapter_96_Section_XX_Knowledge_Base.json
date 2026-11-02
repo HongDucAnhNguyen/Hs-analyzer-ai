@@ -1,0 +1,58 @@
+{
+  "heading_id": "96.07",
+  "heading_title": {
+    "vi": "Khóa kéo và các bộ phận của chúng.",
+    "en": "Slide fasteners and parts thereof."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các khoá kéo thuộc mọi kích thước và cho mọi mục đích sử dụng (ví dụ: quần áo, giầy, đồ du lịch) và các bộ phận của chúng như răng xích, con trượt, mảnh khóa đuôi, đầu và các dải dài gắn răng xích.",
+    "en": "This heading covers slide fasteners of any size and for any purpose (e.g., for clothing, footwear, travel goods) and their parts, such as chain scoops, sliders or runners, end pieces, and narrow strips of any length mounted with chain scoops."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Các khoá kéo thuộc mọi kích thước và cho mọi mục đích sử dụng (quần áo, giầy, các đồ du lịch, v.v.). Đại bộ phận khoá kéo bao gồm hai dải hẹp làm bằng chất liệu dệt, rìa mỗi giải gắn các răng (bằng kim loại, plastic, v.v...) có thể cài vào nhau nhờ một con trượt. Một loại khoá kéo khác gồm hai dải plastic, mỗi dải đều có rìa cấu tạo đặc biệt được thiết kế khoá hai bên lại với nhau bằng cách kéo con trượt.\n(2) Các phụ tùng của khoá kéo, ví dụ răng xích, con trượt, cái mảnh khoá đuôi, đầu, và các dải dài khác nhau gắn răng xích (phéc mơ tuya).",
+        "en": "This heading covers:\n(1) Slide fasteners of any size and for any purpose (for clothing, footwear, travel goods, etc.). Most slide fasteners consist of two narrow strips of textile material one edge of each strip being fitted with scoops (of metal, plastics, etc.), which can be made to interlock by means of a slider or runner. Another type of slide fastener consists of two strips of plastics, each with a specially shaped edge designed to interlock one with the other under the action of a slider.\n(2) Parts of slide fasteners, e.g., chain scoops, sliders or runners, end pieces, and narrow strips of any length mounted with chain scoops."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Khóa kéo:",
+        "en": "- Slide fasteners:"
+      },
+      "subheading_id": "9607.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Có răng bằng kim loại cơ bản",
+        "en": "- - Fitted with chain scoops of base metal"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Khóa kéo:",
+        "en": "- Slide fasteners:"
+      },
+      "subheading_id": "9607.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9607.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Bộ phận",
+        "en": "- Parts"
+      }
+    }
+  ]
+}

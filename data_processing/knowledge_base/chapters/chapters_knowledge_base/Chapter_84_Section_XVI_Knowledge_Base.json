@@ -1,0 +1,822 @@
+{
+  "chapter_id": "84",
+  "chapter_title": {
+    "vi": "Lò phản ứng hạt nhân, nồi hơi, máy và thiết bị cơ khí; các bộ phận của chúng",
+    "en": "Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof"
+  },
+  "summary": {
+    "vi": "Chương 84 bao gồm một phạm vi rộng lớn các loại máy móc và thiết bị cơ khí, từ lò phản ứng hạt nhân, nồi hơi đến động cơ đốt trong và máy công cụ. Chú giải của Chương đóng vai trò quan trọng trong việc phân loại, đặc biệt là quy tắc ưu tiên trong Chú giải 2, quy định rằng các máy móc phù hợp với mô tả trong các nhóm từ 84.01 đến 84.24 hoặc 84.86 sẽ được ưu tiên phân loại vào các nhóm này thay vì các nhóm từ 84.25 đến 84.80. Chương này loại trừ nhiều mặt hàng cụ thể, chuyển chúng sang các chương khác như Chương 68 (đá nghiền), 69 (sản phẩm gốm), 70 (thủy tinh), 73 (sản phẩm sắt thép), và đặc biệt là Chương 85 đối với các máy móc và thiết bị điện chuyên dụng. Chú giải 6 đưa ra định nghĩa chi tiết về \"máy xử lý dữ liệu tự động\" thuộc nhóm 84.71 và các bộ phận liên quan. Chú giải 8 quy định cách phân loại máy đa chức năng dựa trên công dụng chính. Chương cũng đề cập đến các máy móc đặc biệt cho ngành công nghiệp bán dẫn và sản xuất màn hình dẹt tại nhóm 84.86.",
+    "en": "Chapter 84 covers a wide range of machinery and mechanical appliances, from nuclear reactors and boilers to internal combustion engines and machine tools. The Chapter Notes play a crucial role in classification, especially the precedence rule in Note 2, which states that machinery fitting a description in headings 84.01 to 84.24 or 84.86 takes priority over headings 84.25 to 84.80. This chapter excludes many specific items, directing them to other chapters like Chapter 68 (millstones), 69 (ceramics), 70 (glass), 73 (iron and steel articles), and particularly Chapter 85 for specialized electrical machinery and equipment. Note 6 provides a detailed definition of \"automatic data processing machines\" under heading 84.71 and their related units. Note 8 dictates the classification of multi-purpose machines based on their principal function. The chapter also addresses special machinery for the semiconductor and flat panel display industries in heading 84.86."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Chương này không bao gồm: (a) Đá nghiền, đá mài của Chương 68; (b) Máy móc bằng gốm sứ và các bộ phận bằng gốm sứ của Chương 69; (c) Đồ thủy tinh phòng thí nghiệm (nhóm 70.17) và các sản phẩm kỹ thuật bằng thủy tinh khác (nhóm 70.19 hoặc 70.20); (d) Các sản phẩm của nhóm 73.21 hoặc 73.22 và các sản phẩm tương tự bằng kim loại cơ bản khác (Chương 74 đến 76 và 78 đến 81); (e) Máy hút bụi nhóm 85.08; (f) Thiết bị cơ điện gia dụng nhóm 85.09; camera kỹ thuật số nhóm 85.25; (g) Bộ tản nhiệt cho hàng hóa Phần XVII; (h) Máy quét sàn cơ khí không có động cơ (nhóm 96.03).",
+        "en": "1. This Chapter does not cover: (a) Millstones, grindstones of Chapter 68; (b) Machinery of ceramic material of Chapter 69; (c) Laboratory glassware (heading 70.17) and other technical articles of glass (heading 70.19 or 70.20); (d) Articles of heading 73.21 or 73.22 and similar articles of other base metals (Chapters 74 to 76 and 78 to 81); (e) Vacuum cleaners of heading 85.08; (f) Electro-mechanical domestic appliances of heading 85.09; digital cameras of heading 85.25; (g) Radiators for articles of Section XVII; (h) Hand-operated mechanical floor sweepers (heading 96.03)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2. Theo Chú giải 3 Phần XVI và Chú giải 11 Chương này, máy móc thỏa mãn mô tả của một hoặc nhiều nhóm từ 84.01 đến 84.24, hoặc nhóm 84.86 và đồng thời thỏa mãn mô tả của một hoặc nhiều nhóm từ 84.25 đến 84.80 thì được phân loại vào nhóm thích hợp trong số các nhóm từ 84.01 đến 84.24 hoặc 84.86, không phải trong các nhóm 84.25 đến 84.80.",
+        "en": "2. Subject to Note 3 to Section XVI and Note 11 to this Chapter, a machine which answers to a description in one or more of the headings 84.01 to 84.24, or heading 84.86 and at the same time to a description in one or more of the headings 84.25 to 84.80 is to be classified under the appropriate heading of the former group or under heading 84.86, and not the latter group."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) Nhóm 84.19 không bao gồm: (i) Máy ươm hạt, máy ấp trứng và thiết bị sưởi ấm gia cầm (nhóm 84.36); (ii) Máy làm ẩm hạt (nhóm 84.37); (iii) Máy khuếch tán chiết xuất đường quả (nhóm 84.38); (iv) Máy xử lý nhiệt sợi dệt, vải hoặc sản phẩm dệt (nhóm 84.51); (v) Thiết bị phòng thí nghiệm hoặc máy móc cơ khí mà sự thay đổi nhiệt chỉ là phần bổ sung.",
+        "en": "(A) Heading 84.19 does not cover: (i) Germination plant, incubators or brooders (heading 84.36); (ii) Grain dampening machines (heading 84.37); (iii) Diffusing apparatus for sugar juice extraction (heading 84.38); (iv) Machinery for the heat-treatment of textile yarns, fabrics or made up textile articles (heading 84.51); (v) Machinery, plant or laboratory equipment where a change of temperature is subsidiary."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) Nhóm 84.22 không bao gồm: (i) Máy khâu đóng túi hoặc bao bì tương tự (nhóm 84.52); (ii) Máy văn phòng thuộc nhóm 84.72.",
+        "en": "(B) Heading 84.22 does not cover: (i) Sewing machines for closing bags or similar containers (heading 84.52); (ii) Office machinery of heading 84.72."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(C) Nhóm 84.24 không bao gồm: (i) Máy in phun mực (nhóm 84.43); (ii) Máy cắt bằng tia nước (nhóm 84.56).",
+        "en": "(C) Heading 84.24 does not cover: (i) Ink-jet printing machines (heading 84.43); (ii) Water-jet cutting machines (heading 84.56)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "3. Máy công cụ gia công đáp ứng mô tả trong nhóm 84.56 và đồng thời trong các nhóm 84.57, 84.58, 84.59, 84.60, 84.61, 84.64 hoặc 84.65 thì được phân loại trong nhóm 84.56.",
+        "en": "3. A machine-tool for working any material which answers to a description in heading 84.56 and at the same time to a description in heading 84.57, 84.58, 84.59, 84.60, 84.61, 84.64 or 84.65 is to be classified in heading 84.56."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "4. Nhóm 84.57 chỉ áp dụng cho máy công cụ gia công kim loại (trừ máy tiện), có thể thực hiện các thao tác gia công khác nhau bằng: (a) thay đổi công cụ tự động (trung tâm gia công), (b) sử dụng tự động, đồng thời hoặc tuần tự các đầu gia công khác nhau trên vật cố định (máy kết cấu nguyên khối), hoặc (c) di chuyển tự động vật gia công đến các đầu gia công khác nhau (máy gia công chuyển dịch đa vị trí).",
+        "en": "4. Heading 84.57 applies only to machine-tools for working metal, other than lathes, which can carry out different types of machining operations by: (a) automatic tool change from a magazine (machining centres), (b) automatic use of different unit heads on a fixed workpiece (unit construction machines, single station), or (c) automatic transfer of the workpiece to different unit heads (multi-station transfer machines)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "5. Theo mục đích của nhóm 84.62, \"dây chuyền xẻ cuộn\" là dây chuyền xử lý gồm máy xả cuộn, máy làm phẳng cuộn, máy xẻ và máy quấn cuộn. \"Dây chuyền cắt xén thành đoạn\" là dây chuyền xử lý gồm máy xả cuộn, máy làm phẳng cuộn và máy cắt xén.",
+        "en": "5. For the purposes of heading 84.62, a “slitting line” is a processing line composed of an uncoiler, a coil flattener, a slitter and a recoiler. A “cut-to-length line” is a processing line composed of an uncoiler, a coil flattener, and a shear."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "6. (A) Theo mục đích của nhóm 84.71, \"máy xử lý dữ liệu tự động\" là máy có khả năng: (i) Lưu trữ chương trình xử lý và dữ liệu cần thiết; (ii) Lập trình tùy theo yêu cầu người dùng; (iii) Thực hiện các phép tính số học; (iv) Thực hiện chương trình xử lý có biến đổi quy trình bằng quyết định lôgic mà không có sự can thiệp của con người.",
+        "en": "6. (A) For the purposes of heading 84.71, the expression “automatic data processing machines” means machines capable of: (i) Storing the processing program and necessary data; (ii) Being freely programmed by the user; (iii) Performing user-specified arithmetical computations; (iv) Executing a processing program that can modify its own execution by logical decision without human intervention."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "6. (B) Máy xử lý dữ liệu tự động có thể ở dạng hệ thống gồm nhiều khối chức năng riêng biệt. (C) Một khối chức năng được xem là bộ phận của hệ thống nếu: (i) chỉ hoặc chủ yếu sử dụng trong hệ thống xử lý dữ liệu tự động; (ii) có khả năng kết nối với bộ xử lý trung tâm; và (iii) có khả năng tiếp nhận hoặc cung cấp dữ liệu theo định dạng mà hệ thống sử dụng. Các khối chức năng riêng biệt được phân loại trong nhóm 84.71. Tuy nhiên, bàn phím, thiết bị nhập tọa độ X-Y và bộ lưu trữ dạng đĩa đáp ứng điều kiện (ii) và (iii) luôn được phân loại như khối chức năng của nhóm 84.71.",
+        "en": "6. (B) Automatic data processing machines may be systems of separate units. (C) A unit is part of a system if it: (i) is solely or principally used in an automatic data processing system; (ii) is connectable to the central processing unit; and (iii) can accept or deliver data in a form the system can use. Separately presented units are classified in heading 84.71. However, keyboards, X-Y co-ordinate input devices and disk storage units satisfying conditions (ii) and (iii) are in all cases classified as units of heading 84.71."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "6. (D) Nhóm 84.71 không bao gồm các hàng hóa sau đây khi trình bày riêng rẽ: (i) Máy in, máy photocopy, máy fax; (ii) Thiết bị truyền hoặc nhận âm thanh, hình ảnh, dữ liệu; (iii) Loa và micro; (iv) Camera truyền hình, camera kỹ thuật số, camera ghi hình; (v) Màn hình và máy chiếu không kết hợp thiết bị thu truyền hình. (E) Các máy kết hợp hoặc làm việc kết hợp với máy xử lý dữ liệu tự động và thực hiện chức năng riêng biệt khác sẽ được phân loại vào nhóm thích hợp với chức năng đó.",
+        "en": "6. (D) Heading 84.71 does not cover the following when presented separately: (i) Printers, copying machines, facsimile machines; (ii) Apparatus for transmission or reception of voice, images, or other data; (iii) Loudspeakers and microphones; (iv) Television cameras, digital cameras, and video camera recorders; (v) Monitors and projectors not incorporating television reception apparatus. (E) Machines incorporating or working in conjunction with an automatic data processing machine and performing a specific function other than data processing are to be classified in the headings appropriate to their respective functions."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "7. Nhóm 84.82 áp dụng cho các bi thép đã đánh bóng, có dung sai lớn nhất và nhỏ nhất so với đường kính danh nghĩa không quá 1% hoặc không quá 0,05 mm, theo mức dung sai nhỏ hơn. Các loại bi thép khác được xếp vào nhóm 73.26.",
+        "en": "7. Heading 84.82 applies to polished steel balls, where the maximum and minimum diameters do not differ from the nominal diameter by more than 1% or 0.05 mm, whichever is less. Other steel balls are classified in heading 73.26."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "8. Máy móc sử dụng cho hai mục đích trở lên được phân loại theo mục đích sử dụng chính. Theo Chú giải 2 Chương này và Chú giải 3 Phần XVI, máy không có công dụng chính hoặc không được mô tả ở đâu sẽ được phân loại vào nhóm 84.79. Nhóm 84.79 cũng bao gồm máy làm thừng hoặc cáp.",
+        "en": "8. A machine used for more than one purpose is classified according to its principal purpose. Subject to Note 2 to this Chapter and Note 3 to Section XVI, a machine with no principal purpose or not described in any heading is classified in heading 84.79. Heading 84.79 also covers machines for making rope or cable."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "9. Theo nội dung của nhóm 84.70, khái niệm “loại bỏ túi” áp dụng cho máy móc có kích thước không quá 170 mm x 100 mm x 45 mm.",
+        "en": "9. For the purposes of heading 84.70, the term “pocket-size” applies only to machines with dimensions not exceeding 170 mm x 100 mm x 45 mm."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "10. Theo mục đích của nhóm 84.85, “công nghệ sản xuất bồi đắp” (in 3D) là sự hình thành vật thể hữu hình từ mô hình kỹ thuật số bằng cách đắp chồng, hợp nhất và đóng rắn vật liệu. Theo Chú giải 1 Phần XVI và Chú giải 1 Chương 84, máy này được phân loại trong nhóm 84.85.",
+        "en": "10. For the purposes of heading 84.85, “additive manufacturing” (3D printing) is the formation of physical objects from a digital model by successive addition, layering, and consolidation of material. Subject to Note 1 to Section XVI and Note 1 to Chapter 84, such machines are classified in heading 84.85."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "11. (A) Chú giải 9(a) và 9(b) Chương 85 áp dụng cho khái niệm “thiết bị bán dẫn” và “mạch điện tử tích hợp” trong Chú giải này và nhóm 84.86, bao gồm cả thiết bị bán dẫn nhạy sáng và đi-ốt phát quang (LED). (B) “sản xuất màn hình dẹt” bao gồm chế tạo các lớp nền của tấm màn hình dẹt, không bao gồm gia công kính hoặc lắp ráp các bộ phận điện tử. (C) Nhóm 84.86 bao gồm máy móc và thiết bị dùng để: (i) sản xuất hoặc sửa chữa màn và lưới quang; (ii) lắp ghép thiết bị bán dẫn hoặc mạch điện tử tích hợp; (iii) nâng, giữ, xếp hoặc tháo dỡ khối bán dẫn, tấm bán dẫn, thiết bị bán dẫn, mạch điện tử tích hợp và màn hình dẹt. (D) Máy móc đáp ứng mô tả của nhóm 84.86 được phân loại trong nhóm này.",
+        "en": "11. (A) Notes 12(a) and 12(b) to Chapter 85 apply to the expressions “semiconductor devices” and “electronic integrated circuits” as used in this Note and in heading 84.86, also covering photosensitive semiconductor devices and light-emitting diodes (LED). (B) “manufacture of flat panel displays” covers substrate fabrication into a flat panel, excluding glass manufacture or assembly of electronic components. (C) Heading 84.86 includes machines and apparatus used for: (i) the manufacture or repair of masks and reticles; (ii) assembling semiconductor devices or electronic integrated circuits; (iii) lifting, handling, loading or unloading of boules, wafers, semiconductor devices, electronic integrated circuits and flat panel displays. (D) Machines answering to the description of heading 84.86 are classified in that heading."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Chú giải phân nhóm",
+        "en": "Subheading Notes"
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "1. Theo mục đích của phân nhóm 8465.20, \"trung tâm gia công\" chỉ áp dụng cho máy công cụ gia công gỗ, lie, xương, cao su cứng, plastic cứng hoặc vật liệu cứng tương tự, có thể thực hiện các hoạt động khác nhau bằng cách thay đổi dao cụ tự động.",
+        "en": "1. For the purposes of subheading 8465.20, the term “machining centres” applies only to machine-tools for working wood, cork, bone, hard rubber, hard plastics or similar hard materials, which can carry out different types of machining operations by automatic tool change."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "2. Theo mục đích của phân nhóm 8471.49, “hệ thống” nghĩa là các máy xử lý dữ liệu tự động có các khối chức năng đáp ứng Chú giải 6(C) Chương 84 và gồm ít nhất một bộ xử lý trung tâm, một bộ nhập và một bộ xuất.",
+        "en": "2. For the purposes of subheading 8471.49, the term “systems” means automatic data processing machines whose units satisfy the conditions in Note 6(C) to Chapter 84 and which comprise at least a central processing unit, one input unit, and one output unit."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "3. Theo mục đích của phân nhóm 8481.20, \"van dùng trong truyền động dầu thủy lực hoặc khí nén\" là van chuyên dụng truyền động \"thủy lực/khí nén\" trong hệ thống mà nguồn năng lượng là chất lưu nén. Phân nhóm 8481.20 được ưu tiên xem xét trước trong các phân nhóm thuộc nhóm 84.81.",
+        "en": "3. For the purposes of subheading 8481.20, the expression “valves for oleohydraulic or pneumatic transmissions” means valves used specifically in the transmission of “fluid power” in a system where the energy source is pressurised fluids. Subheading 8481.20 takes precedence over all other subheadings of heading 84.81."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "4. Phân nhóm 8482.40 chỉ áp dụng cho ổ bi đũa có đường kính đồng nhất không quá 5 mm và chiều dài ít nhất gấp 3 lần đường kính. Hai đầu bi đũa có thể được tiện tròn.",
+        "en": "4. Subheading 8482.40 applies only to bearings with cylindrical rollers of a uniform diameter not exceeding 5 mm and having a length at least three times the diameter. The ends of the rollers may be rounded."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 5,
+      "content": {
+        "vi": "(A) NỘI DUNG KHÁI QUÁT CHUNG CỦA CHƯƠNG: Theo quy định của Chú giải tổng quát tại Phần XVI, Chương này bao gồm tất cả các máy và thiết bị cơ khí và bộ phận của chúng, không được chi tiết cụ thể hơn tại Chương 85, và không bao gồm: (a) sản phẩm bằng chất liệu dệt kỹ thuật (nhóm 59.11), (b) sản phẩm bằng đá (Chương 68), (c) sản phẩm bằng gốm sứ (Chương 69), (d) đồ thủy tinh phòng thí nghiệm (nhóm 70.17) và máy móc bằng thủy tinh (nhóm 70.19 hoặc 70.20), (e) bếp, lò sưởi (nhóm 73.21 hoặc 73.22), (f) thiết bị cơ điện gia dụng (nhóm 85.09) và camera kỹ thuật số (nhóm 85.25), (g) bộ tản nhiệt (Phần XVII), (h) dụng cụ cơ học vận hành bằng tay (nhóm 96.03).",
+        "en": "(A) GENERAL CONTENT OF THE CHAPTER: Subject to the General Explanatory Note to Section XVI, this Chapter covers all machinery and mechanical appliances and parts thereof, not more specifically covered by Chapter 85, and not being: (a) articles of textile material for technical uses (heading 59.11), (b) articles of stone (Chapter 68), (c) ceramic articles (Chapter 69), (d) laboratory glassware (heading 70.17) and machinery of glass (heading 70.19 or 70.20), (e) stoves, central heating radiators (heading 73.21 or 73.22), (f) electro-mechanical domestic appliances (heading 85.09) and digital cameras (heading 85.25), (g) radiators for articles of Section XVII, (h) hand-operated mechanical floor sweepers (heading 96.03)."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Nhìn chung, chương 84 bao gồm máy móc cơ khí và chương 85 bao gồm thiết bị điện. Tuy nhiên, máy móc thuộc Chương 84 vẫn thuộc chương này dù là thiết bị điện, ví dụ: (1) Máy hoạt động bằng động cơ điện; (2) Máy gia nhiệt bằng điện (nồi hơi điện nhóm 84.03, máy móc nhóm 84.19); (3) Máy vận hành bằng điện từ; (4) Máy điện tử. Các máy móc bằng gốm sứ (Chương 69), dụng cụ thủy tinh phòng thí nghiệm (nhóm 70.17), và máy móc bằng thủy tinh (nhóm 70.19 và 70.20) bị loại trừ. Một sản phẩm được coi là mất tính chất gốm hoặc thủy tinh khi (i) kết hợp với tỷ lệ lớn các vật liệu khác (kim loại); hoặc (ii) là sự kết hợp các thành phần tĩnh bằng gốm/thủy tinh với các thành phần cơ khí (mô tơ, bơm).",
+        "en": "In general, Chapter 84 covers mechanical machinery and Chapter 85 covers electrical goods. However, machinery of a kind covered by Chapter 84 remains in this Chapter even if electric, for example: (1) Machinery powered by electric motor; (2) Electrically heated machinery (e.g., electric boilers of heading 84.03, machinery of heading 84.19); (3) Machines operated electro-magnetically; (4) Machines operated electronically. Machinery of ceramic material (Chapter 69), laboratory glassware (heading 70.17), and machinery of glass (heading 70.19 or 70.20) are excluded. An article is considered to have lost the character of ceramic or glass if it is (i) a combination with a high proportion of other materials (e.g., metal); or (ii) a combination of static ceramic/glass components with mechanical components (e.g., motors, pumps)."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(B) CẤU TRÚC KHÁI QUÁT CHUNG CỦA CHƯƠNG: (1) Nhóm 84.01: lò phản ứng hạt nhân và máy tách đồng vị. (2) Nhóm 84.02 đến 84.24: máy móc phân loại theo chức năng. (3) Nhóm 84.25 đến 84.78: máy móc phân loại theo lĩnh vực sử dụng. (4) Nhóm 84.79: máy móc không thuộc các nhóm trước. (5) Nhóm 84.80: hộp khuôn và mẫu làm khuôn. (6) Nhóm 84.81 đến 84.84: sản phẩm công dụng chung dùng làm bộ phận. (7) Nhóm 84.86: máy chế tạo bán dẫn, màn hình dẹt. (8) Nhóm 84.87: bộ phận không dùng điện khác.",
+        "en": "(B) GENERAL ARRANGEMENT OF THE CHAPTER: (1) Heading 84.01: nuclear reactors and machinery for isotopic separation. (2) Headings 84.02 to 84.24: machines classified by function. (3) Headings 84.25 to 84.78: machines classified by field of industry. (4) Heading 84.79: machines not covered by preceding headings. (5) Heading 84.80: moulding boxes and patterns. (6) Headings 84.81 to 84.84: general purpose goods used as parts. (7) Heading 84.86: machines for manufacturing semiconductors, flat panel displays. (8) Heading 84.87: other non-electrical parts."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(C) CÁC BỘ PHẬN: Theo quy tắc chung của Phần XVI. Các bộ phận điện riêng biệt thường thuộc Chương 85, ví dụ: động cơ điện (85.01), máy biến điện (85.04), nam châm điện (85.05), thiết bị khởi động (85.11), bộ phận chuyển mạch (85.35 đến 85.37), van điện tử (85.40), điốt, tranzito (85.41), mạch tích hợp (85.42), điện cực than (85.45), vật cách điện (85.46), và phụ kiện vật liệu cách điện (85.47).",
+        "en": "(C) PARTS: As per the General Explanatory Note to Section XVI. Separately presented electrical parts generally fall in Chapter 85, for example: electric motors (85.01), electrical transformers (85.04), electro-magnets (85.05), electrical starting equipment (85.11), electrical switches (85.35 to 85.37), electronic valves (85.40), diodes, transistors (85.41), electronic integrated circuits (85.42), electrical carbons (85.45), insulators (85.46), and fittings of insulating material (85.47)."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "Trừ trường hợp được lắp ráp, các hàng hóa trên vẫn được phân loại trong các nhóm của chúng, ngay cả khi được thiết kế để chỉ dùng cho một máy cụ thể thuộc Chương này. Các bộ phận điện khác được xếp trong: (1) Nhóm 84.09, 84.31, 84.48, 84.66 hoặc 84.73 nếu đáp ứng mô tả. (2) Nếu không, chúng được xếp theo máy trong Chương này, hoặc nếu không được thiết kế cho máy đó thì xếp vào nhóm 85.48.",
+        "en": "Unless incorporated, such goods are classified in their headings, even if designed for a particular machine of this Chapter. Other electrical parts are classified: (1) In heading 84.09, 84.31, 84.48, 84.66 or 84.73 if they comply with the description. (2) If not, they are classified in the same heading as the machine for which they are intended, or if not so designed, they fall in heading 85.48."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "(D) MÁY MÓC CÓ THỂ THUỘC HAI HOẶC NHIỀU NHÓM: Theo Chú giải 1 Phần XVI và chú giải 1 Chương 84, máy đáp ứng mô tả nhóm 84.86 thì được phân loại vào nhóm đó. Các nhóm 84.01 đến 84.24 bao gồm máy móc được phân loại theo tính năng, trong khi các nhóm khác phân loại theo ngành công nghiệp. Theo Chú giải 2, máy thuộc cả hai loại sẽ được phân loại vào nhóm từ 84.01 đến 84.24. Có ngoại lệ đối với nhóm 84.19, 84.22 và 84.24, ví dụ: máy ươm giống (84.36), máy làm ẩm hạt (84.37), thiết bị khuyếch tán đường (84.38), máy xử lý nhiệt sợi dệt (84.51).",
+        "en": "(D) GOODS COVERED BY TWO OR MORE HEADINGS: Subject to Note 1 to Section XVI and Note 1 to Chapter 84, machines answering to heading 84.86 are classified in that heading. Headings 84.01 to 84.24 cover machinery described by function, while other headings describe by industry. Under Chapter Note 2, machinery falling in both is classified in the first group (84.01 to 84.24). Exceptions exist for headings 84.19, 84.22, and 84.24, for example: agricultural germination plant (84.36), grain dampening machines (84.37), diffusing apparatus for sugar juice (84.38), machinery for heat-treatment of textiles (84.51)."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "Các ngoại lệ khác: Tương tự, các mặt hàng có khả năng nằm trong nhóm 84.22 nhưng được xếp vào nhóm 84.52 (máy khâu) hoặc 84.72 (máy văn phòng). Các mặt hàng có khả năng nằm trong nhóm 84.24 nhưng được xếp vào 84.43 (máy in phun) hoặc 84.56 (máy cắt tia nước). Quy tắc ưu tiên chỉ áp dụng cho máy tổng thể. Máy tổ hợp hoặc đa chức năng được phân loại theo Chú giải 3 hoặc 4 Phần XVI. Máy thuộc hai nhóm trở lên (không có nhóm nào trong khoảng 84.01-84.24) được phân loại theo mô tả cụ thể nhất hoặc công dụng chính; máy đa mục đích được phân loại vào nhóm 84.79.",
+        "en": "Further exceptions: Similarly, items potentially covered by heading 84.22 are classified in 84.52 (sewing machines) or 84.72 (office machines). Items potentially covered by 84.24 are classified in 84.43 (ink-jet printing) or 84.56 (water-jet cutting). The rule of precedence applies to whole machines. Composite or multi-function machines are classified per Note 3 or 4 to Section XVI. Machines falling in two or more headings (none within 84.01-84.24) are classified by the most specific description or principal use; multi-purpose machines are classified in 84.79."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "(E) CÁC MÁY MÓC KẾT HỢP VỚI MÁY XỬ LÝ DỮ LIỆU TỰ ĐỘNG: Theo Chú giải 6(E), các nguyên tắc phân loại là: (1) Máy kết hợp máy xử lý dữ liệu tự động và thực hiện chức năng cụ thể khác sẽ được phân loại vào nhóm tương ứng với chức năng đó, không phải nhóm 84.71. (2) Các máy được sử dụng cùng máy xử lý dữ liệu tự động để thực hiện chức năng cụ thể khác: máy xử lý dữ liệu tự động được phân loại riêng trong nhóm 84.71 và các máy còn lại được phân loại theo chức năng của chúng (trừ khi toàn bộ máy được phân loại tại một nhóm khác của Chương 84, 85 hoặc 90).",
+        "en": "(E) MACHINES INCORPORATING OR WORKING IN CONJUNCTION WITH AN AUTOMATIC DATA PROCESSING MACHINE: According to Chapter Note 6(E), the classification principles are: (1) A machine incorporating an automatic data processing machine and performing a specific function other than data processing is classifiable in the heading corresponding to that function, not in heading 84.71. (2) Machines presented with an automatic data processing machine for a specific function: the automatic data processing machine is classified separately in heading 84.71 and the other machines in the heading for their function (unless the whole is classified in another heading of Chapter 84, 85 or 90)."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "84.01",
+      "heading_title": {
+        "vi": "Lò phản ứng hạt nhân; các bộ phận chứa nhiên liệu (cartridges), không bị bức xạ, dùng cho các lò phản ứng hạt nhân; máy và thiết bị để tách chất đồng vị.",
+        "en": "Nuclear reactors; fuel elements (cartridges), non-irradiated, for nuclear reactors; machinery and apparatus for isotopic separation."
+      }
+    },
+    {
+      "heading_id": "84.02",
+      "heading_title": {
+        "vi": "Nồi hơi tạo ra hơi nước hoặc tạo ra hơi khác (trừ các nồi hơi đun nóng nước trung tâm có khả năng sản xuất ra hơi với áp suất thấp); nồi hơi nước quá nhiệt.",
+        "en": "Steam or other vapour generating boilers (other than central heating hot water boilers capable also of producing low pressure steam); super-heated water boilers."
+      }
+    },
+    {
+      "heading_id": "84.03",
+      "heading_title": {
+        "vi": "Nồi hơi nước sưởi trung tâm trừ các loại thuộc nhóm 84.02.",
+        "en": "Central heating boilers other than those of heading 84.02."
+      }
+    },
+    {
+      "heading_id": "84.04",
+      "heading_title": {
+        "vi": "Thiết bị phụ trợ dùng cho các loại nồi hơi thuộc nhóm 84.02 hoặc 84.03 (ví dụ, bộ tiết kiệm nhiên liệu, thiết bị quá nhiệt, máy cạo rửa nồi hơi, thiết bị thu hồi chất khí); thiết bị ngưng tụ dùng cho các tổ máy động lực hơi nước hoặc hơi khác.",
+        "en": "Auxiliary plant for use with boilers of heading 84.02 or 84.03 (for example, economisers, super-heaters, soot removers, gas recoverers); condensers for steam or other vapour power units."
+      }
+    },
+    {
+      "heading_id": "84.05",
+      "heading_title": {
+        "vi": "Máy sản xuất chất khí hoặc hơi nước, có hoặc không kèm theo bộ lọc; máy sản xuất khí axetylen và các loại máy sản xuất chất khí theo qui trình xử lý bằng nước tương tự, có hoặc không kèm theo bộ lọc.",
+        "en": "Producer gas or water gas generators, with or without their purifiers; acetylene gas generators and similar water process gas generators, with or without their purifiers."
+      }
+    },
+    {
+      "heading_id": "84.06",
+      "heading_title": {
+        "vi": "Tua bin hơi nước và các loại tua bin hơi khác.",
+        "en": "Steam turbines and other vapour turbines."
+      }
+    },
+    {
+      "heading_id": "84.07",
+      "heading_title": {
+        "vi": "Động cơ đốt trong kiểu piston chuyển động tịnh tiến hoặc kiểu piston chuyển động quay đốt cháy bằng tia lửa điện (+).",
+        "en": "Spark-ignition reciprocating or rotary internal combustion piston engines (+)."
+      }
+    },
+    {
+      "heading_id": "84.08",
+      "heading_title": {
+        "vi": "Động cơ đốt trong kiểu piston cháy do nén (động cơ diesel hoặc bán diesel).",
+        "en": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines)."
+      }
+    },
+    {
+      "heading_id": "84.09",
+      "heading_title": {
+        "vi": "Các bộ phận chỉ dùng hoặc chủ yếu dùng cho các loại động cơ thuộc nhóm 84.07 hoặc 84.08.",
+        "en": "Parts suitable for use solely or principally with the engines of heading 84.07 or 84.08."
+      }
+    },
+    {
+      "heading_id": "84.10",
+      "heading_title": {
+        "vi": "Tua bin thủy lực, bánh xe guồng nước, và các bệ điều chỉnh của chúng.",
+        "en": "Hydraulic turbines, water wheels, and regulators therefor."
+      }
+    },
+    {
+      "heading_id": "84.11",
+      "heading_title": {
+        "vi": "Tua bin phản lực, tua bin cánh quạt và các loại tua bin khí khác (+).",
+        "en": "Turbo-jets, turbo-propellers and other gas turbines (+)."
+      }
+    },
+    {
+      "heading_id": "84.12",
+      "heading_title": {
+        "vi": "Động cơ và mô tơ khác.",
+        "en": "Other engines and motors."
+      }
+    },
+    {
+      "heading_id": "84.13",
+      "heading_title": {
+        "vi": "Bơm chất lỏng, có hoặc không lắp thiết bị đo; máy đẩy chất lỏng(+).",
+        "en": "Pumps for liquids, whether or not fitted with a measuring device; liquid elevators (+)."
+      }
+    },
+    {
+      "heading_id": "84.14",
+      "heading_title": {
+        "vi": "Bơm không khí hoặc bơm chân không, máy nén không khí hoặc chất khí khác và quạt; nắp chụp hút tuần hoàn gió hoặc thông gió có kèm theo quạt, có hoặc không lắp bộ phận lọc; tủ an toàn sinh học kín khí, có hoặc không lắp bộ phận lọc.",
+        "en": "Air or vacuum pumps, air or other gas compressors and fans; ventilating or recycling hoods incorporating a fan, whether or not fitted with filters; gas-tight biological safety cabinets, whether or not fitted with filters."
+      }
+    },
+    {
+      "heading_id": "84.15",
+      "heading_title": {
+        "vi": "Máy điều hòa không khí, gồm có một quạt chạy bằng mô tơ và các bộ phận làm thay đổi nhiệt độ và độ ẩm, kể cả loại máy không điều chỉnh độ ẩm một cách riêng biệt (+).",
+        "en": "Air conditioning machines, comprising a motor-driven fan and elements for changing the temperature and humidity, including those machines in which the humidity cannot be separately regulated (+)."
+      }
+    },
+    {
+      "heading_id": "84.16",
+      "heading_title": {
+        "vi": "Đầu đốt dùng cho lò luyện, nung sử dụng nhiên liệu lỏng, nhiên liệu rắn dạng bột hoặc nhiên liệu khí; máy nạp nhiên liệu cơ khí, kể cả ghi lò, bệ phận xả tro xỉ và các bộ phận tương tự của chúng.",
+        "en": "Furnace burners for liquid fuel, for pulverised solid fuel or for gas; mechanical stokers, including their mechanical grates, mechanical ash dischargers and similar appliances."
+      }
+    },
+    {
+      "heading_id": "84.17",
+      "heading_title": {
+        "vi": "Lò luyện, nung và lò dùng trong công nghiệp hoặc trong phòng thí nghiệm, kể cả lò thiêu, không dùng điện.",
+        "en": "Industrial or laboratory furnaces and ovens, including incinerators, non-electric."
+      }
+    },
+    {
+      "heading_id": "84.18",
+      "heading_title": {
+        "vi": "Tủ lạnh, tủ kết đông và thiết bị làm lạnh hoặc kết đông khác, loại dùng điện hoặc loại khác; bơm nhiệt trừ máy điều hòa không khí thuộc nhóm 84.15.",
+        "en": "Refrigerators, freezers and other refrigerating or freezing equipment, electric or other; heat pumps other than air conditioning machines of heading 84.15."
+      }
+    },
+    {
+      "heading_id": "84.19",
+      "heading_title": {
+        "vi": "Trang thiết bị cho phòng thí nghiệm hoặc máy, thiết bị, gia nhiệt bằng điện hoặc không bằng điện (trừ lò luyện, nung, sấy và các thiết bị khác thuộc nhóm 85.14) để xử lý các loại vật liệu bằng quá trình thay đổi nhiệt như làm nóng, nấu, rang, chưng cất, tinh cất, sát trùng, thanh trùng, phun hơi nước, sấy, làm bay hơi, làm khô, ngưng tụ hoặc làm mát trừ các loại máy hoặc thiết bị dùng cho gia đình; thiết bị đun nước nóng nhanh hoặc thiết bị đun nước nóng có dự trữ, không dùng điện.",
+        "en": "Machinery, plant or laboratory equipment, whether or not electrically heated (excluding furnaces, ovens and other equipment of heading 85.14), for the treatment of materials by a process involving a change of temperature such as heating, cooking, roasting, distilling, rectifying, sterilising, pasteurising, steaming, drying, evaporating, vaporising, condensing or cooling, other than machinery or plant of a kind used for domestic purposes; instantaneous or storage water heaters, non-electric."
+      }
+    },
+    {
+      "heading_id": "84.20",
+      "heading_title": {
+        "vi": "Các loại máy cán là hoặc máy cán ép phẳng kiểu trục lăn khác, trừ các loại máy dùng để cán, ép kim loại hoặc thủy tinh, và các loại trục cán của chúng.",
+        "en": "Calendering or other rolling machines, other than for metals or glass, and cylinders therefor."
+      }
+    },
+    {
+      "heading_id": "84.21",
+      "heading_title": {
+        "vi": "Máy ly tâm, kể cả máy làm khô bằng ly tâm; máy và thiết bị lọc hoặc tinh chế chất lỏng hoặc chất khí.",
+        "en": "Centrifuges, including centrifugal dryers; filtering or purifying machinery and apparatus for liquids or gases."
+      }
+    },
+    {
+      "heading_id": "84.22",
+      "heading_title": {
+        "vi": "Máy rửa bát đĩa; máy làm sạch hoặc làm khô chai lọ hoặc các loại đồ chứa khác; máy rót, đóng kín, gắn xỉ, đóng nắp hoặc dán nhãn vào các chai, lon, hộp, túi hoặc đồ chứa khác; máy bọc chai lọ, ống và các loại đồ chứa tương tự; máy đóng gói hoặc bao gói khác (kể cả máy bọc màng co nhiệt); máy nạp ga cho đồ uống (+).",
+        "en": "Dish washing machines; machinery for cleaning or drying bottles or other containers; machinery for filling, closing, sealing or labelling bottles, cans, boxes, bags or other containers; machinery for capsuling bottles, jars, tubes and similar containers; other packing or wrapping machinery (including heat-shrink wrapping machinery); machinery for aerating beverages (+)."
+      }
+    },
+    {
+      "heading_id": "84.23",
+      "heading_title": {
+        "vi": "Cân (trừ loại cân đo có độ nhậy 5 cg hoặc nhậy hơn), kể cả máy đếm hoặc máy kiểm tra, hoạt động bằng nguyên lý cân; các loại quả cân (+).",
+        "en": "Weighing machinery (excluding balances of a sensitivity of 5 cg or better), including weight operated counting or checking machines; weighing machine weights of all kinds (+)."
+      }
+    },
+    {
+      "heading_id": "84.24",
+      "heading_title": {
+        "vi": "Thiết bị cơ khí (được điều khiển bằng tay hoặc không) để phun bắn, phun rải hoặc phun áp lực các chất lỏng hoặc chất bột; bình dập lửa, đã hoặc chưa nạp; súng phun và các thiết bị tương tự; máy phun bắn hơi nước hoặc cát và các loại máy phun bắn tia tương tự (+).",
+        "en": "Mechanical appliances (whether or not hand-operated) for projecting, dispersing or spraying liquids or powders; fire extinguishers, whether or not charged; spray guns and similar appliances; steam or sand blasting machines and similar jet projecting machines (+)."
+      }
+    },
+    {
+      "heading_id": "84.25",
+      "heading_title": {
+        "vi": "Hệ ròng rọc và hệ tời trừ tời nâng kiểu gầu nâng (trục tải thùng kíp); tời ngang và tời dọc; kích các loại.",
+        "en": "Pulley tackle and hoists other than skip hoists; winches and capstans; jacks."
+      }
+    },
+    {
+      "heading_id": "84.26",
+      "heading_title": {
+        "vi": "Cổng trục của tàu thủy; cần trục, kể cả cần trục cáp; khung nâng di động, xe chuyên chở kiểu khung đỡ cột chống và xe công xưởng có lắp cần cẩu.",
+        "en": "Ships’ derricks; cranes, including cable cranes; mobile lifting frames, straddle carriers and works trucks fitted with a crane."
+      }
+    },
+    {
+      "heading_id": "84.27",
+      "heading_title": {
+        "vi": "Xe nâng hạ xếp tầng hàng bằng cơ cấu càng nâng; các loại xe công xưởng khác có lắp thiết bị nâng hạ hoặc xếp hàng.",
+        "en": "Fork lift trucks; other works trucks fitted with lifting or handling equipment."
+      }
+    },
+    {
+      "heading_id": "84.28",
+      "heading_title": {
+        "vi": "Máy nâng hạ, giữ, xếp hoặc dỡ hàng khác (ví dụ, thang máy (lift), thang cuốn, băng tải, thùng cáp treo).",
+        "en": "Other lifting, handling, loading or unloading machinery (for example, lifts, escalators, conveyors, teleferics)."
+      }
+    },
+    {
+      "heading_id": "84.29",
+      "heading_title": {
+        "vi": "Máy ủi đất lưỡi thẳng, máy ủi đất lưỡi nghiêng, máy san đất, máy cạp đất, máy xúc, máy đào đất, máy chuyển đất bằng gàu tự xúc, máy đầm và xe lu lăn đường, loại tự hành.",
+        "en": "Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers."
+      }
+    },
+    {
+      "heading_id": "84.30",
+      "heading_title": {
+        "vi": "Các máy ủi xúc dọn, cào, san, cạp, đào, đầm, nén, bóc tách hoặc khoan khác dùng trong công việc về đất, khoáng hoặc quặng; máy đóng cọc và nhổ cọc; máy xới tuyết và dọn tuyết (+)",
+        "en": "Other moving, grading, levelling, scraping, excavating, tamping, compacting, extracting or boring machinery, for earth, minerals or ores; pile-drivers and pile-extractors; snow-ploughs and snow-blowers (+)."
+      }
+    },
+    {
+      "heading_id": "84.31",
+      "heading_title": {
+        "vi": "Các bộ phận chỉ sử dụng hoặc chủ yếu sử dụng cho các loại máy thuộc các nhóm từ 84.25 đến 84.30.",
+        "en": "Parts suitable for use solely or principally with the machinery of headings 84.25 to 84.30."
+      }
+    },
+    {
+      "heading_id": "84.32",
+      "heading_title": {
+        "vi": "Máy nông nghiệp, làm vườn hoặc lâm nghiệp dùng cho việc làm đất hoặc trồng trọt; máy cán cho bãi cỏ hoặc cho sân chơi thể thao.",
+        "en": "Agricultural, horticultural or forestry machinery for soil preparation or cultivation; lawn or sports-ground rollers."
+      }
+    },
+    {
+      "heading_id": "84.33",
+      "heading_title": {
+        "vi": "Máy thu hoạch hoặc máy đập, kể cả máy đóng bó, bánh (kiện) rơm hoặc cỏ khô; máy cắt cỏ tươi hoặc cỏ khô; máy làm sạch, phân loại hoặc lựa chọn trứng, hoa quả hoặc nông sản khác, trừ các loại máy thuộc nhóm 84.37.",
+        "en": "Harvesting or threshing machinery, including straw or fodder balers; grass orhoặcmowers; machines for cleaning, sorting or grading eggs, fruit or other agricultural produce, other than machinery of heading 84.37."
+      }
+    },
+    {
+      "heading_id": "84.34",
+      "heading_title": {
+        "vi": "Máy vắt sữa và máy chế biến sữa.",
+        "en": "Milking machines and dairy machinery."
+      }
+    },
+    {
+      "heading_id": "84.35",
+      "heading_title": {
+        "vi": "Máy ép, máy nghiền và các loại máy tương tự dùng trong sản xuất rượu vang, rượu táo, nước trái cây hoặc các loại đồ uống tương tự.",
+        "en": "Presses, crushers and similar machinery used in the manufacture of wine, cider, fruit juices or similar beverages."
+      }
+    },
+    {
+      "heading_id": "84.36",
+      "heading_title": {
+        "vi": "Các loại máy khác dùng trong nông nghiệp, làm vườn, lâm nghiệp, chăn nuôi gia cầm hoặc nuôi ong, kể cả máy ươm hạt giống có lắp thiết bị cơ khí hoặc thiết bị nhiệt; máy ấp trứng gia cầm và thiết bị sưởi ấm gia cầm mới nở.",
+        "en": "Other agricultural, horticultural, forestry, poultry-keeping or bee-keeping machinery, including germination plant fitted with mechanical or thermal equipment; poultry incubators and brooders."
+      }
+    },
+    {
+      "heading_id": "84.37",
+      "heading_title": {
+        "vi": "Máy làm sạch, tuyển chọn hoặc phân loại hạt giếng, hạt hoặc các loại rau đậu đã được làm khô; máy dùng trong công nghiệp xay xát hoặc dùng cho chế biến ngũ cốc hoặc rau đậu đã được làm khô, trừ các loại máy nông nghiệp.",
+        "en": "Machines for cleaning, sorting or grading seed, grain or dried leguminous vegetables; machinery used in the milling industry or for the working of cereals or dried leguminous vegetables, other than farm-type machinery."
+      }
+    },
+    {
+      "heading_id": "84.38",
+      "heading_title": {
+        "vi": "Máy chế biến công nghiệp hoặc sản xuất thực phẩm hoặc đồ uống, chưa được ghi hoặc chi tiết ở nơi khác trong Chương này, trừ các loại máy để chiết xuất hoặc chế biến dầu hoặc mỡ động vật hoặc dầu hoặc chất béo không bay hơi của thực vật hoặc vi sinh vật.",
+        "en": "Machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable or microbial fats or oils."
+      }
+    },
+    {
+      "heading_id": "84.39",
+      "heading_title": {
+        "vi": "Máy chế biến bột giấy từ vật liệu sợi xenlulô hoặc máy dùng cho quá trình sản xuất hoặc hoàn thiện giấy hoặc bìa.",
+        "en": "Machinery for making pulp of fibrous cellulosic material or for making or finishing paper or paperboard."
+      }
+    },
+    {
+      "heading_id": "84.40",
+      "heading_title": {
+        "vi": "Máy đóng sách, kể cả máy khâu sách.",
+        "en": "Book-binding machinery, including booksewing machines."
+      }
+    },
+    {
+      "heading_id": "84.41",
+      "heading_title": {
+        "vi": "Các máy khác dùng để sản xuất bột giấy, giấy hoặc bìa, kể cả máy cắt xén các loại.",
+        "en": "Other machinery for making up paper pulp, paper or paperboard, including cutting machines of all kinds."
+      }
+    },
+    {
+      "heading_id": "84.42",
+      "heading_title": {
+        "vi": "Máy, thiết bị và dụng cụ (trừ loại máy thuộc các nhóm từ 84.56 đến 84.65) dùng để đúc chữ hoặc chế bản, làm khuôn in (bát chữ), ống in và các bộ phận in ấn khác; khuôn in (bát chữ), ống in và các bộ phận in khác; khuôn in, ống in và đá in ly tô, được chuẩn bị cho các mục đích in (ví dụ, đã được làm phẳng, nồi vân hạt hoặc đánh bóng).",
+        "en": "Machinery, apparatus and equipment (other than the machines of headings 84.56 to 84.65) for preparing or making plates, cylinders or other printing components; plates, cylinders and other printing components; plates, cylinders and lithographic stones, prepared for printing purposes (for example, planed, grained or polished)."
+      }
+    },
+    {
+      "heading_id": "84.43",
+      "heading_title": {
+        "vi": "Máy in sử dụng các bộ phận in như khuôn in (bát chữ), ống in và các bộ phận in khác của nhóm 84.42; máy in khác, máy copy (copying machines) và máy fax, có hoặc không kết hợp với nhau; bộ phận và các phụ kiện của chúng (+).",
+        "en": "Printing machinery used for printing by means of plates, cylinders and other printing components of heading 84.42; other printers, copying machines and facsimile machines, whether or not combined; parts and accessories thereof (+)."
+      }
+    },
+    {
+      "heading_id": "84.44",
+      "heading_title": {
+        "vi": "Máy ép đùn, kéo chuỗi, tạo dún hoặc máy cắt vật liệu dệt nhân tạo.",
+        "en": "Machines for extruding, drawing, texturing or cutting man-made textile materials."
+      }
+    },
+    {
+      "heading_id": "84.45",
+      "heading_title": {
+        "vi": "Máy chuẩn bị xơ sợi dệt; máy kéo sợi, máy đậu sợi hoặc máy xe sợi và các loại máy khác dùng cho sản xuất sợi dệt; máy guồng hoặc máy đánh ống sợi dệt (kể cả máy đánh suốt sợi ngang) và các loại máy chuẩn bị sợi dệt dùng cho máy thuộc nhóm 84.46 hoặc 84.47.",
+        "en": "Machines for preparing textile fibres; spinning, doubling or twisting machines and other machinery for producing textile yarns; textile reeling or winding (including weft-winding) machines and machines for preparing textile yarns for use on the machines of heading 84.46 or 84.47."
+      }
+    },
+    {
+      "heading_id": "84.46",
+      "heading_title": {
+        "vi": "Máy dệt.",
+        "en": "Weaving machines (looms)."
+      }
+    },
+    {
+      "heading_id": "84.47",
+      "heading_title": {
+        "vi": "Máy dệt kim, máy khâu đính và máy tạo sợi quấn, sản xuất vải tuyn, ren, thêu, trang trí, dây tết hoặc lưới và máy tạo búi.",
+        "en": "Knitting machines, stitch-bonding machines and machines for making gimped yarn, tulle, lace, embroidery, trimmings, braid or net and machines for tufting."
+      }
+    },
+    {
+      "heading_id": "84.48",
+      "heading_title": {
+        "vi": "Máy phụ trợ dùng với các máy thuộc nhóm 84.44, 84.45, 84.46 hoặc 84.47 (ví dụ, đầu tay kéo, đầu Jacquard, cơ cấu tự dừng, cơ cấu thay thoi); các bộ phận và phụ kiện phù hợp để chỉ dùng hoặc chủ yếu dùng cho các máy thuộc nhóm này hoặc của nhóm 84.44, 84.45, 84.46 hoặc 84.47 (ví dụ, cọc sợi và gàng, kim chải, lược chải kỹ, phễu đùn sợi, thoi, go và khung go, kim dệt).",
+        "en": "Auxiliary machinery for use with machines of heading 84.44, 84.45, 84.46 or 84.47 (for example, dobbies, jacquards, automatic stop motions, shuttle changing mechanisms); parts and accessories suitable for use solely or principally with the machines of this heading or of heading 84.44, 84.45, 84.46 or 84.47 (for example, spindles and spindle flyers, card clothing, combs, extruding nipples, shuttles, healds and heald-frames, hosiery needles)."
+      }
+    },
+    {
+      "heading_id": "84.49",
+      "heading_title": {
+        "vi": "Máy dùng để sản xuất hoặc hoàn tất phớt hoặc các sản phẩm không dệt dạng mảnh hoặc dạng hình, kể cả máy làm mũ phớt; cốt làm mũ.",
+        "en": "Machinery for the manufacture or finishing of felt or nonwovens in the piece or in shapes, including machinery for making felt hats; blocks for making hats."
+      }
+    },
+    {
+      "heading_id": "84.50",
+      "heading_title": {
+        "vi": "Máy giặt gia đình hoặc trong hiệu giặt, kể cả máy giặt có chức năng sấy khô (+).",
+        "en": "Household or laundry-type washing machines, including machines which both wash and dry (+)."
+      }
+    },
+    {
+      "heading_id": "84.51",
+      "heading_title": {
+        "vi": "Các loại máy (trừ máy thuộc nhóm 84.50) dùng để giặt, làm sạch, vắt, sấy, là hơi, ép (kể cả ép mếch), tẩy trắng, nhuộm, hồ bóng, hoàn tất, tráng phủ hoặc ngâm tẩm sợi, vải dệt hoặc hàng dệt đã hoàn thiện và các máy dùng để phết hồ lên lớp vải đế hoặc lớp vải nền khác, dùng trong sản xuất hàng trải sàn như vải sơn lót sàn; máy để quấn, tở (xả), gấp, cắt hoặc cắt hình răng cưa vải dệt.",
+        "en": "Machinery (other than machines of heading 84.50) for washing, cleaning, wringing, drying, ironing, pressing (including fusing presses), bleaching, dyeing, dressing, finishing, coating or impregnating textile yarns, fabrics or made up textile articles and machines for applying the paste to the base fabric or other support used in the manufacture of floor coverings such as linoleum; machines for reeling, unreeling, folding, cutting or pinking textile fabrics."
+      }
+    },
+    {
+      "heading_id": "84.52",
+      "heading_title": {
+        "vi": "Máy khâu, trừ các loại máy khâu sách thuộc nhóm 84.40; bàn, tủ, chân máy và nắp thiết kế chuyên dùng cho các loại máy khâu; kim máy khâu (+).",
+        "en": "Sewing machines, other than book-sewing machines of heading 84.40; furniture, bases and covers specially designed for sewing machines; sewing machine needles (+)."
+      }
+    },
+    {
+      "heading_id": "84.53",
+      "heading_title": {
+        "vi": "Máy dùng để sơ chế, thuộc da hoặc chế biến da sống hoặc da thuộc hoặc máy để sản xuất hoặc sửa chữa giày dép hoặc các sản phẩm khác từ da sống hoặc da thuộc, trừ các loại máy khâu.",
+        "en": "Machinery for preparing, tanning or working hides, skins or leather or for making or repairing footwear or other articles of hides, skins or leather, other than sewing machines."
+      }
+    },
+    {
+      "heading_id": "84.54",
+      "heading_title": {
+        "vi": "Lò thổi, nồi rót, khuôn đúc thỏi và máy đúc, dùng trong luyện kim hoặc đúc kim loại.",
+        "en": "Converters, ladles, ingot moulds and casting machines, of a kind used in metallurgy or in metal foundries."
+      }
+    },
+    {
+      "heading_id": "84.55",
+      "heading_title": {
+        "vi": "Máy cán kim loại và trục cán của nó.",
+        "en": "Metal-rolling mills and rolls therefor."
+      }
+    },
+    {
+      "heading_id": "84.56",
+      "heading_title": {
+        "vi": "Máy công cụ để gia công mọi loại vật liệu bằng cách bóc tách vật liệu, bằng các quy trình sử dụng tia laser hoặc tia sáng khác hoặc chùm phô tông, siêu âm, phóng điện, điện hóa, chùm tia điện tử, chùm tia i-on hoặc quá trình xử lý plasma hồ quang; máy cắt bằng tia nước.",
+        "en": "Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines."
+      }
+    },
+    {
+      "heading_id": "84.57",
+      "heading_title": {
+        "vi": "Trung tâm gia công cơ khí, máy kết cấu nguyên khối (một vị trí gia công) và máy gia công chuyển dịch đa vị trí để gia công kim loại.",
+        "en": "Machining centres, unit construction machines (single station) and multi-station transfer machines, for working metal."
+      }
+    },
+    {
+      "heading_id": "84.58",
+      "heading_title": {
+        "vi": "Máy tiện (kể cả trung tâm gia công tiện) để bóc tách kim loại.",
+        "en": "Lathes (including turning centres) for removing metal (+)."
+      }
+    },
+    {
+      "heading_id": "84.59",
+      "heading_title": {
+        "vi": "Máy công cụ (kể cả đầu gia công tổ hợp có thể di chuyển được) dùng để khoan, doa, phay, ren hoặc ta rô bằng phương pháp bóc tách kim loại, trừ các loại máy tiện (kể cả trung tâm gia công tiện) thuộc nhóm 84.58 (+).",
+        "en": "Machine-tools (including way-type unit head machines) for drilling, boring, milling, threading or tapping by removing metal, other than lathes (including turning centres) of heading 84.58 (+)."
+      }
+    },
+    {
+      "heading_id": "84.60",
+      "heading_title": {
+        "vi": "Máy công cụ dùng để mài bavia, mài sắc, mài nhẵn, mài khôn, mài rà, đánh bóng hoặc bằng cách khác để gia công hoàn thiện kim loại hoặc gốm kim loại bằng các loại đá mài, vật liệu mài hoặc các chất đánh bóng, trừ các loại máy cắt răng, mài răng hoặc gia công hoàn thiện bánh răng thuộc nhóm 84.61 (+).",
+        "en": "Machine-tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermets by means of grinding stones, abrasives or polishing products, other than gear cutting, gear grinding or gear finishing machines of heading 84.61 (+)."
+      }
+    },
+    {
+      "heading_id": "84.61",
+      "heading_title": {
+        "vi": "Máy bào, máy bào ngang, máy xọc, máy chuốt, máy cắt bánh răng, mài hoặc máy gia công răng lần cuối, máy cưa, máy cắt đứt và các loại máy công cụ khác gia công bằng cách bóc tách kim loại hoặc gốm kim loại, chưa được ghi hoặc chi tiết ở nơi khác.",
+        "en": "Machine-tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine-tools working by removing metal or cermets, not elsewhere specified or included."
+      }
+    },
+    {
+      "heading_id": "84.62",
+      "heading_title": {
+        "vi": "Máy công cụ (kể cả máy ép) dùng để gia công kim loại bằng cách rèn, gò hoặc dập khuôn; máy công cụ (kể cả máy ép) để gia công kim loại bằng cách uốn, gấp, kéo thẳng, dát phẳng, cắt xén, đột dập hoặc cắt rãnh hình chữ V; máy ép để gia công kim loại hoặc carbide kim loại chưa được chi tiết ở trên (+).",
+        "en": "Machine-tools (including presses) for working metal by forging, hammering or die stamping (excluding rolling mills); machine-tools (including presses, slitting lines and cut-to-length lines) for working metal by bending, folding, straightening, flattening, shearing, punching, notching or nibbling (excluding draw-benches); presses for working metal or metal carbides, not specified above (+)."
+      }
+    },
+    {
+      "heading_id": "84.63",
+      "heading_title": {
+        "vi": "Máy công cụ khác để gia công kim loại hoặc gốm kim loại, không cần bóc tách vật liệu.",
+        "en": "Other machine-tools for working metal or cermets, without removing material."
+      }
+    },
+    {
+      "heading_id": "84.64",
+      "heading_title": {
+        "vi": "Máy công cụ để gia công đá, gốm, bê tông, xi măng - amiăng hoặc các loại khoáng vật tương tự hoặc máy dùng để gia công nguội thủy tinh (+).",
+        "en": "Machine-tools for working stone, ceramics, concrete, asbestos-cement or like mineral materials or for cold-working glass (+)."
+      }
+    },
+    {
+      "heading_id": "84.65",
+      "heading_title": {
+        "vi": "Máy công cụ (kể cả máy đóng đinh, đóng ghim, dán hoặc lắp ráp bằng cách khác) dùng để gia công gỗ, lie, xương, cao su cứng, plastic cứng hoặc các vật liệu cứng tương tự.",
+        "en": "Machine-tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials."
+      }
+    },
+    {
+      "heading_id": "84.66",
+      "heading_title": {
+        "vi": "Bộ phận và phụ kiện chỉ dùng hoặc chủ yếu dùng với các máy thuộc các nhóm từ 84.56 đến 84.65, kể cả bộ phận kẹp sản phẩm hoặc kẹp dụng cụ, đầu cắt ren tự mở, đầu chia độ và những bộ phận phụ trợ chuyên dùng khác dùng cho các máy này; bộ phận kẹp dụng cụ dùng cho mọi loại dụng cụ cầm tay.",
+        "en": "Parts and accessories suitable for use solely or principally with the machines of headings 84.56 to 84.65, including work or tool holders, self opening dieheads, dividing heads and other special attachments for the machines; tool holders for any type of tool for working in the hand."
+      }
+    },
+    {
+      "heading_id": "84.67",
+      "heading_title": {
+        "vi": "Dụng cụ cầm tay, hoạt động bằng khí nén, thủy lực hoặc có gắn động cơ dùng điện hoặc không dùng điện.",
+        "en": "Tools for working in the hand, pneumatic, hydraulic or with self-contained electric or non-electric motor."
+      }
+    },
+    {
+      "heading_id": "84.68",
+      "heading_title": {
+        "vi": "Thiết bị và dụng cụ dùng để hàn thiếc, hàn đồng hoặc hàn khác, có hoặc không có khả năng cắt, trừ các loại thuộc nhóm 85.15; máy và thiết bị dùng để tôi bề mặt sử dụng khí ga.",
+        "en": "Machinery and apparatus for soldering, brazing or welding, whether or not capable of cutting, other than those of heading 85.15; gas-operated surface tempering machines and appliances."
+      }
+    },
+    {
+      "heading_id": "84.70",
+      "heading_title": {
+        "vi": "Máy tính và các máy ghi, tái tạo và hiển thị dữ liệu loại bỏ túi có chức năng tính toán; máy kế toán, máy đóng dấu bưu phí, máy bán vé và các loại máy tương tự, có gắn bộ phận tính toán; máy tính tiền.",
+        "en": "Calculating machines and pocket-size data recording, reproducing and displaying machines with calculating functions; accounting machines, postage-franking machines, ticket-issuing machines and similar machines, incorporating a calculating device; cash registers."
+      }
+    },
+    {
+      "heading_id": "84.71",
+      "heading_title": {
+        "vi": "Máy xử lý dữ liệu tự động và các khối chức năng của chúng; đầu đọc từ tính hoặc đầu đọc quang học, máy truyền dữ liệu lên các phương tiện truyền dữ liệu dưới dạng mã hóa và máy xử lý những dữ liệu này, chưa được chi tiết hoặc ghi ở nơi khác (+).",
+        "en": "Automatic data processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included (+)."
+      }
+    },
+    {
+      "heading_id": "84.72",
+      "heading_title": {
+        "vi": "Máy văn phòng khác (ví dụ, máy nhân bản in keo hoặc máy nhân bản sử dụng giấy sáp, máy ghi địa chỉ, máy rút tiền giấy tự động, máy phân loại tiền kim loại, máy đếm hoặc đóng gói tiền kim loại, máy gọt bút chì, máy đột lỗ hoặc máy dập ghim).",
+        "en": "Other office machines (for example, hectograph or stencil duplicating machines, addressing machines, automatic banknote dispensers, coin-sorting machines, coin-counting or wrapping machines, pencil-sharpening machines, perforating or stapling machines)."
+      }
+    },
+    {
+      "heading_id": "84.73",
+      "heading_title": {
+        "vi": "Bộ phận và phụ kiện (trừ vỏ, hộp đựng và các loại tương tự) chỉ dùng hoặc chủ yếu dùng với các máy thuộc các nhóm từ 84.70 đến 84.72.",
+        "en": "Parts and accessories (other than covers, carrying cases and the like) suitable for use solely or principally with the machines of headings 84.70 to 84.72."
+      }
+    },
+    {
+      "heading_id": "84.74",
+      "heading_title": {
+        "vi": "Máy dùng để phân loại, sàng lọc, phân tách, rửa, nghiền, xay, trộn hoặc nhào đất, đá, quặng hoặc các khoáng vật khác, dạng rắn (kể cả dạng bột hoặc dạng nhão); máy dùng để đóng khối, tạo hình hoặc đúc khuôn các nhiên liệu khoáng rắn, bột gốm nhão, xi măng chưa đông cứng, thạch cao hoặc các sản phẩm khoáng khác ở dạng bột hoặc dạng nhão; máy để tạo khuôn đúc bằng cát.",
+        "en": "Machinery for sorting, screening, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form; machinery for agglomerating, shaping or moulding solid mineral fuels, ceramic paste, unhardened cements, plastering materials or other mineral products in powder or paste form; machines for forming foundry moulds of sand."
+      }
+    },
+    {
+      "heading_id": "84.75",
+      "heading_title": {
+        "vi": "Máy để lắp ráp đèn điện hoặc đèn điện tử, bóng đèn ống hoặc đèn điện tử chân không hoặc đèn flash, với vỏ bọc bằng thủy tinh; máy để chế tạo hoặc gia công nóng thủy tinh hoặc đồ thủy tinh.",
+        "en": "Machines for assembling electric or electronic lamps, tubes or valves or flashbulbs, in glass envelopes; machines for manufacturing or hot working glass or glassware."
+      }
+    },
+    {
+      "heading_id": "84.76",
+      "heading_title": {
+        "vi": "Máy bán hàng hóa tự động (ví dụ, máy bán tem bưu điện, máy bán thuốc lá, máy bán thực phẩm hoặc đồ uống), kể cả máy đổi tiền.",
+        "en": "Automatic goods-vending machines (for example, postage stamp, cigarette, food or beverage machines), including money-changing machines (+)."
+      }
+    },
+    {
+      "heading_id": "84.77",
+      "heading_title": {
+        "vi": "Máy dùng để gia công cao su hoặc plastic hoặc dùng trong việc sản xuất các sản phẩm từ những vật liệu trên, chưa được chi tiết hoặc ghi ở nơi khác trong Chương này.",
+        "en": "Machinery for working rubber or plastics or for the manufacture of products from these materials, not specified or included elsewhere in this Chapter."
+      }
+    },
+    {
+      "heading_id": "84.78",
+      "heading_title": {
+        "vi": "Máy chế biến hoặc đóng gói thuốc lá, chưa được chi tiết hoặc ghi ở nơi khác trong Chương này.",
+        "en": "Machinery for preparing or making up tobacco, not specified or included elsewhere in this Chapter."
+      }
+    },
+    {
+      "heading_id": "84.79",
+      "heading_title": {
+        "vi": "Máy và thiết bị cơ khí có chức năng riêng biệt, chưa được chi tiết hoặc ghi ở nơi khác thuộc Chương này.",
+        "en": "Machines and mechanical appliances having individual functions, not specified or included elsewhere in this Chapter."
+      }
+    },
+    {
+      "heading_id": "84.80",
+      "heading_title": {
+        "vi": "Hộp khuôn đúc kim loại; đế khuôn; mẫu làm khuôn; khuôn dùng cho kim loại (trừ khuôn đúc thỏi), carbide kim loại, thủy tinh, khoáng vật, cao su hoặc plastic.",
+        "en": "Moulding boxes for metal foundry; mould bases; moulding patterns; moulds for metal (other than ingot moulds), metal carbides, glass, mineral materials, rubber or plastics."
+      }
+    },
+    {
+      "heading_id": "84.81",
+      "heading_title": {
+        "vi": "Vòi, van và các thiết bị tương tự dùng cho đường ống, thân nồi hơi, bể chứa hoặc các loại tương tự, kể cả van giảm áp và van điều chỉnh bằng nhiệt.",
+        "en": "Taps, cocks, valves and similar appliances for pipes, boiler shells, tanks, vats or the like, including pressure-reducing valves and thermostatically controlled valves."
+      }
+    },
+    {
+      "heading_id": "84.82",
+      "heading_title": {
+        "vi": "Ổ bi hoặc ổ đũa.",
+        "en": "Ball or roller bearings."
+      }
+    },
+    {
+      "heading_id": "84.83",
+      "heading_title": {
+        "vi": "Trục truyền động (kể cả trục cam và trục khuỷu) và tay biên; thân ổ và gối đỡ trục dùng ổ trượt; bánh răng và cụm bánh răng; vít bi hoặc vít đũa; hộp số và các cơ cấu điều tốc khác, kể cả bộ biến đổi mô men xoắn; bánh đà và ròng rọc, kể cả khối puli; ly hợp và khớp nối trục (kể cả khớp nối vạn năng).",
+        "en": "Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints)."
+      }
+    },
+    {
+      "heading_id": "84.84",
+      "heading_title": {
+        "vi": "Đệm và gioăng tương tự làm bằng tấm kim loại mỏng kết hợp với các vật liệu khác hoặc bằng hai hoặc nhiều lớp kim loại; bộ hoặc một số chủng loại đệm và gioăng tương tự, thành phần khác nhau, được đóng trong các túi, bao hoặc đóng gói tương tự; bộ làm kín kiểu cơ khí.",
+        "en": "Gaskets and similar joints of metal sheeting combined with other material or of two or more layers of metal; sets or assortments of gaskets and similar joints, dissimilar in composition, put up in pouches, envelopes or similar packings; mechanical seals."
+      }
+    },
+    {
+      "heading_id": "84.85",
+      "heading_title": {
+        "vi": "Máy móc sử dụng công nghệ sản xuất bồi đắp.",
+        "en": "Machines for additive manufacturing."
+      }
+    },
+    {
+      "heading_id": "84.86",
+      "heading_title": {
+        "vi": "Máy và thiết bị chỉ sử dụng hoặc chủ yếu sử dụng để sản xuất các khối bán dẫn hoặc tấm bán dẫn mỏng, linh kiện bán dẫn, mạch điện tử tích hợp hoặc màn hình dẹt; máy và thiết bị nêu ở Chú giải 11 (C) của Chương này; bộ phận và phụ kiện.",
+        "en": "Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus specified in note 11 (C) to this Chapter; parts and accessories."
+      }
+    },
+    {
+      "heading_id": "84.87",
+      "heading_title": {
+        "vi": "Phụ tùng máy móc, không bao gồm đầu nối điện, màng ngăn, cuộn, công tắc điện hoặc các phụ tùng điện khác, không được ghi hoặc chi tiết ở nơi khác trong Chương này.",
+        "en": "Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter."
+      }
+    }
+  ]
+}

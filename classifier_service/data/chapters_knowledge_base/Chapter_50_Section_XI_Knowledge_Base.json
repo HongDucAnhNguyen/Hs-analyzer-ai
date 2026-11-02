@@ -1,0 +1,72 @@
+{
+  "chapter_id": "50",
+  "chapter_title": {
+    "vi": "Tơ tằm",
+    "en": "Silk"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm tơ tằm và các sản phẩm của nó ở các giai đoạn khác nhau, từ nguyên liệu thô đến vải dệt thành phẩm. Theo mục đích của Chương này, thuật ngữ “tơ tằm” không chỉ bao gồm tơ từ tằm dâu (Bombyx Mori) mà còn cả tơ tằm dại (ví dụ tơ tussah), tơ nhện và tơ biển. Chương này cũng bao gồm cả ruột con tằm.\n\nPhạm vi của Chương bao gồm:\n- Nguyên liệu thô: Kén tằm phù hợp để quay tơ (Nhóm 50.01) và tơ thô chưa xe (Nhóm 50.02).\n- Phế liệu: Phế liệu tơ tằm, bao gồm kén không thích hợp để quay tơ, phế liệu sợi và xơ tái chế (Nhóm 50.03).\n- Sợi: Sợi tơ tằm (trừ sợi kéo từ phế liệu) chưa đóng gói để bán lẻ (Nhóm 50.04); sợi kéo từ phế liệu tơ tằm chưa đóng gói để bán lẻ (Nhóm 50.05); và các loại sợi này khi đã đóng gói để bán lẻ, cùng với ruột con tằm (Nhóm 50.06).\n- Vải: Vải dệt thoi từ tơ tằm hoặc từ phế liệu tơ tằm (Nhóm 50.07).\n\nChương này không bao gồm (loại trừ):\n- Mền xơ, bông (nhóm 30.05 hoặc 56.01).\n- Xơ vụn, bụi xơ và kết xơ từ công nghiệp dệt bằng tơ (nhóm 56.01).\n- Tơ vụn (Chương 63).\n- Chỉ giả catgut bằng tơ tằm (nhóm 56.04).\n- Ruột tằm vô trùng (nhóm 30.06).\n- Tơ ruột tằm gắn lưỡi câu làm thành dây câu cá (nhóm 95.07).\n- Các loại vải dệt thuộc các Chương 57 đến 59 (ví dụ: vải dùng để rây sàng của nhóm 59.11).",
+    "en": "This chapter covers silk and its products at various stages, from raw materials to finished woven fabrics. For the purposes of this Chapter, the term “silk” includes not only silk from the mulberry-feeding silk-worm (Bombyx Mori) but also wild silk (e.g., tussah silk), spider silk, and marine silk. The chapter also includes silk-worm gut.\n\nThe scope of the Chapter includes:\n- Raw materials: Silk-worm cocoons suitable for reeling (Heading 50.01) and raw silk (not thrown) (Heading 50.02).\n- Waste: Silk waste, including cocoons unsuitable for reeling, yarn waste, and garnetted stock (Heading 50.03).\n- Yarn: Silk yarn (other than yarn spun from silk waste) not put up for retail sale (Heading 50.04); yarn spun from silk waste, not put up for retail sale (Heading 50.05); and these yarns when put up for retail sale, along with silk-worm gut (Heading 50.06).\n- Fabrics: Woven fabrics of silk or of silk waste (Heading 50.07).\n\nThis chapter does not cover (excludes):\n- Wadding (heading 30.05 or 56.01).\n- Textile flock and dust and mill neps, of silk (heading 56.01).\n- Rags of silk (Chapter 63).\n- Imitation catgut of silk (heading 56.04).\n- Sterile silk-worm gut (heading 30.06).\n- Silk-worm gut fitted with hooks or made up into fishing lines (heading 95.07).\n- Woven fabrics of Chapters 57 to 59 (e.g., bolting cloth of heading 59.11)."
+  },
+  "notes": [],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo mục đích của Chương này thuật ngữ “tơ tằm” bao gồm không chỉ là chất sợi được tiết ra bởi con tằm nuôi bằng lá dâu (Bombyx Mori) mà còn là những chất được tiết ra từ những con côn trùng tương tự (ví dụ, Bombyx Textor) được biết tới như là tơ tằm dại. Trong số các loài côn trùng hoang dại quan trọng nhất là tơ tussah thu được từ một loại tơ tằm nuôi bằng lá sồi. Tơ nhện và tơ biển cũng được phân loại trong Chương này.\nNói chung, Chương này bao gồm tơ, kể cả các vật liệu dệt đã được phân loại như tơ, ở các giai đoạn khác nhau của quá trình sản xuất, từ vật liệu thô cho tới sản phẩm dệt. Chương này cũng bao gồm cả tơ từ ruột con tằm.",
+        "en": "For the purposes of this Chapter the term “silk” covers not only the fibrous matter secreted by the Bombyx mori (mulberry feeding silk-worm), but also the products of the secretion of similar insects (e.g., Bombyx textor) known as wild silk. Among the wild varieties, the most important is tussah silk obtained from a silk-worm that feeds on oak. Spider silk and marine or byssus silk are also classified in this Chapter.\nGenerally speaking, this Chapter covers silk, including mixed textile materials classified as silk, at its various stages of manufacture, from the raw material to the woven fabric. It also includes silk-worm gut."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "50.01",
+      "heading_title": {
+        "vi": "Kén tằm phù hợp dùng làm tơ.",
+        "en": "Silk worm cocoons suitable for reeling."
+      }
+    },
+    {
+      "heading_id": "50.02",
+      "heading_title": {
+        "vi": "Tơ tằm thô (chưa xe).",
+        "en": "Raw silk (not thrown)."
+      }
+    },
+    {
+      "heading_id": "50.03",
+      "heading_title": {
+        "vi": "Tơ tằm phế phẩm (kể cả kén không thích hợp để quay tơ, xơ sợi phế liệu và xơ sợi tái chế).",
+        "en": "Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)."
+      }
+    },
+    {
+      "heading_id": "50.04",
+      "heading_title": {
+        "vi": "Sợi tơ tằm (trừ sợi kéo từ phế liệu tơ tằm) chưa đóng gói để bán lẻ.",
+        "en": "Silk yarn (other than yarn spun from silk waste) not put up for retail sale."
+      }
+    },
+    {
+      "heading_id": "50.05",
+      "heading_title": {
+        "vi": "Sợi kéo từ phế liệu tơ tằm, chưa đóng gói để bán lẻ.",
+        "en": "Yarn spun from silk waste, not put up for retail sale."
+      }
+    },
+    {
+      "heading_id": "50.06",
+      "heading_title": {
+        "vi": "Sợi tơ tằm và sợi kéo từ phế liệu tơ tằm, đã đóng gói để bán lẻ; ruột con tằm.",
+        "en": "Silk yarn and yarn spun from silk waste, put up for retail sale; silk-worm gut."
+      }
+    },
+    {
+      "heading_id": "50.07",
+      "heading_title": {
+        "vi": "Vải dệt thoi dệt từ tơ tằm hoặc từ phế liệu tơ tằm (+).",
+        "en": "Woven fabrics of silk or of silk waste (+)."
+      }
+    }
+  ]
+}

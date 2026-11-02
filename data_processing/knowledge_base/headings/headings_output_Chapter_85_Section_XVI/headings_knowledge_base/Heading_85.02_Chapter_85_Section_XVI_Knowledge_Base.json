@@ -1,0 +1,113 @@
+{
+  "heading_id": "85.02",
+  "heading_title": {
+    "vi": "Tổ máy phát điện và máy biến đổi điện quay.",
+    "en": "Electric generating sets and rotary converters."
+  },
+  "summary": {
+    "vi": "Nhóm 85.02 bao gồm tổ máy phát điện và máy biến đổi điện quay. Tổ máy phát điện là sự kết hợp giữa máy phát điện và máy kéo sơ cấp không phải động cơ điện, ví dụ như động cơ đốt trong, tua-bin hơi nước, hoặc bánh xe gió. Chúng được phân loại tại đây khi được lắp ráp thành một khối hoặc trên một bệ chung, tuân theo chú giải tổng quát của Phần XVI. Các tổ máy phát điện chuyên dụng cho thiết bị hàn cũng thuộc nhóm này, nhưng sẽ bị loại trừ sang nhóm 85.15 nếu được trình bày cùng với đầu kẹp que hàn. Máy biến đổi điện quay được dùng để thay đổi bản chất (ví dụ từ xoay chiều sang một chiều) hoặc các đặc tính (điện áp, tần số, pha) của dòng điện. Các bộ phận của tất cả các máy móc trong nhóm này đều được phân loại riêng vào nhóm 85.03.",
+    "en": "Heading 85.02 covers electric generating sets and rotary converters. Generating sets are combinations of an electric generator and a non-electric prime mover, such as an internal combustion engine, steam turbine, or wind engine. They are classified here when assembled as a unit or on a common base, following the general notes of Section XVI. Generating sets for welding equipment are also included, but are excluded to heading 85.15 if presented with welding heads. Rotary converters are used to change the nature (e.g., from AC to DC) or characteristics (voltage, frequency, phase) of electric current. Parts for all machines in this heading are classified separately in heading 85.03."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(I) CÁC TỔ MÁY PHÁT ĐIỆN: Thuật ngữ ‘các tổ máy phát điện’ áp dụng vào tổ hợp một máy phát điện và một máy kéo sơ cấp không phải là động cơ điện (ví dụ, tua-bin thủy lực, tua-bin hơi nước, bánh xe gió, máy hơi nước, động cơ đốt trong). Tổ máy phát điện bao gồm máy phát điện và phần kéo sơ cấp được gắn với nhau thành một khối hoặc trên một bệ chung (xem chú giải chi tiết tổng quát Phần XVI), được phân loại ở đây với điều kiện chúng đi cùng nhau. Các tổ máy phát điện cho thiết bị hàn được phân loại trong nhóm này khi hiện diện riêng rẽ, không có đầu kẹp que hàn hoặc thiết bị hàn. Tuy nhiên, chúng bị loại trừ (nhóm 85.15) khi hiện diện cùng đầu kẹp que hàn hoặc thiết bị hàn.\n(II) MÁY BIẾN ĐỔI ĐIỆN QUAY: Các máy này bao gồm một máy phát điện kết hợp với một động cơ điện, được gắn cố định trên cùng một bệ. Chúng được dùng để biến đổi các tính chất của dòng điện (biến đổi dòng điện xoay chiều thành dòng điện một chiều hoặc ngược lại) hoặc để thay đổi các đặc tính cụ thể như là điện áp, tần số hoặc pha của dòng xoay chiều (ví dụ: tần số từ 50 lên 200 chu kỳ hoặc biến một dòng một pha thành ba pha).",
+        "en": "(I) ELECTRIC GENERATING SETS: The expression “generating sets” applies to the combination of an electric generator and any prime mover other than an electric motor (e.g., hydraulic turbines, steam turbines, wind engines, reciprocating steam engines, internal combustion engines). Generating sets consisting of the generator and its prime mover which are mounted together as one unit or on a common base (see the General Explanatory Note to Section XVI), are classified here provided they are presented together. Electric generating sets for welding equipment are classified in this heading when presented separately, without their welding heads or welding appliances. However, they are excluded (heading 85.15) when presented together with their welding heads or welding appliances.\n(II) ELECTRIC ROTARY CONVERTERS: These consist essentially of a combination of an electric generator and a prime mover consisting of an electric motor permanently mounted on a common base. They are used to transform the nature of the current (to convert from AC to DC or vice versa) or to change certain characteristics such as the voltage, frequency or phase of alternating current (to convert, for example, the frequency of 50 to 200 cycles or to transform single phase to three phase current)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Một loại máy biến đổi quay khác (đôi khi gọi là máy biến thế quay) được sử dụng để biến đổi dòng một chiều từ điện áp này sang điện áp khác.\nBỘ PHẬN: Theo các quy tắc chung phân loại các bộ phận (xem chú giải chi tiết tổng quát Phần XVI), bộ phận của máy móc thuộc nhóm này được phân loại vào nhóm 85.03.",
+        "en": "Another type of rotary converter (sometimes known as a rotary transformer) is used to convert DC from one voltage to another.\nPARTS: Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the machines of this heading are classified in heading 85.03."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Tổ máy phát điện với động cơ đốt trong kiểu piston cháy do nén (động cơ diesel hoặc bán diesel).",
+        "en": "Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines):"
+      },
+      "subheading_id": "8502.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất không quá 75 kVA",
+        "en": "Of an output not exceeding 75 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tổ máy phát điện với động cơ đốt trong kiểu piston cháy do nén (động cơ diesel hoặc bán diesel).",
+        "en": "Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines):"
+      },
+      "subheading_id": "8502.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất trên 75 kVA nhưng không quá 375 kVA",
+        "en": "Of an output exceeding 75 kVA but not exceeding 375 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tổ máy phát điện với động cơ đốt trong kiểu piston cháy do nén (động cơ diesel hoặc bán diesel).",
+        "en": "Generating sets with compression-ignition internal combustion piston engines (diesel or semi-diesel engines):"
+      },
+      "subheading_id": "8502.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất trên 375 kVA",
+        "en": "Of an output exceeding 375 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8502.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tổ máy phát điện với động cơ đốt trong kiểu piston đốt cháy bằng tia lửa điện",
+        "en": "Generating sets with spark-ignition internal combustion piston engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tổ máy phát điện khác:",
+        "en": "Other generating sets:"
+      },
+      "subheading_id": "8502.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chạy bằng sức gió",
+        "en": "Wind-powered"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tổ máy phát điện khác:",
+        "en": "Other generating sets:"
+      },
+      "subheading_id": "8502.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8502.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy biến đổi điện quay",
+        "en": "Electric rotary converters"
+      }
+    }
+  ]
+}

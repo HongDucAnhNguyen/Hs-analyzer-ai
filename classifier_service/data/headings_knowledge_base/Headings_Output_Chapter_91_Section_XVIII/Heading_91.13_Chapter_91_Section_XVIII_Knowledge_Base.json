@@ -1,0 +1,65 @@
+{
+  "heading_id": "91.13",
+  "heading_title": {
+    "vi": "Dây đeo, quai đeo và vòng đeo đồng hồ cá nhân, và các bộ phận của chúng.",
+    "en": "Watch straps, watch bands and watch bracelets, and parts thereof."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại dây đeo, quai đeo và vòng đeo dùng để giữ đồng hồ trên cổ tay, có thể được làm bằng mọi chất liệu như kim loại cơ bản, kim loại quý, da, plastic hay vật liệu dệt, kể cả loại có tính trang trí. Nhóm này cũng bao gồm các bộ phận có thể nhận biết được của các sản phẩm trên.\n\nNhóm này không bao gồm:\n(a) Các thiết bị đeo khác như vòng cổ, dây xích, nhẫn, kim gài.\n(b) Khoá và khoá bấm bằng kim loại quý hoặc kim loại dát phủ kim loại quý (nhóm 71.15) hoặc bằng kim loại cơ bản (nhóm 83.08).\n(c) Dây đeo, quai đeo và vòng đeo được trình bày cùng với đồng hồ cá nhân nhưng không gắn vào đồng hồ (nhóm 91.01 hay 91.02).",
+    "en": "This heading covers all devices for fastening watches to the wrist, such as watch straps, bands, and bracelets. They can be made of any material, for example, base metal, precious metal, leather, plastics, or textile material, and may be decorative. The heading also includes identifiable parts of these articles.\n\nThis heading excludes:\n(a) Other attaching devices such as neck chains, watch chains, rings, brooches, etc.\n(b) Buckles and buckle-clasps of precious metal or of metal clad with precious metal (heading 71.15) or of base metal (heading 83.08).\n(c) Watch straps, bands, and bracelets presented with their watches but not attached thereto (heading 91.01 or 91.02)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại dây đeo, quai đeo và vòng đeo của đồng hồ cá nhân, tức là tất cả những gì có thể giữ chắc đồng hồ trên cổ tay.\nDây đeo, quai đeo và vòng đeo đồng hồ cá nhân có thể được làm bằng mọi chất liệu, ví dụ, kim loại cơ bản, kim loại quý, da, plastic hay vật liệu dệt. Chúng cũng có thể được trang trí một cách đặc sắc nhưng không vì thế mà làm thay đổi việc phân loại.\nNhóm này cũng bao gồm các bộ phận của dây đeo, quai đeo và vòng đeo đồng hồ làm từ bất cứ chất liệu gì khi có thể nhận biết được chúng.",
+        "en": "This heading covers all kinds of watch straps, watch bands and watch bracelets, i.e., all devices for fastening watches to the wrist.\nWatch straps, watch bands and watch bracelets may be of any material, for example, base metal, precious metal, leather, plastics or textile material. They may also be clearly decorative in character without this affecting their classification.\nThe heading also includes parts of watch straps, watch bands and watch bracelets, identifiable as such, of any material."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Những thứ để đeo khác (vòng đeo cổ, dây đeo, dây xích, nhẫn, kim gài, v.v). Chúng được phân loại vào các nhóm tương ứng với chúng.\n(b) Khoá và khoá bấm bằng kim loại quý hay kim loại dát phủ kim loại quý (nhóm 71.15) hoặc bằng kim loại cơ bản (nhóm 83.08).\n(c) Dây đeo, quai đeo và vòng đeo trình bày cùng với đồng hồ cá nhân của chúng nhưng không gắn vào đồng hồ (nhóm 91.01 hay 91.02).",
+        "en": "The heading excludes:\n(a) Other attaching devices (neck chains, pendant bands, watch chains, rings, brooches, etc.) which are classifiable in their appropriate headings.\n(b) Buckles and buckle-clasps of precious metal or of metal clad with precious metal (heading 71.15) or of base metal (heading 83.08).\n(c) Watch straps, watch bands and watch bracelets presented with their watches but not attached thereto (heading 91.01 or 91.02)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9113.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng kim loại quý hoặc kim loại dát phủ kim loại quý",
+        "en": "Of precious metal or of metal clad with precious metal"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9113.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng kim loại cơ bản, đã hoặc chưa mạ vàng hoặc bạc",
+        "en": "Of base metal, whether or not gold- or silver-plated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9113.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

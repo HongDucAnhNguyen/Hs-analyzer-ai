@@ -1,0 +1,77 @@
+{
+  "heading_id": "72.17",
+  "heading_title": {
+    "vi": "Dây của sắt hoặc thép không hợp kim (+).",
+    "en": "Wire of iron or non-alloy steel (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 72.17 bao gồm dây của sắt hoặc thép không hợp kim, được định nghĩa theo Chú giải 1(o) của Chương 72. Sản phẩm này thường được sản xuất bằng cách kéo nguội các thanh hoặc que cán nóng của nhóm 72.13 và được đóng gói ở dạng cuộn. Nhóm này cũng bao gồm dây đã qua gia công (ví dụ uốn nếp) hoặc dây được bọc bằng vật liệu khác như vải dệt, miễn là lõi sắt hoặc thép vẫn là thành phần chính. Các ứng dụng chính của dây bao gồm sản xuất hàng rào, lưới, đinh, dây thừng, và lò xo. Nhóm này loại trừ một số sản phẩm cụ thể như sợi trộn kim loại (nhóm 56.05), dây cáp bện (nhóm 73.12), dây thép gai (nhóm 73.13), điện cực hàn (nhóm 83.11), dây dùng cho máy chải (nhóm 84.48), dây điện cách điện (nhóm 85.44) và dây đàn (nhóm 92.09). Đối với các sản phẩm có nhiều lớp phủ, cần tham chiếu đến Chú giải của nhóm 72.10.",
+    "en": "Heading 72.17 covers wire of iron or non-alloy steel, as defined in Note 1(o) to Chapter 72. This product is typically produced by cold-drawing hot-rolled bars or rods of heading 72.13 and is presented in coils. The heading also includes wire that has been worked (e.g., by crimping) or covered with other materials like textiles, provided the iron or steel core remains the essential element. Key applications include the manufacture of fencing, netting, nails, ropes, and springs. This heading excludes specific products such as metallised yarn (heading 56.05), stranded cables (heading 73.12), barbed wire (heading 73.13), welding electrodes (heading 83.11), wire for card clothing (heading 84.48), insulated electric wire (heading 85.44), and musical instrument strings (heading 92.09). For products with more than one type of coating, reference should be made to the Explanatory Note of heading 72.10."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Dây thuộc nhóm này được định nghĩa trong Chú giải 1(o) của chương này. Dây được sản xuất chủ yếu từ các thanh hoặc que cán nóng thuộc nhóm 72.13 bằng cách kéo qua khuôn hoặc bằng bất kỳ quá trình tạo hình nguội nào khác (ví dụ: cán nguội). Dây được thể hiện ở dạng cuộn.",
+        "en": "Wire of this heading is defined in Note 1 (o) to this Chapter. Wire is mostly produced from hot-rolled bars and rods of heading 72.13 by drawing them through a die but may also be obtained by any other cold-forming process (e.g., cold-rolling). Wire is presented in coils."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Dây đã được gia công (ví dụ: uốn nếp) hoặc được bọc bằng vật liệu như vải dệt (ví dụ: dây làm khung mũ, cuống hoa nhân tạo, ống cuốn tóc) vẫn thuộc nhóm này, miễn là nó không mang đặc tính của các sản phẩm thuộc nhóm khác. Nhóm này không bao gồm: sợi trộn kim loại (nhóm 56.05), dây xe hoặc dây thừng được gia cố bằng dây (nhóm 56.07); dây bện tao, dây thừng, dây cáp (nhóm 73.12); dây thép gai, dây dẹt đơn xoắn dùng làm hàng rào (nhóm 73.13); dây đôi dùng làm bộ go máy dệt (nhóm 73.26); điện cực hàn đã phủ (nhóm 83.11); dây có răng dùng làm kim chải (nhóm 84.48); dây cách điện (kể cả dây tráng men) (nhóm 85.44); dây đàn cho nhạc cụ (nhóm 92.09). Chú giải phân nhóm đề cập đến việc xem chú giải của các phân nhóm thuộc nhóm 72.10 đối với các sản phẩm đã qua nhiều quy trình phủ, bọc, hoặc mạ.",
+        "en": "Wire which has been worked (e.g., by crimping) or covered with a material such as textile (e.g., wire for hat frames, stems for artificial flowers or hair curlers) remains in this heading, provided it does not assume the character of articles of other headings. The heading does not cover: metallised yarn (heading 56.05), twine or cord reinforced with wire (heading 56.07); stranded wire, ropes, cables (heading 73.12); barbed wire, twisted single flat wire for fencing (heading 73.13); 'duplex' wire for textile loom healds (heading 73.26); coated welding electrodes (heading 83.11); saw-toothed wire for card clothing (heading 84.48); insulated electric wire (including enamelled wire) (heading 85.44); musical instrument strings (heading 92.09). The Subheading Explanatory Note refers to the Explanatory Note to the subheadings of heading 72.10 for products subjected to more than one type of coating, plating or cladding."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7217.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không được mạ hoặc tráng, đã hoặc chưa được đánh bóng",
+        "en": "Not plated or coated, whether or not polished"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7217.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Được mạ hoặc tráng kẽm",
+        "en": "Plated or coated with zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7217.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Được mạ hoặc tráng kim loại cơ bản khác",
+        "en": "Plated or coated with other base metals"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7217.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

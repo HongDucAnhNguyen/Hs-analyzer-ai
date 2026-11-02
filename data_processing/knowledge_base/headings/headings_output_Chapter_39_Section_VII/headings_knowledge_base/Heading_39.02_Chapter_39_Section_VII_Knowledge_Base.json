@@ -1,0 +1,77 @@
+{
+  "heading_id": "39.02",
+  "heading_title": {
+    "vi": "Polyme từ propylen hoặc từ các olefin khác, dạng nguyên sinh.",
+    "en": "Polymers of propylene or of other olefins, in primary forms."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các polyme từ tất cả các olefin (trừ etylen) ở dạng nguyên sinh, trong đó quan trọng nhất là polypropylen, polyisobutylen và các copolyme propylen. Các quy tắc phân loại polyme, copolyme, polyme biến đổi hóa học và polyme pha trộn phải tuân theo Chú giải Tổng quát của Chương này. Polypropylen có đặc tính tương tự polyetylen tỷ trọng cao và có nhiều ứng dụng rộng rãi như làm màng bao gói, linh kiện ô tô, đồ gia dụng, và lớp lót thảm. Polyisobutylen, mặc dù giống cao su, nhưng không được phân loại trong Chương 40. Nó được dùng làm lớp phủ chống thấm và điều chỉnh các loại nhựa khác. Polyisobutylen polyme hóa nhẹ, đáp ứng Chú giải 3(a) của Chương này, cũng thuộc nhóm này và dùng để điều chỉnh dầu bôi trơn. Tuy nhiên, nhóm này loại trừ polyisobutylen tổng hợp dạng lỏng và các polyolefin tổng hợp dạng lỏng khác không đáp ứng Chú giải 3(a), chúng thuộc nhóm 27.10.",
+    "en": "This heading covers polymers of all olefins (except ethylene) in primary forms, with the most important being polypropylene, polyisobutylene, and propylene copolymers. The classification rules for polymers, copolymers, chemically modified polymers, and polymer blends are governed by the General Explanatory Note to this Chapter. Polypropylene has properties similar to high-density polyethylene and has wide applications such as packaging film, automotive parts, housewares, and carpet backing. Polyisobutylene, although resembling rubber, is not classified in Chapter 40. It is used for waterproof coatings and modifying other plastics. Slightly polymerised polyisobutylene that meets Note 3(a) to this Chapter is also included and is used to modify lubricating oils. However, the heading excludes liquid synthetic polyisobutylene and other liquid synthetic polyolefins not meeting the requirements of Note 3(a), which are classified under heading 27.10."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các polyme từ tất cả các loại olefin (hydrocarbon mạch hở có một hoặc nhiều nối đôi) trừ etylen. Các polyme quan trọng của nhóm này là polypropylen, polyisobutylen và các copolyme propylen. Việc phân loại polyme (kể cả copolyme), polyme biến đổi hóa học và polyme pha trộn tuân theo Chú giải Tổng quát của Chương này. Polypropylen có các đặc tính vật lý tương tự polyetylen tỷ trọng cao và có ứng dụng rộng rãi như màng bao gói, bộ phận đúc của ô tô, dụng cụ gia đình, lớp bọc dây dẫn và cáp, nắp hộp thực phẩm, các sản phẩm dát mỏng và tráng phủ, chai lọ, khay chứa, đường ống, lớp lót thùng chứa và lớp bồi của thảm. Polyisobutylen khi được polyme hóa đủ thì giống cao su nhưng không được phân loại trong Chương 40 vì không đáp ứng định nghĩa cao su tổng hợp; nó được dùng làm lớp bảo vệ chống thấm và làm thay đổi các chất plastic khác. Polyisobutylen polyme hóa nhẹ đáp ứng yêu cầu của Chú giải 3(a) của Chương này cũng được bao gồm, là chất lỏng sền sệt dùng để thay đổi tính chất của dầu bôi trơn.",
+        "en": "This heading covers polymers of all olefins (acyclic hydrocarbons with one or more double bonds) except ethylene. The important polymers are polypropylene, polyisobutylene, and propylene copolymers. The classification of polymers (including copolymers), chemically modified polymers, and polymer blends is governed by the General Explanatory Note to this Chapter. Polypropylene has physical properties similar to high-density polyethylene and is widely used for packaging film, moulded parts for automobiles, housewares, wire and cable coating, food container closures, coated and laminated products, bottles, trays, ducting, tank linings, piping, and tufted carpet backing. Sufficiently polymerised polyisobutylene resembles rubber but is not classified in Chapter 40 as it does not meet the definition of synthetic rubber; it is used for waterproof coatings and for modifying other plastics. Slightly polymerised polyisobutylene meeting the requirements of Note 3 (a) to this Chapter is also included; it is a viscous liquid used to modify the properties of lubricating oils."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm polyisobutylen tổng hợp dạng lỏng hoặc các polyolefin tổng hợp dạng lỏng khác không thỏa mãn các yêu cầu của Chú giải 3(a) thuộc Chương này (nhóm 27.10).",
+        "en": "The heading does not cover liquid synthetic polyisobutylene or other liquid synthetic polyolefins not meeting the requirements of Note 3 (a) to this Chapter (heading 27.10)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3902.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Polypropylen",
+        "en": "Polypropylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3902.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Polyisobutylen",
+        "en": "Polyisobutylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3902.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các copolyme propylen",
+        "en": "Propylene copolymers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3902.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

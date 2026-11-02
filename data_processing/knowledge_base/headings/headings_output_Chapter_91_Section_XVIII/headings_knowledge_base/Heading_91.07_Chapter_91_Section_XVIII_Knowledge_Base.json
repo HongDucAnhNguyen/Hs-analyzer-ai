@@ -1,0 +1,21 @@
+{
+  "heading_id": "91.07",
+  "heading_title": {
+    "vi": "Thiết bị đóng ngắt định giờ (time switches) có máy đồng hồ cá nhân hoặc đồng hồ thời gian hoặc có động cơ đồng bộ.",
+    "en": "Time switches with clock or watch movement or with synchronous motor."
+  },
+  "summary": {
+    "vi": "Nhóm 91.07 bao gồm các thiết bị đóng ngắt định giờ dùng để tự động điều khiển mạch điện, hoạt động bằng máy đồng hồ hoặc động cơ đồng bộ. Chúng được ứng dụng để điều khiển hệ thống chiếu sáng, sưởi, làm mát, và các thiết bị hoạt động bằng đồng xu. Nhóm này loại trừ đồng hồ thời gian thông thường của nhóm 91.05. Các bộ phận được trình bày riêng lẻ như vỏ hộp (nhóm 91.12), máy đồng hồ (nhóm 91.08 đến 91.10) và bộ phận của chúng (nhóm 91.10, 91.14) cũng không thuộc nhóm này.",
+    "en": "Heading 91.07 covers time switches used to automatically control electrical circuits, operated by a watch/clock movement or a synchronous motor. They are used for controlling lighting, heating, cooling systems, and coin-operated apparatus. This heading excludes ordinary clocks of heading 91.05. Separately presented parts such as cases (heading 91.12), movements (headings 91.08 to 91.10), and their parts (heading 91.10, 91.14) are also excluded."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm các thiết bị không có đặc tính của đồng hồ thời gian thuộc nhóm 91.05, được thiết kế để tự động nối hoặc ngắt mạch điện tại thời điểm đã định. Các thiết bị này phải có máy đồng hồ cá nhân, đồng hồ thời gian hoặc động cơ đồng bộ. Chúng được sử dụng để điều khiển hệ thống chiếu sáng, hệ thống đốt nóng, hệ thống làm lạnh, trạm bơm và đồng hồ điện hai tốc độ. Nhóm này cũng bao gồm công tắc hoạt động bằng đồng xu cho các thiết bị điện như máy thu hình, bàn là, máy giặt, đèn bi-a. Chúng có thể được kích hoạt bởi bộ ổn nhiệt, bộ điều áp, bộ điều chỉnh mực nước. Nhóm này không bao gồm khi trình bày riêng: vỏ hộp (nhóm 91.12 hoặc nhóm tương ứng), máy đồng hồ cá nhân hay đồng hồ thời gian (các nhóm từ 91.08 đến 91.10) và bộ phận của các máy này (thường thuộc nhóm 91.10 hoặc 91.14).",
+        "en": "This heading covers devices which do not have the character of clocks of heading 91.05, but are mainly designed to make or break electric circuits automatically at given times. These devices must have a movement of the watch or clock type or a synchronous motor. They are used for the control of lighting circuits, heating circuits, cooling installations, pumps, and two-rate electricity supply meters. The heading also includes coin-operated switches for electrical apparatus such as television receivers, irons, washing machines, and billiard table lights. They may be set in action by thermostats, pressure regulators, or water level regulators. The heading excludes when presented separately: cases (classified either in heading 91.12 or in their respective headings), watch or clock movements (headings 91.08 to 91.10) and parts of such movements (generally heading 91.10 or 91.14)."
+      }
+    }
+  ],
+  "subheadings": []
+}

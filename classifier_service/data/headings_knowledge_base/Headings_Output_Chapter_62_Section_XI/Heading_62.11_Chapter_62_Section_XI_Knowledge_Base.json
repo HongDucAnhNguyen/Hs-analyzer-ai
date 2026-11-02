@@ -1,0 +1,130 @@
+{
+  "heading_id": "62.11",
+  "heading_title": {
+    "vi": "Bộ quần áo thể thao, bộ quần áo trượt tuyết và quần áo bơi; quần áo khác.",
+    "en": "Track suits, ski suits and swimwear; other garments."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bộ quần áo thể thao, bộ quần áo trượt tuyết, quần áo bơi và các loại quần áo khác không dệt kim hoặc móc. Các quy định của Chú giải chi tiết nhóm 61.12 (đối với bộ quần áo thể thao, bộ quần áo trượt tuyết và quần áo bơi) và nhóm 61.14 (về các loại áo quần khác) được áp dụng tương tự có điều chỉnh cho các sản phẩm của nhóm này. Không giống như nhóm 61.14, nhóm này cũng bao gồm áo gi-lê may được trình bày riêng biệt. Nhóm này còn bao gồm vải ở dạng mảnh để làm khố và các khố riêng chiếc.",
+    "en": "This heading covers track suits, ski suits, swimwear, and other garments, not knitted or crocheted. The provisions of the Explanatory Notes to heading 61.12 (concerning track suits, ski suits and swimwear) and heading 61.14 (concerning other garments) apply mutatis mutandis to the articles of this heading. Unlike heading 61.14, this heading also covers tailored waistcoats presented separately. It also includes fabric in the piece for making loin-cloths and separate loin-cloths."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các quy định của Chú giải chi tiết nhóm 61.12 đối với bộ quần áo thể thao, bộ quần áo trượt tuyết và quần áo bơi và của Chú giải chi tiết nhóm 61.14 về các loại áo quần khác được áp dụng tương tự nhưng phải có sự sửa đổi sao cho phù hợp đối với các sản phẩm của nhóm này. Tuy nhiên, bộ đồ thể thao thuộc nhóm này có thể được lót.\nLưu ý rằng, không giống như nhóm 61.14, nhóm này cũng bao gồm áo gi-lê may được trình bày riêng biệt, không dệt kim hoặc móc.\nNhóm này cũng bao gồm vải ở dạng mảnh, có sợi ngang cách đều, có thể tạo ra khố (khăn quấn quanh thắt lưng) bằng cách cắt đơn giản và không phải gia công thêm). Khố riêng chiếc cũng được phân loại vào nhóm này.",
+        "en": "The provisions of the Explanatory Note to heading 61.12 concerning track suits, ski suits and swimwear and of the Explanatory Note to heading 61.14 concerning other garments apply, mutatis mutandis, to the articles of this heading. However, the track suits of this heading may be lined.\nIt should be noted that, unlike heading 61.14 this heading also covers tailored waistcoats separately presented, not knitted or crocheted.\nThis heading also includes fabric in the piece, with the weft threads omitted at regular intervals, from which loin-cloths can be obtained by simple cutting and without further fabrication. Separate loin-cloths are also included."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần áo bơi:",
+        "en": "- Swimwear:"
+      },
+      "subheading_id": "6211.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dùng cho nam giới hoặc trẻ em trai",
+        "en": "- - Men’s or boys’"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần áo bơi:",
+        "en": "- Swimwear:"
+      },
+      "subheading_id": "6211.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dùng cho phụ nữ hoặc trẻ em gái",
+        "en": "- - Women’s or girls’"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6211.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bộ quần áo trượt tuyết",
+        "en": "- Ski suits"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần áo khác, dùng cho nam giới hoặc trẻ em trai:",
+        "en": "- Other garments, men’s or boys’:"
+      },
+      "subheading_id": "6211.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ bông",
+        "en": "- - Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần áo khác, dùng cho nam giới hoặc trẻ em trai:",
+        "en": "- Other garments, men’s or boys’:"
+      },
+      "subheading_id": "6211.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi nhân tạo",
+        "en": "- - Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần áo khác, dùng cho nam giới hoặc trẻ em trai:",
+        "en": "- Other garments, men’s or boys’:"
+      },
+      "subheading_id": "6211.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần áo khác dùng cho phụ nữ hoặc trẻ em gái:",
+        "en": "- Other garments, women’s or girls’:"
+      },
+      "subheading_id": "6211.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ bông",
+        "en": "- - Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần áo khác dùng cho phụ nữ hoặc trẻ em gái:",
+        "en": "- Other garments, women’s or girls’:"
+      },
+      "subheading_id": "6211.43",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi nhân tạo",
+        "en": "- - Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần áo khác dùng cho phụ nữ hoặc trẻ em gái:",
+        "en": "- Other garments, women’s or girls’:"
+      },
+      "subheading_id": "6211.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    }
+  ]
+}

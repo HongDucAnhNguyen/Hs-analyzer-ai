@@ -1,0 +1,113 @@
+{
+  "heading_id": "85.33",
+  "heading_title": {
+    "vi": "Điện trở (kể cả biến trở và chiết áp), trừ điện trở nung nóng.",
+    "en": "Electrical resistors (including rheostats and potentiometers), other than heating resistors."
+  },
+  "summary": {
+    "vi": "Nhóm 85.33 bao gồm các loại điện trở được thiết kế để cung cấp một mức trở kháng xác định trong mạch điện, bao gồm điện trở cố định, biến trở (rheostats) và chiết áp (potentiometers). Các sản phẩm này có thể được làm từ nhiều vật liệu khác nhau như kim loại hoặc than. Nhóm này bao gồm các loại cụ thể như điện trở ngâm dầu, đèn điện trở than (không dùng cho mục đích chiếu sáng), điện trở ổn dòng (barretters), điện trở tiêu chuẩn, và các điện trở phi tuyến như điện trở nhiệt (thermistors) và điện trở phụ thuộc điện áp (varistors). Tuy nhiên, nhóm này loại trừ các điện trở nung nóng (nhóm 85.16 hoặc 85.45), đèn sợi đốt carbon dùng để chiếu sáng (nhóm 85.39), điốt biến đổi theo điện áp (nhóm 85.41) và quang trở (nhóm 85.41). Các bộ phận của các sản phẩm thuộc nhóm này cũng được phân loại tại đây.",
+    "en": "Heading 85.33 covers electrical resistors designed to provide a specific electrical resistance in a circuit, including fixed resistors, rheostats, and potentiometers. These products can be made from various materials such as metal or carbon. The heading includes specific types like oil-immersed resistors, carbon resistance lamps (not for lighting purposes), barretters, standard resistors, and non-linear resistors such as thermistors and varistors. However, this heading excludes heating resistors (heading 85.16 or 85.45), carbon filament lamps for lighting (heading 85.39), varistor diodes (heading 85.41), and light-dependent resistors (heading 85.41). Parts of the articles of this heading are also classified here."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) Điện trở (trở kháng): Là các vật dẫn có chức năng cung cấp một mức trở kháng nhất định trong mạch điện. Chúng có thể được làm từ kim loại (dạng thanh, hình hoặc dây) hoặc từ than (dạng thanh, phim cacbon, cuabua silic, oxit kim loại). Nhóm này bao gồm: (1) Điện trở ngâm dầu.",
+        "en": "(A) Resistors (resistances): These are conductors whose function is to provide a given electrical resistance in a circuit. They may be made of metals (in the form of bars, shapes or wire) or of carbon (in the form of rods, carbon film, silicon carbide, metal or metal oxide film). The heading includes: (1) Oil immersed resistors."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm: (2) Các đèn điện trở than, trừ đèn sợi đốt cácbon dùng để chiếu sáng (nhóm 85.39). (3) Điện trở ổn dòng (barretters) gồm sợi sắt trong ống thủy tinh. (4) Các điện trở tiêu chuẩn và hộp điện trở dùng cho mục đích đo lường. (5) Các điện trở phi tuyến: phụ thuộc vào nhiệt độ (điện trở nhiệt) và phụ thuộc vào điện áp (varistor), nhưng không bao gồm điốt biến đổi theo điện áp thuộc nhóm 85.41. (6) Các điện trở 'thiết bị đo sức căng'.\nNhóm này không bao gồm: (a) Các điện trở nung nóng (nhóm 85.16 hoặc 85.45). (b) Các quang trở (nhóm 85.41).\n(B) Biến trở: là các điện trở biến đổi với một tiếp điểm trượt, bao gồm biến trở dây quấn, biến trở thay đổi từng cấp, biến trở hydro, biến trở tự động và biến trở ly tâm. (C) Chiết áp: là một điện trở cố định với một điểm trượt ở giữa.\nBỘ PHẬN: Theo Chú giải Tổng quát Phần XVI, các bộ phận của điện trở thuộc nhóm này cũng được phân loại trong nhóm này.",
+        "en": "The heading includes: (2) Carbon resistance lamps, excluding carbon filament lamps for lighting purposes (heading 85.39). (3) Barretters consisting of iron filaments in a glass tube. (4) Standard resistors and resistance boxes for measuring purposes. (5) Non-linear resistors: depending on temperature (thermistors) and on voltage (varistors), but not including varistor diodes of heading 85.41. (6) Resistors known as “strain gauges”.\nThe heading excludes: (a) Heating resistors (heading 85.16 or 85.45). (b) Light dependent resistors (heading 85.41).\n(B) Rheostats: These are variable resistors with a sliding contact, including slide wire rheostats, step-by-step rheostats, hydro-rheostats, automatic rheostats, and centrifugal rheostats. (C) Potentiometers: These consist of a fixed resistor with a sliding tapping.\nPARTS: Subject to the General Explanatory Note to Section XVI, parts of the resistors of this heading are also classified here."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8533.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Điện trở than cố định, dạng kết hợp hay dạng màng",
+        "en": "Fixed carbon resistors, composition or film types"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Điện trở cố định khác:",
+        "en": "- Other fixed resistors:"
+      },
+      "subheading_id": "8533.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có công suất danh định không quá 20 W",
+        "en": "- - For a power handling capacity not exceeding 20 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Điện trở cố định khác:",
+        "en": "- Other fixed resistors:"
+      },
+      "subheading_id": "8533.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Điện trở biến đổi kiểu dây quấn, kể cả biến trở và chiết áp:",
+        "en": "- Wirewound variable resistors, including rheostats and potentiometers:"
+      },
+      "subheading_id": "8533.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có công suất danh định không quá 20 W",
+        "en": "- - For a power handling capacity not exceeding 20 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Điện trở biến đổi kiểu dây quấn, kể cả biến trở và chiết áp:",
+        "en": "- Wirewound variable resistors, including rheostats and potentiometers:"
+      },
+      "subheading_id": "8533.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8533.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Điện trở biến đổi khác, kể cả biến trở và chiết áp",
+        "en": "Other variable resistors, including rheostats and potentiometers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8533.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "heading_id": "39.15",
+  "heading_title": {
+    "vi": "Phế liệu, phế thải và mẩu vụn, của plastic.",
+    "en": "Waste, parings and scrap, of plastics."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm plastic đã vỡ hoặc hư hỏng không thể sử dụng cho mục đích ban đầu, hoặc phế liệu sản xuất. Tuy nhiên, nhóm này không áp dụng đối với phế liệu của một vật liệu plastic nhiệt dẻo đơn lẻ đã được chuyển sang dạng nguyên sinh (nhóm 39.01 đến 39.14). Phế liệu của một vật liệu phản ứng nhiệt đơn lẻ hoặc của hai hay nhiều vật liệu plastic nhiệt dẻo trộn lẫn, ngay cả khi được chuyển thành dạng nguyên sinh, vẫn thuộc nhóm này. Nhóm này cũng không bao gồm phế liệu plastic chứa kim loại quý hoặc hợp chất kim loại quý dùng để thu hồi kim loại quý (nhóm 71.12).",
+    "en": "This heading covers broken or worn plastic articles unusable for their original purpose, or manufacturing waste. However, it does not apply to waste of a single thermoplastic material transformed into primary forms (headings 39.01 to 39.14). Waste of a single thermosetting material or of two or more thermoplastic materials mixed together, even if transformed into primary forms, is covered. The heading also excludes plastics waste containing precious metal or its compounds used for recovery of precious metal (heading 71.12)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các sản phẩm thuộc nhóm này có thể bao gồm các sản phẩm plastic đã vỡ hoặc đã bị hư hỏng, rõ ràng không thể sử dụng cho các chức năng ban đầu của chúng, hoặc bao gồm các sản phẩm phế liệu sản xuất (ở dạng mảnh vụn, bụi, đầu mẩu...). Một số phế liệu có thể được tái sử dụng như vật liệu đúc, thành phần cơ bản của vecni, chất độn...\nTuy nhiên, nhóm này không áp dụng đối với các loại phế liệu, phế thải và mảnh vụn của vật liệu plastic nhiệt dẻo đơn lẻ, đã chuyển sang dạng nguyên sinh (các nhóm 39.01 đến 39.14).\nPhế liệu, phế thải và mảnh vụn của một vật liệu phản ứng nhiệt đơn lẻ hoặc của hai hoặc nhiều hơn các vật liệu plastic nhiệt dẻo được trộn lẫn cùng nhau, thậm chí được chuyển sang dạng nguyên sinh, thì được bao gồm ở nhóm này.",
+        "en": "The products of this heading may consist of broken or worn articles of plastics, clearly not usable for their original purposes, or of manufacturing waste (shavings, dust, trimmings, etc.). Some waste can be reused as moulding material, varnish base, fillers, etc.\nThe heading, however, does not apply to waste, parings and scrap of a single thermoplastic material, transformed into primary forms (headings 39.01 to 39.14)\nWaste, parings and scrap of a single thermosetting material or of two or more thermoplastic materials mixed together, even if transformed into primary forms, are covered by the heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm các phế liệu, phế thải và mảnh vụn, từ plastic, chứa kim loại quý hoặc hợp chất của kim loại quý, là loại chủ yếu được sử dụng cho việc thu hồi kim loại quý (nhóm 71.12).",
+        "en": "The heading also excludes waste, parings and scrap, of plastics, containing precious metal or precious metal compounds, of a kind used principally for the recovery of precious metal (heading 71.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3915.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ các polyme từ etylen",
+        "en": "- Of polymers of ethylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3915.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ các polyme từ styren",
+        "en": "- Of polymers of styrene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3915.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ các polyme từ vinyl clorua",
+        "en": "- Of polymers of vinyl chloride"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3915.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ plastic khác",
+        "en": "- Of other plastics"
+      }
+    }
+  ]
+}

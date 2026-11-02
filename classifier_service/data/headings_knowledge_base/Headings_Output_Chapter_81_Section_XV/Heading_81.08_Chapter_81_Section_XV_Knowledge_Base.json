@@ -1,0 +1,58 @@
+{
+  "heading_id": "81.08",
+  "heading_title": {
+    "vi": "Titan và các sản phẩm làm từ titan, kể cả phế liệu và mảnh vụn.",
+    "en": "Titanium and articles thereof, including waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm titan ở tất cả các dạng (dạng đá bọt, thỏi, bột, anot, thanh, que, tấm, lá, phế liệu và mảnh vụn) và các sản phẩm làm từ nó. Titan là kim loại màu trắng, sáng bóng, chống ăn mòn, cứng và giòn trừ khi ở dạng rất tinh khiết. Nó được sử dụng chủ yếu trong ngành công nghiệp máy bay, đóng tàu, và công nghiệp hóa chất. Nhóm này không bao gồm các hợp kim của titan như fero-titan và fero-titan-silic (Chương 72) và các sản phẩm được mô tả ở các chương khác, thường là Phần XVI hoặc XVII (ví dụ: cánh quạt máy bay trực thăng, cánh chân vịt tàu, máy bơm hoặc van). Việc phân loại cacbua titan tuân theo Chú giải chi tiết của nhóm 81.01.",
+    "en": "This heading covers titanium in all its forms (sponge, ingots, powder, anodes, bars, rods, sheets, plates, waste and scrap) and articles thereof. Titanium is a white, shiny metal that is resistant to corrosion, hard, and brittle unless very pure. It is principally used in the aircraft, shipbuilding, and chemical industries. This heading excludes titanium alloys like ferro-titanium and ferro-silicon-titanium (Chapter 72) and articles covered by other Chapters, generally Section XVI or XVII (e.g., helicopter rotors, propeller blades, pumps or valves). The classification of titanium carbide follows the Explanatory Note to heading 81.01."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Titan thu được bởi khử các quặng ôxit Rutile và Brookite và từ Ilmenite (Quặng sắt- Titanferousiron). Tuỳ thuộc theo cách sử dụng, kim loại này có thể được thu ở dạng khối đặc, như một loại bột cho việc thiêu kết (như trong trường hợp Volfram) hoặc ở dạng fero- titan (Chương 72) hoặc cacbua Titan.\nTitan có màu trắng và sáng bóng khi ở dạng rắn chắc (đặc) và có màu đen xám khi ở dạng bột, nó có khả năng chống lại sự ăn mòn kim loại, cứng và dòn trừ khi ở dạng rất tinh khiết.\nFero-Titan có chứa sắt và Fero-Titan - Silic (Chương 72) được sử dụng trong sản xuất thép, kim loại này cũng tạo thành hợp kim với nhôm, đồng, niken...\nTitan chủ yếu được sử dụng trong công nghiệp máy bay, đóng tàu, cho việc chế tạo, ví dụ : thùng chứa, máy khuấy, máy trao đổi nhiệt, van và bom cho ngành hoá học, cho việc khử mặn nước biển và cho việc xây dựng các nhà máy điện hạt nhân.\nNhóm này bao gồm titan ở tất cả các dạng: Đặc biệt ở dạng đá bọt, thỏi (đúc), bột, Anot, thanh và que, tấm và lá, phế liệu và mảnh vụn và các sản phẩm trừ các sản phẩm được mô tả tại các chương khác của Danh mục (nói chung Phần XVI hoặc XVII) như là các cánh quạt của máy bay trực thăng, cánh chân vịt tàu, các bom hoặc van.\nViệc phân loại của cácbua tuân theo việc phân loại của cácbua volfram (xem chú giải chi tiết nhóm 81.01).",
+        "en": "Titanium is obtained by reduction of the oxide ores rutile and brookite, and from ilmenite (titaniferous iron ore). According to the process used, the metal may be obtained in compact form, as a powder for sintering (as in the case of tungsten), as ferro-titanium (Chapter 72) or as titanium carbide.\nTitanium is white and shiny when compact, dark grey when a powder; it is resistant to corrosion, hard and brittle unless very pure.\nFerro-titanium and ferro-silicon-titanium (Chapter 72) are used- in steel manufacture; the metal is also alloyed with aluminium, copper, nickel, etc.\nTitanium is principally used in the aircraft industry, in shipbuilding, for making, e.g., vats, agitators, heat exchangers, valves and pumps for the chemical industry, for the desalination of sea-water and for the construction of nuclear power stations.\nThis heading covers titanium in all forms : in particular, sponge, ingots, powder, anodes, bars and rods, sheets and plates, waste and scrap, and products, orther than those articles covered by other Chapters of the Nomenclature (generally Section XVI or XVII), such as helicopter rotors, propeller blades, pumps or valves.\nThe classification of the carbide follows that of tungsten carbide (see the Explanatory Note to heading 81.01)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8108.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Titan chưa gia công; bột",
+        "en": "Unwrought titanium; powders"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8108.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Phế liệu và mảnh vụn",
+        "en": "Waste and scrap"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8108.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

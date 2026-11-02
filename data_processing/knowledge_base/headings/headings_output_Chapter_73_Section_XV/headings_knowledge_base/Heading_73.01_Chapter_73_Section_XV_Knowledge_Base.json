@@ -1,0 +1,46 @@
+{
+  "heading_id": "73.01",
+  "heading_title": {
+    "vi": "Cọc cừ (sheet pilling) bằng sắt hoặc thép, đã hoặc chưa khoan lỗ, đục lỗ hoặc ghép từ các bộ phận lắp ráp; sắt hoặc thép, ở dạng góc, khuôn và dạng hình, đã được hàn.",
+    "en": "Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements; welded angles, shapes and sections, of iron or steel."
+  },
+  "summary": {
+    "vi": "Nhóm 73.01 bao gồm cọc cừ bằng sắt hoặc thép, được sản xuất bằng các phương pháp như cán, kéo, hoặc lắp ráp từ các bộ phận. Các sản phẩm này có thể được khoan, đục lỗ và thường có các bộ phận nối ở cạnh dọc để liên kết với nhau, sử dụng trong các công trình xây dựng như đập, đê. Nhóm này cụ thể bao gồm các loại như góc cọc cừ, các mặt cắt cọc cừ lắp ráp để làm vách ngăn, các mặt cắt dùng để nối các loại cọc cừ khác nhau, và các cột, đường ống cọc cừ. Ngoài ra, nhóm cũng bao gồm các dạng góc, khuôn, hình đã được hàn, với chú giải tham chiếu đến nhóm 72.16. Nhóm này loại trừ các thanh dạng rỗng đã được hàn (nhóm 73.06) và cọc cừ đã được lắp ráp thành cọc hoàn chỉnh không có khóa liên động bên ngoài (nhóm 73.08).",
+    "en": "Heading 73.01 covers sheet piling of iron or steel, produced by methods such as rolling, drawing, or assembling from elements. These products may be drilled or punched and typically feature connecting devices on their longitudinal sides for interlocking, used in civil engineering works such as dams or dykes. The heading specifically includes items like sheet piling angle or corner pieces, joining sections for partition walls, connecting sections for different types of sheet piling, and sheet piling conduits and columns. It also includes welded angles, shapes, and sections, with reference to the Explanatory Note of heading 72.16. This heading excludes welded hollow profiles (heading 73.06) and sheet piling assembled into piles without external interlocks (heading 73.08)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Cọc cừ bao gồm các thép hình thu được bằng cách cán, kéo, nén, gấp nếp - dập hoặc được tạo hình dáng trong các máy cán, hoặc bằng cách lắp ráp các bộ phận đã được cán (ví dụ như bằng sự tán đinh, hàn, hoặc gấp nếp). Các thép hình này có các bộ phận nối trên các cạnh dọc để được khoá liên động hoặc đặt cạnh nhau.\nNhóm này bao gồm:\n(1) Góc cọc cừ hoặc các mẩu góc, là những mặt cắt dùng để tạo các góc.\n(2) Các mặt cắt cọc cừ lắp ráp với ba hoặc bốn cạnh để làm các vách ngăn.\n(3) Các mặt cắt cọc cừ mắc nối mà hình dạng của chúng cho phép chúng sẽ được sử dụng để nối các loại cọc cừ khác nhau.\n(4) Các cột và đường ống cọc cừ được dẫn tiếp đất để lắp ráp với nhau mà không cần được khoá liên động chặt.\nCọc cừ thường được sử dụng để làm tường trên đất có cát, úng nước hoặc bị ngập nước cho các công trình xây dựng.\nNhóm này còn bao gồm các góc, khuôn, hình đã hàn, áp dụng theo Chú giải của nhóm 72.16.\nNhóm này không bao gồm:\n(a) Thanh dạng rỗng đã được hàn (nhóm 73.06).\n(b) Cọc cừ được lắp ráp thành những cọc mà không có khoá liên động để có thể sử dụng cho việc lắp ráp bên ngoài (nhóm 73.08).",
+        "en": "Sheet piling consists of sections obtained by rolling, drawing, pressing, press-folding or forming on roller machines, or by assembling rolled parts (e.g. by riveting, welding, crimping). These sections have connecting devices on the longitudinal sides for interlocking or juxtaposition.\nThis heading includes:\n(1) Sheet piling angle or corner pieces, which are sections intended to form corners.\n(2) Joining sheet piling sections with three or four arms for making partition walls.\n(3) Connecting sheet piling sections whose shape enables them to be used for connecting different types of sheet piling.\n(4) Sheet piling conduits and columns which are driven into the ground in such a manner that they join together without being forcibly interlocked.\nSheet piling is generally used for making walls in sandy, waterlogged or submerged ground for civil engineering works.\nThe heading also includes welded angles, shapes and sections, applying the Explanatory Note to heading 72.16.\nThe heading does not cover:\n(a) Welded hollow profiles (heading 73.06).\n(b) Sheet piling assembled into piles which have no “interlocks” available for external connection (heading 73.08)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7301.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Cọc cừ",
+        "en": "- Sheet piling"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7301.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Dạng góc, khuôn và hình",
+        "en": "- Angles, shapes and sections"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "heading_id": "65.06",
+  "heading_title": {
+    "vi": "Mũ và các vật đội đầu khác, đã hoặc chưa lót hoặc trang trí",
+    "en": "Other headgear, whether or not lined or trimmed."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại mũ và vật đội đầu không được phân loại trong các nhóm trước của Chương 65 hoặc trong Chương 63, 68 hoặc 95. Nhóm này bao gồm, cụ thể là mũ bảo hộ (ví dụ, dùng cho các hoạt động thể thao, mũ bảo hiểm của quân đội hoặc lính cứu hỏa, mũ của người đi xe mô tô, công nhân hầm mỏ hoặc công nhân xây dựng), có hoặc không được trang bị lớp đệm bảo vệ hoặc micro hoặc tai nghe. Nhóm này cũng bao gồm mũ và vật đội đầu bằng cao su hoặc plastic, da hoặc da tổng hợp, da lông hoặc lông nhân tạo, lông vũ hoặc hoa nhân tạo, và bằng kim loại.",
+    "en": "This heading covers all hats and headgear not classified in the preceding headings of Chapter 65 or in Chapter 63, 68 or 95. It covers, in particular, safety headgear (e.g., for sporting activities, military or firemen’s helmets, motor-cyclists’, miners’ or construction workers’ helmets), whether or not fitted with protective padding or, in the case of certain helmets, with microphones or earphones. The heading also covers hats and headgear of rubber or plastics, leather or composition leather, furskin or artificial fur, feathers or artificial flowers, and of metal."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các loại mũ và các vật đội đầu chưa được phân loại vào các nhóm trước của Chương này hoặc các Chương 63, 68 hoặc 95. Nhóm này bao gồm chủ yếu là các loại mũ bảo hiểm (ví dụ như: các loại mũ được sử dụng khi luyện tập thể thao, các loại mũ bảo hiểm dùng trong quân đội hoặc của lính cứu hoả, mũ của vận động viên đua mô tô, mũ bảo hiểm của công nhân hầm lò hoặc của công nhân xây dựng), có hoặc chưa có lớp lót bảo vệ hoặc, trong một số mũ bảo hiểm, có gắn micro hoặc tai nghe.",
+        "en": "This heading covers all hats and headgear not classified in the preceding headings of this Chapter or in Chapter 63, 68 or 95. It covers, in particular safety headgear (e.g., for sporting activities, military or firemen’s helmets, motor-cyclists’, miners’ or construction workers’ helmets), whether or not fitted with protective padding or, in the case of certain helmets, with microphones or earphones."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm:\n(1) Mũ và vật đội đầu bằng cao su hoặc bằng plastic (ví dụ, mũ trùm đầu khi tắm, mũ trùm đầu).\n(2) Mũ và vật đội đầu bằng da hoặc da tổng hợp.\n(3) Mũ và vật đội đầu bằng da lông tự nhiên hoặc bằng da lông nhân tạo.\n(4) Mũ và vật đội đầu bằng lông vũ hoặc bằng các loại hoa giả.\n(5) Mũ và vật đội đầu bằng kim loại.",
+        "en": "The heading also covers:\n(1) Hats and headgear of rubber or plastics (e.g., bathing caps, hoods).\n(2) Hats and headgear of leather or composition leather.\n(3) Hats and headgear of furskin or artificial fur.\n(4) Hats and headgear of feathers or artificial flowers.\n(5) Hats and headgear of metal."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6506.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Mũ bảo hộ",
+        "en": "Safety headgear"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "6506.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng cao su hoặc bằng plastic",
+        "en": "Of rubber or of plastics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "6506.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng các loại vật liệu khác",
+        "en": "Of other materials"
+      }
+    }
+  ]
+}

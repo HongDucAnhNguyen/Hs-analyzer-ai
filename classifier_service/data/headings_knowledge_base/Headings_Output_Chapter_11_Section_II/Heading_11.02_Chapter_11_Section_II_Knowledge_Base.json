@@ -1,0 +1,53 @@
+{
+  "heading_id": "11.02",
+  "heading_title": {
+    "vi": "Bột ngũ cốc, trừ bột mì hoặc bột meslin.",
+    "en": "Cereal flours other than of wheat or meslin."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bột (sản phẩm thu được từ quá trình xay xát) của các loại ngũ cốc thuộc Chương 10, trừ bột mì hoặc bột meslin, với điều kiện chúng đáp ứng các tiêu chí về hàm lượng tinh bột và tro theo Chú giải 2(A) của Chương và tỷ lệ lọt qua sàng theo Chú giải 2(B) của Chương. Nhóm này cũng bao gồm bột 'trương nở' (đã được hồ hóa sơ bộ) và bột có thể được cải thiện bằng cách thêm một lượng nhỏ khoáng phosphate, chất chống oxy hoá, chất tạo nhũ, vitamin hoặc bột nở. Nhóm này loại trừ các loại bột đã qua chế biến thêm hoặc có pha thêm chất khác để làm chế phẩm thực phẩm (thường thuộc nhóm 19.01) và bột trộn với cacao (nhóm 18.06 hoặc 19.01).",
+    "en": "This heading covers flours (the pulverised products obtained by milling) of cereals of Chapter 10, other than flours of wheat or meslin, provided they fulfil the requirements as to starch and ash content set out in Chapter Note 2(A) and comply with the criterion of passage through a sieve as required by Chapter Note 2(B). The heading also covers 'swelling' (pregelatinised) flours and flours improved by the addition of small quantities of mineral phosphates, anti-oxidants, emulsifiers, vitamins or prepared baking powders. It excludes flours which have been further processed or had other substances added for use as food preparations (generally heading 19.01) and flours mixed with cocoa (heading 18.06 or 19.01)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm bột (nghĩa là bột có được từ quá trình xay xát các loại ngũ cốc thuộc Chương 10) trừ bột mì hoặc bột meslin.\nCác sản phẩm thu được từ quá trình xay xát của lúa mạch đen, lúa đại mạch, yến mạch, ngô (kể cả ngô còn nguyên bắp, vẫn còn hoặc không còn vỏ), lúa miến, gạo hoặc kiều mạch được phân loại vào nhóm này như các loại bột nếu chúng đáp ứng đầy đủ các tiêu chí về hàm lượng tinh bột và hàm lượng tro được quy định trong đoạn (A) của Chú giải 2 và phù hợp với tỷ lệ lọt qua sàng như quy định tại đoạn (B) của Chú giải 2 của Chương.\nCác loại bột thuộc nhóm này có thể được cải thiện tốt hơn khi được thêm một lượng rất nhỏ khoáng phosphate, chất chống oxy hoá, chất tạo nhũ, vitamin hoặc bột nở đã chế biến (bột ủ men).\nNhóm này cũng bao gồm các loại bột \"trương nở\" (đã được hồ hóa sơ bộ) đã được xử lý nhiệt để hồ hóa sơ bộ tinh bột. Loại bột này được sử dụng để sản xuất các chế phẩm thuộc nhóm 19.01, chất phụ gia vào bánh hoặc thức ăn cho gia súc hoặc trong một số ngành công nghiệp như công nghiệp dệt may, giấy hoặc luyện kim (dùng làm nguyên liệu để sản xuất các chất gắn lõi đúc).",
+        "en": "This heading covers flours (i.e., the pulverised products obtained by milling the cereals of Chapter 10) other than flours of wheat or meslin.\nProducts of the milling of rye, barley, oats, maize (corn) (including whole cobs ground with or without their husks) grain sorghum, rice or buckwheat are classified in this heading as flours if they fulfil the requirements as to starch content and ash content set out in paragraph (A) of Chapter Note 2 and comply with the criterion of passage through a standard sieve as required by paragraph (B) of that Note.\nFlours of this heading may be improved by the addition of very small quantities of mineral phosphates, anti-oxidants, emulsifiers, vitamins or prepared baking powders (self-raising flour).\nThe heading also covers “ swelling ” (pregelatinised) flours which have been heat treated to pregelatinise the starch. They are used for making preparations of heading 19.01, bakery improvers or animal feeds or in certain industries such as the textile or paper industries or in metallurgy (for the preparation of foundry core binders)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại bột đã qua các công đoạn chế biến thêm hoặc có pha thêm một số chất dùng làm chế phẩm thực phẩm bị loại trừ (thường được phân loại vào nhóm 19.01).\nNhóm này cũng loại trừ bột trộn với cacao (nhóm 18.06 nếu chứa hàm lượng cacao từ 40% trọng lượng đã khử chất béo trở lên, hoặc nếu dưới 40% thì thuộc nhóm 19.01).",
+        "en": "Flours which have been further processed or had other substances added with a view to their use as food preparations are excluded (generally heading 19.01).\nThe heading also excludes flours mixed with cocoa (heading 18.06 if they contain 40 % or more by weight of cocoa calculated on a totally defatted basis, or heading 19.01 if less)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1102.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bột ngô",
+        "en": "Maize (corn) flour"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1102.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

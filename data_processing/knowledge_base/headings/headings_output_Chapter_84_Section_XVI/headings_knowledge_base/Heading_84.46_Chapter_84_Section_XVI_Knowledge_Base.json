@@ -1,0 +1,77 @@
+{
+  "heading_id": "84.46",
+  "heading_title": {
+    "vi": "Máy dệt.",
+    "en": "Weaving machines (looms)."
+  },
+  "summary": {
+    "vi": "Nhóm 84.46 bao gồm các loại máy dệt vải, được sử dụng để sản xuất vải bằng cách dệt các loại sợi dệt, bao gồm cả sợi xơ thực vật, hoặc các loại sợi khác như sợi kim loại, sợi thủy tinh hoặc sợi amiăng. Nhóm này áp dụng cho cả máy dệt đơn giản và máy dệt phức tạp hơn có các hệ thống chuyên dụng như dobby và Jacquard để tạo ra các kiểu dệt phức tạp. Các loại máy dệt trong nhóm này có thể sản xuất vải phẳng hoặc vải hình ống (máy dệt vòng tròn). Nhóm này cũng bao gồm các loại máy dệt tay và máy dệt dùng để dệt vải lưới kim loại hoặc sợi được kim loại hóa, miễn là chúng có cấu trúc tương tự như máy dệt vải. Tuy nhiên, nhóm này loại trừ các máy móc được thiết kế để kết hợp dây kim loại tạo thành lưới kim loại nặng, thuộc nhóm 84.63. Các bộ phận và phụ kiện của máy dệt thuộc nhóm này được phân loại trong nhóm 84.48.",
+    "en": "Heading 84.46 covers weaving machines (looms), which are used for producing fabrics by weaving textile yarns, including peat fibre, or other yarns such as metal, glass, or asbestos yarns. This heading applies to both simple looms and more complex looms with specialized systems like dobbies and Jacquards for creating intricate weaves. The weaving machines in this heading can produce flat fabrics or tubular fabrics (circular looms). The heading also includes hand looms and looms for weaving wire or metallised yarn, provided they are of the same type as textile weaving looms. However, this heading excludes machines designed for interlacing wire to form heavy wire grill or netting, which fall under heading 84.63. Parts and accessories of weaving machines of this heading are classified in heading 84.48."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm máy dệt vải để sản xuất vải bằng cách dệt, sử dụng các sợi dệt (kể cả sợi xơ thực vật) hoặc các sợi khác như sợi kim loại, sợi thủy tinh hoặc sợi amiăng. Các loại máy dệt bao gồm máy dệt đơn giản và máy dệt phức tạp hơn với các hệ thống điều khiển như dobbies, Jacquards để tạo ra các kiểu dệt phức tạp. Các máy có thể được trang bị các thiết bị chuyên dụng để sản xuất các loại vải đặc biệt (cơ cấu leno, cơ cấu tạo nhung hoặc Terry, bộ phận con thoi quay) hoặc các thiết bị để thay đổi con thoi cho các loại sợi hoặc màu sắc khác nhau. Các thiết bị phụ trợ tháo rời được phân loại trong nhóm này nếu được trình bày cùng với máy dệt, nhưng nếu trình bày riêng rẽ thì sẽ được phân loại vào nhóm 84.48.",
+        "en": "This heading covers weaving machines for the production of fabrics by weaving, using textile (including peat fibre) yarns or other yarns (e.g., of metal, glass or asbestos). Weaving machines include simple looms and more complex looms with control systems such as dobbies, Jacquards, to execute complicated weaves. The machines can be equipped with special devices to produce certain special fabrics (leno mechanisms, warp pile (or Terry) attachments, swivel shuttle attachments) or devices for changing the shuttles to introduce different colours or yarns. Removable auxiliary attachments are classified here if presented with the loom, but if presented separately they are classified in heading 84.48."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Máy dệt có thể sản xuất vải phẳng hoặc vải hình ống (máy dệt vòng tròn). Các loại máy dệt có thể được gọi tên theo cơ cấu hoặc loại vải sản xuất, ví dụ: máy dệt dobby, máy dệt Jacquard, máy dệt có bộ chuyển động hộp tự động, máy dệt không thoi (dùng khí nén, tia nước, kim dài hoặc đầu nhọn), máy dệt ruy băng (máy dệt thanh ngang, Zurich, khoang), máy dệt vải nhung, máy dệt thảm. Nhóm này cũng bao gồm: (1) Khung cửi dệt tay; (2) Máy dệt dùng để dệt vải lưới kim loại hoặc sợi được kim loại hóa có cùng loại với máy dệt vải. Tuy nhiên, nhóm này không bao gồm máy móc dùng để kết hợp dây kim loại tạo thành lưới kim loại nặng (nhóm 84.63). Các bộ phận và phụ kiện của máy dệt thuộc nhóm này được phân loại trong nhóm 84.48.",
+        "en": "Looms may produce flat fabric or tubular fabric (circular looms). Different types of looms may be named according to their mechanism or the fabric they produce, for example, dobby looms, Jacquard looms, automatic box motion looms, shuttleless looms (using compressed air, water jet, long needle, or projectiles), ribbon looms (e.g., bar looms, Zurich looms, and drum looms), pile fabric looms, and carpet looms. The heading also includes: (1) Hand looms; (2) Looms for weaving cloth of wire or metallised yarn provided they are of the same type as textile weaving looms. However, the heading excludes machines for interlacing wire to form heavy wire grill or netting (heading 84.63). Parts and accessories of weaving machines of this heading are classified in heading 84.48."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8446.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cho vải dệt có khổ rộng không quá 30cm",
+        "en": "For weaving fabrics of a width not exceeding 30 cm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Cho vải dệt có khổ rộng trên 30 cm, loại dệt thoi:",
+        "en": "- For weaving fabrics of a width exceeding 30 cm, shuttle type:"
+      },
+      "subheading_id": "8446.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Máy dệt khung cửi có động cơ",
+        "en": "- - Power looms"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Cho vải dệt có khổ rộng trên 30 cm, loại dệt thoi:",
+        "en": "- For weaving fabrics of a width exceeding 30 cm, shuttle type:"
+      },
+      "subheading_id": "8446.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8446.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cho vải dệt có khổ rộng trên 30 cm, loại dệt không thoi",
+        "en": "For weaving fabrics of a width exceeding 30 cm, shuttleless type"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "heading_id": "21.05",
+  "heading_title": {
+    "vi": "Kem lạnh và sản phẩm ăn được tương tự khác, có hoặc không chứa ca cao.",
+    "en": "Ice cream and other edible ice, whether or not containing cocoa."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại kem lạnh (thường được chế biến với thành phần cơ bản là sữa hoặc kem) và các loại kem ăn được khác như sherbet, kem que, dù có chứa ca cao hay không. Tuy nhiên, nhóm này không bao gồm các hỗn hợp và thành phần cơ bản để làm kem lạnh; các sản phẩm này được phân loại theo thành phần cơ bản của chúng (ví dụ: nhóm 18.06, 19.01 hoặc 21.06).",
+    "en": "This heading covers ice cream (usually prepared with a basis of milk or cream) and other edible ice such as sherbets and iced lollipops, whether or not containing cocoa. However, it excludes mixes and bases for making ice cream; these products are classified according to their essential constituents (e.g., heading 18.06, 19.01 or 21.06)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại kem lạnh thường được chế biến với thành phần cơ bản là sữa hoặc kem, và kem ăn được khác (thí dụ: sherbet (kem làm từ nước quả và đôi khi có thêm rượu mùi), kem que), có chứa hoặc không chứa ca cao với tỉ lệ bất kỳ.",
+        "en": "This heading covers ice cream, which is usually prepared with a basis of milk or cream, and other edible ice (e.g., sherbet, iced lollipops), whether or not containing cocoa in any proportion."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này không bao gồm hỗn hợp và các thành phần cơ bản để làm kem lạnh. Các sản phẩm này sẽ được phân loại tuỳ theo thành phần cơ bản chứa trong sản phẩm (thí dụ: nhóm 18.06, 19.01 hoặc 21.06).",
+        "en": "However, the heading excludes mixes and bases for ice cream which are classified according to their essential constituents (e.g., heading 18.06, 19.01 or 21.06)."
+      }
+    }
+  ],
+  "subheadings": []
+}

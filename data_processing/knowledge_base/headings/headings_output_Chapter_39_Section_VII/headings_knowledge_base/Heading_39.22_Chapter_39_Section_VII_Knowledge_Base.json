@@ -1,0 +1,72 @@
+{
+  "heading_id": "39.22",
+  "heading_title": {
+    "vi": "Bồn tắm, bồn tắm vòi sen, bồn rửa, chậu rửa, bệ rửa vệ sinh (bidets), bệ và nắp xí bệt, bình xả nước và các thiết bị vệ sinh tương tự, bằng plastic.",
+    "en": "Baths, shower-baths, sinks, wash-basins, bidets, lavatory pans, seats and covers, flushing cisterns and similar sanitary ware, of plastics."
+  },
+  "summary": {
+    "vi": "Nhóm 39.22 bao gồm các thiết bị vệ sinh bằng plastic được thiết kế để lắp đặt cố định trong nhà, thường kết nối với hệ thống nước hoặc nước thải, ví dụ như bồn tắm, bồn rửa, bệ xí và bình xả nước. Nhóm này cũng bao gồm các mặt hàng vệ sinh di động có kích thước tương tự như vòi rửa xách tay, bồn tắm trẻ em và bồn vệ sinh cắm trại. Tuy nhiên, nhóm này loại trừ các vật dụng vệ sinh nhỏ, di động như bô để giường bệnh (nhóm 39.24). Các phụ kiện phòng tắm như đĩa đựng xà phòng, giá treo khăn được phân loại vào nhóm 39.25 nếu được lắp đặt cố định, nếu không thì thuộc nhóm 39.24.",
+    "en": "Heading 39.22 covers plastic sanitary fittings designed for permanent installation in houses, usually connected to water or sewage systems, such as baths, sinks, lavatory pans, and flushing cisterns. It also includes portable sanitary ware of similar dimensions like portable bidets, baby baths, and camping toilets. However, this heading excludes small portable sanitary articles such as bed pans (heading 39.24). Bathroom accessories like soap dishes and towel rails are classified in heading 39.25 if intended for permanent installation, otherwise they fall in heading 39.24."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các phụ kiện thiết kế để lắp cố định tại chỗ, trong nhà... thông thường bằng cách nối với các hệ thống nước hoặc hệ thống nước thải. Nó cũng bao gồm các mặt hàng vệ sinh khác có kích thước và mục đích sử dụng tương tự, như các vòi rửa (bidet) xách tay, bồn tắm trẻ em và bồn vệ sinh cho cắm trại.",
+        "en": "This heading covers fittings designed to be permanently fixed in place, in houses, etc., normally by connection to the water or sewage systems. It also covers other sanitary ware of similar dimensions and uses, such as portable bidets, baby baths and camping toilets."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các bình xả nước làm từ plastic cũng được phân loại trong nhóm này, có hoặc không được trang bị kèm theo các bộ phận của chúng.",
+        "en": "Flushing cisterns of plastics remain classified in this heading, whether or not equipped with their mechanisms."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này không bao gồm: (a) Các sản phẩm vệ sinh nhỏ loại xách tay được chẳng hạn như bô để giường bệnh và bô để ở phòng ngủ (nhóm 39.24). (b) Các loại đĩa đựng xà phòng, thanh để khăn tắm, hộp đựng bàn chải đánh răng, hộp đựng giấy trong phòng vệ sinh, móc treo khăn tắm và các sản phẩm tương tự cho phòng tắm, phòng vệ sinh hoặc bếp; các sản phẩm này thuộc nhóm 39.25 nếu được nhằm lắp đặt cố định bên trong hoặc trên tường hoặc các vị trí khác của tòa nhà, nếu không thì thuộc nhóm 39.24.",
+        "en": "However, the heading excludes: (a) Small portable sanitary articles such as bed pans and chamber-pots (heading 39.24). (b) Soap dishes, towel rails, tooth-brush holders, toilet paper holders, towel hooks and similar articles for bathrooms, toilets or kitchens; these articles fall in heading 39.25 if intended for permanent installation in or on walls or other parts of buildings, otherwise in heading 39.24."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3922.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bồn tắm, bồn tắm vòi sen, bồn rửa và chậu rửa",
+        "en": "- Baths, shower-baths, sinks and wash-basins"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3922.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bệ và nắp xí bệt",
+        "en": "- Lavatory seats and covers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3922.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

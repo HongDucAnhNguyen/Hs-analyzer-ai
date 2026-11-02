@@ -1,0 +1,108 @@
+{
+  "heading_id": "29.01",
+  "heading_title": {
+    "vi": "Hydrocarbon mạch hở.",
+    "en": "Acyclic hydrocarbons."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các hydrocarbon mạch hở, là những hợp chất chỉ chứa cacbon và hydro mà không có mạch vòng. Chúng được phân thành hai loại: (A) Hydrocarbon mạch hở no (dãy đồng đẳng CnH2n+2) và (B) Hydrocarbon mạch hở chưa no (có liên kết đôi hoặc liên kết ba).\n\n(A) Hydrocarbon mạch hở no bao gồm các hợp chất đã được xác định về mặt hóa học riêng biệt như: etan (độ tinh khiết ≥ 95%), butan, pentan, hexan, heptan, octan, nonan, decan, pentadecan, triacontan, hexacontan.\n\n(B) Hydrocarbon mạch hở chưa no bao gồm:\n1. Monoethylenic (olefin): etylen (độ tinh khiết ≥ 95%), propen (propylen) (độ tinh khiết ≥ 90%), buten, penten, hexen, hepten, octen.\n2. Polyethylenic: propadien, buta-1,2-dien, buta-1,3-dien, isopren.\n3. Dãy Acetylene: acetylene (kể cả khi hòa tan trong aceton dưới áp suất), propyne, butyne.\n4. Ethylene-acetylene: vinylacetylene, methylvinylacetylene.\n\nNhóm này không bao gồm:\n- Metan và propan, kể cả khi chúng là nguyên chất (nhóm 27.11).\n- Etan có độ tinh khiết dưới 95% (nhóm 27.11).\n- Etylen có độ tinh khiết dưới 95% (nhóm 27.11).\n- Propen (propylen) có độ tinh khiết dưới 90% (nhóm 27.11).\n- Butan thô, khí dầu mỏ thô và các hydrocarbon khí thô tương tự (nhóm 27.11).",
+    "en": "This heading covers acyclic hydrocarbons, which are compounds containing only carbon and hydrogen with no rings in their structure. They are classified into two categories: (A) Saturated acyclic hydrocarbons (homologous series CnH2n+2) and (B) Unsaturated acyclic hydrocarbons (containing double or triple bonds).\n\n(A) Saturated acyclic hydrocarbons include separate chemically defined compounds such as: ethane (purity ≥ 95%), butanes, pentanes, hexanes, heptanes, octanes, nonanes, decanes, pentadecanes, triacontanes, hexacontanes.\n\n(B) Unsaturated acyclic hydrocarbons include:\n1. Monoethylenic (olefins): ethylene (purity ≥ 95%), propene (propylene) (purity ≥ 90%), butenes, pentenes, hexenes, heptenes, octenes.\n2. Polyethylenic: propadiene, buta-1,2-diene, buta-1,3-diene, isoprene.\n3. Acetylene series: acetylene (even when dissolved in acetone under pressure), propyne, butyne.\n4. Ethylene-acetylene: vinylacetylene, methylvinylacetylene.\n\nThis heading excludes:\n- Methane and propane, even if pure (heading 27.11).\n- Ethane of a purity of less than 95% (heading 27.11).\n- Ethylene of a purity of less than 95% (heading 27.11).\n- Propene (propylene) of a purity of less than 90% (heading 27.11).\n- Crude butane, crude petroleum gases and similar crude gaseous hydrocarbons (heading 27.11)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Những hydrocarbon mạch hở là những hợp chất chỉ chứa cacbon và hydro mà không có mạch vòng trong cấu trúc của chúng. Chúng được phân làm hai loại:\n(A) Những hydrocarbon mạch hở no.\n(B) Những hydrocarbon mạch hở chưa no.\n\n(A) NHỮNG HYDROCARBON MẠCH HỞ NO\nNhững hydrocarbon mạch hở no hình thành một dãy đồng đẳng với cấu trúc cấu tạo chung (CnH2n+2). Chúng có nhiều trong tự nhiên và là thành phần chính của dầu mỏ.\nHydrocarbon cơ bản là metan (CH4) với một nguyên tử cacbon. Metan và propan (C3H8) với 3 nguyên tử cacbon lại được phân loại vào nhóm 27.11 kể cả khi chúng là nguyên chất.\nNhững hydrocarbon mạch hở no trong nhóm này gồm:\n(1) Etan (C2H6) có 2 nguyên tử cacbon. Để được phân loại vào nhóm này, etan phải có độ tinh khiết từ 95% trở lên tính theo thể tích. Etan với độ tinh khiết thấp hơn bị loại trừ (nhóm 27.11).\n(2) Butan (C4H10) có 4 nguyên tử cacbon.\n(3) Pentan có 5 nguyên tử cacbon.\n(4) Hexan - có 6 nguyên tử cacbon.\n(5) Heptan - có 7 nguyên tử cacbon.\n(6) Octan - có 8 nguyên tử cacbon.\n(7) Nonan - có 9 nguyên tử cacbon.\n(8) Decan - có 10 nguyên tử cacbon.\n(9) Pentadecan - có 15 nguyên tử cacbon.\n(10) Triacontan - có 30 nguyên tử cacbon.\n(11) Hexacontan - có 60 nguyên tử cacbon.\nĐể được xếp vào nhóm này, những hydrocarbon mạch hở no này phải ở dạng những hợp chất đã được xác định về mặt hóa học riêng biệt, thu được bằng tinh chế dầu mỏ và khí tự nhiên hoặc bằng tổng hợp.",
+        "en": "Acyclic hydrocarbons are compounds containing only carbon and hydrogen which have no rings in their structure. They can be classified in two categories:\n(A) Saturated acyclic hydrocarbons\n(B) Unsaturated acyclic hydrocarbons.\n\n(A) SATURATED ACYCLIC HYDROCARBONS\nThese form a homologous series which may be represented by the general formula (CnH2n+2). They occur abundantly in nature and are the main components of petroleum oils.\nThe basic hydrocarbon is methane (CH4) with one atom of carbon. Methane and also propane (C3H8) with three atoms of carbon are, however, classified in heading 27.11 even if they are pure.\nThe saturated acyclic hydrocarbons of this heading include:\n(1) Ethane (C2H6) with two atoms of carbon. To be classified in this heading, ethane must have a purity of 95 % or more by volume. Ethane of lower purity is excluded (heading 27.11).\n(2) Butanes (C4H10) with four atoms of carbon.\n(3) Pentanes, with five atoms of carbon.\n(4) Hexanes, with six atoms of carbon.\n(5) Heptanes, with seven atoms of carbon.\n(6) Octanes, with eight atoms of carbon.\n(7) Nonanes, with nine atoms of carbon.\n(8) Decanes, with ten atoms of carbon.\n(9) Pentadecanes, with fifteen atoms of carbon.\n(10) Triacontanes, with thirty atoms of carbon.\n(11) Hexacontanes, with sixty atoms of carbon.\nTo fall in this heading, these saturated acyclic hydrocarbons must be in the form of separate chemically defined compounds, whether obtained by refining petroleum oils and natural gas or by synthesis."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này loại trừ butan thô, khí dầu thô và những hydrocacbon khí thô tương tự thuộc nhóm 27.11.\n\n(B) HYDROCARBON MẠCH HỞ CHƯA NO\nNhững hydrocarbon chưa no này bao gồm 2, 4, 6 ... và có ít nguyên tử hydro hơn hydrocacbon mạch hở no có cùng số nguyên tử cacbon. Loại này có liên kết đôi hoặc liên kết ba.\n(1) Monoethylenic hydrocarbon. Những chất này là những đồng đẳng có công thức chung là CnH2n.\n(a) Những chất đầu tiên trong dãy đồng đẳng này là các khí bao gồm:\n(i) Etylene (ethene) (C2H4). Để được phân loại vào nhóm này, etylen phải có độ tinh khiết từ 95% trở lên tính theo thể tích. Etylen có độ tinh khiết thấp hơn thì bị loại trừ (nhóm 27.11).\n(ii) Propene (propylene) (C3H6). Để xếp vào nhóm này, propene (propylen) phải có độ tinh khiết từ 90% trở lên tính theo thể tích. Propylen có độ tinh khiết thấp hơn thì bị loại trừ (nhóm 27.11).\n(iii) Butenes (butylenes) (C4H8).\nĐể xếp vào nhóm này, những hydrocarbon mạch hở chưa no này phải ở dạng những hợp chất đã được xác định về mặt hóa học riêng biệt. Nhưng nhóm này loại trừ những khí hydrocarbon thô của nhóm 27.11.\n(b) Monoethylenic hydrocarbon có chứa 5 đến 15 nguyên tử cacbon là chất lỏng. Quan trọng nhất là: (i) Pentene (amylene), (ii) Hexene, (iii) Heptene, (iv) Octene.\n(c) Những monoethylenic hydrocacbon có nhiều hơn 15 nguyên tử cacbon thì ở dạng rắn.\n(2) Polyethylenic hydrocarbon.",
+        "en": "The heading excludes crude butane, crude petroleum gases and similar crude gaseous hydrocarbons of heading 27.11.\n\n(B) UNSATURATED ACYCLIC HYDROCARBONS\nThese unsaturated hydrocarbons contain two, four, six, etc., less atoms of hydrogen than saturated acyclic hydrocarbons having the same number of atoms of carbon. This involves the presence of double or triple bonds.\n(I) Monoethylenic hydrocarbons. These constitute a homologous series represented by the general formula (CnH2n).\n(a) The first members of the series are gaseous, these are:\n(i) Ethylene (ethene) (C2H4). To fall in this heading, ethylene must have a purity of 95 % or more by volume. Ethylene of lower purity is excluded (heading 27.11).\n(ii) Propene (propylene) (C3H6). To fall in this heading, propene (propylene) must have a purity of 90 % or more by volume. Propylene of lower purity is excluded (heading 27.11).\n(iii) Butenes (butylenes) (C4H8).\nTo fall in this heading, these unsaturated acyclic hydrocarbons must be in the form of separate chemically defined compounds. But the heading excludes crude gaseous hydrocarbons of heading 27.11.\n(b) Monoethylenic hydrocarbons containing five to fifteen atoms of carbon are liquid. The most important include: (i) Pentenes (amylenes), (ii) Hexenes, (iii) Heptenes, (iv) Octenes.\n(c) Those containing more than fifteen atoms of carbon are solids.\n(2) Polyethylenic hydrocarbons."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(2) Polyethylenic hydrocarbon. Là những chất có 2 hay nhiều liên kết đôi. Chúng bao gồm:\n(a) Propadiene (Allene) (C3H4)\n(b) Buta-1,2-diene (1,2-butadiene, methylallenne) (C4H6)\n(c) Buta-1,3-diene (1,3-butadiene) (C4H6)\n(d) 2-Methylbuta-1,3-diene (isoprene) (C5H8)\n(3) Dãy acetylene. Các hydrocarbon acetylenic chứa hoặc một liên kết 3 (mono-acetylene, công thức chung (CnH2n-2)) hoặc nhiều hơn một liên kết 3 (polyacetylene). Chất quan trọng nhất là acetylene (C2H2). Khi chúng hòa tan trong aceton, được nén trong bình bằng thép đặc biệt, được đóng gói với diatomite, thì vẫn được phân loại vào nhóm này (xem Chú giải 1 (e) của Chương). Những chất khác của dãy này là: (a) Propyne (allylene, methylacetylene), (b) Butyne (ethylacetylene).\n(4) Những hydrocarbon ethylene- acetylene. Đây là những hydrocarbon chứa cả liên kết etylenic và acetylenic trong phân tử. Chất quan trọng nhất là vinylacetylene và methylvinylacetylene.",
+        "en": "(2) Polyethylenic hydrocarbons. These constitute a series with two or more double bonds. They include:\n(a) Propadiene (allene) (C3H4)\n(b) Buta-1,2-diene (1,2-butadiene, methylallenne) (C4H6)\n(c) Buta-1,3-diene (1,3-butadiene) (C4H6)\n(d) 2-Methylbuta-1,3-diene (isoprene) (C5H8)\n(3) Acetylene series. Acetylenic hydrocarbons contain either one triple bond (monoacetylenes, general formula (CnH2n-2)) or more than one triple bond (polyacetylenes). The most important product is acetylene (C2H2). It is presented dissolved in acetone under pressure in special steel cylinders packed with diatomite, and remains classified under the heading (see Chapter Note 1 (e)). Other members of the series are: (a) Propyne (allylene, methylacetylene), (b) Butyne (ethylacetylene).\n(4) Ethylene- acetylene hydrocarbons. These contain both ethylenic and acetylenic bonds in their molecules. The most important of these are vinylacetylene and methylvinylacetylene."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2901.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "No",
+        "en": "Saturated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa no:",
+        "en": "Unsaturated:"
+      },
+      "subheading_id": "2901.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Etylen",
+        "en": "Ethylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa no:",
+        "en": "Unsaturated:"
+      },
+      "subheading_id": "2901.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Propen (propylen)",
+        "en": "Propene (propylene)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa no:",
+        "en": "Unsaturated:"
+      },
+      "subheading_id": "2901.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Buten (butylen) và các đồng phân của nó",
+        "en": "Butene (butylene) and isomers thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa no:",
+        "en": "Unsaturated:"
+      },
+      "subheading_id": "2901.24",
+      "page": 1,
+      "subheading_title": {
+        "vi": "1,3- butadien và isopren",
+        "en": "Buta-1,3-diene and isoprene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa no:",
+        "en": "Unsaturated:"
+      },
+      "subheading_id": "2901.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

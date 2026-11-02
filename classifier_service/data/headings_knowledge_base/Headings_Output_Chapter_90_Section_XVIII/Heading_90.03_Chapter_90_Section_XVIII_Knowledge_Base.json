@@ -1,0 +1,72 @@
+{
+  "heading_id": "90.03",
+  "heading_title": {
+    "vi": "Khung và gọng cho kính đeo, kính bảo hộ hoặc các loại tương tự, và các bộ phận của chúng.",
+    "en": "Frames and mountings for spectacles, goggles or the like, and parts thereof."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm khung, gọng và các bộ phận của chúng dành cho kính đeo, kính bảo hộ và các mặt hàng tương tự thuộc nhóm 90.04. Các mặt hàng này có thể được làm từ nhiều vật liệu khác nhau như kim loại cơ bản, kim loại quý, plastic, đồi mồi, xà cừ, da, cao su hoặc vải dệt. Các bộ phận bao gồm càng kính, bản lề, vành mắt kính, cầu kính, và miếng lót mũi. Nhóm này không bao gồm các bộ phận có công dụng chung bằng kim loại cơ bản như đinh vít, dây xích và lò xo (phân loại theo Chú giải 1(f) của Chương này) và các gọng kính cho các sản phẩm không thuộc nhóm 90.04, ví dụ như kính đặc biệt dùng để kiểm tra thị lực (nhóm 90.18).",
+    "en": "This heading covers frames, mountings, and their parts for spectacles, goggles, and similar articles of heading 90.04. These items can be made from various materials such as base metal, precious metal, plastics, tortoise-shell, mother-of-pearl, leather, rubber, or fabric. Parts include side-pieces, hinges, eye-rims, bridges, and nose-pieces. The heading excludes parts of general use of base metal like screws, chains, and springs (classified according to Note 1(f) to this Chapter) and mountings for articles not falling in heading 90.04, such as special spectacles for sight-testing (heading 90.18)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm khung, gọng và bộ phận của chúng dành cho kính mắt hoặc các mặt hàng khác thuộc nhóm 90.04 (xem Chú giải Chi tiết của nhóm đó). Các mặt hàng này thường bằng kim loại cơ bản, bằng kim loại quý, bằng kim loại dát hoặc phủ kim loại quý, bằng plastic, bằng đồi mồi hoặc xà cừ.",
+        "en": "This heading covers frames and mountings, and parts thereof, for the spectacles or other articles of heading 90.04 (see the Explanatory Note to that heading). They are generally of base metal, precious metal, metal clad with precious metal, plastics, tortoise-shell or mother-of-pearl."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chúng cũng có thể bằng da, cao su hoặc vải dệt, ví dụ như gọng kính bảo hộ.\nBộ phận của gọng kính bao gồm các càng kính và cốt càng kính, các bản lề hoặc khớp nối, các vành mắt kính, cầu, miếng lót mũi, các thiết bị làm lò xo cho kính kẹp mũi, các cán của kính cầm tay, v.v...",
+        "en": "They may also be of leather, rubber or fabric, for example, frames for goggles.\nParts of frames include spectacle side-pieces and side-piece cores, hinges or joints, eye-rims, bridges, nose-pieces, spring devices for pince-nez, handles for lorgnettes, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Đinh vít, sợi xích bộ (không có thiết bị móc) và lò xo bằng kim loại cơ bản không được xem là bộ phận của gọng kính nhưng thuộc các nhóm tương ứng của chúng (xem Chú giải 1(f) của Chương này).\nNhóm này cũng không bao gồm các gọng kính và bộ phận của gọng kính, đôi khi cũng gọi là “kính mắt” nhưng không thuộc nhóm 90.04, ví dụ, kính đặc biệt do các bác sĩ nhãn khoa dùng để kiểm tra thị giác (nhóm 90.18).",
+        "en": "Screws, chains (without securing device) and springs of base metal are not classified as parts of mountings but fall in their own respective headings (see Note 1 (f) to this Chapter).\nThis heading also excludes mountings and parts thereof of articles sometimes referred to as “ spectacles ” but which do not fall in heading 90.04, e.g., special spectacles used by oculists for examining eyes (heading 90.18)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Khung và gọng:",
+        "en": "- Frames and mountings:"
+      },
+      "subheading_id": "9003.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng plastic",
+        "en": "- - Of plastics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Khung và gọng:",
+        "en": "- Frames and mountings:"
+      },
+      "subheading_id": "9003.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng vật liệu khác",
+        "en": "- - Of other materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9003.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Các bộ phận",
+        "en": "- Parts"
+      }
+    }
+  ]
+}

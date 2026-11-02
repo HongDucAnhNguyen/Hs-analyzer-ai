@@ -1,0 +1,213 @@
+{
+  "chapter_id": "27",
+  "chapter_title": {
+    "vi": "Nhiên liệu khoáng, dầu khoáng và các sản phẩm chưng cất từ chúng; các chất chứa bi-tum; các loại sáp khoáng chất",
+    "en": "Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm các loại nhiên liệu khoáng thiên nhiên như than đá (nhóm 27.01), than non (27.02), than bùn (27.03), và các sản phẩm của chúng như than cốc (27.04) và khí than (27.05). Chương này cũng bao gồm dầu mỏ và dầu thu được từ khoáng bi-tum, cả dạng thô (27.09) và đã qua chế biến (27.10), các sản phẩm chưng cất như hắc ín (27.06), dầu từ hắc ín (27.07), và nhựa chưng (27.08). Ngoài ra, chương còn bao gồm khí dầu mỏ và hydrocarbon dạng khí khác (27.11), vazơlin và các loại sáp khoáng (27.12), cốc và bi-tum dầu mỏ (27.13), bi-tum và nhựa đường tự nhiên (27.14), các hỗn hợp chứa bi-tum (27.15) và năng lượng điện (27.16). Chương này có các định nghĩa quan trọng cho 'dầu có nguồn gốc từ dầu mỏ' và 'dầu thải' trong nhóm 27.10.\n\nChương này loại trừ:\n- Các hợp chất hữu cơ đã được xác định về mặt hoá học riêng biệt, trừ metan và propan tinh khiết (nhóm 27.11), các hợp chất này thường thuộc Chương 29.\n- Dược phẩm thuộc nhóm 30.03 hoặc 30.04.\n- Hỗn hợp hydrocarbon chưa no thuộc nhóm 33.01, 33.02 hoặc 38.05.\n- Nước hoa, mỹ phẩm và các chế phẩm vệ sinh (nhóm 33.03 đến 33.07).\n- Nhiên liệu lỏng hoặc khí hóa lỏng trong các hộp chứa dùng để nạp cho bật lửa có dung tích không quá 300 cm3 (nhóm 36.06).",
+    "en": "This Chapter covers natural mineral fuels such as coal (heading 27.01), lignite (27.02), peat (27.03), and their products like coke (27.04) and coal gas (27.05). It also covers petroleum oils and oils obtained from bituminous minerals, both crude (27.09) and processed (27.10), and their distillation products like tars (27.06), oils from tar (27.07), and pitch (27.08). Additionally, the chapter includes petroleum gases and other gaseous hydrocarbons (27.11), petroleum jelly and mineral waxes (27.12), petroleum coke and bitumen (27.13), natural bitumen and asphalt (27.14), bituminous mixtures (27.15), and electrical energy (27.16). The chapter provides important definitions for 'petroleum oils' and 'waste oils' under heading 27.10.\n\nThis Chapter excludes:\n- Separate chemically defined organic compounds, other than pure methane and propane (heading 27.11), which generally fall in Chapter 29.\n- Medicaments of heading 30.03 or 30.04.\n- Mixed unsaturated hydrocarbons of heading 33.01, 33.02 or 38.05.\n- Perfumery, cosmetic or toilet preparations (headings 33.03 to 33.07).\n- Liquid or liquefied-gas fuels in containers for lighters of a capacity not exceeding 300 cm3 (heading 36.06)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Chương này không bao gồm:\n(a) Các hợp chất hữu cơ đã được xác định về mặt hoá học riêng biệt, trừ metan và propan tinh khiết đã được phân loại ở nhóm 27.11;\n(b) Dược phẩm thuộc nhóm 30.03 hoặc 30.04; hoặc\n(c) Hỗn hợp hydrocarbon chưa no thuộc nhóm 33.01, 33.02 hoặc 38.05.",
+        "en": "1.- This Chapter does not cover:\n(a) Separate chemically defined organic compounds, other than pure methane and propane which are to be classified in heading 27.11;\n(b) Medicaments of heading 30.03 or 30.04; or\n(c) Mixed unsaturated hydrocarbons of heading 33.01, 33.02 or 38.05."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "2. Trong nhóm 27.10, khái niệm \"dầu có nguồn gốc từ dầu mỏ và các loại dầu thu được từ khoáng bi-tum\" không chỉ bao gồm dầu có nguồn gốc từ dầu mỏ và dầu thu được từ khoáng bi-tum mà còn bao gồm các loại dầu tương tự, cũng như loại dầu khác chủ yếu chứa hỗn hợp hydrocarbon chưa no, thu được bằng quá trình bất kỳ, với điều kiện trọng lượng cấu tử không thơm cao hơn cấu tử thơm. Tuy nhiên, khái niệm này không bao gồm các polyolefin tổng hợp lỏng, loại dưới 60% thể tích chưng cất ở 300°C, sau khi sử dụng phương pháp chưng cất giảm áp suất sẽ chuyển đổi sang 1.013 millibar (Chương 39).",
+        "en": "2.- References in heading 27.10 to “petroleum oils and oils obtained from bituminous minerals” include not only petroleum oils and oils obtained from bituminous minerals but also similar oils, as well as those consisting mainly of mixed unsaturated hydrocarbons, obtained by any process, provided that the weight of the non-aromatic constituents exceeds that of the aromatic constituents. However, the references do not include liquid synthetic polyolefins of which less than 60 % by volume distils at 300 °C, after conversion to 1,013 millibars when a reduced-pressure distillation method is used (Chapter 39)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "3. Theo mục đích của nhóm 27.10, \"dầu thải\" có nghĩa là các chất thải chứa chủ yếu là dầu có nguồn gốc từ dầu mỏ và các loại dầu thu từ khoáng bi-tum (theo mô tả Chú giải 2 của Chương này), có hoặc không có nước. Bao gồm:",
+        "en": "3.- For the purposes of heading 27.10, “waste oils” means waste containing mainly petroleum oils and oils obtained from bituminous minerals (as described in Note 2 to this Chapter), whether or not mixed with water. These include:"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(a) Các loại dầu không còn dùng được như là sản phẩm ban đầu (ví dụ, dầu bôi trơn đã sử dụng, dầu thuỷ lực đã sử dụng và dầu dùng cho máy biến điện đã sử dụng);\n(b) Dầu cặn từ bể chứa dầu có nguồn gốc từ dầu mỏ, chứa chủ yếu là dầu này và nồng độ chất phụ gia cao (ví dụ, hoá chất) dùng để sản xuất các sản phẩm gốc; và\n(c) Các loại dầu này ở dạng nhũ tương trong nước hoặc hoà lẫn với nước, như dầu thu hồi từ dầu tràn, từ rửa bể chứa dầu, hoặc từ dầu cắt để chạy máy.",
+        "en": "(a) Such oils no longer fit for use as primary products (for example, used lubricating oils, used hydraulic oils and used transformer oils);\n(b) Sludge oils from the storage tanks of petroleum oils, mainly containing such oils and a high concentration of additives (for example, chemicals) used in the manufacture of the primary products; and\n(c) Such oils in the form of emulsions in water or mixtures with water, such as those resulting from oil spills, storage tank washings, or from the use of cutting oils for machining operations."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm. 1. Theo mục đích của phân nhóm 2701.11 \"anthracite\" có nghĩa là loại than có giới hạn chất bốc (trong điều kiện khô, không có khoáng chất) không vượt quá 14%.",
+        "en": "Subheading Notes. 1.- For the purposes of subheading 2701.11, “anthracite” means coal having a volatile matter limit (on a dry, mineral-matter-free basis) not exceeding 14 %."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "2. Theo mục đích của phân nhóm 2701.12, \"than bi-tum\" là loại than có giới hạn chất bốc (trong điều kiện khô, không có khoáng chất) trên 14% và giới hạn nhiệt lượng từ 5.833 kcal/kg trở lên (trong điều kiện ẩm, không có khoáng chất).",
+        "en": "2.- For the purposes of subheading 2701.12, “bituminous coal” means coal having a volatile matter limit (on a dry, mineral-matter-free basis) exceeding 14 % and a calorific value limit (on a moist, mineral-matter-free basis) equal to or greater than 5,833 kcal/kg."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "3. Theo mục đích của các phân nhóm 2707.10, 2707.20, 2707.30 và 2707.40 khái niệm “benzol (benzen)”, “toluol (toluen)”, “xylol (xylen)” và \"naphthalen\" áp dụng cho các sản phẩm chứa hơn 50% tính theo trọng lượng tương ứng là benzen, toluen, xylen hoặc naphthalen.",
+        "en": "3.- For the purposes of subheadings 2707.10, 2707.20, 2707.30 and 2707.40 the terms “benzol (benzene)”, “toluol (toluene)”, “xylol (xylenes)” and “naphthalene” apply to products which contain more than 50 % by weight of benzene, toluene, xylenes or naphthalene, respectively."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "4. Theo mục đích của phân nhóm 2710.12, \"dầu nhẹ và các chế phẩm\" là các loại dầu có thể tích thành phần cất từ 90% trở lên (kể cả hao hụt) ở nhiệt độ 210oC theo phương pháp ISO 3405 (tương đương với phương pháp ASTM D 86).",
+        "en": "4.- For the purposes of subheading 2710.12, “light oils and preparations” are those of which 90% or more by volume (including losses) distil at 210 °C according to the ISO 3405 method (equivalent to the ASTM D 86 method)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "5. Theo mục đích của các phân nhóm thuộc nhóm 27.10, thuật ngữ \"diesel sinh học\" có nghĩa là mono-alkyl este của các axít béo, loại sử dụng làm nhiên liệu, được làm từ chất béo và dầu động vật hoặc thực vật đã hoặc chưa qua sử dụng.",
+        "en": "5.- For the purposes of the subheadings of heading 27.10, the term “biodiesel” means mono-alkyl esters of fatty acids of a kind used as a fuel, derived from animal, vegetable or microbial fats and oils whether or not used."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chương này bao gồm các loại than và các nhiên liệu khoáng thiên nhiên khác, dầu mỏ và các loại dầu thu được từ các loại khoáng có chứa bitum, các sản phẩm chưng cất của chúng và các sản phẩm thuộc loại tương tự thu được bằng phương pháp khác. Nó cũng bao gồm các sáp khoáng và các chất có chứa bitum tự nhiên. Các sản phẩm trong chương này có thể ở dạng thô hoặc tinh chế; Tuy nhiên, loại trừ methane và propane, khi chúng là các hợp chất hữu cơ đã được xác định về mặt hóa học riêng biệt ở trạng thái tinh khiết hay tinh khiết cho mục đích thương mại, chúng được xếp vào Chương 29.",
+        "en": "The Chapter covers, in general, coal and other natural mineral fuels, petroleum oils and oils obtained from bituminous minerals, their distillation products, and products of a similar kind obtained by any other process. It also covers mineral waxes and natural bituminous substances. Goods of this Chapter may be crude or refined; however, with the exception of methane and propane, when they are separate chemically defined organic compounds in the pure or commercially pure state, they are to be classified in Chapter 29."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Đối với một số hợp chất nhất định (ví dụ: ethane, benzene, phenol, pyridine) các tiêu chí về độ tinh khiết đặc trưng được chỉ dẫn ở phần chú giải 29.01, 29.07 và 29.33. Methane và propane được phân loại ở nhóm 27.11, kể cả dạng tinh khiết. Khái niệm “các cấu tử thơm” được dùng trong chú giải 2 của chương này và trong nhóm 27.07 cần được hiểu là chú giải cho toàn bộ phân tử với phần thơm, bất kể số lượng và chiều dài mạch nhánh và không là chú giải cho các phần thơm của các phân tử này.",
+        "en": "For certain of these compounds (e.g., ethane, benzene, phenol, pyridine) there are specific purity criteria indicated in Explanatory Notes 29.01, 29.07 and 29.33. Methane and propane are classified in heading 27.11, even when pure. The expression “aromatic constituents” as used in Note 2 to this Chapter and in heading 27.07 should be taken to refer to entire molecules with an aromatic part irrespective of the number and length of side-chains and not to the aromatic portions of such molecules only."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chương này không bao gồm:\n(a) Các dược phẩm của nhóm 30.03 hoặc 30.04.\n(b) Nước hoa, mỹ phẩm và các chế phẩm vệ sinh (nhóm 33.03 đến 33.07).\n(c) Các nhiên liệu lỏng hoặc các nhiên liệu khí hóa lỏng trong các hộp chứa sử dụng để nạp đầy hoặc nạp lại bật lửa hút thuốc và các bật lửa tương tự và có dung tích không quá 300 cm3 (nhóm 36.06).",
+        "en": "The Chapter does not cover:\n(a) Medicaments of heading 30.03 or 30.04.\n(b) Perfumery, cosmetic or toilet preparations (headings 33.03 to 33.07).\n(c) Liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300 cm3 (heading 36.06)."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "27.01",
+      "heading_title": {
+        "vi": "Than đá; than bánh, than quả bàng và nhiên liệu rắn tương tự sản xuất từ than đá.",
+        "en": "Coal; briquettes, ovoids and similar solid fuels manufactured from coal."
+      }
+    },
+    {
+      "heading_id": "27.02",
+      "heading_title": {
+        "vi": "Than non, đã hoặc chưa đóng bánh, trừ than huyền.",
+        "en": "Lignite, whether or not agglomerated, excluding jet."
+      }
+    },
+    {
+      "heading_id": "27.03",
+      "heading_title": {
+        "vi": "Than bùn (kể cả bùn rác), đã hoặc chưa đóng bánh.",
+        "en": "Peat (including peat litter), whether or not agglomerated."
+      }
+    },
+    {
+      "heading_id": "27.04",
+      "heading_title": {
+        "vi": "Than cốc và than nửa cốc luyện từ than đá, than non hoặc than bùn, đã hoặc chưa đóng bánh; muội bình chưng than đá.",
+        "en": "Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon."
+      }
+    },
+    {
+      "heading_id": "27.05",
+      "heading_title": {
+        "vi": "Khí than đá, khí than ướt, khí than và các loại khí tương tự, trừ các loại khí dầu mỏ và khí hydrocarbon khác.",
+        "en": "Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons."
+      }
+    },
+    {
+      "heading_id": "27.06",
+      "heading_title": {
+        "vi": "Hắc ín chưng cất từ than đá, than non hoặc than bùn, và các loại hắc ín khoáng chất khác, đã hoặc chưa khử nước hoặc chưng cất từng phần, kể cả hắc ín tái chế.",
+        "en": "Tar distilled from coal, from lignite or from peat, and other mineral tars, whether or not dehydrated or partially distilled, including reconstituted tars."
+      }
+    },
+    {
+      "heading_id": "27.07",
+      "heading_title": {
+        "vi": "Dầu và các sản phẩm khác từ chưng cất hắc ín than đá ở nhiệt độ cao; các sản phẩm tương tự có khối lượng cấu tử thơm lớn hơn cấu tử không thơm.",
+        "en": "Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents."
+      }
+    },
+    {
+      "heading_id": "27.08",
+      "heading_title": {
+        "vi": "Nhựa chưng (hắc ín) và than cốc nhựa chưng, thu được từ hắc ín than đá hoặc hắc ín khoáng chất khác.",
+        "en": "Pitch and pitch coke, obtained from coal tar or from other mineral tars."
+      }
+    },
+    {
+      "heading_id": "27.09",
+      "heading_title": {
+        "vi": "Dầu mỏ và các loại dầu thu được từ các khoáng bi-tum, ở dạng thô.",
+        "en": "Petroleum oils and oils obtained from bituminous minerals, crude."
+      }
+    },
+    {
+      "heading_id": "27.10",
+      "heading_title": {
+        "vi": "Dầu có nguồn gốc từ dầu mỏ và các loại dầu thu được từ các khoáng bi-tum, trừ dầu thô; các chế phẩm chưa được chi tiết hoặc ghi ở nơi khác, có chứa hàm lượng từ 70% trở lên là dầu có nguồn gốc từ dầu mỏ hoặc các loại dầu thu được từ các khoáng bi-tum, những loại dầu này là thành phần cơ bản của các chế phẩm đó; dầu thải.",
+        "en": "Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70% or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils."
+      }
+    },
+    {
+      "heading_id": "27.11",
+      "heading_title": {
+        "vi": "Khí dầu mỏ và các loại khí hydrocarbon khác.",
+        "en": "Petroleum gases and other gaseous hydrocarbons."
+      }
+    },
+    {
+      "heading_id": "27.12",
+      "heading_title": {
+        "vi": "Vazơlin (petroleum jelly); sáp parafin, sáp dầu lửa vi tinh thể, sáp than cám, ozokerite, sáp than non, sáp than bùn, sáp khoáng khác, và sản phẩm tương tự thu được từ quy trình tổng hợp hoặc quy trình khác, đã hoặc chưa nhuộm màu.",
+        "en": "Petroleum jells; paraffin wax, microcrystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured."
+      }
+    },
+    {
+      "heading_id": "27.13",
+      "heading_title": {
+        "vi": "Cốc dầu mỏ, bi-tum dầu mỏ và các cặn khác từ dầu có nguồn gốc từ dầu mỏ hoặc từ các loại dầu thu được từ các khoáng bi-tum.",
+        "en": "Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals."
+      }
+    },
+    {
+      "heading_id": "27.14",
+      "heading_title": {
+        "vi": "Bi-tum và nhựa đường (asphalt), ở dạng tự nhiên; đá phiến sét dầu hoặc đá phiến sét bi-tum và cát hắc ín; asphaltit và đá chứa asphaltic (+).",
+        "en": "Bitumen and asphalt, natural; bituminous or oil shale and tar sands; asphaltites and asphaltic rocks (+)."
+      }
+    },
+    {
+      "heading_id": "27.15",
+      "heading_title": {
+        "vi": "Hỗn hợp chứa bi-tum dựa trên asphalt tự nhiên, bi-tum tự nhiên, bi-tum dầu mỏ, hắc ín khoáng chất hoặc nhựa hắc ín khoáng chất (ví dụ, matít có chứa bi-tum, cut-backs).",
+        "en": "Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs)."
+      }
+    },
+    {
+      "heading_id": "27.16",
+      "heading_title": {
+        "vi": "Năng lượng điện. (nhóm không bắt buộc)",
+        "en": "Electrical energy. (optional heading)"
+      }
+    }
+  ]
+}

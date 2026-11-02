@@ -1,0 +1,53 @@
+{
+  "heading_id": "25.05",
+  "heading_title": {
+    "vi": "Các loại cát tự nhiên, đã hoặc chưa nhuộm màu, trừ cát chứa kim loại thuộc chương 26.",
+    "en": "Natural sands of all kinds, whether or not coloured, other than metal-bearing sands of chapter 26."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại cát tự nhiên (cát biển, hồ, sông hoặc mỏ), bao gồm cát oxit silic, cát thạch anh, cát chứa đất sét (cát cao lanh), và cát feldspathic. Cát đã qua xử lý nhiệt để loại bỏ tạp chất vẫn thuộc nhóm này. Nhóm này loại trừ cát chứa kim loại có thể tách chiết thương mại (Chương 26), chẳng hạn như cát chứa vàng hoặc platinum, cát zircon, cát rutile, cát ilmenite và cát monazite. Các loại cát và bột thu được bằng phương pháp nhân tạo (ví dụ, bằng cách nghiền) cũng bị loại trừ (nhóm 25.17 hoặc nhóm của loại đá liên quan). Cát hắc ín hoặc 'cát nhựa đường' cũng không thuộc nhóm này (nhóm 27.14).",
+    "en": "This heading covers all natural sands (sea, lake, river, or quarry sand), including silica sands, quartz sands, clayey sands (kaolinic sands), and feldspathic sands. Sands that have been heat-treated to remove impurities remain in this heading. The heading excludes metal-bearing sands from which metals are commercially extractable (Chapter 26), such as gold-bearing or platinum-bearing sands, zircon sands, rutile sands, ilmenite sands, and monazite sands. Sands and powders obtained artificially (e.g., by crushing) are also excluded (heading 25.17 or the heading for the rock concerned). Tar sands or 'asphaltic sands' are not covered by this heading (heading 27.14)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Loại trừ cát chứa kim loại mà từ chúng các kim loại có thể tách chiết thương mại (Chương 26). Nhóm này bao gồm tất cả các loại cát tự nhiên ở biển, hồ, sông hoặc mỏ (tức là cát ở dạng các hạt mịn ít hoặc mịn nhiều thu được từ quá trình phân huỷ tự nhiên các khoáng chất), nhưng loại trừ các loại cát và bột thu được bằng nhân tạo, ví dụ bằng cách nghiền (được phân loại ở nhóm 25.17 hoặc ở nhóm cho loại đá có liên quan).",
+        "en": "With the exception of metal-bearing sands from which metals are commercially extractable (Chapter 26), this heading covers all natural sea, lake, river or quarry sand (i.e., sand in the form of more or less fine particles resulting from the natural disintegration of minerals), but excludes sands and powders obtained artificially, for example, by crushing (classified in heading 25.17 or in the heading for the rock concerned)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này có thể kể đến:\n(1) Cát oxit silic và cát thạch anh, được dùng trong xây dựng, trong ngành công nghiệp kính, để làm sạch kim loại...\n(2) Cát có chứa đất sét bao gồm cát cao lanh, được dùng chủ yếu để làm khuôn đúc và các sản phẩm chịu lửa.\n(3) Các loại cát feldspathic, được dùng trong ngành công nghiệp gốm sứ\nCác loại cát tự nhiên cũng thuộc nhóm này khi chúng đã được xử lý nhiệt chỉ để loại tạp chất.\nMặt khác, nhóm này không bao gồm các loại cát có chứa vàng hoặc platinum, cát zircon, cát rutile và cát ilmenite, cũng không bao gồm cát monazite, được phân loại như quặng thorium; toàn bộ chúng được xếp vào Chương 26. Nhóm này cũng không bao gồm cát hắc ín hoặc \"cát nhựa đường\" (nhóm 27.14).",
+        "en": "The heading covers, inter alia:\n(1) Silica sands and quartz sands, used in building, in the glass industry, for cleaning metals, etc.\n(2) Clayey sands including kaolinic sands, used mainly for preparing foundry moulds and refractory products.\n(3) Feldspathic sands, used in the ceramic industry.\nNatural sands remain in this heading when they have been heat treated merely to remove impurities.\nOn the other hand, this heading does not include gold-bearing or platinum-bearing sands, zircon sands, rutile sands and ilmenite sands, nor monazite sands (monazites) which are classified as thorium ores; all these fall in Chapter 26. Nor does the heading cover tar sands or “asphaltic sands” (heading 27.14)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2505.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cát oxit silic và cát thạch anh",
+        "en": "Silica sands and quartz sands"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2505.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

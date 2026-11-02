@@ -1,0 +1,60 @@
+{
+  "heading_id": "37.06",
+  "heading_title": {
+    "vi": "Phim dùng trong điện ảnh, đã phơi sáng và đã tráng, đã hoặc chưa có rãnh tiếng hoặc chỉ có duy nhất rãnh tiếng.",
+    "en": "Cinematographic film, exposed and developed, whether or not incorporating sound track or consisting only of sound track."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm phim điện ảnh (chiều rộng tiêu chuẩn hoặc tiêu chuẩn phụ) đã tráng, dùng để chiếu ảnh động. Phim có thể là âm bản hoặc dương bản, và có thể chỉ chứa hình ảnh, hoặc cả hình ảnh và rãnh tiếng (ghi bằng quang điện hoặc từ tính). Nhóm này cũng bao gồm phim chỉ chứa một hoặc nhiều rãnh tiếng mà không có hình ảnh; trong trường hợp này, ít nhất một rãnh tiếng phải được ghi bằng quang điện. Phim có rãnh tiếng được tạo ra hoàn toàn bằng các phương pháp khác ngoài quang điện (ví dụ: ghi băng từ) bị loại trừ và thuộc nhóm 85.23.",
+    "en": "This heading covers developed cinematographic film (standard or substandard width) for the projection of motion pictures. The film may be negative or positive and can contain visual images only, or both visual images and a sound track (photoelectrically or magnetically recorded). The heading also includes film consisting solely of one or more sound tracks without visual images; in this case, at least one sound track must be photoelectrically recorded. Sound track film produced solely by processes other than photoelectric (e.g., magnetic recording) is excluded and falls in heading 85.23."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm phim dùng trong điện ảnh với chiều rộng tiêu chuẩn hoặc tiêu chuẩn phụ đã tráng dùng để chiếu ảnh động, âm bản hoặc dương bản, chỉ chứa hình ảnh nhìn tương quan, hoặc cả hình ảnh nhìn tương quan và âm thanh (có hoặc không được thực hiện bằng phương pháp nhiếp ảnh, ví dụ, có từ tính, đã ghi).",
+        "en": "This heading covers developed standard or substandard width cinematographic film for the projection of motion pictures, negative or positive, containing related visual images only, or both related visual images and sound track (whether photographically or non-photographically. e.g., magnetically, recorded)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm phim dùng trong điện ảnh có chiều rộng theo tiêu chuẩn hoặc chiều rộng theo tiêu chuẩn phụ đã tráng, âm bản hoặc dương bản, không chứa hình ảnh trực quan, nhưng chỉ gồm một hoặc nhiều rãnh tiếng. Rãnh trên phim chứa duy nhất một bản âm thanh phải được ghi bằng quang điện. Phim chứa nhiều hơn một bản âm thanh có thể có bản được ghi bằng từ tính nhưng ít nhất phải có một bản phải ghi bằng quang điện. Những rãnh tiếng được ghi bằng quang điện xuất hiện giống dải băng hẹp đã in tạo độ rung âm thanh.",
+        "en": "This heading also covers developed standard or substandard width cinematographic film, whether negative or positive, containing no visual images, but consisting solely of one or more sound tracks. The track on film containing only a single sound track must be photoelectrically recorded. Film containing more than one sound track may include magnetically recorded track but at least one track must be photoelectrically recorded. The photoelectrically recorded tracks appear as narrow printed bands which reproduce the sound vibrations."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phim có rãnh tiếng được tạo ra đơn lẻ thông qua xử lý trừ quang điện (ví dụ, bằng cách khắc máy hoặc ghi băng từ) không thuộc nhóm này (nhóm 85.23).",
+        "en": "Sound track film produced solely by processes other than photoelectric (e.g., by mechanical engraving or magnetic recording) is excluded (heading 85.23)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3706.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại chiều rộng từ 35 mm trở lên",
+        "en": "Of a width of 35 mm or more"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3706.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

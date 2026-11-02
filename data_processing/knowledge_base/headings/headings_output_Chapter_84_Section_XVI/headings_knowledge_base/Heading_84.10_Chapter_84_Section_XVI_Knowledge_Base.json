@@ -1,0 +1,77 @@
+{
+  "heading_id": "84.10",
+  "heading_title": {
+    "vi": "Tua bin thủy lực, bánh xe guồng nước, và các bệ điều chỉnh của chúng.",
+    "en": "Hydraulic turbines, water wheels, and regulators therefor."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại tuabin thủy lực và bánh xe guồng nước, có khả năng biến đổi năng lượng của chất lỏng chuyển động hoặc chịu áp lực thành động năng. Nhóm này mô tả chi tiết ba loại tuabin thủy lực chính: loại Pelton dùng cho dòng chảy áp suất cao, loại Francis cho áp suất trung bình và thấp, và loại Kaplan cho áp suất thấp với các cánh quạt có thể điều chỉnh. Các tuabin này chủ yếu được sử dụng trong các nhà máy thủy điện. Ngoài ra, nhóm này cũng bao gồm các bánh xe guồng nước, là những động cơ đơn giản dùng trong các xưởng nhỏ, xưởng cưa, cối xay xát. Các bộ phận của tuabin và bánh xe guồng nước như rôto, stato, cánh quạt, và bộ điều chỉnh cũng thuộc nhóm này. Tuy nhiên, nhóm này loại trừ các loại guồng nước có gắn cánh quạt dùng cho tàu thủy (nhóm 84.87) và máy đo tốc độ nước trong ngành thủy học (nhóm 90.15).",
+    "en": "This heading covers hydraulic turbines and water wheels, which convert the energy of moving or pressurized liquids into motive power. It details three main types of hydraulic turbines: the Pelton type for high-pressure flows, the Francis type for medium and low pressure, and the Kaplan type for low pressure with adjustable blades. These turbines are primarily used in hydro-electric installations. Additionally, the heading includes water wheels, which are simple engines used in small workshops, saw-mills, and flour-mills. Parts of turbines and water wheels, such as rotors, stators, blades, and regulators, are also classified here. However, this heading excludes paddle-wheels for boats (heading 84.87) and hydrometric paddle-wheels (heading 90.15)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tuabin thủy lực và bánh xe guồng nước, biến đổi năng lượng từ chất lỏng chuyển động hoặc chịu áp lực (ví dụ: dòng nước, dầu) thành động năng. (A) Tuabin thủy lực gồm rôto và stato, có ba dạng chính: (1) Tuabin Pelton dùng cho dòng chảy áp suất cao, lưu lượng nhỏ; rôto là bánh đà có nhiều cánh quạt nước. (2) Tuabin Francis dùng cho dòng chảy áp suất trung bình/thấp, lưu lượng lớn; rôto có cánh quạt xoắn ốc cố định. (3) Tuabin Kaplan dùng cho dòng chảy áp suất thấp, cả rôto và stato đều có cánh quạt điều chỉnh được. Tuabin thủy lực chủ yếu được dùng trong nhà máy thủy điện. (B) Bánh xe guồng nước là động cơ đơn giản có bánh xe lớn gắn cánh phẳng hoặc lõm, dùng trực tiếp trong các xưởng nhỏ, xưởng cưa, cối xay xát.",
+        "en": "This heading covers hydraulic turbines and water wheels that transform energy from moving or pressurized liquids (e.g., water, oil) into motive power. (A) Hydraulic turbines consist of a rotor and a stator and have three main types: (1) Pelton turbines for high-pressure, low-volume flows; the rotor is a wheel with cups. (2) Francis turbines for medium/low-pressure, high-volume flows; the rotor has fixed helicoidal blades. (3) Kaplan turbines for low-pressure flows, where both rotor and stator have adjustable blades. Hydraulic turbines are mainly used in hydro-electric installations. (B) Water wheels are simple engines consisting of a large wheel with flat or hollow paddles, used directly in small workshops, saw-mills, and flour-mills."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm guồng nước có gắn cánh quạt dùng cho tàu thủy (nhóm 84.87) và máy đo tốc độ nước trong ngành thủy học (nhóm 90.15). Theo quy tắc chung của Phần XVI, các bộ phận của tuabin thủy lực hoặc bánh xe guồng nước cũng được phân loại ở đây, ví dụ: guồng nước, cánh guồng nước, cánh quạt, rôto, stato, ống dẫn nước xoắn ốc, và các bộ phận điều chỉnh tự động (điều chỉnh lưu lượng nước, tác động của cánh quạt, kim của bộ phận điều chỉnh).",
+        "en": "This heading excludes paddle-wheels for boats (heading 84.87) and hydrometric paddle-wheels (heading 90.15). Subject to the general provisions of Section XVI, parts of the hydraulic turbines or water wheels are also classified here, for example: rotors, stators, blades and buckets for stators or rotors, casings for spiral conduits, and regulators (which automatically regulate water flow, blade angle, or valve needles)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Tua bin thủy lực và bánh xe guồng nước:",
+        "en": "Hydraulic turbines and water wheels:"
+      },
+      "subheading_id": "8410.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất không quá 1000 kW",
+        "en": "Of a power not exceeding 1,000 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tua bin thủy lực và bánh xe guồng nước:",
+        "en": "Hydraulic turbines and water wheels:"
+      },
+      "subheading_id": "8410.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất trên 1.000 kW nhưng không quá 10.000 kW",
+        "en": "Of a power exceeding 1,000 kW but not exceeding 10,000 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tua bin thủy lực và bánh xe guồng nước:",
+        "en": "Hydraulic turbines and water wheels:"
+      },
+      "subheading_id": "8410.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có công suất trên 10 000 kW",
+        "en": "Of a power exceeding 10,000 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8410.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận, kể cả bộ điều chỉnh",
+        "en": "Parts, including regulators"
+      }
+    }
+  ]
+}

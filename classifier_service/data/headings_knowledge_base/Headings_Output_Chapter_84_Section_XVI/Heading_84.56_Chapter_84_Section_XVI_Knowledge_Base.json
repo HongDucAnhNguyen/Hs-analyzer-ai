@@ -1,0 +1,204 @@
+{
+  "heading_id": "84.56",
+  "heading_title": {
+    "vi": "Máy công cụ để gia công mọi loại vật liệu bằng cách bóc tách vật liệu, bằng các quy trình sử dụng tia laser hoặc tia sáng khác hoặc chùm phô-tông, siêu âm, phóng điện, điện hóa, chùm tia điện tử, chùm tia i-on hoặc quá trình xử lý plasma hồ quang; máy cắt bằng tia nước.",
+    "en": "Machine-tools for working any material by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc processes; water-jet cutting machines."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các máy công cụ dùng để tạo hình hoặc gia công bề mặt cho mọi loại vật liệu, đáp ứng ba yêu cầu: (1) làm việc bằng cách bóc tách vật liệu; (2) thực hiện các chức năng như máy công cụ thông thường; và (3) sử dụng một trong các quy trình sau: tia laser hoặc tia sáng khác hoặc chùm phô-tông, siêu âm, phóng điện, điện hóa, chùm tia điện tử, chùm tia i-on hoặc hồ quang plasma. Nhóm này cũng bao gồm máy cắt bằng tia nước.\n\nNhóm này không bao gồm (loại trừ):\n- Một số loại máy nhất định được xếp vào nhóm 84.86, chẳng hạn như máy chỉ dùng hoặc chủ yếu dùng trong sản xuất khối hoặc tấm bán dẫn, thiết bị bán dẫn, mạch điện tử tích hợp hoặc màn hình dẹt; máy chỉ dùng hoặc chủ yếu dùng để sản xuất hoặc sửa chữa màn chắn và đường chữ thập; và máy để khắc axit khô các bản mẫu trên vật liệu bán dẫn.\n- Thiết bị siêu âm dùng để làm sạch (nhóm 84.79).\n- Máy và thiết bị hàn hợp kim, có hoặc không thể cắt được (nhóm 85.15).\n- Máy kiểm tra (nhóm 90.24).\n\nCác bộ phận và phụ kiện của các máy thuộc nhóm này được phân loại trong nhóm 84.66.",
+    "en": "This heading covers machine-tools for the shaping or surface-working of any material, meeting three requirements: (1) they must work by removing material; (2) they must carry out operations of the kind performed by conventional machine-tools; and (3) they must use one of the following processes: laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam, or plasma arc. The heading also includes water-jet cutting machines.\n\nThis heading excludes:\n- Certain kinds of machines provided for in heading 84.86, such as machines of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines of a kind used solely or principally for the manufacture or repair of masks and reticles; and machines for dry-etching patterns on semiconductor materials.\n- Ultrasonic apparatus for cleaning (heading 84.79).\n- Soldering, brazing or welding machines and apparatus, whether or not capable of cutting (heading 85.15).\n- Testing machines (heading 90.24).\n\nParts and accessories of the machines of this heading are classified in heading 84.66."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Máy công cụ thuộc nhóm này là các máy được sử dụng cho việc tạo hình hoặc gia công bề mặt cho mọi loại vật liệu. Chúng phải đáp ứng ba yêu cầu chủ yếu sau:\n(i) Chúng phải làm việc bằng cách bóc tách vật liệu;",
+        "en": "The machine-tools of this heading are machines used for the shaping or surface-working of any material. They must meet three essential requirements:\n(i) They must work by removing material;"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(ii) Chúng phải có các chức năng thực hiện như máy công cụ có trang bị các dụng cụ theo tiêu chuẩn;\n(iii) Chúng phải sử dụng một trong bảy qui trình công nghệ sau: qui trình sử dụng tia lade hoặc tia sáng khác hoặc chùm phô-tông, siêu âm, phóng điện, điện hóa, tia điện tử (eclectron), tia ion hoặc xử lý hồ quang plasma.\nNhóm này cũng bao gồm máy cắt bằng tia nước được mô tả trong phần (H) dưới đây.",
+        "en": "(ii) They must carry out operations of the kind performed by machine-tools equipped with conventional tools;\n(iii) They must use one of the following seven processes: laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam or plasma arc.\nThis heading also covers water-jet cutting machines described in Part (H) below."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này loại trừ những loại máy đã được quy định xếp vào nhóm 84.86, như dưới đây:\n(i) Máy gia công bất kỳ vật liệu nào bằng cách tách bỏ vật liệu, chỉ dùng và chủ yếu dùng trong sản xuất khối hoặc tấm bán dẫn, thiết bị bán dẫn, mạch điện tử tích hợp hoặc màn hình dẹt.\n(ii) Máy gia công bất kỳ vật liệu nào bằng cách tách bỏ vật liệu, loại chỉ dùng và chủ yếu dùng để sản xuất hoặc sửa chữa màn chắn và đường chữ thập\n(iii) Máy để khắc axit khô các bản mẫu trên vật liệu bán dẫn.",
+        "en": "This heading, however, excludes the following kinds of machines, which are provided for in heading 84.86:\n(i) Machines for working any material by removal of material, of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays.\n(ii) Machines for working any material by removal of material, of a kind used solely or principally for the manufacture or repair of masks and reticles.\n(iii) Machines for dry-etching patterns on semiconductor materials."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) MÁY CÔNG CỤ ĐỂ GIA CÔNG BẰNG CÁC QUY TRÌNH SỬ DỤNG TIA LASER HOẶC TIA SÁNG KHÁC HOẶC CHÙM PHÔ-TÔNG\nGia công cơ khí sử dụng tia laser (gia công cơ khí sử dụng chùm phô-tông) bao gồm việc bắn phá một mục tiêu bằng các hạt photon. Cụ thể, nhóm này bao gồm máy dùng để khoan (kim loại, hồng ngọc cho đồng hồ đeo tay..v.v..) máy dùng để cắt kim loại hoặc các vật liệu cứng khác và máy dùng để chạm khắc (hình thù, chữ, dòng v.v..) trên các vật liệu có độ bền cao khác nhau.\nNguyên lý hoạt động của máy công cụ gia công bằng quy trình sử dụng tia lade là sử dụng chùm tia lade hội tụ cường độ cao chiếu thẳng vào vật liệu để bóc tách bằng cách nung chảy, đốt nóng hoặc làm bốc hơi (hay còn gọi là bào mòn). Đối với một số máy công cụ nhất định thuộc loại này, chùm tia lade có thể được kết hợp với tia nước áp lực thấp để chỉnh hướng tia lade, loại bỏ mảnh vụn và làm nguội vật liệu.",
+        "en": "(A) MACHINE-TOOLS FOR WORKING BY LASER OR OTHER LIGHT OR PHOTON BEAM PROCESSES\nLaser-beam machining (photonic machining) consists of bombarding a target with photons. This group covers, in particular, machines for drilling (metals, rubies for watches, etc.), machines for cutting metals or other hard materials and machines for engraving (figures, letters, lines, etc.) on various highly resistant materials.\nThe principle of the machine-tools operated by laser processes is the removal of material by melting, burning or vaporization (also referred to as “ablation”), which are caused by a focused intense laser beam directed at the workpiece. In certain machine-tools of this type, a laser beam may be coupled into a low-pressure water jet, which is used to guide the laser beam, and to remove debris and cool the material."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) MÁY CÔNG CỤ ĐỂ GIA CÔNG BẰNG CÁC QUI TRÌNH CÔNG NGHỆ SÓNG SIÊU ÂM\nMáy công cụ sử dụng sóng siêu âm bao gồm một máy khoan dưới tác dụng của những dao động sóng siêu âm và vật liệu mài ở dạng huyền phù trong chất lỏng. Những máy này có thể kết hợp với hệ thống tái sử dụng vật liệu mài.",
+        "en": "(B) MACHINE-TOOLS FOR WORKING BY ULTRASONIC PROCESSES\nUltrasonic machine-tools consist of a punch subjected to ultrasonic vibrations and an abrasive in suspension in a liquid. These machines may incorporate an abrasive recycling system."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này bao gồm máy công cụ, được sử dụng, cụ thể như sau:\n(1) Dùng để gia công kim cương hoặc khuôn dập cacbít kim loại;\n(2) Dùng để khoan hoặc tạo hình các khoáng vật;\n(3) Dùng để khắc thủy tinh;\n(4) Dùng để phay, chuốt hoặc đánh bóng.",
+        "en": "This group includes machine-tools which are used, in particular:\n(1) For working diamond or metal carbide dies;\n(2) For drilling or shaping minerals;\n(3) For engraving glass;\n(4) For milling, broaching or polishing."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(C) MÁY CÔNG CỤ ĐỂ GIA CÔNG BẰNG QUI TRÌNH CÔNG NGHỆ PHÓNG ĐIỆN\nNguyên lý của loại máy gia công cơ khí này là bóc tách kim loại giữa hai điện cực kim loại (vật cần gia công và dụng cụ) bằng việc phóng điện đột ngột trong một khoảng thời gian cực ngắn đạt mức vài trăm nghìn chu kỳ trong một giây. Ví dụ, nhóm này bao gồm, ví dụ máy cắt bằng tia lửa điện tần số cao.",
+        "en": "(C) MACHINE-TOOLS FOR WORKING BY ELECTRO-DISCHARGE PROCESSES\nThe principle of this type of machining is the removal of metal between two metallic electrodes (the workpiece and the tool) by sudden electrical discharges of very short duration at the rate of several hundred thousand cycles per second. This group covers, for example, high-frequency electric-spark cutting machines."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(D) MÁY CÔNG CỤ ĐỂ GIA CÔNG BẰNG QUY TRÌNH CÔNG NGHỆ ĐIỆN - HÓA\nNguyên lý của loại máy gia công cơ khí này là bóc tách kim loại bằng qui trình điện phân. Vật cần gia công (anot) là một vật dẫn điện và dụng cụ điện cực (catot). Chúng được nhúng trong một dung dịch điện phân phù hợp, làm cho không kết tủa tại ca-tốt, đây là quá trình hòa tan anot điện hóa.\nNhóm này bao gồm:\n(1) Thiết bị đánh bóng điện phân, được sử dụng để đánh bóng các mẫu vật cho kiểm tra bằng kính hiển vi hoặc kiểm tra kim tương.\n(2) Máy mài sắc điện phân dùng để mài sắc các dụng cụ cắt, các rãnh, khía của cơ cấu bẻ phoi hoặc các tấm cacbít kim loại dùng để cắt: những máy này sử dụng một đá mài kim cương.\n(3) Máy mài, cắt ba via các loại bánh răng khác nhau bằng sử phân hủy anot (cực dương)\n(4) Máy gia công tinh chính xác các bề mặt bằng phẳng...",
+        "en": "(D) MACHINE-TOOLS FOR WORKING BY ELECTRO-CHEMICAL PROCESSES\nThe principle of this type of machining is the removal of metal by electrolysis. The workpiece (anode) is a conductor of electricity as is the tool (cathode). Both are submerged in a selected electrolyte which makes cathodic deposition impossible, and all that occurs is anodic dissolution.\nThis group includes:\n(1) Electrolytic polishing apparatus, used for polishing specimens for microscopic or metallurgical examination.\n(2) Electrolytic sharpeners for sharpening cutting tools, cutting chip-breaker grooves or cutting metal carbide plates; these machines utilise a diamond wheel.\n(3) Machines for deburring various kinds of gear-wheel by anodic dissolution.\n(4) Machines for precision finishing flat surfaces, etc."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(E) MÁY CÔNG CỤ ĐỂ GIA CÔNG BẰNG QUI TRÌNH CÔNG NGHỆ CHÙM TIA ĐIỆN TỬ\nViệc gia công bằng chùm tia điện tử bao gồm việc bắn phá vật gia công trên một bề mặt rất nhỏ bằng electron được giải phóng từ catot, được gia tốc bởi một trường điện từ mạnh và được hội tụ lại bởi một hệ thống thấu kính từ trường hoặc tĩnh điện.",
+        "en": "(E) MACHINE TOOLS FOR WORKING BY ELECTRON BEAM PROCESSES\nElectron beam machining consists of bombarding the workpiece on a very small surface with electrons emitted by a cathode, accelerated by an intense electrical field, and focussed by a system of magnetic or electrostatic lenses."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(F) MÁY CÔNG CỤ ĐỂ GIA CÔNG BẰNG QUI TRÌNH CÔNG NGHỆ CHÙM TIA ION\nChùm tia của những máy công cụ này gia công bằng tác động liên tục, không phải ở dạng xung như trong trường hợp chùm tia lade.",
+        "en": "(F) MACHINE-TOOLS FOR WORKING BY IONIC-BEAM PROCESSES\nThe beam of these machine-tools works by continuous action, not by impulses as in the case of the laser beam."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(G) MÁY CÔNG CỤ ĐỂ GIA CÔNG BẰNG QUI TRÌNH CÔNG NGHỆ HỒ QUANG FLASMA",
+        "en": "(G) MACHINE-TOOLS FOR WORKING BY PLASMA ARC PROCESSES"
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Việc gia công bằng hồ quang plasma liên quan đến việc ion hóa mạnh một chất khí bằng một luồng điện phát ra từ một máy phát xung điện từ dưới điện thế cao. Việc gia công này cho phép cắt với một tốc độ rất cao và cất thô và gia công các sợi dần tiến thô.",
+        "en": "Plasma arc machining involves intense ionisation of a gas by means of an electric current produced by a magnetic impulse generator under high tension. It permits cutting plates at a very high speed and rough-cutting and machining coarse-feeding threads."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(H) MÁY CẮT BẰNG TIA NƯỚC\nNhóm này bao gồm máy cắt bằng tia nước và bằng tia hỗn hợp “nước và chất mài mòn”. Đây là những máy được thiết kế để cắt vật liệu bằng một quy trình sử dụng dòng phun của nước hoặc nước pha lẫn chất mài mòn mạnh, thường tốc độ dòng phun gấp 2 đến 3 lần tốc độ âm thanh. Chúng hoạt động dưới áp suất 3000 đến 4000 bar và có thể thực hiện nhiều loại đường cắt chính xác trên nhiều vật liệu. Máy cắt bằng tia nước thường được sử dụng để cắt các vật liệu mềm hơn (bọt xốp, cao su mềm, vật liệu đệm, vật liệu dạng phoi...). Máy cắt bằng tia nước pha lẫn chất mài mòn thường được sử dụng để cắt các vật liệu cứng hơn (thép dụng cụ, cao su cứng, composit, đá, thủy tinh, nhôm, thép không gỉ....).",
+        "en": "(H) WATER-JET CUTTING MACHINES\nThis group includes water-jet and water-abrasive jet cutting machines. These are machines designed to cut materials by a process using streams of water or of water mixed with very fine abrasives, typically at a velocity of 2 to 3 times the speed of sound. They operate under pressures of 3,000 to 4,000 bars and are capable of making multiple types of precision cuts in a variety of materials. Water-jet cutting machines are typically used for softer materials (foam, soft rubber, gasket material, foils, etc.). Water-abrasive jet cutting machines are typically used for harder materials (tool steel, hard rubber, composites, stone, glass, aluminium, stainless steel, etc.)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "CÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo các điều khoản chung về phân loại các bộ phận (xem Chú giải Tổng quát của phần XVI), các bộ phận và phụ tùng của các máy công cụ thuộc nhóm này được phân loại trong nhóm 84.66.",
+        "en": "PARTS AND ACCESSORIES\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts and accessories of the machines of this heading are classified in heading 84.66."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm:\n(a) Thiết bị siêu âm dùng để làm sạch (nhóm 84.79).\n(b) Máy và thiết bị hàn hợp kim, có hoặc không thể cắt được (nhóm 85.15).\n(c) Máy kiểm tra (nhóm 90.24).",
+        "en": "The heading also excludes:\n(a) Ultrasonic apparatus for cleaning (heading 84.79).\n(b) Soldering, brazing or welding machines and apparatus, whether or not capable of cutting (heading 85.15).\n(c) Testing machines (heading 90.24)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Hoạt động bằng tia laser hoặc tia sáng khác hoặc chùm phô-tông:",
+        "en": "- Operated by laser or other light or photon beam processes:"
+      },
+      "subheading_id": "8456.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoạt động bằng tia laser",
+        "en": "Operated by laser"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Hoạt động bằng tia laser hoặc tia sáng khác hoặc chùm phô-tông:",
+        "en": "- Operated by laser or other light or photon beam processes:"
+      },
+      "subheading_id": "8456.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoạt động bằng tia sáng khác hoặc chùm phô-tông",
+        "en": "Operated by other light or photon beam processes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8456.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoạt động bằng phương pháp siêu âm",
+        "en": "Operated by ultrasonic processes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8456.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoạt động bằng phương pháp phóng điện",
+        "en": "Operated by electro-discharge processes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8456.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoạt động bằng quá trình xử lý plasma hồ quang",
+        "en": "Operated by plasma arc processes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8456.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy cắt bằng tia nước",
+        "en": "Water-jet cutting machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8456.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

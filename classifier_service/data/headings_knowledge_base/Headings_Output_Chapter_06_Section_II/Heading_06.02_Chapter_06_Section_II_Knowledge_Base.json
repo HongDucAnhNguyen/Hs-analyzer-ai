@@ -1,0 +1,96 @@
+{
+  "heading_id": "06.02",
+  "heading_title": {
+    "vi": "Cây sống khác (kể cả rễ), cành giâm và cành ghép; hệ sợi nấm (+).",
+    "en": "Other live plants (including their roots), cuttings and slips; mushroom spawn (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại cây sống khác, cành giâm, cành ghép và hệ sợi nấm. Cụ thể bao gồm cây, cây bụi (kể cả dùng để ghép), cây giống để trồng, rễ sống, cành giâm chưa mọc rễ, cành ghép, và hệ sợi nấm. Các loại cây này có thể ở dạng rễ trần, trong bầu đất hoặc trong chậu. Nhóm này không bao gồm các sản phẩm của nhóm 06.01 (ví dụ rễ củ thược dược) và rễ rau diếp xoăn của nhóm 06.01 hoặc 12.12.",
+    "en": "This heading covers other live plants, cuttings, slips, and mushroom spawn. Specifically, it includes trees and shrubs (including for grafting), seedlings for planting, live roots, unrooted cuttings, slips, and mushroom spawn. These plants may be presented with bare roots, balled, or in pots. The heading excludes products of heading 06.01 (e.g., dahlia tuberous roots) and chicory roots of heading 06.01 or 12.12."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Cây, cây bụi và bụi cây các loại (cây rừng, cây ăn quả, cây cảnh v.v...), kể cả thân/gốc dùng để ghép.\n(2) Cây và cây giống các loại để cấy trồng, trừ những loại thuộc nhóm 06.01.\n(3) Rễ sống của cây.\n(4) Cành giâm chưa mọc rễ; cành ghép (mắt ghép hoặc chồi); cành giâm và chồi gốc.\n(5) Hệ sợi nấm gồm đám thể sợi nấm, đã hoặc chưa trộn đất hoặc chất thực vật.",
+        "en": "This heading includes :\n(1) Trees, shrubs and bushes of all kinds (forest, fruit, ornamental, etc.), including stocks for grafting.\n(2) Plants and seedlings of all kinds for planting, except those of heading 06.01.\n(3) Live roots of plants.\n(4) Unrooted cuttings; slips (grafts or scions); runners and shoots.\n(5) Mushroom spawn consisting of mushroom plant threads (mycelium) whether or not mixed with soil or vegetable matter."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại cây, cây bụi, bụi cây và cây con khác thuộc nhóm này có thể ở dạng rễ trần hoặc rễ trong bầu đất, hoặc trồng trong bình, bao, giỏ, chậu hoặc bao bì tương tự.\nNhóm này không bao gồm rễ củ (ví dụ thược dược, nhóm 06.01) và rễ rau diếp xoăn nhóm 06.01 hoặc 12.12.",
+        "en": "The trees, shrubs, bushes and other plants covered by this heading may be presented with their roots bare or balled, or planted in pots, tubs, boxes or the like.\nThe heading excludes tuberous roots (e.g., dahlias, heading 06.01) and chicory roots of heading 06.01 or 12.12."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 0602.20\nTheo mục đích của phân nhóm 0602.20, khái niệm “cây, bụi cây và cây bụi\" bao gồm cây lau và cây leo có thân mộc (ví dụ: cây nho, cây lê đá, cây dâu tằm, cây kiwi) và cành giâm có rễ của chúng.\nPhân nhóm này không bao gồm cây tầm xuân (phân nhóm 0602.40).\nPhân nhóm 0602.20, 0602.30, 0602.40 và 0602.90\nRễ sống được phân loại cùng với cây trong phân nhóm thích hợp.",
+        "en": "Subheading Explanatory Notes.\nSubheading 0602.20\nFor the purposes of subheading 0602.20, the term “trees, shrubs and bushes” includes canes and vines having woody stems (e.g., grape, boysenberry, dewberry, kiwitruit) and rooted cuttings thereof.\nThis subheading does not cover wild roses (subheading 0602.40).\nSubheadings 0602.20, 0602.30, 0602.40 and 0602.90\nLive roots are to be classified along with plants in their appropriate subheadings."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0602.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cành giâm và cành ghép không có rễ",
+        "en": "Unrooted cuttings and slips"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0602.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cây, cây bụi, đã hoặc không ghép cành, thuộc loại có quả hoặc quả hạch (nuts) ăn được",
+        "en": "Trees, shrubs and bushes, grafted or not, of kinds which bear edible fruit or nuts"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0602.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cây đỗ quyên và cây azalea (cây khô - họ đỗ quyên), đã hoặc không ghép cành",
+        "en": "Rhododendrons and azaleas, grafted or not"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0602.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cây hoa hồng, đã hoặc không ghép cành",
+        "en": "Roses, grafted or not"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0602.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

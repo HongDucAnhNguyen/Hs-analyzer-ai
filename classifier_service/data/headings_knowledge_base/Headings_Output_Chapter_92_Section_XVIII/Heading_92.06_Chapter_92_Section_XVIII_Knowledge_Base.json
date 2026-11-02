@@ -1,0 +1,35 @@
+{
+  "heading_id": "92.06",
+  "heading_title": {
+    "vi": "Nhạc cụ thuộc bộ gõ (ví dụ, trống, mộc cầm, chũm chọe, castanet, chuông gõ (maraca)).",
+    "en": "Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các nhạc cụ thuộc bộ gõ, là những nhạc cụ mà âm thanh được tạo ra bằng cách đập (đánh) bằng dùi, dụng cụ tương tự, hoặc bằng tay không. Chúng được chia thành hai loại chính: (A) Nhạc cụ có lớp da được kéo căng (ví dụ: trống, trống timpano, trống lục lạc) và (B) Các nhạc cụ thuộc bộ gõ khác (ví dụ: chũm chọe, cồng, mộc cầm, đàn phiến kim loại, celesta, chuông, maracas). Nhóm này cũng bao gồm bộ chuông hoà âm (carillon) cho các tòa nhà. Tuy nhiên, nhóm này loại trừ các nhạc cụ điện tử thuộc bộ gõ (nhóm 92.07), các loại chuông và cồng không phải là nhạc cụ (nhóm 83.06 hoặc 85.31), và chuông hoà âm cho đồng hồ (nhóm 91.14).",
+    "en": "This heading covers percussion musical instruments, which are instruments sounded by being struck with a stick, a similar device, or the bare hand. They are divided into two main categories: (A) Those with a stretched skin (e.g., drums, timpani, tambourines) and (B) Other percussion instruments (e.g., cymbals, gongs, xylophones, metallophones, celestas, bells, maracas). The heading also includes carillons for public buildings. However, this heading excludes electronic percussion musical instruments (heading 92.07), non-musical bells and gongs (heading 83.06 or 85.31), and chimes for clocks (heading 91.14)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhạc cụ thuộc bộ gõ là những nhạc cụ mà người chơi hay biểu diễn phải đập (đánh) bằng một vật như đũa (dùi) hay một dụng cụ tương tự, hoặc bằng tay không. Những nhạc cụ này thường được gọi là “nhạc cụ để đánh”. Những nhạc cụ chính trong nhóm này là:",
+        "en": "Percussion musical instruments are struck with an object of a similar kind, or with a stick or similar device, or with the bare hand. These instruments are also known collectively as “the drums”. The main instruments in this heading are:"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) Nhạc cụ có lớp da được kéo căng, ví dụ: (1) Trống nhỏ và trống lục lạc. (2) Trống (trống tang mỏng, trống trầm hoặc trống lớn,...). (3) Trống Timpano và trống thùng (trống một mặt). (4) Trống lục lạc với tiếng leng keng nhỏ. (5) Trống tam tam.\n(B) Các nhạc cụ thuộc bộ gõ khác như: (1) Chũm chọe (Cymbals). (2) Cồng (ví dụ cồng Trung Hoa). (3) Thanh kẻng ba góc. (4) Lục lạc hình nón (pavilon Trung Hoa, crescent Thổ Nhĩ Kỳ). (5) Phách (castenet). (6) Mộc cầm. (7) Đàn phiến kim loại (Metallophone), nhóm này cũng bao gồm những nhạc cụ tương tự bằng phiến thủy tinh. (8) Đàn Celesta và những nhạc cụ tương tự.",
+        "en": "(A) Those with a stretched skin, e.g.: (1) Tabors and tambourins. (2) Drums (shallow side drums, bass or big drums, etc.). (3) Timpani and kettle-drums. (4) Tambourines with jingles. (5) Tom-toms.\n(B) Other percussion instruments such as: (1) Cymbals. (2) Gongs (e.g., Chinese gongs). (3) Triangles. (4) Jingles johnnies (Chinese pavilions, Turkish crescents). (5) Castenets. (6) Xylophones. (7) Metallophones, the heading also includes similar instruments with glass plates. (8) Celestas and the like."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(9) Chuông, bộ chuông, chuông hoà âm và chuông hình ống. (10) Maracas và những nhạc cụ tương tự. (11) “Phách” bằng đôi que (claves). (12) Flexatone. Một số nhạc cụ trên đây đôi khi được kết hợp để một người cùng một lúc có thể sử dụng được nhiều thứ. Bộ chuông hoà âm (carillon) cho các tòa nhà có thể phát ra các giai điệu, cũng được phân loại vào nhóm này. Tuy nhiên, những nhạc cụ điện tử thuộc bộ gõ được phân loại vào nhóm 92.07.\nNhóm này không bao gồm: (a) Các loại chuông và cồng (gông) để bàn hoặc mắc ở cửa, chuông hòa âm,... không phải là nhạc cụ (nhóm 83.06 hay 85.31). (b) Chuông hoà âm và các bộ gõ khác cho đồng hồ thời gian (nhóm 91.14).",
+        "en": "(9) Bells, sets of bells, chimes and tubular bells. (10) Maracas and similar instruments. (11) “Claves” consisting of a pair of hard wooden sticks. (12) Flexatones. Some of the instruments mentioned above are occasionally combined so that a single performer may play several at the same time. Carillons for public buildings, suitable for producing music, are also classified here. However, electronic percussion musical instruments are classified in heading 92.07.\nThe heading also excludes: (a) Door or table bells and gongs, door chimes, etc., which are not musical instruments (heading 83.06 or 85.31). (b) Chimes and other striking mechanisms for clocks (heading 91.14)."
+      }
+    }
+  ],
+  "subheadings": []
+}

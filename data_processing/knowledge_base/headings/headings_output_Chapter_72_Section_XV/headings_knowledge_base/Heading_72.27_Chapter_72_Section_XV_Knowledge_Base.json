@@ -1,0 +1,58 @@
+{
+  "heading_id": "72.27",
+  "heading_title": {
+    "vi": "Các dạng thanh và que, của thép hợp kim khác, được cán nóng, dạng cuộn không đều.",
+    "en": "Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel."
+  },
+  "summary": {
+    "vi": "Nhóm 72.27 bao gồm các sản phẩm dạng thanh và que bằng thép hợp kim khác, được sản xuất bằng phương pháp cán nóng và được cung cấp ở dạng cuộn không đều. Việc phân loại trong nhóm này dựa trên các loại thép cụ thể như thép gió (phân nhóm 7227.10) và thép mangan-silic (phân nhóm 7227.20). Đối với các sản phẩm này, các điều khoản và chú giải của nhóm 72.13 được áp dụng một cách tương ứng, với những sửa đổi cần thiết để phù hợp với đặc tính của thép hợp kim. Các loại thép hợp kim khác không được liệt kê cụ thể sẽ thuộc phân nhóm 7227.90.",
+    "en": "Heading 72.27 covers bars and rods of other alloy steel, produced by hot-rolling and supplied in irregularly wound coils. Classification within this heading is based on specific steel types such as high-speed steel (subheading 7227.10) and silico-manganese steel (subheading 7227.20). For these products, the provisions and explanatory notes of heading 72.13 apply accordingly, with necessary modifications to suit the characteristics of alloy steel. Other alloy steels not specifically listed fall under subheading 7227.90."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho nhóm 72.13, với những sửa đổi thích hợp áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to heading 72.13 apply, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7227.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng thép gió",
+        "en": "Of high speed steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7227.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng thép mangan- silic",
+        "en": "Of silico-manganese steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7227.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

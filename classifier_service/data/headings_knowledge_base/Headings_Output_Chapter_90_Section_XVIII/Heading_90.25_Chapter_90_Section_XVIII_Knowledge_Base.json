@@ -1,0 +1,119 @@
+{
+  "heading_id": "90.25",
+  "heading_title": {
+    "vi": "Tỷ trọng kế và các dụng cụ đo dạng nổi tương tự, nhiệt kế, hoả kế, khí áp kế, ẩm kế, có hoặc không ghi, và tổ hợp của chúng.",
+    "en": "Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các dụng cụ dùng để đo các biến số vật lý của khí quyển và các chất khác, có thể có hoặc không có chức năng ghi. Các dụng cụ chính bao gồm:\n\n(A) Tỷ trọng kế và các dụng cụ đo dạng nổi tương tự: Dùng để xác định khối lượng riêng của chất lỏng hoặc chất rắn (ví dụ: tửu kế, thước đo đường, axit kế).\n\n(B) Nhiệt kế và hoả kế: Dùng để đo nhiệt độ. Bao gồm các loại: chứa chất lỏng (thủy tinh), kim loại (lưỡng kim), giãn nở hoặc áp suất, tinh thể lỏng, và các loại điện (điện trở, cặp nhiệt điện, bức xạ/quang học).\n\n(C) Khí áp kế: Dùng để đo áp suất khí quyển. Bao gồm loại thủy ngân và loại hộp (aneroid).\n\n(D) Ẩm kế: Dùng để đo độ ẩm của không khí hoặc khí khác. Bao gồm loại hóa học, ngưng tụ, tóc, và điện.\n\n(E) Thước đo ẩm (Psychrometers): Một dạng ẩm kế đặc biệt sử dụng hai nhiệt kế (khô và ẩm).\n\nNhóm này cũng bao gồm các tổ hợp của các dụng cụ trên (ví dụ: thiết bị ghi nhiệt độ - độ ẩm) và các bộ phận, phụ kiện của chúng, tuân theo Chú giải 1 và 2 của Chương 90.\n\nCác loại trừ chính khỏi nhóm này bao gồm:\n- Dụng cụ xác định trọng lượng riêng bằng phương pháp khác như bình tỷ trọng (pyknometers) (nhóm 70.17) và cân thủy tĩnh (nhóm 90.16).\n- Dụng cụ phân tích không phải loại nổi như bơ kế (nhóm 70.17).\n- Tổ hợp với cơ cấu điều chỉnh tự động (nhóm 90.32).\n- Đồng hồ đo độ cao chỉ báo độ cao (nhóm 90.14).\n- Áp kế đo áp suất chất lỏng hoặc khí (nhóm 90.26).\n- Giấy thấm hóa học chỉ thị độ ẩm (nhóm 38.22).\n- Thiết bị xác định độ ẩm chất rắn (nhóm 90.27).\n- Dụng cụ dò vô tuyến (radio-sondes) (nhóm 90.15).",
+    "en": "This heading covers instruments for measuring physical variables of the atmosphere and other substances, whether or not recording. The main instruments include:\n\n(A) Hydrometers and similar floating instruments: Used to determine the specific gravity of liquids or solids (e.g., alcoholometers, saccharometers, acidimeters).\n\n(B) Thermometers and pyrometers: Used for measuring temperature. Includes various types: liquid-filled (glass), metallic (bi-metallic), expansion or pressure, liquid crystal, and electrical types (resistance, thermocouple, radiation/optical).\n\n(C) Barometers: Used for measuring atmospheric pressure. Includes mercury and aneroid types.\n\n(D) Hygrometers: Used for determining the moisture content of air or other gases. Includes chemical, condensation, hair, and electrical types.\n\n(E) Psychrometers: A special type of hygrometer using two thermometers (dry and wet bulb).\n\nThis heading also includes combinations of the above instruments (e.g., thermo-hygrographs) and their parts and accessories, subject to Notes 1 and 2 to Chapter 90.\n\nMajor exclusions from this heading include:\n- Instruments determining specific gravity by other methods, such as pyknometers (heading 70.17) and hydrostatic balances (heading 90.16).\n- Non-floating analysis apparatus like butyrometers (heading 70.17).\n- Combinations with automatic regulating devices (heading 90.32).\n- Altimeters indicating altitude only (heading 90.14).\n- Pressure gauges for liquids or gases (heading 90.26).\n- Chemically impregnated papers indicating humidity (heading 38.22).\n- Instruments for determining the moisture content of solid matter (heading 90.27).\n- Radio-sondes (heading 90.15)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) TỶ TRỌNG KẾ VÀ DỤNG CỤ ĐO DẠNG NỔI TƯƠNG TỰ\nCác dụng cụ này được sử dụng để xác định, thường bằng cách đọc trực tiếp trên một thanh chia vạch, khối lượng riêng của các chất rắn hoặc chất lỏng hoặc một vài giá trị tùy ý liên quan tới khối lượng riêng (ví dụ như nồng độ của các chất lỏng tinh khiết). Các công cụ loại trên thường làm bằng thủy tinh, một đầu nặng đựng thủy ngân hoặc bột hạt chì. Một số dụng cụ đo tỷ trọng kết hợp với một nhiệt kế.\nPhần lớn các dụng cụ nói trên được gọi tên theo mục đích sử dụng mà chúng đã được thiết kế, ví dụ tửu kế, thước đo đường saccharo; dụng cụ đo độ mặn; tỷ trọng kế sữa hay nghiệm nhã kế, các axit kế; các tiết niệu kế. Một số khác được gọi theo tên người phát minh (như Beaumé, Brix, Balling, v.v...). Tỷ trọng kế Nicholson được dùng cho chất rắn.",
+        "en": "(A) HYDROMETERS AND SIMILAR FLOATING INSTRUMENTS\nThese instruments are used for determining, generally by direct reading on a graduated stem, the specific gravity of solids or liquids, or some arbitrary value related to specific gravity (e.g., strength of spirituous liquors). The instruments are usually made of glass, and weighted at one end with mercury or fine lead shot. Some types are combined with a thermometer.\nMost of these instruments are known according to the use for which they are designed, for example, alcoholometers; saccharometers; salinometers; lactodensimeters or lactometers; acidimeters; urinometers; etc. Others are named after the inventor (e.g., Baumé, Brix, Balling, etc.). Nicholson’s hydrometer is used for solids."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Những dụng cụ xác định trọng lượng riêng bằng các phương pháp khác, ví dụ: kế pyknomet (các bình tỷ trọng) (nhóm 70.17), các cân tỷ trọng hoặc thủy tĩnh (nhóm 90.16).\n(b) Một số dụng cụ phân giải nhất định như bơ kế (để đo hàm lượng chất béo của bơ), ure kế (đo liều lượng ure) mà không là dụng cụ nổi thì thuộc nhóm 70.17.",
+        "en": "The heading does not cover:\n(a) Instruments which determine specific gravity by other methods, for example, pyknometers (specific gravity bottles) (heading 70.17), specific gravity or hydrostatic balances (heading 90.16).\n(b) Certain analysis apparatus which are not floating instruments, for example, butyrometers (for determining the fatty content of butter), areometers (for testing urea content); these are classified in heading 70.17."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) NHIỆT KẾ, MÁY GHI NHIỆT VÀ HOẢ KẾ\nTrong những dụng cụ của nhóm này, có thể kể ra:\n(1) Nhiệt kế bằng thủy tinh, loại có một ống bằng thủy tinh được chứa đầy chất lỏng. Bao gồm nhiệt kế dùng ở gia đình, y tế, công nghiệp, phòng thí nghiệm, khí tượng học, thủy văn, và nhiệt kế cực đại/cực tiểu.\n(2) Nhiệt kế kim loại (cụ thể là nhiệt biểu lưỡng kim). Dùng chủ yếu trong khí tượng học, điều hoà không khí hoặc mục đích khoa học, công nghiệp khác.\n(3) Nhiệt kế đo độ giãn nở hoặc áp suất, với các hệ thống bằng kim loại.\n(4) Nhiệt kế tinh thể lỏng.\n(5) Nhiệt kế và hoả kế điện gồm:\n(i) Nhiệt kế và hoả kế điện trở.\n(ii) Nhiệt kế và hoả kế cặp nhiệt điện.",
+        "en": "(B) THERMOMETERS, THERMOGRAPHS AND PYROMETERS\nThis group includes:\n(1) Glass thermometers, with a liquid-filled glass tube. These include household, clinical, industrial, laboratory, meteorological, hydrography thermometers, and minimum and maximum thermometers.\n(2) Metallic thermometers (in particular bi-metallic thermometers). They are mainly used in meteorology, for air conditioning and for other scientific or industrial purposes.\n(3) Expansion or pressure thermometers with metallic systems.\n(4) Liquid crystal thermometers.\n(5) Electrical thermometers and pyrometers, such as:\n(i) Resistance thermometers and pyrometers.\n(ii) Thermocouple thermometers and pyrometers."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(iii) Hoả kế bức xạ (gồm cả “quang học”) gồm nhiều loại, chẳng hạn như: (a) Loại dùng gương lồi hội tụ bức xạ, (b) Loại 'biến dây tóc'.\nNhiệt kế và hoả kế điện đôi khi được kết hợp với một cơ cấu điều chỉnh tự động để điều khiển hoạt động cho các lò nung, v.v..., những kết hợp đó thuộc nhóm 90.32.\n(6) Hoả kế lập phương trắc quang.\n(7) Hoả kế quang học biến dây tóc.\n(8) Kính trắc nhiệt dựa trên hiện tượng phân cực quang.\n(9) Hoả kế dựa trên nguyên lý co lại của chất rắn.\nNhóm này cũng bao gồm những nhiệt kế 'tiếp xúc', nhiệt kế kim loại hoặc áp suất hơi (đôi khi gọi là hoả kế) và các nhiệt kế tự ký (thermographs).",
+        "en": "(iii) Radiation (including optical) pyrometers. These are of various types, e.g.: (a) Pyrometers in which a concave mirror concentrates radiations, (b) Disappearing filament pyrometers.\nElectrical thermometers and pyrometers are sometimes combined with automatic regulating devices which control the operation of the furnace, etc. Such combinations are classified in heading 90.32.\n(6) Optical, photometric cube type pyrometers.\n(7) Optical, disappearing filament type pyrometers.\n(8) Pyrometric telescopes based on rotatory polarisation.\n(9) Pyrometers based on contraction of a solid substance.\nThe heading also includes “contact” thermometers, metallic or vapour pressure thermometers (sometimes called “pyrometers”), and thermographs."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Nhóm này không tính các hoả kế, những công cụ loại compa, dùng để đo độ co của một mẫu nghiệm bằng đất sét (nhóm 90.17 hoặc 90.31).\n(C) KHÍ ÁP KẾ VÀ KHÍ ÁP KÝ\nĐây là những công cụ dùng để đo áp suất khí quyển; những công cụ tương tự (áp kế) dùng để đo áp suất các chất lỏng hoặc khí bị loại trừ (nhóm 90.26). Hai loại thông dụng là khí áp kế thủy ngân và khí áp kế dạng hộp (aneroid). Nhóm này còn gồm khí áp kế đo độ cao (nhưng không bao gồm đồng hồ đo độ cao chỉ dùng để báo độ cao thuộc nhóm 90.14), sympiesometers, và khí áp ký (barographs).\n(D) ẨM KẾ VÀ ẨM KẾ KÝ\nChúng được dùng để đánh giá độ ẩm của không khí hoặc các khí khác. Các loại chính gồm:\n(1) Ẩm kế hoá học.\n(2) Ẩm kế ngưng tụ hay ẩm kế đọng sương.",
+        "en": "The heading excludes “pyroscope”, calliper-type instruments used for measuring the contraction of a clay, etc., test-piece (heading 90.17 or 90.31).\n(C) BAROMETERS AND BAROGRAPHS\nThese are instruments for determining the atmospheric pressure; similar instruments (pressure gauges) for measuring the pressure of liquids or gases are excluded (heading 90.26). There are two types in general use, the mercury barometer and the aneroid barometer. This heading also includes barometric altimeters (but excludes altimeters which indicate altitude only of heading 90.14), sympiesometers, and barographs.\n(D) HYGROMETERS AND HYGROGRAPHS\nThese are used to determine the moisture content of the air or other gases. The main types are:\n(1) Chemical hygrometers.\n(2) Condensation or dewpoint hygrometers."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Các loại ẩm kế khác bao gồm:\n(3) Ẩm kế tóc.\n(4) Ẩm kế hình xuyến lắc.\n(5) Ẩm kế dây kim loại.\n(6) Ẩm kế điện.\nNhóm này cũng bao gồm các ẩm nghiệm trang trí và ẩm kế tự ký (hygrographs). Mặt khác, những tờ giấy thấm chất hoá học có màu thay đổi theo độ ẩm khí quyển bị loại trừ (nhóm 38.22). Nhóm này không bao gồm thiết bị xác định độ ẩm của chất cứng (nhóm 90.27).\n(E) THƯỚC ĐO ẨM\nThước đo ẩm là một loại ẩm kế đặc biệt, xác định dung lượng độ ẩm theo độ chênh lệch về nhiệt độ được chỉ ra bởi một nhiệt kế khô và một nhiệt kế ẩm. Các thước đo ẩm điện nói chung sử dụng những nhiệt kế trở kháng hoặc bán dẫn.",
+        "en": "Other hygrometer types include:\n(3) Hair hygrometers.\n(4) Hygrometers consisting of a torns-shaped glass tube.\n(5) Hygrometers with metallic strips.\n(6) Electrical hygrometers.\nThe heading also covers fancy hygroscopes and hygrographs. On the other hand, papers impregnated with chemical substances, the colour of which varies according to the moisture content of the atmosphere are excluded (heading 38.22). This heading does not cover instruments which determine the moisture content of solid matter (heading 90.27).\n(E) PSYCHROMETERS\nThese are a special type of hygrometer. They determine the humidity content by reference to the difference in the temperatures indicated by a dry thermometer and a wet thermometer. Electrical psychrometers usually employ resistance thermometers or semiconductors."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "SỰ KẾT HỢP CỦA CÁC DỤNG CỤ\nNhóm này cũng gồm những sự kết hợp của các dụng cụ được đề cập đến ở trên, trừ khi sự bổ sung thêm một hoặc nhiều các dụng cụ khác làm cho tổ hợp có đặc tính của thiết bị hay dụng cụ thuộc nhóm được mô tả chi tiết hơn (ví dụ, nhóm 90.15, giống các dụng cụ đo khí tượng học). Cụ thể, thiết bị sau vẫn được phân loại vào nhóm này:\n(1) Thiết bị ghi nhiệt độ - độ ẩm (Thermo-hygrographs), các thiết bị ghi khí áp - nhiệt độ - độ ẩm; các quang hoá kế (actinometers).\n(2) Thấp khí kế (Pagoscopes).\nMặt khác, nhóm này không bao gồm dụng cụ dò vô tuyến dùng để thăm dò khí quyển (xem Chú giải chi tiết nhóm 90.15).",
+        "en": "COMBINATIONS OF INSTRUMENTS\nThis heading also includes combinations of the instruments referred to above, except when the addition of one or more other devices gives the combination the character of equipment or appliances covered by more specific headings (e.g., heading 90.15 as meteorological instruments). In particular, the following remain classified in this heading:\n(1) Thermo-hygrographs and baro-thermo-hygrographs; actinometers.\n(2) Pagoscopes.\nOn the other hand, the heading excludes radio-sondes for atmospheric soundings (see Explanatory Note to heading 90.15)."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "CÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo Chú giải 1 và 2 của Chương này (xem Chú giải tổng quát) các bộ phận và phụ kiện của những dụng cụ thuộc nhóm này cũng được phân loại trong nhóm khi đứng riêng lẻ (ví dụ, mặt số, kim, vỏ, hoặc thước chia độ).",
+        "en": "PARTS AND ACCESSORIES\nSubject to the provisions of Notes 1 and 2 to this Chapter (see the General Explanatory Note), separately presented parts and accessories of apparatus or appliances of this heading remain classified here (e.g., dials, pointers, cases, graduated scales)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Nhiệt kế và hỏa kế, không kết hợp với các dụng cụ khác:",
+        "en": "Thermometers and pyrometers, not combined with other instruments:"
+      },
+      "subheading_id": "9025.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chứa chất lỏng, để đọc trực tiếp",
+        "en": "Liquid-filled, for direct reading"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Nhiệt kế và hỏa kế, không kết hợp với các dụng cụ khác:",
+        "en": "Thermometers and pyrometers, not combined with other instruments:"
+      },
+      "subheading_id": "9025.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9025.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dụng cụ khác",
+        "en": "Other instruments"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9025.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

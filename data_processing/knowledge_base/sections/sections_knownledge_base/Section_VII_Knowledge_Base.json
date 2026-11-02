@@ -1,0 +1,45 @@
+{
+  "section_id": "VII",
+  "section_title": {
+    "vi": "PLASTIC VÀ CÁC SẢN PHẨM BẰNG PLASTIC; CAO SU VÀ CÁC SẢN PHẨM BẰNG CAO SU",
+    "en": "PLASTICS AND ARTICLES THEREOF; RUBBER AND ARTICLES THEREOF"
+  },
+  "summary": {
+    "vi": "Phần VII bao gồm plastic, cao su và các sản phẩm của chúng, được chia thành Chương 39 (Plastic) và Chương 40 (Cao su). Phần này đưa ra các quy tắc phân loại quan trọng cho các mặt hàng được đóng gói ở dạng bộ. Cụ thể, các bộ hàng hóa có các thành phần thuộc Phần này, được trộn với nhau để tạo ra sản phẩm của Phần VI hoặc VII, sẽ được phân loại vào nhóm phù hợp với sản phẩm cuối cùng. Ngược lại, những bộ được sử dụng lần lượt mà không trộn sẽ được phân loại theo Quy tắc giải thích chung. Một chú giải quan trọng khác là về hàng hóa in ấn. Các sản phẩm plastic và cao su có in họa tiết, ký tự mà không chỉ đơn thuần phục vụ công dụng chính thì được xếp vào Chương 49. Tuy nhiên, có ngoại lệ cho các sản phẩm của nhóm 39.18 (tấm phủ sàn, tường) và 39.19 (tấm tự dính), chúng vẫn được phân loại trong các nhóm này ngay cả khi có in ấn.",
+    "en": "Section VII covers plastics, rubber, and articles thereof, divided into Chapter 39 (Plastics) and Chapter 40 (Rubber). This section provides important classification rules for goods put up in sets. Specifically, sets with constituents from this Section, intended to be mixed to create a product of Section VI or VII, are to be classified in the heading appropriate for the final product. Conversely, sets intended for successive use without mixing are classified using the General Interpretative Rules. Another key note addresses printed goods. Plastic and rubber articles with printed motifs or characters that are not merely subsidiary to their primary use are classified in Chapter 49. However, exceptions are made for goods of heading 39.18 (floor/wall coverings) and 39.19 (self-adhesive plates), which remain in their respective headings even when printed."
+  },
+  "notes": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "1.- Các mặt hàng xếp thành bộ từ nhiều thành phần riêng biệt thuộc Phần này, được trộn với nhau để tạo ra sản phẩm của Phần VI hoặc VII, phải được xếp vào nhóm phù hợp với sản phẩm đó, nếu đáp ứng các điều kiện về đóng gói, trình bày và tính bổ sung cho nhau.\n2.- Trừ các mặt hàng của nhóm 39.18 hoặc 39.19, plastic, cao su và các sản phẩm của chúng, nếu có in hoa văn, ký tự hoặc hình ảnh không chỉ đơn thuần phục vụ công dụng chính, sẽ được xếp vào Chương 49.",
+        "en": "1.- Goods put up in sets consisting of two or more separate constituents from this Section, intended to be mixed to obtain a product of Section VI or VII, are to be classified in the heading appropriate to that product, provided they meet conditions regarding packaging, presentation, and complementarity.\n2.- Except for goods of heading 39.18 or 39.19, plastics, rubber, and articles thereof printed with motifs, characters, or pictorial representations not merely subsidiary to their primary use, fall in Chapter 49."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải Phần 1: Chú giải này áp dụng cho hàng hóa đóng thành bộ có các thành phần dự kiến trộn với nhau để tạo thành sản phẩm của Phần VI hoặc Phần VII. Lưu ý rằng các bộ hàng hóa có thành phần thuộc Phần VII nhưng được sử dụng lần lượt mà không trộn trước thì không thuộc phạm vi chú giải này; chúng được phân loại theo Quy tắc Chú giải tổng quát (thường là Quy tắc 3(b)).\nChú giải Phần 2: Hàng hóa của nhóm 39.18 (sản phẩm lát nền, phủ tường) và nhóm 39.19 (tấm tự dính) bằng plastic vẫn được phân loại trong các nhóm này ngay cả khi được in. Tuy nhiên, tất cả các hàng hóa bằng plastic hoặc cao su khác thuộc Phần này sẽ được xếp vào Chương 49 nếu việc in trên chúng không chỉ đơn thuần phục vụ công dụng chính.",
+        "en": "Section Note 1: This note applies to goods put up in sets where constituents are intended to be mixed together to form a product of Section VI or Section VII. It is noted that sets with constituents of Section VII intended for successive use without prior mixing are not covered by this note; they are classified by application of the General Interpretative Rules (generally Rule 3(b)).\nSection Note 2: Goods of heading 39.18 (floor/wall coverings) and heading 39.19 (self-adhesive plates) of plastics remain classified in these headings even if printed. However, all other goods of plastics or rubber in this Section fall in Chapter 49 if the printing on them is not merely subsidiary to their primary use."
+      }
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_id": "39",
+      "chapter_title": {
+        "vi": "Plastic và các sản phẩm bằng plastic",
+        "en": "Plastics and articles thereof"
+      }
+    },
+    {
+      "chapter_id": "40",
+      "chapter_title": {
+        "vi": "Cao su và các sản phẩm bằng cao su",
+        "en": "Rubber and articles thereof"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "heading_id": "76.01",
+  "heading_title": {
+    "vi": "Nhôm chưa gia công",
+    "en": "Unwrought aluminium."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm nhôm chưa gia công ở các dạng như lỏng, khối, thỏi, phiến, tấm dày, thanh phôi kéo dây và các dạng tương tự, thu được bằng việc đúc nhôm điện phân hoặc nấu chảy lại phế liệu. Nó cũng bao gồm các viên nhôm dùng trong luyện kim và một số loại thanh đúc hoặc thiêu kết (áp dụng Chú giải của nhóm 74.03). Nhóm này không bao gồm bột và vảy nhôm (nhóm 76.03).",
+    "en": "This heading covers unwrought aluminium in forms such as liquid, blocks, ingots, billets, slabs, notched bars, wire bars, and similar forms obtained by casting electrolytic aluminium or remelting scrap. It also includes aluminium pellets used in metallurgy and certain cast or sintered bars (the Explanatory Note to heading 74.03 applies). This heading excludes aluminium powders and flakes (heading 76.03)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm nhôm chưa gia công ở trạng thái lỏng, khối, thỏi, phiến, tấm dày, thanh phôi kéo dây, hoặc các dạng tương tự thu được bằng việc đúc nhôm đã được điện phân hoặc hoặc bằng việc nấu chảy phế liệu hoặc mảnh vụn kim loại. Những sản phẩm này thường được dùng để cán mỏng, rèn, kéo, ép, dập... hoặc dùng để nấu chảy và đúc tạo thành các sản phẩm đã được tạo hình.",
+        "en": "This heading covers unwrought aluminium in the liquid state, in blocks, ingots, billets, slabs, notched bars, wire bars, or similar forms obtained by casting electrolytic aluminium or by remelting metal waste or scrap. These goods are generally intended for rolling, forging, drawing, extruding, hammering or for remelting and for casting into shaped articles."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các viên nhôm, chủ yếu được dùng trong ngành luyện kim (đóng vai trò như tác nhân khử ôxy hóa, đặc biệt trong sản xuất sắt hoặc thép).",
+        "en": "The heading includes aluminium pellets, mainly used in metallurgy (as de-oxidising agents, especially in the manufacture of iron or steel)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm các thanh đúc hoặc các thanh đã được thiêu kết... (áp dụng chú giải nhóm 74.03 cho nhóm này với những sửa đổi phù hợp).",
+        "en": "The heading also covers certain cast or sintered bars, etc. (see the Explanatory Note to heading 74.03 which applies, mutatis mutandis, to this heading)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm bột và vảy nhôm (nhóm 76.03).",
+        "en": "The heading excludes aluminium powders and flakes (heading 76.03)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7601.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Nhôm, không hợp kim",
+        "en": "Aluminium, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7601.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hợp kim nhôm",
+        "en": "Aluminium alloys"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "heading_id": "85.10",
+  "heading_title": {
+    "vi": "Máy cạo, tông đơ và các dụng cụ loại bỏ râu, lông, tóc, có động cơ điện gắn liền.",
+    "en": "Shavers, hair clippers and hair-removing appliances, with self-contained electric motor."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm máy cạo, tông đơ và các dụng cụ loại bỏ râu, lông, tóc, có động cơ điện hoặc máy rung gắn liền, dùng cho người hoặc để xén lông cừu, chải lông ngựa, cắt lông gia súc. Nhóm này cũng bao gồm các dụng cụ cơ điện để nhổ lông. Các bộ phận của các máy này, như đầu cắt, dao cắt và lưỡi lược, cũng được phân loại ở đây, tuân theo các quy định chung về phân loại bộ phận của Phần XVI. Tuy nhiên, nhóm này loại trừ tông đơ hoạt động bằng trục linh hoạt điều khiển bởi một động cơ điện riêng (nhóm 82.14), và động cơ điện riêng đó (nhóm 85.01).",
+    "en": "This heading covers shavers, hair clippers, and hair-removing appliances with a self-contained electric motor or vibrator, for use on humans or for shearing sheep, grooming horses, or clipping cattle. It also includes electro-mechanical hair-plucking appliances. Parts for these appliances, such as cutter heads, cutter blades, and comb blades, are also classified here, subject to the general provisions for the classification of parts of Section XVI. However, the heading excludes hair clippers operated by a flexible shaft driven by a separate electric motor (heading 82.14), and that separate electric motor (heading 85.01)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy cạo và tông đơ điện có lắp kèm theo một động cơ hay máy rung, được sử dụng cho người, hoặc để xén lông cừu hoặc chải lông ngựa, cắt lông gia súc...\nTrong các máy cạo điện (máy cạo khô), dao cắt quay hoặc cắt tịnh tiến qua lại hoặc lưỡi dao trượt dọc bên trong một tấm được đục lỗ hoặc tạo rãnh, do đó cắt những lông (tóc) nhô ra qua các lỗ và khe rãnh. Trong trường hợp tông đơ, lưỡi dao cắt giống như một lược trượt qua lại trên lược kim loại cố định do đó cắt tóc (lông) được cài giữa các răng của lược. Tông đơ được hoạt động trên nguyên lý tương tự như dao cắt lông cừu, bờm ngựa... nhưng khác nhau về kích cỡ.\nNhóm này cũng bao gồm các dụng cụ cơ điện để cắt lông (tóc) với động cơ điện gắn trong; các thiết bị này, nắm lông (tóc) và nhổ đến tận gốc, có thể hoạt động cùng với một con lăn rất nhỏ hay một trục xoắn kim loại mà nó quay xung quanh chính trục của nó, hoặc một cái chắn, một đầu nhổ lông và một bộ bánh nhổ lông.",
+        "en": "This heading covers electric shavers and hair clippers which have a built-in electric motor or vibrator, whether for use on human beings, or for shearing sheep or for grooming horses, clipping cattle, etc.\nIn electric shavers (dry shavers) rotating or reciprocating cutters or knife blades slide along the inside of a perforated or slotted plate, thus cutting those hairs which protrude through the perforations or slots. In the case of hair clippers, a comb-like cutter blade slides to and fro over a fixed metal comb thus cutting the hair or wool which is caught between the teeth of the combs. Hair clippers for barbers’ use operate on a similar principle to those for sheep shearers, grooms, etc., but differ in size.\nThis heading also covers electro-mechanical hair-removing appliances with self-contained electric motor; these appliances, which grip the hair and pluck it out at the root, may operate with either a micro-roller, or a metal spiral which rotates around its own axis, or a guard, a depilating head and a set of depilating wheels."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung phân loại các bộ phận (xem Chú giải chi tiết tổng quát phần XVI), bộ phận của máy cạo điện, tông đơ hoặc dụng cụ loại bỏ râu, lông, tóc cũng được phân loại ở đây. Chúng bao gồm, không kể những cái khác, các đầu cắt, dao cát, lưỡi dao và lưỡi lược.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of electric shavers, hair clippers or hair-removing appliances are also classified here. These include, inter alia, cutter heads, cutter blades, knife blades and comb blades."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tông đơ được hoạt động bằng một trục linh hoạt điều khiển bởi một động cơ điện riêng rẽ được phân loại ở nhóm 82.14, động cơ điện (có hay không có trục linh hoạt) được phân loại ở nhóm 85.01.",
+        "en": "Hair clippers operated by a flexible shaft driven by a separate electric motor are classified in heading 82.14, the electric motor (whether or not equipped with the flexible shaft) being classified in heading 85.01."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8510.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy cạo",
+        "en": "Shavers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8510.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tông đơ",
+        "en": "Hair clippers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8510.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dụng cụ loại bỏ râu, lông, tóc",
+        "en": "Hair-removing appliances"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8510.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

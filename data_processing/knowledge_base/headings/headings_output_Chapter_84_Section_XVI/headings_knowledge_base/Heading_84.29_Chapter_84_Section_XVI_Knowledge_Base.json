@@ -1,0 +1,125 @@
+{
+  "heading_id": "84.29",
+  "heading_title": {
+    "vi": "Máy ủi đất lưỡi thẳng, máy ủi đất lưỡi nghiêng, máy san đất, máy cạp đất, máy xúc, máy đào đất, máy chuyển đất bằng gàu tự xúc, máy đầm và xe lu lăn đường, loại tự hành.",
+    "en": "Self-propelled bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, excavators, shovel loaders, tamping machines and road rollers."
+  },
+  "summary": {
+    "vi": "Nhóm 84.29 bao gồm các loại máy tự hành dùng để đào, xúc, san hoặc nén đất. Các loại máy móc chính được phân loại trong nhóm này bao gồm máy ủi đất lưỡi thẳng và lưỡi nghiêng, máy san đất, máy cạp đất, máy xúc cơ khí, máy chuyển đất bằng gàu tự xúc, máy đầm và xe lu lăn đường. Các máy này thường có đặc điểm chung là tự hành, có thể là loại bánh xích hoặc bánh lốp. Nhóm này giải thích chi tiết về các loại máy cụ thể như máy ủi dùng để san đất, máy san để làm phẳng mặt đất, và máy cạp để cắt lớp đất mặt. Các loại máy xúc cũng được mô tả, bao gồm máy xúc cần, máy xúc nhiều gầu và máy chuyển đất bằng gàu tự xúc. Các quy định về máy đa chức năng được tham chiếu từ Chú giải của nhóm 84.30. Các bộ phận của máy móc thuộc nhóm này, như lưỡi ủi hay gầu xúc, được phân loại riêng trong nhóm 84.31.",
+    "en": "Heading 84.29 covers self-propelled machinery for digging, excavating, grading, or compacting earth. The main types of machinery classified here include bulldozers, angledozers, graders, levellers, scrapers, mechanical shovels, shovel loaders, tamping machines, and road rollers. These machines share the common characteristic of being self-propelled, either track-laying or wheeled. The heading provides detailed descriptions of specific machines, such as bulldozers for rough levelling, graders for smoothing surfaces, and scrapers for slicing topsoil. Excavators are also described, including boom-type excavators, multi-bucket excavators, and shovel loaders. Provisions for multi-function machines are referenced from the Explanatory Notes to heading 84.30. Parts for the machinery of this heading, such as blades or buckets, are classified separately in heading 84.31."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này gồm một số loại máy ủi, đào hoặc nén đất mà nhìn chung tất cả là loại tự hành. Các quy tắc của Chú giải đối với nhóm 84.30 liên quan đến máy tự hành và máy đa chức năng có thể áp dụng với các loại thiết bị tự hành của nhóm này, bao gồm: (A) Máy ủi đất lưỡi thẳng và máy ủi đất lưỡi nghiêng; (B) Máy san, ủi; (C) Máy cạp, chỉ bao gồm loại mà khối động cơ đẩy và cạp tạo nên một khối cơ khí tổng thể; (D) Máy đầm đất sử dụng trong làm đường hoặc nhồi đá dăm trên đường ray (trừ máy móc gắn trên xe thuộc Chương 86); (E) Xe lu lăn đường loại tự hành; (F) Máy xúc cơ khí (loại cần, cầu trục hoặc loại cáp) đào đất bằng gầu xúc hoặc cạp.",
+        "en": "The heading covers a number of earth digging, excavating or compacting machines which are all self-propelled. The provisions of the Explanatory Note to heading 84.30 relating to self-propelled and multi-function machines apply, mutatis mutandis, to the self-propelled machinery of this heading, which includes: (A) Bulldozers and angledozers; (B) Graders and levellers; (C) Scrapers, only those in which the motor propulsion unit and the scraper form an integral mechanical unit; (D) Tamping machines as used in road making or for packing rail-road ballast (excluding machines mounted on vehicles of Chapter 86); (E) Self-propelled road rollers; (F) Mechanical shovels (boom, jib or cable type) which dig into the soil by means of an excavating bucket or grab."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(G) Máy xúc nhiều gàu trong đó phần gầu xúc được gắn trên một xích liên tục hoặc bánh xe quay; (H) Máy chuyển đất bằng gàu tự xúc loại tự hành; (IJ) Máy chất hàng - vận chuyển sử dụng trong mỏ. Nhóm này cũng bao gồm các máy chuyển đất bằng gàu tự xúc loại tự hành có một tay có khớp nối với một gầu, gắn đằng sau. Theo các quy tắc chung về phân loại các bộ phận trong Phần XVI, các bộ phận của các máy móc thuộc nhóm này, đặc biệt là các dụng cụ làm việc (lưỡi ủi, gầu xúc...) được phân loại ở nhóm 84.31.",
+        "en": "(G) Multi-bucket excavators in which the digging buckets are fitted on endless chains or on rotating wheels; (H) Self-propelled shovel loaders; (IJ) Loader-transporters used in mines. This heading also covers self-propelled shovel loaders having an articulated arm with a bucket, mounted on the rear. Subject to the general provisions regarding the classification of parts in Section XVI, parts of the machines of this heading, in particular, working tools (blades, buckets, etc.), are classified in heading 84.31."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Máy ủi đất lưỡi thẳng và máy ủi đất lưỡi nghiêng",
+        "en": "Bulldozers and angledozers"
+      },
+      "subheading_id": "8429.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại bánh xích",
+        "en": "Track laying"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy ủi đất lưỡi thẳng và máy ủi đất lưỡi nghiêng",
+        "en": "Bulldozers and angledozers"
+      },
+      "subheading_id": "8429.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8429.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy san đất",
+        "en": "Graders and levellers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8429.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy cạp đất",
+        "en": "Scrapers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8429.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy đầm và xe lu lăn đường",
+        "en": "Tamping machines and road rollers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy xúc, máy đào đất và máy chuyển đất bằng gàu tự xúc",
+        "en": "Mechanical shovels, excavators and shovel loaders"
+      },
+      "subheading_id": "8429.51",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy chuyển đất bằng gàu tự xúc lắp phía trước",
+        "en": "Front-end shovel loaders"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy xúc, máy đào đất và máy chuyển đất bằng gàu tự xúc",
+        "en": "Mechanical shovels, excavators and shovel loaders"
+      },
+      "subheading_id": "8429.52",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy có cơ cấu phần trên quay được 360°",
+        "en": "Machinery with a 360° revolving superstructure"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy xúc, máy đào đất và máy chuyển đất bằng gàu tự xúc",
+        "en": "Mechanical shovels, excavators and shovel loaders"
+      },
+      "subheading_id": "8429.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

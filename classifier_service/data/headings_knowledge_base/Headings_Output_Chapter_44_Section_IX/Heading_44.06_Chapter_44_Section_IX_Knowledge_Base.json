@@ -1,0 +1,77 @@
+{
+  "heading_id": "44.06",
+  "heading_title": {
+    "vi": "Tà vẹt đường sắt hoặc đường xe điện (thanh ngang) bằng gỗ.",
+    "en": "Railway or tramway sleepers (cross-ties) of wood."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tà vẹt gỗ (thanh ngang) chưa bào, có mặt cắt gần giống hình chữ nhật, dùng để đỡ đường ray, đường sắt hoặc xe điện. Nó cũng bao gồm tà vẹt ghi (dài hơn) và tà vẹt cầu (dày, rộng và dài hơn tà vẹt thường). Các sản phẩm này có thể có cạnh được vạt thô, có lỗ hoặc hõm để cố định ray, và có thể được gia cố ở đầu để chống nứt. Chúng có thể được xử lý bề mặt bằng thuốc trừ sâu/nấm hoặc được ngâm tẩm bằng creosote hay các chất bảo quản khác để bảo quản lâu dài. Chú giải Phân nhóm làm rõ khái niệm 'được ngâm tẩm' là xử lý bằng creosote hoặc chất bảo quản khác để bảo quản lâu dài, không bao gồm việc xử lý tạm thời để chống nấm/ký sinh trùng trong quá trình vận chuyển hoặc lưu kho.",
+    "en": "This heading covers unplaned wooden sleepers (cross-ties) of a more or less rectangular section, used to support railway or tramway tracks. It also includes switch ties (which are longer) and bridge ties (which are wider, thicker, and longer than regular sleepers). These products may have roughly chamfered edges, holes or seatings for fixing rails, and may be reinforced at the ends to prevent splitting. They may be surface-treated with insecticides/fungicides or impregnated with creosote or other preservatives for long-term preservation. The Subheading Explanatory Note clarifies that 'impregnated' means treated with creosote or other preservatives for long-term preservation, and does not include temporary treatment against fungi/parasites during shipment or storage."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm gỗ chưa bào ở dạng miếng có mặt cắt gần giống hình chữ nhật loại thường dùng để đỡ đường ray, đường sắt hay xe điện. Nhóm này cũng gồm tà vẹt ghi, dài hơn tà vẹt thường, và tà vẹt cầu, dày và rộng hơn và thường dài hơn tà vẹt thường.\nRìa của những sản phẩm này thường được vạt cạnh thô và chúng có thể được tạo lỗ hay hõm để cố định đường ray hay gối đường ray. Đôi khi chúng cũng được tăng cường ở đầu bằng đóng đinh kẹp, đinh, bu lông hoặc cuốn đai sắt để phòng bị toác.\nNhững sản phẩm trong nhóm này có thể được xử lý bề mặt bằng thuốc trừ côn trùng hay trừ nấm để bảo vệ. Để bảo quản lâu dài, chúng thường được tẩm creosote hay các chất khác.",
+        "en": "This heading covers unplaned wood in pieces of more or less rectangular section of the kind commonly used to support railway or tramway track. The heading also includes switch ties, which are longer than sleepers, and bridge ties, which are wider and thicker and usually longer than sleepers.\nThe edges of these products may be roughly chamfered and they may be provided with holes or seatings for fixing the rails or chairs. They may also sometimes be strengthened at the ends by means of staples, nails, bolts or steel strips to prevent their splitting.\nThe products of this heading may be surface treated with insecticides or fungicides for the purpose of protection. For long-term preservation they are often impregnated with creosote or other substances."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải chi tiết phân nhóm.\nCác phân nhóm 4406.11 và 4406.92\nTheo mục đích phân loại trong các phân nhóm này, khái niệm \"được ngâm tẩm\" nghĩa là gỗ được tẩm creosote hay các chất bảo quản khác để bảo quản lâu dài. Nó không bao gồm tà vẹt được xử lý bằng chất diệt nấm hay diệt côn trùng cho mục đích bảo vệ chúng một cách đơn giản khỏi nấm hoặc ký sinh trùng trong thời gian vận chuyển hay lưu kho, là loại được phân loại như là \"không ngâm tẩm\".",
+        "en": "Subheading Explanatory Note.\nSubheadings 4406.11 to 4406.92\nFor the purposes of classification in these subheadings, the expression “impregnated” means treated with creosote or other preservatives with a view to their long-term preservation. It does not include sleepers treated with a fungicide or insecticide for the purpose of protecting them from fungi or parasites simply during shipment or storage, which are to be classified as “not impregnated”."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại chưa được ngâm tẩm:",
+        "en": "- Not impregnated :"
+      },
+      "subheading_id": "4406.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ cây lá kim",
+        "en": "- - Coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại chưa được ngâm tẩm:",
+        "en": "- Not impregnated :"
+      },
+      "subheading_id": "4406.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ cây không thuộc loài lá kim",
+        "en": "- - Non-coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other :"
+      },
+      "subheading_id": "4406.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ cây lá kim",
+        "en": "- - Coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other :"
+      },
+      "subheading_id": "4406.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ cây không thuộc loài lá kim",
+        "en": "- - Non-coniferous"
+      }
+    }
+  ]
+}

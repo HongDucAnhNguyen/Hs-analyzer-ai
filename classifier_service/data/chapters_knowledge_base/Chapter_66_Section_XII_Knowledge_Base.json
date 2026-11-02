@@ -1,0 +1,51 @@
+{
+  "chapter_id": "66",
+  "chapter_title": {
+    "vi": "Ô, dù che, ba toong, gậy tay cầm có thể chuyển thành ghế, roi, gậy điều khiển, roi điều khiển súc vật thồ kéo và các bộ phận của các sản phẩm trên",
+    "en": "Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops, and parts thereof"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm ô, dù che, ba toong, gậy có thể chuyển thành ghế, roi, gậy điều khiển và các bộ phận của chúng. Cụ thể, nhóm 66.01 bao gồm các loại ô, dù (kể cả ô ba toong, dù sân vườn). Nhóm 66.02 bao gồm ba toong, gậy có thể chuyển thành ghế, roi các loại. Nhóm 66.03 bao gồm các bộ phận, đồ trang trí và phụ kiện cho các mặt hàng của nhóm 66.01 hoặc 66.02, nhưng loại trừ các bộ phận bằng vật liệu dệt, bao bì, tua rua, dây da, hộp đựng ô.\n\nChương này không bao gồm:\n(a) Gậy chống dùng để đo hoặc loại tương tự (nhóm 90.17);\n(b) Báng súng, chuôi kiếm, gậy chống chịu lực hoặc loại tương tự (Chương 93);\n(c) Hàng hóa thuộc Chương 95 (ví dụ: ô, dù che loại đồ chơi, gậy chơi gôn, gậy trượt tuyết).\n(d) Nạng (nhóm 90.21).\n(e) Lều trại đi biển không có đặc tính của ô dù (nhóm 63.06).",
+    "en": "This chapter covers umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops, and their parts. Specifically, heading 66.01 covers umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas). Heading 66.02 covers walking-sticks, seat-sticks, and whips. Heading 66.03 covers parts, trimmings, and accessories for articles of heading 66.01 or 66.02, but excludes parts of textile material, covers, tassels, thongs, and umbrella cases.\n\nThis Chapter does not cover:\n(a) Measure walking-sticks or the like (heading 90.17);\n(b) Firearm-sticks, sword-sticks, loaded walking-sticks or the like (Chapter 93);\n(c) Goods of Chapter 95 (for example, toy umbrellas, toy sun umbrellas, golf clubs, ski sticks).\n(d) Crutches (heading 90.21).\n(e) Beach tents not having the character of umbrellas (heading 63.06)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1.- Chương này không bao gồm:\n(a) Gậy chống dùng để đo hoặc loại tương tự (nhóm 90.17);\n(b) Báng súng, chuôi kiếm, gậy chống chịu lực hoặc loại tương tự (Chương 93); hoặc\n(c) Hàng hóa thuộc Chương 95 (ví dụ: ô, dù che, loại dùng làm đồ chơi).",
+        "en": "1. - This Chapter does not cover:\n(a) Measure walking-sticks or the like (heading 90.17);\n(b) Firearm-sticks, sword-sticks, loaded walking-sticks or the like (Chapter 93); or\n(c) Goods of Chapter 95 (for example, toy umbrellas, toy sun umbrellas)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "2.- Nhóm 66.03 không bao gồm các bộ phận, đồ trang trí hoặc đồ phụ kiện bằng vật liệu dệt, hoặc bao bì, tua rua, dây da, hộp đựng ô hoặc các loại tương tự, bằng vật liệu bất kỳ. Những hàng hóa này đi kèm, nhưng không gắn vào các sản phẩm của nhóm 66.01 hoặc 66.02, được phân loại riêng và không được xem như là bộ phận tạo thành của các sản phẩm đó.",
+        "en": "2. - Heading 66.03 does not cover parts, trimmings or accessories of textile material, or covers, tassels, thongs, umbrella cases or the like, of any material. Such goods presented with, but not fitted to, articles of heading 66.01 or 66.02 are to be classified separately and are not to be treated as forming part of those articles."
+      }
+    }
+  ],
+  "general": [],
+  "headings": [
+    {
+      "heading_id": "66.01",
+      "heading_title": {
+        "vi": "Các loại ô và dù (kể cả ô có cán là ba toong, dù che trong vườn và các loại ô, dù tương tự).",
+        "en": "Umbrellas and sun umbrellas (including walking-stick umbrellas, garden umbrellas and similar umbrellas)."
+      }
+    },
+    {
+      "heading_id": "66.02",
+      "heading_title": {
+        "vi": "Ba toong, gậy tay cầm có thể chuyển thành ghế, roi, gậy điều khiển, roi điều khiển súc vật thồ, kéo và các loại tương tự.",
+        "en": "Walking-sticks, seat-sticks, whips, riding-crops and the like."
+      }
+    },
+    {
+      "heading_id": "66.03",
+      "heading_title": {
+        "vi": "Các bộ phận, đồ trang trí và đồ phụ trợ cho các mặt hàng thuộc nhóm 66.01 hoặc 66.02",
+        "en": "Parts, trimmings and accessories of articles of heading 66.01 or 66.02."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "heading_id": "72.29",
+  "heading_title": {
+    "vi": "Dây thép hợp kim khác.",
+    "en": "Wire of other alloy steel."
+  },
+  "summary": {
+    "vi": "Nhóm 72.29 phân loại các sản phẩm dây làm từ thép hợp kim khác. Phạm vi của nhóm này được xác định rõ thông qua việc tham chiếu đến các quy định trong Chú giải của nhóm 72.17. Các điều khoản và định nghĩa về dây trong nhóm 72.17 được áp dụng một cách tương ứng, với những sửa đổi cần thiết cho phù hợp với đặc tính của thép hợp kim. Nhóm này có hai phân nhóm chính, phân biệt giữa dây bằng thép silic-mangan (phân nhóm 7229.20) và các loại dây thép hợp kim khác (phân nhóm 7229.90). Do đó, việc phân loại chính xác yêu cầu người sử dụng phải hiểu rõ cả các tiêu chuẩn của nhóm 72.17 và thành phần hợp kim của sản phẩm để xác định đúng phân loại.",
+    "en": "Heading 72.29 classifies wire products made of other alloy steel. The scope of this heading is defined by referencing the provisions in the Explanatory Note to heading 72.17. The terms and definitions for wire in heading 72.17 are applied mutatis mutandis, with necessary modifications to suit the characteristics of alloy steel. This heading has two main subheadings, distinguishing between wire of silico-manganese steel (subheading 7229.20) and other types of alloy steel wire (subheading 7229.90). Therefore, accurate classification requires the user to understand both the standards of heading 72.17 and the alloy composition of the product to determine the correct classification."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các sản phẩm thuộc nhóm này áp dụng các quy định của Chú giải cho nhóm 72.17, với những sửa đổi thích hợp. Điều này có nghĩa là các định nghĩa và tiêu chí phân loại cho dây thép trong nhóm 72.17 cũng được sử dụng làm cơ sở để phân loại hàng hóa trong nhóm 72.29.",
+        "en": "The provisions of the Explanatory Note to heading 72.17 apply, mutatis mutandis, to the products of this heading. This means that the definitions and classification criteria for steel wire in heading 72.17 are also used as the basis for classifying goods in heading 72.29."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7229.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng thép silic-mangan",
+        "en": "Of silico-manganese steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7229.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

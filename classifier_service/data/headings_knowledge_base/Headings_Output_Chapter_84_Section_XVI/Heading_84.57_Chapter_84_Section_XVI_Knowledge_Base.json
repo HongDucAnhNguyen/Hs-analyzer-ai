@@ -1,0 +1,100 @@
+{
+  "heading_id": "84.57",
+  "heading_title": {
+    "vi": "Trung tâm gia công cơ khí, máy kết cấu nguyên khối (một vị trí gia công) và máy gia công chuyển dịch đa vị trí để gia công kim loại.",
+    "en": "Machining centres, unit construction machines (single station) and multi-station transfer machines, for working metal."
+  },
+  "summary": {
+    "vi": "Nhóm này chỉ áp dụng cho các máy công cụ dùng để gia công kim loại (trừ máy tiện và trung tâm tiện thuộc nhóm 84.58) có thể thực hiện các loại nguyên công gia công khác nhau, bằng một trong ba cách sau:\n1.  **Trung tâm gia công:** Thay đổi dụng cụ tự động từ một ổ chứa theo một chương trình gia công.\n2.  **Máy kết cấu nguyên khối (một vị trí gia công):** Sử dụng tự động, đồng thời hoặc tuần tự, các cụm đầu máy gia công khác nhau trên một phôi được giữ cố định.\n3.  **Máy gia công chuyển dịch đa vị trí:** Tự động dịch chuyển phôi sang các cụm đầu máy khác nhau.\n\nNhóm này không bao gồm:\n- Máy đa chức năng không có khả năng tự động thay đổi dụng cụ (các nhóm từ 84.59 đến 84.61).\n- Các đường di chuyển của các máy khác nhau được nối liền bằng băng chuyền.\n- Hệ thống sản xuất linh hoạt (FMS).\n- Máy công cụ của nhóm 84.56.\n- Máy tiện (kể cả trung tâm tiện) của nhóm 84.58.\n- Máy gia công kiểu đầu tổ hợp có thể tháo lắp được của nhóm 84.59.\n- Máy và thiết bị hàn, hàn đồng thuộc các nhóm 84.68 và 85.15.\n\nCác bộ phận và phụ kiện của máy thuộc nhóm này được phân loại trong nhóm 84.66 (trừ các dụng cụ thuộc Chương 82).",
+    "en": "This heading applies only to machine-tools for working metal (other than lathes and turning centres of heading 84.58) which can carry out different types of machining operations, in one of three ways:\n1.  **Machining centres:** By automatic tool change from a magazine in conformity with a machining programme.\n2.  **Unit construction machines (single station):** By the automatic use, simultaneously or sequentially, of different unit heads working on a fixed position workpiece.\n3.  **Multi-station transfer machines:** By the automatic transfer of the workpiece to different unit heads.\n\nThis heading excludes:\n- Multi-function machines in which tools are not changed automatically (headings 84.59 to 84.61).\n- Transfer lines consisting of various machines linked by a conveyor.\n- Flexible manufacturing systems (FMS).\n- Machine-tools of heading 84.56.\n- Lathes (including turning centres) of heading 84.58.\n- Way-type unit head machines of heading 84.59.\n- Soldering, brazing or welding machines of headings 84.68 and 85.15.\n\nParts and accessories for the machines of this heading are classified in heading 84.66 (other than the tools of Chapter 82)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này chỉ áp dụng (xem Chú giải 4 của chương này) cho các máy công cụ dùng để gia công kim loại (trừ máy tiện, kể các trung tâm tiện), các máy mà có thể thực hiện các nguyên công khác nhau trên một vật gia công, hoặc bằng cách:\n(a) thay đổi dụng cụ tự động từ một ổ chứa hoặc vật tương tự phù hợp với một chương trình gia công (trung tâm gia công);\n(b) sử dụng tự động, đồng thời hoặc tuần tự, các cụm đầu máy gia công khác nhau gia công trên phôi có một vị trí cố định (máy kết cấu nguyên khối (một vị trí gia công); hoặc\n(c) dịch chuyển tự động vật gia công sang các đơn vị đầu máy khác nhau (máy gia công chuyển địch đa vị trí).",
+        "en": "This heading applies (see Note 4 to this Chapter) only to machine-tools for working metal (other than lathes (including turning centres)) which can carry out different types of machining operations on a single workpiece either:\n(a) by automatic tool change from a magazine or the like in conformity with a machining programme (machining centres);\n(b) by the automatic use, simultaneously or sequentially, of different unit heads working on a fixed position workpiece (unit construction machines, single station); or\n(c) by the automatic transfer of the workpiece to different unit heads (multi-station transfer machines)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) TRUNG TÂM GIA CÔNG\nTrung tâm gia công là những máy độc lập, nghĩa là tất cả các hoạt động của máy được thực hiện trên một máy đơn (đa chức năng), Những trung tâm này phải thỏa mãn hai điều kiện: chúng phải thực hiện một vài hoạt động gia công cơ khí khác nhau và chúng phải có chức năng thay đổi dụng cụ tự động, từ một ổ chứa hoặc vật tương tự phù hợp với một chương trình gia công.\nKết quả là nhóm này bao gồm các máy công cụ mà có thể thực hiện hai hoặc nhiều nguyên công bằng việc thay đổi dụng cụ tự động từ một ổ chứa hoặc vật chứa tương tự, trong khi đó các máy công cụ thực hiện một nguyên công sử dụng một dụng cụ đơn hoặc vài dụng cụ gia công đồng thời hoặc tuần tự (ví dụ, máy khoan nhiều trục chính hoặc máy phay nhiều dao cắt) được phân loại trong các nhóm từ 84.59 đến 84.61.\nYêu cầu về chức năng thay đổi dụng cụ tự động loại trừ ra khỏi nhóm này những máy đa chức năng (ví dụ, máy dùng để khoan, doa, ta rô và cán) mà không có khả năng tự động thay đổi dụng cụ. Những máy như vậy được phân loại trong các nhóm 84.59 tới 84.61 theo Chú giải 3 của Phần XVI hoặc bằng cách áp dụng nguyên tắc giải thích 3 (c), tất nhiên trừ khi chúng có thể được coi như là máy gia công chuyển dịch đa vị trí mà trong đó phôi được tự động di chuyển sang các đầu máy đơn khác.\nTrung tâm gia công cũng có thể bao gồm các thiết bị phụ trợ, chẳng hạn như thiết bị thay đổi tấm nâng palet, các hệ thống ngăn chứa palet hoặc các thiết bị thay đổi ngăn chứa dụng cụ.",
+        "en": "(A) MACHINING CENTRES\nMachining centres are individual machines, i.e., all the machining operations are performed on a single (multi-function) machine. These centres must satisfy two conditions: they must carry out several machining operations and they must have automatic tool change, from a magazine or the like in conformity with a machining programme.\nConsequently, this group covers machine-tools which carry out two or more machining operations by automatic tool change from a magazine or the like, whereas machine-tools which carry out one machining operation using a single tool or several tools working simultaneously or sequentially (for example, multiple-spindle drills or multiple-cutter milling machines) are classified in headings 84.59 to 84.61.\nThe automatic tool change requirement excludes from the heading multi-function machines (for example, machines which drill, bore, tap and mill) in which the various tools are not changed automatically. Such machines are to be classified in headings 84.59 to 84.61 in accordance with Note 3 to Section XVI or by application of Interpretative Rule 3 (c) unless, of course, they can be regarded as multi-station transfer machines, in which the workpiece is automatically transferred to the different unit heads.\nMachining centres may also include auxiliary devices such as pallet changers, systems of pallet magazines or tool magazine changers."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) MÁY KẾT CẤU NGUYÊN KHỐI (MỘT VỊ TRÍ GIA CÔNG)\nMáy kết cấu nguyên khối (một vị trí gia công) là những máy đa chức năng mà trong đó vật cần gia công được giữ tại một vị trí cố định trong khi các đơn vị đầu máy chuyển động tương đối với vật gia công để tiến hành gia công hoặc các hoạt động khác của máy này.\nCác đơn vị đầu máy là các bộ phận của máy mà trên đó chúng được gắn và được sử dụng để giữ, dẫn động (quay tròn, tịnh tiến) dụng cụ có thể thay đổi được. Các đầu quay thường nối với động cơ điện, trong khi các đầu dịch chuyển thường kết hợp một xi lanh thủy lực: hai loại đầu máy này có thể được kết hợp với nhau.\nNhóm này bao gồm máy kết cấu nguyên khối (một vị trí gia công) thực hiện hai hoặc nhiều nguyên công bằng việc sử dụng hai hoặc nhiều đơn vị đầu máy.\nTuy nhiên, máy thực hiện một nguyên công bằng việc sử dụng một vài đơn vị đầu máy hoặc máy thực hiện vài nguyên công bằng việc sử dụng một đơn vị đầu máy không thuộc nhóm này.",
+        "en": "(B) UNIT CONSTRUCTION MACHINES (SINGLE STATION)\nUnit construction (single station) machines are multi-function machines in which the workpiece is held in a fixed position while the unit heads move relative to the workpiece to carry out the operation or the machine operations.\nThe unit heads are parts of the machines on which they are mounted and are used to hold, guide and actuate (rotate, advance, retract) the interchangeable tool. Rotating heads usually incorporate an electric motor, while translation heads usually incorporate a hydraulic cylinder: these two types of head may be combined.\nThis group covers unit construction machines (single station) carrying out two or more machining operations with the use of two or more unit heads.\nHowever, machines carrying out one machining operation with the use of several unit heads or those carrying out several machining operations with the use of a single unit head are excluded."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(C) MÁY GIA CÔNG CHUYỂN DỊCH ĐA VỊ TRÍ",
+        "en": "(C) MULTI-STATION TRANSFER MACHINES"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Máy móc thuộc nhóm này phải thỏa mãn ba điều kiện: chúng phải thực hiện vài nguyên công, chúng phải hoạt động bằng việc đi chuyển tự động vật gia công tới dụng cụ và chúng phải được trang bị một vài đơn vị đầu máy khác nhau.\nMột chi tiết khác biệt nhìn chung được thực hiện giữa các máy di chuyển quay và các máy di chuyển theo đường thẳng.\nTheo Chú giải 4 (c) của Chương, nhóm này không bao gồm các đường di chuyển của các máy khác nhau được nối liền bằng một băng chuyền mang các vật cần gia công.\nTheo các thuật ngữ của Chú giải Chương được đề cập ở trên, nhóm này cũng loại trừ các “hệ thống sản xuất linh hoạt” (FMS).",
+        "en": "The machines of this group must satisfy three conditions: they must carry out several machining operations, they must work by the automatic transfer of the workpiece to the tool and they must be equipped with various unit heads.\nA distinction is generally made between rotary transfer machines and linear transfer machines.\nIn accordance with Chapter Note 4 (c) this heading does not cover transfer lines consisting of various machines linked by a conveyor carrying the workpieces.\nUnder the terms of the above-mentioned Chapter Note, this heading also excludes “flexible manufacturing systems” (FMS)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "CÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo các điều khoản chung về phân loại các bộ phận (xem Chú giải Tổng quát của phần XVI), các bộ phận và phụ kiện (trừ các dụng cụ thuộc Chương 82) của các máy công cụ thuộc nhóm này được phân loại trong nhóm 84.66.",
+        "en": "PARTS AND ACCESSORIES\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts and accessories (other than the tools of Chapter 82) of the machine-tools of this heading are classified in heading 84.66."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm:\n(a) Máy công cụ dùng để gia công mọi vật liệu bằng cách bóc tách vật liệu, bằng các qui trình công nghệ tia lade hoặc tia sáng khác hoặc chùm phô-tông, siêu âm, phóng điện, điện hóa, tia điện từ, tia ion hoặc hồ quang plasma (nhóm 84.56)\n(b) Máy tiện (bao gồm cả các trung tâm gia công tiện) dùng để bóc tách kim loại (nhóm 84.58)\n(c) Máy gia công kiểu đầu tổ hợp có thể tháo lắp được (nhóm 84.59)\n(d) Máy và thiết bị hàn, hàn đồng thuộc các nhóm 84.68 và 85.15.",
+        "en": "The heading also excludes:\n(a) Machine-tools for working any material, by removal of material, by laser or other light or photon beam, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic beam or plasma arc processes; water-jet cutting machines (heading 84.56).\n(b) Lathes (including turning centres) for removing metal (heading 84.58).\n(c) Way-type unit head machines (heading 84.59).\n(d) Soldering, brazing or welding machines and apparatus of headings 84.68 and 85.15."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8457.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Trung tâm gia công",
+        "en": "Machining centres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8457.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy kết cấu nguyên khối (một vị trí gia công)",
+        "en": "Unit construction machines (single station)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8457.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy gia công chuyển dịch đa vị trí",
+        "en": "Multi-station transfer machines"
+      }
+    }
+  ]
+}

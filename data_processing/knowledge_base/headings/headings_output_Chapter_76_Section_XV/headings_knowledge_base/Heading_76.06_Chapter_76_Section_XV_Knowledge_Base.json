@@ -1,0 +1,70 @@
+{
+  "heading_id": "76.06",
+  "heading_title": {
+    "vi": "Nhôm ở dạng tấm, lá và dải, chiều dày trên 0,2 mm",
+    "en": "Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm"
+  },
+  "summary": {
+    "vi": "Nhóm 76.06 bao gồm nhôm ở dạng tấm, lá và dải có chiều dày trên 0,2 mm. Các sản phẩm này được định nghĩa theo Chú giải 9(d) của Phần XV và tương ứng với các sản phẩm tương tự bằng đồng. Do đó, các quy định trong chú giải của nhóm 74.09 được áp dụng tương tự cho nhóm này. Nhóm này không bao gồm lá nhôm mỏng có độ dày không quá 0,2 mm (phân loại vào nhóm 76.07) và các sản phẩm dạng lưới được tạo hình bằng phương pháp đột dập và kéo giãn (phân loại vào nhóm 76.16).",
+    "en": "Heading 76.06 covers aluminium plates, sheets, and strip with a thickness exceeding 0.2 mm. These products are defined according to Note 9(d) of Section XV and correspond to similar goods made of copper. The provisions of the explanatory note to heading 74.09 therefore apply mutatis mutandis to this heading. This heading excludes aluminium foil with a thickness not exceeding 0.2 mm (classified in heading 76.07) and expanded metal (classified in heading 76.16)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các sản phẩm này được định nghĩa trong chú giải 9 (d) Phần XV, giống như các mặt hàng tương tự được chế tạo từ đồng. Vì vậy, nội dung của chú giải nhóm 74.09 cũng áp dụng cho nhóm này với những sửa đổi phù hợp.\nNhóm này không bao gồm:\n(a) Lá mỏng có độ dày không quá 0,2mm (nhóm 76.07).\n(b) Sản phẩm dạng lưới được tạo hình bằng phương pháp đột dập và kéo giãn thành lưới (nhóm 76.16).",
+        "en": "These products, which are defined in Note 9 (d) to Section XV, correspond to similar goods made of copper. The provisions of the Explanatory Note to heading 74.09 apply therefore, mutatis mutandis, to this heading.\nThe heading does not cover:\n(a) Foil of a thickness not exceeding 0.2 mm (heading 76.07).\n(b) Expanded metal (heading 76.16)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Hình chữ nhật (kể cả hình vuông):",
+        "en": "Rectangular (including square):"
+      },
+      "subheading_id": "7606.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng nhôm, không hợp kim",
+        "en": "- - Of aluminium, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hình chữ nhật (kể cả hình vuông):",
+        "en": "Rectangular (including square):"
+      },
+      "subheading_id": "7606.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng hợp kim nhôm",
+        "en": "- - Of aluminium alloys"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "7606.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng nhôm, không hợp kim",
+        "en": "- - Of aluminium, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "7606.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng hợp kim nhôm",
+        "en": "- - Of aluminium alloys"
+      }
+    }
+  ]
+}

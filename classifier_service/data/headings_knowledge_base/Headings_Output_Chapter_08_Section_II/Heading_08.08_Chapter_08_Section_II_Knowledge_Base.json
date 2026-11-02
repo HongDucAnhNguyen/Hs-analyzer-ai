@@ -1,0 +1,65 @@
+{
+  "heading_id": "08.08",
+  "heading_title": {
+    "vi": "Quả táo (apple), lê và quả mộc qua, tươi.",
+    "en": "Apples, pears and quinces, fresh."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm quả táo và quả lê, dù chúng dùng để ăn tráng miệng, sản xuất đồ uống (rượu táo hoặc rượu lê) hay cho mục đích công nghiệp (chế phẩm bột, mứt, thạch, chiết xuất pectin). Nhóm này cũng bao gồm quả mộc qua, chủ yếu dùng để làm mứt hoặc thạch.",
+    "en": "This heading covers apples and pears, whether they are for dessert, for making beverages (e.g., cider or perry) or for industrial purposes (e.g., preparation of apple paste, jam or jelly, extraction of pectin). It also includes quinces, which are mainly used for making jam or jelly."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Quả táo (apple) và quả lê được phân loại vào nhóm này cho dù chúng thích hợp để ăn tráng miệng, để sản xuất đồ uống (ví dụ: rượu táo hoặc rượu lê) hoặc dùng cho các mục đích công nghiệp (như chế phẩm bột, mứt hoặc thạch từ táo, chiết xuất của pectin).",
+        "en": "Apples and pears are classified in this heading whether they are suitable for dessert, for making beverages (e.g., cider or perry) or for industrial purposes (e.g., preparation of apple paste, jam or jelly, extraction of pectin)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Quả mộc qua chủ yếu dùng để làm mứt hoặc thạch.",
+        "en": "Quinces are mainly used for making jam or jelly."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0808.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả táo (apple)",
+        "en": "Apples"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0808.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả lê",
+        "en": "Pears"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0808.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả mộc qua",
+        "en": "Quinces"
+      }
+    }
+  ]
+}

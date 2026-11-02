@@ -1,0 +1,46 @@
+{
+  "heading_id": "48.22",
+  "heading_title": {
+    "vi": "Ống lõi, suốt, cúi và các loại lõi tương tự bằng bột giấy, giấy hoặc bìa (đã hoặc chưa đục lỗ hoặc làm cứng).",
+    "en": "Bobbins, spools, cops and similar supports of paper pulp, paper or paperboard (whether or not perforated or hardened)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các ống lõi, suốt, cúi, suốt hình nón, và các loại lõi tương tự bằng bột giấy, giấy hoặc bìa, dùng để cuốn sợi dệt, sợi kim loại, vải, giấy hoặc các vật liệu khác. Các mặt hàng này có thể được gia cố hoặc có phụ kiện lắp ráp bằng gỗ, kim loại hoặc vật liệu khác. Nhóm này không bao gồm các mặt hàng có đặc tính của hàng hóa từ plastic được gắn lớp mặt (Chương 39) và các lõi phẳng (nhóm 48.23).",
+    "en": "This heading covers bobbins, tubes, spools, cops, cones and similar supports of paper pulp, paper or paperboard, for winding textile yarn, wire, cloth, paper or other material. These goods may have reinforcements or fittings of wood, metal, or other materials. The heading excludes articles which have the character of goods of laminated plastics (Chapter 39) and flat supports (heading 48.23)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các ống lõi, suốt, cúi, suốt hình nón, và các loại lõi tương tự được dùng để cuốn sợi dệt hoặc sợi kim loại, dù cho việc sử dụng trong công nghiệp hay để bán lẻ. Nhóm này cũng bao gồm các lõi hình trụ (có các đầu mở hoặc đóng) loại dùng để cuốn vải, giấy hoặc các vật liệu khác.\nCác mặt hàng này có thể được sản xuất từ bìa, từ các tờ giấy được cuốn, hoặc từ bột giấy được đúc hoặc nén. Đôi khi chúng được đục lỗ. Chúng có thể được dán, được thấm tẩm hoặc được tráng plastic, tuy nhiên, các mặt hàng như vậy có đặc tính của hàng hóa từ plastic được gắn lớp mặt bị loại trừ (Chương 39).\nỐng lõi, suốt, cúi, ...có thể có gia cố hoặc phụ kiện lắp ráp, ở một hoặc cả hai đầu, bằng gỗ, kim loại hoặc vật liệu khác.\nNhóm này loại trừ lõi phẳng có hình dạng khác nhau được sử dụng cho các mục đích tương tự (nhóm 48.23).",
+        "en": "The heading covers bobbins, tubes, spools, cops, cones and similar supports for winding yarn or wire, whether for industrial use or for retail sale. It also covers cylindrical cores (open ended or closed) of the kind used for winding cloth, paper or other material.\nThese goods may be made of paperboard, of rolled paper sheets, or of pressed or moulded pulp. They are sometimes perforated. They may be glued, impregnated or coated with plastics, etc., but such articles which have the character of goods of laminated plastics are excluded (Chapter 39).\nThe bobbins, tubes, spools, etc., may have reinforcements or fittings, at one or both ends, of wood, metal, or other materials.\nThe heading excludes flat supports of various shapes used for similar purposes (heading 48.23)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4822.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng để cuốn sợi dệt",
+        "en": "Of a kind used for winding textile yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4822.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

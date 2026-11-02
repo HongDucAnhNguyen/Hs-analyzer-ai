@@ -1,0 +1,77 @@
+{
+  "heading_id": "27.13",
+  "heading_title": {
+    "vi": "Cốc dầu mỏ, bi-tum dầu mỏ và các cặn khác từ dầu có nguồn gốc từ dầu mỏ hoặc từ các loại dầu thu được từ các khoáng bi-tum.",
+    "en": "Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm cốc dầu mỏ (cốc xanh hoặc đã nung), bi-tum dầu mỏ (hắc ín dầu mỏ), và các chất cặn khác từ dầu mỏ hoặc dầu từ khoáng bi-tum. Các chất cặn này bao gồm các chất chiết từ xử lý dầu bôi trơn, gôm dầu mỏ, cặn axit và đất tẩy trắng đã qua sử dụng. Nhóm này cũng bao gồm bi-tum, than cốc và các cặn khác từ việc xử lý dầu đá phiến. Tuy nhiên, nhóm này không bao gồm các loại naphthenate và sulphonate dầu mỏ hòa tan trong nước (nhóm 34.02), các loại không hòa tan trong nước (nhóm 38.24), và axit naphthenic (nhóm 38.24).",
+    "en": "This heading covers petroleum coke (green or calcined), petroleum bitumen (petroleum pitch), and other residues of petroleum oils or oils from bituminous minerals. These residues include extracts from the treatment of lubricating oils, petroleum gum, acid residues, and spent bleaching earths. The heading also includes bitumen, coke and other residues from the treatment of shale oils. However, the heading excludes water-soluble naphthenates and petroleum sulphonates (heading 34.02), their water-insoluble counterparts (heading 38.24), and naphthenic acids (heading 38.24)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(A) Cốc dầu mỏ (cốc xanh hoặc cốc đã nung) là chất cặn rắn, màu đen, xốp, thu được từ quá trình craking hoặc chưng cất phân hủy của dầu mỏ hoặc thu được từ dầu của các khoáng bitum. Nó được sử dụng chủ yếu làm nguyên liệu cho sản xuất điện cực (cốc nung) hoặc làm nhiên liệu (cốc xanh).\n(B) Bitum dầu mỏ (cũng được biết như là hắc ín dầu mỏ, hắc ín của nhà máy lọc dầu mỏ, asphalt dầu mỏ) thường thu được từ cặn của chưng cất dầu mỏ thô. Nó thường có màu nâu hoặc đen và có thể mềm hoặc giòn. Nó được sử dụng trong rải đường, vật liệu chống thấm. Bitum dầu mỏ được biến đổi chút ít bằng thổi không khí cũng tương tự như bitum chưa thổi không khí vẫn được xếp vào nhóm này.\n(C) Chất cặn khác của dầu mỏ gồm:\n(1) Các chất chiết thu được từ việc xử lý các dầu bôi trơn với các dung môi chọn lọc.\n(2) Gồm dầu mỏ và các loại chất nhựa khác thu được từ dầu mỏ.\n(3) Cặn axit và các loại đất sử dụng tẩy trắng có chứa một phần dầu.\nBitum, than cốc và các cặn khác được xếp trong nhóm này nếu chúng tạo thành từ việc xử lý dầu đá phiến hoặc từ các loại dầu khác thu được từ các khoáng bitum.",
+        "en": "This heading covers:\n(A) Petroleum coke (green coke or calcined coke) is a black, porous, solid residue resulting from the cracking or destructive distillation of petroleum or obtained from oils of bituminous minerals. It is used mainly as a raw material for the manufacture of electrodes (calcined coke) or as a fuel (green coke).\n(B) Petroleum bitumen (also known as petroleum pitch, refinery pitch, petroleum asphalt) is usually obtained as a residue of the distillation of crude petroleum. It is brown or black and may be soft or brittle. It is used for road-surfacing, waterproofing, etc. Petroleum bitumen which has been slightly modified by air-blowing is similar to unblown bitumen and remains in this heading.\n(C) Other residues of petroleum oils include:\n(1) Extracts derived from the treatment of lubricating oils with certain selective solvents.\n(2) Petroleum gum and other resinous substances obtained from petroleum.\n(3) Acid residues and spent bleaching earths, containing a proportion of oil.\nBitumen, coke and other residues fall in this heading if they result from the treatment of shale oils or of other oils obtained from bituminous minerals."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Naphthenate hòa tan trong nước hoặc các loại sulphonate dầu mỏ tan trong nước (bao gồm cả các loại có chứa một phần dầu khoáng) như các loại muối kim loại kiềm, của ammonium hoặc của ethanolamine (nhóm 34.02).\n(b) Naphthenate không hòa tan trong nước hoặc các dạng sulphonate dầu mỏ không tan trong nước (nhóm 38.24, với điều kiện chúng không được xếp vào nhóm đặc trưng hơn).\n(c) Naphthenic axit, dạng thô hoặc đã tinh chế (nhóm 38.24).",
+        "en": "The heading does not cover:\n(a) Water-soluble naphthenates or water-soluble petroleum sulphonates (including those containing a certain proportion of mineral oils), such as those of alkali metals, of ammonium or of ethanolamines (heading 34.02).\n(b) Water-insoluble naphthenates or water-insoluble petroleum sulphonates (heading 38.24, provided they are not covered by a more specific heading).\n(c) Naphthenic acids, crude or refined (heading 38.24)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Cốc dầu mỏ:",
+        "en": "- Petroleum coke:"
+      },
+      "subheading_id": "2713.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa nung",
+        "en": "- - Not calcined"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Cốc dầu mỏ:",
+        "en": "- Petroleum coke:"
+      },
+      "subheading_id": "2713.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã nung",
+        "en": "- - Calcined"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2713.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bi-tum dầu mỏ",
+        "en": "- Petroleum bitumen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2713.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Cặn khác từ dầu có nguồn gốc từ dầu mỏ hoặc từ các loại dầu thu được từ các khoáng bi-tum",
+        "en": "- Other residues of petroleum oils or of oils obtained from bituminous minerals"
+      }
+    }
+  ]
+}

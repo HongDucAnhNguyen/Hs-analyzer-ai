@@ -1,0 +1,46 @@
+{
+  "heading_id": "85.38",
+  "heading_title": {
+    "vi": "Bộ phận chuyên dùng hay chủ yếu dùng với các thiết bị thuộc nhóm 85.35, 85.36 hoặc 85.37.",
+    "en": "Parts suitable for use solely or principally with the apparatus of heading 85.35, 85.36 or 85.37."
+  },
+  "summary": {
+    "vi": "Theo quy tắc chung về phân loại các bộ phận tại Chú giải Tổng quát Phần XVI, nhóm này bao gồm các bộ phận chuyên dùng hay chủ yếu dùng cho hàng hóa thuộc các nhóm 85.35, 85.36 và 85.37. Ví dụ bao gồm các tấm dùng cho bảng chuyển mạch, thường làm từ plastic hoặc kim loại, không lắp đặt thiết bị.",
+    "en": "Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), this heading covers parts suitable for use solely or principally with the goods of headings 85.35, 85.36, and 85.37. It includes, for example, boards for switchboards, generally of plastics or metal, without their instruments."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo quy tắc chung về phân loại các bộ phận (xem phần Chú giải Tổng quát Phần XVI), nhóm này gồm bộ phận của hàng hóa thuộc ba nhóm trên.\nLấy ví dụ, nhóm này bao gồm các tấm dùng cho những bảng chuyển mạch, thường làm từ plastic hoặc kim loại, không lắp đặt thiết bị, với điều kiện chúng có thể được nhận biết một cách rõ ràng như những bộ phận của bảng chuyển mạch.",
+        "en": "Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), this heading covers parts of the goods of the three preceding headings.\nThe heading includes, for example, boards for switchboards, generally of plastics or metal, without their instruments, provided they are clearly recognisable as parts of switchboards."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8538.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bảng, panel, giá đỡ, bàn, tủ và các loại hộp và đế khác dùng cho các mặt hàng thuộc nhóm 85.37, chưa được lắp đặt các thiết bị của chúng",
+        "en": "Boards, panels, consoles, desks, cabinets and other bases for the goods of heading 85.37, not equipped with their apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8538.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

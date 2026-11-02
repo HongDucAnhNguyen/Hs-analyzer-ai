@@ -1,0 +1,60 @@
+{
+  "heading_id": "92.07",
+  "heading_title": {
+    "vi": "Nhạc cụ, mà âm thanh được tạo ra, hoặc phải khuếch đại, bằng điện (ví dụ, đàn organ, ghita, accordion).",
+    "en": "Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các nhạc cụ mà âm thanh được tạo ra hoặc phải khuếch đại bằng điện (kể cả điện tử). Những nhạc cụ này không thể phát ra âm thanh để nghe bình thường nếu không có các thiết bị điện hay điện tử. Chúng khác với các nhạc cụ thông thường (ví dụ: piano, guitar) có thể gắn thêm thiết bị thu và tăng âm nhưng vẫn có thể chơi độc lập. Nhóm này không bao gồm đàn piano điện tử tự động (nhóm 92.01) và đồng hồ thời gian có chuông điện tử (Chương 91). Các bộ phận điện hoặc điện tử (như bộ khuếch đại, loa) được phân loại riêng trong Chương 85 trừ khi chúng được gắn liền hoặc đặt trong cùng một thùng với nhạc cụ.",
+    "en": "This heading covers musical instruments in which the sound is generated or must be amplified electrically (including electronically). These instruments cannot be played for normal hearing without their electrical or electronic components. They differ from conventional instruments (e.g., pianos, guitars) which may be equipped with an electrical pick-up and amplifier but are playable independently. This heading excludes electrically operated automatic pianos (heading 92.01) and clocks with electronic chimes (Chapter 91). Electrical or electronic apparatus (such as amplifiers, loudspeakers) are classified separately in Chapter 85 unless they are built into or housed in the same cabinet as the instrument."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm những nhạc cụ mà âm thanh được tạo ra hoặc khuếch đại bằng điện (kể cả điện tử) (nghĩa là những nhạc cụ này không thể phát ra những âm thanh để nghe bình thường nếu không có các thiết bị điện hay điện tử, cho dù những bộ rung được lắp trên chúng có thể tạo ra những âm thanh yếu). Về điểm này, những nhạc cụ nêu trên khác với một số nhạc cụ khác (ví dụ, piano, accordion, ghita) mà dù có thể lắp thiết bị điện thu và tăng âm nhưng vẫn là những nhạc cụ độc lập, có thể biểu diễn như các nhạc cụ tương tự loại thông thường khác mà không cần những thiết bị như vậy. Đàn piano điện tử tự động bị loại trừ (nhóm 92.01).\nNhững nhạc cụ thuộc nhóm này thường căn cứ vào việc sử dụng:\n(A) Máy tạo âm thanh điện từ.",
+        "en": "This heading covers musical instruments in which the sound is generated or amplified electrically (including electronically) (i.e., those which cannot be played for normal hearing without their electrical or electronic components, even though the vibrating devices with which they are fitted may produce faint sounds). In this respect, they differ from certain other instruments (e.g., pianos, accordions, guitars) which, while they may be equipped with an electrical sound pick-up and amplifying device, are nevertheless independent instruments suitable for playing without such devices, in the same way as similar conventional-type instruments. Electrically operated automatic pianos are excluded (heading 92.01).\nThe instruments of this heading are usually based on the use of:\n(A) Electro-magnetic generators."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các nguyên lý tạo âm thanh bao gồm:\n(A) Máy tạo âm thanh điện từ: Sử dụng các bánh răng quay trong từ trường để tạo ra dòng điện yếu, sau đó được khuếch đại. Nguyên lý này được dùng cho đàn organ.\n(B) Máy tạo âm thanh tĩnh điện: Gồm các loại dùng dây kéo căng, lưỡi gà tự do rung động, hoặc tụ điện biến thiên.\n(C) Máy tạo âm thanh dao động bằng van (hoặc ống) điện tử.\n(D) Máy tạo âm thanh dùng tế bào quang điện: Dùng tia sáng đi qua đĩa đục lỗ chiếu vào tế bào quang điện.\nMột số nhạc cụ này có tên là piano, organ, accordion, carillon điện tử,... và có thể tạo ra âm thanh của nhiều nhạc cụ khác nhau. Chúng có thể là loại một 'bè' (monophone) chỉ tạo ra âm thanh đơn hoặc 'phức điệu' (polyphone) tạo ra nhiều âm thanh đồng thời (như đàn organ).",
+        "en": "Principles of sound generation include:\n(A) Electro-magnetic generators: Using toothed wheels rotating in a magnetic field to create weak currents which are then amplified. This principle is used for “organ” type instruments.\n(B) Electrostatic generators: Including types using stretched wires, vibrating free-reeds, or variable-condensers.\n(C) Oscillating electronic valve (or tube) generators.\n(D) Photoelectric generators: Using a light ray passing through a perforated disc onto a cell.\nSome of these instruments are called electro-magnetic, electrostatic, electronic, radio-electric, photoelectric pianos, organs, accordions, carillons, etc., and can reproduce the sounds of most musical instruments. They may be “monophone” (giving a succession of separate notes) or “polyphone” (producing several notes at once, e.g., “organs”)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Một số nhạc cụ loại này có thể chơi độc lập; một số khác phối hợp với đàn piano cổ điển. Trong trường hợp này, nhạc cụ vẫn được phân loại vào nhóm này dù có đi cùng với đàn piano hay không.\nMặc dù chúng có thể cần thiết cho các nhạc cụ của nhóm này hoạt động bình thường, các dụng cụ điện hay điện tử (nhất là hệ thống tăng âm - loa) đều bị loại trừ và thuộc vào các nhóm tương ứng của chúng (Chương 85) khi chúng không được gắn vào nhạc cụ. Tuy nhiên, khi những dụng cụ này được lắp vào hay để trong cùng hòm với nhạc cụ thì được phân loại cùng với nhạc cụ này, kể cả khi chúng được đóng gói riêng để dễ chuyên chở.\nNhóm này không bao gồm đồng hồ thời gian loại thông thường (có mặt số chỉ giờ) sử dụng với một số chuông điện tử để đánh tự động mỗi giờ, 30 phút,...(Chương 91).",
+        "en": "Some may be played separately; others may be adapted to an ordinary piano. Such instruments are classified here, whether or not presented with the piano.\nAlthough they may generally be essential for the normal operation of the instruments of this heading, electrical or electronic apparatus (in particular the amplifier and loudspeaker) are excluded and fall in their respective headings (Chapter 85) whenever they are not built into the unit itself. When, however, they are incorporated in or housed in the same cabinet as the instrument they are classified with the instrument, even though they may be packed separately for convenience of transport.\nThis heading does not cover conventional type clocks (with dials showing the hours) which are used with certain electronic chimes to strike automatically the hours, half-hours, etc. (Chapter 91)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9207.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Nhạc cụ có phím bấm, trừ accordion",
+        "en": "Keyboard instruments, other than accordions"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9207.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

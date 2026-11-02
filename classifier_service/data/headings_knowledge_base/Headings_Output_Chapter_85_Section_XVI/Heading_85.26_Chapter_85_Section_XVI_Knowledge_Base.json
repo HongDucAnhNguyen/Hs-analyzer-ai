@@ -1,0 +1,72 @@
+{
+  "heading_id": "85.26",
+  "heading_title": {
+    "vi": "Ra đa, các thiết bị dẫn đường bằng sóng vô tuyến và các thiết bị điều khiển từ xa bằng vô tuyến.",
+    "en": "Radar apparatus, radio navigational aid apparatus and radio remote control apparatus."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm ra đa, thiết bị dẫn đường bằng sóng vô tuyến và thiết bị điều khiển từ xa bằng sóng vô tuyến. Cụ thể bao gồm: thiết bị dẫn đường bằng sóng vô tuyến (kể cả máy thu GPS); ra đa hàng hải hoặc hàng không; thiết bị kiểm soát không lưu; máy đo độ cao bằng ra đa; ra đa khí tượng; thiết bị dẫn đường ném bom; thiết bị ra đa cho kíp nổ; thiết bị cảnh báo tấn công; thiết bị định hướng và xác định phạm vi; máy thu phát ra đa; và các thiết bị vô tuyến để điều khiển từ xa tàu thuyền, máy bay không người lái, tên lửa, đồ chơi, máy móc hoặc kích nổ mìn.\n\nNhóm này không bao gồm:\n- Kíp nổ hoàn chỉnh có gắn chất nổ (nhóm 93.06).\n- Xe chuyên dụng được lắp cố định với các thiết bị thuộc nhóm này (thường thuộc nhóm 87.05).\n\nBộ phận của các thiết bị thuộc nhóm này được phân loại vào nhóm 85.29, tuân theo các quy định chung của Chú giải Chi tiết Tổng quát Phần XVI.",
+    "en": "This heading covers radar apparatus, radio navigational aid apparatus, and radio remote control apparatus. Specifically, it includes: radio navigational aid equipment (including GPS receivers); ship or aircraft navigational radar; traffic control apparatus for airports; radar altimeters; meteorological radar; blind bombing equipment; radar devices for proximity fuses; air raid warning apparatus; range and direction finding apparatus; radar transponders; and radio apparatus for the remote control of ships, pilotless aircraft, rockets, toys, machines, or for the detonation of mines.\n\nThis heading excludes:\n- Complete fuses with their detonator (heading 93.06).\n- Special purpose vehicles permanently equipped with apparatus of this heading (generally heading 87.05).\n\nParts of the apparatus of this heading are classified in heading 85.29, subject to the general provisions of the General Explanatory Note to Section XVI."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Thiết bị dẫn đường bằng sóng vô tuyến (ví dụ: đèn tín hiệu dẫn đường vô tuyến, phao vô tuyến có gắn ăn-ten cố định hoặc ăn-ten xoay; các thiết bị thu tín hiệu, kể cả la bàn vô tuyến được trang bị ăn-ten phức hợp hoặc ăn-ten có khung định hướng). Nó cũng bao gồm các hệ thống thu định vị toàn cầu (GPS).\n(2) Thiết bị rađa định vị cho tàu biển hoặc phương tiện bay (hoặc để gắn trên tàu biển, phương tiện bay v.v... hoặc đặt trên mặt đất), kể cả thiết bị rađa ở cảng, thiết bị nhận dạng đặt trên phao, đèn hiệu v.v....\n(3) Các thiết bị điều khiển hạ cánh hoặc các thiết bị giám sát giao thông cho sân bay khi không thể nhìn thấy. Thiết bị này rất phức tạp. Một số loại kết hợp radio, rađa và các thiết bị truyền hình thường thấy cho biết vị trí và tầm cao của máy bay trong vùng lân cận tại điểm kiểm soát, và truyền đến phương tiện bay cả hướng dẫn cần thiết để hạ cánh và những hình ảnh định vị của máy bay khác trong vùng lân cận.\n(4) Các thiết bị đo độ cao bằng rađa (thiết bị đo độ cao bằng sóng vô tuyến).\n(5) Rađa khí tượng dò tìm các đám mây hình thành bão hoặc các bóng bay khí tượng.\n(6) Thiết bị dẫn đường ném bom.\n(7) Các thiết bị rađa dùng để xác định kíp nổ bom hoặc đạn ở khoảng cách gần. Các kíp nổ hoàn chỉnh có gắn chất nổ nằm trong nhóm 93.06.\n(8) Các thiết bị rađa cảnh báo tấn công bằng đường hàng không.\n(9) Các thiết bị rađa để định hướng và xác định phạm vi dùng cho hải quân hoặc cho súng phòng không.\n(10) Các máy thu phát ra đa; chúng nhận các xung rađa và truyền các xung này, các xung này thường mang các dữ liệu được xếp chồng để phản hồi lại những xung mà nó nhận được. Máy thu phát được sử dụng trên máy bay để chúng có thể được xác định bởi người điều khiển rađa, và trong bóng thám không để xác định phạm vi và hướng và truyền các thông tin khí tượng.\n(11) Các thiết bị radio để điều khiển từ xa các tàu thuyền, hoặc máy bay không người lái, các tên lửa hành trình, đạn pháo, đạn đồ chơi, các mô hình tàu và máy bay, v.v...\n(12) Các thiết bị radio để kích nổ mìn hoặc để điều khiển máy móc từ xa.",
+        "en": "This heading includes:\n(1) Radio navigational aid equipment (e.g., radio beacons and radio buoys, with fixed or rotating aerials; receivers, including radio compasses equipped with multiple aerials or with a directional frame aerial). It also includes global positioning system (GPS) receivers.\n(2) Ship or aircraft navigational radar equipment (whether for mounting on the ship, aircraft, etc., or on land), including port radar equipment, and identification equipment placed on buoys, beacons, etc.\n(3) Blind approach landing or traffic control apparatus for airports. These are very complex. Certain types combine normal radio, radar and television devices showing at the control point the position and height of aircraft in the neighbourhood, and transmitting to the aircraft both the necessary instructions for landing and the radar picture of other aircraft in the vicinity.\n(4) Radar height measuring apparatus (radio altimeters).\n(5) Meteorological radar for tracking storm clouds or meteorological balloons.\n(6) Blind bombing equipment.\n(7) Radar devices for proximity fuses of shells or bombs. The complete fuses with their detonator fall in heading 93.06.\n(8) Air raid warning radar apparatus.\n(9) Range and direction finding radar apparatus for naval or anti-aircraft guns.\n(10) Radar transponders; these receive radar pulses and transmit pulses often carrying superimposed intelligence in response to those it receives. Transponders are used on aircraft to enable them to be identified by radar operators, and in instrument balloons for the determination of range and direction and the transmission of meteorological information.\n(11) Radio apparatus for the remote control of ships, pilotless aircraft, rockets, missiles, toys, model ships or aircraft, etc.\n(12) Radio apparatus for the detonation of mines, or for the remote control of machines."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung phân loại các bộ phận (xem Chú giải Chi tiết Tổng quát Phần XVI), bộ phận của các thiết bị thuộc nhóm này được phân loại vào nhóm 85.29.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the apparatus of this heading are classified in heading 85.29."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các xe chuyên dùng được lắp cố định với các rađa hoặc thiết bị khác của nhóm này thì được loại trừ (thường thuộc nhóm 87.05).",
+        "en": "Special purpose vehicles permanently equipped with radar or other apparatus of this heading are excluded (generally heading 87.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8526.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Rađa",
+        "en": "- Radar apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8526.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Thiết bị dẫn đường bằng sóng vô tuyến",
+        "en": "- - Radio navigational aid apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8526.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Thiết bị điều khiển từ xa bằng sóng vô tuyến",
+        "en": "- - Radio remote control apparatus"
+      }
+    }
+  ]
+}

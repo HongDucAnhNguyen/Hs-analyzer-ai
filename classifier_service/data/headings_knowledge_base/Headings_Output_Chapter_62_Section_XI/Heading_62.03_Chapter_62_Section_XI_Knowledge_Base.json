@@ -1,0 +1,190 @@
+{
+  "heading_id": "62.03",
+  "heading_title": {
+    "vi": "Bộ com-lê, bộ quần áo đồng bộ, áo jacket, áo blazer, quần dài, quần yếm có dây đeo, quần ống chẽn và quần soóc (trừ quần áo bơi), dùng cho nam giới hoặc trẻ em trai.",
+    "en": "Men’s or boys’ suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bộ com-lê, bộ quần áo đồng bộ, áo jacket, áo blazer, quần các loại (trừ quần áo bơi), dùng cho nam giới hoặc trẻ em trai. Các quy định của Chú giải chi tiết nhóm 61.03 được áp dụng tương tự. Nhóm này không bao gồm quần áo làm từ vải thuộc các nhóm 56.02, 56.03, 59.03, 59.06 hoặc 59.07 (được phân loại vào nhóm 62.10).",
+    "en": "This heading covers men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear). The provisions of the Explanatory Note to heading 61.03 apply, mutatis mutandis. This heading does not cover garments made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07 (heading 62.10)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những quy định của Chú giải chi tiết nhóm 61 .03 được áp dụng tương tự nhưng phải có sự sửa đổi sao cho phù hợp đối với các sản phẩm của nhóm này.\nTuy nhiên, nhóm này không bao gồm quần áo làm từ vải thuộc nhóm 56.02, 56.03, 59.03, 59.06 hoặc 59.07 (nhóm 62.10).",
+        "en": "The provisions of the Explanatory Note to heading 61.03 apply, mutatis mutandis, to the articles of this heading.\nHowever, the heading does not cover garments made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07 (heading 62.10)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ complê:",
+        "en": "- Suits:"
+      },
+      "subheading_id": "6203.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ lông cừu hoặc lông động vật loại mịn",
+        "en": "- - Of wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ complê:",
+        "en": "- Suits:"
+      },
+      "subheading_id": "6203.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi tổng hợp",
+        "en": "- - Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ complê:",
+        "en": "- Suits:"
+      },
+      "subheading_id": "6203.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ quần áo đồng bộ:",
+        "en": "- Ensembles:"
+      },
+      "subheading_id": "6203.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ bông",
+        "en": "- - Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ quần áo đồng bộ:",
+        "en": "- Ensembles:"
+      },
+      "subheading_id": "6203.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi tổng hợp",
+        "en": "- - Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bộ quần áo đồng bộ:",
+        "en": "- Ensembles:"
+      },
+      "subheading_id": "6203.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Áo jacket và blazer:",
+        "en": "- Jackets and blazers:"
+      },
+      "subheading_id": "6203.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ lông cừu hoặc lông động vật loại mịn",
+        "en": "- - Of wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Áo jacket và blazer:",
+        "en": "- Jackets and blazers:"
+      },
+      "subheading_id": "6203.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ bông",
+        "en": "- - Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Áo jacket và blazer:",
+        "en": "- Jackets and blazers:"
+      },
+      "subheading_id": "6203.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi tổng hợp",
+        "en": "- - Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Áo jacket và blazer:",
+        "en": "- Jackets and blazers:"
+      },
+      "subheading_id": "6203.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần dài, quần yếm có dây đeo, quần ống chẽn và quần soóc:",
+        "en": "- Trousers, bib and brace overalls, breeches and shorts:"
+      },
+      "subheading_id": "6203.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ lông cừu hoặc lông động vật loại mịn",
+        "en": "- - Of wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần dài, quần yếm có dây đeo, quần ống chẽn và quần soóc:",
+        "en": "- Trousers, bib and brace overalls, breeches and shorts:"
+      },
+      "subheading_id": "6203.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ bông",
+        "en": "- - Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần dài, quần yếm có dây đeo, quần ống chẽn và quần soóc:",
+        "en": "- Trousers, bib and brace overalls, breeches and shorts:"
+      },
+      "subheading_id": "6203.43",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ sợi tổng hợp",
+        "en": "- - Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Quần dài, quần yếm có dây đeo, quần ống chẽn và quần soóc:",
+        "en": "- Trousers, bib and brace overalls, breeches and shorts:"
+      },
+      "subheading_id": "6203.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các vật liệu dệt khác",
+        "en": "- - Of other textile materials"
+      }
+    }
+  ]
+}

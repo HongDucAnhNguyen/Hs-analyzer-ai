@@ -1,0 +1,53 @@
+{
+  "heading_id": "39.19",
+  "heading_title": {
+    "vi": "Tấm, phiến, màng, lá, băng, dải và các hình dạng phẳng khác tự dính, bằng plastic, có hoặc không ở dạng cuộn.",
+    "en": "Self-adhesive plates, sheets, film, foil, tape, strip and other flat shapes, of plastics, whether or not in rolls."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các sản phẩm dạng phẳng tự dính bằng plastic, dù ở dạng cuộn hay không. Đặc điểm quan trọng của các sản phẩm này là chúng phải nhạy cảm với áp suất, tức là có độ dính lâu dài ở nhiệt độ phòng mà không cần làm ướt và có thể dính chặt vào các bề mặt khác nhau chỉ bằng lực ấn của ngón tay hoặc bàn tay. Nhóm này loại trừ một cách rõ ràng các sản phẩm tấm trải sàn, tấm phủ tường hoặc phủ trần thuộc nhóm 39.18. Ngoài ra, nhóm này cũng áp dụng cho các sản phẩm đã được in hoa văn, ký tự hoặc hình ảnh mà không chỉ đơn thuần phục vụ cho mục đích sử dụng chính của hàng hóa, theo quy định tại Chú giải 2 của Phần VII.",
+    "en": "This heading covers all self-adhesive flat shapes of plastics, whether or not in rolls. The key characteristic of these products is that they must be pressure-sensitive, meaning they are permanently tacky at room temperature without wetting and adhere firmly to various surfaces with just finger or hand pressure. The heading explicitly excludes floor, wall, or ceiling coverings of heading 39.18. Furthermore, this heading includes articles printed with motifs, characters, or pictorial representations that are not merely subsidiary to the primary use of the goods, as specified in Note 2 to Section VII."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các sản phẩm hình dạng phẳng tự dính bằng plastic, có hoặc không ở dạng cuộn, trừ các tấm trải sàn, phủ tường hoặc phủ trần thuộc nhóm 39.18. Tuy nhiên, nhóm này giới hạn đối với các sản phẩm hình dạng phẳng nhạy cảm với áp suất, tức là, ở nhiệt độ phòng, mà không bị làm ướt hoặc tác động khác, thì chúng có tính dính lâu dài (trên một hoặc cả hai mặt) và chúng dính chặt các dạng bề mặt khác nhau chỉ với sự tiếp xúc nhỏ.",
+        "en": "This heading covers all self-adhesive flat shapes of plastics, whether or not in rolls, other than floor, wall or ceiling coverings of heading 39.18. The heading is, however, limited to flat shapes which are pressure-sensitive, i.e., which at room temperature, without wetting or other addition, are permanently tacky (on one or both sides) and which firmly adhere to a variety of dissimilar surfaces upon mere contact."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không cần áp lực hơn áp lực của ngón tay hoặc bàn tay. Lưu ý rằng nhóm này bao gồm các sản phẩm đã in các hoa văn, ký tự hoặc biểu tượng tranh ảnh, không chỉ đơn thuần phục vụ cho công dụng chính của các sản phẩm (xem Chú giải 2 thuộc Phần VII).",
+        "en": "It should be noted that this heading includes articles printed with motifs, characters or pictorial representations, which are not merely subsidiary to the primary use of the goods (see Note 2 to Section VII)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3919.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ở dạng cuộn có chiều rộng không quá 20 cm",
+        "en": "In rolls of a width not exceeding 20 cm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3919.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "heading_id": "09.10",
+  "heading_title": {
+    "vi": "Gừng, nghệ tây, nghệ (curcuma), húng tây, cỏ xạ hương, lá nguyệt quế, ca-ri (curry) và các loại gia vị khác.",
+    "en": "Ginger, saffron, turmeric (curcuma), thyme, bay leaves, curry and other spices."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại gia vị cụ thể như gừng (tươi hoặc bảo quản tạm thời), nghệ tây, nghệ (curcuma), húng tây, lá nguyệt quế, hạt cây rau thì là, và hạt cây cỏ ca ri. Nhóm này cũng bao gồm bột cà ri (là một hỗn hợp) và các hỗn hợp của các sản phẩm thuộc các nhóm từ 09.04 đến 09.10. Nhóm này không bao gồm gừng bảo quản trong xirô (nhóm 20.08).",
+    "en": "This heading covers specific spices such as ginger (fresh or provisionally preserved), saffron, turmeric (curcuma), thyme, bay leaves, dill seed, and fenugreek seed. It also includes curry powder (which is a mixture) and mixtures of products of headings 09.04 to 09.10. The heading excludes ginger preserved in syrup (heading 20.08)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(a) Gừng (kể cả gừng tươi, được tạm thời bảo quản trong muối, không thích hợp để sử dụng ngay); loại trừ gừng bảo quản trong xirô (nhóm 20.08).\n(b) Nghệ tây, gồm cả đầu nhụy và vòi nhuỵ khô của hoa nghệ tây (Crocus sativus). Nghệ tây cũng có thể ở dạng bột màu đỏ da cam, có mùi đậm, xông và dễ chịu. Nghệ tây chứa chất tạo mầu ít ổn định (không bền). Nó được dùng làm gia vị và trong ngành sản xuất bánh kẹo và dược phẩm.\n(c) Nghệ (Curcuma longa) đôi khi được gọi không chính xác là “nghệ tây Ấn Độ” do có màu vàng óng; củ nghệ được bán trên thị trường ở dạng nguyên củ, hoặc thường là ở dạng bột.\n(d) Húng tây (kể cả húng dại) và lá nguyệt quế, đã hoặc chưa làm khô.\n(e) Bột cà ri, đó là hỗn hợp theo một tỉ lệ nào đó của nghệ (curcuma), của một số gia vị khác (ví dụ: hạt mùi, tiêu đen, thì là Ai cập, gừng, nụ đinh hương) và của một số hương liệu khác (ví dụ bột tỏi), tuy không được phân loại vào Chương này nhưng được sử dụng thường xuyên như gia vị.\n(f) Hạt cây rau thì là (Anethum graveolens) và hạt cây cỏ ca ri (Trigonella foenum graecum).\n(g) Hỗn hợp của các sản phẩm thuộc các nhóm từ 09.04 đến 09.10 khi tách riêng các thành phần của hỗn hợp được phân loại vào các nhóm khác nhau, ví dụ hỗn hợp giữa hạt tiêu (nhóm 09.04) với các sản phẩm của nhóm 09.08.",
+        "en": "The heading includes :\n(a) Ginger (including fresh ginger, provisionally preserved in brine, unsuitable in that state for immediate consumption); ginger preserved in syrup is excluded (heading 20.08).\n(b) Saffron, which consists of the dried stigmas and styles of the flowers of the saffron crocus (Crocus sativus). It may also be presented as an orange-red powder with a strong, penetrating and agreeable odour. It contains a colouring element of little stability. It is used as a seasoning and also in confectionery and medicine.\n(c) Turmeric or curcuma (Curcuma longa), sometimes incorrectly called “Indian saffron” because of its vivid yellow colour; the curcuma rhizome is marketed either whole or, more often, in powder form.\n(d) Thyme (including wild thyme) and bay leaves, whether or not dried.\n(e) Curry powder, consisting of a mixture in variable proportions of turmeric (curcuma), of various other spices (e.g., coriander, black pepper, cumin, ginger, cloves) and of other flavouring substances (e.g., garlic powder) which, although not falling in this Chapter, are often used as spices.\n(f) Dill seed (Anethum graveolens), and fenugreek seed (Trigonclla foenum graceum).\n(g) Mixtures of the products of headings 09.04 to 09.10 when the separate ingredients of the mixture fall in different headings, e.g., mixtures of pepper (heading 09.04) with products of heading 09.08."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Gừng:",
+        "en": "- Ginger:"
+      },
+      "subheading_id": "0910.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa xay hoặc chưa nghiền",
+        "en": "- - Neither crushed nor ground"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Gừng:",
+        "en": "- Ginger:"
+      },
+      "subheading_id": "0910.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã xay hoặc nghiền",
+        "en": "- - Crushed or ground"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0910.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Nghệ tây",
+        "en": "- Saffron"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0910.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Nghệ (curcuma)",
+        "en": "- Turmeric (curcuma)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Gia vị khác:",
+        "en": "- Other spices:"
+      },
+      "subheading_id": "0910.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Hỗn hợp đã nêu trong Chú giải 1(b) của Chương này",
+        "en": "- - Mixtures referred to in Note 1 (b) to this Chapter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Gia vị khác:",
+        "en": "- Other spices:"
+      },
+      "subheading_id": "0910.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

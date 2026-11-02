@@ -1,0 +1,115 @@
+{
+  "heading_id": "88.02",
+  "heading_title": {
+    "vi": "Phương tiện bay khác (ví dụ, trực thăng, máy bay); trừ phương tiện bay không người lái thuộc nhóm 88.06; tàu vũ trụ (kể cả vệ tinh) và tàu bay trong quĩ đạo và phương tiện đẩy để phóng tàu vũ trụ.",
+    "en": "Other aircraft (for example, helicopters, aeroplanes), except unmanned aircraft of heading 88.06; spacecraft (including satellites) and suborbital and spacecraft launch vehicles."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các phương tiện bay nặng hơn không khí hoạt động bằng máy đẩy (ví dụ: máy bay, máy bay ổn định nhờ hồi chuyển, trực thăng), tàu vũ trụ (ví dụ: vệ tinh), phương tiện đẩy để phóng tàu vũ trụ (truyền vận tốc > 7.000m/giây), và các phương tiện phóng không hết một quỹ đạo (truyền vận tốc <= 7.000m/giây). Nhóm này cũng bao gồm các phương tiện bay được thiết kế đặc biệt để có thể sử dụng như phương tiện hoạt động trên mặt đất.\n\nNhóm này không bao gồm:\n- Tên lửa chiến đấu, tên lửa được dẫn đường và vũ khí chiến tranh tương tự (nhóm 93.06).\n- Các mô hình để trang trí (ví dụ, nhóm 44.20 hoặc 83.06) hoặc để trưng bày (nhóm 90.23).\n- Phương tiện bay không người lái được nêu tại Chú giải 1 Chương 88 (nhóm 88.06).\n- Các đồ chơi hoặc mô hình để giải trí (nhóm 95.03).\n- Các mô hình được thiết kế đặc biệt cho trò chơi di chuyển trong công viên giải trí hoặc trong các trò chơi hội chợ (nhóm 95.08).",
+    "en": "This heading covers heavier-than-air aircraft with mechanical propulsion (e.g., aeroplanes, gyroplanes, helicopters), spacecraft (e.g., satellites), spacecraft launch vehicles (imparting velocity > 7,000 m/s), and suborbital launch vehicles (imparting velocity <= 7,000 m/s). It also includes aircraft specially constructed for use as road vehicles.\n\nThis heading excludes:\n- Artillery rockets, guided missiles, and similar munitions of war (heading 93.06).\n- Models for decoration (e.g., heading 44.20 or 83.06) or for demonstrational purposes (heading 90.23).\n- Unmanned aircraft specified in Note 1 to Chapter 88 (heading 88.06).\n- Toys or models for recreational purposes (heading 95.03).\n- Models specially designed for amusement park rides and fairground amusements (heading 95.08)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm có:\n(1) Các phương tiện bay nặng hơn không khí hoạt động bằng một máy đẩy. Nhóm này bao gồm các loại máy bay (đỗ trên mặt đất, trên mặt nước và cả mặt đất mặt nước), máy bay ổn định nhờ hồi chuyển (được trang bị với một hoặc nhiều cánh quạt quay tự do quanh trục thẳng đứng), và các máy bay trực thăng (được trang bị một hoặc nhiều cánh quạt vận hành cơ khí).",
+        "en": "This heading covers :\n(1) Heavier-than-air aircraft, which are mechanically propelled. This group includes aeroplanes (landplanes, seaplanes and amphibians), gyroplanes (equipped with one or more rotors rotating freely on vertical axes), and helicopters (equipped with one or more mechanically driven rotors)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các phương tiện bay này có thể được sử dụng vào mục đích quân sự, việc vận chuyển người hoặc hàng hoá hoặc cho những hoạt động như đào tạo, chụp ảnh trên không, nông nghiệp, cứu hộ, cứu hoả, quan sát khí tượng hoặc các mục đích khoa học khác.\nCác phương tiện bay được thiết kế một cách đặc biệt để có thể được sử dụng như các phương tiện hoạt động trên mặt đất được xếp trong nhóm này.\n(2) Tàu vũ trụ, là những phương tiện bay có khả năng di chuyển trong không gian bên ngoài bầu khí quyển của trái đất (ví dụ, những vệ tinh viễn thông hoặc vệ tinh dùng trong ngành khí tượng).\n(3) Các phương tiện đẩy để phóng tàu vũ trụ, có chức năng đưa một vật vào quỹ đạo quay xung quanh trái đất (“phương tiện phóng vệ tinh”) hoặc vào ảnh hưởng của một trường trọng lực nằm ngoài vùng sức hút của quả đất (“phương tiện phóng tàu vũ trụ”). Các phương tiện này truyền đến vật phóng một vận tốc trên 7.000m/giây trước khi rời bệ phóng.\n(4) Các phương tiện phóng không hết một quỹ đạo thường theo đường cong parabol và thường mang ra ngoài bầu khí quyển quả đất những dụng cụ phục vụ mục đích khoa học hoặc kỹ thuật khác có thể thu hồi hoặc không thu hồi lại. Khi những vật có ích ấy được phóng đi, thì tốc độ mà các phương tiện truyền đến để đẩy vật phóng đi không vượt quá 7.000m/giây. Các vật có ích rơi trở lại quả đất thường bằng dù để thu hồi.",
+        "en": "Such aircraft may be used for military purposes, the transport of persons or goods or for such activities as training, aerial photography, agricultural work, rescue duties, fire fighting or for meteorological or other scientific purposes.\nAircraft specially constructed so that they can be used as road vehicles are covered by this heading.\n(2) Spacecraft, which are vehicles able to travel outside the earth’s atmosphere (e.g., telecommunications or meteorological satellites).\n(3) Spacecraft launch vehicles whose function is to place a given payload on a trajectory orbiting the earth (“satellite launch vehicles”) or falling under the influence of a gravitational field other than that of the earth (“ spacecraft launch vehicles ”). These vehicles impart to the payload a terminal velocity exceeding 7,000 m/s at the end of the powered flight.\n(4) Suborbital launch vehicles that follow a parabolic trajectory and generally carry instrumentation for scientific or other technical purposes, whether or not in the form of a retrievable payload, beyond the earth’s atmosphere. In cases where payloads are released, these vehicles do not impart a terminal velocity exceeding 7,000 m/s. Payloads are often returned to the earth’s surface by parachute for recovery."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này không bao gồm các tên lửa chiến đấu, các tên lửa được dẫn đường, ví dụ “tên lửa đạn đạo”, và các vũ khí chiến tranh tương tự mà không truyền đến vật phóng một vận tốc lớn hơn 7.000m/giây (nhóm 93.06). Các phương tiện phóng này mang theo các vũ khí chiến tranh như chất nổ, đầu đạn, hoá chất và sau khi bay theo một đường cong parabol thì vật bay này tác động tới mục tiêu.",
+        "en": "The heading excludes, however, artillery rockets, guided missiles, e.g., “ballistic missiles”, and similar munitions of war which do not impart a terminal velocity exceeding 7,000 m/s to the payload (heading 93.06). They deliver munitions of war, e.g., explosives, submunitions, chemical agents, and after following a parabolic trajectory cause the payload to impact on a target."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm:\n(a) Các mô hình, cho dù có được chế tạo chính xác theo tỷ lệ hay không, để trang trí (ví dụ, nhóm 44.20 hoặc 83.06), chỉ để trưng bày (nhóm 90.23).\n(b) Phương tiện bay không người lái được nêu tại Chú giải 1 Chương này (nhóm 88.06).\n(c) Các đồ chơi hoặc mô hình để giải trí (nhóm 95.03).\n(d) Các mô hình được thiết kế đặc biệt cho trò chơi di chuyển trong công viên giải trí hoặc trong các trò chơi hội chợ (nhóm 95.08).",
+        "en": "The heading also excludes:\n(a) Models, whether or not built accurately to scale, used, for example, for decoration (e.g., heading 44.20 or 83.06) or for purely demonstrational purposes (heading 90.23).\n(b) Unmanned aircraft specified in Note 1 to this Chapter (heading 88.06).\n(c) Toys or models for recreational purposes (heading 95.03).\n(d) Models specially designed for amusement park rides and fairground amusements (heading 95.08)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Trực thăng:",
+        "en": "- Helicopters:"
+      },
+      "subheading_id": "8802.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng không tải không quá 2.000 kg",
+        "en": "- - Of an unladen weight not exceeding 2,000 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Trực thăng:",
+        "en": "- Helicopters:"
+      },
+      "subheading_id": "8802.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng không tải trên 2.000 kg",
+        "en": "- - Of an unladen weight exceeding 2,000 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8802.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Máy bay và phương tiện bay khác, có trọng lượng không tải không quá 2.000 kg",
+        "en": "- Aeroplanes and other aircraft, of an unladen weight not exceeding 2,000 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8802.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Máy bay và phương tiện bay khác, có trọng lượng không tải trên 2.000 kg nhưng không quá 15.000kg",
+        "en": "- Aeroplanes and other aircraft, of an unladen weight exceeding 2,000 kg but not exceeding 15,000 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8802.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Máy bay và phương tiện bay khác, có trọng lượng không tải trên 15.000kg",
+        "en": "- Aeroplanes and other aircraft, of an unladen weight exceeding 15,000 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8802.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Tàu vũ trụ (kể cả vệ tinh) và tầu bay trong quĩ đạo và phương tiện đẩy để phóng tàu vũ trụ",
+        "en": "- Spacecraft (including satellites) and suborbital and spacecraft launch vehicles"
+      }
+    }
+  ]
+}

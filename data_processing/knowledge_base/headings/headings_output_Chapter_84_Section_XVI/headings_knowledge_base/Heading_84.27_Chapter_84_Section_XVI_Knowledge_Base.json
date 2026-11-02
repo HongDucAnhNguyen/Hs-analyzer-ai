@@ -1,0 +1,65 @@
+{
+  "heading_id": "84.27",
+  "heading_title": {
+    "vi": "Xe nâng hạ xếp tầng hàng bằng cơ cấu càng nâng; các loại xe công xưởng khác có lắp thiết bị nâng hạ hoặc xếp hàng.",
+    "en": "Fork lift trucks; other works trucks fitted with lifting or handling equipment."
+  },
+  "summary": {
+    "vi": "Nhóm 84.27 bao gồm các loại xe công xưởng được trang bị thiết bị nâng hoặc xếp dỡ hàng hóa. Nhóm này chủ yếu gồm hai loại chính: xe nâng hạ xếp tầng hàng bằng cơ cấu càng nâng (fork-lift) và các xe xếp hàng khác như xe nâng cơ giới, xe nâng xếp hàng bên hông chuyên dùng cho hàng hóa dài. Loại thứ hai là các xe công xưởng khác có lắp thiết bị nâng hạ, ví dụ như xe có bệ nâng cơ khí dùng cho bảo trì hoặc các xe chuyên dụng trong ngành dệt, gốm sứ. Nhóm này loại trừ xe chuyên chở kiểu khung đỡ cột chống và xe công xưởng gắn cần cẩu (nhóm 84.26). Các máy xếp dỡ hoạt động theo nguyên lý tương tự thang máy cũng bị loại trừ và được phân loại vào nhóm 84.28. Các bộ phận của máy móc thuộc nhóm này được phân loại trong nhóm 84.31.",
+    "en": "Heading 84.27 covers works trucks fitted with lifting or handling equipment. This heading primarily includes two main types: fork-lift trucks and other stacking trucks such as mechanically propelled fork-lift trucks and side-loading stacking trucks specialized for long loads. The second type consists of other works trucks fitted with lifting equipment, for example, trucks with mechanically elevating platforms for maintenance or specialized trucks used in the textile or ceramic industries. This heading excludes straddle carriers and works trucks fitted with a crane (heading 84.26). Stacking machines that operate on a principle similar to elevators are also excluded and are classified in heading 84.28. Parts for the machines of this heading are classified in heading 84.31."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các xe công xưởng được gắn các thiết bị nâng hoặc xếp dỡ. Loại trừ xe chuyên chở kiểu khung đỡ cột chống và các xe công xưởng gắn với cần cẩu thuộc nhóm 84.26.",
+        "en": "This heading covers works trucks fitted with lifting or handling equipment, with the exception of straddle carriers and works trucks fitted with a crane of heading 84.26."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại xe công xưởng thuộc nhóm này bao gồm: (A) Xe nâng hạ xếp tầng hàng bằng cơ cấu càng nâng và các loại xe nâng hoặc xếp hàng khác: bao gồm xe nâng hạ xếp tầng hàng bằng cơ cấu đẩy, xe nâng xếp hàng có cần trục thẳng đứng để di chuyển hàng hóa dài (rầm, kèo, ống, công ten nơ) và các máy xếp dỡ khác có bệ đỡ hoặc càng nâng. Loại trừ các máy xếp dỡ hoạt động theo nguyên lý như thang máy (nhóm 84.28). (B) Các loại xe công xưởng khác có lắp thiết bị nâng hoặc xếp dỡ hàng hóa: bao gồm xe vận tải có bệ nâng xếp cơ khí để bảo dưỡng đường dây cáp điện, hệ thống chiếu sáng công cộng (loại trừ bệ đỡ lắp trên xe tải thuộc nhóm 84.26) và các xe thi công đặc biệt dùng trong công nghiệp dệt, gốm sứ, ngành sản xuất sữa. Các bộ phận của các loại phương tiện thuộc nhóm này được xếp vào nhóm 84.31.",
+        "en": "Works trucks of this description include: (A) Fork-lift and other elevating or stacking trucks: includes mechanically propelled fork-lift trucks, side-loading stacking trucks for handling long loads (girders, planks, pipes, containers), and other stacking machines with a platform or fork. Excludes stacking machines which work on the same principle as elevators (heading 84.28). (B) Other works trucks fitted with lifting or handling equipment: includes trucks with mechanically elevating platforms for the maintenance of electric cables, public lighting systems (excluding elevating platforms mounted on lorries of heading 84.26) and other specialized trucks for use in industries such as textile, ceramic, or dairies. Parts for the trucks of this heading are classified in heading 84.31."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8427.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xe tự hành chạy bằng mô tơ điện",
+        "en": "Self propelled trucks powered by an electric motor"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8427.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xe tự hành khác",
+        "en": "Other self propelled trucks"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8427.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các loại xe khác",
+        "en": "Other trucks"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "heading_id": "85.21",
+  "heading_title": {
+    "vi": "Thiết bị ghi hoặc tái tạo video, có hoặc không gắn bộ phận thu tín hiệu video.",
+    "en": "Video recording or reproducing apparatus, whether or not incorporating a video tuner."
+  },
+  "summary": {
+    "vi": "Nhóm 85.21 bao gồm các thiết bị ghi hoặc tái tạo video, có hoặc không tích hợp bộ dò sóng video. Các thiết bị này được chia thành hai loại chính: thiết bị ghi và kết hợp ghi-tái tạo, và thiết bị chỉ dùng để tái tạo. Thiết bị ghi sử dụng các phương pháp từ tính (trên băng, đĩa) hoặc quang học (dùng tia laze trên đĩa) để lưu trữ hình ảnh và âm thanh từ máy quay hoặc máy thu hình, bao gồm cả máy ghi video kỹ thuật số nhận dữ liệu từ máy tính. Thiết bị tái tạo chỉ phát lại nội dung từ các phương tiện đã được ghi trước. Theo Chú giải 3 Phần XVI, thiết bị có khả năng tái tạo cả video và âm thanh được phân loại tại đây. Các bộ phận và phụ kiện của chúng thuộc nhóm 85.22. Nhóm này loại trừ các phương tiện ghi (nhóm 85.23), camera video (nhóm 85.25), và các thiết bị thu truyền hình, màn hình và máy chiếu video (nhóm 85.28).",
+    "en": "Heading 85.21 covers video recording or reproducing apparatus, whether or not incorporating a video tuner. These apparatus are divided into two main categories: recording and combined recording-reproducing apparatus, and reproducing-only apparatus. Recording apparatus use magnetic (on tape, disc) or optical (laser on disc) methods to store images and sound from a camera or television receiver, including digital video recorders receiving data from a computer. Reproducing apparatus only play back content from pre-recorded media. Subject to Note 3 to Section XVI, apparatus capable of reproducing both video and audio are classified here. Their parts and accessories belong to heading 85.22. This heading excludes recording media (heading 85.23), video cameras (heading 85.25), and television reception apparatus, monitors, and video projectors (heading 85.28)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) CÁC THIẾT BỊ GHI VÀ KẾT HỢP GHI VỚI TÁI TẠO VIDEO. Đây là các thiết bị, khi kết nối với một máy quay hình hoặc một máy thu hình, ghi lại hình ảnh và âm thanh dưới dạng xung điện (tín hiệu tương tự) hoặc mã kỹ thuật số. Phương pháp ghi có thể là từ tính hoặc quang học, và phương tiện ghi thường là băng hoặc đĩa. Nhóm này cũng bao gồm các thiết bị ghi mã kỹ thuật số tương ứng với hình ảnh video và âm thanh bằng cách chuyển đổi từ một máy xử lý dữ liệu tự động (ví dụ, máy ghi video kỹ thuật số).",
+        "en": "(A) RECORDING AND COMBINED RECORDING AND REPRODUCING APPARATUS. These are apparatus which, when connected to a television camera or a television receiver, record images and sound as electric impulses (analogue signals) or digital code. The method of recording can be by magnetic or optical means and the recording media is usually tapes or discs. The heading also includes apparatus which record digital code representing video images and sound, by transferring the digital code from an automatic data processing machine (e.g., digital video recorders)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Trong ghi từ tính, hình ảnh và âm thanh được ghi trên các rãnh khác nhau trên băng hoặc trong các rãnh xoắn ốc trên đĩa. Trong ghi quang học, dữ liệu kỹ thuật số được mã hoá bằng tia laze lên đĩa. Thiết bị ghi video thường gắn một thiết bị dò sóng để chọn kênh. Khi dùng để tái tạo, chúng biến đổi bản ghi thành tín hiệu video.\n(B) THIẾT BỊ TÁI TẠO. Thiết bị này chỉ được thiết kế để tái tạo hình ảnh và âm thanh trực tiếp trên thiết bị thu truyền hình từ các phương tiện đã được ghi trước. Ví dụ bao gồm thiết bị sử dụng đĩa đọc bằng hệ thống laze quang học, cảm ứng điện dung, hoặc đầu từ, và thiết bị giải mã dữ liệu hình ảnh từ phim nhạy sáng.\nBỘ PHẬN VÀ PHỤ KIỆN. Theo Chú giải Chi tiết Tổng quát Phần XVI, bộ phận và phụ kiện của sản phẩm thuộc nhóm này được phân loại ở nhóm 85.22.\nNhóm này không bao gồm: (a) Phương tiện ghi âm của nhóm 85.23. (b) Camera video (nhóm 85.25). (c) Thiết bị thu truyền hình, màn hình video và máy chiếu video (nhóm 85.28).",
+        "en": "In magnetic recording, images and sound are recorded on different tracks on the tape or in spiral tracks on the disc. In optical recording, digital data are encoded by a laser onto a disc. Video recording apparatus also incorporate a tuner to select channels. When used for reproduction, they convert the recording into video signals.\n(B) REPRODUCING APPARATUS. These apparatus are designed only to reproduce images and sound directly on a television receiver from prerecorded media. Examples include apparatus using discs read by a laser optical system, capacitive sensor, or magnetic head, and apparatus that decode image data recorded on a light sensitive film.\nPARTS AND ACCESSORIES. Subject to the General Explanatory Note to Section XVI, parts and accessories of the apparatus of this heading are classified in heading 85.22.\nThe heading excludes: (a) The recording media of heading 85.23. (b) Video cameras (heading 85.25). (c) Reception apparatus for television, video monitors and video projectors (heading 85.28)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8521.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "– Loại dùng băng từ",
+        "en": "- Magnetic tape-type"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8521.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "– Loại khác",
+        "en": "– Other"
+      }
+    }
+  ]
+}

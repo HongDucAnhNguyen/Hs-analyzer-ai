@@ -1,0 +1,132 @@
+{
+  "heading_id": "72.28",
+  "heading_title": {
+    "vi": "Các dạng thanh và que khác bằng thép hợp kim khác; các dạng góc, khuôn và hình, bằng thép hợp kim khác; thanh và que rỗng, bằng thép hợp kim hoặc không hợp kim.",
+    "en": "Other bars and rods of other alloy steel; angles, shapes and sections, of other alloy steel; hollow drill bars and rods, of alloy or non-alloy steel."
+  },
+  "summary": {
+    "vi": "Nhóm 72.28 bao gồm ba loại sản phẩm chính: (1) các dạng thanh và que khác bằng thép hợp kim khác, (2) các dạng góc, khuôn và hình bằng thép hợp kim khác, và (3) thanh và que khoan rỗng bằng thép hợp kim hoặc không hợp kim. Việc phân loại các dạng thanh, que, góc, khuôn và hình tuân theo các quy định tương tự trong Chú giải của các nhóm 72.14 đến 72.16. Thanh và que khoan rỗng, được định nghĩa trong Chú giải 1(p) của Chương 72, được sản xuất bằng cách khoan xuyên qua các thỏi thép rồi cán lại. Chúng có các mặt cắt ngang phổ biến như hình tròn, lục giác, bát giác. Các sản phẩm này có thể được sử dụng để sản xuất mũi khoan, mà sau đó được xếp vào nhóm 82.07, hoặc dùng để truyền lực khi khoan. Lỗ rỗng bên trong có chức năng dẫn chất lỏng để bôi trơn và giảm thiểu bụi tại điểm cắt.",
+    "en": "Heading 72.28 covers three main product categories: (1) other bars and rods of other alloy steel, (2) angles, shapes, and sections of other alloy steel, and (3) hollow drill bars and rods of alloy or non-alloy steel. The classification of bars, rods, angles, shapes, and sections follows the provisions of the Explanatory Notes to headings 72.14 to 72.16. Hollow drill bars and rods, as defined in Note 1(p) to Chapter 72, are produced by piercing steel billets which are then re-rolled. They have common cross-sections such as round, hexagonal, or octagonal. These products may be used to manufacture drill bits, which are then classified in heading 82.07, or to transmit power during drilling. The hollow channel is for conducting liquid for lubrication and minimizing dust at the cutting point."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) CÁC DẠNG THANH VÀ QUE KHÁC; CÁC DẠNG GÓC, KHUÔN VÀ HÌNH\nNhững điều khoản của các Chú giải cho các nhóm 72.14 đến 72.16, với những sửa đổi thích hợp, áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "(A) OTHER BARS AND RODS; ANGLES, SHAPES AND SECTIONS\nThe provisions of the Explanatory Notes to headings 72.14 to 72.16 apply, mutatis mutandis, to the products of this heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(B) CÁC DẠNG THANH VÀ QUE KHOAN RỖNG\nThanh và que khoan rỗng được định nghĩa trong Chú giải 1(p) của chương này. Chúng còn được biết như là thép làm mũi khoan.\nThép làm mũi khoan được làm ra bằng cách khoan xuyên qua các thỏi thép hợp kim hoặc không hợp kim, những thỏi mà sau đó được cán lại. Những mặt cắt thông thường có hình tròn, hình lục giác, bát giác hoặc một phần tư bát giác (hình vuông với các góc bị xén bỏ). Thép này có thể được cắt thành các mẩu ngắn để sản xuất các mũi khoan, những mũi khoan này xếp vào nhóm 82.07; Chúng còn được sử dụng ở những chiều dài lên tới năm hay sáu mét để truyền lực khi khoan ở khoảng cách xa. Lỗ khoan dọc theo chiều dài sẽ dẫn chất lỏng tới điểm cắt",
+        "en": "(B) HOLLOW DRILL BARS AND RODS\nHollow drill bars and rods are defined in Note 1 (p) to this Chapter. They are also known as drill steel.\nDrill steel is produced by piercing billets of alloy or non-alloy steel which are then re-rolled. The usual cross-sections are round, hexagonal, octagonal or quarter octagonal (square with the comers lopped off). The steel may be cut into short pieces for the manufacture of drill bits which fall in heading 82.07; they are also used in lengths up to five or six metres to transmit power when drilling at a distance. The hole down the length conducts liquid to the cutting point"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "để bôi trơn và để giảm đến mức tối thiểu độ rộng của bụi bặm.",
+        "en": "both for lubrication and to minimise the spreading of dust."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7228.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ở dạng thanh và que, bằng thép gió",
+        "en": "- Bars and rods, of high speed steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7228.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ở dạng thanh và que, bằng thép silic-mangan",
+        "en": "- Bars and rods, of silico-manganese steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7228.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Dạng thanh và que khác, chưa được gia công quá mức cán nóng, kéo nóng hoặc ép đùn",
+        "en": "- Other bars and rods, not further worked than hot-rolled, hot-drawn or extruded"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7228.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Các loại thanh và que khác, chưa gia công quá mức rèn",
+        "en": "- Other bars and rods, not further worked than forged"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7228.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Các loại thanh và que khác, chưa được gia công quá mức cán nguội hoặc gia công kết thúc nguội",
+        "en": "- Other bars and rods, not further worked than cold-formed or cold-finished"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7228.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Các loại thanh và que khác",
+        "en": "- Other bars and rods"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7228.70",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Các dạng góc, khuôn và hình",
+        "en": "- Angles, shapes and sections"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7228.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Thanh và que rỗng",
+        "en": "- Hollow drill bars and rods"
+      }
+    }
+  ]
+}

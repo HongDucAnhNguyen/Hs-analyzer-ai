@@ -1,0 +1,53 @@
+{
+  "heading_id": "96.12",
+  "heading_title": {
+    "vi": "Ruy băng máy chữ hoặc tương tự, đã phủ mực hay làm sẵn bằng cách khác để in ấn, đã hoặc chưa cuộn vào lõi hoặc nằm trong vỏ; tấm mực dấu, đã hoặc chưa tẩm mực, có hoặc không có hộp.",
+    "en": "Typewriter or similar ribbons, inked or otherwise prepared for giving impressions, whether or not on spools or in cartridges; ink-pads, whether or not inked, with or without boxes."
+  },
+  "summary": {
+    "vi": "Nhóm 96.12 bao gồm hai loại sản phẩm chính: ruy băng và tấm mực dấu. Ruy băng, dù có hoặc không có lõi hoặc vỏ, được dùng cho máy chữ, máy tính và các máy in khác như cân tự động, máy chữ lập bảng, máy in têlê, máy đo khí áp và máy đo nhiệt độ. Chất liệu của ruy băng có thể là vải dệt, nhựa hoặc giấy, nhưng điều kiện tiên quyết là chúng phải được tẩm mực hoặc chuẩn bị sẵn để tạo ra bản in. Các loại bị loại trừ khỏi nhóm này bao gồm cuộn giấy than hoặc giấy sao chép khác rộng hơn 3cm (Chương 48), ruy băng chưa tẩm mực (Chương 39 hoặc Phần XI), và các cuộn băng rỗng. Loại sản phẩm thứ hai là tấm mực dấu, đã hoặc chưa tẩm mực, dùng cho các loại con dấu đóng ngày tháng, thường được làm từ vật liệu thấm hút như nỉ hoặc vải trên một giá đỡ. Các cuộn mực thao tác bằng tay không thuộc nhóm này.",
+    "en": "Heading 96.12 covers two main types of products: ribbons and ink-pads. Ribbons, whether or not on spools or in cartridges, are for typewriters, calculating machines, and other printing devices like automatic balances, tabulating machines, teleprinters, barographs, and thermographs. The ribbons can be made of woven textile, plastic, or paper, but they must be inked or otherwise prepared to give impressions. Excluded from this heading are rolls of carbon or other copying paper wider than 3 cm (Chapter 48), uninked ribbons (Chapter 39 or Section XI), and empty spools. The second product category is ink-pads, whether or not inked, for use with date stamps, typically made of absorbent materials like felt or fabric on a support. Hand-operated ink-rollers are excluded."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm: (1) Các ruy băng, đã hoặc chưa cuộn vào thành ống hoặc để trong hộp (cartridges), dùng cho máy đánh chữ, máy tính hoặc bất kỳ loại máy nào khác có một thiết bị in bằng các ruy băng như vậy.",
+        "en": "This heading covers: (1) Ribbons, whether or not on spools or in cartridges, for typewriters, calculating machines, or for any other machines incorporating a device for printing by means of such ribbons."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các máy có thiết bị in bao gồm cân tự động, máy chữ lập bảng, máy in têlê. Nhóm này cũng bao gồm các ruy băng đã tẩm mực, có phụ kiện cố định bằng kim loại, dùng cho máy đo khí áp, máy đo nhiệt độ để in và ghi lại chuyển động của kim trong thiết bị ghi. Các ruy băng này thường làm bằng chất liệu dệt, plastic hoặc giấy và phải được tẩm mực hoặc chuẩn bị sẵn để in ấn. Nhóm này không bao gồm: (a) Các cuộn dải giấy than hoặc giấy sao chép khác không phù hợp cho máy chữ, rộng hơn 3cm, được xếp vào Chương 48. (b) Các ruy băng không được bôi mực, tẩm, tráng để có thể in; được xếp vào Chương 39, Phần XI theo chất liệu cấu thành. (c) Các cuộn băng rỗng. (2) Tấm mực dấu đã hoặc chưa tẩm mực, dùng cho con dấu đóng ngày tháng. Chúng làm bằng chất liệu dạ, nỉ hoặc các chất liệu hút mực khác trên một giá bằng gỗ, kim loại hoặc plastic. Các cuộn mực thao tác bằng tay bị loại trừ.",
+        "en": "Machines with such ribbons include automatic balances, tabulating machines, teleprinters, etc. The heading also includes inked ribbons, usually having metal fixing fittings, used in barographs, thermographs, etc., to print and record the movement of the recording machine needle. These ribbons are usually of woven textiles, but sometimes they are made of plastics or paper. To fall in the heading, they must have been inked or otherwise prepared to give impressions. The heading does not cover: (a) Rolls of carbon or other copying paper strip, not suitable for use as typewriter ribbons, generally more than 3 cm in width, which fall in Chapter 48. (b) Ribbons not prepared by inking, impregnation, coating, etc., to give an impression; these are classified in Chapter 39, Section XI, etc., according to the constituent material. (c) Empty spools. (2) Ink-pads, whether or not inked, for date stamps, etc. They are generally composed of felt, woven fabric or other absorbent material on a wooden, metallic or plastic support. Hand-operated ink-rollers are excluded from this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9612.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ruy băng",
+        "en": "Ribbons"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9612.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tấm mực dấu",
+        "en": "Ink-pads"
+      }
+    }
+  ]
+}

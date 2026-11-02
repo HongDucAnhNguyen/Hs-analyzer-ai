@@ -1,0 +1,103 @@
+{
+  "heading_id": "04.02",
+  "heading_title": {
+    "vi": "Sữa và kem, đã cô đặc hoặc đã pha thêm đường hoặc chất tạo ngọt khác.",
+    "en": "Milk and cream, concentrated or containing added sugar or other sweetening matter."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm sữa (như định nghĩa trong Chú giải 1 của Chương này) và kem, đã được cô đặc (ví dụ, bằng cách làm bay hơi) hoặc đã pha thêm đường hoặc chất tạo ngọt khác. Các sản phẩm này có thể ở dạng lỏng, nhão hoặc rắn (dạng khối, bột hoặc hạt), đã hoặc chưa được bảo quản hoặc hoàn nguyên. Sữa bột có thể chứa một lượng nhỏ tinh bột (không quá 5% tính theo trọng lượng). Nhóm này không bao gồm sữa hoặc kem đã được làm đông, lên men hoặc axit hóa (nhóm 04.03) và đồ uống từ sữa có hương vị ca cao hoặc các chất khác (nhóm 22.02). Chú giải Phân nhóm làm rõ rằng các phân nhóm 0402.10, 0402.21 và 0402.29 không bao gồm sữa hoặc kem cô đặc ở dạng nhão, chúng được phân loại vào các phân nhóm 0402.91 và 0402.99.",
+    "en": "This heading covers milk (as defined in Note 1 to this Chapter) and cream, concentrated (e.g., evaporated) or containing added sugar or other sweetening matter. These products can be in liquid, paste, or solid form (blocks, powder, or granules), whether or not preserved or reconstituted. Milk powder may contain small quantities of starch (not exceeding 5% by weight). This heading excludes curdled, fermented, or acidified milk or cream (heading 04.03) and milk-based beverages flavored with cocoa or other substances (heading 22.02). The Subheading Explanatory Note clarifies that subheadings 0402.10, 0402.21, and 0402.29 do not cover concentrated milk or cream in paste form, which are classified in subheadings 0402.91 and 0402.99."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm sữa (như đã định nghĩa trong Chú giải 1 của Chương này) và kem, cô đặc (ví dụ, bằng cách làm bay hơi) hoặc pha thêm đường hoặc chất tạo ngọt khác, ở dạng lỏng, nhão hoặc rắn (dạng khối, bột hoặc hạt) và đã hoặc chưa được bảo quản hoặc hoàn nguyên.",
+        "en": "This heading covers milk (as defined in Note 1 to this Chapter) and cream, concentrated (for example, evaporated) or containing added sugar or other sweetening matter, whether liquid, paste or solid (in blocks, powder or granules) and whether or not preserved or reconstituted."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Sữa bột có thể chứa lượng nhỏ tinh bột (không quá 5% tính theo trọng lượng), được thêm vào, nhất là để giữ sữa hoàn nguyên trong trạng thái vật lý bình thường.",
+        "en": "Milk powder may contain small quantities of starch (not exceeding 5 % by weight), added, in particular, to maintain the reconstituted milk in its normal physical state."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Sữa hoặc kem, đã được làm đông, được lên men hoặc được axit hoá (nhóm 04.03).\n(b) Đồ uống gồm sữa được tạo hương bằng ca cao hoặc các chất khác (nhóm 22.02).",
+        "en": "The heading does not cover :\n(a) Curdled, fermented or acidified milk or cream (heading 04.03).\n(b) Beverages consisting of milk flavoured with cocoa or other substances (heading 22.02)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 0402.10, 0402.21 và 0402.29.\nNhững phân nhóm này không gồm sữa hoặc kem cô đặc dưới dạng nhão (phân nhóm 0402.91 và 0402.99).",
+        "en": "Subheading Explanatory Note.\nSubheadings 0402.10, 0402.21 and 0402.29\nThese subheadings do not cover concentrated milk or cream in the form of paste (subheadings 0402.91 and 0402.99)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0402.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dạng bột, hạt hoặc các thể rắn khác, có hàm lượng chất béo không quá 1,5% tính theo khối lượng",
+        "en": "In powder, granules or other solid forms, of a fat content, by weight, not exceeding 1.5 %"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Dạng bột, hạt hoặc các thể rắn khác, có hàm lượng chất béo trên 1,5% tính theo khối lượng:",
+        "en": "In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 % :"
+      },
+      "subheading_id": "0402.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa pha thêm đường hoặc chất tạo ngọt khác",
+        "en": "Not containing added sugar or other sweetening matter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Dạng bột, hạt hoặc các thể rắn khác, có hàm lượng chất béo trên 1,5% tính theo khối lượng:",
+        "en": "In powder, granules or other solid forms, of a fat content, by weight, exceeding 1.5 % :"
+      },
+      "subheading_id": "0402.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "0402.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa pha thêm đường hoặc chất tạo ngọt khác",
+        "en": "Not containing added sugar or other sweetening matter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "0402.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "heading_id": "26.05",
+  "heading_title": {
+    "vi": "Quặng coban và tinh quặng coban",
+    "en": "Cobalt ores and concentrates."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại quặng coban chính và tinh quặng của chúng. Các quặng chính là: Cobaltite, Heterogenite, Linnaeite, và Smaltite.",
+    "en": "This heading covers the principal cobalt ores and their concentrates. The principal ores are: Cobaltite, Heterogenite, Linnaeite, and Smaltite."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các quặng chính thường được phân loại trong nhóm này là:",
+        "en": "The principal ores generally classified in this heading are:"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(a) Cobaltite, sulphide cobalt và arsenide cobalt.\n(b) Heterogenite, oxit coban đã hydrate hoá\n(c) Linnaeite, sulphide cobalt và sulphide niken\n(d) Smaltite, cobalt arsenide.",
+        "en": "(a) Cobaltite, sulphide and arsenide of cobalt.\n(b) Heterogenite, hydrated oxide of cobalt.\n(c) Linnaeite, sulphide of cobalt and nickel.\n(d) Smaltite, cobalt arsenide."
+      }
+    }
+  ],
+  "subheadings": []
+}

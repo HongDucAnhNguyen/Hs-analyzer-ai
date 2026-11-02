@@ -1,0 +1,21 @@
+{
+  "heading_id": "80.02",
+  "heading_title": {
+    "vi": "Phế liệu và mảnh vụn thiếc.",
+    "en": "Tin waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm 80.02 áp dụng cho phế liệu và mảnh vụn thiếc. Việc phân loại hàng hóa trong nhóm này tuân theo các quy định tương tự như trong chú giải chi tiết của nhóm 72.04 về phế liệu và mảnh vụn sắt thép. Tuy nhiên, có hai loại trừ quan trọng cần lưu ý. Thứ nhất, nhóm này không bao gồm xỉ, tro và các chất thải phát sinh từ quá trình sản xuất thiếc, chúng thuộc nhóm 26.20. Thứ hai, các thỏi thiếc hoặc các dạng chưa gia công tương tự được đúc từ việc nấu lại phế liệu và mảnh vụn thiếc cũng bị loại trừ và được phân loại vào nhóm 80.01.",
+    "en": "Heading 80.02 applies to tin waste and scrap. The classification of goods in this heading follows provisions similar to those in the explanatory note of heading 72.04 for iron and steel waste and scrap. However, there are two important exclusions to note. Firstly, this heading does not include slag, ash, and residues from tin manufacturing, which belong to heading 26.20. Secondly, tin ingots or similar unwrought forms cast from remelted tin waste and scrap are also excluded and are classified under heading 80.01."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các quy định về phế liệu và mảnh vụn trong Chú giải chi tiết nhóm 72.04 được áp dụng tương tự cho nhóm này. Nhóm này không bao gồm: (a) Xỉ, tro và các chất thải từ việc sản xuất thiếc (nhóm 26.20); (b) Thỏi và các dạng chưa gia công tương tự được đúc từ phế liệu và mảnh vụn thiếc nấu lại (nhóm 80.01).",
+        "en": "The provisions concerning waste and scrap in the Explanatory Note to heading 72.04 apply, mutatis mutandis, to this heading. This heading excludes: (a) Slag, ash and residues from the manufacture of tin (heading 26.20); (b) Ingots and similar unwrought forms cast from remelted tin waste and scrap (heading 80.01)."
+      }
+    }
+  ],
+  "subheadings": []
+}

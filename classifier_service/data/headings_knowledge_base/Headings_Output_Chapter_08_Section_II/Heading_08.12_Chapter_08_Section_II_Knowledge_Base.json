@@ -1,0 +1,53 @@
+{
+  "heading_id": "08.12",
+  "heading_title": {
+    "vi": "Quả và quả hạch (nut), được bảo quản tạm thời, nhưng không phù hợp dùng ngay được.",
+    "en": "Fruit and nuts, provisionally preserved, but unsuitable in that state for immediate consumption."
+  },
+  "summary": {
+    "vi": "Nhóm này áp dụng cho quả và quả hạch (nut) đã được xử lý chỉ nhằm mục đích bảo quản tạm thời trong quá trình vận chuyển hoặc lưu kho (ví dụ: bằng khí sulphur dioxide, ngâm trong nước muối, nước lưu huỳnh hoặc các dung dịch bảo quản khác), với điều kiện chúng không phù hợp để ăn ngay trong tình trạng đó. Các sản phẩm này chủ yếu được sử dụng trong công nghiệp thực phẩm.",
+    "en": "This heading applies to fruit and nuts that have been treated solely for the purpose of provisional preservation during transport or storage (e.g., by sulphur dioxide gas, in brine, in sulphur water or other preservative solutions), provided they are unsuitable for immediate consumption in that state. These products are mainly used in the food industry."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này áp dụng cho những loại quả và quả hạch (nut) (đã hoặc chưa làm trắng hoặc nhúng nước nóng) đã qua xử lý chỉ để bảo quản tạm thời trong quá trình vận chuyển hoặc lưu trữ trước khi đưa vào sử dụng (ví dụ: bảo quản bằng khí sulphur dioxide, ngâm nước muối, nước lưu huỳnh hoặc trong các dung dịch bảo quản khác), với điều kiện chúng không thích hợp để ăn ngay trong tình trạng đó.",
+        "en": "This heading applies to fruit and nuts (whether or not blanched or scalded) which have been treated solely to ensure their provisional preservation during transport or storage prior to use (e.g., by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), provided they remain unsuitable for immediate consumption in that state."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những sản phẩm như vậy chủ yếu dùng trong công nghiệp thực phẩm (làm mứt, quả ngâm đường,...). Các loại quả thường được sử dụng là anh đào, dâu tây, cam, thanh yên, mơ và mận lục. Chúng thường được đóng trong thùng phuy, khay hoặc thùng gỗ thưa.",
+        "en": "Such products are used mainly in the food industry (manufacture of jam, preparation of candied fruits, etc.). The products most commonly presented in this state are cherries, strawberries, oranges, citrons, apricots and greengages. They are usually packed in casks, trays or open-lath type containers."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0812.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả anh đào",
+        "en": "Cherries"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0812.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "heading_id": "89.03",
+  "heading_title": {
+    "vi": "Du thuyền hạng nhẹ và các loại tàu thuyền khác phục vụ nghỉ ngơi, giải trí hoặc thể thao; thuyền dùng mái chèo và canô (+).",
+    "en": "Yachts and other vessels for pleasure or sports; rowing boats and canoes (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các tàu thuyền dùng cho giải trí hoặc thể thao, thuyền dùng mái chèo và canô. Cụ thể bao gồm: du thuyền, thuyền phản lực, thuyền buồm, thuyền máy, xuồng nhỏ, xuồng caiac, thuyền chèo, thuyền đạp chân, thuyền câu cá thể thao, xuồng bơm hơi và thuyền có thể gấp hoặc tháo rời. Nhóm này cũng bao gồm thuyền cứu hộ dùng mái chèo. Các loại thuyền cứu hộ khác thuộc nhóm 89.06. Ván buồm bị loại trừ (nhóm 95.06). Có chú giải phân nhóm cho 8903.31, 8903.32 và 8903.33 định nghĩa 'động cơ gắn ngoài' theo chú giải nhóm 84.07.",
+    "en": "This heading covers all vessels for pleasure or sports, rowing boats and canoes. It includes: yachts, marine jets, sailboats, motorboats, dinghies, kayaks, sculls, skiffs, pedalos, sports fishing vessels, inflatable craft and foldable or disassemblable boats. It also covers lifeboats propelled by oars. Other lifeboats fall in heading 89.06. Sailboards are excluded (heading 95.06). There is a Subheading Explanatory Note for 8903.31, 8903.32 and 8903.33 which defines 'outboard motors' by reference to the Explanatory Note to heading 84.07."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các tàu thuyền dùng cho giải trí hoặc thể thao cũng như tất cả các thuyền dùng mái chèo và xuồng (canô).\nNhóm này cũng bao gồm cả thuyền buồm, thuyền phản lực và các thuyền buồm và thuyền máy khác, xuồng nhỏ, xuồng caiac, thuyền chèo mái đôi, thuyền đua một người chèo, thuyền đạp chân (loại thuyền dùng bàn đạp pedal), thuyền câu cá thể thao, xuồng bơm hơi và thuyền có thể gấp hoặc tháo rời được.\nNhóm này cũng bao gồm thuyền cứu hộ dùng mái chèo (các thuyền cứu hộ khác thuộc nhóm 89.06).\nTuy nhiên, các ván buồm bị loại trừ (nhóm 95.06).",
+        "en": "This heading covers all vessels for pleasure or sports and all rowing boats and canoes.\nThis heading includes yachts, marine jets and other sailboats and motorboats, dinghies, kayaks, sculls, skiffs, pedalos (a type of pedal-operated float), sports fishing vessels, inflatable craft and boats which can be folded or disassembled.\nThe heading also covers lifeboats propelled by oars (other lifeboats fall in heading 89.06).\nSailboards are, however, excluded (heading 95.06)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải chi tiết phân nhóm.\nPhân nhóm 8903.31, 8903.32 và 8903.33\n“Các động cơ gắn ngoài” được mô tả ở Chú giải chi tiết nhóm 84.07.",
+        "en": "Subheading Explanatory Note.\nSubheadings 8903.31, 8903.32 and 8903.33\n“Outboard motors” are described in the Explanatory Note to heading 84.07."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền, xuồng có thể bơm hơi (bao gồm cả thuyền, xuồng thân cứng có thể bơm hơi):",
+        "en": "Inflatable (including rigid hull inflatable) boats :"
+      },
+      "subheading_id": "8903.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Được trang bị hoặc thiết kế để lắp với động cơ, trọng lượng không tải (tịnh) (không bao gồm động cơ) không quá 100 kg",
+        "en": "Fitted or designed to be fitted with a motor, unladen (net) weight (excluding the motor) not exceeding 100 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền, xuồng có thể bơm hơi (bao gồm cả thuyền, xuồng thân cứng có thể bơm hơi):",
+        "en": "Inflatable (including rigid hull inflatable) boats :"
+      },
+      "subheading_id": "8903.12",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Không được thiết kế để sử dụng với động cơ và trọng lượng không tải (tịnh) không quá 100 kg",
+        "en": "Not designed for use with a motor and unladen (net) weight not exceeding 100 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền, xuồng có thể bơm hơi (bao gồm cả thuyền, xuồng thân cứng có thể bơm hơi):",
+        "en": "Inflatable (including rigid hull inflatable) boats :"
+      },
+      "subheading_id": "8903.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền buồm, trừ loại có thể bơm hơi, có hoặc không có động cơ phụ trợ:",
+        "en": "Sailboats, other than inflatable, with or without auxiliary motor:"
+      },
+      "subheading_id": "8903.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có chiều dài không quá 7,5 m",
+        "en": "Of a length not exceeding 7.5 m"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền buồm, trừ loại có thể bơm hơi, có hoặc không có động cơ phụ trợ:",
+        "en": "Sailboats, other than inflatable, with or without auxiliary motor:"
+      },
+      "subheading_id": "8903.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có chiều dài trên 7,5 m nhưng không quá 24 m",
+        "en": "Of a length exceeding 7.5 m but not exceeding 24 m"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền buồm, trừ loại có thể bơm hơi, có hoặc không có động cơ phụ trợ:",
+        "en": "Sailboats, other than inflatable, with or without auxiliary motor:"
+      },
+      "subheading_id": "8903.23",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có chiều dài trên 24 m",
+        "en": "Of a length exceeding 24 m"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền máy, trừ loại có thể bơm hơi, không bao gồm thuyền máy có gắn máy bên ngoài:",
+        "en": "Motorboats, other than inflatable, not including outboard motorboats :"
+      },
+      "subheading_id": "8903.31",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có chiều dài không quá 7,5 m",
+        "en": "Of a length not exceeding 7.5 m"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền máy, trừ loại có thể bơm hơi, không bao gồm thuyền máy có gắn máy bên ngoài:",
+        "en": "Motorboats, other than inflatable, not including outboard motorboats :"
+      },
+      "subheading_id": "8903.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có chiều dài trên 7,5 m nhưng không quá 24 m",
+        "en": "Of a length exceeding 7.5 m but not exceeding 24 m"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Thuyền máy, trừ loại có thể bơm hơi, không bao gồm thuyền máy có gắn máy bên ngoài:",
+        "en": "Motorboats, other than inflatable, not including outboard motorboats :"
+      },
+      "subheading_id": "8903.33",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có chiều dài trên 24 m",
+        "en": "Of a length exceeding 24 m"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "8903.93",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Có chiều dài không quá 7,5 m",
+        "en": "Of a length not exceeding 7.5 m"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "8903.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

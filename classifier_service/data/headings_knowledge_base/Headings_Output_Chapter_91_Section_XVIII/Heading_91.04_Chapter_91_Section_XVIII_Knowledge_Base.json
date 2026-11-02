@@ -1,0 +1,21 @@
+{
+  "heading_id": "91.04",
+  "heading_title": {
+    "vi": "Đồng hồ thời gian lắp trên bàn điều khiển phương tiện và các loại đồng hồ thời gian tương tự dùng cho xe cộ, phương tiện bay, tàu vũ trụ hoặc tàu thủy.",
+    "en": "Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại đồng hồ thời gian, hoàn chỉnh với vỏ và máy, được đặc biệt chế tạo để lắp trên bàn điều khiển, vô lăng, gương chiếu hậu... của xe cộ, phương tiện bay, tàu vũ trụ hoặc tàu thủy, bất kể chủng loại và độ dày của máy. Chúng thường là đồng hồ thời gian chạy điện (chủ yếu là điện tử), đồng hồ lên dây tự động hay đồng hồ cơ 8 ngày. Nhóm này còn bao gồm cả đồng hồ tính giờ cho xe cộ. Nhóm này không bao gồm các loại sau khi chúng được trình bày riêng biệt: máy (nhóm 91.08 hay 91.10), vỏ đồng hồ thời gian (nhóm 91.12) và các bộ phận của máy (thường thuộc nhóm 91.10 hay 91.14).",
+    "en": "This heading covers all clocks, complete with case and movement, specially constructed for mounting in the instrument panels, steering wheels, rear-view mirrors, etc., of vehicles, aircraft, spacecraft or vessels, regardless of the type and thickness of the movement. They are usually electric (mostly electronic) clocks, self-winding clocks, or mechanical eight-day clocks. The heading also covers vehicle chronographs. The heading excludes the following when presented separately: movements (headings 91.08 to 91.10), clock cases (heading 91.12) and parts of movements (generally heading 91.10 or 91.14)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các loại đồng hồ thời gian, hoàn chỉnh với vỏ và máy, được đặc biệt chế tạo để lắp trên bàn điều khiển phương tiện, vô lăng, gương chiếu hậu, v.v... của xe cộ (xe có động cơ, xe đạp có động cơ, v.v...) máy bay, tàu vũ trụ hay tàu thủy, bất kể chủng loại và độ dày của máy như thế nào. Chúng thường là đồng hồ thời gian chạy điện (chủ yếu là điện tử), đồng hồ lên dây tự động hay đồng hồ cơ 8 ngày.\nNhóm này còn bao gồm cả đồng hồ tính giờ cho xe cộ, ngoài các kim bình thường còn có một kim tính giờ, một kim ghi phút và bộ phận ghi thời gian chạy.\nNhóm này không bao gồm những loại sau khi chúng được trình bày riêng biệt: máy (nhóm 91.08 hay 91.10), vỏ đồng hồ thời gian (nhóm 91.12) và các bộ phận của máy (thường thuộc nhóm 91.10 hay 91.14).",
+        "en": "This heading covers all clocks, complete with case and movement, specially constructed for mounting in the instrument panels, steering wheels, rear-view mirrors, etc., of vehicles (motor vehicles, motor bicycles, etc.), aircraft, spacecraft or vessels, regardless of the type and thickness of the movement. They are usually electric (mostly electronic) clocks, self-winding clocks, or mechanical eight-day clocks.\nThe heading also covers vehicle chronographs, which, in addition to the usual hands, have a chronograph hand, a minute recording hand and a running-time recorder.\nThe heading excludes the following when presented separately: movements (headings 91.08 to 91.10), clock cases (heading 91.12) and parts of movements (generally heading 91.10 or 91.14)."
+      }
+    }
+  ],
+  "subheadings": []
+}

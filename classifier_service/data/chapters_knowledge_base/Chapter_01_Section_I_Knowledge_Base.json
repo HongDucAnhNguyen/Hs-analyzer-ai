@@ -1,0 +1,73 @@
+{
+  "chapter_id": "01",
+  "chapter_title": {
+    "vi": "Động vật sống",
+    "en": "Live animals"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm tất cả các loại động vật sống, dùng làm thực phẩm hoặc cho các mục đích khác. Cụ thể bao gồm: ngựa, lừa, la (nhóm 01.01); động vật họ trâu bò (nhóm 01.02); lợn (nhóm 01.03); cừu và dê (nhóm 01.04); gia cầm sống như gà, vịt, ngan, ngỗng, gà tây, gà lôi (nhóm 01.05); và các động vật sống khác như động vật linh trưởng, cá voi, bò sát, các loại chim khác và côn trùng (nhóm 01.06).\n\nChương này không bao gồm:\n- Cá, động vật giáp xác, động vật thân mềm và động vật thủy sinh không xương sống khác (các nhóm 03.01, 03.06, 03.07 hoặc 03.08).\n- Vi sinh vật nuôi cấy và các sản phẩm khác thuộc nhóm 30.02.\n- Động vật thuộc rạp xiếc, bầy thú hoặc các động vật làm trò lưu động tương tự (nhóm 95.08).\n\nLưu ý: Động vật, kể cả côn trùng, chết trong quá trình vận chuyển được phân loại vào các nhóm từ 02.01 đến 02.05, 02.07, 02.08 hoặc 04.10 nếu chúng ăn được và thích hợp dùng làm thức ăn cho người; trong các trường hợp khác, chúng được phân loại vào nhóm 05.11.",
+    "en": "This chapter covers all live animals, for food or other purposes. Specifically, it includes: horses, asses, mules, and hinnies (heading 01.01); live bovine animals (heading 01.02); live swine (heading 01.03); live sheep and goats (heading 01.04); live poultry such as fowls, ducks, geese, turkeys, and guinea fowls (heading 01.05); and other live animals such as primates, whales, reptiles, other birds, and insects (heading 01.06).\n\nThis Chapter does not cover:\n- Fish and crustaceans, molluscs and other aquatic invertebrates (headings 03.01, 03.06, 03.07 or 03.08).\n- Cultures of micro-organisms and other products of heading 30.02.\n- Animals forming part of circuses, menageries or other similar travelling animal shows (heading 95.08).\n\nNote: Animals, including insects, which die during transport are classified in headings 02.01 to 02.05, 02.07, 02.08 or 04.10 if they are edible animals fit for human consumption; in other cases, they are classified in heading 05.11."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Chương này bao gồm tất cả các loại động vật sống trừ:\n(a) Cá và động vật giáp xác, động vật thân mềm và động vật thuỷ sinh không xương sống khác, thuộc nhóm 03.01, 03.06, 03.07 hoặc 03.08;\n(b) Vi sinh vật nuôi cấy và các sản phẩm khác thuộc nhóm 30.02; và\n(c) Động vật thuộc nhóm 95.08.",
+        "en": "1. This Chapter covers all live animals except:\n(a) Fish and crustaceans, molluscs and other aquatic invertebrates, of heading 03.01, 03.06. 03.07 or 03.08;\n(b) Cultures of micro-organisms and other products of heading 30.02; and\n(c) Animals of heading 95.08."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chương này bao gồm tất cả các loại sinh vật sống (dùng làm thực phẩm hoặc có các mục đích khác) trừ:\n(1) Cá và động vật giáp xác, động vật thân mềm và động vật thủy sinh không xương sống khác.\n(2) Vi sinh vật nuôi cấy và các sản phẩm khác thuộc nhóm 30.02.\n(3) Bầy thú thuộc rạp xiếc, bầy thú hoặc động vật làm trò lưu động tương tự khác (nhóm 95.08).\nĐộng vật, kể cả côn trùng, chết trên đường vận chuyển được phân loa ̣i vào các nhóm từ 02.01 đến 02.05, 02.07, 02.08 hoặc 04.10 nếu chúng là những động vật ăn được thích hợp dùng làm thức ăn cho người. Trong những trường hợp khác, chúng được phân loa ̣i vào nhóm 05.11.",
+        "en": "This Chapter covers all living creatures (for food or other purposes) except:\n(1) Fish and crustaceans, molluscs and other aquatic invertebrates.\n(2) Cultures of micro-organisms and other products of heading 30.02.\n(3) Animals forming part of circuses, menageries or other similar travelling animal shows (heading 95.08).\nAnimals, including insects, which die during transport are classified in headings 02.01 to 02.05, 02.07, 02.08 or 04.10 if they are edible animals fit for human consumption. In other cases, they are classified in heading 05.11."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "01.01",
+      "heading_title": {
+        "vi": "Ngựa, lừa, la sống (+).",
+        "en": "Live horses, asses, mules and hinnies (+)."
+      }
+    },
+    {
+      "heading_id": "01.02",
+      "heading_title": {
+        "vi": "Động vật sống họ trâu bò (+).",
+        "en": "Live bovine animals (+)."
+      }
+    },
+    {
+      "heading_id": "01.03",
+      "heading_title": {
+        "vi": "Lợn sống (+).",
+        "en": "Live swine (+)."
+      }
+    },
+    {
+      "heading_id": "01.04",
+      "heading_title": {
+        "vi": "Cừu, dê sống.",
+        "en": "Live sheep and goats."
+      }
+    },
+    {
+      "heading_id": "01.05",
+      "heading_title": {
+        "vi": "Gia cầm sống, gồm các loại gà thuộc loài Gallus domesticus, vịt, ngan, ngỗng, gà tây và gà lôi (+).",
+        "en": "Live poultry , that is to say, fowls of the species Gallus domesticus, ducks, geese, turkeys and guinea fowls (+)."
+      }
+    },
+    {
+      "heading_id": "01.06",
+      "heading_title": {
+        "vi": "Động vật sống khác.",
+        "en": "Other live animals."
+      }
+    }
+  ]
+}

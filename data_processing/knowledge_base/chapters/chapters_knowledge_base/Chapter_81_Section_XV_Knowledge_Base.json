@@ -1,0 +1,107 @@
+{
+  "chapter_id": "81",
+  "chapter_title": {
+    "vi": "Kim loại cơ bản khác; gốm kim loại; các sản phẩm của chúng.",
+    "en": "Other base metals; cermets; articles thereof"
+  },
+  "summary": {
+    "vi": "Chương 81 giới hạn phạm vi các kim loại cơ bản, hợp kim và sản phẩm của chúng không được đề cập ở nơi khác. Chương này bao gồm Vôn-fram (nhóm 81.01), Molypđen (81.02), Tantan (81.03), Magie (81.04), Coban (81.05), Bismut (81.06), Cađimi (81.07), Titan (81.08), Zirconi (81.09), Antimon (81.10), Mangan (81.11), và một nhóm các kim loại khác như Berili và Crôm trong nhóm 81.12. Ngoài ra, chương cũng bao gồm gốm kim loại (nhóm 81.13). Các kim loại cơ bản không được mô tả trong chương này hoặc các chương trước của Phần XV sẽ được phân loại vào Chương 28. Việc phân loại các hợp kim phức tạp tuân theo các quy tắc trong Chú giải 5 Phần XV. Chương này loại trừ các hợp chất cacbua kim loại. Việc định nghĩa \"chất phế liệu và mảnh vụn\" và \"bột\" được quy định tại Chú giải 8 Phần XV.",
+    "en": "Chapter 81 is limited to base metals, their alloys, and articles thereof that are not more specifically covered elsewhere. This chapter includes Tungsten (heading 81.01), Molybdenum (81.02), Tantalum (81.03), Magnesium (81.04), Cobalt (81.05), Bismuth (81.06), Cadmium (81.07), Titanium (81.08), Zirconium (81.09), Antimony (81.10), Manganese (81.11), and a group of other metals such as Beryllium and Chromium in heading 81.12. Additionally, the chapter also covers cermets (heading 81.13). Base metals not described in this chapter or in the preceding chapters of Section XV are to be classified in Chapter 28. The classification of complex alloys follows the rules in Note 5 to Section XV. This chapter excludes metal carbides. The definitions of \"waste and scrap\" and \"powders\" are provided in Note 8 to Section XV."
+  },
+  "notes": [],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chương này chỉ giới hạn bao gồm các kim loại cơ bản, hợp kim và sản phẩm không được đề cập ở nơi khác. Cụ thể bao gồm: (A) Vôn-fram (nhóm 81.01), Molybden (nhóm 81.02), Tantan (nhóm 81.03), Magie (nhóm 81.04), Coban (nhóm 81.05), Bitmut (nhóm 81.06), Cađimi (nhóm 81.07), Titan (nhóm 81.08), Zirconi (nhóm 81.09), Antimon (nhóm 81.10) và Mangan (nhóm 81.11). (B) Berili, crôm, hafini, reni, Tali, cađimi, gecmani, vanadi, gali, indi và niobi (nhóm 81.12). Chương này cũng bao gồm gốm kim loại (nhóm 81.13). Các kim loại cơ bản khác không được mô tả trong Chương này hoặc trong các chương trước thuộc Phần XV thì được phân loại vào Chương 28. Hầu hết kim loại trong chương này được dùng dưới dạng hợp kim hoặc carbid. Việc phân loại hợp kim theo Chú giải 5 Phần XV; các hợp chất cacbua kim loại bị loại trừ. Việc phân loại hàng hoá phức hợp được giải thích trong Chú giải Tổng quát của Phần XV. Chú giải 8 Phần XV định nghĩa \"Chất phế liệu và mảnh vụn\" và \"bột\".",
+        "en": "This Chapter is limited to the following base metals, their alloys, and articles thereof which are not more specifically covered elsewhere: (A) Tungsten (wolfram) (heading 81.01), molybdenum (heading 81.02), tantalum (heading 81.03), magnesium (heading 81.04), cobalt (heading 81.05), bismuth (heading 81.06), cadmium (heading 81.07), titanium (heading 81.08), zirconium (heading 81.09), antimony (heading 81.10) and manganese (heading 81.11). (B) Beryllium, chromium, hafnium, rhenium, thallium, cadmium, germanium, vanadium, gallium, indium and niobium (columbium) (heading 81.12). This Chapter also covers cermets (heading 81.13). Base metals not included in this Chapter or in the preceding Chapters of Section XV are classified in Chapter 28. Most metals are used as alloys or carbides. The classification of alloys follows Note 5 to Section XV; metal carbides are excluded. The classification of composite goods is explained in the General Explanatory Note to Section XV. Note 8 to Section XV defines \"waste and scrap\" and \"powders\"."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "81.01",
+      "heading_title": {
+        "vi": "Vonfram và các sản phẩm làm từ vonfram, kể cả phế liệu và mảnh vụn.",
+        "en": "Tungsten (wolfram) and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.02",
+      "heading_title": {
+        "vi": "Molypđen và các sản phẩm làm từ molypđen, kể cả phế liệu và mảnh vụn.",
+        "en": "Molybdenum and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.03",
+      "heading_title": {
+        "vi": "Tantan và các sản phẩm làm từ tantan, kể cả phế liệu và mảnh vụn.",
+        "en": "Tantalum and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.04",
+      "heading_title": {
+        "vi": "Magie và các sản phẩm của magie, kể cả phế liệu và mảnh vụn(+).",
+        "en": "Magnesium and articles thereof, including waste and scrap (+)."
+      }
+    },
+    {
+      "heading_id": "81.05",
+      "heading_title": {
+        "vi": "Coban sten và các sản phẩm trung gian khác từ luyện coban; coban và các sản phẩm bằng coban, kể cả phế liệu và mảnh vụn.",
+        "en": "Cobalt mattes and other intermediate products of cobalt metallurgy; cobalt and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.06",
+      "heading_title": {
+        "vi": "Bismut và các sản phẩm làm từ bismut, kể cả phế liệu và mảnh vụn.",
+        "en": "Bismuth and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.08",
+      "heading_title": {
+        "vi": "Titan và các sản phẩm làm từ titan, kể cả phế liệu và mảnh vụn.",
+        "en": "Titanium and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.09",
+      "heading_title": {
+        "vi": "Zircon và các sản phẩm làm từ zircon, kể cả phế liệu và mảnh vụn.",
+        "en": "Zirconium and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.10",
+      "heading_title": {
+        "vi": "Antimon và các sản phẩm làm từ antimon, kể cả phế liệu và mảnh vụn.",
+        "en": "Antimony and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.11",
+      "heading_title": {
+        "vi": "Mangan và các sản phẩm làm từ mangan, kể cả phế liệu và mảnh vụn.",
+        "en": "Manganese and articles thereof, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.12",
+      "heading_title": {
+        "vi": "Beryli, crôm, hafini, reni, tali, cađimi, germani, vanadi, gali, indi và niobi (columbi), và các sản phẩm từ các kim loại này, kể cả phế liệu và mảnh vụn.",
+        "en": "Beryllium, chromium, hafnium, rhenium, thallium, cadmium, germanium, vanadium, gallium, indium and niobium (columbium), and articles of these metals, including waste and scrap."
+      }
+    },
+    {
+      "heading_id": "81.13",
+      "heading_title": {
+        "vi": "Gốm kim loại và các sản phẩm làm từ gốm kim loại, kể cả phế liệu và mảnh vụn.",
+        "en": "Cermets and articles thereof, including waste and scrap."
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "heading_id": "50.07",
+  "heading_title": {
+    "vi": "Vải dệt thoi dệt từ tơ tằm hoặc từ phế liệu tơ tằm (+).",
+    "en": "Woven fabrics of silk or of silk waste (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải dệt thoi làm từ sợi tơ tằm, sợi tơ vụn hoặc sợi từ phế liệu tơ tằm khác. Các ví dụ bao gồm vải Habutai, Sơn Đông, Tuytso, crếp, muslin, sa, voan, vải Taphota, satanh, lụa phay, moa rê và hàng dệt Đamat.\nTheo Chú giải phân nhóm 5007.20, phân nhóm này chỉ bao gồm các loại vải dệt thoi có tỷ trọng tơ hoặc phế liệu tơ (trừ tơ vụn) từ 85% trở lên tính theo khối lượng.\n\nNhóm này không bao gồm các loại hàng dệt của các Chương 57 đến 59, ví dụ như vải dùng để rây sàng của nhóm 59.11.",
+    "en": "This heading includes woven fabrics made of silk yarn, noil silk yarn, or other silk waste yarn. Examples include Habutai, Shantung, Tussore, crêpes, muslins, grenadines, voiles, taffetas, satins, faille, moiré, and damask.\nAccording to the Subheading Explanatory Note to 5007.20, this subheading covers only fabrics containing by weight at least 85% of silk or of silk waste other than noil silk.\n\nThis heading excludes woven fabrics of Chapters 57 to 59, for example, bolting cloth of heading 59.11."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm các loại vải dệt (như đã chỉ rõ ở mục (I) (C) của Chú giải tổng quát Phần XI làm từ sợi tơ hay từ tơ vụn hay sợi phế liệu tơ.\nBao gồm:\n(1) Vải Habutai, Sơn Đông, Tuytso và Viễn Đông khác.\n(2) Crếp\n(3) Hàng dệt mỏng như muslin, sa, voan.\n(4) Hàng dệt dầy như vải Taphota, satanh, lụa phay, moa rê và hàng dệt Đamat.\nNhững nhóm này không bao gồm hàng dệt của các Chương 57 đến 59 (vải dùng để rây sàng của nhóm 59.11).",
+        "en": "This heading includes woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI) made of silk yarn or of noil silk or other silk waste yarn.\nThese include:\n(1) Habutai, Shantung, Tussore and other Far East fabrics.\n(2) Crêpes.\n(3) Diaphanous fabrics such as muslins, grenadines and voiles.\n(4) Tightly-woven fabrics such as taffetas, satins, faille, moiré and damask.\nBut the heading excludes woven fabrics of Chapters 57 to 59 (e.g., bolting cloth of heading 59.11)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm\nPhân nhóm 5007.20\nPhân nhóm 5007.20 chỉ bao gồm các loại vải dệt thoi có tỷ trọng tơ hoặc phế liệu tơ từ 85% trở lên, ngoại trừ tơ vụn; tơ vụn không được tính trong phần 85%.",
+        "en": "Subheading Explanatory Note.\nSubheading 5007.20\nSubheading 5007.20 covers only fabrics containing by weight at least 85 % of silk or of silk waste other than noil silk; noil silk must not be included in the 85 %."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5007.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi từ tơ vụn",
+        "en": "Fabrics of noil silk"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5007.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Các loại vải dệt thoi khác, có hàm lượng tơ hoặc phế liệu tơ tằm ngoại trừ tơ vụn chiếm 85% trở lên tính theo khối lượng:",
+        "en": "Other fabrics, containing 85 % or more by weight of silk or of silk waste other than noil silk"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5007.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    }
+  ]
+}

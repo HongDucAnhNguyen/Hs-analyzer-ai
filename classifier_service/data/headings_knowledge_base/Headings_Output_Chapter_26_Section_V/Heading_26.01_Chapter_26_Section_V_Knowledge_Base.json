@@ -1,0 +1,72 @@
+{
+  "heading_id": "26.01",
+  "heading_title": {
+    "vi": "Quặng sắt và tinh quặng sắt, kể cả pirit sắt đã nung.",
+    "en": "Iron ores and concentrates, including roasted iron pyrites."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại quặng sắt chính như hematit đỏ, limonite, magnetite, siderite, và pirit sắt đã nung. Nhóm này cũng bao gồm quặng sắt và tinh quặng sắt có hàm lượng mangan dưới 20% tính theo trọng lượng khô (tham khảo Chú giải nhóm 26.02). Tuy nhiên, nhóm này loại trừ magnetite và các quặng sắt khác đã được nghiền mịn để sử dụng làm chất màu (Chương 32).",
+    "en": "This heading covers the principal iron ores such as red haematite, limonite, magnetite, siderite, and roasted iron pyrites. It also includes iron ores and concentrates with a manganese content of less than 20% calculated on the dry weight (see Explanatory Note to heading 26.02). The heading excludes finely ground magnetite and other finely ground iron ores for use as pigments (Chapter 32)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các quặng chính thường được phân loại trong nhóm này là:\n(a) Hematitte đỏ, bao gồm quặng sắt có ánh kim và martite - sắt oxit - và hematite nâu (minette) - oxit sắt đã hydrate hoá có chứa sắt và canxi carbonate.\n(b) Limonite, sắt oxit đã hydrate hóa\n(c) Magnetite, oxit sắt từ\n(d) Siderite hoặc chalybite, sắt carbonate.\n(e) Sắt pyrite đã nung hoặc xỉ pirit đã hoặc chưa thiêu kết.",
+        "en": "The principal ores generally classified in this heading are:\n(a) Red haematite, including specular iron ore and martite - iron oxides - and brown haematite (minettes) - hydrated iron oxide containing iron and calcium carbonates.\n(b) Limonite, hydrated iron oxide.\n(c) Magnetite, magnetic iron oxide.\n(d) Siderite or chalybite, iron carbonate.\n(e) Roasted iron pyrites or pyrites cinders, whether or not agglomerated."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm quặng sắt và tinh quặng sắt với hàm lượng mangan ít hơn 20% tính theo trọng lượng khô (quặng và tinh quặng làm giàu đã gia nhiệt tới nhiệt độ 105 đến 110°C (xem chú giải nhóm 26.02). Tùy thuộc vào hàm lượng mangan mà các quặng được biết đến như một trong hai quặng sắt chứa mangan hoặc quặng mangan chứa sắt.",
+        "en": "The heading also covers iron ores and concentrates with a manganese content of less than 20 % calculated on the dry weight (the ores and concentrates being heated to a temperature of 105 to 110 °C) (see Explanatory Note to heading 26.02). Depending upon their manganese content, these ores are known either as manganiferous iron ores or as ferruginous manganese ores."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này loại trừ magnetite đã nghiền mịn và các quặng sắt nghiền mịn để sử dụng làm các chất màu (Chương 32).",
+        "en": "The heading excludes finely ground magnetite and other finely ground iron ores for use as pigments (Chapter 32)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Quặng sắt và tinh quặng sắt, trừ pyrite sắt đã nung:",
+        "en": "Iron ores and concentrates, other than roasted iron pyrites:"
+      },
+      "subheading_id": "2601.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa nung kết",
+        "en": "Non-agglomerated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Quặng sắt và tinh quặng sắt, trừ pyrite sắt đã nung:",
+        "en": "Iron ores and concentrates, other than roasted iron pyrites:"
+      },
+      "subheading_id": "2601.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã nung kết",
+        "en": "Agglomerated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2601.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Pyrite sắt đã nung",
+        "en": "Roasted iron pyrites"
+      }
+    }
+  ]
+}

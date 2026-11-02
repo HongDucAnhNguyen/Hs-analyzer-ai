@@ -1,0 +1,190 @@
+{
+  "heading_id": "52.11",
+  "heading_title": {
+    "vi": "Vải dệt thoi từ bông, có hàm lượng bông chiếm đưới 85% tính theo khối lượng, pha chủ yếu hoặc pha duy nhất với xơ sợi nhân tạo, có định lượng trên 200 g/m2.",
+    "en": "Woven fabrics of cotton, containing less than 85 % by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200 g/m2."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm tương tự như nhóm 52.10 (vải dệt thoi từ bông, hàm lượng bông dưới 85%, pha chủ yếu hoặc duy nhất với xơ nhân tạo) nhưng có định lượng trên 200 g/m2. Chú giải chi tiết của nhóm 52.10 được áp dụng tương tự cho các mặt hàng của nhóm này.",
+    "en": "This heading covers products similar to those of heading 52.10 (woven fabrics of cotton, containing less than 85% cotton, mixed mainly or solely with man-made fibres) but weighing more than 200 g/m2. The Explanatory Note to heading 52.10 applies, mutatis mutandis, to the products of this heading."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải chi tiết nhóm 52.10 được áp dụng tương tự với các mặt hàng của nhóm này.",
+        "en": "The Explanatory Note to heading 52.10 applies, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5211.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân điểm",
+        "en": "Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5211.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo dấu nhân",
+        "en": "3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5211.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5211.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã tẩy trắng",
+        "en": "Bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5211.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân điểm",
+        "en": "Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5211.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo dấu nhân",
+        "en": "3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5211.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5211.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân điểm",
+        "en": "Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5211.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải denim",
+        "en": "Denim"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5211.43",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo dấu nhân",
+        "en": "Other fabrics of 3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5211.49",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5211.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm",
+        "en": "Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5211.52",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo dấu nhân",
+        "en": "3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5211.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    }
+  ]
+}

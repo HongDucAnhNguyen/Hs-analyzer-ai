@@ -1,0 +1,46 @@
+{
+  "heading_id": "39.08",
+  "heading_title": {
+    "vi": "Các polyamide dạng nguyên sinh.",
+    "en": "Polyamides in primary forms."
+  },
+  "summary": {
+    "vi": "Nhóm 39.08 bao gồm các polyamide và copolyme của chúng ở dạng nguyên sinh, với các polyamide mạch thẳng được biết đến là nylon. Các sản phẩm này được tạo ra qua quá trình polyme hóa ngưng tụ từ các axit hữu cơ hai bazơ (như axit adipic) với diamin, hoặc từ các axit amin, cũng như qua quá trình polyme hóa chuyển vị của lactam. Các loại polyamide quan trọng trong nhóm này gồm polyamide-6, -11, -12, -6,6, -6,9, -6,10, và -6,12. Nhóm cũng bao gồm các polyamide không mạch thẳng, như sản phẩm ngưng tụ của axit dầu thực vật nhị trùng hóa với amin. Polyamide có đặc tính bền kéo, chống va đập và kháng hóa chất tốt. Chúng được ứng dụng trong ngành dệt, làm nhựa nhiệt dẻo để đúc, chất phủ, chất dính, màng bao gói và sơn bóng. Để phân loại các polyme, copolyme, polyme biến đổi hóa học và polyme pha trộn, cần tham khảo Chú giải Tổng quát của Chương 39.",
+    "en": "Heading 39.08 covers polyamides and their copolymers in primary forms, with linear polyamides known as nylons. These products are created through condensation polymerization from dibasic organic acids (like adipic acid) with diamines, or from amino acids, as well as through rearrangement polymerization of lactams. Important polyamides in this heading include polyamide-6, -11, -12, -6,6, -6,9, -6,10, and -6,12. The heading also includes non-linear polyamides, such as condensation products of dimerised vegetable oil acids with amines. Polyamides exhibit high tensile strength, shock resistance, and good chemical resistance. They are used in the textile industry, as thermoplastics for moulding, coatings, adhesives, packaging films, and lacquers. For the classification of polymers, copolymers, chemically modified polymers, and polymer blends, reference should be made to the General Explanatory Note of Chapter 39."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các polyamide và copolyme của chúng, bao gồm cả polyamide mạch thẳng (nylon) và không mạch thẳng. Chúng được sản xuất bằng phương pháp polyme hóa ngưng tụ (từ axit hữu cơ hai bazơ như axit adipic, axit sebacic với diamin, hoặc từ axit amin như axit 11-aminoundecanoic) hoặc polyme hóa chuyển vị (từ lactam như epsilon-caprolactam). Các loại polyamide quan trọng bao gồm polyamide-6, polyamide-11, polyamide-12, polyamide-6,6, polyamide-6,9, polyamide-6,10, và polyamide-6,12. Polyamide không mạch thẳng bao gồm sản phẩm ngưng tụ của axit dầu thực vật đã nhị trùng hóa với amin. Các sản phẩm này có độ bền kéo, chống va đập và kháng hóa chất cao, được dùng làm vật liệu dệt, nhựa nhiệt dẻo để đúc, chất phủ, chất dính, màng bao gói và sơn bóng. Việc phân loại các polyme, copolyme, polyme biến đổi hóa học và polyme pha trộn cần tham chiếu đến Chú giải Tổng quát của Chương 39.",
+        "en": "This heading covers polyamides and their copolymers, including both linear (nylons) and non-linear polyamides. They are produced by condensation polymerization (from dibasic organic acids like adipic acid, sebacic acid with diamines, or from amino-acids like 11-aminoundecanoic acid) or by rearrangement polymerization (from lactams like epsilon-caprolactam). Important polyamide types include polyamide-6, polyamide-11, polyamide-12, polyamide-6,6, polyamide-6,9, polyamide-6,10, and polyamide-6,12. Non-linear polyamides include condensation products of dimerised vegetable oil acids with amines. These products have high tensile strength, shock resistance, and chemical resistance, and are used as textiles, thermoplastics for moulding, coatings, adhesives, packaging films, and lacquers. The classification of polymers, copolymers, chemically modified polymers, and polymer blends requires reference to the General Explanatory Note of Chapter 39."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3908.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Polyamide-6, -11, -12, -6,6, -6,9, -6,10 hoặc -6,12",
+        "en": "Polyamide-6, -11, -12, -6,6, -6,9, -6,10 or -6,12"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3908.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

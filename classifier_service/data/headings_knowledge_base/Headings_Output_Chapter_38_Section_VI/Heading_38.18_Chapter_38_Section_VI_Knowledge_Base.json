@@ -1,0 +1,21 @@
+{
+  "heading_id": "38.18",
+  "heading_title": {
+    "vi": "Các nguyên tố hóa học đã được kích tạp dùng trong điện tử, ở dạng đĩa, tấm mỏng hoặc các dạng tương tự; các hợp chất hóa học đã được kích tạp dùng trong điện tử.",
+    "en": "Chemical elements doped for use in electronics, in the form of discs, wafers or similar forms; chemical compounds doped for use in electronics."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm: (1) Các nguyên tố hóa học thuộc Chương 28 (ví dụ, silic và selen) đã được kích tạp, với điều kiện chúng ở dạng đĩa, tấm mỏng hoặc các dạng tương tự. Nếu ở dạng chưa gia công, hình trụ hoặc que thì chúng được phân loại vào Chương 28. (2) Các hợp chất hóa học (ví dụ, cadimi selenide, indium arsenide) đã được kích tạp dùng trong điện tử, ở bất kỳ dạng nào. Nhóm này bao gồm các hợp chất trên ở dạng tinh thể, đã hoặc chưa được đánh bóng, có hoặc không được phủ với một lớp epitaxi đồng nhất. Nhóm này loại trừ các hợp chất được gia công toàn diện hơn (ví dụ, bởi các quá trình khuyếch tán chọn lọc), chúng thuộc nhóm 85.41.",
+    "en": "This heading covers: (1) Chemical elements of Chapter 28 (e.g., silicon and selenium) doped, provided they are in the form of discs, wafers or similar forms. When in unworked forms, cylinders or rods, they are classified in Chapter 28. (2) Chemical compounds (e.g., cadmium selenide, indium arsenide) doped for use in electronics, in any form. The heading covers such crystals, polished or not, whether or not coated with a uniform epitaxial layer. It excludes those more extensively worked (e.g., by selective diffusion), which fall in heading 85.41."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Các nguyên tố hóa học thuộc Chương 28 (ví dụ, silic và selen) kích tạp, bởi Bo hoặc phospho chẳng hạn, thường theo tỷ lệ yêu cầu là một phần triệu, với điều kiện là chúng ở dạng đĩa, tấm mỏng hoặc các dạng tương tự. Khi chúng ở dạng chưa gia công như được kéo ra, hoặc ở dạng hình trụ hoặc hình que, thì chúng được phân loại vào Chương 28.\n(2) Các hợp chất hóa học như cadimi selenide và sulphide; indium arsenide,..., chứa một số phụ gia (ví dụ, germanium, iodine), thông thường ở tỷ lệ vài phần trăm, với ý định sử dụng chúng trong ngành điện tử, bất kỳ chúng ở dạng hình trụ, hình que,..., hoặc cắt thành đĩa, tấm mỏng hoặc các dạng tương tự.\nNhóm này bao gồm các hợp chất trên ở dạng tinh thể, đã hoặc chưa được đánh bóng, có hoặc không được phủ với một lớp epitaxi đồng nhất.\nNhững hợp chất được gia công toàn diện hơn (ví dụ, bởi các quá trình khuyếch tán chọn lọc) được đưa vào nhóm 85.41 như các thiết bị bán dẫn.",
+        "en": "This heading covers:\n(1) The chemical elements of Chapter 28 (for example, silicon and selenium) doped with, for example, boron or phosphorus, generally in a proportion of the order of one part per million, provided they are in the form of discs, wafers or similar forms. When in forms unworked as drawn, or in the form of cylinders or rods, they are classified in Chapter 28.\n(2) Chemical compounds such as cadmium selenide and sulphide, indium arsenide, etc., containing certain additives (e.g., germanium, iodine) generally in a proportion of a few per cent, with a view to their use in electronics, whether in the form of cylinders, rods, etc., or cut into discs, wafers or similar forms.\nThe heading covers such crystals, polished or not, whether or not coated with a uniform epitaxial layer.\nThose more extensively worked (e.g., by selective diffusion) fall in heading 85.41 as semiconductor devices."
+      }
+    }
+  ],
+  "subheadings": []
+}

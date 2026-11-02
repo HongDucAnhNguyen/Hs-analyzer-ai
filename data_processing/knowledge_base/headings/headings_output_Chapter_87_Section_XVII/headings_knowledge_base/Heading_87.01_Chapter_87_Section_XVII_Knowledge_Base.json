@@ -1,0 +1,271 @@
+{
+  "heading_id": "87.01",
+  "heading_title": {
+    "vi": "Xe kéo (trừ xe kéo thuộc nhóm 87.09) (+).",
+    "en": "Tractors (other than tractors of heading 87.09) (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 87.01 bao gồm các loại xe kéo bánh hơi hoặc bánh xích, được chế tạo chủ yếu để kéo hoặc đẩy các phương tiện, thiết bị, hoặc vật nặng khác. Các xe này có thể sử dụng bất kỳ phương thức đẩy nào và có thể được trang bị các thiết bị phụ trợ cho vận tải hoặc lắp công cụ lao động. Nhóm này bao gồm xe kéo nông nghiệp, lâm nghiệp, đường bộ, xây dựng, tời kéo, máy kéo trục đơn và xe kéo có khung gầm nâng cao. Tuy nhiên, nhóm này loại trừ xe kéo sử dụng ở sân ga đường sắt (nhóm 87.09), xe cứu hộ (nhóm 87.05), và các bộ phận đẩy (propelling bases) là một phần không thể tách rời của các máy móc thuộc các nhóm 84.25, 84.26, 84.29, 84.30 và 84.32. Các công cụ lao động có thể lắp lẫn như cày, bừa được phân loại riêng ngay cả khi được trình bày cùng xe kéo. Chú giải phân nhóm làm rõ định nghĩa 'xe kéo đường bộ' (phân nhóm 8701.21 đến 8701.29) và phân biệt chúng với xe kéo dùng trong phạm vi hẹp (phân nhóm 8701.91 đến 8701.95).",
+    "en": "Heading 87.01 covers wheeled or track-laying tractors, primarily constructed for hauling or pushing other vehicles, appliances, or loads. These vehicles can have any mode of propulsion and may be equipped with subsidiary provisions for transport or for fitting working tools. This heading includes agricultural, forestry, road, and construction tractors, winch tractors, single axle tractors, and straddle-type tractors. However, it excludes tractors used on railway station platforms (heading 87.09), motor breakdown lorries (heading 87.05), and propelling bases that form an integral part of machinery from headings 84.25, 84.26, 84.29, 84.30, and 84.32. Interchangeable working tools like ploughs and harrows are classified separately even when presented with the tractor. Subheading notes clarify the definition of 'road tractors' (subheadings 8701.21 to 8701.29) and distinguish them from tractors for short-distance hauling (subheadings 8701.91 to 8701.95)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo mục đích của nhóm này, xe kéo là những xe chạy bằng bánh hơi hoặc bánh xích được chế tạo chủ yếu để kéo hoặc đẩy một phương tiện, thiết bị hoặc vật nặng khác. Chúng có thể có thiết bị phụ trợ để vận chuyển dụng cụ, hạt nông sản, phân bón hoặc để lắp với dụng cụ sản xuất như một chức năng phụ.",
+        "en": "For the purposes of this heading, tractors means wheeled or track-laying vehicles constructed essentially for hauling or pushing another vehicle, appliance or load. They may contain subsidiary provision for the transport of tools, seeds, fertilisers or other goods, or for fitting with working tools as a subsidiary function."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm bộ phận đẩy (propelling bases) được thiết kế, chế tạo hoặc gia cố để tạo thành một bộ phận bên trong của một loại máy thực hiện chức năng như nâng hạ, đào xúc hoặc san lấp, ngay cả khi bộ phận đẩy đó sử dụng sức kéo hoặc đẩy để thực hiện chức năng này.",
+        "en": "The heading does not cover propelling bases specially designed, constructed or reinforced to form an integral part of a machine performing a function such as lifting, excavating, levelling, etc., even if the propelling base uses traction or propulsion for the execution of this function."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm xe kéo các loại (máy kéo nông nghiệp, lâm nghiệp, đường bộ, xây dựng, tời kéo) sử dụng bất kỳ phương thức đẩy nào (động cơ đốt trong, động cơ điện). Nhóm này cũng bao gồm xe kéo có thể sử dụng cả trên đường ray và trên bộ, nhưng không bao gồm những xe được thiết kế riêng để sử dụng trên đường ray. Loại trừ các xe kéo sử dụng ở sân ga đường sắt thuộc nhóm 87.09.",
+        "en": "The heading covers tractors of various types (tractors for agricultural or forestry work, road tractors, heavy duty tractors for constructional engineering work, winch tractors, etc.), whatever their mode of propulsion (internal combustion piston engine, electric motor, etc.). It also includes tractors which can be used both on rails and on road, but not those which are designed exclusively for use on rails. Tractors of the type used on railway station platforms are excluded (heading 87.09)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các xe kéo có thể có thân xe, ghế ngồi cho tổ lái hoặc buồng lái. Chúng có thể được trang bị hòm dụng cụ, thiết bị để nâng hạ dụng cụ nông nghiệp, thiết bị móc nối để kéo rơ moóc hoặc sơ mi rơ moóc, hoặc một bộ phận truyền động lực để chạy các máy như máy đập lúa, máy cưa đĩa.",
+        "en": "The tractors of this heading may be fitted with coachwork, seats for the crew or a driving cab. They may be equipped with a tool box, provision for raising and lowering agricultural implements, a coupling device for trailers or semi-trailers, or a power take-off for driving machines such as threshers and circular saws."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Khung gầm của xe kéo có thể được lắp trên bánh hơi, bánh xích sắt, hoặc cả bánh hơi và bánh sắt. Trong trường hợp kết hợp, chỉ có trục lái phía trước được lắp với bánh hơi.",
+        "en": "The chassis of a tractor may be mounted on wheels, on tracks or on a combination of wheels and tracks. In the latter case, only the front steering axle is fitted with wheels."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm các máy kéo trục đơn, là các xe kéo nhỏ dùng trong nông nghiệp hoặc công nghiệp có một trục điều khiển đơn lắp trên một hoặc hai bánh xe. Chúng thường không có ghế và được điều khiển bằng hai tay cầm, nhưng một số loại có thể có thùng phía sau lắp ghế.",
+        "en": "This heading also covers single axle tractors. These are small agricultural or industrial tractors with a single driving axle on one or two wheels. They are not usually fitted with a seat and steering is by two handles, though some types may have a rear carriage with a seat."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các xe kéo có trang bị tời kéo (để kéo xe bị sa lầy, nhổ cây) và các xe kéo có khung gầm nâng cao (stilt tractors) dùng trong ruộng nho và trồng rừng.",
+        "en": "The heading includes tractors fitted with winches (e.g., for hauling bogged-down vehicles, up-rooting trees) and straddle-type tractors (stilt tractors) used in vineyards and forestry plantations."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này loại trừ các xe cứu hộ có trang bị cần cẩu, bộ nâng, tời kéo (nhóm 87.05).",
+        "en": "The heading excludes motor breakdown lorries equipped with cranes, lifting tackle, winches, etc. (heading 87.05)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Quy tắc phân loại xe kéo được lắp với máy móc khác: Các máy nông nghiệp (cày, bừa, cuốc) và các công cụ lao động công nghiệp có thể lắp lẫn được phân loại trong nhóm tương ứng của chúng, ngay cả khi được trình bày cùng với xe kéo. Xe kéo được phân loại riêng trong nhóm này.",
+        "en": "Rule for tractors fitted with other machinery: Interchangeable agricultural machines (ploughs, harrows, hoes) and industrial working tools are classified in their respective headings, even if presented with the tractor. The tractive unit is classified separately in this heading."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Đối với xe ô tô tải có khớp nối, xe kéo gắn với sơ mi rơ moóc hoặc máy móc thuộc Chương 84, phần máy kéo được xếp vào nhóm này trong khi sơ mi rơ moóc hoặc máy móc được xếp vào nhóm thích hợp của nó.",
+        "en": "In the case of articulated motor lorries, tractors coupled to semi-trailers or to working machines of Chapter 84, the hauling element is classified in this heading whereas the semi-trailer or the working machine is classified in its appropriate heading."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này không bao gồm các bộ phận đẩy (propelling bases) của máy móc thuộc các nhóm 84.25, 84.26, 84.29, 84.30 và 84.32, trong đó bộ phận đẩy và các công cụ lao động được thiết kế để lắp ráp thành một tổ hợp máy đồng bộ (ví dụ: máy xúc, máy ủi, máy cày có động cơ).",
+        "en": "This heading does not cover the propelling bases of machines referred to in headings 84.25, 84.26, 84.29, 84.30 and 84.32, in which the propelling base and the working tools are designed to form an integral mechanical unit (e.g., loaders, bulldozers, motorised ploughs)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải phân nhóm 8701.10: Áp dụng chú giải của nhóm 87.01, đoạn 6 và 7, liên quan đến máy kéo trục đơn.",
+        "en": "Subheading Explanatory Note 8701.10: See the Explanatory Note to heading 87.01, sixth and seventh paragraphs, concerning single axle tractors."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải các phân nhóm từ 8701.21 đến 8701.29: 'Xe kéo đường bộ' là xe có động cơ được thiết kế để kéo sơ mi rơ moóc qua quãng đường dài. Chúng thường có động cơ diesel, tốc độ cao, buồng lái kín cho người lái và hành khách, và được trang bị khớp nối cho phép chuyển đổi nhanh các sơ mi rơ moóc.",
+        "en": "Explanatory Notes to Subheadings 8701.21 to 8701.29: 'Road tractors' refers to motor vehicles designed to haul semi-trailers over long distances. They usually have diesel engines, can be driven at high speeds, have a closed cab for driver and passengers, and are equipped with a fifth wheel coupling for rapid change of semi-trailers."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Loại trừ khỏi các phân nhóm 8701.21 đến 8701.29 là các xe tương tự được sử dụng để chuyên chở sơ mi rơ moóc trong phạm vi hẹp (thường được phân loại vào các phân nhóm 8701.91 đến 8701.95).",
+        "en": "Excluded from subheadings 8701.21 to 8701.29 are similar vehicles used to haul semi-trailers over short distances (generally classified in subheadings 8701.91 to 8701.95)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Chú giải phân nhóm 8701.30: Phân nhóm này bao gồm cả các xe kéo kiểu liên hợp có cả bánh hơi và bánh xích.",
+        "en": "Subheading Explanatory Note 8701.30: This subheading also covers tractors with a combination of wheels and tracks."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Chú giải các phân nhóm 8701.91 đến 8701.95: Bao gồm các xe dùng kéo sơ mi rơ moóc trong phạm vi hẹp (ví dụ: xe kéo trong nhà ga, sân bay, cảng). Chúng được phân biệt với xe kéo đường bộ bởi tốc độ tối đa thường không quá 50km/h và thường có ca-bin nhỏ một ghế.",
+        "en": "Explanatory Notes to Subheadings 8701.91 to 8701.95: These subheadings include vehicles used to haul semi-trailers over short distances (e.g., terminal tractors, port tractors). They are distinguished from road tractors by having a maximum speed normally not exceeding 50 km/h and generally a small, single-seat enclosed cab."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8701.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Máy kéo trục đơn:",
+        "en": "- Single axle tractors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Ô tô đầu kéo dùng để kéo sơ mi rơ moóc:",
+        "en": "Road tractors for semi-trailers:"
+      },
+      "subheading_id": "8701.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại chỉ sử dụng động cơ đốt trong kiểu piston cháy do nén (diesel hoặc bán diesel)",
+        "en": "- - With only compression-ignition internal combustion piston engine (diesel or semi-diesel)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Ô tô đầu kéo dùng để kéo sơ mi rơ moóc:",
+        "en": "Road tractors for semi-trailers:"
+      },
+      "subheading_id": "8701.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại kết hợp động cơ đốt trong kiểu piston cháy do nén (diesel hoặc bán diesel) và động cơ điện để tạo động lực",
+        "en": "- - With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Ô tô đầu kéo dùng để kéo sơ mi rơ moóc:",
+        "en": "Road tractors for semi-trailers:"
+      },
+      "subheading_id": "8701.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại kết hợp động cơ đốt trong kiểu piston đốt cháy bằng tia lửa điện và động cơ điện để tạo động lực",
+        "en": "- - With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Ô tô đầu kéo dùng để kéo sơ mi rơ moóc:",
+        "en": "Road tractors for semi-trailers:"
+      },
+      "subheading_id": "8701.24",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại chỉ sử dụng động cơ điện để tạo động lực",
+        "en": "- - With only electric motor for propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Ô tô đầu kéo dùng để kéo sơ mi rơ moóc:",
+        "en": "Road tractors for semi-trailers:"
+      },
+      "subheading_id": "8701.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8701.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Xe kéo bánh xích",
+        "en": "- Track-laying tractors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, có công suất máy:",
+        "en": "Other, of an engine power :"
+      },
+      "subheading_id": "8701.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Không quá 18 kW",
+        "en": "- - Not exceeding 18 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, có công suất máy:",
+        "en": "Other, of an engine power :"
+      },
+      "subheading_id": "8701.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trên 18 kW nhưng không quá 37 kW",
+        "en": "- - Exceeding 18 kW but not exceeding 37 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, có công suất máy:",
+        "en": "Other, of an engine power :"
+      },
+      "subheading_id": "8701.93",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trên 37 kw nhưng không quá 75 kW",
+        "en": "- - Exceeding 37 kW but not exceeding 75 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, có công suất máy:",
+        "en": "Other, of an engine power :"
+      },
+      "subheading_id": "8701.94",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trên 75 kW nhưng không quá 130 kW",
+        "en": "- - Exceeding 75 kW but not exceeding 130 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, có công suất máy:",
+        "en": "Other, of an engine power :"
+      },
+      "subheading_id": "8701.95",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trên 130 kW",
+        "en": "- - Exceeding 130 kW"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "heading_id": "85.42",
+  "heading_title": {
+    "vi": "Mạch điện tử tích hợp.",
+    "en": "Electronic integrated circuits."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các mạch điện tử tích hợp được định nghĩa tại Chú giải 12 (b) của Chương 85. Các mạch này là các linh kiện có mật độ phần tử chủ động và bị động cao, được xem là một đơn vị duy nhất. Chúng bao gồm bốn loại chính: (I) Mạch tích hợp đơn khối, (II) Mạch tích hợp lai, (III) Mạch tích hợp đa chíp, và (IV) Mạch tích hợp đa thành phần (MCOs). MCOs là sự kết hợp của một hoặc nhiều mạch tích hợp với các thành phần như cảm biến, cơ cấu chấp hành, bộ dao động, bộ cộng hưởng nền silic, hoặc các thành phần thuộc nhóm 85.32, 85.33, 85.41, hoặc cuộn cảm thuộc nhóm 85.04.\n\nNhóm này không bao gồm:\n- Các mạch điện tử chỉ chứa các bộ phận bị động.\n- Các mạch phim chỉ có bộ phận bị động (nhóm 85.34).\n- Các thiết bị lưu trữ không xóa ở thể rắn, \"thẻ thông minh\" và các phương tiện ghi khác (nhóm 85.23 và Chú giải 6 của Chương này).\n- Các bộ lắp ráp như module nhớ (ví dụ: SIMM, DIMM) được phân loại theo Chú giải 2 của Phần XVI.\n- Các bộ lắp ráp khác được hình thành bằng cách gắn các thành phần rời rạc lên một đế đỡ, hoặc kết hợp các mạch tích hợp với các thành phần không được đề cập trong Chú giải 12 (b) (iv) (ví dụ: máy biến áp nhóm 85.04, nam châm nhóm 85.05).",
+    "en": "This heading covers electronic integrated circuits as defined in Note 12 (b) to Chapter 85. These circuits are devices with a high density of active and passive elements, regarded as a single unit. They include four main types: (I) Monolithic integrated circuits, (II) Hybrid integrated circuits, (III) Multichip integrated circuits, and (IV) Multi-component integrated circuits (MCOs). MCOs are combinations of one or more integrated circuits with components such as silicon-based sensors, actuators, oscillators, resonators, or components of heading 85.32, 85.33, 85.41, or inductors of heading 85.04.\n\nThis heading excludes:\n- Electronic circuits containing only passive elements.\n- Film circuits consisting solely of passive elements (heading 85.34).\n- Solid-state non-volatile storage devices, \"smart cards\" and other recording media (heading 85.23 and Note 6 to this Chapter).\n- Assemblies such as memory modules (e.g., SIMMs, DIMMs), which are classified by application of Note 2 to Section XVI.\n- Other assemblies formed by mounting discrete components on a support, or by combining integrated circuits with components not mentioned in Note 12 (b) (iv) (e.g., transformers of heading 85.04, magnets of heading 85.05)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các mặt hàng thuộc nhóm này được xác định tại Chú giải 12 (b) của Chương này.\nCác mạch điện tử tích hợp là các linh kiện có một bộ phận chủ động và một bộ phận bị động cao hoặc mật độ các phần tử cao, được xem như là đơn vị duy nhất. Tuy nhiên, các mạch điện tử chỉ có các bộ phận bị động thì bị loại khỏi nhóm này.",
+        "en": "The articles of this heading are defined in Note 12 (b) to the Chapter.\nElectronic integrated circuits are devices having a high passive and active element or component density, which are regarded as single units. However, electronic circuits containing only passive elements are excluded from this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Không giống như mạch điện tử tích hợp, các thành phần rời rạc có thể có một chức năng điện chủ động duy nhất (thiết bị bán dẫn được quy định trong chú giải 12 (a) Chương 85) hoặc một chức năng điện bị động duy nhất (điện trở, tụ điện, cuộn cảm,…). Các thành phần rời rạc không thể phân chia và là các thành phần cấu trúc điện tử cơ bản trong một hệ thống. Tuy nhiên, các thành phần bao gồm một vài các yếu tố mạch điện và có nhiều chức năng điện, như là mạch tích hợp, không được xem như thành phần rời rạc.\nMạch tích hợp điện tử bao gồm các bộ nhớ (ví dụ, DRAMS, SRAMs, PROMS, EPROMS, EEPROMS (hoặc E2PROMS)), vi điều khiển, mạch điều khiển, mạch logic, mảng cổng, mạch giao diện,….\nMạch tích hợp điện tử bao gồm:\n(I) Các mạch tích hợp đơn khối.\nCác mạch tích hợp đơn khối là các vi mạch, trong đó các linh kiện của mạch (điốt, transistor, điện trở, tụ điện, cuộn cảm, v.v...) đều được tạo thành một khối (là chủ yếu) và trên bề mặt của vật liệu bán dẫn và do đó, chúng được kết hợp lại thành một thể thống nhất. Các mạch tích hợp đơn khối có thể dưới dạng kỹ thuật số, tuyến tính (tín hiệu tương tự) hoặc kỹ thuật số - tương tự.\nCác mạch tích hợp đơn khối có thể được trình bày:\n(i) Đã lắp ráp có nghĩa là các mối nối hoặc chân đã hoặc chưa được đóng vào vỏ gốm, kim loại hoặc nhựa.\n(ii) Ở dạng chưa lắp ráp, nghĩa là các chíp, thường là hình chữ nhật, với các cạnh thường chỉ vài millimét.\n(iii) Ở dạng nguyên tấm (nghĩa là vẫn chưa cắt thành các chíp riêng rẽ).\nCác mạch tích hợp đơn khối bao gồm:\n(i) Các bán dẫn bằng ô xít kim loại (công nghệ MOS).\n(ii) Các mạch tích hợp dựa trên công nghệ lưỡng cực.\n(iii) Các mạch tích hợp dựa trên sự kết hợp các công nghệ MOS và lưỡng cực (công nghệ BIMOS).",
+        "en": "Unlike electronic integrated circuits, discrete components may have a single active electrical function (semiconductor devices defined by Note 12 (a) to Chapter 85) or a single passive electrical function (resistors, capacitors, inductances, etc.). Discrete components are indivisible and are the basic electronic construction components in a system. However, components consisting of several electric circuit elements and having multiple electrical functions, such as integrated circuits, are not considered as discrete components.\nElectronic integrated circuits include memories (e.g., DRAMS, SRAMs, PROMS, EPROMS, EEPROMS (or E2PROMS)), microcontrollers, control circuits, logic circuits, gate arrays, interface circuits, etc.\nElectronic integrated circuits include:\n(I) Monolithic integrated circuits.\nThese are microcircuits in which the circuit elements (diodes, transistors, resistors, capacitors, inductances, etc.) are created in the mass (essentially) and on the surface of a semiconductor material (doped silicon, for example) and are therefore inseparably associated. Monolithic integrated circuits may be digital, linear (analogue) or digital-analogue.\nMonolithic integrated circuits may be presented:\n(i) Mounted, i.e., with their terminals or leads, whether or not encased in ceramic, metal or plastics.\n(ii) Unmounted, i.e., as chips, usually rectangular, with sides generally measuring a few millimetres.\n(iii) In the form of undiced wafers (i.e., not yet cut into chips).\nMonolithic integrated circuits include:\n(i) Metal oxide semiconductors (MOS technology).\n(ii) Circuits obtained by bipolar technology.\n(iii) Circuits obtained by a combination of bipolar and MOS technologies (BIMOS technology)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(II) Các mạch tích hợp lai.\nChúng là những vi mạch được chế tạo trên một đế cách điện, trên đó có các mạch phim mỏng hoặc dày được hình thành. Quá trình này cho phép tạo ra các bộ phận bị động (điện trở, tụ điện, cuộn cảm, v.v...) cùng một lúc. Tuy nhiên, để tạo thành một mạch lai như trong nhóm này, các chất bán dẫn phải được kết hợp và được gắn trên cùng một bề mặt, dưới dạng các chip, có hoặc không bọc, hoặc như các bán dẫn bọc vỏ. Các mạch tích hợp lai có thể có các bộ phận bị động được tạo ra riêng rẽ được gắn trên cùng một mạch phim cơ sở theo cùng một cách như các chất bán dẫn. Các phần tử tạo thành mạch tích hợp lai phải được kết hợp như một thể thống nhất.\n(III) Mạch tích hợp đa chíp.\nNhững mạch này gồm hai hay nhiều mạch tích hợp đơn khối nối lẫn với nhau kết hợp để như một thể thống nhất, có hay không trên một hoặc nhiều chất nền cách điện, có hoặc không có khung chân nối, nhưng không có các bộ phận mạch chủ động hoặc bị động khác. Mạch tích hợp đa chíp nói chung có cấu tạo như sau: hai hoặc nhiều hơn mạch tích hợp đơn khối được gắn bên nhau; hai hay nhiều mạch tích hợp đơn khối xếp chồng lên nhau; hoặc kết hợp các kiểu trên. Các mạch tích hợp đơn khối này được kết hợp và nối lẫn trong cùng một thể và được kết hợp như một thể thống nhất.",
+        "en": "(II) Hybrid integrated circuits.\nThese are microcircuits built up on an insulating substrate on which a thin or thick film circuit has been formed. This process allows certain passive elements (resistors, capacitors, inductances, etc.) to be produced at the same time. However, to become a hybrid integrated circuit of this heading, semiconductors must be incorporated and mounted on the surface, either in the form of chips, whether or not encased, or as encased semiconductors. Hybrid integrated circuits may also contain separately produced passive elements which are incorporated into the basic film circuit in the same way as the semiconductors. The components forming a hybrid integrated circuit must be combined to all intents and purposes indivisibly.\n(III) Multichip integrated circuits.\nThese consist of two or more interconnected monolithic integrated circuits combined to all intents and purposes indivisibly, whether or not on one or more insulating substrates, with or without leadframes, but with no other active or passive circuit elements. Multichip integrated circuits generally come in the following configurations: two or more monolithic integrated circuits mounted side by side; two or more monolithic integrated circuits stacked one upon the other; or combinations of the configurations above. These monolithic integrated circuits are combined and interconnected into a single body and are combined to all intents and purposes indivisibly."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(IV) Mạch tích hợp đa thành phần (MCOs).\nMạch tích hợp đa thành phần là sự kết hợp của mạch với các thành phần được nêu ở Chú giải 12 (b) (iv) của Chương này. Mạch tích hợp đa thành phần (MCOs) là sự kết hợp của một hoặc nhiều mạch tích hợp đơn khối, lai hoặc đa chíp có ít nhất một trong những thành phần sau: cảm biến, cơ cấu chấp hành, bộ dao động, bộ cộng hưởng nền silic, và kết hợp giữa chúng, hoặc một hay nhiều thành phần thực hiện chức năng của hàng hóa thuộc nhóm 85.32, 85.33, 85.41, hoặc cuộn cảm thuộc nhóm 85.04.\nTất cả các đơn vị riêng biệt không được phân loại trong nhóm 85.04, 85.32, 85.33, 85.41 hoặc không nằm trong định nghĩa của cảm biến, cơ cấu chấp hành, bộ dao động, bộ cộng hưởng nền silic và các kết hợp của chúng được loại trừ khỏi định nghĩa của mạch tích hợp đa thành phần (MCO) (ví dụ, máy biến điện (nhóm 85.04) hoặc nam châm (nhóm 85.05)).\nMạch tích hợp và các bộ phận cấu thành mạch tích hợp đa thành phần (MCO) kết hợp và kết nối về mặt vật lý, điện tử hoặc quang học thành một bộ phận đơn nhất. Các bộ phận này phải được kết hợp như một thể thống nhất.",
+        "en": "(IV) Multi component integrated circuits (MCOs).\nThese are combinations of the circuits and elements mentioned in Note 12 (b) (iv) to this Chapter. Multi-component integrated circuits (MCOs) are a combination of one or more monolithic, hybrid, or multi-chip integrated circuits with either silicon based sensors, actuators, oscillators, resonators and combinations thereof, or one or more components performing the functions of articles classifiable under heading 85.32, 85.33, 85.41 or inductors classifiable under heading 85.04.\nAll separate (tradeable) units, which are not classifiable under 85.04, 85.32, 85.33, 85.41 or which do not fall under the definition of silicon based sensors, actuators, resonators, oscillators and combinations thereof are excluded from the definition of an MCO (e.g., transformers (heading 85.04) or magnets (heading 85.05)).\nThe integrated circuits and components forming a MCO are combined and interconnected physically, electrically or optically into or onto a single body. The components must be combined to all intents and purposes indivisibly."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Mạch này được sử dụng trong nhiều ứng dụng, kể cả máy tính, thông tin (ví dụ như điện thoại mạng tế bào), tiêu dùng, công nghiệp hoặc công nghiệp ô tô.\nNhóm này không bao gồm các mạch phim chỉ có bộ phận bị động (nhóm 85.34).\nNhóm này không gồm các thiết bị lưu trữ không xóa ở thể rắn, “các thẻ thông minh” và các phương tiện khác dùng để ghi âm hoặc các hiện tượng khác (xem nhóm 85.23 và Chú giải 6 Chương này).\nNgoại trừ sự kết hợp (không thể chia tách) được đề cập đến trong Phần (II), (III) và (IV) ở trên liên quan đến hệ thống mạch lai, mạch tích hợp đa chip và mạch tích hợp đa thành phần (MCOs), phân nhóm này cũng không bao gồm các yếu tố tạo thành bởi:\n(a) Gắn kết một hoặc nhiều thành phần rời rạc trên một nền đỡ, ví dụ, được tạo nên bởi một mạch in;\n(b) Thêm một hoặc nhiều thiết bị khác, chẳng hạn như điốt, máy biến điện, hoặc điện trở vào một vi mạch điện tử;\n(c) Kết hợp của các thành phần rời rạc hoặc kết hợp của vi mạch điện tử trừ loại mạch tích hợp đa chip hoặc đa thành phần;\n(d) Kết hợp một hoặc nhiều mạch tích hợp đơn khối, lai, đa chíp hoặc đa thành phần có các thành phần không được đề cập trong Chú giải 12 (b) (iv) của Chương này (ví dụ, máy biến điện (nhóm 85.04) hoặc nam châm (nhóm 85.05)).",
+        "en": "They can be used in a variety of applications, including computer, communication (e.g., telephones for cellular networks), consumer, industrial or automotive applications.\nThe heading excludes film circuits consisting solely of passive elements (heading 85.34).\nThis heading does not include solid-state non-volatile storage devices, “smart cards” and other media for the recording of sound or of other phenomena (see heading 85.23 and Note 6 to this Chapter)).\nExcept for the combinations (to all intents and purposes indivisible) referred to in Parts (II), (III) and (IV) above concerning hybrid integrated circuits, multichip integrated circuits and multi component integrated circuits (MCOs), the heading also excludes assemblies formed by:\n(a) Mounting one or more discrete components on a support formed, for example, by a printed circuit;\n(b) Adding one or more other devices, such as diodes, transformers, or resistors to an electronic microcircuit;\n(c) Combinations of discrete components or combinations of electronic microcircuits other than multichip-type or multi-component-type integrated circuits; or by\n(d) Combinations of one or more monolithic, hybrid, multi-chip, or multi-component integrated circuits with components not mentioned in Note 12 (b) (iv) to this Chapter (e.g., transformers (heading 85.04) or magnets (heading 85.05)).”"
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Các lắp ráp này được phân loại như sau:\n(i) Các phần lắp ráp mà tạo thành máy hoặc thiết bị hoàn chỉnh (hoặc được phân loại như sản phẩm hoàn chỉnh), vào nhóm tương ứng với máy hoặc thiết bị đó;\n(ii) Các lắp ráp khác theo điều khoản phân loại bộ phận của máy (đặc biệt Chú giải 2 (b) và 2 (c) Phần XVI).\nĐặc biệt, đây là trường hợp phân loại cho một số module nhớ điện tử (ví dụ, SIMMs (Single In-line Memory Modules) và DIMMs (Dual In-line Memory Modules)). Các module này được phân loại bằng việc áp dụng Chú giải 2 Phần XVI. (Xem Chú giải tổng quát Chương này).\n\nBỘ PHẬN\nTheo quy tắc chung về phân loại bộ phận (xem Chú giải tổng quát Phần XVI), bộ phận của hàng hóa thuộc nhóm này cũng được phân loại ở đây.",
+        "en": "Such assemblies are classified as follows:\n(i) Assemblies which constitute a complete machine or appliance (or one classified as complete), in the heading appropriate to the machine or appliance;\n(ii) Other assemblies, in accordance with the provisions for the classification of machine parts (Notes 2 (b) and 2 (c) to Section XVI, in particular).\nThis is the case, in particular, for certain electronic memory modules (e.g., SIMMs (Single In-line Memory Modules) and DIMMs (Dual In-line Memory Modules)). Those modules are to be classified by application of Note 2 to Section XVI. (See the General Explanatory Note to this Chapter).\n\nPARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the goods of this heading are classified here."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Mạch điện tử tích hợp:",
+        "en": "Electronic integrated circuits:"
+      },
+      "subheading_id": "8542.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đơn vị xử lý và đơn vị điều khiển, có hoặc không kết hợp với bộ nhớ, bộ chuyển đổi, mạch logic, khuếch đại, đồng hồ thời gian và mạch định giờ, hoặc các mạch khác",
+        "en": "Processors and controllers, whether or not combined with memories, converters, logic circuits, amplifiers, clock and timing circuits, or other circuits"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Mạch điện tử tích hợp:",
+        "en": "Electronic integrated circuits:"
+      },
+      "subheading_id": "8542.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ nhớ",
+        "en": "Memories"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Mạch điện tử tích hợp:",
+        "en": "Electronic integrated circuits:"
+      },
+      "subheading_id": "8542.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Mạch khuếch đại",
+        "en": "Amplifiers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Mạch điện tử tích hợp:",
+        "en": "Electronic integrated circuits:"
+      },
+      "subheading_id": "8542.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8542.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

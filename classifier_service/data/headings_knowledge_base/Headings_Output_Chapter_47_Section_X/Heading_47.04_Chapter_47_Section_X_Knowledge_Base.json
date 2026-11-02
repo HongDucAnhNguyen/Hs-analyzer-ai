@@ -1,0 +1,77 @@
+{
+  "heading_id": "47.04",
+  "heading_title": {
+    "vi": "Bột giấy hoá học từ gỗ, sản xuất bằng phương pháp sulphite, trừ loại hòa tan.",
+    "en": "Chemical wood pulp, sulphite, other than dissolving grades."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bột giấy hóa học từ gỗ sản xuất bằng phương pháp sulphite, không bao gồm loại hòa tan. Quy trình này thường sử dụng dung dịch axit và các hóa chất 'sulphite' như canxi bisulphite, magiê bisulphite, natri bisulphite, hoặc amoni bisulphite (tham chiếu Chú giải chi tiết của nhóm 47.02). Bột giấy sulphite được sử dụng, một mình hoặc trộn lẫn, để sản xuất giấy viết, giấy in, giấy không thấm mỡ hoặc giấy bóng trong suốt.",
+    "en": "This heading covers chemical wood pulp produced by the sulphite process, other than dissolving grades. This process generally employs an acid solution and various 'sulphite' chemicals like calcium bisulphite, magnesium bisulphite, sodium bisulphite, or ammonium bisulphite (see the Explanatory Note to heading 47.02). Sulphite pulp is used, alone or mixed, for various writing or printing papers, as well as for greaseproof or glazed transparent papers."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Quy trình sulphite thông thường sử dụng một dung dịch axit và có tên từ các chất hóa học \"sulphite\" khác nhau, như canxi bisulphite (canxi hydrogen sulphite), magiê bisulphite (magiê hydrogen sulphite), natri bisulphite (natri hydrogen sulphite), amoni bisulphite (amoni hydrogen sulphite), chúng có thể được dùng trong suốt quá trình điều chế chất lỏng để nấu (xem Chú giải chi tiết của nhóm 47.02).",
+        "en": "The sulphite process generally employs an acid solution and takes its name from the various “ sulphite ” chemicals, such as calcium bisulphite (calcium hydrogen sulphite), magnesium bisulphite (magnesium hydrogen sulphite), sodium bisulphite (sodium hydrogen sulphite), ammonium bisulphite (ammonium hydrogen sulphite), which may be used during the preparation of the cooking liquor (see the Explanatory Note to heading 47.02)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Dung dịch này cũng có thể chứa lưu huỳnh dioxide gốc tự do. Quy trình này thường được sử dụng rộng rãi để xử lý sợi của gỗ vân sam.\nBột giấy sản xuất bằng phương pháp sunphite được sử dụng, một mình hoặc trộn lẫn với các bột giấy khác, cho giấy viết hoặc giấy in khác nhau... Nó cũng được dùng, không kể những cái khác, để sản xuất giấy không thấm mỡ hoặc giấy bóng trong suốt.",
+        "en": "The solution also contains free sulphur dioxide.\nThe process is used extensively for the treatment of spruce fibre. Sulphite pulp is used, alone or mixed with other pulps, for various writing or printing papers, etc. It is also used, inter alia, for greaseproof or glazed fransparent papers."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached :"
+      },
+      "subheading_id": "4704.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ gỗ cây lá kim",
+        "en": "Coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached :"
+      },
+      "subheading_id": "4704.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ gỗ không thuộc loài cây lá kim",
+        "en": "Non-coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã qua bán tẩy trắng hoặc tẩy trắng:",
+        "en": "Semi-bleached or bleached :"
+      },
+      "subheading_id": "4704.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ gỗ cây lá kim",
+        "en": "Coniferous"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã qua bán tẩy trắng hoặc tẩy trắng:",
+        "en": "Semi-bleached or bleached :"
+      },
+      "subheading_id": "4704.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ gỗ không thuộc loài cây lá kim",
+        "en": "Non-coniferous"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "heading_id": "85.08",
+  "heading_title": {
+    "vi": "Máy hút bụi.",
+    "en": "Vacuum cleaners."
+  },
+  "summary": {
+    "vi": "Nhóm 85.08 định nghĩa phạm vi cho các loại máy hút bụi có động cơ điện gắn liền. Nhóm này bao gồm đa dạng các sản phẩm từ máy hút bụi cầm tay đến các loại máy hút khô và ướt. Nó cũng mở rộng để bao gồm các thiết bị chuyên dụng như máy hút bụi chải lông cho ngựa và gia súc. Một điểm quan trọng cần lưu ý là các phụ kiện như chổi, đầu hút được phân loại cùng với máy nếu chúng được cung cấp đồng bộ. Tuy nhiên, nhóm này loại trừ rõ ràng các thiết bị làm sạch thảm chuyên dụng chỉ phun và hút chất lỏng mà không có chức năng hút bụi khô/ướt kết hợp, những thiết bị này thuộc nhóm 84.51 hoặc 85.09. Các thiết bị hút chân không sử dụng trong lĩnh vực y tế, phẫu thuật, nha khoa hoặc thú y cũng bị loại trừ và được xếp vào nhóm 90.18. Theo quy định chung của Phần XVI, bộ phận của các máy thuộc nhóm này cũng được phân loại tại đây.",
+    "en": "Heading 85.08 defines the scope for various types of vacuum cleaners with a self-contained electric motor. This heading includes a wide range of products from hand-held models to dry and wet vacuum cleaners. It also extends to cover specialized devices such as vacuum cleaner type grooming apparatus for horses and cattle. An important point is that accessories like brushes and suction heads are classified with the machine if presented together. However, the heading explicitly excludes specialized carpet cleaning appliances that only inject and suction liquid without a combined dry/wet vacuum function; these belong to heading 84.51 or 85.09. Vacuum apparatus used in medical, surgical, dental, or veterinary fields are also excluded and are classified under heading 90.18. In accordance with the general provisions of Section XVI, parts for the appliances of this heading are also classified here."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 1(d) Chương 85, nhóm này bao gồm các loại máy hút bụi, kể cả loại cầm tay, loại khô và ướt, có thể đi kèm phụ kiện như chổi xoay, thiết bị làm sạch thảm, đầu hút đa chức năng. Nhóm này cũng bao gồm máy hút bụi chải lông cho ngựa hoặc gia súc. Nhóm này loại trừ các thiết bị làm sạch thảm bằng cách phun và hút dung dịch làm sạch mà không phải là máy hút bụi khô và ướt kết hợp (nhóm 84.51 hoặc 85.09). Nhóm này cũng loại trừ các thiết bị chân không dùng trong y tế, phẫu thuật, nha khoa hoặc thú y (nhóm 90.18). Các thiết bị phụ trợ (chải, đánh bóng, phun thuốc diệt côn trùng) và các bộ phận có thể thay đổi (thiết bị hút thảm, chải quay, đầu hút đa chức năng) được phân loại cùng máy hút bụi nếu được trình bày kèm theo với số lượng và chủng loại thông thường. Nếu xuất trình riêng, chúng được phân loại theo bản chất.",
+        "en": "Subject to Note 1 (d) to Chapter 85, this heading covers vacuum cleaners of all kinds, whether or not hand-held, including dry and wet vacuum cleaners, whether or not presented with accessories such as rotary brushes, carpet beating devices, multiple-function suction heads, etc. The heading includes, inter alia, vacuum cleaner type grooming apparatus for horses or cattle. Excluded from this heading are appliances for cleaning carpets in situ by injecting a liquid cleaning solution into the carpet, the solution then being extracted by suction, which are not combination dry and wet vacuum cleaners (heading 84.51 or 85.09). This heading also excludes vacuum apparatus of a kind used in medical, surgical, dental or veterinary sciences (heading 90.18). Vacuum cleaners of this heading may be presented with auxiliary devices (accessories) (for brushing, polishing, insecticide spraying, etc.) or interchangeable parts (carpet devices, rotary brushes, multiple-function suction heads, etc.). Such an appliance is classified here together with the parts and accessories presented with it, provided they are of a kind and number commonly used with the appliance. When presented separately, they are classified by reference to their nature."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Theo các quy định chung về phân loại bộ phận (xem Chú giải tổng quát Phần XVI), các bộ phận của các thiết bị thuộc nhóm này cũng được phân loại tại đây.",
+        "en": "Subject to the general provisions regarding the classification of parts (see the General Explanatory Notes to Section XVI), parts of appliances of this heading are also classified here."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Có động cơ điện gắn liền:",
+        "en": "With self-contained electric motor:"
+      },
+      "subheading_id": "8508.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất không quá 1.500 W và có túi hứng bụi hay đồ chứa khác với sức chứa không quá 20 lít",
+        "en": "Of a power not exceeding 1,500 W and having a dust bag or other receptacle capacity not exceeding 20 l"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Có động cơ điện gắn liền:",
+        "en": "With self-contained electric motor:"
+      },
+      "subheading_id": "8508.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8508.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy hút bụi loại khác",
+        "en": "Other vacuum cleaners"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8508.70",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

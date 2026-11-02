@@ -1,0 +1,53 @@
+{
+  "heading_id": "69.10",
+  "heading_title": {
+    "vi": "Bồn rửa, chậu rửa, bệ chậu rửa, bồn tắm, bệ rửa vệ sinh (bidets), bệ xí, bình xối nước, bệ đi tiểu và các sản phẩm vệ sinh tương tự bằng gốm, sứ gắn cố định.",
+    "en": "Ceramic sinks, wash basins, wash basin pedestals, baths, bidets, water closet pans, flushing cisterns, urinals and similar sanitary fixtures."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các thiết bị vệ sinh bằng gốm được thiết kế để gắn cố định, thường bằng cách nối với các hệ thống nước hoặc nước thải (ví dụ, bồn rửa, bồn tắm, bệ xí). Các sản phẩm này phải không thấm nước bằng cách tráng men hoặc nung kéo dài. Bình xối nước bằng gốm vẫn thuộc nhóm này, dù có hay không có cơ cấu đi kèm. Tuy nhiên, nhóm này không bao gồm các phụ kiện nhỏ cho nhà tắm (như đĩa xà phòng, móc treo khăn) và các thiết bị vệ sinh di động (như bô, chậu tắm), các sản phẩm này thuộc nhóm 69.11 hoặc 69.12.",
+    "en": "This heading covers ceramic sanitary fixtures designed to be permanently fixed, usually by connection to water or sewage systems (e.g., sinks, baths, water closet pans). These articles must be made impervious by glazing or prolonged firing. Ceramic flushing cisterns remain in this heading, whether or not equipped with their mechanisms. However, the heading excludes small bathroom accessories (such as soap dishes, towel hooks) and portable sanitary articles (such as bed pans, chamber-pots), which fall in heading 69.11 or 69.12."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các thiết bị được thiết kế để gắn cố định trong nhà, v.v, thường bằng cách nối với các hệ thống nước hoặc nước thải. Do vậy chúng phải được thiết kế không thấm nước bằng cách tráng men hoặc bằng cách nung kéo dài (ví dụ, đồ sứ, đồ gốm, sứ vệ sinh bằng đất sét nung, đồ giả sứ, hoặc đồ sứ dạng thủy tinh). Ngoài các thiết bị được liệt kê cụ thể trên, nhóm này còn bao gồm các hạng mục như bể chứa (cistern) dùng trong phòng vệ sinh.\nBình xối nước bằng gốm vẫn được xếp trong nhóm này, cho dù chúng có được trang bị các bộ phận băng cơ khí hay không.",
+        "en": "This heading covers fittings designed to be permanently fixed in place, in houses, etc., normally by connection to the water or sewage systems. They must therefore be made impervious to water by glazing or by prolonged firing (e.g., stoneware, earthenware, fire-clay sanitary ware, imitation porcelain, or vitreous china). In addition to the fittings specified, the heading includes such items as lavatory cisterns.\nCeramic flushing cisterns remain classified in this heading, whether or not equipped with their mechanisms."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này không gồm các phụ kiện vệ sinh hoặc các phụ kiện nhỏ cho nhà tắm, như đĩa đựng xà bông, hộp đựng đá kỳ, giá để bàn chải đánh răng, móc treo khăn tắm và giá để giấy vệ sinh, kể cả loại được thiết kế để gắn cố định lên tường và cũng không bao gồm các thiết bị vệ sinh có thể dịch chuyển như bồn tắm, tiểu treo; các sản phẩm này được xếp vào nhóm 69.11 hoặc 69.12.",
+        "en": "The heading does not, however, include small accessory bathroom or sanitary fittings, such as soap dishes, sponge baskets, tooth-brush holders, towel hooks and toilet paper holders, even if of a kind designed for fixing to the wall, nor portable sanitary articles such as bed pans, urinals and chamber-pots; these goods fall in heading 69.11 or 69.12."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6910.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng sứ",
+        "en": "Of porcelain or china"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6910.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

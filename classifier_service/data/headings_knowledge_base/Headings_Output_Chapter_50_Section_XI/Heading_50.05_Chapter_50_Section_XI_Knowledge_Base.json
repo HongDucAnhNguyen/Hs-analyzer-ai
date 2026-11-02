@@ -1,0 +1,42 @@
+{
+  "heading_id": "50.05",
+  "heading_title": {
+    "vi": "Sợi kéo từ phế liệu tơ tằm, chưa đóng gói để bán lẻ.",
+    "en": "Yarn spun from silk waste, not put up for retail sale."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm sợi đơn hoặc sợi xe được kéo từ phế liệu tơ tằm của nhóm 50.03, chưa đóng gói để bán lẻ. Nhóm này phân biệt hai loại: (A) Sợi kéo từ phế liệu tơ tằm khác tơ vụn, có sợi dài đến 20cm, bề mặt nhẵn và bóng; và (B) Sợi kéo từ tơ vụn, chất lượng thấp hơn, sợi ngắn dưới 5cm, bề mặt xỉn màu và có các nút thắt nhỏ. Nhóm này cũng bao gồm các sợi đã qua gia công theo mô tả tại Phần (I) (B) (1) của Chú giải tổng quát Phần XI. Các loại trừ chính bao gồm sợi đã đóng gói để bán lẻ (nhóm 50.06), sợi xe và chão bện thuộc nhóm 56.07, và chỉ giả catgut bằng tơ tằm của nhóm 56.04.",
+    "en": "This heading covers single or multiple (folded) yarns spun from silk waste of heading 50.03, not put up for retail sale. It distinguishes between two types: (A) Yarn spun from silk waste other than noil, with fibers up to 20 cm long, having a smooth and glossy surface; and (B) Yarn spun from noil silk, which is of lower quality, has short fibers under 5 cm, a dull surface, and small knots. The heading also includes yarn processed as described in Part (I) (B) (1) of the General Explanatory Note to Section XI. Key exclusions include yarn put up for retail sale (heading 50.06), twine and cordage of heading 56.07, and imitation catgut of silk of heading 56.04."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm những sợi đơn được gia công bởi quá trình xe tơ vụn hay các phế liệu khác của tơ của nhóm 50.03; cũng bao gồm cả sợi xe được gia công từ những sợi đơn lẻ này.\nTuy nhiên chúng bị loại trừ nếu đã được đóng gói để bán lẻ (nhóm 50.06) hoặc nếu nằm trong định nghĩa của sợi xe, chão bện, v.v... (nhóm 56.07) (xem Phần (I) (B) (2) và (3) của Chú giải tổng quát Phần XI).",
+        "en": "This heading covers single yarns produced by spinning the noil or other silk waste of heading 50.03; it also covers multiple (folded) yarns produced from these single yarns.\nThey are, however, excluded if put up for retail sale (heading 50.06) or if within the definition of twine, cordage, etc. (heading 56.07) (see Parts (I) (B) (2) and (3) of the General Explanatory Note to Section XI)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) Sợi tơ được kéo từ phế liệu tơ cắt ngắn trừ tơ vụn.\nKhông như những sợi tơ ở nhóm trước, sợi tơ từ phế liệu tơ (trừ tơ vụn) được hình thành từ những sợi nối. Những sợi thô này có thể dài tới 20cm nằm song song trong sợi, do vậy những sợi này có bề mặt nhẵn, mượt như tơ và tương đối bóng; những đặc điểm trên để phân biệt loại sợi tơ này với sợi xe từ tơ vụn.",
+        "en": "(A) Yarn spun from silk waste other than noil silk.\nYarn spun from silk waste other than noil silk, unlike the silk yarn of the preceding heading, is formed of discontinuous fibres. These fibres, which may be up to 20 cm long, lie parallel in the yarn, giving it a smooth, silky and fairly glossy surface; these latter characteristics distinguish it from yarn spun from noil silk."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(B) Sợi tơ kéo từ tơ vụn.\nSợi tơ vụn có chất lượng thấp hơn nhiều so với sợi phế liệu tơ; chứng bao gồm các sợi có độ dài khác nhau và thường dưới 5 cm; do vậy những sợi này chỉ được chải thô chứ không chải kỹ, chúng hơi rối vụn và gây ra những nút thắt nhỏ ở những khoảng nối. Sợi tơ từ tơ vụn không có độ bền và tính cân đối của sợi tơ kéo từ tơ vụn và có bề mặt khá đơn điệu.",
+        "en": "(B) Yarn spun from noil silk.\nNoil silk yarns are of much poorer quality than other silk waste yarns; they are composed of fibres of varying lengths, usually less than 5 cm; since these fibres have simply been carded but not combed, they are usually still somewhat tangled and form small knots at intervals. Noil silk yarn accordingly lacks the strength and regularity of yarn spun from other silk waste and has a rather dull surface."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm những sợi đã được gia công như mô tả trong mục (I) (B) (1) của Chú giải tổng quát Phần XI.\nNhóm này loại trừ chỉ giả catgut bằng tơ tằm của nhóm 56.04.",
+        "en": "The heading includes yarn which has been processed as described in Part (I) (B) (1) of the General Explanatory Note to Section XI.\nThe heading excludes imitation catgut of silk, of heading 56.04."
+      }
+    }
+  ],
+  "subheadings": []
+}

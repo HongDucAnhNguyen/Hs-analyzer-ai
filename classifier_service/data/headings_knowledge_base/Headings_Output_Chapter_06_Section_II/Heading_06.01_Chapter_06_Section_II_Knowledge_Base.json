@@ -1,0 +1,46 @@
+{
+  "heading_id": "06.01",
+  "heading_title": {
+    "vi": "Củ, thân củ, rễ củ, thân ống và thân rễ, ở dạng ngủ, dạng sinh trưởng hoặc ở dạng hoa; cây và rễ rau diếp xoăn, trừ các loại rễ thuộc nhóm 12.12.",
+    "en": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant, in growth or in flower; chicory plants and roots other than roots of heading 12.12."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại củ, thân củ, rễ củ, thân ống, và thân rễ, dù ở dạng ngủ, dạng sinh trưởng hay dạng hoa, kể cả những loại không dùng để trang trí (ví dụ: thân rễ cây đại hoàng, măng tây) và cây, rễ rau diếp xoăn. Tuy nhiên, nhóm này không bao gồm một số loại củ và thân rễ như hành tây, hành, hẹ, tỏi, khoai tây (Chương 7), thân rễ gừng (nhóm 09.10) và rễ rau diếp xoăn chưa rang thuộc loài Cichorium intybus sativum (nhóm 12.12).",
+    "en": "This heading covers bulbs, tubers, tuberous roots, corms, crowns, and rhizomes, whether dormant, in growth, or in flower, including those not used for ornamental purposes (e.g., rhubarb and asparagus crowns) and chicory plants and roots. However, this heading excludes certain bulbs and rhizomes such as onions, shallots, garlic, potatoes (Chapter 7), ginger rhizomes (heading 09.10), and unroasted chicory roots of the variety Cichorium intybus sativum (heading 12.12)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này có thể kể đến những loại củ, v.v… có hay không ở trong bình, chậu, hộp, v.v… của các cây thuộc các loài sau: Cây hoa loa kèn, cỏ chân ngỗng (các loài có củ), cây thu hải đường, cây chuối hoa, chionodoxa, cây linh lan (cây hoa lan chuông), cây nghệ tây, cây hoa anh thảo, cây hoa thược dược, eremurus, freesia, cây bối mẫu, cây hoa tuyết, cây hoa dơn (cây hoa lay ơn), gloxinia, cây lan dạ hương, cây hoa diên vĩ, cây hoa ly (cây loa kèn), cây nghệ hương, cây thuỷ tiên, ornithogalum, cây chua me đất, cây hoa huệ, cây mao lương, richardia, tigridia, cây hoa tulíp.\nNhóm này cũng bao gồm củ v.v..... của các cây không dùng để trang trí (ví dụ thân rễ cây đại hoàng) và thân rễ cây măng tây.\nTuy nhiên, nhóm này không bao gồm một số củ, thân củ, rễ củ, thân ống và thân rễ (ví dụ: hành tây, hành, hẹ, tỏi, khoai tây và a-ti-sô Jerusalem) thuộc Chương 7 và thân rễ của gừng (nhóm 09.10).\nThân và rễ rau diếp xoăn cũng thuộc nhóm này. Tuy nhiên, nhóm này loa ̣i trừ rễ rau diếp xoăn chưa rang thuộc loài Cichorium intybus sativum (nhóm 12.12).",
+        "en": "This heading includes bulbs, etc., whether or not presented in pots, boxes, etc., of, inter alia, plants of the following kinds: Amaryllis, anemone (bulbous species), begonia, canna, chionodoxa, convallaria (lily of the valley), crocus, cyclamen, dahlia, eremurus, freesia, fritillaria, galanthus (snow-drop), gladiolus, gloxinia, hyacinthus, iris, lilium, montbretia, narcissus, ornithogalum, oxalis, polianthes (tuberose), ranunculus, richardia, tigridia and tulipa.\nThe heading also includes bulbs, etc., of plants not used for ornamental purposes (e.g., rhubarb crowns) and asparagus crowns.\nThe heading excludes, however, certain bulbs, tubers, tuberous roots, corms, crowns and rhizomes (e.g., onions, shallots, garlic, potatoes, Jerusalem artichokes) of Chapter 7, and ginger rhizomes (heading 09.10).\nChicory plants and roots are also covered by this heading. However, unroasted chicory roots, of the variety Cichorium intybus sativum, are excluded (heading 12.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0601.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Củ, thân củ, rễ củ, thân ống và thân rễ, ở dạng ngủ",
+        "en": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0601.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Củ, thân củ, rễ củ, thân ống, thân rễ, dạng sinh trưởng hoặc dạng hoa; cây và rễ rau diếp xoăn",
+        "en": "Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower; chicory plants and roots"
+      }
+    }
+  ]
+}

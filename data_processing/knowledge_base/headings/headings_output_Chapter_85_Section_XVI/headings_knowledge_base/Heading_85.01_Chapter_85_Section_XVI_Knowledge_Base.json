@@ -1,0 +1,247 @@
+{
+  "heading_id": "85.01",
+  "heading_title": {
+    "vi": "Động cơ điện và máy phát điện (trừ tổ máy phát điện).",
+    "en": "Electric motors and generators (excluding generating sets)."
+  },
+  "summary": {
+    "vi": "Nhóm 85.01 bao gồm hai loại máy chính: động cơ điện và máy phát điện, không bao gồm tổ máy phát điện. Động cơ điện chuyển đổi điện năng thành cơ năng, bao gồm cả động cơ quay và động cơ tuyến tính. Phạm vi của nhóm rất rộng, từ động cơ công suất thấp dùng trong đồng hồ, đồ chơi đến động cơ công suất lớn cho máy cán, bao gồm cả động cơ gắn ngoài cho thuyền và các loại chuyên dụng như động cơ servo. Máy phát điện chuyển đổi các dạng năng lượng khác (cơ, mặt trời) thành điện năng. Nhóm này chỉ bao gồm các máy phát điện được xuất trình riêng lẻ, không đi kèm bộ kéo sơ cấp (thuộc nhóm 85.02). Các loại chính là máy phát một chiều (dynamo) và xoay chiều (alternator), cũng như các máy phát quang điện (tấm pin mặt trời kết hợp với các thiết bị khác). Các loại trừ quan trọng bao gồm tổ máy phát điện (nhóm 85.02), động cơ khởi động (nhóm 85.11), máy phát cho xe cộ (nhóm 85.11, 85.12), và pin mặt trời chưa lắp ráp thành bộ (nhóm 85.41). Các bộ phận của máy móc này được phân loại vào nhóm 85.03.",
+    "en": "Heading 85.01 covers two main categories of machines: electric motors and electric generators, excluding generating sets. Electric motors transform electrical energy into mechanical power, encompassing both rotary and linear motors. The scope is extensive, ranging from low-power motors for clocks and toys to large motors for rolling mills, including outboard motors for boats and specialized types like servomotors. Electric generators convert other forms of energy (mechanical, solar) into electrical power. This heading only includes generators presented without their prime movers (which fall under heading 85.02). The main types are direct current (dynamos) and alternating current (alternators) generators, as well as photovoltaic generators (solar panels combined with other apparatus). Key exclusions include generating sets (heading 85.02), starter motors (heading 85.11), generators for vehicles (headings 85.11, 85.12), and solar cells not assembled into a system (heading 85.41). Parts for the machinery of this heading are classified in heading 85.03."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(I) ĐỘNG CƠ ĐIỆN\nLà máy chuyển điện năng sang cơ năng, bao gồm động cơ quay tròn và động cơ tuyến tính.\n(A) Động cơ quay tròn: Sinh ra cơ năng ở dạng chuyển động xoay tròn. Có nhiều loại và kích cỡ (dòng một chiều hoặc xoay chiều) tùy theo công dụng. Ngoại trừ động cơ khởi động cho động cơ đốt trong (nhóm 85.11), nhóm này bao gồm tất cả các loại từ công suất thấp (dùng trong dụng cụ đo, đồng hồ, đồ chơi) đến công suất lớn (dùng cho máy cán). Nhóm này còn bao gồm động cơ gắn ngoài cho thuyền. Động cơ đồng bộ cho đồng hồ được phân loại ở đây, nhưng nếu đã lắp ráp với hệ thống truyền động của đồng hồ thì bị loại trừ (nhóm 91.09).\n(B) Động cơ tuyến tính: Tạo ra cơ năng dưới dạng chuyển động tuyến tính. Các ứng dụng bao gồm tàu đệm từ, thiết bị nâng hạ, băng tải.",
+        "en": "(I) ELECTRIC MOTORS\nThese are machines for transforming electrical energy into mechanical power, including rotary and linear motors.\n(A) Rotary motors: Produce mechanical power in the form of rotary motion. They come in many types and sizes (DC or AC) according to their purpose. With the exception of starter motors for internal combustion engines (heading 85.11), this heading covers all types from low power motors (for use in instruments, clocks, toys) to large powerful motors (for rolling mills). The heading also includes “outboard motors” for boats. Synchronous motors for clocks are classified here, but if associated with a clock train they are excluded (heading 91.09).\n(B) Linear motors: Produce mechanical power in the form of linear motion. Applications include driving hovertrains, bulk-handling equipment, and overhead conveyors."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm:\n(1) Các động cơ secvo: Gồm một động cơ điện có gắn bộ giảm tốc và thiết bị truyền lực để điều khiển vị trí.\n(2) Các cụm tự đồng bộ: Dùng trong các thiết bị đo đạc từ xa hoặc hệ thống điều khiển từ xa.\n(3) Thiết bị điều khiển van, bằng điện: Gồm một động cơ điện có gắn bộ giảm tốc để vận hành đóng mở van.\n(II) MÁY PHÁT ĐIỆN\nMáy móc sản sinh điện năng từ các nguồn năng lượng khác (cơ, mặt trời,...), miễn là chúng không được mô tả cụ thể hơn ở nhóm khác. Có hai loại chính: máy phát một chiều (dynamos) và máy phát xoay chiều (alternators).",
+        "en": "This group also includes:\n(1) Servomotors: Consisting of an electric motor with speed-reducing gears and a power transmission device to adjust position.\n(2) Self-synchronising units: For use in telemetering or remote control systems.\n(3) Valve actuators, electrical: Consisting of an electric motor with reducing gear to operate a valve plug.\n(II) ELECTRIC GENERATORS\nMachines that produce electrical power from various energy sources (mechanical, solar, etc.), provided they are not more specifically covered by any other heading. There are two main classes: direct current (DC) generators (dynamos) and alternating current (AC) generators (alternators)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Máy phát điện thường được kéo bằng các nguồn lực sơ cấp (tua bin thủy lực, tua bin hơi, động cơ đốt trong), tuy nhiên, nhóm này chỉ bao gồm máy phát điện khi xuất trình không có nguồn lực sơ cấp. Nhóm này cũng bao gồm các máy phát quang điện, gồm các tấm tế bào quang điện kết hợp với các thiết bị khác (ắc quy, bộ điều khiển điện tử) để cung cấp điện năng trực tiếp. Chúng bao gồm tất cả các loại từ máy phát lớn cho nhà máy điện đến các máy phát nhỏ dùng cho nhiều mục đích khác nhau.\nNhóm này không bao gồm:\n(a) Trống hoặc con lăn kết hợp với mô tơ điện dùng cho băng tải (nhóm 84.31).\n(b) Động cơ rung và thiết bị rung điện từ (nhóm 84.79).\n(c) Tổ máy phát điện kết hợp với phần kéo sơ cấp (nhóm 85.02).\n(d) Máy phát điện cao thế (nhóm 85.04).\n(e) Pin và bộ pin (nhóm 85.06).\n(f) Máy phát (đinamô và xoay chiều) dùng chung với động cơ đốt trong hoặc cho thiết bị chiếu sáng, tín hiệu của xe cộ (nhóm 85.11 và 85.12).\n(g) Pin mặt trời chưa lắp ráp thành môđun hoặc tấm và không gắn với linh kiện khác (nhóm 85.41).\n(h) Máy phát tín hiệu (nhóm 85.43).",
+        "en": "Electric generators are usually driven by prime movers (hydraulic turbines, steam turbines, internal combustion engines), however, this heading only covers generators when presented without prime movers. The heading also covers photovoltaic generators, consisting of panels of photocells combined with other apparatus (storage batteries, electronic controls) to supply power directly. They cover all generators from large ones for power stations to small ones for various purposes.\nThe heading also excludes:\n(a) Drums or rollers incorporating an electric motor for conveyors (heading 84.31).\n(b) Vibrator motors and electro-magnetic vibrators (heading 84.79).\n(c) Electric generators combined with prime movers (generating sets) (heading 85.02).\n(d) High tension generators (heading 85.04).\n(e) Primary cells and batteries (heading 85.06).\n(f) Generators (dynamos and alternators) used with internal combustion engines or for lighting/signalling equipment for vehicles (headings 85.11 and 85.12).\n(g) Solar cells not assembled in modules or panels and not equipped with other elements (heading 85.41).\n(h) Signal generators (heading 85.43)."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm các máy phát của Chương 90 như máy phát tia X (nhóm 90.22) và máy phát dùng cho mục đích trưng bày (nhóm 90.23).\nBỘ PHẬN\nCác bộ phận của máy móc thuộc nhóm này được phân loại vào nhóm 85.03.",
+        "en": "The heading also excludes generators of Chapter 90, for example, X-ray generators (heading 90.22) and generators designed for demonstrational purposes (heading 90.23).\nPARTS\nParts of the machines of this heading are classified in heading 85.03."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8501.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ có công suất không quá 37,5 W",
+        "en": "Motors of an output not exceeding 37.5 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8501.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ vạn năng một chiều/xoay chiều có công suất trên 37,5 W",
+        "en": "Universal AC/DC motors of an output exceeding 37.5 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ một chiều khác; máy phát điện một chiều, trừ máy phát quang điện:",
+        "en": "- Other DC motors; DC generators, other than photovoltaic generators:"
+      },
+      "subheading_id": "8501.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất không quá 750 W",
+        "en": "-- Of an output not exceeding 750 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ một chiều khác; máy phát điện một chiều, trừ máy phát quang điện:",
+        "en": "- Other DC motors; DC generators, other than photovoltaic generators:"
+      },
+      "subheading_id": "8501.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất trên 750 W nhưng không quá 75 kW",
+        "en": "-- Of an output exceeding 750 W but not exceeding 75 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ một chiều khác; máy phát điện một chiều, trừ máy phát quang điện:",
+        "en": "- Other DC motors; DC generators, other than photovoltaic generators:"
+      },
+      "subheading_id": "8501.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất trên 75 kW nhưng không quá 375 kW",
+        "en": "Of an output exceeding 75 kW but not exceeding 375 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ một chiều khác; máy phát điện một chiều, trừ máy phát quang điện:",
+        "en": "- Other DC motors; DC generators, other than photovoltaic generators:"
+      },
+      "subheading_id": "8501.34",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất trên 375 kW",
+        "en": "-- Of an output exceeding 375 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8501.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ xoay chiều khác, một pha",
+        "en": "Other AC motors, single-phase"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ điện xoay chiều khác, đa pha:",
+        "en": "Other AC motors, multi-phase:"
+      },
+      "subheading_id": "8501.51",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất không quá 750 W",
+        "en": "Of an output not exceeding 750 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ điện xoay chiều khác, đa pha:",
+        "en": "Other AC motors, multi-phase:"
+      },
+      "subheading_id": "8501.52",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất trên 750 W nhưng không quá 75 kW",
+        "en": "-- Of an output exceeding 750 W but not exceeding 75 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ điện xoay chiều khác, đa pha:",
+        "en": "Other AC motors, multi-phase:"
+      },
+      "subheading_id": "8501.53",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất trên 75 kW",
+        "en": "Of an output exceeding 75 kW"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy phát điện xoay chiều (máy dao điện):",
+        "en": "- AC generators (alternators):"
+      },
+      "subheading_id": "8501.61",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất không quá 75 kVA",
+        "en": "Of an output not exceeding 75 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy phát điện xoay chiều (máy dao điện):",
+        "en": "- AC generators (alternators):"
+      },
+      "subheading_id": "8501.62",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất trên 75 kVA nhưng không quá 375 kVA",
+        "en": "-- Of an output exceeding 75 kVA but not exceeding 375 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy phát điện xoay chiều (máy dao điện):",
+        "en": "- AC generators (alternators):"
+      },
+      "subheading_id": "8501.63",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất trên 375 kVA nhưng không quá 750 kVA",
+        "en": "Of an output exceeding 375 kVA but not exceeding 750 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy phát điện xoay chiều (máy dao điện):",
+        "en": "- AC generators (alternators):"
+      },
+      "subheading_id": "8501.64",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất trên 750 kVA",
+        "en": "-- Of an output exceeding 750 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy phát quang điện một chiều:",
+        "en": "Photovoltaic DC generators:"
+      },
+      "subheading_id": "8501.71",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất không quá 50 W",
+        "en": "Of an output not exceeding 50 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy phát quang điện một chiều:",
+        "en": "Photovoltaic DC generators:"
+      },
+      "subheading_id": "8501.72",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Công suất trên 50 W",
+        "en": "-- Of an output exceeding 50 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8501.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy phát quang điện xoay chiều",
+        "en": "Photovoltaic AC generators"
+      }
+    }
+  ]
+}

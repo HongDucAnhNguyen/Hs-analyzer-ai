@@ -1,0 +1,65 @@
+{
+  "heading_id": "92.01",
+  "heading_title": {
+    "vi": "Đàn piano, kể cả piano tự động; đàn clavecin (hapsichords) và các loại đàn đây có phím bấm khác.",
+    "en": "Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments."
+  },
+  "summary": {
+    "vi": "Nhóm 92.01 bao gồm các loại đàn piano (đàn đứng và đại dương cầm), kể cả piano tự động (có hoặc không có bàn phím), đàn clavecin (harpsichords), đàn xpinet (spinets) và đàn clavichord. Các nhạc cụ này có thể được trang bị thiết bị điện để đọc và khuếch đại âm thanh. Tuy nhiên, nhóm này không bao gồm 'đàn piano điện tử' và các nhạc cụ điện tử khác có thể gắn vào piano để tạo hiệu ứng âm thanh, chúng được phân loại vào nhóm 92.07.",
+    "en": "Heading 92.01 covers pianos (upright and grand), including automatic pianos (with or without a keyboard), harpsichords, spinets, and clavichords. These instruments may be fitted with an electrical sound pick-up and amplifying device. However, the heading excludes 'electronic pianos' and other electronic musical instruments that may be fitted to pianos to produce sound effects, which are classified in heading 92.07."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm: \n(1) Đàn piano, với bàn phím và dây đàn được gõ bằng những chiếc búa gõ, dù có hoặc không gắn với một thiết bị điện để đọc và khuếch đại âm thanh, nghĩa là: \n(a) Đàn piano loại đứng, có miếng gỗ tăng âm trên đó các dây đàn được căng theo chiều thẳng đứng, và khi chéo nhau thì những dây trầm bắt qua các dây còn lại. \n(b) Đại dương cầm (đàn piano cánh lớn và cánh nhỏ) có dây được căng ngang suốt chiều dài hộp đàn tạo thành một dạng đuôi (cánh). \nNhóm này bao gồm đàn piano tự động dù có bàn phím hay không được vận hành bởi những phương tiện như những băng giấy hay bìa đục lỗ; những đàn này có thể chạy bằng cơ, khí động hay điện.\nTuy nhiên, “đàn piano điện tử” cũng như những nhạc cụ điện tử, có thể hòa với piano để tạo hiệu ứng âm thanh của những nhạc cụ khác trong khi đàn piano đang chơi, thuộc nhóm 92.07 (xem Chú giải Tổng quát của Chương này). \n(2) Đàn clavecin và các loại đàn dây có phím bấm khác như đàn xpinet (spinet) và đàn clavichord.",
+        "en": "This heading covers: \n(1) Pianos, with a keyboard and strings struck by hammers, whether or not fitted with an electrical sound pick-up and amplifying device, i.e.: \n(a) Upright pianos, which have a sound-board on which the strings are mounted vertically, and when overstrung, with the bass strings crossing the remainder; \n(b) Grand pianos (concert and baby grands), which have strings mounted horizontally in an elongated casing. \nThis group includes automatic pianos, whether or not incorporating a keyboard, which are played, e.g., by means of perforated rolls of paper or paperboard; they may be mechanically, pneumatically or electrically operated.\nHowever, “ electronic pianos ” and electronic musical instruments which may be fitted to pianos in order to produce the sound effects of other instruments while the piano is being played fall in heading 92.07 (see the General Explanatory Note to this Chapter). \n(2) Harpsichords and other keyboard stringed instruments such as spinets and clavichords."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải Phân nhóm.\nCác Phân nhóm 9201.10 và 9201.20\nCác phân nhóm này cũng bao gồm đàn piano tự động.",
+        "en": "Subheading Explanatory Note.\nSubheadings 9201.10 and 9201.20\nThese subheadings also include automatic pianos."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9201.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đàn piano loại đứng",
+        "en": "Upright pianos"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9201.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Đại dương cầm (grand piano)",
+        "en": "Grand pianos"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9201.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

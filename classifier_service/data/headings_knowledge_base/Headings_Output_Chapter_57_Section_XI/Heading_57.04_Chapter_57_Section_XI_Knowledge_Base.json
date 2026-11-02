@@ -1,0 +1,72 @@
+{
+  "heading_id": "57.04",
+  "heading_title": {
+    "vi": "Thảm và các loại hàng dệt trải sàn khác, từ phớt, không tạo búi hoặc phủ xơ vụn, đã hoặc chưa hoàn thiện.",
+    "en": "Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại thảm và các loại hàng dệt trải sàn khác làm bằng phớt, như được định nghĩa trong Chú giải chi tiết nhóm 56.02. Nhóm này bao gồm: (1) Các tấm lát sàn bằng phớt làm từ lông cừu hoặc lông động vật khác; (2) Các loại hàng dệt trải sàn bằng phớt dệt kim, thường được bồi hoặc ngâm tẩm mặt dưới bằng cao su hoặc plastic để gia cố hoặc chống trơn trượt.",
+    "en": "This heading covers carpets and other textile floor coverings of felt, as defined in the Explanatory Note to heading 56.02. It includes: (1) Tiles of felt, usually of wool or other animal hair; (2) Textile floor coverings of needleloom felt, generally backed or impregnated on the underside with rubber or plastics to strengthen them or give them anti-slip properties."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại thảm và các loại hàng dệt trải sàn khác, bằng phớt, về mặt ý nghĩa của thuật ngữ “phớt”, xem Chú giải chi tiết nhóm 56.02.",
+        "en": "This heading covers carpets and other textile floor coverings, of felt. For the meaning of the term “felt”, see the Explanatory Note to heading 56.02."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Các tấm lát sàn thường bằng phớt làm từ lông cừu hoặc lông các loại động vật khác.\n(2) Các loại hàng dệt trải sàn bằng phớt dệt kim, nhìn chung đã được bồi hoặc ngâm tẩm ở mặt dưới bằng cao su hoặc plastic để gia cố cho các sản phẩm hoặc",
+        "en": "The heading includes:\n(1) Tiles, usually of felt of wool or other animal hair.\n(2) Textile floor coverings of needleloom felt, generally backed or impregnated on the underside with rubber or plastics in order to strengthen the products or give them"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "tạo cho chúng các đặc tính chống trơn trượt.",
+        "en": "anti-slip properties."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5704.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các tấm để ghép, có diện tích bề mặt tối đa 0,3m2",
+        "en": "Tiles, having a maximum surface area of 0.3 m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5704.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các tấm để ghép, có diện tích bề mặt tối đa trên 0,3 m2 nhưng không quá 1 m2",
+        "en": "Tiles, having a maximum surface area exceeding 0.3 m2 but not exceeding 1 m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5704.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "chapter_id": "10",
+  "chapter_title": {
+    "vi": "Ngũ cốc",
+    "en": "Cereals"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm các loại hạt ngũ cốc, dù còn hoặc không còn ở trên bông hay trên thân cây. Các loại ngũ cốc chính được phân loại trong chương này bao gồm lúa mì và meslin (nhóm 10.01), lúa mạch đen (10.02), lúa đại mạch (10.03), yến mạch (10.04), ngô (10.05), lúa gạo (10.06), lúa miến (10.07), và các loại ngũ cốc khác như kiều mạch, kê và hạt cây thóc chim (10.08).\n\nChương này KHÔNG bao gồm các loại hạt đã xát vỏ hoặc chế biến cách khác, trừ các trường hợp ngoại lệ cụ thể. Các ngoại lệ quan trọng bao gồm:\n- Lúa gạo (nhóm 10.06) vẫn được phân loại trong chương này ngay cả khi đã được xay để bỏ trấu, xát, đánh bóng, hồ, hoặc ở dạng gạo đồ hay gạo tấm.\n- Hạt diêm mạch (quinoa) (nhóm 10.08) vẫn được phân loại trong chương này nếu chỉ được loại bỏ một phần hoặc toàn bộ vỏ lụa để tách saponin mà không qua chế biến nào khác.\n\nCác loại trừ đáng chú ý khác bao gồm:\n- Ngô ngọt (thuộc Chương 7).\n- Lúa mạch đen có cựa (ergot) (nhóm 12.11).\n- Lúa đại mạch đã nảy mầm (malt) hoặc đã rang (nhóm 11.07 hoặc 21.01).\n- Các sản phẩm ngũ cốc đã qua chế biến như bỏng gạo (puffed rice) hoặc gạo đã nấu chín trước (nhóm 19.04).\n- Các loại lúa miến dùng làm thức ăn cho gia súc, lúa miến cỏ, lúa miến ngọt, hoặc miến \"chổi\" (thuộc các nhóm 12.09, 12.12, 12.14, 14.04).",
+    "en": "This chapter covers cereal grains, whether or not presented in sheaves or in the ear. The main cereals classified herein include wheat and meslin (heading 10.01), rye (10.02), barley (10.03), oats (10.04), maize (corn) (10.05), rice (10.06), grain sorghum (10.07), and other cereals such as buckwheat, millet, and canary seeds (10.08).\n\nThis chapter does NOT cover grains which have been hulled or otherwise worked, with specific exceptions. Important exceptions include:\n- Rice (heading 10.06) remains classified in this chapter even if it has been husked, milled, polished, glazed, parboiled, or broken.\n- Quinoa (heading 10.08) remains classified in this chapter if its pericarp has been wholly or partly removed to separate the saponin, provided it has not undergone any other processes.\n\nOther notable exclusions are:\n- Sweet corn (Chapter 7).\n- Rye bearing ergot (heading 12.11).\n- Sprouted barley (malt) or roasted barley (heading 11.07 or 21.01).\n- Processed cereal products like puffed rice or pre-cooked rice (heading 19.04).\n- Forage sorghums, grass sorghums, sweet sorghums, or broomcorn (classified in headings 12.09, 12.12, 12.14, 14.04)."
+  },
+  "notes": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "1.- (A) Các sản phẩm kể tên trong các nhóm của Chương này chỉ được phân loại trong các nhóm đó khi ở dạng hạt, còn hoặc không còn ở trên bông hay trên thân cây.",
+        "en": "1. - (A) The products specified in the headings of this Chapter are to be classified in those headings only if grains are present, whether or not in the car or on the stalk."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) Chương này không bao gồm các loại hạt đã xát vỏ hoặc chế biến cách khác. Tuy nhiên, thóc, được xay để bỏ trấu, gạo được xát, đánh bóng, hồ (glazed), gạo đồ hoặc gạo tấm vẫn được phân loại trong nhóm 10.06. Tương tự, hạt diêm mạch (quinoa) đã được loại bỏ toàn bộ hoặc một phần vỏ lụa để tách saponin, nhưng không trải qua bất kỳ quá trình chế biến nào khác, vẫn được phân loại trong nhóm 10.08.",
+        "en": "(B) The Chapter does not cover grains which have been hulled or otherwise worked. However, rice, husked, milled, polished, glazed, parboiled or broken remains classified in heading 10.06. Similarly, quinoa from which the pericarp has been wholly or partly removed in order to separate the saponin, but which has not undergone any other processes, remains classified in heading 10.08."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "2.- Nhóm 10.05 không bao gồm ngô ngọt (Chương 7).",
+        "en": "2. - Heading 10.05 does not cover sweet corn (Chapter 7)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\n1.- Khái niệm \"lúa mì durum\" có nghĩa là loại lúa mì thuộc loài Triticum durum và các giống lai tạo từ việc kết hợp giữa các loài của Triticum durum có cùng số nhiễm sắc thể (28) như loài đó.",
+        "en": "Subheading Note.\n1.- The term “ durum wheat ” means wheat of the Triticum durum species and the hybrids derived from the inter-specific crossing of Triticum durum which have the same number (28) of chromosomes as that species."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chương này chỉ bao gồm các loại hạt ngũ cốc, đã được hoặc chưa được tách khỏi bông hoặc bắp. Các loại hạt từ ngũ cốc được thu hoạch non, vẫn còn nguyên vỏ, được phân loại như loại hạt thường. Các loại ngũ cốc tươi (trừ ngô ngọt thuộc Chương 7), được dùng hay không được dùng làm rau, vẫn được phân loại vào Chương này.\nLúa gạo vẫn được phân loại trong nhóm 10.06 ngay cả khi lúa gạo đã được xay để bỏ trấu (gạo lứt), xát, đánh bóng, hồ (glazed), gạo đồ, hoặc gạo tấm, miễn là không được chế biến theo cách khác. Tương tự, hạt diêm mạch (quinoa) đã được loại bỏ toàn bộ hoặc một phần vỏ lụa để tách saponin, nhưng không trải qua bất kỳ quá trình chế biến nào khác, vẫn được phân loại trong nhóm 10.08. Tuy nhiên, những loại hạt khác không thuộc Chương này nếu chúng đã được xát vỏ hoặc sơ chế theo các cách khác, ví dụ, như được mô tả tại nhóm 11.04.",
+        "en": "This Chapter covers cereal grains only, whether or not presented in sheaves or in the ear. Grain obtained from cereals cut before maturity and still complete with husks is classified with ordinary grain. Fresh cereals (other than sweet corn of Chapter 7), whether or not suitable for use as vegetables, remain classified in this Chapter.\nRice remains classified in heading 10.06 even if it has been husked, milled, glazed, polished, parboiled, or broken, provided it has not been otherwise worked. Similarly, quinoa from which the pericarp has been wholly or partly removed in order to separate the saponin, but which has not undergone any other processes, remains classified in heading 10.08. Other grains are, however, excluded from the Chapter if they have been hulled or otherwise worked, for example, as described in heading 11.04."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "10.01",
+      "heading_title": {
+        "vi": "Lúa mì và meslin.",
+        "en": "Wheat and meslin."
+      }
+    },
+    {
+      "heading_id": "10.02",
+      "heading_title": {
+        "vi": "Lúa mạch đen.",
+        "en": "Rye."
+      }
+    },
+    {
+      "heading_id": "10.03",
+      "heading_title": {
+        "vi": "Lúa đại mạch.",
+        "en": "Barley."
+      }
+    },
+    {
+      "heading_id": "10.04",
+      "heading_title": {
+        "vi": "Yến mạch.",
+        "en": "Oats."
+      }
+    },
+    {
+      "heading_id": "10.05",
+      "heading_title": {
+        "vi": "Ngô.",
+        "en": "Maize (corn)."
+      }
+    },
+    {
+      "heading_id": "10.06",
+      "heading_title": {
+        "vi": "Lúa gạo.",
+        "en": "Rice."
+      }
+    },
+    {
+      "heading_id": "10.07",
+      "heading_title": {
+        "vi": "Lúa miến.",
+        "en": "Grain sorghum."
+      }
+    },
+    {
+      "heading_id": "10.08",
+      "heading_title": {
+        "vi": "Kiều mạch, kê, hạt cây thóc chim; các loại ngũ cốc khác.",
+        "en": "Buckwheat, millet and canary seeds; other cereals."
+      }
+    }
+  ]
+}

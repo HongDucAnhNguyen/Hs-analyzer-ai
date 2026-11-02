@@ -1,0 +1,53 @@
+{
+  "heading_id": "04.03",
+  "heading_title": {
+    "vi": "Sữa chua; buttermilk, sữa đông và kem đông, kephir và sữa, kem khác đã lên men hoặc axit hoá, đã hoặc chưa cô đặc hoặc pha thêm đường hoặc chất tạo ngọt khác hoặc hương liệu hoặc bổ sung thêm hoa quả, quả hạch (nuts) hoặc ca cao.",
+    "en": "Yogurt; buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, whether or not concentrated or containing added sugar or other sweetening matter or flavoured or containing added fruit, nuts or cocoa."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm buttermilk, tất cả các loại sữa và kem đã lên men hoặc axit hóa (bao gồm sữa đông, kem đông, sữa chua, kephir). Sản phẩm có thể ở dạng lỏng, nhão hoặc rắn (kể cả đông lạnh), đã cô đặc hoặc được bảo quản. Chúng có thể chứa các chất phụ gia, đường, chất tạo ngọt, hương liệu, hoa quả, quả hạch hoặc ca cao. Sữa chua có thể chứa thêm sôcôla, gia vị, cà phê, ngũ cốc... miễn là không thay thế thành phần sữa và sản phẩm vẫn giữ được đặc tính của sữa chua. Nhóm này cũng có thể bao gồm sữa bột của nhóm 04.02 có thêm men lactic hoặc một lượng nhỏ axit.",
+    "en": "This heading covers buttermilk, and all fermented or acidified milk and cream (including curdled milk and cream, yogurt, kephir). The products can be in liquid, paste or solid (including frozen) form, concentrated or preserved. They may contain additives, sugar, other sweetening matter, flavourings, fruit, nuts or cocoa. Yogurt may contain added chocolate, spices, coffee, cereals, etc., provided these do not replace any milk constituent and the product retains the essential character of yogurt. This heading can also include milk powder of heading 04.02 with added lactic ferments or small quantities of acid."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm buttermilk và tất cả sữa và kem đã lên men hoặc axit hoá và bao gồm cả sữa đông, kem đông, sữa chua và kephir. Những sản phẩm",
+        "en": "This heading covers buttermilk, and all fermented or acidified milk and cream and includes curdled milk and cream, yogurt and kephir. The products of this"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "thuộc nhóm này có thể ở dạng lỏng, nhão hoặc rắn (bao gồm cả đông lạnh) và có thể được cô đặc (ví dụ bằng cách làm bay hơi hoặc ở dạng khối, bột hoặc hạt) hoặc được bảo quản.\nSữa lên men thuộc nhóm này có thể gồm sữa bột nhóm 04.02 có chứa thêm lượng nhỏ men lactic để dùng trong các sản phẩm thịt chế biến sẵn hoặc như một phụ gia cho thức ăn chăn nuôi.\nSữa axit hoá trong nhóm này có thể gồm sữa bột nhóm 04.02 có chứa thêm lượng nhỏ axit (bao gồm cả nước chanh) dạng tinh thể để làm sữa đông bằng cách hoàn nguyên với nước.\nNgoài những chất bổ sung được nêu trong Chú giải tổng quát của Chương này, những sản phẩm của nhóm này cũng có thể được pha thêm đường hoặc chất tạo ngọt khác, hương liệu, hoa quả (gồm thịt, cùi, cơm của quả và mứt), quả hạch (nuts) hoặc ca cao.\nNgoài ra, sữa chua có thể chứa thêm sôcôla, gia vị, cà phê hoặc chiết xuất cà phê, thực vật, các bộ phận của thực vật, ngũ cốc hoặc các loại bánh, với điều kiện chất được thêm vào không được sử dụng cho mục đích thay thế, toàn bộ hoặc một phần, bất kỳ thành phần nào của sữa, và sản phẩm vẫn giữ được đặc tính cơ bản của sữa chua.",
+        "en": "heading may be in liquid, paste or solid (including frozen) form and may be concentrated (e.g., evaporated or in blocks, powder or granules) or preserved.\nFermented milk of this heading may consist of milk powder of heading 04.02 containing small quantities of added lactic ferments, with a view to its use in prepared meat products or as an additive tor animal feed.\nAcidified milk of this heading may consist of milk powder of heading 04.02 containing small quantities of added acid (including lemon juice) in crystal form in order to produce curdled milk on reconstitution with water.\nApart from the additives mentioned in the General Explanatory Note to this Chapter, the products of this heading may also contain added sugar or other sweetening matter, flavourings, fruit (including pulp and jams), nuts or cocoa.\nIn addition, yogurt may contain added chocolate, spices, coffee or coffee extracts, plants, parts of plants, cereals or bakers’ wares, provided that any of these substances are not used for the purpose of replacing, in whole or in part, any milk constituent, and the product retains the essential character of yogurt."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0403.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sữa chua",
+        "en": "Yogurt"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0403.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

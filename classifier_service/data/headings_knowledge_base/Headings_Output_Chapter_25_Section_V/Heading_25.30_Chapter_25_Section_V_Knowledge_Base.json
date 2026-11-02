@@ -1,0 +1,100 @@
+{
+  "heading_id": "25.30",
+  "heading_title": {
+    "vi": "Các chất khoáng chưa được chi tiết hoặc ghi ở nơi khác.",
+    "en": "Mineral substances not elsewhere specified or included."
+  },
+  "summary": {
+    "vi": "Nhóm này là nhóm còn lại cho các chất khoáng chưa được nêu ở nơi khác. Bao gồm các nhóm chính: (A) Chất màu từ đất và oxit sắt tự nhiên có chứa mica; (B) Đá bọt biển, hổ phách và đá jet, kể cả dạng nung kết ở dạng thô; (C) Strontianite (strontium carbonate tự nhiên), trừ oxit strontium tinh khiết; (D) Các khoáng chất khác như arsenic sulphide, alunite, vermiculite chưa giãn nở, lydite, celestite, các loại đất dùng trong nông nghiệp, pozzolana, đá vôi thô, đồ gốm vỡ, quặng kim loại đất hiếm (trừ loại dùng tách uranium/thorium), tinh quặng molybdenite cho mục đích phi luyện kim, quặng nsutite và cryolite tự nhiên.\n\nCác loại trừ chính bao gồm: quặng sắt (nhóm 26.01), chất màu đất chứa >=70% Fe2O3 (nhóm 28.21), các chế phẩm màu (Chương 32), ambergris (nhóm 05.10), oxit strontium tinh khiết (nhóm 28.16), vermiculite giãn nở (nhóm 68.06), đá thử làm từ lydite (nhóm 68.15), cát tự nhiên (nhóm 25.05), quặng monazite (nhóm 26.12), cryolite sản xuất bằng hóa chất (nhóm 28.26), và đá quý/bán quý (Chương 71).",
+    "en": "This is a residual heading for mineral substances not elsewhere specified. It includes main groups: (A) Earth colours and natural micaceous iron oxides; (B) Meerschaum, amber and jet, including in agglomerated crude forms; (C) Strontianite (natural strontium carbonate), other than pure strontium oxide; (D) Other minerals such as natural arsenic sulphides, alunite, unexpanded vermiculite, lydite, celestite, earths for agriculture, pozzolana, crude limestone, broken pottery, ores of rare earth metals (except those for uranium/thorium extraction), molybdenite concentrates for non-metallurgical use, nsutite ore, and natural cryolite.\n\nMajor exclusions include: iron ores (heading 26.01), earth colours with >=70% Fe2O3 (heading 28.21), prepared pigments (Chapter 32), ambergris (heading 05.10), pure strontium oxide (heading 28.16), expanded vermiculite (heading 68.06), touchstones of lydite (heading 68.15), natural sands (heading 25.05), monazite ores (heading 26.12), chemically produced cryolite (heading 28.26), and precious/semi-precious stones (Chapter 71)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) CHẤT MÀU TỪ ĐẤT, ĐÃ HOẶC CHƯA ĐƯỢC NUNG HOẶC TRỘN VỚI NHAU; CÁC OXIT SẮT TỰ NHIÊN CÓ CHỨA MI CA.\nCác chất màu được phân loại ở đây thường là đất sét xuất hiện tự nhiên được trộn với các chất khoáng màu trắng hoặc khoáng có màu, đặc biệt là oxit sắt; do các đặc tính tạo màu của chúng mà chúng thường được sử dụng làm chất màu.\nBao gồm:\n(1) Ochres (màu vàng, nâu, đỏ, đỏ Tây Ban Nha)\n(2) Đất sienas (đất sienna Italia, màu nâu vàng và đất sienna nung, nâu da cam...)\n(3) Umbers (bao gồm umber nung), có màu nâu hoặc nâu tối\n(4) Đất đen và đất màu nâu vandyke tự nhiên (đất cassel và cologne).",
+        "en": "(A) EARTH COLOURS, WHETHER OR NOT CALCINED OR MIXED TOGETHER; NATURAL MICACEOUS IRON OXIDES.\nThe colours classified here are usually naturally occurring clays mixed with white or coloured mineral substances, particularly iron oxide; because of their colouring properties, they are generally used as pigments.\nThey include:\n(1) Ochres (yellow, brown, red, Spanish red, etc.).\n(2) Siennas (Italian sienna, yellow-brown; and burnt sienna, orange-brown, etc.).\n(3) Umbers (including burnt umber), which are brown or dark brown.\n(4) Black earths and natural vandyke brown (Cassel and Cologne earths)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Dạng đất nâu vandyke dễ tan là một chất màu được điều chế, được xếp vào nhóm 32.06.\n(5) Đất verona và đất Cyprus (màu xanh)\nViệc nung hoặc trộn lẫn các chất màu từ đất với nhau không làm ảnh hưởng đến việc phân loại chúng. Tuy nhiên, khi trộn với các chất khác hoặc ở trạng thái phân tán trong nước, dầu v.v chúng lại được xếp vào Chương 32.\nNhóm này không bao gồm quặng sắt (nhóm 26.01) và các chất màu từ đất có chứa 70% trở lên hợp chất của sắt tính theo trọng lượng Fe2O3 (nhóm 28.21).\nTuy nhiên oxit sắt có chứa mica được dùng chủ yếu làm chất màu chống gỉ, được phân loại trong nhóm này mặc dù chúng có chứa hơn 70% hợp chất của sắt tính theo trọng lượng.",
+        "en": "Soluble vandyke brown is a prepared pigment which falls in heading 32.06.\n(5) Verona earth and Cyprus earth (green)\nCalcination or the mixing together of various earth colours does not affect their classification. However, when mixed with other substances or presented as dispersions in water, oil, etc., they fall in Chapter 32.\nThe heading excludes iron ores (heading 26.01) and earth colours containing 70 % or more by weight of combined iron evaluated as Fe2O3 (heading 28.21).\nHowever, micaceous iron oxides, used mainly as anti-rust pigments are classified in this heading although they naturally contain more than 70 % by weight of combined iron."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) ĐÁ BỌT BIỂN (ĐÃ HOẶC KHÔNG Ở DẠNG VIÊN ĐƯỢC MÀI BÓNG) VÀ HỔ PHÁCH; ĐÁ BỌT BIỂN NUNG KẾT VÀ HỔ PHÁCH NUNG KẾT DẠNG TẤM, GẬY, QUE HOẶC CÁC DẠNG TƯƠNG TỰ CHƯA ĐƯỢC GIA CÔNG SAU KHI ĐỔ KHUÔN, ĐÁ JET.\n(1) Đá bọt biển tự nhiên và đá bọt biển nung kết chỉ được xếp vào nhóm này khi ở dạng tấm, que... Hoặc các dạng tương tự, không được gia công sau khi đổ khuôn.\n(2) Hổ phách (nhựa hoá thạch) và hổ phách nung kết. Nó chỉ xếp vào nhóm này khi ở dạng tấm, thanh, que hoặc các dạng tương tự, không được gia công sau khi tạo khuôn. Cần tránh nhầm lẫn hổ phách hoặc succunite với ambergris (hổ phách xám), chất được tiết ra từ cá voi được xếp vào nhóm 05.10.\n(3) Đá jet là một loại than non đặc, màu đen nhánh. Mặc dù được ứng dụng trong sản xuất kim hoàn, nhưng nó không được coi như là một loại đá quý theo mục đích của chương này.",
+        "en": "(B) MEERSCHAUM (WHETHER OR NOT IN POLISHED PIECES) AND AMBER; AGGLOMERATED MEERSCHAUM AND AGGLOMERATED AMBER, IN PLATES, RODS, STICKS OR SIMILAR FORMS, NOT WORKED AFTER MOULDING; JET.\n(1) Natural meerschaum and agglomerated meerschaum fall here only when in plates, rods, sticks or similar forms, not worked after moulding.\n(2) Amber (fossilised resin) and agglomerated amber. It falls in this heading only when in plates, rods, sticks or similar forms, not worked after moulding. Care should be taken not to confuse amber or succinite with ambergris, a secretion of the whale, classified in heading 05.10.\n(3) Jet is a compact variety of lignite, intensely black. Although employed in the manufacture of jewellery, it is not regarded as a precious stone for the purpose of the Nomenclature."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(C) STRONTIANITE (ĐÃ HOẶC CHƯA NUNG) TRỪ OXIT STRONTIUM",
+        "en": "(C) STRONTIANITE (WHETHER OR NOT CALCINED), OTHER THAN STRONTIUM OXIDE"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này bao gồm strontianite (strontium carbonate tự nhiên) và strontianite nung, mà thành phần chính là oxit strontium không tinh khiết. Nhóm này không bao gồm oxit strontium tinh khiết (nhóm 28.16).",
+        "en": "This group covers strontianite (natural strontium carbonates) and calcined strontianite, which consists mainly of impure strontium oxide. The heading excludes pure strontium oxide (heading 28.16)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(D) CÁC KHOÁNG CHẤT CHƯA ĐƯỢC NÊU CHI TIẾT HOẶC GHI Ở NƠI KHÁC, ĐỒ GỐM VỠ.\nNgoài những mặt hàng khác, nhóm này bao gồm:\n(1) Arsenic sulphide tự nhiên (Realgar, Orpiment) và Mispickel (arsenical pyrite).\n(2) Alunite (đá phèn).\n(3) Vermiculite, chlorite và perlite. Ở dạng trương nở (hoặc tróc vảy) chúng được xếp vào nhóm 68.06.\n(4) Lydite. Các đá thử được làm bằng lydite sẽ được xếp vào nhóm 68.15.\n(5) Celestite (strontium sulphate tự nhiên); spar Iceland (hoặc calcite) và aragonite (dạng canxi carbonate kết tinh); lepidolite (lithium mica) và amblygonite.\n(6) Đất vườn, đất hoang, đất đầm lầy, đất bồi, đất mùn lá cây, đất đào và đất tầng cái. Nhóm này không bao gồm các loại cát được đào tự nhiên (nhóm 25.05).\n(7) Pozzolana, santorin, trass và các loại đất tương tự.\n(8) Đá vôi (được hiểu là “đá in”), ở dạng thô.\n(9) Đồ gốm vỡ, các mảnh gạch vỡ và các miếng bê tông vỡ.\n(10) Quặng của các kim loại đất hiếm (ví dụ: bastnasite, xenotime, gadolinite).",
+        "en": "(D) MINERAL SUBSTANCES NOT ELSEWHERE SPECIFIED OR INCLUDED; BROKEN POTTERY.\nThis group covers, inter alia:\n(1) Natural arsenic sulphides (Realgar, Orpiment) and Mispickel (arsenical pyrites).\n(2) Alunite (alumstone).\n(3) Vermiculite, chlorites and perlite. In the expanded (or exfoliated) forms they are classified in heading 68.06.\n(4) Lydite. Touchstones made of lydite fall in heading 68.15.\n(5) Celestite (natural strontium sulphate); Iceland spar (or calcite) and aragonite (crystallised calcium carbonates); lepidolite (lithium mica) and amblygonite.\n(6) Garden earth, heath earth, marsh earth, marl, alluvium, leaf moulds and excavated soil and subsoil. The heading excludes excavated natural sands of all kinds (heading 25.05).\n(7) Pozzolana, santorin, trass and similar earths.\n(8) Limestone (known as “lithographic stone”), in the crude state.\n(9) Broken pottery, broken pieces of brick and broken pieces of concrete.\n(10) Ores of the rare earth metals (e.g., bastnasite, xenotime, gadolinite)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Quặng của các kim loại đất hiếm không bao gồm manazite và các quặng khác được sử dụng duy nhất hoặc chủ yếu để tách uranium hoặc thorium (nhóm 26.12).\n(11) Các chất làm mờ (opacifier) dùng trong tráng men, thu được bằng cách xử lý cát zircon.\n(12) Tinh quặng molybdenite cho mục đích phi luyện kim (dầu nhờn).\n(13) Nsutite là quặng manganese có chứa không ít hơn 79% oxit manganese tính theo trọng lượng, dùng trong pin điện.\n(14) Cryolite tự nhiên và chiolite tự nhiên. Nhóm này không bao gồm các fluoride được sản xuất bằng hoá chất có thành phần tương tự (nhóm 28.26).\nNhóm này không bao gồm đá quý và đá bán quý thuộc Chương 71.",
+        "en": "Ores of the rare earth metals but not including monazites and other ores used solely or principally for the extraction of uranium or thorium (heading 26.12).\n(11) Opacifiers used in enamelling, obtained by the treatment of zircon sand.\n(12) Molybdenite “concentrates” for non-metallurgical uses (lubrication).\n(13) Nsutite, a manganese ore containing not less than 79 % by weight of manganese oxides, used in electric batteries.\n(14) Natural cryolite and natural chiolite. The heading excludes chemically produced fluorides of similar composition (heading 28.26).\nThe heading does not cover precious or semi-precious stones of Chapter 71."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2530.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vermiculite, đá trân châu và clorit, chưa giãn nở",
+        "en": "Vermiculite, perlite and chlorites, unexpanded"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2530.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Kiezerit, epsomit (magiê suphat tự nhiên)",
+        "en": "Kieserite, epsomite (natural magnesium sulphates)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2530.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

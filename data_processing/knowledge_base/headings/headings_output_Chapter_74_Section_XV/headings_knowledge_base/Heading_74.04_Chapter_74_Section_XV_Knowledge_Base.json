@@ -1,0 +1,21 @@
+{
+  "heading_id": "74.04",
+  "heading_title": {
+    "vi": "Phế liệu và mảnh vụn của đồng.",
+    "en": "Copper waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm 74.04 phân loại phế liệu và mảnh vụn của đồng. Để phân loại chính xác, cần tham chiếu đến các quy định trong Chú giải của nhóm 72.04 dành cho phế liệu và mảnh vụn sắt, áp dụng một cách tương ứng. Nhóm này bao gồm một sản phẩm đặc thù là cặn kéo chuốt, đây là một hỗn hợp của bột đồng và dầu nhờn phát sinh trong quá trình kéo chuốt. Tuy nhiên, phạm vi của nhóm có những loại trừ quan trọng cần lưu ý. Cụ thể, tro và xỉ đồng không thuộc nhóm này mà được phân loại vào nhóm 26.20. Ngoài ra, các thỏi thô hoặc các dạng chưa gia công tương tự khác được đúc từ phế liệu và mảnh vụn đồng nấu chảy lại cũng bị loại trừ và phải được xếp vào nhóm 74.03. Việc nắm rõ các loại trừ này là rất quan trọng để tránh phân loại sai.",
+    "en": "Heading 74.04 classifies copper waste and scrap. For accurate classification, reference should be made to the provisions in the Explanatory Note to heading 72.04 for iron and steel scrap, applied mutatis mutandis. This heading specifically includes drawing sludge, which is a mixture of copper powder and lubricants generated during the drawing process. However, the scope of this heading has important exclusions to consider. Specifically, cuprous slag, ash, and residues are not included and are classified under heading 26.20. Furthermore, ingots or similar unwrought forms cast from remelted copper waste and scrap are also excluded and must be classified under heading 74.03. Understanding these exclusions is crucial for correct classification."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các quy định của Chú giải nhóm 72.04 về phế liệu và mảnh vụn sắt được áp dụng tương tự cho nhóm này. Nhóm này bao gồm cặn kéo chuốt, là bột đồng trộn với dầu nhờn. Nhóm này không bao gồm: tro và xỉ đồng (nhóm 26.20); các loại thỏi thô hoặc các dạng chưa gia công tương tự đúc từ phế liệu và mảnh vụn đồng nấu chảy lại (nhóm 74.03).",
+        "en": "The provisions concerning waste and scrap in the Explanatory Note to heading 72.04 apply, mutatis mutandis, to this heading. This heading includes drawing sludge, consisting mainly of copper powder mixed with lubricants. It excludes: cuprous slag, ash and residues (heading 26.20); ingots, or similar unwrought forms cast from remelted copper waste and scrap (heading 74.03)."
+      }
+    }
+  ],
+  "subheadings": []
+}

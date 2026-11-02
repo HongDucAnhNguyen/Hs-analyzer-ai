@@ -1,0 +1,134 @@
+{
+  "heading_id": "84.12",
+  "heading_title": {
+    "vi": "Động cơ và mô tơ khác.",
+    "en": "Other engines and motors."
+  },
+  "summary": {
+    "vi": "Nhóm 84.12 bao gồm các động cơ và mô tơ không được phân loại trong các nhóm trước đó như 84.06 đến 84.08, 84.10, 84.11 hoặc các nhóm động cơ điện 85.01, 85.02. Nhóm này chủ yếu bao gồm các động cơ phản lực trừ tuabin phản lực (như động cơ phản lực thuận dòng, xung và động cơ tên lửa), động cơ và mô tơ thủy lực (xi lanh, bộ chuyển động), và động cơ khí nén. Ngoài ra, nhóm còn bao gồm các động cơ hoạt động bằng sức gió, lò xo, hoặc đối trọng. Một số loại động cơ piston và máy chạy bằng hơi nước không tích hợp hoặc có tích hợp nồi hơi cũng thuộc nhóm này. Các loại tên lửa dùng trong kỹ thuật hỏa pháo (nhóm 36.04), phương tiện phóng tàu vũ trụ (nhóm 88.02), và đạn phóng (nhóm 93.06) bị loại trừ. Các bộ phận của các động cơ này cũng được phân loại tại đây, ngoại trừ trục truyền và trục khuỷu thuộc nhóm 84.83.",
+    "en": "Heading 84.12 covers engines and motors not classified in preceding headings like 84.06 to 84.08, 84.10, 84.11 or electric motor headings 85.01, 85.02. This heading primarily includes reaction engines other than turbo-jets (such as ram-jets, pulse-jets, and rocket engines), hydraulic power engines and motors (cylinders, actuators), and pneumatic power engines. Additionally, the heading covers wind engines, spring-operated motors, and weight-operated motors. Certain piston engines and steam power units, whether or not incorporating boilers, also fall under this heading. Pyrotechnic rockets (heading 36.04), spacecraft launch vehicles (heading 88.02), and guided missiles (heading 93.06) are excluded. Parts for these engines are also classified here, with the exception of transmission shafts and crank shafts which belong to heading 84.83."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các mô tơ và động cơ không thuộc các nhóm 84.06 đến 84.08, 84.10 hoặc 84.11 và các nhóm 85.01 hoặc 85.02. Cụ thể, nhóm này bao gồm động cơ phản lực (trừ tuabin phản lực), động cơ và mô tơ khí nén, động cơ chạy bằng sức gió (động cơ gió), động cơ có lò xo, động cơ chạy bằng đối trọng, một số loại tuabin thủy lực hoặc chạy bằng hơi nước hoặc hơi khác.\n(A) ĐỘNG CƠ PHẢN LỰC TRỪ CÁC LOẠI TUABIN PHẢN LỰC: \n(1) Động cơ phản lực thuận dòng (Ram-jets): có cấu tạo cơ khí đơn giản, hoạt động trên các máy có tốc độ cao.\n(2) Động cơ phản lực xung (Pulse-jets): khí thoát ra không liên tục, có thể khởi động từ trạng thái nghỉ.\n(3) Động cơ tên lửa (Rocket engines): nhiên liệu bị đốt cháy bằng chính các nhiên liệu và phụ gia mà không cần đến tác động của khí từ bên ngoài. Có hai loại: động cơ phản lực chạy bằng nhiên liệu lỏng và động cơ phản lực chạy bằng nhiên liệu rắn (một số nhiên liệu có thể thuộc Chương 36).",
+        "en": "This heading covers engines and motors not included in headings 84.06 to 84.08, 84.10 or 84.11 or in heading 85.01 or 85.02. The heading includes reaction engines (other than turbo-jets), pneumatic power engines and motors, wind engines (windmills), spring-operated or weight-operated motors, certain hydraulic power engines and motors, and certain steam or other vapour power units.\n(A) REACTION ENGINES OTHER THAN TURBO-JETS: \n(1) Ram-jets: a mechanically simple engine which can function only on rapidly moving machines.\n(2) Pulse-jets: its outlet nozzle emits a pulsating flow of gas, can be started from rest.\n(3) Rocket engines: combustion is independent of external air supply. There are two main types: liquid propellant engines and solid propellant engines (certain types employ solid fuels of the nature of the propellants of Chapter 36)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Động cơ tên lửa được phân loại ở nhóm này chỉ khi nó dùng tạo thành các đơn vị đẩy. Nhóm này không bao gồm: (a) tên lửa dùng kĩ thuật hoả pháo (nhóm 36.04), (b) phương tiện đẩy để phóng tàu vũ trụ hoặc vệ tinh (nhóm 88.02), (c) đạn phóng dùng trong chiến đấu (nhóm 93.06).\n(B) ĐỘNG CƠ VÀ MÔ TƠ THUỶ LỰC: bao gồm:\n(1) Các loại động cơ trừ tuabin hoặc bánh xe thuộc nhóm 84.10, hoạt động bằng năng lượng sóng biển hoặc thủy triều.\n(2) Máy cột nước hoạt động bằng áp suất nước lên piston.\n(3) Xi lanh thủy lực chuyển năng lượng chất lỏng thành chuyển động tịnh tiến.\n(4) Bộ chuyển động thủy lực chuyển luồng nước thẳng thành luồng quay tròn.\n(5) Động cơ trợ động thủy lực (servomotors).\n(6) Hệ thống thủy lực, tạo thành một bộ máy vận hành theo Chú giải 4 Phần XVI.",
+        "en": "Rockets are classified in this heading only when forming propulsive units proper. This group excludes: (a) pyrotechnic rockets (heading 36.04), (b) satellite or spacecraft launch vehicles (heading 88.02), (c) guided missiles incorporating power-units (heading 93.06).\n(B) HYDRAULIC POWER ENGINES AND MOTORS: this group includes:\n(1) Certain engines, other than turbines or wheels of heading 84.10, utilising the energy of the waves or tides.\n(2) Water column machines operating by the pressure of water on pistons.\n(3) Hydraulic cylinders converting the energy of liquid under pressure into a linear motion.\n(4) Hydraulic valve actuators converting linear motion into a rotary motion.\n(5) Hydraulic servomotors.\n(6) Hydraulic systems forming a functional unit within the meaning of Note 4 to Section XVI."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(7) Động cơ thủy lực phản lực (hydrojet) cho xuồng, thuyền nhỏ.\n(C) ĐỘNG CƠ VÀ MÔ TƠ KHÍ NÉN: sử dụng nguồn năng lượng khí nén từ bên ngoài, dùng trong các khu mỏ, khởi động động cơ đốt trong, và phóng ngư lôi. Nhóm này cũng gồm: (1) Động cơ có cánh quạt nhỏ, động cơ có bánh răng ăn khớp, và động cơ có piston; (2) Xi lanh khí nén; (3) Bộ điều khiển khí nén.\n(D) ĐỘNG CƠ GIÓ (WINDMILLS): là các động cơ (động cơ gió, tuabin gió) chuyển sức gió thành năng lượng cơ học.",
+        "en": "(7) “Hydraulic” jet engines (“hydrojets”) for motor boats.\n(C) PNEUMATIC POWER ENGINES AND MOTORS: use an external source of compressed air, used in mines, for starting internal combustion engines, and for propelling torpedoes. This group also includes: (1) Vane motors, gear motors, and piston motors; (2) Pneumatic cylinders; (3) Pneumatic valve actuators.\n(D) WIND ENGINES (WINDMILLS): power units (wind engines or wind turbines) which directly convert into mechanical energy the action of the wind."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Máy phát điện gắn với động cơ gió bị loại trừ (nhóm 85.02).\n(E) ĐỘNG CƠ CÓ LÒ XO HOẶC CÓ ĐỐI TRỌNG: sử dụng năng lượng từ lò xo hoặc trọng lực. Tuy nhiên, các hệ cơ khí dùng cho đồng hồ bị loại trừ (nhóm 91.08 hoặc 91.09).\n(F) ĐỘNG CƠ PISTON KHÔNG TÍCH HỢP NỒI HƠI: năng lượng cơ học được tạo ra bởi việc dịch chuyển piston bên trong xi lanh bằng chênh lệch áp suất hơi nước.\n(G) MÁY CHẠY BẰNG HƠI NƯỚC HOẶC HƠI KHÁC CÓ TÍCH HỢP NỒI HƠI: bao gồm một nồi hơi cùng với một động cơ hơi nước loại piston.",
+        "en": "Electric generator units composed of wind motors are excluded (heading 85.02).\n(E) SPRING-OPERATED OR WEIGHT-OPERATED MOTORS: use the energy produced by the release of wound-up springs, or are operated by gravity. Mechanisms fitted for clocks are excluded (heading 91.08 or 91.09).\n(F) PISTON ENGINES NOT INCORPORATING BOILERS: mechanical energy is produced by displacement of a piston inside a cylinder by the application of steam pressure difference.\n(G) STEAM OR OTHER VAPOUR POWER UNITS INCORPORATING BOILERS: comprise a boiler together with a piston-type steam engine."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "BỘ PHẬN: Theo quy tắc tổng quát của Phần XVI, bộ phận của các động cơ thuộc nhóm này cũng được phân loại tại đây (ví dụ: buồng đốt, vòi phun nhiên liệu, cánh quạt cối xay gió, xi lanh, piston, van trượt). Các bộ phận của máy chạy bằng hơi nước có tích hợp nồi hơi có thể được phân loại như bộ phận của nồi hơi (nhóm 84.02) hoặc như bộ phận của máy chạy bằng hơi nước thuộc nhóm này. Tuy nhiên, trục truyền và trục khuỷu bị loại trừ (nhóm 84.83).",
+        "en": "PARTS: Subject to the general provisions of Section XVI, parts of the engines of this heading are also classified here (e.g., combustion chambers, fuel nozzles, windmill airwheels, cylinders, pistons, slide-valves). Parts of steam power units incorporating boilers can be classified as parts of boilers (heading 84.02) or as parts of steam power units of this heading. However, transmission shafts and crank shafts are excluded (heading 84.83)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8412.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ phản lực trừ tua bin phản lực",
+        "en": "Reaction engines other than turbo-jets"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ và mô tơ thủy lực:",
+        "en": "Hydraulic power engines and motors:"
+      },
+      "subheading_id": "8412.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Chuyển động tịnh tiến (xi lanh)",
+        "en": "- Linear acting (cylinders)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ và mô tơ thủy lực:",
+        "en": "Hydraulic power engines and motors:"
+      },
+      "subheading_id": "8412.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ và mô tơ dùng khí nén:",
+        "en": "Pneumatic power engines and motors:"
+      },
+      "subheading_id": "8412.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Chuyển động tịnh tiến (xi lanh)",
+        "en": "- Linear acting (cylinders)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ và mô tơ dùng khí nén:",
+        "en": "Pneumatic power engines and motors:"
+      },
+      "subheading_id": "8412.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8412.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8412.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

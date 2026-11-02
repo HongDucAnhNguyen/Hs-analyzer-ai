@@ -1,0 +1,89 @@
+{
+  "heading_id": "72.22",
+  "heading_title": {
+    "vi": "Thép không gỉ dạng thanh và que khác; thép không gỉ ở dạng góc, khuôn và hình khác.",
+    "en": "Other bars and rods of stainless steel; angles, shapes and sections of stainless steel."
+  },
+  "summary": {
+    "vi": "Nhóm 72.22 bao gồm các sản phẩm thép không gỉ dạng thanh, que, góc, khuôn và hình khác. Phân loại hàng hóa trong nhóm này phải áp dụng các điều khoản của Chú giải cho các nhóm từ 72.14 đến 72.16. Đối với phân nhóm cụ thể 7222.20, cần tham chiếu đến Chú giải của các phân nhóm 7215.10 và 7215.50 để xác định đúng. Nhóm này bao gồm nhiều hình dạng sản phẩm thép không gỉ khác nhau, và việc phân loại chính xác đòi hỏi sự tham chiếu chéo đến các nhóm và phân nhóm liên quan khác.",
+    "en": "Heading 72.22 covers other stainless steel products such as bars, rods, angles, shapes, and sections. The classification of goods in this heading must apply the provisions of the Explanatory Notes to headings 72.14 to 72.16. For the specific subheading 7222.20, reference must be made to the Explanatory Note for subheadings 7215.10 and 7215.50 for correct determination. This heading includes various shapes of stainless steel products, and accurate classification requires cross-referencing to other related headings and subheadings."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho các nhóm 72.14 đến 72.16, với những sửa đổi thích hợp, áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Notes to headings 72.14 to 72.16 apply, mutatis mutandis, to the products of this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 7222.20: Xem Chú giải cho các phân nhóm 7215.10, 7215.50.",
+        "en": "Subheading Explanatory Note 7222.20: See the Explanatory Note to subheadings 7215.10 and 7215.50."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Dạng thanh và que, chưa được gia công quá mức cán nóng, kéo nóng hoặc ép đùn qua khuôn:",
+        "en": "- Bars and rods, not further worked than hot-rolled, hot-drawn or extruded:"
+      },
+      "subheading_id": "7222.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có mặt cắt ngang hình tròn",
+        "en": "- - Of circular cross-section"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dạng thanh và que, chưa được gia công quá mức cán nóng, kéo nóng hoặc ép đùn qua khuôn:",
+        "en": "- Bars and rods, not further worked than hot-rolled, hot-drawn or extruded:"
+      },
+      "subheading_id": "7222.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7222.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Dạng thanh và que, chưa được gia công tạo hình nguội hoặc gia công kết thúc nguội",
+        "en": "- Bars and rods, not further worked than cold-formed or cold-finished"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7222.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Các thanh và que khác",
+        "en": "- Other bars and rods"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7222.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Các dạng góc, khuôn và hình",
+        "en": "- Angles, shapes and sections"
+      }
+    }
+  ]
+}

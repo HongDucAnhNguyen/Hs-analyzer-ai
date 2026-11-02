@@ -1,0 +1,165 @@
+{
+  "heading_id": "84.65",
+  "heading_title": {
+    "vi": "Máy công cụ (kể cả máy đóng đinh, đóng ghim, dán hoặc lắp ráp bằng cách khác) dùng để gia công gỗ, lie, xương, cao su cứng, plastic cứng hoặc các vật liệu cứng tương tự.",
+    "en": "Machine-tools (including machines for nailing, stapling, glueing or otherwise assembling) for working wood, cork, bone, hard rubber, hard plastics or similar hard materials."
+  },
+  "summary": {
+    "vi": "Nhóm 84.65 bao gồm các máy công cụ dùng để gia công, tạo hình, xử lý bề mặt và lắp ráp các vật liệu cứng như gỗ, lie, xương, cao su cứng và nhựa cứng. Phạm vi của nhóm này bao gồm cả máy hoạt động bằng động cơ, bằng tay hoặc bàn đạp, miễn là chúng được thiết kế để lắp đặt cố định. Nhóm này phân loại máy thành hai loại chính: máy không chuyên dùng cho ngành công nghiệp cụ thể (như máy cưa, bào, phay, mài, khoan, tiện và trung tâm gia công CNC) và máy chuyên dùng (như máy đóng thùng, làm bút chì, gia công tà vẹt đường sắt). Các loại máy đa năng có thể thực hiện nhiều nguyên công cũng thuộc nhóm này. Tuy nhiên, nhóm này loại trừ các máy gia công vật liệu không cứng (nhóm 84.77), máy đúc từ hạt hoặc bột (nhóm 84.77), máy dùng trong sản xuất bột giấy (nhóm 84.39), máy công cụ sử dụng các quy trình tiên tiến như tia laser (nhóm 84.56), và các dụng cụ cầm tay (nhóm 84.67). Các bộ phận và phụ kiện cho các máy này thường được phân loại trong nhóm 84.66, ngoại trừ các dụng cụ thuộc Chương 82.",
+    "en": "Heading 84.65 covers machine-tools for working, shaping, surface-treating, and assembling hard materials such as wood, cork, bone, hard rubber, and hard plastics. The scope of this heading includes motor-driven, hand-operated, or pedal-operated machines, provided they are designed for fixed installation. This heading classifies machines into two main categories: those not specialized for a particular industry (such as sawing, planing, milling, grinding, drilling, lathes, and CNC machining centers) and specialized machines (such as for cooperage, pencil-making, and processing railway sleepers). Multi-purpose machines that can perform various operations are also included. However, this heading excludes machines for working non-hard materials (heading 84.77), machines for moulding from granules or powder (heading 84.77), machines used in pulp manufacturing (heading 84.39), machine-tools using advanced processes like laser beams (heading 84.56), and hand-held tools (heading 84.67). Parts and accessories for these machines are generally classified in heading 84.66, with the exception of tools from Chapter 82."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy công cụ để tạo hình hoặc gia công bề mặt (kể cả cắt, tạo hình và lắp ráp) các vật liệu cứng như gỗ, lie, xương, cao su cứng, nhựa cứng, sừng, dừa ngà, xà cừ, ngà voi. Nhóm này không bao gồm máy gia công vật liệu không cứng tại thời điểm gia công, như máy cắt nhựa dẻo hoặc cao su không cứng (nhóm 84.77). Nhóm cũng loại trừ máy làm sản phẩm từ hạt hoặc bột như máy đúc khuôn nhựa (nhóm 84.77), máy kết tụ hoặc đúc tấm từ gỗ (nhóm 84.79). Các máy không dùng để gia công vật liệu cũng bị loại trừ, ví dụ máy sấy khô gỗ (nhóm 84.19), máy làm nở lie (nhóm 84.19), máy ép hoặc ngâm tẩm gỗ (nhóm 84.79). Nhóm này bao gồm máy vận hành bằng động cơ, tay hoặc bàn đạp, phân biệt với dụng cụ cầm tay của nhóm 82.05 và 84.67 bởi thiết kế để gắn cố định.",
+        "en": "This heading covers machine-tools for shaping or surface-working (including cutting, forming, and assembling) of hard materials such as wood, cork, bone, hard rubber, hard plastics, horn, corozo, mother of pearl, and ivory. The heading excludes machines for working materials that are not hard at the time of processing, such as machines for cutting supple plastics or unhardened rubber (heading 84.77). It also excludes machines for making articles from granules or powder, such as plastic moulding machines (heading 84.77) and machines for agglomerating or moulding boards from wood (heading 84.79). Machines not intended for working the material itself are also excluded, for example, wood drying machines (heading 84.19), cork expansion machines (heading 84.19), and wood compressing or impregnating machines (heading 84.79). This heading includes power-driven, hand-operated, or pedal-operated machines, which are distinguished from hand tools of headings 82.05 and 84.67 by their design for fixed mounting."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phân loại máy móc thành 2 nhóm chính: (A) Máy không chuyên dùng cho ngành công nghiệp cụ thể, và (B) Máy chuyên dùng. Nhóm (A) bao gồm: (1) Máy cưa các loại, hoạt động bằng lưỡi cưa hoặc dây xích có răng cưa.",
+        "en": "Machines are classified into two main groups: (A) Machines not specialized for a particular industry, and (B) Specialized machines. Group (A) includes: (1) Sawing machines of all types, operating by means of blades or toothed chains."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Tiếp tục mô tả nhóm (A): (1) Các loại máy cưa: cưa chuyển động qua lại, cưa vòng, cưa đĩa. (2) Máy làm khuôn và máy bào, dùng để gia công bề mặt. (3) Máy phay và làm khuôn, dùng để tạo hình dạng (máy dập trục khuôn, máy cắt mộng, máy phay CNC). (4) Trung tâm gia công (CNC), thực hiện nhiều nguyên công với chức năng đổi công cụ tự động. (5) Máy mài, máy chà nhám và máy đánh bóng, sử dụng đá mài hoặc vật liệu mài mòn.",
+        "en": "Continuing description of group (A): (1) Types of sawing machines: reciprocating saws, band saws, circular saws. (2) Moulding and planing machines, used for surface preparation. (3) Milling and moulding machines, for shaping (spindle moulding machines, tenoning machines, CNC milling machines). (4) Machining centres (CNC), which perform multiple operations with automatic tool change. (5) Grinding, sanding, and polishing machines, which use grindstones or abrasives."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Tiếp tục mô tả nhóm (A): (5) Máy chà nhám và máy đánh bóng. (6) Máy uốn, thay đổi hình dạng vật gia công. (7) Máy lắp ráp, bao gồm: máy lắp ráp bằng chất kết dính, máy ghép nối bằng đinh hoặc ghim, và máy ghép nối không dùng chốt. (8) Máy khoan, dùng để khoan lỗ tròn (bao gồm máy khoan CNC). (9) Máy đục mộng, dùng để cắt các hốc không phải hình trụ. (10) Máy xẻ, dập nổi, chia nhỏ, xén và cắt mỏng, bao gồm máy chẻ khúc gỗ, máy dập lớp gỗ, máy tạo mảnh gỗ nhỏ. Loại trừ máy nghiền xơ sản xuất bột giấy (nhóm 84.39).",
+        "en": "Continuing description of group (A): (5) Sanding and polishing machines. (6) Bending machines, which change the shape of the workpiece. (7) Assembling machines, including: machines assembling with adhesives, machines joining with nails or staples, and machines joining without fasteners. (8) Drilling machines, for making circular holes (including CNC drilling machines). (9) Mortising machines, for cutting non-cylindrical holes. (10) Splitting, stamping, fragmenting, paring, and slicing machines, including log splitting machines, veneer stamping machines, and particle producing machines. Excludes defibrators for producing wood pulp (heading 84.39)."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Tiếp tục mô tả nhóm (A): (10) Máy xén hoặc cắt mỏng để sản xuất tấm ván mỏng hoặc gỗ bọc ngoài. (11) Máy tiện, kể cả máy tiện chép hình. (12) Máy cắt tỉa cành cây. (13) Máy bóc vỏ gỗ, trừ máy bóc vỏ bằng tia nước (nhóm 84.24) và trống bóc vỏ (nhóm 84.79). (14) Máy khoan mắt gỗ. Nhóm này cũng bao gồm máy đa năng thực hiện nhiều hoạt động mà không cần thay dụng cụ, như máy kết hợp chế tạo đồ gỗ hoặc máy ghép mộng hai đầu. Nhóm (B) Máy chuyên dùng bao gồm: (1) Máy đóng thùng (loại trừ thiết bị làm bay hơi thuộc nhóm 84.19), (2) Máy sản xuất bút chì, (3) Máy gia công tà vẹt đường sắt, (4) Máy chạm khắc gỗ.",
+        "en": "Continuing description of group (A): (10) Paring or slicing machines for producing thin boards or veneers. (11) Lathes, including copying lathes. (12) Tree delimbing machines. (13) Wood de-barking machinery, other than water-jet bark strippers (heading 84.24) and barking drums (heading 84.79). (14) Knot-boring machines. The heading also includes multi-purpose machines performing different operations without tool change, such as combined joinery machines or double-end tenoning machines. Group (B) Specialized machines include: (1) Cooperage machinery (excluding steaming apparatus of heading 84.19), (2) Pencil-making machinery, (3) Machines for railway sleepers, (4) Wood-sculpturing machines."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Tiếp tục mô tả nhóm (B): (5) Máy nghiền bột gỗ (loại trừ máy nghiền xơ cho bột giấy thuộc nhóm 84.39), (6) Máy lắp ráp hộp, thùng, (7) Máy làm cúc gỗ, (8) Máy làm guốc, đế hoặc gót giày bằng gỗ, (9) Máy gia công cây liễu gai, mây (loại trừ máy sản xuất đồ đan lát thuộc nhóm 84.79). Các bộ phận và phụ kiện của máy thuộc nhóm này được xếp vào nhóm 84.66 (trừ dụng cụ thuộc Chương 82). Các loại trừ khác bao gồm: máy sản xuất bột gỗ (nhóm 84.39), máy công cụ dùng tia lade, siêu âm (nhóm 84.56), dụng cụ cầm tay (nhóm 84.67), và máy làm nguội cho khối bán dẫn (nhóm 84.86).",
+        "en": "Continuing description of group (B): (5) Wood flour grinding machines (excluding defibrators for paper pulp of heading 84.39), (6) Machines for assembling boxes, crates, (7) Wooden button-making machines, (8) Machines for making wooden clogs, soles or heels, (9) Machinery for working osier, cane (other than machines for basketwork of heading 84.79). Parts and accessories for machines of this heading are classified in heading 84.66 (except tools of Chapter 82). Other exclusions include: machines for pulp manufacture (heading 84.39), machine-tools using laser, ultrasonic processes (heading 84.56), tools for working in the hand (heading 84.67), and deflash machines for semiconductor packages (heading 84.86)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8465.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy có thể thực hiện các nguyên công gia công cơ khác nhau mà không cần thay dụng cụ giữa các nguyên công",
+        "en": "Machines which can carry out different types of machining operations without tool change between such operations"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8465.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Trung tâm gia công",
+        "en": "Machining centres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8465.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy cưa",
+        "en": "- - Sawing machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8465.92",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy bào, máy phay hoặc máy tạo khuôn (bằng phương pháp cắt)",
+        "en": "- - Planing, milling or moulding (by cutting) machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8465.93",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy mài, máy chà nhám hoặc máy đánh bóng",
+        "en": "- - Grinding, sanding or polishing machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8465.94",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy uốn hoặc máy lắp ráp",
+        "en": "- - Bending or assembling machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8465.95",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy khoan hoặc đục mộng",
+        "en": "- - Drilling or mortising machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8465.96",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Máy xẻ, lạng hoặc máy bóc tách",
+        "en": "- - Splitting, slicing or paring machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "8465.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

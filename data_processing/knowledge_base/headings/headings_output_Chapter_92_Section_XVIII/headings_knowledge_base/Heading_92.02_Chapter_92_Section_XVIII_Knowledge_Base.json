@@ -1,0 +1,53 @@
+{
+  "heading_id": "92.02",
+  "heading_title": {
+    "vi": "Các nhạc cụ có dây khác (ví dụ, ghi ta, vi-ô-lông, đàn hạc).",
+    "en": "Other string musical instruments (for example, guitars, violins, harps)."
+  },
+  "summary": {
+    "vi": "Nhóm 92.02 bao gồm các nhạc cụ có dây không có phím bấm, được chia thành hai loại chính. Loại (A) là nhạc cụ sử dụng cần kéo, bao gồm vi-ô-lông, viôn, antơ, vi-ô-lông xen và công trơ baxo. Loại (B) là các nhạc cụ có dây khác, chủ yếu là loại gảy như măngđolin, ghita, luýt Đức, băng giô, uculêlê, xita, balalaika và đàn hạc. Nhóm này cũng bao gồm các nhạc cụ khác như harp Êôliêng và ximbalum. Các nhạc cụ có âm thanh được khuếch đại điện tử vẫn được phân loại trong nhóm này, nhưng các nhạc cụ điện tử hoàn toàn không có hộp cộng hưởng (ví dụ như một số loại ghita điện) thì thuộc nhóm 92.07.",
+    "en": "Heading 92.02 covers string musical instruments without a keyboard, divided into two main categories. Category (A) consists of instruments played with a bow, including violins, viols, violas, violoncellos, and double basses. Category (B) covers other string instruments, mainly plucked instruments such as mandolines, guitars, German lutes, banjos, ukuleles, zithers, balalaikas, and harps. This heading also includes other instruments like Aeolian harps and czimbalos. Instruments with electronically amplified sound are still classified in this heading, but fully electronic instruments without a sound-box (for example, certain guitars) fall in heading 92.07."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(A) Nhạc cụ sử dụng cần kéo: Các ví dụ chính là đàn vi-ô-lông, viôn và antơ, vi-ô-lông xen và viôn trầm và công trơ baxo.\n(B) Các nhạc cụ có dây khác, bao gồm:\n(1) Đàn dây gảy, tạo ra âm thanh bằng cách gảy dây bằng ngón tay hoặc miếng gảy. Các ví dụ bao gồm: (a) Đàn Măngđolin (măngđolin Napôli, măngđolin phẳng, măngđon); (b) Ghita.",
+        "en": "This heading covers:\n(A) Instruments played with a bow: The chief examples are violins, viols and violas, violoncellos and bass-viols and double basses.\n(B) Other string musical instruments, including:\n(1) Plucked string instruments, in which sound is obtained by displacing the string with the fingers or a plectrum. Examples include: (a) Mandolines (Neapolitan mandolines, flat mandolines, mandolas); (b) Guitars."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) Các nhạc cụ có dây khác (tiếp theo):\n(1) Đàn dây gảy (tiếp theo): (c) Đàn Luýt Đức; (d) Đàn Băng giô; (e) Đàn Uculêlê; (f) Đàn Xita; (g) Đàn Balalaika; (h) Đàn Hạc.\n(2) Các nhạc cụ khác: (a) Đàn Harp Êôliêng hay harp Êôlơ; (b) Đàn Ximbalum, được gõ bằng dùi có đầu mềm.\nLưu ý: Một số nhạc cụ, đặc biệt là ghita, có thể có âm thanh được khuếch đại điện tử nhưng vẫn thuộc nhóm này; tuy nhiên, các nhạc cụ điện tử như ghita không có hộp cộng hưởng thuộc nhóm 92.07.",
+        "en": "(B) Other string musical instruments (continued):\n(1) Plucked string instruments (continued): (c) German lutes; (d) Banjos; (e) Ukuleles; (f) Zithers (or cithers); (g) Balalaikas; (h) Harps.\n(2) Other instruments: (a) Aeolian harps; (b) Czimbalos, played by striking with soft-headed hammers.\nNote: In some instruments, particularly guitars, the sound may be electronically amplified without excluding them from this heading; however, electronic instruments such as guitars without sound-boxes fall in heading 92.07."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9202.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại sử dụng cần kéo",
+        "en": "Played with a bow"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9202.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

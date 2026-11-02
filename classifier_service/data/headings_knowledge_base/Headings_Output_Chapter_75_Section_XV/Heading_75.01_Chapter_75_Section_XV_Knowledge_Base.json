@@ -1,0 +1,46 @@
+{
+  "heading_id": "75.01",
+  "heading_title": {
+    "vi": "Sten niken, oxit niken thiêu kết và các sản phẩm trung gian khác của quá trình luyện niken.",
+    "en": "Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm trung gian của quá trình luyện niken. Cụ thể gồm: (1) Sten niken, là các loại sunphua niken, sunphua niken-sắt, sunphua niken-đồng, hoặc sunphua niken-sắt-đồng; và (2) Các sản phẩm trung gian khác như: (i) Oxit niken không tinh khiết (ví dụ: oxit niken thiêu kết, 'oxit niken xanh'); (ii) Fero-niken không tinh khiết có hàm lượng lưu huỳnh, phospho và các tạp chất khác cao; và (iii) Xỉ niken (hỗn hợp asenua). Nhóm này không bao gồm fero-niken đã tinh luyện, được phân loại vào nhóm 72.02.",
+    "en": "This heading covers intermediate products of nickel metallurgy. Specifically, it includes: (1) Nickel mattes, which are various nickel sulphides, nickel-iron sulphides, nickel-copper sulphides, or nickel-iron-copper sulphides; and (2) Other intermediate products such as: (i) Impure nickel oxides (e.g., nickel oxide sinters, 'green nickel oxide'); (ii) Impure ferro-nickel with a high content of sulphur, phosphorus, and other impurities; and (iii) Nickel speiss (a mixture of arsenides). This heading excludes refined ferro-nickel, which is classified in heading 72.02."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(1) Sten Niken.\nCác sten này thu được bởi các công đoạn (nung, nấu chảy...) quặng niken và thành phần, tuỳ theo loại quặng và quá trình được sử dụng, niken-sắt sunphua, niken-sắt-đồng sunphua, niken sunphua hoặc niken-đồng sunphua.\nSten thường ở dạng khối đúc hoặc tấm đúc (thường được đập vỏ thành mẩu nhỏ để thuận tiện đóng gói và vận chuyển), dạng hạt hoặc bột (đặc biệt ở trường hợp của một số sten niken sunphua).\nDạng sten này được sử dụng trong sản xuất niken chưa gia công.\n(2) Các sản phẩm trung gian khác của quá trình luyện niken.\nNhóm này bao gồm:\n(i) Oxit niken không tinh khiết, ví dụ oxit niken thiêu kết, oxit niken ở dạng bột (“ôxit niken xanh”), thu được bởi quá trình xử lý quặng sunphua hoặc quặng oxit có chứa niken. Các loại oxit không tinh khiết này phần lớn được sử dụng trong sản xuất thép hợp kim.\nOxit niken thiêu kết thường có dạng bột hoặc mẩu nhỏ kích thước có thể đạt đến 50 mm.\n(ii) Fero-niken không tinh khiết, do có hàm lượng lớn lưu huỳnh (0,5% hoặc hon), phospho và các tạp chất khác nên không thể được sử dụng như sản phẩm hợp kim trong công nghiệp luyện thép mà không có sự tinh luyện ban đầu. Fero-niken đã tinh luyện được sử dụng gần như duy nhất trong công nghiệp luyện thép để cung cấp niken cần thiết cho sản xuất một số thép đặc biệt. Do vậy Niken được phân loại như hợp kim fero ở nhóm 72.02 theo các quy định Chú giải 1 (c) Chương 72.\n(iii) Xỉ niken, có nghĩa là hỗn hợp asenua dạng cục; hiện nay xỉ Niken không còn quan trọng lắm về thương mại.",
+        "en": "(1) Nickel mattes.\nThese mattes are obtained by the processing (roasting, smelting, etc.) of nickel ores and consist, according to the ores and processes employed, of nickel-iron sulphides, nickel-iron-copper sulphides, nickel sulphides or nickel-copper sulphides.\nMattes are usually in the form of cast blocks or slabs (often broken into pieces to facilitate packing or transport), granules or powders (particularly in the case of certain nickel sulphide mattes).\nThese mattes are used in the production of unwrought nickel.\n(2) The other intermediate products of nickel metallurgy.\nThese include:\n(i) Impure nickel oxides, e.g., nickel oxide sinters, nickel oxide in powder form (“green nickel oxide”), obtained by the processing of nickeliferous sulphide or oxide ores. These impure oxides are mainly used in the manufacture of alloy steels.\nNickel oxide sinters are usually in the form of powders or in lumps up to 50 mm.\n(ii) Impure ferro-nickel which, because of its high content of sulphur (0.5 % or more), phosphorus and other impurities, cannot be used as an alloying product in the steel industry without prior refining. Refined ferro-nickel is used almost solely in the steel industry to provide the nickel necessary for the manufacture of certain special steels; it is therefore classified as a ferro-alloy in heading 72.02, subject to the provisions of Note 1 (c) to Chapter 72.\n(iii) Nickel speiss, i.e., a lumpy mixture of arsenides; it is not now of great commercial importance."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7501.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sten niken",
+        "en": "Nickel mattes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7501.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Oxít niken thiêu kết và các sản phẩm trung gian khác của quá trình luyện niken",
+        "en": "Nickel oxide sinters and other intermediate products of nickel metallurgy"
+      }
+    }
+  ]
+}

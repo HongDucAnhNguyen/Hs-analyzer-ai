@@ -1,0 +1,46 @@
+{
+  "heading_id": "87.13",
+  "heading_title": {
+    "vi": "Các loại xe dành cho người tàn tật, có hoặc không lắp động cơ hoặc cơ cấu đẩy cơ khí khác.",
+    "en": "Carriages for disabled persons, whether or not motorised or otherwise mechanically propelled."
+  },
+  "summary": {
+    "vi": "Nhóm 87.13 bao gồm các loại xe được thiết kế đặc biệt để chuyên chở người tàn tật, như xe lăn và các xe tương tự. Các phương tiện này có thể được trang bị cơ cấu đẩy cơ khí, chẳng hạn như động cơ nhẹ, hoặc vận hành bằng tay qua cần lắc hoặc tay quay. Các loại xe không có cơ cấu đẩy cơ khí thì được đẩy bằng tay hoặc tác động trực tiếp lên bánh xe. Nhóm này không bao gồm các phương tiện thông thường chỉ được sửa đổi đơn giản cho người tàn tật, ví dụ như ô tô lắp côn tay hoặc ga tay (nhóm 87.03) hoặc xe đạp hai bánh có bàn đạp đặc biệt (nhóm 87.12). Ngoài ra, các loại xe cáng thương cũng bị loại trừ và được phân loại vào nhóm 94.02.",
+    "en": "Heading 87.13 covers vehicles specially designed for the transport of disabled persons, such as wheelchairs and similar vehicles. These carriages may be fitted with mechanical propulsion, like a light motor, or operated by hand using a lever or handle mechanism. Non-mechanically propelled types are pushed by hand or by direct manual operation of the wheels. The heading excludes normal vehicles that are simply adapted for disabled use, for instance, motor cars with hand-operated controls (heading 87.03) or bicycles with special pedal attachments (heading 87.12). Additionally, trolley-stretchers are also excluded and are classified under heading 94.02."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại xe, xe lăn, hoặc các xe tương tự, được thiết kế đặc biệt để chở người tàn tật, có hoặc không có cơ cấu đẩy dạng cơ khí. Xe có cơ cấu đẩy cơ khí thường được chuyển động bằng động cơ nhẹ, hoặc bằng tay qua cơ cấu cần lắc hoặc tay quay. Các xe khác cho người tàn tật được đẩy bằng tay hoặc đẩy do tác động trực tiếp bằng tay trên bánh xe. Nhóm này loại trừ: (a) Các xe thông thường được thay đổi đơn giản phù hợp để sử dụng cho người tàn tật, ví dụ, xe ôtô lắp côn tay, ga tay (nhóm 87.03), hoặc các xe đạp hai bánh có bàn đạp đặc biệt để đạp được bằng một chân (nhóm 87.12). (b) Các xe cáng thương (nhóm 94.02).",
+        "en": "This heading covers carriages, wheelchairs, or similar vehicles, specially designed for the transport of disabled persons, whether or not fitted with means of mechanical propulsion. Vehicles fitted with means of mechanical propulsion are usually driven by a light motor, or propelled by hand by means of a lever or handle- operated mechanism. The other carriages for disabled persons are pushed by hand or propelled by direct manual operation of the wheels. The heading excludes : (a) Normal vehicles simply adapted for use by disabled persons (for example, a motor car fitted with a hand-operated clutch, accelerator, etc. (heading 87.03), or a bicycle fitted with a special attachment and pedalled with one foot (heading 87.12)). (b) Trolley-stretchers (heading 94.02)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8713.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại không có cơ cấu đẩy cơ khí",
+        "en": "Not mechanically propelled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8713.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác.",
+        "en": "Other"
+      }
+    }
+  ]
+}

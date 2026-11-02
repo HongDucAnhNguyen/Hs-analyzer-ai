@@ -1,0 +1,58 @@
+{
+  "heading_id": "96.15",
+  "heading_title": {
+    "vi": "Lược, trâm cài tóc và loại tương tự; ghim cài tóc, cặp uốn tóc, kẹp uốn tóc, lô cuộn tóc và loại tương tự, trừ các loại thuộc nhóm 85.16, và bộ phận của chúng.",
+    "en": "Combs, hair-slides and the like; hair pins, curling pins, curling grips, hair-curlers and the like, other than those of heading 85.16, and parts thereof."
+  },
+  "summary": {
+    "vi": "Nhóm 96.15 bao gồm các dụng cụ làm tóc và trang điểm tóc không dùng điện. Cụ thể, nhóm này gồm các loại lược cho người và động vật, trâm cài tóc và các sản phẩm tương tự dùng để giữ nếp hoặc trang trí tóc. Ngoài ra còn có ghim cài tóc, kẹp uốn tóc, cặp uốn tóc và lô cuộn tóc. Các sản phẩm này thường được làm từ nhựa, ngà, xương, sừng, mai rùa hoặc kim loại cơ bản. Nhóm này loại trừ các thiết bị làm tóc bằng điện thuộc nhóm 85.16. Các sản phẩm có chứa kim loại quý, kim loại mạ kim loại quý, ngọc trai, đá quý hoặc bán quý (trừ khi chỉ là thành phần phụ) sẽ được phân loại vào Chương 71. Băng buộc đầu bằng chất liệu dệt cũng bị loại trừ và thuộc Phần XI.",
+    "en": "Heading 96.15 covers non-electric hairdressing and hair adornment implements. Specifically, it includes combs for humans and animals, hair-slides, and similar articles for holding hair in place or for ornamentation. It also covers hairpins, curling pins, curling grips, and hair-curlers. These items are typically made of plastics, ivory, bone, horn, tortoise-shell, or base metal. The heading excludes electric hair-styling apparatus of heading 85.16. Articles containing precious metal, metal clad with precious metal, pearls, or precious/semi-precious stones (other than as minor constituents) are classified in Chapter 71. Textile headbands are also excluded and fall under Section XI."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm: (1) Lược vệ sinh các loại, kể cả lược chải cho động vật. (2) Lược chải tóc các loại, dùng cho trang điểm cá nhân hoặc để giữ tóc theo nếp. (3) Trâm cài tóc và các loại tương tự để giữ tóc theo nếp hoặc để trang điểm. (4) Kẹp tóc. (5) Kẹp uốn tóc, cặp uốn tóc, cuộn uốn tóc và các loại tương tự, trừ loại thuộc nhóm 85.16. Các sản phẩm này được phân loại vào Chương 71 nếu chứa kim loại quý hoặc kim loại mạ kim loại quý, ngọc trai tự nhiên hoặc nuôi cấy, đá quý hoặc bán quý (tự nhiên, tổng hợp hoặc tái tạo), trừ trường hợp các chất liệu này chỉ là thành phần rất nhỏ. Nhóm này cũng loại trừ băng buộc đầu bằng chất liệu dệt (Phần XI).",
+        "en": "This heading covers: (1) Toilet combs of all kinds, including combs for animals. (2) Dress combs of all kinds, whether for personal adornment or for keeping the hair in place. (3) Hair-slides and the like for holding the hair in place or for ornamental purposes. (4) Hairpins. (5) Curling pins, curling grips, hair-curlers and the like, other than those of heading 85.16. These articles fall in Chapter 71 if containing precious metal or metal clad with precious metal, natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed), other than as minor constituents. This heading also excludes textile headbands (Section XI)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Lược, trâm cài tóc và loại tương tự:",
+        "en": "- Combs, hair-slides and the like:"
+      },
+      "subheading_id": "9615.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng cao su cứng hoặc plastic",
+        "en": "- - Of hard rubber or plastics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Lược, trâm cài tóc và loại tương tự:",
+        "en": "- Combs, hair-slides and the like:"
+      },
+      "subheading_id": "9615.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9615.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

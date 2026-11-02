@@ -1,0 +1,82 @@
+{
+  "heading_id": "84.86",
+  "heading_title": {
+    "vi": "Máy và thiết bị chỉ sử dụng hoặc chủ yếu sử dụng để sản xuất các khối bán dẫn hoặc tấm bán dẫn mỏng, linh kiện bán dẫn, mạch điện tử tích hợp hoặc màn hình dẹt; máy và thiết bị nêu ở Chú giải 11 (C) của Chương này; bộ phận và phụ kiện.",
+    "en": "Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays; machines and apparatus specified in note 11 (C) to this Chapter; parts and accessories."
+  },
+  "summary": {
+    "vi": "Nhóm 84.86 bao gồm các loại máy và thiết bị chuyên dụng được sử dụng duy nhất hoặc chủ yếu trong ngành công nghiệp sản xuất công nghệ cao. Cụ thể, nhóm này áp dụng cho các máy móc dùng để sản xuất khối hoặc tấm bán dẫn mỏng, các linh kiện bán dẫn, và mạch điện tử tích hợp. Ngoài ra, nó còn bao gồm các máy và thiết bị dùng để sản xuất màn hình dẹt. Phạm vi của nhóm cũng được mở rộng để bao gồm các máy móc và thiết bị được quy định cụ thể tại Chú giải 11(C) của Chương 84. Các bộ phận và phụ kiện dành riêng cho các máy móc này cũng được phân loại trong nhóm này. Tuy nhiên, có một loại trừ quan trọng: các máy và thiết bị dùng cho mục đích đo lường, kiểm tra, kiểm soát hoặc phân tích hóa học không thuộc nhóm này mà được phân loại vào Chương 90.",
+    "en": "Heading 84.86 covers specialized machines and apparatus used solely or principally in the high-technology manufacturing industry. Specifically, this heading applies to machinery for the manufacture of semiconductor boules or wafers, semiconductor devices, and electronic integrated circuits. Additionally, it includes machines and apparatus for manufacturing flat panel displays. The scope of the heading also extends to machinery and apparatus specified in Note 11(C) to Chapter 84. Parts and accessories for these machines are also classified in this heading. However, there is an important exclusion: machines and apparatus for measuring, checking, inspecting, or chemical analysis are not included in this heading but are classified in Chapter 90."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy và thiết bị, loại chỉ dùng hoặc chủ yếu dùng để sản xuất khối bán dẫn hoặc tấm bán dẫn mỏng, thiết bị bán dẫn, mạch điện tử tích hợp hoặc tấm màn hình dẹt. Tuy nhiên, nhóm này loại trừ các máy và thiết bị để đo, kiểm tra, kiểm soát, phân tích hóa học…. (Chương 90).",
+        "en": "This heading covers machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays. However, this heading excludes machines and apparatus for measuring, checking, inspecting, chemical analysis, etc. (Chapter 90)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8486.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy và thiết bị để sản xuất khối hoặc tấm bán dẫn mỏng",
+        "en": "Machines and apparatus for the manufacture of boules or wafers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8486.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy và thiết bị để sản xuất linh kiện bán dẫn hoặc mạch điện tử tích hợp",
+        "en": "Machines and apparatus for the manufacture of semiconductor devices or of electronic integrated circuits"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8486.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy và thiết bị dùng để sản xuất màn hình dẹt",
+        "en": "Machines and apparatus for the manufacture of flat panel displays"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8486.40",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy và thiết bị nêu tại Chú giải 11 (C) Chương này",
+        "en": "Machines and apparatus specified in Note 11 (C) to this Chapter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8486.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện:",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

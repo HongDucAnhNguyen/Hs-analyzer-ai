@@ -1,0 +1,217 @@
+{
+  "heading_id": "90.30",
+  "heading_title": {
+    "vi": "Máy hiện sóng, máy phân tích phổ và các dụng cụ và thiết bị khác để đo hoặc kiểm tra đại lượng điện, trừ các loại máy thuộc nhóm 90.28; các thiết bị và dụng cụ đo hoặc phát hiện tia alpha, beta, gamma, tia X, bức xạ vũ trụ hoặc các bức xạ ion khác.",
+    "en": "Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 90.28; instruments and apparatus for measuring or detecting alpha, beta, gamma, X-ray, cosmic or other ionising radiations."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hai nhóm thiết bị riêng biệt:\n(A) Dụng cụ và thiết bị đo hoặc phát hiện các bức xạ ion hóa (alpha, beta, gamma, tia X, bức xạ vũ trụ, v.v.), được sử dụng trong nghiên cứu khoa học, công nghiệp và y tế. Các loại chính bao gồm: thiết bị dò có buồng ion hóa, ống đếm Geiger, công tơ nhấp nháy, xạ lượng kế, máy phát hiện nơtron.\n(B) Máy hiện sóng, máy phân tích phổ và các dụng cụ khác để đo hoặc kiểm tra đại lượng điện. Nhóm này bao gồm một loạt các thiết bị như: máy hiện sóng và máy ghi dao động (tia catốt, Duddell, v.v.), máy phân tích phổ, máy ghi hiện tượng nhất thời, máy phân tích logic, và các dụng cụ để đo cường độ dòng (ampe kế), điện áp (vôn kế), điện trở (ôm kế), công suất (oát kế), điện dung, điện cảm, tần số, cũng như các thiết bị chuyên dụng cho viễn thông (máy đo xuyên âm, máy đo độ khuếch đại, máy đo tạp âm).\n\nNhóm này không bao gồm:\n- Các loại máy đo thuộc nhóm 90.28.\n- Dụng cụ y tế chẩn đoán sử dụng công tơ nhấp nháy (ví dụ, máy soi gamma) (nhóm 90.18).\n- Dụng cụ đo lường hoặc kiểm tra được thiết kế để kết hợp với một nguồn phóng xạ (nhóm 90.22).\n- Các dụng cụ đo đại lượng âm thanh (nhóm 90.27).\n- Máy biến thế, điện trở chuẩn, tụ điện chuẩn, v.v., khi được trình bày riêng lẻ (Chương 85).\n\nTheo Chú giải 1 và 2 của Chương 90, các bộ phận và phụ kiện của các dụng cụ, thiết bị thuộc nhóm này cũng được phân loại tại đây.",
+    "en": "This heading covers two distinct groups of apparatus:\n(A) Instruments and apparatus for measuring or detecting ionising radiations (alpha, beta, gamma, X-ray, cosmic, etc.), used in scientific research, industry, and medicine. Main types include: detection instruments with ionisation chambers, Geiger counters, scintillation counters, dosimeters, neutron detectors.\n(B) Oscilloscopes, spectrum analysers and other instruments for measuring or checking electrical quantities. This group includes a wide range of devices such as: oscilloscopes and oscillographs (cathode-ray, Duddell, etc.), spectrum analysers, transient phenomena recorders, logic analysers, and instruments for measuring current (ammeters), voltage (voltmeters), resistance (ohmmeters), power (wattmeters), capacitance, inductance, frequency, as well as specialised apparatus for telecommunications (cross-talk meters, gain measuring instruments, psophometers).\n\nThis heading excludes:\n- Meters of heading 90.28.\n- Medical diagnostic apparatus incorporating a scintillation counter (e.g., gamma camera) (heading 90.18).\n- Measuring or checking apparatus designed to incorporate a radioactive source (heading 90.22).\n- Instruments and apparatus for measuring quantities of sound (heading 90.27).\n- Transformers, standard resistors, standard capacitors, etc., when presented separately (Chapter 85).\n\nSubject to Notes 1 and 2 to Chapter 90, parts and accessories of the instruments and appliances of this heading are also classified here."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) DỤNG CỤ VÀ THIẾT BỊ ĐO HOẶC PHÁT HIỆN CÁC BỨC XẠ ALPHA, BÊTA, GAMMA, TIA X, BỨC XẠ VŨ TRỤ HOẶC CÁC BỨC XẠ ION KHÁC\n\nChúng được sử dụng trong nghiên cứu khoa học, cho các mục đích công nghiệp (luyện kim, thăm dò dầu hoả, v.v...), hoặc trong sinh học hoặc y học (kết nối với bộ phận quét phát xạ). Chúng bao gồm:\n(1) Các thiết bị dò tìm có các buồng ion hoá. Một hiệu điện thế được tạo ra giữa hai điện cực chứa trong buồng ion hoá. Các ion đã hình thành khi một tia phóng xạ chạy vào buồng này được hút về các điện cực và những thay đổi cuối cùng về hiệu điện thế có thể được khuếch đại và đo.\n(2) Ống đếm Geiger. Một hiệu điện thế lớn được duy trì giữa các điện cực của thiết bị đo; các ion được tạo ra khi tia phóng xạ đến được gia tốc rất nhanh và sau đó ion hoá luôn khí chứa trong ống và các xung hình thành có thể được đếm.\nCác thiết bị buồng ion hoá và ống đếm Geiger thuộc nhóm này thường gồm nhiều thành phần như một buồng, hoặc một công tơ, một máy khuếch đại, một đơn vị cung cấp điện áp cho buồng hoặc công tơ và một mạch đếm hoặc một công cụ chỉ báo. Các thành phần trên thường được chứa trong một hộp chung. Có khi, các thành phần (trừ buồng ion hoá và công tơ ra), được kết hợp trong cùng một hộp, những thiết bị loại đó (muốn hoàn chỉnh phải có buồng ion hoá hoặc một công tơ) vẫn được phân loại vào nhóm này (như một công cụ cần hoàn chỉnh). Khi các thành phần cá thể trên được tách rời thì sẽ được phân loại theo các điều khoản của Chú giải tổng quát của Chương này.\nMột số buồng ion hoá sử dụng để đo tổng các số lượng bức xạ phát ra trong một khoảng thời gian đáng kể (ví dụ, 24 giờ) thì không cần thiết bị khuếch đại phụ trợ, v.v... mà gồm một con trỏ di động rất nhẹ, đưa vào kính hiển vi để đọc kết quả và chỉ ra tổng số các bức xạ đã đi qua buồng. Các buồng này (chúng trông giống như một bút máy), bản thân chúng là những công cụ đo hoàn chỉnh và được phân loại vào nhóm này.\nNhóm này cũng kể đến các công tơ nhấp nháy. Chúng gồm một dụng cụ (bộ nhân quang điện) mà bộ này cần được trang bị một tế bào quang điện và một bộ nhân electron. Chúng hoạt động theo nguyên lý mà theo đó phóng xạ có thể được dò hoặc đo bằng hiệu ứng của nó khi kích thích huỳnh quang của một tinh thể cố định.",
+        "en": "(A) INSTRUMENTS AND APPARATUS FOR MEASURING OR DETECTING ALPHA, BETA, GAMMA, X-RAY, COSMIC OR OTHER IONISING RADIATIONS\n\nThese instruments and apparatus are used in scientific research, for industrial purposes (metallurgy, petroleum prospecting, etc.), or for biological or medical purposes (in conjunction with radioactive tracers). They include:\n(1) Detection instruments incorporating ionisation chambers. A potential difference is set up between two electrodes contained in the ionisation chamber. The ions formed when a radiation enters the chamber are attracted to the electrodes, and the resulting changes in the potential difference may be amplified and measured.\n(2) Geiger counters. A large potential difference is maintained between the electrodes of the counter; the ions produced by an incoming radiation are greatly accelerated, and in turn ionise the gas contained in the tube. This sets up impulses which may be counted.\nThe ionisation chamber and Geiger counter apparatus of this heading normally consist of several units such as a chamber or counter, an amplifier, a voltage supply unit for the chamber or counter, and a counting circuit or indicating instrument. All these units are often incorporated in the same case. Sometimes all the units except the chamber or counter are in the same case, and apparatus of this type (which requires a chamber or counter before it is complete) remains classified in this heading (as an essentially complete instrument). When the individual units are presented separately they are classified in accordance with the provisions of the General Explanatory Note to this Chapter.\nCertain ionisation chambers which are used to measure total quantities of radiation over an appreciable time (e.g., 24 hours) do not require any auxiliary amplifiers, etc., but incorporate a very light moving pointer which can be read under a microscope and then shows the total amount of radiation which has passed through the chamber. These chambers (which often resemble fountain pens) are complete measuring instruments in themselves and are classified in this heading.\nThe heading also covers scintillation counters. These consist of a device (photomultiplier) which is made up essentially of a photoelectric cell and an electron multiplier. They operate on the principle that radiation may be detected or measured by its effect in exciting the fluorescence of certain crystals."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Cùng nhóm này còn có:\n(1) Các xạ lượng kế và dụng cụ tương tự để đo và kiểm tra cường độ và khả năng xuyên thấu của các tia X.\n(2) Các dụng cụ đo bức xạ của vũ trụ hoặc bức xạ tương tự\n(3) Các máy phát hiện nơtrôn gọi là \"pin nhiệt\", cũng như các dụng cụ để dò hoặc đo có lắp các ống dò nơtrôn (các loại Bo, trifluoride Bo, hydro, hoặc các thành phần phóng xạ có thể phân hạch).\n(4) Các dụng cụ dò hoặc đo bức xạ gồm các máy phát hiện bức xạ qua các chất phát sáng dạng chất lỏng hay rắn.\nNhóm này không bao gồm:\n(a) Những dụng cụ gồm công tơ nhấp nháy có các thông số đã được chuyển thành tín hiệu tương tự nhằm phục vụ cho mục đích chẩn đoán bệnh (ví dụ máy soi gamma, máy quét biểu đồ nhấp nháy) (nhóm 90.18).\n(b) Những dụng cụ dùng để đo hoặc kiểm tra được thiết kế để đưa vào một nguồn phóng xạ (chủ yếu các chất đồng vị nhân tạo) ví dụ như đo độ dày vật liệu (tấm, lớp lót hoặc những vật tương tự), những dụng cụ để kiểm tra nội dung các lớp vỏ bọc để đo dòng không khí có vận tốc thấp (phong tốc kế, máy đo sự ion hoá) ... (nhóm 90.22).",
+        "en": "This group also includes:\n(1) Dosimeters and similar apparatus used in radiology for measuring and checking the intensity and penetrating power of X-rays.\n(2) Apparatus for measuring cosmic or similar radiations.\n(3) “Thermopile” neutron detectors and measuring or detecting instruments incorporating neutron detector tubes (boron, boron trifluoride or hydrogen types, or using radioactive fissionable elements).\n(4) Radiation measuring or detecting instruments incorporating liquid or solid scintillators.\nThe heading excludes:\n(a) Apparatus incorporating a scintillation counter whose data are converted into analogue signals for the purpose of making medical diagnoses (e.g., gamma camera, scintillation scanner) (heading 90.18).\n(b) Measuring or checking apparatus designed to incorporate a radioactive source (in particular, artificial isotopes), for example, for measuring thickness of materials (sheets, linings or the like), for monitoring the contents of packages, for measuring low speed air currents (ionisation anemometers), etc. (heading 90.22)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(B) MÁY HIỆN SÓNG, MÁY PHÂN TÍCH PHỔ VÀ CÁC DỤNG CỤ VÀ CÁC THIẾT BỊ KHÁC ĐỂ ĐO HOẶC KIỂM TRA ĐẠI LƯỢNG ĐIỆN\n\nCác máy hiện sóng và máy ghi dao động được sử dụng chủ yếu để quan sát hoặc ghi mọi biến đổi nhanh của một đại lượng điện (hiệu điện thế, cường độ, v.v...). Các máy này có thể được phân ra ba loại chính:\n(a) Máy ghi dao động Duddell, bên trong là một cuộn dây thường có một vòng dây điện quấn căng gắn chặt với mặt gương chuyển động trong môi trường nam châm điện. Hiện tượng cần nghiên cứu định kỳ có thể được quan sát trực tiếp trên một mắt kính nhám hoặc được ghi trên một dải phim.\n(b) Máy ghi dao động loại sắt mềm và dao khắc với một cuộn dây trên một dải sắt mềm đặt trong môi trường không thay đổi. Một kim nhẹ đầu nhọn nối với dải và ghi vạch lại hiện tượng (ví dụ bằng việc cắt một dải được tráng phủ cellulose acetate).\n(c) Các máy ghi dao động và máy hiện sóng tự kí tia catốt; hoạt động bằng cách ghi lại việc các chùm tia catốt bị làm lệch như thế nào bởi lực tĩnh điện hoặc điện từ. Những khí cụ đó, dưới dạng một hay nhiều bộ phận, chủ yếu gồm ống tia catốt, các cơ cấu nạp và các máy biến thế, bộ khuếch đại, một cơ cấu quét, nhiều cơ cấu phụ và đôi khi, một chuyển mạch điện tử.",
+        "en": "(B) OSCILLOSCOPES, SPECTRUM ANALYSERS AND OTHER INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING ELECTRICAL QUANTITIES\n\nOscilloscopes and oscillographs are used respectively for observing or recording rapid variations of an electrical quantity (voltage, current, etc.). The instruments may be divided into three main categories:\n(a) Duddell oscillographs, in which a coil, usually consisting of a loop of taut wire with mirrors attached, moves in the field of an electro-magnet. The periodic phenomenon under study can be observed directly on a sheet of frosted glass, or recorded on a photographic tape.\n(b) Soft iron and graver type oscillographs, with a coil acting on a strip of soft iron placed in a constant field. A lightweight rod, pointed at one end, is fixed to the strip and traces the phenomenon (e.g., by cutting a coated cellulose acetate tape).\n(c) Cathode-ray oscilloscopes and oscillographs; these operate by recording how a cathode-ray beam is deflected by electrostatic or electro-magnetic forces. These instruments, which may be in one or more parts, consist essentially of the cathode-ray tube, feeding devices and transformers, amplifiers, a sweeping or scanning system and other auxiliary devices and, sometimes, an electronic switch."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Máy hiện sóng có bộ nhớ được dùng trong nghiên cứu các hiện tượng chuyển tiếp quá nhanh được cách điện và được trang bị hoặc một ống catốt nhớ, hoặc một bộ nhớ số kết hợp với một ống catốt. Trong loại thứ nhất, hình ảnh của tín hiệu thu được được lưu giữ trong ống catốt. Trong loại thứ hai, tín hiệu được ghi trong bộ nhớ và có thể lấy ra tùy ý để xem trên màn hình.\nMáy phân tích phổ là những dụng cụ nhằm xác định các thành phần tần số khác nhau của một tín hiệu điện đi vào, chủ yếu cho phép phân tích các đại lượng điện, cũng có thể dùng để phân tích một bức xạ ion, sóng âm thanh hoặc các đại lượng không liên quan đến điện khác khi nối với một máy dò bức xạ hoặc thiết bị khác cho phép phát hiện các đại lượng không mang điện và biến đổi chúng thành tín hiệu điện.\nNhóm này gồm các máy ghi các hiện tượng nhất thời/ngắn hạn là những dụng cụ được thiết kế nhằm thu một tín hiệu và ghi lại để truyền đến, dưới một hình thức thích hợp, một thiết bị màn hình sau đó (ví dụ, màn hình tivi). Các máy \"phân tích lôgic\", là những dụng cụ để nghiên cứu các mạch điện bao gồm hầu hết các bộ phận cấu thành nên các dụng cụ bán dẫn, cũng thuộc nhóm này.",
+        "en": "Oscilloscopes with a memory, used to examine isolated rapid transient phenomena, are equipped with either a cathode-ray memory tube or a numeric memory associated with a cathode-ray tube. In the first type, the image of the signal is captured and maintained on the cathode-ray tube. In the second type, the signal is recorded in the memory and can be retrieved at will to be viewed on the screen.\nSpectrum analysers are instruments which identify the different frequency components of an electrical input signal. They are mainly used to analyse electrical quantities. They can also analyse ionising radiations, sound waves or other non-electrical quantities when used in conjunction with radiation detectors or other devices which can detect non-electrical quantities and convert them into electrical signals.\nThe heading covers transient phenomena recorders which are apparatus designed to capture a signal and to record it with a view to transmitting it later, in an appropriate form, onto a display apparatus (television monitor, for example). “ Logic analysers ”, which are apparatus used to examine electrical circuits consisting for the most part of semiconductor devices, are also classified here."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Những công cụ và máy đo hoặc kiểm tra các đại lượng điện có thể gồm những máy chỉ báo hoặc dụng cụ ghi.\nDưới góc độ nguyên lý vận hành, các công cụ và máy đó được chia thành một số nhóm như:\n(1) Máy điện từ: trong đó, dòng điện phải đo được chạy qua một cuộn dây tự do để di chuyển trong một từ trường do một nam châm vĩnh cửu tạo ra. Kim chỉ báo được gắn vào cuộn dây.\n(2) Dụng cụ sắt từ: trong đó từ trường do một lõi solenoid tạo nên tác động lên một mảnh sắt mềm đính trục kim và làm cho kim chạy.\n(3) Dụng cụ điện động: trong đó, dòng điện cần đo chạy qua các cuộn dây cố định và cuộn di động, cuộn di động hoạt động trong từ trường phát sinh bởi các cuộn cố định và kim được đính vào các cuộn di động.\n(4) Dụng cụ cảm ứng: gồm một trục kim trên đó lắp một đĩa dẹt hoặc một xilanh di chuyển trong khe hở khí của một nam châm điện từ, có một cuộn hoặc nhiều cuộn dây.",
+        "en": "Instruments and apparatus for measuring or checking electrical quantities may be indicating or recording types.\nThey may be subdivided, according to their mode of operation, into a number of groups, such as:\n(1) Moving-coil instruments, in which the current to be measured passes through a coil free to move in the magnetic field provided by a permanent magnet. The pointer is secured to the moving coil.\n(2) Moving-iron instruments, in which the pointer is deflected by a solenoid acting upon a piece of soft iron fixed to the pointer shaft.\n(3) Electrodynamic instruments, in which the current to be measured passes through fixed and moving coils, the moving coils operating in the magnetic field of the fixed coils. The pointer is secured to the moving coils.\n(4) Induction instruments, consisting of a pointer shaft on which is mounted a flat disc or cylinder which operates in the air gap of an electro-magnet having one or more coils."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "(5) Dụng cụ cặp nhiệt ngẫu: trong đó dòng điện được đo đi qua một sợi đốt sử dụng cho mối hàn của cặp nhiệt ngẫu kim loại mà sức điện động của chúng sau đó sẽ được đo.\n(6) Dụng cụ vận hành điện tử: dựa trên kỹ thuật các bán dẫn, có dụng cụ chỉ báo hoặc màn hình quang điện tử cho các kết quả tương tự hoặc kỹ thuật số.\nBên cạnh các dụng cụ và thiết bị kể trên thuộc loại trực tiếp đo đó, còn có những dụng cụ cung cấp cho người quan sát một số thông số nhất định cho phép tính đại lượng cần đo (phương pháp so sánh). Nhóm này chủ yếu có các cầu đo và các chiết áp thường được gắn vào hộp hoặc tủ nhỏ chứa một hoặc nhiều điện kế, điện trở chuẩn, các tụ chuẩn, cuộn cảm chuẩn, pin chuẩn, máy biến áp, biến đổi, chuyển mạch, v.v... \nTuy nhiên, những thiết bị sau bị loại trừ (Chương 85) khi chúng tách riêng lẻ như các máy biến thế, điện trở chuẩn, các tụ chuẩn, cuộn cảm chuẩn, pin chuẩn, v.v... cũng như các tai nghe (ống nghe) (được sử dụng thay thế máy chỉ báo số 0 có thể nhìn thấy trong một số loại cầu đo).\nCác loại dụng cụ đo điện chính là:\n(I) Dụng cụ đo cường độ dòng: công việc này được thực hiện riêng bằng điện kế hoặc ampe kế (ammeters).\n(II) Đo điện thế: bằng vôn kế, chiết áp, tĩnh điện kế, v.v...\n(III) Đo các điện trở và độ dẫn điện: cụ thể là bằng ôm kế hoặc cầu đo.\n(IV) Đo công suất: bằng oát kế.\n(V) Đo điện dung và điện cảm: bằng cầu đo theo các đại lượng farad hoặc henry.\n(VI) Đo tần số: bằng tần số kế theo thang độ Hertz, (số chu kỳ/một giây).\n(VII) Đo bước sóng hoặc tần số vô tuyến: bằng dụng cụ đo bước sóng (sóng kế) hoặc công cụ dựa trên ăng ten kẽ hở hoặc ống dẫn sóng có kẽ.",
+        "en": "(5) Thermocouple instruments, in which the current to be measured is passed through a heater applied to the hot junction of a bi-metallic thermocouple whose electromotive force is then measured.\n(6) Electronically operated instruments based on semiconductor technology with a pointer or an opto-electronic display for analogue or digital readout.\nApart from the above-mentioned types of instruments or apparatus which generally effect direct measurements, the heading also includes those which supply the operator with certain data from which the quantity to be measured can be calculated (comparative method). This group includes, in particular, measuring bridges and potentiometers. These are usually mounted in boxes or cases containing one or more galvanometers, standard resistors, standard capacitors, standard inductors, standard cells, transformers, converters, switches, etc.\nThe following are, however, excluded (Chapter 85) when presented separately: transformers, standard resistors, standard capacitors, standard inductors, standard cells, etc.; also earphones (headsets) (used instead of the visual null indicator in some types of measuring bridge).\nThe main types of electrical measurements are:\n(I) Measurement of electric currents. This is carried out, in particular, by means of galvanometers or amperemeters (ammeters).\n(II) Voltage measurement, by voltmeters, potentiometers, electrometers, etc.\n(III) Measurement of resistance and conductivity, by means of ohmmeters or measuring bridges, in particular.\n(IV) Measurement of power by means of wattmeters.\n(V) Measurement of capacitance and inductance, effected by means of measuring bridges, and expressed in farads or henrys.\n(VI) Measurement of frequencies, by means of frequency meters graduated in hertz (cycles per second).\n(VII) Measurement of wavelengths or radio frequencies by wavemeters, or slotted line or slotted wave guide instruments."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "(VIII) Đo góc pha hoặc các thừa số công suất: nhờ các pha kế cho biết ngay thừa số công suất (cos phi).\n(IX) Đo các tỷ lệ giữa hai đại lượng điện: bằng các dụng cụ gọi là máy đo tỉ số hoặc tỷ lệ kế.\n(X) Đo các từ trường hoặc từ thông bằng các điện kế hoặc các từ thông kế.\n(XI) Đo đặc tính điện hoặc từ của các vật liệu: được thực hiện bằng các từ trì kế/máy đo độ trễ của từ, từ thẩm kế, hoặc các dụng cụ tương tự.\n(XII) Xác định tính đồng bộ: nhờ các thiết bị tạo đồng bộ, các công cụ này dùng để chỉ ra pha liên quan và mức chênh lệch giữa các tần số của hai hiện tượng theo chu kỳ.\n(XIII) Đo và ghi các trị số tức thì của các đại lượng điện bằng các máy hiện sóng hoặc máy ghi dao động được mô tả ở trên.\nMột số dụng cụ đo điện có thể được sử dụng đa năng. Ví dụ, có những dụng cụ (điện hoặc điện tử) được biết đến như các máy kiểm tra thông dụng (ví dụ đa năng kế) cho phép thực hiện nhanh việc đo điện áp (một chiều hoặc xoay chiều), các điện trở và điện dung.\nNhóm này cũng bao gồm một số lượng lớn các dụng cụ điện hoặc điện tử dùng trong thông tin vô tuyến, hoặc trong viễn thông. Bao gồm:\n(i) Dụng cụ kiểm tra trở kháng và các cầu đo trở kháng.\n(ii) Dụng cụ kiểm tra độ tự cảm và các dụng cụ tương tự.\n(iii) Nepe kế và các máy đo decibel. Các dụng cụ và thiết bị đo đại lượng âm thanh thuộc nhóm 90.27.\n(iv) Các chỉ báo mức giảm âm.\n(v) Máy đo độ xuyên âm.\n(vi) Chỉ báo mức truyền dẫn.\n(vii) Dụng cụ đo mức ồn.",
+        "en": "(VIII) Measurement of phase angles or power factors, carried out with phase meters, calibrated in power factors (cos phi).\n(IX) Measurement of the ratios of two electrical quantities by ratiometers.\n(X) Measurement of magnetic fields or magnetic fluxes, effected with galvanometers or fluxmeters.\n(XI) Measurement of the electrical or magnetic properties of materials, carried out with hysteresis testers, permeameters or similar instruments\n(XII) Testing of synchronism, by means of synchroscopes, instruments for indicating the phase relation and difference in frequency between two periodic phenomena.\n(XIII) Measurement and recording of rapid variations of electrical quantities by means of the oscilloscopes or oscillographs described above.\nSome electrical measuring instruments can be used for many purposes, for example, electrical or electronic instruments known as “ universal testers ” (e.g., multimeters) which serve for the rapid measurement of voltages (direct or alternating), currents (direct or alternating), resistances and capacitances.\nThe heading also includes a wide range of electrical or electronic instruments used in radio-communications or telecommunications. This range includes:\n(i) Impedance testers and bridges.\n(ii) Inductance bridges and similar instruments.\n(iii) Nepermeters and decibel meters. Instruments and apparatus for measuring quantities of sound fall in heading 90.27.\n(iv) Fading indicators.\n(v) Cross-talk meters.\n(vi) Transmission level indicators\n(vii) Noise level meters."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(viii) Dụng cụ đo hệ số khuyếch đại.\n(ix) Dụng cụ đo nhiễu.\n(x) Máy đo tạp âm.\n(xi) Chỉ báo đỉnh.\n(xii) Thước đo tiếng dội.\n(xiii) Máy đo biến dạng.\nNhóm này cũng bao gồm những dụng cụ và thiết bị khác mà thực hiện các hoạt động của một loại thiết bị đã được mô tả trong nhóm, bao gồm các dụng cụ đo hoặc kiểm tra đèn điện tử, cụ thể như kiểm tra đèn điện tử ở radio.",
+        "en": "(viii) Gain measuring instruments.\n(ix) Instruments for measuring interference.\n(x) Psophometers.\n(xi) Peak indicators.\n(xii) Echo meters.\n(xiii) Distortion factor meters.\nThis heading also covers other instruments and apparatus which perform operations of a kind described in the heading, including valve testing or measuring instruments, in particular those for testing radio valves."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "CÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo Chú giải 1 và 2 của Chương này (xem Chú giải tổng quát), các bộ phận và phụ kiện được trình bày riêng biệt của những dụng cụ và thiết bị thuộc nhóm này cũng được phân loại trong nhóm. Ví dụ trường hợp các máy móc điện tử trùng hợp để sử dụng cùng với các máy đếm Geiger-Muller hoặc máy đếm tỷ lệ, các chất nhấp nháy dạng rắn (các chất đặc biệt nhạy với bức xạ ion-hóa như tia X, sẽ nhấp nháy khi được chiếu xạ) ở dạng tinh thể hoặc thành phần bằng plastic được lắp hoặc bọc kim loại chỉ để trang bị cho các máy dò báo và các ống dò neutron, dùng Bo, tri fluôma Bo, hydro hoặc các nguyên tố phân hạch.",
+        "en": "PARTS AND ACCESSORIES\nSubject to the provisions of Notes 1 and 2 to this Chapter (see the General Explanatory Note), separately presented parts and accessories of instruments or appliances of this heading remain classified here. Examples of these are: coincidence units, electronic, for use with Geiger-Müller counters or proportional counters, solid scintillators in the form of crystals or of elements of plastics, mounted or metal-sheathed, designed solely for fitting to detection instruments, neutron detector tubes using boron, boron trifluoride, hydrogen or fissionable elements."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "Chú giải Phân nhóm.\nPhân nhóm 9030.82\nPhân nhóm này cũng bao gồm các dụng cụ và thiết bị đo hoặc kiểm tra mạch tích hợp.",
+        "en": "Subheading Explanatory Note.\nSubheading 9030.82\nThis subheading also covers instruments and apparatus for measuring or checking integrated circuits."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9030.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dụng cụ và thiết bị để đo hoặc phát hiện các bức xạ ion",
+        "en": "Instruments and apparatus for measuring or detecting ionising radiations"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9030.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy hiện sóng và máy ghi dao động",
+        "en": "Oscilloscopes and oscillographs"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác, để đo hoặc kiểm tra điện áp, dòng điện, điện trở hoặc công suất (trừ những dụng cụ và thiết bị để đo hoặc kiểm tra các vi mạch hoặc linh kiện bán dẫn):",
+        "en": "- Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):"
+      },
+      "subheading_id": "9030.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Máy đo đa năng không bao gồm thiết bị ghi",
+        "en": "-- Multimeters without a recording device"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác, để đo hoặc kiểm tra điện áp, dòng điện, điện trở hoặc công suất (trừ những dụng cụ và thiết bị để đo hoặc kiểm tra các vi mạch hoặc linh kiện bán dẫn):",
+        "en": "- Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):"
+      },
+      "subheading_id": "9030.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Máy đo đa năng bao gồm thiết bị ghi",
+        "en": "-- Multimeters with a recording device"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác, để đo hoặc kiểm tra điện áp, dòng điện, điện trở hoặc công suất (trừ những dụng cụ và thiết bị để đo hoặc kiểm tra các vi mạch hoặc linh kiện bán dẫn):",
+        "en": "- Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):"
+      },
+      "subheading_id": "9030.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác, không bao gồm thiết bị ghi",
+        "en": "-- Other, without a recording device"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác, để đo hoặc kiểm tra điện áp, dòng điện, điện trở hoặc công suất (trừ những dụng cụ và thiết bị để đo hoặc kiểm tra các vi mạch hoặc linh kiện bán dẫn):",
+        "en": "- Other instruments and apparatus, for measuring or checking voltage, current, resistance or power (other than those for measuring or checking semiconductor wafers or devices):"
+      },
+      "subheading_id": "9030.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác, có gắn thiết bị ghi",
+        "en": "-- Other, with a recording device"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9030.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị và dụng cụ khác, chuyên dụng cho viễn thông (ví dụ máy đo xuyên âm, thiết bị đo độ khuếch đại, máy đo hệ số biến dạng âm thanh, máy đo tạp âm)",
+        "en": "Other instruments and apparatus, specially designed for telecommunications (for example, cross-talk meters, gain measuring instruments, distortion factor meters, psophometers)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác:",
+        "en": "- Other instruments and apparatus:"
+      },
+      "subheading_id": "9030.82",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Để đo hoặc kiểm tra các vi mạch hoặc linh kiện bán dẫn (kể cả mạch tích hợp)",
+        "en": "- - For measuring or checking semiconductor wafers or devices (including integrated circuits)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác:",
+        "en": "- Other instruments and apparatus:"
+      },
+      "subheading_id": "9030.84",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác, có kèm thiết bị ghi",
+        "en": "- - Other, with a recording device"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dụng cụ và thiết bị khác:",
+        "en": "- Other instruments and apparatus:"
+      },
+      "subheading_id": "9030.89",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9030.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

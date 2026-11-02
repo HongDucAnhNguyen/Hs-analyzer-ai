@@ -1,0 +1,215 @@
+{
+  "heading_id": "85.41",
+  "heading_title": {
+    "vi": "Thiết bị bán dẫn (ví dụ đi-ốt, bóng bán dẫn (tranzito), bộ chuyển đổi dựa trên chất bán dẫn tương tự; thiết bị bán dẫn cảm quang, kể cả tế bào quang điện đã hoặc chưa lắp ráp thành các mảng module hoặc thành bảng; đi-ốt phát quang (LED), đã hoặc chưa lắp ráp với đi-ốt phát quang (LED) khác; tinh thể áp điện đã lắp ráp (+).",
+    "en": "Semiconductor devices (for example, diodes, transistors, semiconductor-based transducers); photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light-emitting diodes (LED), whether or not assembled with other light-emitting diodes (LED); mounted piezo-electric crystals. (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bốn loại thiết bị chính:\n(A) Thiết bị bán dẫn: Là các thiết bị có hoạt động dựa trên đặc tính điện tử của vật liệu bán dẫn, được định nghĩa tại Chú giải 8 (a) của Chương 85. Chúng bao gồm đi-ốt, tranzito (lưỡng cực, hiệu ứng trường, IGBT), thiết bị chuyển đổi dựa trên chất bán dẫn (cảm biến, cơ cấu chấp hành, bộ cộng hưởng, bộ dao động), và các thiết bị khác như thyristor, triac, diac. Nhóm này không bao gồm các điện trở bán dẫn phi tuyến (nhóm 85.33), các nguyên tố hóa học hoặc hợp chất đã kích tạp dùng trong điện tử ở dạng thô hoặc dạng đĩa, tấm mỏng (Chương 28 hoặc nhóm 38.18), và mạch điện tử tích hợp (nhóm 85.42).\n(B) Thiết bị bán dẫn cảm quang: Là các thiết bị mà dưới tác động của tia sáng sẽ tạo ra sự thay đổi điện trở suất hoặc tạo ra sức điện động. Chúng bao gồm tế bào quang dẫn, pin quang điện (kể cả pin mặt trời), đi-ốt quang, tranzito quang, và các linh kiện ghép quang. Nhóm này không bao gồm các ống điện tử phát quang (nhóm 85.40) và các bảng hoặc mô-đun pin mặt trời có gắn các thiết bị đơn giản (ví dụ, đi-ốt) để cấp điện trực tiếp (nhóm 85.01).\n(C) Đi-ốt phát quang (LED): Là các thiết bị biến đổi điện năng thành ánh sáng, tia hồng ngoại hoặc tia cực tím. Nhóm này bao gồm các đi-ốt lade, các gói đi-ốt phát quang (LED) và các cụm đi-ốt phát quang (LED).\n(D) Tinh thể áp điện đã lắp ráp: Là các tinh thể (ví dụ, thạch anh, bari titanat) đã được gắn điện cực hoặc chân nối điện. Chúng được dùng trong micro, loa, thiết bị siêu âm, v.v. Nhóm này chỉ bao gồm các tinh thể đã lắp ráp. Các tinh thể chưa lắp ráp thuộc các nhóm 38.24, 71.03 hoặc 71.04. Các cụm lắp ráp đã trở thành bộ phận của máy móc hoặc thiết bị khác bị loại trừ (ví dụ, thuộc các nhóm 85.18, 85.22, 90.33, 91.14).\nBộ phận của các sản phẩm thuộc nhóm này cũng được phân loại ở đây, tuân theo các quy định chung của Phần XVI.",
+    "en": "This heading covers four main categories of devices:\n(A) Semiconductor Devices: These are devices whose operation is based on the electronic properties of semiconductor materials, as defined in Note 8 (a) to Chapter 85. They include diodes, transistors (bipolar, field-effect, IGBTs), semiconductor-based transducers (sensors, actuators, resonators, oscillators), and other devices such as thyristors, triacs, diacs. This heading excludes non-linear semiconductor resistors (heading 85.33), doped chemical elements or compounds for use in electronics in unworked forms or as discs and wafers (Chapter 28 or heading 38.18), and electronic integrated circuits (heading 85.42).\n(B) Photosensitive Semiconductor Devices: These are devices in which the action of light rays causes variations in resistivity or generates an electromotive force. They include photoconductive cells, photovoltaic cells (including solar cells), photodiodes, phototransistors, and photocouples. The heading excludes photoemissive tubes (heading 85.40) and solar cell panels or modules equipped with simple elements (e.g., diodes) to supply power directly (heading 85.01).\n(C) Light-Emitting Diodes (LED): These are devices which convert electric energy into light, infra-red or ultra-violet rays. This group includes laser diodes, light-emitting diode (LED) packages, and light-emitting diode (LED) assemblies.\n(D) Mounted Piezo-electric Crystals: These are crystals (e.g., quartz, barium titanate) that are mounted with electrodes or electric connections. They are used in microphones, loudspeakers, ultrasonic apparatus, etc. The heading covers only mounted crystals. Unmounted crystals fall in headings 38.24, 71.03 or 71.04. Assemblies that have become parts of other machines or appliances are excluded (e.g., to headings 85.18, 85.22, 90.33, 91.14).\nParts of the goods of this heading are also classified here, subject to the general provisions of Section XVI."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) THIẾT BỊ BÁN DẪN (VÍ DỤ ĐI-ỐT, TRANZITO, CÁC THIẾT BỊ CHUYỂN ĐỔI DỰA TRÊN CHẤT BÁN DẪN)\nChúng được định nghĩa ở Chú giải 8 (a) của Chương này.\nHoạt động của các thiết bị thuộc nhóm này dựa trên các đặc tính điện tử của một số vật liệu “bán dẫn” nhất định hoặc, đối với mục đích của các thiết bị chuyển đổi dựa trên chất bán dẫn, dựa trên các đặc tính bán dẫn của chúng bao gồm đặc tính vật lý (ví dụ: cơ, nhiệt), điện, quang và hóa học.\nCác linh kiện bán dẫn của nhóm này thông thường bao gồm một hoặc nhiều “lớp tiếp giáp” giữa các chất bán dẫn kiểu p và kiểu n.\nChúng bao gồm:\n(I) Các đi-ốt là loại linh kiện có 2 đầu nối với một lớp tiếp giáp p-n; chúng cho dòng điện đi theo một hướng (thuận) nhưng có điện trở rất lớn theo hướng ngược lại (ngược). Chúng thường dùng để dò, chỉnh lưu, đóng ngắt, v.v.....",
+        "en": "(A) SEMICONDUCTOR DEVICES (FOR EXAMPLE DIODES, TRANSISTORS, SEMICONDUCTOR BASED TRANSDUCERS)\nThese are defined in Note 8 (a) to this Chapter.\nThe operation of the devices of this group is based on the electronic properties of certain “semiconductor” materials or, for the purpose of semiconductor-based transducers, on their semiconductor properties including physical (e.g., mechanical, thermal), electrical, optical and chemical properties.\nThe semiconductor devices of this group generally comprise one or more “junctions”, between p-type and n-type semiconductor materials.\nThey include:\n(I) Diodes which are two-terminal devices with a single p n junction; they allow current to pass in one direction (forward) but offer a very high resistance in the other (reverse). They are used for detection, rectification, switching, etc."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các loại đi-ốt chính là đi-ốt tín hiệu, điốt chỉnh lưu công suất, đi-ốt điều điện áp chuẩn, đi-ốt ổn áp.\n(II) Tranzito là các linh kiện có 3 hoặc 4 cực, có khả năng khuyếch đại, dao động, chuyển đổi tần số, hoặc đóng ngắt mạch điện.\nTranzito bao gồm các loại sau:\n(1) Tranzito lưỡng cực\n(2) Tranzito hiệu ứng trường (cũng được gọi là linh kiện bán dẫn oxít kim loại (MOS))\n(3) Tranzito lưỡng cực có cổng cách ly (IGBT)\n(III) Thiết bị chuyển đổi dựa trên chất bán dẫn\nNhư đã nêu trong Chú giải 12 (a) (i) của Chương này, đây là những thiết bị trong đó vật liệu hoặc nền bán dẫn đóng vai trò quan trọng và không thể thay thế trong việc thực hiện chức năng của chúng là chuyển đổi bất kỳ loại hiện tượng vật lý hoặc hóa học nào hoặc hoạt động nào thành tín hiệu điện, hoặc tín hiệu điện thành bất kỳ loại hiện tượng vật lý hoặc hoạt động nào.",
+        "en": "The main types of diodes are signal diodes, power rectifier diodes, voltage regulator diodes, voltage reference diodes.\n(II) Transistors are three- or four-terminal devices capable of amplification, oscillation, frequency conversion, or switching of electrical currents.\nTransistors include:\n(1) Bipolar transistors\n(2) Field effect transistors (also known as metal oxide semiconductors (MOS))\n(3) Insulated Gate Bipolar Transistors (IGBT)\n(III) Semiconductor-based transducers\nAs specified in Note 12 (a) (i) to this Chapter, these are devices in which the semiconductor substrate or material plays a critical and irreplaceable role in performing their function to convert any kind of physical or chemical phenomena or an action into an electrical signal or an electrical signal into any type of physical phenomenon or an action."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Thiết bị chuyển đổi dựa trên chất bán dẫn bao gồm:\n(1) Cảm biến dựa trên chất bán dẫn, được định nghĩa tại Chú giải 12 (a) (i) (3).\n(2) Cơ cấu chấp hành dựa trên chất bán dẫn, được định nghĩa tại Chú giải 12 (a) (i) (4).",
+        "en": "Semiconductor-based transducers include:\n(1) Semiconductor-based sensors, which are defined in Note 12 (a) (i) (3).\n(2) Semiconductor-based actuators, which are defined in Note 12 (a) (i) (4)."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "(3) Thiết bị cộng hưởng dựa trên chất bán dẫn, được định nghĩa trong Chú thích 12 (a) (i) (5).\n(4) Thiết bị dao động dựa trên chất bán dẫn, được định nghĩa trong Chú giải 12 (a) (i) (6).\n(IV) Các linh kiện bán dẫn khác.\nChúng bao gồm:\n(1) Thyristors\n(2) Triacs (các thysisto 3 cực hai hướng)\n(3) Diacs\n(4) Varactors (hoặc đi-ốt dung kháng thay đổi).\n(5) Các linh kiện có hiệu ứng trường, như các griditors.\n(6) Các thiết bị có hiệu ứng \"Gunn\".\nTuy nhiên, nhóm này không bao gồm các linh kiện bán dẫn khác với các linh kiện bán dẫn mô tả trên, hoạt động của chúng phụ thuộc chủ yếu vào nhiệt độ, áp suất, v.v..., chẳng hạn như các điện trở bán dẫn phi tuyến (thermistors, varistors, điện trở từ, v.v...) (nhóm 85.33).\nVề các linh kiện cảm quang hoạt động phụ thuộc tác động của các tia sáng (đi-ốt quang điện, v.v...), xem nhóm (B).\nCác linh kiện mô tả ở trên thuộc nhóm này hoặc được hiện diện ở dạng đã gắn với các cực hoặc các chân, chưa gắn (các phần tử) hoặc thậm chí dưới dạng các đĩa nguyên (tấm mỏng).",
+        "en": "(3) Semiconductor-based resonators, which are defined in Note 12 (a) (i) (5).\n(4) Semiconductor-based oscillators, which are defined in Note 12 (a) (i) (6).\n(IV) Other semiconductor devices.\nThey include:\n(1) Thyristors\n(2) Triacs (bi-directional triode thyristors)\n(3) Diacs\n(4) Varactors (or variable capacitance diodes).\n(5) Field effect devices, such as gridistors.\n(6) Gunn effect devices.\nHowever, this group does not include semiconductor devices which differ from those described above in that their operation depends primarily on temperature, pressure, etc., such as non-linear semiconductor resistors (thermistors, varistors, magneto-resistors, etc.) (heading 85.33).\nFor photosensitive devices the operation of which depends on light rays (photodiodes, etc.), see group (B).\nThe devices described above fall in this heading whether presented mounted, unmounted (elements) or even in the form of undiced discs (wafers)."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Tuy nhiên, các bộ chuyển đổi dựa trên chất bán dẫn thuộc nhóm này không bao gồm các cảm biến, bộ dẫn động, bộ cộng hưởng, bộ tạo dao động và tổ hợp chúng dựa trên silic, chứa một hoặc nhiều mạch tích hợp nguyên khối, lai, đa chip hoặc đa thành phần như được định nghĩa trong Chú giải 12 (b) (iv) (3) của Chương này (nhóm 85.42).\nNhóm này cũng loại trừ:\n(a) Các nguyên tố hóa học (ví dụ, silic và selen) đã được kích tạp để sử dụng trong điện tử, ở dạng không gia công như kéo, hoặc ở dạng hình trụ hoặc dạng thanh (Chương 28), khi được cắt ở dạng đĩa, tấm mỏng hoặc các dạng tương tự (nhóm 38.18).\n(b) Các hợp chất hóa học... có chứa một số chất phụ gia nhất định... nhằm mục đích sử dụng chúng trong điện tử, dù trong dạng hình trụ, thanh,.., hoặc cắt thành đĩa, tấm mỏng hoặc các dạng tương tự (nhóm 38.18).\n(c) Các tinh thể được kích tạp dùng trong điện tử, dưới dạng đĩa, tấm mỏng, hoặc các dạng tương tự... với điều kiện chúng không được pha trộn có chọn lọc hoặc khuếch tán để tạo ra vùng riêng biệt (nhóm 38.18).\n(d) Mạch điện tử tích hợp (nhóm 85.42).\n(B) CÁC LINH KIỆN BÁN DẪN CẢM QUANG\nNhóm này bao gồm các linh kiện bán dẫn cảm quang trong đó dưới sự tác động của tia sáng trông thấy được, tia hồng ngoại hay tia cực tím tạo ra sự thay đổi trong điện trở suất hoặc làm xuất hiện sức điện động nhờ hiệu ứng quang điện bên trong.\nCác ống điện tử phát quang (tế bào phát quang), hoạt động của chúng dựa trên hiệu ứng quang điện bên ngoài (sự xạ quang), thuộc nhóm 85.40.\nCác kiểu thiết bị bán dẫn cảm quang chính là:\n(1) Các tế bào quang dẫn (quang điện trở)...",
+        "en": "The semiconductor-based transducers of this group, however, do not cover silicon based sensors, actuators, resonators, oscillators and combinations thereof, containing one or more monolithic, hybrid, multi-chip or multi-component integrated circuits as defined in Note 12 (b) (iv) (3) to this Chapter (heading 85.42).\nThe heading also excludes:\n(a) Chemical elements (for example, silicon and selenium) doped for use in electronics, in forms unworked as drawn, or in the form of cylinders or rods (Chapter 28), when cut in the form of discs, wafers or similar forms (heading 38.18).\n(b) Chemical compounds... containing certain additives... with a view to their use in electronics, whether in the form of cylinders, rods, etc., or cut into discs, wafers or similar forms (heading 38.18).\n(c) Crystals doped for use in electronics, in the form of discs, wafers, or similar forms... provided they have not been selectively doped or diffused to create discrete regions (heading 38.18).\n(d) Electronic integrated circuits (heading 85.42).\n(B) PHOTOSENSITIVE SEMICONDUCTOR DEVICES\nThis group comprises photosensitive semiconductor devices in which the action of visible rays, infra-red rays or ultra-violet rays causes variations in resistivity or generates an electromotive force, by the internal photoelectric effect.\nPhotoemissive tubes (photoemissive cells) the operation of which is based on the external photoelectric effect (photoemission), belong to heading 85.40.\nThe main types of photosensitive semiconductor devices are:\n(1) Photoconductive cells (light dependent resistors)..."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(2) Các pin quang điện trực tiếp biến đổi ánh sáng thành năng lượng điện...\nCác loại tế bào quang điện đặc biệt:\n(i) Các pin mặt trời... Nhóm này cũng bao gồm các loại pin mặt trời, đã hoặc chưa lắp thành môdun hoặc lập thành bảng. Tuy nhiên nhóm này không bao gồm các bảng hoặc các môdun có gắn thiết bị, dù đơn giản (đi-ốt để chỉnh lưu dòng điện, chẳng hạn) cho phép cung cấp điện trực tiếp tới, ví dụ, một động cơ, một thiết bị điện phân (nhóm 85.01).\n(ii) Các đi-ốt quang...\n(iii) Các linh kiện ghép quang và các rơle quang...\n(C) CÁC ĐI-ỐT PHÁT QUANG (LED)\nCác đi-ốt phát quang (LED) hoặc đi-ốt quang điện... là những linh kiện biến đổi điện năng thành ánh sáng nhìn thấy được, tia hồng ngoại hoặc tia cực tím. Các đi-ốt lade phát ra một chùm sáng kết hợp...",
+        "en": "(2) Photovoltaic cells, which convert light directly into electrical energy...\nSpecial categories of photovoltaic cells are:\n(i) Solar cells... The heading also covers solar cells, whether or not assembled in modules or made up into panels. However the heading does not cover panels or modules equipped with elements, however simple, (for example, diodes to control the direction of the current), which supply the power directly to, for example, a motor, an electrolyser (heading 85.01).\n(ii) Photodiodes...\n(iii) Photocouples and photorelays...\n(C) LIGHT EMITTING DIODES (LED)\nLight emitting diodes (LED), or electroluminescent diodes... are devices which convert electric energy into visible, infra-red or ultra-violet rays. Laser diodes emit a coherent light beam..."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm:\n(1) Gói đi-ốt phát quang (LED)\n(2) Cụm đi-ốt phát quang (LED)\n(D) CÁC TINH THỂ ÁP ĐIỆN ĐÃ LẮP RÁP\nĐây chủ yếu là các bari titanat..., chì zinconat tinanat hoặc các tinh thể khác thuộc nhóm 38.24..., hoặc các tinh thể thạch anh hoặc tinh thể tuocmalin. Chúng được xếp vào đây chỉ khi đã được lắp ráp... Tuy nhiên, nếu do bổ sung thêm các phần tử khác, một đối tượng hoàn chỉnh (được gắn thêm tinh thể) có thể không còn được xem thuần tuý là một tinh thể được lắp ráp nhưng lại trở thành một bộ phận đặc biệt có thể nhận biết được của một máy móc hoặc thiết bị, phần lắp ráp được phân loại như là bộ phận của máy thiết bị nếu đáp ứng: ví dụ, pin áp điện dùng cho micro hoặc loa (nhóm 85.18), đầu âm (nhóm 85.22), các phần tử thu thông tin (phần tử thăm dò) dùng cho các thiết bị đo độ dày hoặc công cụ phát hiện bằng siêu âm (thường được phân loại theo Chú giải 2(b) Chương 90 hoặc thuộc nhóm 90.33, tùy trường hợp cụ thể), bộ dao động bằng thạch anh dùng cho đồng hồ điện tử (nhóm 91.14).",
+        "en": "This group also includes:\n(1) Light-emitting diode (LED) packages\n(2) Light-emitting diode (LED) assemblies\n(D) MOUNTED PIEZO-ELECTRIC CRYSTALS\nThese are mainly barium titanate..., lead titanate zirconate or other crystals of heading 38.24..., or quartz or tourmaline crystals. They are classified here only if mounted... If, however, because of the addition of other components, the complete article (mounting plus crystal) can no longer be regarded as merely a mounted crystal but has become identifiable as a specific part of a machine or appliance, the assembly is classified as a part of the machine or appliance in question: e.g., piezo-electric cells for microphones or loudspeakers (heading 85.18), sound-heads (heading 85.22), pick-up elements (feelers) for ultrasonic thickness measuring or detecting instruments (generally classified in accordance with Note 2 (b) to Chapter 90 or in heading 90.33, as the case may be), quartz oscillators for electronic watches (heading 91.14)."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "Nhóm này không bao gồm các tinh thể áp điện chưa lắp ráp (nói chung thuộc nhóm 38.24, 71.03 hoặc 71.04).\nBỘ PHẬN\nTheo quy tắc chung phân loại các bộ phận (xem Chú giải Tổng quát của Phần XVI), các bộ phận của sản phẩm thuộc nhóm này cũng được xếp vào đây.\nChú giải Phân nhóm.\nPhân nhóm 8541.21\nTỷ lệ tiêu tán của một tranzito được đo bởi việc áp dụng một điện áp làm việc cụ thể đặt lên các thiết bị và đo công suất làm việc liên tục trong khi giới hạn nhiệt độ vỏ ở 25º C.",
+        "en": "This heading also excludes unmounted piezo-electric crystals (generally heading 38.24, 71.03 or 71.04).\nPARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the goods of this heading are classified here.\nSubheading Explanatory Note.\nSubheading 8541.21\nThe dissipation rate of a transistor is measured by applying the specified operating voltage to the device and measuring the continuous power handling capability using a case temperature limit of 25° C."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8541.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đi-ốt, trừ đi-ốt cảm quang hay đi-ốt phát quang",
+        "en": "Diodes, other than photosensitive or light-emitting diodes (LED)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tranzito, trừ tranzito cảm quang:",
+        "en": "- Transistors, other than photosensitive transistors:"
+      },
+      "subheading_id": "8541.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có tỷ lệ tiêu tán năng lượng dưới 1 W",
+        "en": "- - With a dissipation rate of less than 1 W"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Tranzito, trừ tranzito cảm quang:",
+        "en": "- Transistors, other than photosensitive transistors:"
+      },
+      "subheading_id": "8541.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8541.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thyristors, diacs và triacs, trừ thiết bị cảm quang",
+        "en": "Thyristors, diacs and triacs, other than photosensitive devices"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị bán dẫn cảm quang, kể cả tế bào quang điện đã hoặc chưa lắp ráp thành các mảng module hoặc thành bảng; đi-ốt phát quang (LED):",
+        "en": "- Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes (LED):"
+      },
+      "subheading_id": "8541.41",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đi-ốt phát quang (LED)",
+        "en": "- - Light-emitting diodes (LED)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị bán dẫn cảm quang, kể cả tế bào quang điện đã hoặc chưa lắp ráp thành các mảng module hoặc thành bảng; đi-ốt phát quang (LED):",
+        "en": "- Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes (LED):"
+      },
+      "subheading_id": "8541.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Tế bào quang điện chưa lắp ráp thành các mảng mô-đun hoặc thành bảng",
+        "en": "- - Photovoltaic cells not assembled in modules or made up into panels"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị bán dẫn cảm quang, kể cả tế bào quang điện đã hoặc chưa lắp ráp thành các mảng module hoặc thành bảng; đi-ốt phát quang (LED):",
+        "en": "- Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes (LED):"
+      },
+      "subheading_id": "8541.43",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Tế bào quang điện đã lắp ráp thành các mảng mô-đun hoặc thành bảng",
+        "en": "- - Photovoltaic cells assembled in modules or made up into panels"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị bán dẫn cảm quang, kể cả tế bào quang điện đã hoặc chưa lắp ráp thành các mảng module hoặc thành bảng; đi-ốt phát quang (LED):",
+        "en": "- Photosensitive semiconductor devices, including photovoltaic cells whether or not assembled in modules or made up into panels; light emitting diodes (LED):"
+      },
+      "subheading_id": "8541.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị bán dẫn khác:",
+        "en": "- Other semiconductor devices:"
+      },
+      "subheading_id": "8541.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Thiết bị chuyển đổi dựa trên chất bán dẫn",
+        "en": "- - Semiconductor-based transducers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thiết bị bán dẫn khác:",
+        "en": "- Other semiconductor devices:"
+      },
+      "subheading_id": "8541.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8541.60",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Tinh thể áp điện đã lắp ráp",
+        "en": "Mounted piezo-electric crystals"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8541.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

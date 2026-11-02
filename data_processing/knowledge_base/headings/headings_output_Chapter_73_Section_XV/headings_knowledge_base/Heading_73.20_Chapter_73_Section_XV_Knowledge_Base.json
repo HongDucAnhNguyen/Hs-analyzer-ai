@@ -1,0 +1,58 @@
+{
+  "heading_id": "73.20",
+  "heading_title": {
+    "vi": "Lò xo và vá lò xo, bằng sắt hoặc thép.",
+    "en": "Springs and leaves for springs, of iron or steel."
+  },
+  "summary": {
+    "vi": "Nhóm 73.20 áp dụng cho các loại lò xo và lá lò xo được làm từ sắt hoặc thép. Nhóm này bao quát nhiều loại lò xo khác nhau, bao gồm lò xo lá sử dụng trong hệ thống treo xe, lò xo cuộn (gồm lò xo nén, kéo, xoắn) dùng trong kỹ thuật và xe cộ, và lò xo xoắn ốc dùng cho bộ giảm xóc và tông đơ. Ngoài ra, nhóm còn bao gồm lò xo dẹt, lò xo xoắn ốc dẹt dùng cho ổ khóa, và lò xo đĩa hoặc vòng cho bộ giảm chấn. Các lá lò xo cũng được phân loại tại đây. Tuy nhiên, nhóm này có một số loại trừ quan trọng cần lưu ý. Cụ thể, nó không bao gồm lò xo đồng hồ (nhóm 91.14), lò xo cho ô dù (nhóm 66.03), và vòng đệm lò xo (nhóm 73.18). Các lò xo đã được lắp ráp vào các sản phẩm khác như cơ cấu đóng cửa (nhóm 83.02), các bộ phận máy móc (Phần XVI) hoặc thiết bị thuộc Chương 90, 91, và các bộ giảm xóc thuộc Phần XVII cũng bị loại trừ.",
+    "en": "Heading 73.20 applies to springs and leaves for springs made of iron or steel. This heading covers a wide variety of springs, including leaf-springs used in vehicle suspension, helical springs (comprising compression, tension, and torsion springs) for engineering and vehicles, and volute springs for shock-absorbers and clippers. Additionally, it includes flat springs, flat spiral springs for locks, and disc or ring springs for buffers. Leaves for springs are also classified here. However, there are several important exclusions to note. Specifically, it does not cover clock or watch springs (heading 91.14), springs for umbrellas (heading 66.03), or spring washers (heading 73.18). Springs assembled into other articles such as door closers (heading 83.02), parts of machinery (Section XVI) or apparatus of Chapters 90, 91, and shock absorbers of Section XVII are also excluded."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại lò xo bằng sắt hoặc thép, không phân biệt công dụng, trừ lò xo đồng hồ hoặc đồng hồ đeo tay thuộc nhóm 91.14. Các loại lò xo được bao gồm:\n(A) Lò xo lá (lò xo một lá hoặc lò xo lá nhíp) chủ yếu dùng trong hệ thống treo của xe cộ.\n(B) Lò xo cuộn, bao gồm:\n(1) Lò xo xoắn cuộn (lò xo nén, lò xo kéo và lò xo xoắn) dùng trong xe cộ và kỹ thuật thông thường.\n(2) Lò xo xoắn ốc (thường có dạng nón) dùng trong các bộ giảm xóc, bộ giảm chấn, kéo cắt cây, tông đơ cắt tóc.\n(C) Lò xo dẹt và lò xo xoắn ốc dẹt dùng trong các động cơ vận hành đàn hồi, trong các khoá.\n(D) Lò xo đĩa và lò xo vòng dùng trong các bộ giảm chấn tàu hoả.\nNhóm này cũng phân loại các lá của lò xo.\nNhóm này không bao gồm:\n(a) Lò xo cho các trục hoặc cần của ô hoặc ô che nắng (nhóm 66.03).\n(b) Vòng đệm lò xo (nhóm 73.18).\n(c) Lò xo đã được lắp ráp thành các sản phẩm khác, ví dụ cơ cấu đóng cửa tự động (nhóm 83.02), bộ phận của máy móc (Phần XVI) hoặc của các thiết bị và dụng cụ thuộc Chương 90, 91.\n(d) Bộ giảm xóc và các thanh xoắn thuộc Phần XVII.",
+        "en": "This heading covers iron or steel springs of all types, irrespective of their use, other than clock or watch springs of heading 91.14. The included types of springs are:\n(A) Leaf-springs (single or laminated) chiefly used in the suspension systems of vehicles.\n(B) Helical springs, which include:\n(1) Helical coil springs (compression, tension and torsion springs) used for numerous purposes such as in vehicles and general engineering.\n(2) Volute springs (usually conical) mainly used in shock-absorbers, buffers on rolling stock couplings, secateurs, hair clippers.\n(C) Flat springs and flat spiral springs as used in spring operated motors, in locks.\n(D) Disc springs and ring springs as used in railway buffers.\nLeaves for springs are also classified in this heading.\nThe heading excludes:\n(a) Springs for shafts or sticks of umbrellas or sunshades (heading 66.03).\n(b) Spring washers (heading 73.18).\n(c) Springs assembled with other articles to form, for example, automatic door closers (heading 83.02), identifiable parts of machinery (Section XVI) or of the apparatus and instruments of Chapters 90, 91.\n(d) Shock absorbers, and torsion bars of Section XVII."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7320.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lò xo lá và các lá lò xo",
+        "en": "Leaf-springs and leaves therefor"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7320.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Lò xo cuộn",
+        "en": "Helical springs"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7320.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

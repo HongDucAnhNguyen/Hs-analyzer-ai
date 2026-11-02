@@ -1,0 +1,132 @@
+{
+  "heading_id": "74.09",
+  "heading_title": {
+    "vi": "Đồng ở dạng tấm, lá và dải, có chiều dày trên 0,15 mm.",
+    "en": "Copper plates, sheets and strip, of a thickness exceeding 0.15 mm."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm đồng ở dạng tấm, lá và dải được định nghĩa ở Chú giải 9(d) Phần XV, với điều kiện chiều dày của chúng trên 0,15 mm. Các sản phẩm này thường được sản xuất bằng cách cán nóng hoặc cán nguội các sản phẩm của nhóm 74.03. Các sản phẩm này vẫn được phân loại trong nhóm này ngay cả khi đã được gia công (ví dụ: cắt thành hình, đục lỗ, tạo sóng, đánh bóng, phủ...) miễn là chúng không mang đặc tính của các sản phẩm thuộc các nhóm khác. Chiều dày giới hạn 0,15 mm đã bao gồm cả lớp phủ. Nhóm này không bao gồm lá mỏng có chiều dày không quá 0,15 mm (nhóm 74.10), sản phẩm dạng lưới bằng đồng (nhóm 74.19), và dải cách điện (nhóm 85.44).",
+    "en": "This heading covers copper products in the form of plates, sheets, and strip as defined in Note 9(d) to Section XV, provided their thickness exceeds 0.15 mm. These products are usually obtained by hot or cold-rolling products of heading 74.03. They remain in this heading even if worked (e.g., cut to shape, perforated, corrugated, polished, coated, etc.) provided they do not assume the character of products of other headings. The limiting thickness of 0.15 mm includes any coatings. This heading does not include foil of a thickness not exceeding 0.15 mm (heading 74.10), expanded metal of copper (heading 74.19), or insulated electric strip (heading 85.44)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các sản phẩm đã định nghĩa ở Chú giải 9 (d) Phần XV khi chiều dầy của nó quá 0,15 mm.\nDạng tấm và dạng phiến thường thu được bằng cách cán nóng hoặc cán nguội một số sản phẩm của nhóm 74.03; dải đồng có thể được cán hoặc thu được bằng cách xẻ dọc các tấm.",
+        "en": "This heading covers the products defined in Note 9 (d) to Section XV when of a thickness exceeding 0.15 mm.\nPlates and sheets are usually obtained by the hot or cold-rolling of certain products of heading 74.03; copper strip may be rolled, or obtained by slitting sheets."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tất cả hàng hoá vẫn được xếp trong nhóm nếu đã gia công (ví dụ cắt thành mẫu hình, đục lỗ, làm thành gọn sóng, tạo gò, tạo rãnh, đánh bóng, phủ, đắp nổi hoặc làm tròn ở các cạnh) miễn là chúng không có đặc tính của hàng hoá và sản phẩm của nhóm khác (xem chú giải chương 1(g) ).\nĐộ dày giới hạn 0,15 mm bao gồm cả lớp phủ vécni ...",
+        "en": "All such goods remain in the heading if worked (e.g., cut to shape, perforated, corrugated, ribbed, channelled, polished, coated, embossed or rounded at the edges) provided they do not thereby assume the character of articles or of products of other headings (see Chapter Note 1 (g) ).\nThe limiting thickness of 0.15 mm includes coatings of varnish, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Lá mỏng có độ dày không quá 0,15 mm (nhóm 74.10).\n(b) Sản phẩm dạng lưới bằng đồng được tạo hình bằng phương pháp đột dập và kéo dãn thành lưới (nhóm 74.19).\n(c) Dải cách điện (nhóm 85.44).",
+        "en": "The heading does not include :\n(a) Foil of a thickness not exceeding 0.15 mm (heading 74.10).\n(b) Expanded metal, of copper (heading 74.19).\n(c) Insulated electric strip (heading 85.44)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng đồng tinh luyện:",
+        "en": "- Of refined copper :"
+      },
+      "subheading_id": "7409.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dạng cuộn",
+        "en": "- - In coils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng đồng tinh luyện:",
+        "en": "- Of refined copper :"
+      },
+      "subheading_id": "7409.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim đồng-kẽm (đồng thau):",
+        "en": "- Of copper-zinc base alloys (brass):"
+      },
+      "subheading_id": "7409.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dạng cuộn",
+        "en": "- - In coils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim đồng-kẽm (đồng thau):",
+        "en": "- Of copper-zinc base alloys (brass):"
+      },
+      "subheading_id": "7409.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim đồng-thiếc (đồng thanh):",
+        "en": "- Of copper-tin base alloys (bronze):"
+      },
+      "subheading_id": "7409.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dạng cuộn",
+        "en": "- - In coils"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bằng hợp kim đồng-thiếc (đồng thanh):",
+        "en": "- Of copper-tin base alloys (bronze):"
+      },
+      "subheading_id": "7409.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7409.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng hợp kim đồng-niken (đồng kền) hoặc hợp kim đồng-kẽm-niken (bạc- niken)",
+        "en": "- Of copper-nickel base alloys (cupro-nickel) or copper- nickel-zinc base alloys (nickel silver)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7409.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "– Bằng hợp kim đồng khác",
+        "en": "- Of other copper alloys"
+      }
+    }
+  ]
+}

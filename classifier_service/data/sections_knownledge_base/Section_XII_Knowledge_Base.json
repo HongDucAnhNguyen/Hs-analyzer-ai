@@ -1,0 +1,43 @@
+{
+  "section_id": "XII",
+  "section_title": {
+    "vi": "GIÀY, DÉP, MŨ VÀ CÁC VẬT ĐỘI ĐẦU KHÁC, Ô, DÙ, BA TOONG, GẬY TAY CẦM CÓ THỂ CHUYỂN THÀNH GHẾ, ROI, GẬY ĐIỀU KHIỂN, ROI ĐIỀU KHIỂN SÚC VẬT THÔ KÉO VÀ CÁC BỘ PHẬN CỦA CÁC LOẠI HÀNG TRÊN; LÔNG VŨ CHẾ BIẾN VÀ CÁC SẢN PHẨM LÀM TỪ LÔNG VŨ CHẾ BIẾN; HOA NHÂN TẠO; CÁC SẢN PHẨM LÀM TỪ TÓC NGƯỜI",
+    "en": "FOOTWEAR, HEADGEAR, UMBRELLAS, SUN UMBRELLAS, WALKING-STICKS, SEAT-STICKS, WHIPS, RIDING-CROPS AND PARTS THEREOF; PREPARED FEATHERS AND ARTICLES MADE THEREWITH; ARTIFICIAL FLOWERS; ARTICLES OF HUMAN HAIR"
+  },
+  "summary": {
+    "vi": "Phần XII bao gồm các sản phẩm may mặc và phụ kiện hoàn chỉnh như giày, dép, mũ và các vật đội đầu khác; các mặt hàng như ô, dù, ba toong, gậy, roi; và các sản phẩm trang trí hoặc chuyên dụng làm từ lông vũ, hoa nhân tạo và tóc người. Phần này được chia thành bốn chương:\n- Chương 64: Bao gồm các loại giày, dép, ghệt và các sản phẩm tương tự, và các bộ phận của chúng. Chương này loại trừ các loại giày dép đặc biệt như giày dép dùng một lần không có đế (phân loại theo vật liệu), giày dép dệt không có đế ngoài được gắn (Phần XI), giày dép đã qua sử dụng (nhóm 63.09), hàng bằng amiăng (nhóm 68.12), giày dép chỉnh hình (nhóm 90.21), và giày dép đồ chơi hoặc giày trượt băng (Chương 95).\n- Chương 65: Bao gồm các loại mũ, vật đội đầu khác và các bộ phận của chúng. Chương này không bao gồm mũ đã qua sử dụng (nhóm 63.09), mũ bằng amiăng (nhóm 68.12), và mũ búp bê hoặc mũ đồ chơi (Chương 95).\n- Chương 66: Bao gồm ô, dù, ba toong, gậy, roi và các bộ phận của chúng. Chương này không bao gồm gậy đo (nhóm 90.17), gậy có gắn súng hoặc giấu kiếm (Chương 93), và ô dù đồ chơi (Chương 95).\n- Chương 67: Bao gồm lông vũ và lông tơ đã qua chế biến và các sản phẩm làm từ chúng, hoa nhân tạo và các sản phẩm từ hoa nhân tạo, và các sản phẩm làm từ tóc người như tóc giả. Chương này không bao gồm các sản phẩm mà lông vũ/lông tơ chỉ dùng làm vật liệu nhồi (ví dụ đệm giường thuộc nhóm 94.04), giày dép (Chương 64), mũ (Chương 65), đồ chơi hoặc dụng cụ thể thao (Chương 95), hoa nhân tạo bằng thủy tinh (Chương 70) hoặc được làm nguyên khối từ các vật liệu khác.",
+    "en": "Section XII covers finished apparel and accessory articles such as footwear and headgear; articles like umbrellas, walking-sticks, and whips; and decorative or specialized articles of prepared feathers, artificial flowers, and human hair. This Section is divided into four chapters:\n- Chapter 64: Covers footwear, gaiters and the like, and parts thereof. This chapter excludes specific types of footwear such as disposable footwear without applied soles (classified by material), textile footwear without an affixed outer sole (Section XI), worn footwear (heading 63.09), articles of asbestos (heading 68.12), orthopaedic footwear (heading 90.21), and toy footwear or skating boots (Chapter 95).\n- Chapter 65: Covers headgear and parts thereof. This chapter does not cover worn headgear (heading 63.09), asbestos headgear (heading 68.12), and dolls' hats or toy hats (Chapter 95).\n- Chapter 66: Covers umbrellas, sun umbrellas, walking-sticks, whips, and parts thereof. This chapter does not cover measure walking-sticks (heading 90.17), firearm-sticks or sword-sticks (Chapter 93), and toy umbrellas (Chapter 95).\n- Chapter 67: Covers prepared feathers and down and articles thereof, artificial flowers and articles made of them, and articles of human hair such as wigs. This chapter excludes articles where feathers/down are used only for filling (e.g., bedding of heading 94.04), footwear (Chapter 64), headgear (Chapter 65), toys or sports requisites (Chapter 95), artificial flowers of glass (Chapter 70) or those obtained in one piece from other materials."
+  },
+  "notes": [],
+  "general": [],
+  "chapters": [
+    {
+      "chapter_id": "64",
+      "chapter_title": {
+        "vi": "Giày, dép, ghệt và các sản phẩm tương tự; các bộ phận của các sản phẩm trên",
+        "en": "Footwear, gaiters and the like; parts of such articles"
+      }
+    },
+    {
+      "chapter_id": "65",
+      "chapter_title": {
+        "vi": "Mũ và các vật đội đầu khác và các bộ phận của chúng",
+        "en": "Headgear and parts thereof"
+      }
+    },
+    {
+      "chapter_id": "66",
+      "chapter_title": {
+        "vi": "Ô, dù che, ba toong, gậy tay cầm có thể chuyển thành ghế, roi, gậy điều khiển, roi điều khiển súc vật thồ kéo và các bộ phận của các sản phẩm trên",
+        "en": "Umbrellas, sun umbrellas, walking-sticks, seat-sticks, whips, riding-crops, and parts thereof"
+      }
+    },
+    {
+      "chapter_id": "67",
+      "chapter_title": {
+        "vi": "Lông vũ và lông tơ chế biến, các sản phẩm bằng lông vũ hoặc lông tơ; hoa nhân tạo; các sản phẩm làm từ tóc người",
+        "en": "Prepared feathers and down and articles made of feathers or of down; artificial flowers; articles of human hair"
+      }
+    }
+  ]
+}

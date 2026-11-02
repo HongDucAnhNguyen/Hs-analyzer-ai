@@ -1,0 +1,96 @@
+{
+  "heading_id": "84.76",
+  "heading_title": {
+    "vi": "Máy bán hàng hóa tự động (ví dụ, máy bán tem bưu điện, máy bán thuốc lá, máy bán thực phẩm hoặc đồ uống), kể cả máy đổi tiền.",
+    "en": "Automatic goods-vending machines (for example, postage stamp, cigarette, food or beverage machines), including money-changing machines (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 84.76 bao gồm các loại máy bán hàng hóa tự động khi có tiền xu, thẻ hoặc thẻ từ được đưa vào. Điều kiện tiên quyết là máy phải có cơ chế chấp nhận thanh toán; các máy chỉ cấp phát sản phẩm mà không nhận thanh toán sẽ bị loại trừ. Nhóm này áp dụng cho cả các máy được trang bị thiết bị làm nóng, làm lạnh hoặc các thiết bị chuẩn bị sản phẩm tại chỗ (như máy ép nước quả, máy trộn cà phê) miễn là chức năng chính của chúng là bán hàng. Các sản phẩm được bán rất đa dạng, bao gồm tem bưu điện, vé, thực phẩm, đồ uống, thuốc lá và các sản phẩm vệ sinh. Nhóm này cũng bao gồm máy đổi tiền. Tuy nhiên, nhóm này loại trừ một số loại máy hoạt động bằng tiền xu cụ thể như: khóa (nhóm 83.01), bơm nhiên liệu (nhóm 84.13), máy cân (nhóm 84.23), máy chữ (nhóm 84.72), máy ảnh và kính thiên văn (Chương 90), và các trò chơi may rủi (Chương 95).",
+    "en": "Heading 84.76 covers various types of machines that automatically vend goods upon the insertion of a coin, token, or magnetic card. The prerequisite is that the machine must have a payment acceptance mechanism; machines that only dispense products without accepting payment are excluded. This heading applies even to machines equipped with heating, refrigerating, or on-the-spot product preparation devices (such as juice presses, coffee mixers) as long as their primary function is vending. The vended products are diverse, including postage stamps, tickets, food, beverages, cigarettes, and toilet products. This heading also includes money-changing machines. However, this heading excludes certain specific coin-operated machines such as: locks (heading 83.01), fuel pumps (heading 84.13), weighing machines (heading 84.23), typewriters (heading 84.72), cameras and telescopes (Chapter 90), and games of chance (Chapter 95)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy cung cấp hàng hóa khi một hoặc nhiều tiền kim loại, thẻ hoặc thẻ từ được đưa vào, trừ những máy được mô tả chi tiết hơn ở nhóm khác hoặc bị loại trừ bởi Chú giải Chương hoặc Phần. Khái niệm “bán hàng” yêu cầu phải có sự trao đổi tiền tệ. Các máy cung cấp hàng hóa không có thiết bị chấp nhận thanh toán bị loại trừ. Cụ thể, máy cung cấp đồ uống nóng hoặc lạnh tự động không có thiết bị chấp nhận thanh toán thuộc nhóm 84.19. Nhóm này bao gồm cả máy phân phối tự động và máy có nhiều khoang chứa được mở khóa bằng tiền xu. Các tủ hoặc thùng chứa đơn giản có khóa hoạt động bằng đồng xu (ví dụ, tủ gửi hành lý ở ga) bị loại trừ và thuộc Phần XV hoặc Chương 94. Các máy có thể được trang bị thiết bị làm nóng, làm lạnh, hoặc chuẩn bị sản phẩm (máy ép nước hoa quả, máy trộn cà phê, máy trộn kem), miễn là chức năng chính là bán hàng. Ví dụ các máy thuộc nhóm này bao gồm máy bán tem bưu điện, vé tàu, sô cô la, kẹo, kem, thuốc lá, đồ uống (bia, rượu, cà phê), sản phẩm vệ sinh, tất, phim ảnh, báo, và máy dập biển tên trên dải kim loại.",
+        "en": "This heading covers machines which supply merchandise when one or more coins, tokens or a magnetic card are put in a slot, other than machines more specifically covered by other headings or excluded by a Chapter or Section Note. The term “vending” requires a monetary exchange. Machines that dispense a product without a payment device are excluded. Specifically, automatic hot or cold beverage-dispensing machines without a payment device are excluded (heading 84.19). The heading covers both automatic distribution machines and those with multiple compartments unlocked by a coin. Simple cupboards or containers with a coin-operated lock (e.g., for baggage deposit in stations) are excluded and fall in Section XV or Chapter 94. The machines may be equipped with heating, refrigerating, or product preparation devices (fruit juice pressers, coffee mixers, ice cream mixers), provided the principal function is vending. Examples of machines of this heading include those for selling postage stamps, railway tickets, chocolate, sweets, ice cream, cigarettes, beverages (beer, wine, coffee), toilet products, stockings, photographic films, newspapers, and machines for stamping name plates on a strip of metal."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm máy đổi tiền. Về bộ phận, theo quy định chung của Phần XVI, nhóm này bao gồm các cơ cấu bán hàng tự động để lắp vào mặt tiền cửa hàng và các bộ phận của máy thuộc nhóm này. Các máy và thiết bị hoạt động bằng tiền xu sau đây không thuộc nhóm này: (a) Khóa chặn tiền xu (nhóm 83.01); (b) Bơm nhiên liệu và dầu bôi trơn (nhóm 84.13); (c) Cân máy (nhóm 84.23); (d) Máy chữ (nhóm 84.72); (e) Máy đánh giày (nhóm 84.79); (f) Máy cạo râu điện (nhóm 85.10); (g) Thiết bị điện thoại (nhóm 85.17); (h) Máy thu sóng truyền hình (nhóm 85.28); (ij) Kính thiên văn, máy ảnh, máy chiếu phim (Chương 90); (k) Đồng hồ đo điện hoặc gas (nhóm 90.28); (l) Trò chơi may rủi (nhóm 95.04) và các máy khác của Chương 95.",
+        "en": "The heading also covers money-changing machines. As for parts, subject to the general provisions of Section XVI, the heading covers automatic vending mechanisms for building into shop fronts and parts of the machines of this heading. The following coin-operated machines are not covered: (a) Coin-operated locks (heading 83.01); (b) Pumps for dispensing fuel or lubricants (heading 84.13); (c) Weighing machines (heading 84.23); (d) Typewriters (heading 84.72); (e) Coin-operated shoe brushing machines (heading 84.79); (f) Electric shavers (heading 85.10); (g) Telephone apparatus (heading 85.17); (h) Television receivers (heading 85.28); (ij) Telescopes, cameras, cinematograph projectors (Chapter 90); (k) Gas or electricity supply meters (heading 90.28); (l) Games of skill or chance (heading 95.04) and other machines of Chapter 95."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 8476.21 và 8476.29: Khái niệm 'máy bán đồ uống tự động' chỉ các máy tự động bán đồ uống (cà phê, chè, nước hoa quả, đồ uống có cồn...) được phân phối ở dạng sẵn sàng sử dụng trong cốc hoặc đồ chứa khác (hộp, chai, hộp bìa cứng), hoặc phân phối riêng phần bột sử dụng ngay và nước (nóng hoặc lạnh).",
+        "en": "Subheading Explanatory Note for 8476.21 and 8476.29: The expression “automatic beverage-vending machines” refers to all automatic machines for selling beverages (coffee, tea, fruit juices, alcoholic drinks, etc.) dispensed either ready for use in a cup or any other container (e.g., tin, bottle or carton), or by dispensing separately both instant-mix powders and hot or cold water."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy bán đồ uống tự động:",
+        "en": "- Automatic beverage-vending machines:"
+      },
+      "subheading_id": "8476.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có kèm thiết bị làm nóng hoặc làm lạnh",
+        "en": "- - Incorporating heating or refrigerating devices"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy bán đồ uống tự động:",
+        "en": "- Automatic beverage-vending machines:"
+      },
+      "subheading_id": "8476.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy khác:",
+        "en": "- Other machines:"
+      },
+      "subheading_id": "8476.81",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có lắp thiết bị làm nóng hoặc làm lạnh",
+        "en": "- - Incorporating heating or refrigerating devices"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Máy khác:",
+        "en": "- Other machines:"
+      },
+      "subheading_id": "8476.89",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8476.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bộ phận",
+        "en": "- Parts"
+      }
+    }
+  ]
+}

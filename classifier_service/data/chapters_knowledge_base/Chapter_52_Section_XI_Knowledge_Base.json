@@ -1,0 +1,115 @@
+{
+  "chapter_id": "52",
+  "chapter_title": {
+    "vi": "Bông",
+    "en": "Cotton"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm bông và các sản phẩm từ bông, từ giai đoạn nguyên liệu thô đến vải dệt thoi. Cụ thể bao gồm:\n- Xơ bông ở các giai đoạn sơ chế: chưa chải thô hoặc chải kỹ (nhóm 52.01), phế liệu bông (nhóm 52.02), và xơ bông đã chải thô hoặc chải kỹ (nhóm 52.03).\n- Sợi và chỉ bông: chỉ khâu (nhóm 52.04), sợi bông có hàm lượng từ 85% trở lên (nhóm 52.05), sợi bông có hàm lượng dưới 85% (nhóm 52.06), và sợi bông đóng gói để bán lẻ (nhóm 52.07).\n- Vải dệt thoi từ bông, được phân loại dựa trên hàm lượng bông, trọng lượng, và loại sợi pha trộn:\n  + Vải có hàm lượng bông từ 85% trở lên, trọng lượng không quá 200 g/m² (nhóm 52.08) và trên 200 g/m² (nhóm 52.09).\n  + Vải có hàm lượng bông dưới 85%, pha với xơ sợi nhân tạo, trọng lượng không quá 200 g/m² (nhóm 52.10) và trên 200 g/m² (nhóm 52.11).\n  + Các loại vải dệt thoi khác từ bông (nhóm 52.12).\nMột chú giải quan trọng định nghĩa khái niệm “denim” cho mục đích của các phân nhóm 5209.42 và 5211.42.\nChương này loại trừ một số sản phẩm như: xơ của cây bông (nhóm 14.04), băng, mền xơ, bông dùng trong y tế (nhóm 30.05), mền xơ, bông (nhóm 56.01), xơ vụn và bụi xơ (nhóm 56.01), dây xe, chão bện (nhóm 56.07), các loại vải đặc biệt như vải dệt nổi, vải khăn lông, vải dệt quấn (Chương 58), vải dệt dùng cho mục đích kỹ thuật (nhóm 59.11) và vải vụn (nhóm 63.10).",
+    "en": "This chapter covers cotton and its products, from the raw material stage to woven fabrics. Specifically, it includes:\n- Cotton fibres in preliminary stages: not carded or combed (heading 52.01), cotton waste (heading 52.02), and carded or combed cotton fibres (heading 52.03).\n- Cotton yarn and thread: sewing thread (heading 52.04), yarn containing 85% or more by weight of cotton (heading 52.05), yarn containing less than 85% by weight of cotton (heading 52.06), and cotton yarn put up for retail sale (heading 52.07).\n- Woven fabrics of cotton, classified based on cotton content, weight, and mixed fibres:\n  + Fabrics containing 85% or more by weight of cotton, weighing not more than 200 g/m² (heading 52.08) and more than 200 g/m² (heading 52.09).\n  + Fabrics containing less than 85% by weight of cotton, mixed with man-made fibres, weighing not more than 200 g/m² (heading 52.10) and more than 200 g/m² (heading 52.11).\n  + Other woven fabrics of cotton (heading 52.12).\nAn important note defines the expression “denim” for the purposes of subheadings 5209.42 and 5211.42.\nThe chapter excludes certain products such as: cotton linters (heading 14.04), medicated bandages or wadding (heading 30.05), wadding (heading 56.01), textile flock and dust (heading 56.01), twine and cordage (heading 56.07), special fabrics like pile fabrics, terry towelling, gauze (Chapter 58), fabrics for technical uses (heading 59.11), and rags (heading 63.10)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1. Theo mục đích của các phân nhóm 5209.42 và 5211.42, khái niệm “denim” là vải dệt từ các sợi có các màu khác nhau, kiểu dệt là vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vân chéo gãy, mặt phải của vải có hiệu ứng dọc, các sợi dọc được nhuộm cùng một màu và sợi ngang là sợi không tẩy trắng, đã tẩy trắng, nhuộm màu xám hoặc nhuộm màu nhạt hơn so với màu sợi dọc.",
+        "en": "1. For the purposes of subheadings 5209.42 and 5211.42, the expression “denim” means fabrics of yarns of different colours, of 3-thread or 4-thread twill, including broken twill, warp faced, the warp yarns of which are of one and the same colour and the weft yarns of which are unbleached, bleached, dyed grey or coloured a lighter shade of the colour of the warp yarns."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Khi đọc Chú giải chi tiết Chương này cần phải kết hợp xem xét với Chú giải tổng quát của Phần XI. Nói chung, Chương này đề cập tới các loại sợi bông ở các giai đoạn khác nhau của sự chuyển hoá từ nguyên liệu thô thành các loại vải dệt thoi và bao gồm cả các nguyên liệu dệt hỗn hợp đã được phân loại như bông.",
+        "en": "The General Explanatory Note to Section XI should be taken into account in reading the Explanatory Notes to this Chapter. In general, the Chapter covers cotton fibres at the various stages of their conversion from raw material to woven fabrics, and includes mixed textile materials classified as cotton."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "52.01",
+      "heading_title": {
+        "vi": "Xơ bông, chưa chải thô hoặc chưa chải kỹ.",
+        "en": "Cotton, not carded or combed."
+      }
+    },
+    {
+      "heading_id": "52.02",
+      "heading_title": {
+        "vi": "Phế liệu bông (kể cả phế liệu sợi và bông tái chế).",
+        "en": "Cotton waste (including yarn waste and garnetted stock)."
+      }
+    },
+    {
+      "heading_id": "52.03",
+      "heading_title": {
+        "vi": "Xơ bông, chải thô hoặc chải kỹ.",
+        "en": "Cotton, carded or combed."
+      }
+    },
+    {
+      "heading_id": "52.04",
+      "heading_title": {
+        "vi": "Chỉ khâu làm từ bông đã hoặc chưa đóng gói để bán lẻ.",
+        "en": "Cotton sewing thread, whether or not put up for retail sale."
+      }
+    },
+    {
+      "heading_id": "52.05",
+      "heading_title": {
+        "vi": "Sợi bông (trừ chỉ khâu), có hàm lượng bông chiếm từ 85% trở lên tính theo khối lượng, chưa đóng gói để bán lẻ.",
+        "en": "Cotton yarn (other than sewing thread), containing 85 % or more by weight of cotton, not put up for retail sale."
+      }
+    },
+    {
+      "heading_id": "52.06",
+      "heading_title": {
+        "vi": "Sợi bông (trừ chỉ khâu), có hàm lượng bông chiếm dưới 85% tính theo khối lượng, chưa đóng gói để bán lẻ.",
+        "en": "Cotton yarn (other than sewing thread), containing less than 85 % by weight of cotton, not put up for retail sale."
+      }
+    },
+    {
+      "heading_id": "52.07",
+      "heading_title": {
+        "vi": "Sợi bông (trừ chỉ khâu), đã đóng gói để bán lẻ.",
+        "en": "Cotton yarn (other than sewing thread) put up for retail sale."
+      }
+    },
+    {
+      "heading_id": "52.08",
+      "heading_title": {
+        "vi": "Vải dệt thoi từ bông, có hàm lượng bông chiếm từ 85% trở lên tính theo khối lượng, định lượng không quá 200 g/m2.",
+        "en": "Woven fabrics of cotton, containing 85 % or more by weight of cotton, weighing not more than 200 g/m2."
+      }
+    },
+    {
+      "heading_id": "52.09",
+      "heading_title": {
+        "vi": "Vải dệt thoi từ bông, có hàm lượng bông chiếm từ 85% trở lên tính theo khối lượng, định lượng trên 200 g/m2.",
+        "en": "Woven fabrics of cotton, containing 85 % or more by weight of cotton, weighing more than 200 g/m2."
+      }
+    },
+    {
+      "heading_id": "52.10",
+      "heading_title": {
+        "vi": "Vải dệt thoi từ bông, có hàm lượng bông chiếm dưới 85% tính theo khối lượng, pha chủ yếu hoặc pha duy nhất với xơ sợi nhân tạo, có định lượng không quá 200 g/m2.",
+        "en": "Woven fabrics of cotton, containing less than 85 % by weight of cotton, mixed mainly or solely with man-made fibres, weighing not more than 200 g/m2."
+      }
+    },
+    {
+      "heading_id": "52.11",
+      "heading_title": {
+        "vi": "Vải dệt thoi từ bông, có hàm lượng bông chiếm dưới 85% tính theo khối lượng, pha chủ yếu hoặc pha duy nhất với xơ sợi nhân tạo, có định lượng trên 200 g/m2.",
+        "en": "Woven fabrics of cotton, containing less than 85 % by weight of cotton, mixed mainly or solely with man-made fibres, weighing more than 200 g/m2."
+      }
+    },
+    {
+      "heading_id": "52.12",
+      "heading_title": {
+        "vi": "Vải dệt thoi khác từ sợi bông.",
+        "en": "Other woven fabrics of cotton."
+      }
+    }
+  ]
+}

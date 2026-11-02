@@ -1,0 +1,28 @@
+{
+  "heading_id": "74.05",
+  "heading_title": {
+    "vi": "Hợp kim đồng chủ.",
+    "en": "Master alloys of copper."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các hợp kim đồng chủ như định nghĩa tại Chú giải Chương 1(c), chứa trên 10% đồng, quá giòn để gia công kim loại thông thường. Chúng được sử dụng để thêm các nguyên tố khác vào các hợp kim như đồng thau. Hàm lượng đồng thường từ 30% đến 90%. Ví dụ: đồng nhôm, đồng beryli, đồng sắt. Nhóm này loại trừ các hợp kim đồng-niken vì chúng dễ uốn và đồng photphua chứa trên 15% phospho (nhóm 28.53).",
+    "en": "This heading covers master alloys of copper as defined in Chapter Note 1(c), containing more than 10% by weight of copper, and which are too brittle for normal metal working. They are used to introduce other elements into alloys such as brass. The copper content generally ranges from 30% to 90%. Examples include copper-aluminium, copper-beryllium, and copper-iron. This heading excludes copper-nickel alloys because they are malleable and copper phosphide containing more than 15% by weight of phosphorus (heading 28.53)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Hợp kim chủ này được định nghĩa ở Chú giải Chương 1(c).\n\nHợp kim chủ của nhóm này là những hợp kim có chứa hơn 10% tính theo khối lượng là đồng với các nguyên tố khác, do thành phần của chúng như vậy nên chúng quá giòn cho việc gia công kim loại thông thường. Bởi vậy chúng được sử dụng đưa vào thành đồng thau, đồng thanh hoặc đồng nhôm hoặc với các nguyên tố khác có điểm nóng chảy cao hơn hợp kim này hoặc các nguyên tố có tính ô xy hoá cao (ví dụ: nhôm, catmi, asen, magie) hoặc các nguyên tố dễ cháy hao ở nhiệt độ nóng chảy hoặc đặc tính khác nữa để tiện lợi cho việc chế biến hợp kim nào đó bằng cách thêm chất khử ô xy, khử lưu huỳnh hoặc các nguyên tố tương tự (ví dụ: canxi).\n\nĐồng đóng vai trò như dung môi hoặc chất pha loãng các nguyên tố khác và phải có hàm lượng đủ để làm giảm độ nóng chảy hoặc tác dụng ô xy hoá hoặc cháy hao của hợp kim chủ. Tuy nhiên nếu hàm lượng đồng quá cao, kim loại này hoà tan quá nhiều những nguyên tố khác vào hợp kim. Trong vật liệu này hàm lượng đồng thường từ 30 đến 90%, nhưng trong trường hợp đặc biệt, có thể vượt quá giới hạn này.\n\nVì vậy nhóm này loại trừ hợp kim niken đồng, ngay cả khi được sử dụng như một hợp kim đồng chủ, do hợp kim đồng- niken dễ cán và rèn ở bất kỳ hàm lượng nào. Trong khi các hợp kim như hợp kim đồng - mangan và đồng silic, có dễ cán và rèn không là tuỳ thuộc vào hàm lượng của các kim loại cấu thành; chỉ xếp ở đây những hợp kim hầu như không thể cán hoặc rèn.",
+        "en": "Master alloys are defined in Chapter Note 1 (c).\n\nThe master alloys of this heading are alloys containing more than 10 % by weight of copper together with other elements, and which, because of their composition, are too brittle for normal metal working. They are therefore used either to introduce into brass, bronze or aluminium bronze, other elements with a higher melting point than those alloys, or highly oxidisable elements (e.g., aluminium, cadmium, arsenic, magnesium) or elements sublimable at the fusion temperature, or else to facilitate the preparation of certain alloys by adding de-oxidising, desulphurising or similar elements (e.g., calcium).\n\nThe copper acts as a solvent or diluent of the other elements and must be present in amounts sufficient to reduce the melting point or the oxidising or sublimating action of the master alloy. If the proportion of copper is too high, however, that metal unduly dilutes the other elements introduced into the alloys. The copper content generally ranges between 30 and 90 % in these products but may, in special cases, be above or below these limits.\n\nThe heading therefore excludes, for example, any copper-nickel alloy, even if intended for use as a master alloy, since copper-nickel alloys are usefully malleable in all proportions. Other alloys, for example copper manganese and copper-silicon alloys, may or may not be malleable according to the proportions of the constituent metals present; in such cases the heading covers only those alloys which are not usefully malleable."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Những hợp kim đồng chủ của nhóm này bao gồm đồng nhôm, đồng beryli, đồng bo, đồng catmi, đồng crom, đồng sắt, đồng magie, đồng mangan, đồng molybđen, đồng silic, đồng titan hoặc đồng vanađi.\n\nHợp kim chủ thường ở dạng khối nhỏ hoặc dạng bánh đã phân chia-để dễ gẫy, que dòn hoặc dạng viên và có hình dáng bề ngoài của các sản phẩm đúc thô.\n\nĐồng photphua (phosphor copper) có chứa trên 15% tính theo khối lượng của phospho được xếp vào nhóm 28.53.",
+        "en": "Master alloys of this heading include copper aluminium, copper beryllium, copper boron, copper cadmium, copper chromium, copper iron, copper magnesium, copper manganese, copper molybdenum, copper silicon, copper titanium or copper vanadium.\n\nMaster alloys are generally in the form of small blocks or cakes divided for easy breaking, brittle sticks or pellets, and have the appearance of crude foundry products.\n\nCopper phosphide (phosphor copper) containing more than 15 % by weight of phosphorus falls in heading 28.53."
+      }
+    }
+  ],
+  "subheadings": []
+}

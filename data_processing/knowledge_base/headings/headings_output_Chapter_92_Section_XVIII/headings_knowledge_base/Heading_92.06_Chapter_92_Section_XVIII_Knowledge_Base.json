@@ -1,0 +1,35 @@
+{
+  "heading_id": "92.06",
+  "heading_title": {
+    "vi": "Nhạc cụ thuộc bộ gõ (ví dụ, trống, mộc cầm, chũm chọe, castanet, chuông gõ (maraca)).",
+    "en": "Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas)."
+  },
+  "summary": {
+    "vi": "Nhóm 92.06 bao gồm các nhạc cụ thuộc bộ gõ, là những nhạc cụ tạo ra âm thanh khi bị đánh hoặc đập bằng tay, dùi hoặc vật thể khác. Nhóm này được chia thành hai loại chính. Loại thứ nhất là các nhạc cụ có lớp da căng, bao gồm các loại trống như trống nhỏ, trống lục lạc, trống tang mỏng, trống trầm, trống timpani, và trống tam tam. Loại thứ hai là các nhạc cụ bộ gõ khác, gồm chũm chọe, cồng, thanh kẻng ba góc, phách, mộc cầm, đàn phiến kim loại, đàn celesta, chuông, maracas và flexatone. Nhóm này cũng bao gồm bộ chuông hòa âm (carillon) dùng cho các tòa nhà công cộng. Tuy nhiên, nhóm này loại trừ các nhạc cụ bộ gõ điện tử (nhóm 92.07), các loại chuông và cồng không phải nhạc cụ như chuông cửa (nhóm 83.06 hoặc 85.31), và bộ chuông cho đồng hồ (nhóm 91.14).",
+    "en": "Heading 92.06 covers percussion musical instruments, which produce sound when struck by hand, a stick, or another object. This heading is divided into two main categories. The first category includes instruments with a stretched skin, such as tabors, tambourines, various drums like side drums, bass drums, timpani, and tom-toms. The second category comprises other percussion instruments, including cymbals, gongs, triangles, castanets, xylophones, metallophones, celestas, bells, maracas, and flexatones. The heading also includes carillons for public buildings. However, it excludes electronic percussion instruments (heading 92.07), non-musical bells and gongs like doorbells (heading 83.06 or 85.31), and striking mechanisms for clocks (heading 91.14)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm nhạc cụ thuộc bộ gõ, tạo ra âm thanh khi bị đập (đánh) bằng dùi, dụng cụ tương tự, hoặc bằng tay không. Chúng còn được gọi chung là “nhạc cụ để đánh”.",
+        "en": "This heading covers percussion musical instruments which are struck with an object, a stick or similar device, or with the bare hand. These instruments are also known collectively as “the drums”."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Bao gồm: (A) Nhạc cụ có lớp da căng: trống nhỏ, trống lục lạc, trống (trống tang mỏng, trống trầm), trống Timpano, trống thùng, trống tam tam. (B) Các nhạc cụ thuộc bộ gõ khác: chũm chọe, cồng (ví dụ cồng Trung Hoa), thanh kẻng ba góc, lục lạc hình nón (pavilon Trung Hoa), phách (castanet), mộc cầm, đàn phiến kim loại (gồm cả loại bằng phiến thủy tinh), đàn Celesta.",
+        "en": "Includes: (A) Those with a stretched skin, e.g.: tabors and tambourins; drums (shallow side drums, bass or big drums); timpani and kettle-drums; tambourines with jingles; tom-toms. (B) Other percussion instruments such as: cymbals; gongs (e.g., Chinese gongs); triangles; jingles johnnies (Chinese pavilions, Turkish crescents); castenets; xylophones; metallophones (including similar instruments with glass plates); celestas."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các nhạc cụ bộ gõ khác (tiếp theo): chuông, bộ chuông, chuông hoà âm, chuông hình ống, maracas, “phách” bằng đôi que (claves), và flexatone. Nhóm này cũng bao gồm các bộ nhạc cụ kết hợp (ví dụ trống trong dàn nhạc) và bộ chuông hoà âm (carillon) cho tòa nhà công cộng. Nhóm này không bao gồm: nhạc cụ bộ gõ điện tử (nhóm 92.07); chuông và cồng không phải nhạc cụ như chuông cửa (nhóm 83.06 hoặc 85.31); và bộ gõ cho đồng hồ (nhóm 91.14).",
+        "en": "Other percussion instruments (continued): bells, sets of bells, chimes, tubular bells, maracas, “claves”, and flexatones. This heading also covers combined instrument sets (e.g., for dance-bands) and carillons for public buildings. The heading excludes: electronic percussion musical instruments (heading 92.07); non-musical bells and gongs such as door bells (heading 83.06 or 85.31); and chimes and other striking mechanisms for clocks (heading 91.14)."
+      }
+    }
+  ],
+  "subheadings": []
+}

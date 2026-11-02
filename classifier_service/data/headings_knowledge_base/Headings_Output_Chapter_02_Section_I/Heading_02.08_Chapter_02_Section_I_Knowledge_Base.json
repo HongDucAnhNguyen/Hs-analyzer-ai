@@ -1,0 +1,94 @@
+{
+  "heading_id": "02.08",
+  "heading_title": {
+    "vi": "Thịt và phụ phẩm dạng thịt ăn được sau giết mổ của động vật khác, tươi, ướp lạnh hoặc đông lạnh.",
+    "en": "Other meat and edible meat offal, fresh, chilled or frozen."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thịt và phụ phẩm dạng thịt sau giết mổ của các động vật thuộc nhóm 01.06, với điều kiện là chúng phải thích hợp dùng làm thức ăn cho người. Ví dụ bao gồm thịt thỏ, thỏ rừng, ếch, tuần lộc, hải ly, cá voi, rùa.",
+    "en": "This heading covers meat and meat offal of the animals classified in heading 01.06, provided that they are suitable for human consumption. Examples include rabbit, hare, frog, reindeer, beaver, whale, turtle."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm thịt và phụ phẩm dạng thịt sau giết mổ của động vật thuộc nhóm 01.06, miễn là chúng thích hợp dùng làm thức ăn cho người (ví dụ, thỏ, thỏ rừng, ếch, tuần lộc, hải ly, cá voi, rùa).",
+        "en": "This heading covers meat and meat offal of the animals classified in heading 01.06, provided that they are suitable for human consumption (e.g., rabbit, hare, frog, reindeer, beaver, whale, turtle)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0208.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Của thỏ hoặc thỏ rừng",
+        "en": "Of rabbits or hares"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0208.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Của bộ động vật linh trưởng",
+        "en": "Of primates"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0208.40",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Của cá voi, cá heo chuột và cá heo (động vật có vú thuộc bộ Cetacea); của lợn biển và cá nược (động vật có vú thuộc bộ Sirenia); của hải cẩu, sư tử biển và con moóc (hải mã) (động vật có vú thuộc phân bộ Pinnipedia)",
+        "en": "Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia): of seals, sea lions and walruses (mammals of the suborder Pinnipedia)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0208.50",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Của loài bò sát (kể cả rắn và rùa)",
+        "en": "Of reptiles (including snakes and turtles)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0208.60",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Của lạc đà và họ lạc đà (Camelidae)",
+        "en": "Of camels and other camelids (Camelidae)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0208.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

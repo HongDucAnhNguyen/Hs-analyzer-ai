@@ -1,0 +1,58 @@
+{
+  "heading_id": "91.13",
+  "heading_title": {
+    "vi": "Dây đeo, quai đeo và vòng đeo đồng hồ cá nhân, và các bộ phận của chúng.",
+    "en": "Watch straps, watch bands and watch bracelets, and parts thereof."
+  },
+  "summary": {
+    "vi": "Nhóm 91.13 bao gồm các loại dây đeo, quai đeo và vòng đeo dùng để cố định đồng hồ cá nhân vào cổ tay, cùng với các bộ phận của chúng. Các sản phẩm này có thể được chế tạo từ nhiều loại vật liệu đa dạng, bao gồm kim loại cơ bản, kim loại quý, da, nhựa và vật liệu dệt, kể cả khi chúng có đặc tính trang trí. Nhóm này cũng áp dụng cho các bộ phận riêng lẻ của dây đeo miễn là chúng có thể được nhận dạng. Tuy nhiên, nhóm này loại trừ một số mặt hàng cụ thể như các thiết bị đeo khác (vòng cổ, dây xích), khóa và khoá bấm bằng kim loại quý (nhóm 71.15) hoặc kim loại cơ bản (nhóm 83.08). Các dây đeo được trình bày kèm với đồng hồ nhưng chưa được gắn vào sẽ được phân loại cùng đồng hồ trong nhóm 91.01 hoặc 91.02.",
+    "en": "Heading 91.13 covers watch straps, bands, and bracelets used for fastening personal watches to the wrist, along with their parts. These items can be made from various materials, including base metal, precious metal, leather, plastics, and textile material, even when they are decorative. The heading also applies to identifiable parts of these items. However, this heading excludes certain items like other attaching devices (neck chains, watch chains), buckles and buckle-clasps of precious metal (heading 71.15) or base metal (heading 83.08). Straps presented with their watches but not attached are classified with the watches in heading 91.01 or 91.02."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các loại dây đeo, quai đeo và vòng đeo của đồng hồ cá nhân dùng để giữ đồng hồ trên cổ tay. Các sản phẩm này có thể được làm bằng mọi chất liệu, như kim loại cơ bản, kim loại quý, da, plastic hay vật liệu dệt, và có thể mang tính trang trí. Nhóm này cũng bao gồm các bộ phận có thể nhận biết được của dây đeo, quai đeo và vòng đeo đồng hồ. Các loại trừ khỏi nhóm này bao gồm: (a) Các thiết bị đeo khác như vòng đeo cổ, dây đeo, dây xích, nhẫn, kim gài được phân loại vào các nhóm tương ứng. (b) Khoá và khoá bấm bằng kim loại quý hoặc kim loại dát phủ kim loại quý (nhóm 71.15) hoặc bằng kim loại cơ bản (nhóm 83.08). (c) Dây đeo, quai đeo và vòng đeo được trình bày cùng với đồng hồ nhưng không gắn vào đồng hồ (phân loại vào nhóm 91.01 hoặc 91.02).",
+        "en": "This heading covers all kinds of watch straps, watch bands and watch bracelets for fastening watches to the wrist. These items may be of any material, for example, base metal, precious metal, leather, plastics or textile material. They may also be clearly decorative in character without this affecting their classification. The heading also includes identifiable parts of watch straps, watch bands and watch bracelets. The heading excludes: (a) Other attaching devices (neck chains, pendant bands, watch chains, rings, brooches, etc.) which are classifiable in their appropriate headings. (b) Buckles and buckle-clasps of precious metal or of metal clad with precious metal (heading 71.15) or of base metal (heading 83.08). (c) Watch straps, watch bands and watch bracelets presented with their watches but not attached thereto (heading 91.01 or 91.02)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9113.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng kim loại quý hoặc kim loại dát phủ kim loại quý",
+        "en": "Of precious metal or of metal clad with precious metal"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9113.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng kim loại cơ bản, đã hoặc chưa mạ vàng hoặc bạc",
+        "en": "Of base metal, whether or not gold- or silver-plated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9113.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

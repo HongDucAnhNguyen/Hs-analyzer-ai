@@ -1,0 +1,58 @@
+{
+  "heading_id": "78.04",
+  "heading_title": {
+    "vi": "Chì ở dạng tấm, lá, dải và lá mỏng; bột và vảy chì.",
+    "en": "Lead plates, sheets, strip and foil; lead powders and flakes."
+  },
+  "summary": {
+    "vi": "Nhóm 78.04 bao gồm chì ở dạng tấm, lá, dải, lá mỏng, bột và vảy. Định nghĩa các sản phẩm này tuân theo Chú giải 9(d) và 8(b) của Phần XV. Việc phân loại cũng áp dụng các điều khoản tương tự từ chú giải của các nhóm 74.09, 74.10 và 74.06. Tấm, lá và dải chì chủ yếu được dùng để lợp mái, mạ kim loại, làm bể chứa trong nhà máy hóa chất và sản xuất tấm chắn tia X. Lá mỏng chì được sử dụng để đóng gói, ví dụ như lót hộp chè. Nhóm này không bao gồm bột và vảy chì đã được điều chế thành chất màu hoặc sơn, các sản phẩm đó thuộc Chương 32.",
+    "en": "Heading 78.04 covers lead in the form of plates, sheets, strip, foil, powders, and flakes. The definitions for these products follow Note 9(d) and 8(b) of Section XV. The classification also applies mutatis mutandis the provisions of the explanatory notes to headings 74.09, 74.10, and 74.06. Lead plates, sheets, and strip are mainly used for roofing, cladding, in reservoirs in chemical plants, and for manufacturing X-ray screens. Lead foil is used for packing, such as lining tea chests. This heading excludes lead powders and flakes prepared as colours or paints, which are classified in Chapter 32."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Định nghĩa về chì ở dạng tấm, lá, dải và lá mỏng tuân theo Chú giải 9(d) Phần XV. Các điều khoản của chú giải nhóm 74.09 và 74.10 cũng được áp dụng tương tự. Các sản phẩm này được sử dụng chủ yếu để lợp mái, mạ kim loại, trong các bể chứa, thùng chứa và trong nhà máy hóa chất, cũng như để sản xuất tấm chắn tia X. Lá mỏng chì chủ yếu dùng để đóng gói (ví dụ lót hộp chè) và có thể được mạ thiếc hoặc kim loại khác. Nhóm này cũng bao gồm bột chì theo định nghĩa tại Chú giải 8(b) Phần XV và vảy chì, áp dụng tương tự các điều khoản của chú giải nhóm 74.06. Nhóm này không bao gồm bột và vảy chì đã được điều chế thành chất màu, sơn hoặc các sản phẩm tương tự (ví dụ: ở dạng nhũ tương, phân tán hoặc bột nhão với chất kết dính) thuộc Chương 32.",
+        "en": "The definition of lead plates, sheets, strip and foil follows Note 9(d) to Section XV. The provisions of the Explanatory Notes to headings 74.09 and 74.10 also apply mutatis mutandis. These products are mainly used for roofing, cladding, in reservoirs, vats and other chemical plant, and for the manufacture of X-ray screens. Lead foil is mainly used for packing (e.g., lining tea chests) and may be clad or coated with tin or other metals. The heading also covers lead powders as defined in Note 8(b) to Section XV and lead flakes, with the provisions of the Explanatory Note to heading 74.06 applying mutatis mutandis. The heading does not cover lead powders and flakes prepared as colours, paints or the like (e.g., as suspensions, dispersions or pastes with a binder) of Chapter 32."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Chì ở dạng tấm, lá, dải và lá mỏng:",
+        "en": "- Plates, sheets, strip and foil:"
+      },
+      "subheading_id": "7804.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Lá, dải và lá mỏng có chiều dày (trừ phần bồi) không quá 0,2mm",
+        "en": "- - Sheets, strip and foil of a thickness (excluding any backing) not exceeding 0.2 mm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Chì ở dạng tấm, lá, dải và lá mỏng:",
+        "en": "- Plates, sheets, strip and foil:"
+      },
+      "subheading_id": "7804.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7804.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bột và vảy chì",
+        "en": "- Powders and flakes"
+      }
+    }
+  ]
+}

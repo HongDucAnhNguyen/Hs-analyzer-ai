@@ -1,0 +1,358 @@
+{
+  "heading_id": "03.07",
+  "heading_title": {
+    "vi": "Động vật thân mềm, đã hoặc chưa bóc mai, vỏ, sống, tươi, ướp lạnh, đông lạnh, làm khô, muối hoặc ngâm nước muối; động vật thân mềm hun khói, đã hoặc chưa bóc mai, vỏ, đã hoặc chưa làm chín trước hoặc trong quá trình hun khói.",
+    "en": "Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine; smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm động vật thân mềm (ví dụ: hàu, điệp, vẹm, mực nang, mực ống, bạch tuộc, ốc, nghêu, sò, bào ngư, ốc nhảy), đã hoặc chưa bóc mai, vỏ, ở dạng sống, tươi, ướp lạnh, đông lạnh, làm khô, muối, ngâm nước muối, hoặc hun khói. Nhóm này cũng bao gồm các bộ phận của chúng được chế biến tương tự, con hàu nhỏ (oyster spat) dùng làm thực phẩm, và động vật thân mềm chỉ được trụng hoặc chần nước sôi để mở vỏ. Nhóm này không bao gồm động vật thân mềm được chế biến hoặc bảo quản bằng các phương pháp khác, ví dụ như luộc trong nước hoặc ngâm dấm (nhóm 16.05).",
+    "en": "This heading covers molluscs (e.g., oysters, scallops, mussels, cuttle fish, squid, octopus, snails, clams, cockles, ark shells, abalone, stromboid conchs), whether in shell or not, live, fresh, chilled, frozen, dried, salted, in brine, or smoked. It also includes their parts similarly prepared, oyster spat for human consumption, and molluscs subjected only to scalding to open the shell. The heading excludes molluscs prepared or preserved by other processes, such as those cooked in boiling water or preserved in vinegar (heading 16.05)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Động vật thân mềm, đã hoặc chưa bóc mai, vỏ, sống, tươi, ướp lạnh, đông lạnh, làm khô, muối hoặc ngâm nước muối.\n(2) Động vật thân mềm đã hun khói, đã hoặc chưa bóc mai, vỏ, đã hoặc chưa được nấu chín trước hoặc trong quá trình hun khói.\nCác loại động vật thân mềm chính là hàu, điệp, vẹm, mực nang, mực ống, bạch tuộc, ốc, nghêu (ngao), sò, bào ngư và ốc nhảy (stromboid conchs).\nNhóm này cũng bao gồm các loài động vật thân mềm chỉ được trụng/chần nước sôi (scalding) hoặc các dạng sốc nhiệt khác (không đòi hỏi phải nấu chín), cần thiết để mở vỏ hoặc cố định nhuyễn thể trước khi vận chuyển hoặc đông lạnh, cũng vẫn thuộc Chương này.\nNhóm này cũng bao gồm các bộ phận của động vật thân mềm, với điều kiện chúng được chế biến như cách đã nêu ở mục (1) hoặc (2) trên.\nNhóm này cũng bao gồm con hàu nhỏ (con hàu nhỏ dùng để nuôi), thích hợp hoặc phù hợp dùng làm thức ăn cho người.\nNhóm này không bao gồm động vật thân mềm đã chế biến hoặc bảo quản bằng cách không nêu trong nhóm (ví dụ, động vật thân mềm được luộc trong nước hoặc bảo quản trong dấm) (nhóm 16.05).",
+        "en": "This heading covers :\n(1) Molluscs, whether in shell or not, live, fresh, chilled, frozen, dried, salted or in brine.\n(2) Smoked molluscs, whether in shell or not, whether or not cooked before or during the smoking process.\nThe main kinds of molluscs are oysters, scallops, mussels, cuttle fish, squid, octopus, snails, clams, cockles, ark shells, abalone and stromboid conchs.\nThis heading also covers molluscs that have been subjected only to scalding or other types of heat shock (which do not entail cooking as such), necessary to open the shell or stabilize the mollusc prior to transportation or freezing.\nThis heading also covers parts of molluscs, provided they have been subjected to no other processes than those specified in (1) or (2) above.\nThe heading also includes oyster spat (small oysters intended for cultivation), fit or suitable for human consumption.\nThe heading does not cover molluscs prepared or preserved by processes not provided for in this heading (e.g., molluscs cooked in boiling in water or preserved in vinegar) (heading 16.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Hàu:",
+        "en": "- Oysters :"
+      },
+      "subheading_id": "0307.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Hàu:",
+        "en": "- Oysters :"
+      },
+      "subheading_id": "0307.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Hàu:",
+        "en": "- Oysters :"
+      },
+      "subheading_id": "0307.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Điệp và các loài động vật thân mềm khác thuộc họ Pectinidae:",
+        "en": "- Scallops and other molluscs Pectinidae:"
+      },
+      "subheading_id": "0307.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Điệp và các loài động vật thân mềm khác thuộc họ Pectinidae:",
+        "en": "- Scallops and other molluscs Pectinidae:"
+      },
+      "subheading_id": "0307.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Điệp và các loài động vật thân mềm khác thuộc họ Pectinidae:",
+        "en": "- Scallops and other molluscs Pectinidae:"
+      },
+      "subheading_id": "0307.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Vẹm (Mytilus spp., Perna spp.):",
+        "en": "- Mussels (Mytilus spp. Perna spp )"
+      },
+      "subheading_id": "0307.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Vẹm (Mytilus spp., Perna spp.):",
+        "en": "- Mussels (Mytilus spp. Perna spp )"
+      },
+      "subheading_id": "0307.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Vẹm (Mytilus spp., Perna spp.):",
+        "en": "- Mussels (Mytilus spp. Perna spp )"
+      },
+      "subheading_id": "0307.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Mực nang và mực ống:",
+        "en": "- Cuttle fish and squid :"
+      },
+      "subheading_id": "0307.42",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Mực nang và mực ống:",
+        "en": "- Cuttle fish and squid :"
+      },
+      "subheading_id": "0307.43",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Mực nang và mực ống:",
+        "en": "- Cuttle fish and squid :"
+      },
+      "subheading_id": "0307.49",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bạch tuộc (Octopus spp.):",
+        "en": "- Octopus (Octopus spp.)"
+      },
+      "subheading_id": "0307.51",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bạch tuộc (Octopus spp.):",
+        "en": "- Octopus (Octopus spp.)"
+      },
+      "subheading_id": "0307.52",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bạch tuộc (Octopus spp.):",
+        "en": "- Octopus (Octopus spp.)"
+      },
+      "subheading_id": "0307.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0307.60",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Ốc, trừ ốc biển",
+        "en": "Snails, other than sea snails"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Nghêu (ngao), sò (thuộc các họ Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae và Veneridae):",
+        "en": "- Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae và Veneridae):"
+      },
+      "subheading_id": "0307.71",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Nghêu (ngao), sò (thuộc các họ Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae và Veneridae):",
+        "en": "- Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae và Veneridae):"
+      },
+      "subheading_id": "0307.72",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Nghêu (ngao), sò (thuộc các họ Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae và Veneridae):",
+        "en": "- Clams, cockles and ark shells (families Arcidae, Arcticidae, Cardiidae, Donacidae, Hiatellidae, Mactridae, Mesodesmatidae, Myidae, Semelidae, Solecurtidae, Solenidae, Tridacnidae và Veneridae):"
+      },
+      "subheading_id": "0307.79",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bào ngư (Haliotis spp.) và ốc nhảy (Strombus spp.):",
+        "en": "- Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):"
+      },
+      "subheading_id": "0307.81",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bào ngư (Haliotis spp.) sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled abalone (Haliotis spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bào ngư (Haliotis spp.) và ốc nhảy (Strombus spp.):",
+        "en": "- Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):"
+      },
+      "subheading_id": "0307.82",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Ốc nhảy (Strombus spp.) sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled stromboid conchs (Strombus spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bào ngư (Haliotis spp.) và ốc nhảy (Strombus spp.):",
+        "en": "- Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):"
+      },
+      "subheading_id": "0307.83",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bào ngư (Haliotis spp.) đông lạnh",
+        "en": "Frozen abalone (Haliotis spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bào ngư (Haliotis spp.) và ốc nhảy (Strombus spp.):",
+        "en": "- Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):"
+      },
+      "subheading_id": "0307.84",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Ốc nhảy (Strombus spp.) đông lạnh",
+        "en": "Frozen stromboid conchs (Strombus spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bào ngư (Haliotis spp.) và ốc nhảy (Strombus spp.):",
+        "en": "- Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):"
+      },
+      "subheading_id": "0307.87",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bào ngư (Haliotis spp.) ở dạng khác",
+        "en": "Other abalone (Haliotis spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bào ngư (Haliotis spp.) và ốc nhảy (Strombus spp.):",
+        "en": "- Abalone (Haliotis spp.) and stromboid conchs (Strombus spp.):"
+      },
+      "subheading_id": "0307.88",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Ốc nhảy (Strombus spp.) ở dạng khác",
+        "en": "Other stromboid conchs (Strombus spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other"
+      },
+      "subheading_id": "0307.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other"
+      },
+      "subheading_id": "0307.92",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other"
+      },
+      "subheading_id": "0307.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

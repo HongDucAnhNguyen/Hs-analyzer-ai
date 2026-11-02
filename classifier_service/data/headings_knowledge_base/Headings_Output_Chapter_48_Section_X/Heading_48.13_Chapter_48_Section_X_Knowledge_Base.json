@@ -1,0 +1,58 @@
+{
+  "heading_id": "48.13",
+  "heading_title": {
+    "vi": "Giấy cuốn thuốc lá, đã hoặc chưa cắt theo cỡ hoặc ở dạng tập nhỏ hoặc cuốn sẵn thành ống.",
+    "en": "Cigarette paper, whether or not cut to size or in the form of booklets or tubes."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại giấy cuốn thuốc lá, bao gồm cả giấy bao đầu lọc và giấy đầu lọc, không phân biệt kích thước hay cách trình bày. Giấy này có thể ở dạng tờ hoặc tập nhỏ, dạng ống, hoặc dạng cuộn có chiều rộng khác nhau (không quá 5 cm hoặc trên 5 cm). Giấy này thường có chất lượng cao, mỏng, tương đối dai, có thể có màu hoặc được thấm tẩm các chất như kali nitrat. Giấy cũng có thể được tráng ở một đầu hoặc được gắn thêm đầu lọc.",
+    "en": "This heading covers all cigarette paper, including plug wrap and tipping paper, regardless of its size or presentation. The paper can be in the form of leaves or booklets, tubes, or in rolls of varying widths (not exceeding 5 cm or exceeding 5 cm). This paper is generally of good quality, thin, relatively strong, may be coloured, and can be impregnated with substances such as potassium nitrate. The paper may also be coated at one end or fitted with filters."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các giấy cuốn thuốc lá (kể cả giấy bao đầu lọc và giấy đầu lọc, sử dụng tương ứng để bọc lõi lọc và để gắn đầu lọc và điếu thuốc lá), bất kể kích thước hay cách trình bày. Nói chung, giấy cuốn thuốc lá ở một trong các dạng sau:\n(1) Dạng tờ hoặc gập thành tập nhỏ (đã in hoặc không in) chứa một số tờ giấy rời có kích thước đủ cho một điếu lẻ. Những sản phẩm này phù hợp với việc cuốn các điếu thuốc lá bằng tay.\n(2) Dạng ống có kích thước của một điếu thuốc.\n(3) Dạng cuộn cắt theo kích thước (thường có chiều rộng không quá 5 cm) để sử dụng trên máy cuốn thuốc lá.\n(4) Dạng cuộn có chiều rộng trên 5cm.\nGiấy này, thường có đường nét hoặc hình bóng nước, có chất lượng cao (thường từ bột giấy từ giẻ rách lanh hoặc gai dầu), nhưng rất mỏng và tương đối dai. Chúng có thể không có hoặc được bổ sung ít chất độn đặc biệt. Nó thường được làm từ giấy màu trắng nhưng cũng có thể được tạo màu, và đôi khi được thấm tẩm các chất liệu khác như kali nitrate, creosote gỗ hoặc cam thảo.\nGiấy cuốn thuốc lá có thể được tráng ở một đầu bằng sáp, thuốc màu kim loại hoặc các chất không thấm khác và các ống này đôi khi được bọc đầu bằng lie, rơm, tơ lụa... Giấy ở dạng ống cũng có thể được nối với phần lọc, thường gồm các cuộn thuốc nhỏ được làm bằng giấy có khả năng thấm, tấm xenlulo hoặc sợi xenlulo acetate, hoặc cuối đầu ngậm của điếu thuốc có thể được gia cố bằng giấy có chất lượng cao hơn.",
+        "en": "The heading covers all cigarette paper (including plug wrap and tipping paper, used for wrapping the filter mass and for assembling the filter-tip and the cigarette, respectively), regardless of its size or presentation. Generally, the cigarette paper is in one of the following forms :\n(1) In leaves or booklets (printed or not) containing a number of loose leaves of paper of a size sufficient for a single cigarette. These are for rolling cigarettes by hand.\n(2) Tubes of the dimensions of a cigarette.\n(3) In rolls cut to size (generally not exceeding 5 cm in width) for use on cigarette machines.\n(4) In rolls of a width exceeding 5 cm.\nThis paper, often laid or watermarked, is of good quality (frequently of hemp or linen rag pulp), but very thin and relatively strong. It may be free from loading or lightly charged with special fillers. It is usually made from white paper but may also be coloured, and is sometimes impregnated with substances such as potassium nitrate, wood creosote or liquorice.\nCigarette paper may be coated at one end with wax, metal pigments or other non-absorbent substances and the tubes are sometimes tipped with cork, straw, silk, etc. Paper in the form of tubes may also be fitted with filters, generally consisting of small plugs of absorbent paper, cellulose wadding or cellulose acetate fibres, or the tip ends may be reinforced with paper of heavier quality."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4813.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dạng tập hoặc cuốn sẵn thành ống",
+        "en": "In the form of booklets or tubes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4813.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dạng cuộn với chiều rộng không quá 5 cm",
+        "en": "In rolls of a width not exceeding 5 cm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4813.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

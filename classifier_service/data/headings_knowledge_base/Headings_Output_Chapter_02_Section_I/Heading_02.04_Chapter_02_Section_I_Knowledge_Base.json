@@ -1,0 +1,137 @@
+{
+  "heading_id": "02.04",
+  "heading_title": {
+    "vi": "Thịt cừu hoặc dê, tươi, ướp lạnh hoặc đông lạnh (+).",
+    "en": "Meat of sheep or goats, fresh, chilled or frozen (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thịt tươi, ướp lạnh hoặc đông lạnh của cừu (cừu đực, cừu cái và cừu non), dê hoặc dê non, nuôi hoặc hoang. Chú giải Phân nhóm 0204.10 và 0204.30 định nghĩa thịt cừu non là thịt từ động vật thuộc loài cừu không quá 12 tháng tuổi, có thớ mịn và kết cấu khít, màu hồng đậm, bề mặt mịn và cân nặng cả thân thịt không quá 26kg.",
+    "en": "This heading covers fresh, chilled or frozen meat of sheep (rams, ewes and lambs), goats or kids, whether domestic or wild. The Subheading Explanatory Note to subheadings 0204.10 and 0204.30 defines meat of lamb as meat derived from an animal of the ovine species not more than 12 months of age, with flesh of fine grain and texture, pinkish-red colour, velvety appearance, and a carcass weight not exceeding 26 kg."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm thịt tươi, ướp lạnh hoặc đông lạnh của cừu (cừu đực, cừu cái và cừu non), dê hoặc dê non, nuôi hoặc hoang.",
+        "en": "This heading covers fresh, chilled or frozen meat of sheep (rams, ewes and lambs), goats or kids, whether domestic or wild."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm. Phân nhóm 0204.10 và 0204.30. Theo mục đích của các phân nhóm 0204.10 và 0204.30, thịt cừu non là thịt từ một động vật thuộc loài cừu không quá 12 tháng tuổi. Thịt đó là thịt thớ mịn và kết cấu khít, màu hồng đậm và bề mặt mịn. Cân nặng cả thân thịt không quá 26kg.",
+        "en": "Subheading Explanatory Note. Subheadings 0204.10 and 0204.30. For the purposes of subheadings 0204.10 and 0204.30, meat of lamb is meat derived from an animal of the ovine species not more than 12 months of age. The flesh is of fine grain and texture, pinkish-red in colour and of velvety appearance. The weight of carcasses does not exceed 26 kg."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0204.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt cừu non cả con và nửa con, tươi hoặc ướp lạnh",
+        "en": "Carcasses and half-carcasses of lamb, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt cừu khác, tươi hoặc ướp lạnh:",
+        "en": "- Other meat of sheep, fresh or chilled :"
+      },
+      "subheading_id": "0204.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thịt cả con và nửa con",
+        "en": "Carcasses and half-carcasses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt cừu khác, tươi hoặc ướp lạnh:",
+        "en": "- Other meat of sheep, fresh or chilled :"
+      },
+      "subheading_id": "0204.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thịt pha có xương khác",
+        "en": "Other cuts with bone in"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt cừu khác, tươi hoặc ướp lạnh:",
+        "en": "- Other meat of sheep, fresh or chilled :"
+      },
+      "subheading_id": "0204.23",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thịt lọc không xương",
+        "en": "Boneless"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0204.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thịt cừu non, cả con và nửa con, đông lạnh",
+        "en": "Carcasses and half-carcasses of lamb, frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt cừu khác, đông lạnh:",
+        "en": "- Other meat of sheep, frozen :"
+      },
+      "subheading_id": "0204.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thịt cả con và nửa con",
+        "en": "Carcasses and half-carcasses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt cừu khác, đông lạnh:",
+        "en": "- Other meat of sheep, frozen :"
+      },
+      "subheading_id": "0204.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thịt pha có xương khác",
+        "en": "Other cuts with bone in"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt cừu khác, đông lạnh:",
+        "en": "- Other meat of sheep, frozen :"
+      },
+      "subheading_id": "0204.43",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thịt lọc không xương",
+        "en": "Boneless"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0204.50",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Thịt dê",
+        "en": "Meat of goats"
+      }
+    }
+  ]
+}

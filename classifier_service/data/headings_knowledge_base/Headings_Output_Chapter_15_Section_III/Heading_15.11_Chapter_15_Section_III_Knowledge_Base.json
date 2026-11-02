@@ -1,0 +1,60 @@
+{
+  "heading_id": "15.11",
+  "heading_title": {
+    "vi": "Dầu cọ và các phần phân đoạn của dầu cọ, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hóa học (+).",
+    "en": "Palm oil and its fractions, whether or not refined, but not chemically modified (+)"
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm dầu cọ, một loại chất béo thực vật thu được từ cơm của quả cọ dầu (chủ yếu là cây Elaeis guineensis). Dầu này có thể đã hoặc chưa tinh chế. Dầu cọ được sử dụng trong sản xuất xà phòng, nến, mỹ phẩm, chất bôi trơn, mạ thiếc nhúng nóng, sản xuất axit palmitic, và làm thực phẩm (mỡ rán, sản xuất margarin). Nhóm này cũng bao gồm các phần phân đoạn của dầu cọ. Nhóm này không bao gồm dầu hạt cọ hoặc dầu ba-ba-su (nhóm 15.13). Dầu cọ có thể được phân biệt với dầu hạt cọ (nhóm 15.13) vì có hàm lượng axit palmitic và axit oleic rất cao.",
+    "en": "This heading covers palm oil, a vegetable fat obtained from the pulp of the fruits of oil palms (mainly Elaeis guineensis). This oil may be refined or not. Palm oil is used in the manufacture of soap, candles, cosmetics, lubricants, for hot-dipped tin coating, in the production of palmitic acid, and as a foodstuff (frying fat, manufacture of margarine). The heading also covers fractions of palm oil. This heading does not cover palm kernel oil or babassu oil (heading 15.13). Palm oil is distinguishable from palm kernel oils (heading 15.13) by having a very high palmitic and oleic acid content."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Dầu cọ là một loại chất béo thực vật thu được từ cơm của quả cọ dầu. Nguồn gốc chủ yếu từ cây cọ dầu châu Phi (Elacis guineensis) mọc tự nhiên ở vùng Châu Phi nhiệt đới, nhưng cũng được trồng ở Trung Mỹ, Malaysia và Indonesia. Trong những cây cọ dầu khác, cũng có thể kể tới loại Elacis melanococa (biết đến với tên cọ noli) và những loại cọ khác thuộc loài Acrocimia gồm cả cọ Paragoay (coco mbocaya), có nguồn gốc ở Nam Mỹ. Dầu thu được bởi chiết hoặc ép và có màu thay đổi theo trạng thái đã hoặc chưa tinh chế. Dầu này khác với dầu hạt cọ (nhóm 15.13), loại thu được từ cây cọ dầu có thành phần axit palmitic và axit oleic rất cao.",
+        "en": "Palm oil is a vegetable fat obtained from the pulp of the fruits of oil palms. The main source is the African oil palm (Elaeis guineensis) which is native to tropical Africa but is also grown in Central America, Malaysia and Indonesia; other examples are Elaeis melanococca (also known as noli palm) and various species of Acrocomia palms, including the Paraguayan palm (coco mbocaya), originating in South America. The oils are obtained by extraction or pressing and may be of various colours depending on their condition and whether they have been refined. They are distinguishable from palm kernel oils (heading 15.13), which are obtained from the same oil palms by having a very high palmitic and oleic acid content."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Dầu cọ được dùng làm xà phòng, làm nến, mỹ phẩm hoặc các chế phẩm vệ sinh, dùng như chất bôi trơn, để mạ thiếc nhúng nhóng, để sản xuất axit palmitic v.v. Dầu cọ tinh chế được dùng làm thực phẩm như mỡ rán và sản xuất margarin.\nNhóm này không bao gồm dầu hạt cọ, dầu ba-ba-su (nhóm 15.13).",
+        "en": "Palm oil is used in the manufacture of soap, candles, cosmetic or toilet preparations, as a lubricant, for hot-dipped tin coating, in the production of palmitic acid, etc. Refined palm oil is used as a food stuff, e.g., as a frying fat, and in the manufacture of margarine.\nThis heading does not cover palm kernel oil or babassu oil (heading 15.13)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 1511.10\nXem Chú giải phân nhóm 1507.10.",
+        "en": "Subheading Explanatory Note.\nSubheading 1511.10\nSee the Explanatory Note to subheading 1507.10."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1511.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dầu thô",
+        "en": "Crude oil"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1511.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

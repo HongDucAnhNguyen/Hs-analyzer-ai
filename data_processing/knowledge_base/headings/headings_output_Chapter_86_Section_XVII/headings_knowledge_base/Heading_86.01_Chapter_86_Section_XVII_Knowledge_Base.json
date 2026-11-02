@@ -1,0 +1,46 @@
+{
+  "heading_id": "86.01",
+  "heading_title": {
+    "vi": "Đầu máy di chuyển trên đường sắt chạy bằng nguồn điện bên ngoài hoặc bằng ắc qui điện.",
+    "en": "Rail locomotives powered from an external source of electricity or by electric accumulators."
+  },
+  "summary": {
+    "vi": "Nhóm 86.01 phân loại các đầu máy di chuyển trên đường sắt hoạt động bằng năng lượng điện. Nguồn điện này có thể đến từ một nguồn bên ngoài như đường dây cáp điện treo hoặc đường ray dẫn điện, hoặc từ ắc quy điện được tích hợp sẵn trên đầu máy. Nhóm này được chia thành các phân nhóm để phân biệt rõ hai phương thức cấp điện này. Cần lưu ý các loại trừ chung của Chương 86, bao gồm các mô hình trưng bày (nhóm 90.23), pháo hạng nặng lắp trên toa xe (nhóm 93.01), xe lửa đồ chơi (nhóm 95.03), và thiết bị cho công viên giải trí (nhóm 95.08). Các loại đầu máy khác như đầu máy diesel, hơi nước hoặc các loại khác được phân loại ở nhóm 86.02. Các phương tiện chưa hoàn thiện nhưng có đặc tính cơ bản của đầu máy điện cũng được phân loại trong nhóm này.",
+    "en": "Heading 86.01 classifies rail locomotives that operate on electrical energy. This power can be derived from an external source such as an overhead cable or a conductor rail, or from electric accumulators integrated into the locomotive. The heading is divided into subheadings to clearly distinguish between these two power supply methods. It is important to note the general exclusions of Chapter 86, which include models for display (heading 90.23), heavy artillery on railway trucks (heading 93.01), toy trains (heading 95.03), and amusement park equipment (heading 95.08). Other types of locomotives, such as diesel, steam, or other types, are classified in heading 86.02. Incomplete vehicles with the essential characteristics of electric locomotives are also classified under this heading."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các loại đầu máy chạy điện trong đó năng lượng điện cần thiết được cung cấp từ ắc qui đặt trên phương tiện, hoặc từ các đường dẫn điện bên ngoài có thể là đường ray hoặc đường cáp điện treo.",
+        "en": "This heading covers all types of electric locomotives in which the required electrical energy is derived either from powerful accumulators carried on the vehicle, or from an external conductor which may be either a rail or an overhead cable."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8601.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại chạy bằng nguồn điện bên ngoài",
+        "en": "- Powered from an external source of electricity"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8601.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại chạy bằng ắc qui điện",
+        "en": "- Powered by electric accumulators"
+      }
+    }
+  ]
+}

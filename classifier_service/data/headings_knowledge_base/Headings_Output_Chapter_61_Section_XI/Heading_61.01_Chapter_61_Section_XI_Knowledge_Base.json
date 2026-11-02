@@ -1,0 +1,65 @@
+{
+  "heading_id": "61.01",
+  "heading_title": {
+    "vi": "Áo khoác dài, áo khoác mặc khi đi xe (car-coat), áo khoác không tay, áo choàng không tay, áo khoác có mũ (kể cả áo jacket trượt tuyết), áo gió, áo jacket chống gió và các loại tương tự, dùng cho nam giới hoặc trẻ em trai, dệt kim hoặc móc, trừ các loại thuộc nhóm 61.03.",
+    "en": "Men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, knitted or crocheted, other than those of heading 61.03."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại áo dệt kim hoặc móc dùng cho nam giới hoặc trẻ em trai, thường được mặc bên ngoài các loại áo khác để chống lại tác động của thời tiết. Các sản phẩm bao gồm áo khoác dài, áo đi mưa, áo khoác không tay, áo khoác có mũ (kể cả áo jacket trượt tuyết), áo gió và các loại tương tự. Nhóm này không bao gồm quần áo thuộc nhóm 61.03 và quần áo làm từ vải dệt kim hoặc móc thuộc các nhóm 59.03, 59.06 hoặc 59.07 (được phân loại vào nhóm 61.13).",
+    "en": "This heading covers a category of knitted or crocheted garments for men or boys, generally worn over all other clothing for protection against the weather. It includes overcoats, raincoats, capes, anoraks (including ski-jackets), wind-jackets and similar articles. The heading does not include garments of heading 61.03 or garments made up of knitted or crocheted fabrics of heading 59.03, 59.06 or 59.07 (which are classified in heading 61.13)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại áo dệt kim hoặc móc dùng cho nam giới hoặc trẻ em trai, có đặc điểm là chúng thường mặc phủ bên ngoài lên tất cả loại áo khác để chống lại tác động thời tiết.\nBao gồm:\nÁo khoác dài, áo đi mưa, áo khoác mặc khi đi xe, áo khoác không tay kể cả áo khoác pônsô, áo choàng không tay, áo khoác có mũ kể cả áo jacket trượt tuyết, áo gió, áo Jacket chống gió và các loại áo tương tự như áo choàng 3/4 (three - quarter), áo bành tô, áo khoác không tay có mũ trùm đầu, áo choàng làm từ vải len thô, áo choàng mặc khi đào đắp, áo ga-ba-đin ( áo paca), áo gi lê độn bông.",
+        "en": "This heading covers a category of knitted or crocheted garments for men or boys, characterised by the fact that they are generally worn over all other clothing for protection against the weather.\nIt includes:\nOvercoats, raincoats, car-coats, capes including ponchos, cloaks, anoraks including ski-jackets, wind-cheaters, wind-jackets and similar articles, such as three-quarter coats, greatcoats, hooded capes, duffel coats, trench, coats, gabardines, parkas, padded waistcoats."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Quần áo thuộc nhóm 61.03.\n(b) Quần áo hoàn chỉnh được làm từ các loại vải dệt kim hoặc móc thuộc các nhóm 59.03, 59.06 hoặc 59.07 (nhóm 61.13).",
+        "en": "The heading does not include:\n(a) Garments of heading 61.03.\n(b) Garments made up of knitted or crocheted fabrics of heading 59.03, 59.06 or 59.07 (heading 61.13)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6101.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "-Từ bông",
+        "en": "- Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6101.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ sợi nhân tạo",
+        "en": "- Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6101.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ các vật liệu dệt khác",
+        "en": "- Of other textile materials"
+      }
+    }
+  ]
+}

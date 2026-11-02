@@ -1,0 +1,91 @@
+{
+  "heading_id": "90.26",
+  "heading_title": {
+    "vi": "Dụng cụ và máy đo hoặc kiểm tra lưu lượng, mức, áp suất hoặc biến số của chất lỏng hoặc chất khí (ví dụ, dụng cụ đo lưu lượng, dụng cụ đo mức, áp kế, nhiệt kế), trừ các dụng cụ và thiết bị thuộc nhóm 90.14, 90.15, 90.28 hoặc 90.32.",
+    "en": "Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flowmeters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 90.14, 90.15, 90.28 or 90.32."
+  },
+  "summary": {
+    "vi": "Nhóm 90.26 bao gồm các công cụ và thiết bị dùng để đo hoặc kiểm tra lưu lượng, mức độ, áp suất, động năng hoặc các tính chất biến đổi khác của chất lỏng hoặc khí. Các thiết bị này bao gồm lưu lượng kế, dụng cụ đo mức, áp kế, và công tơ nhiệt. Chúng có thể được trang bị cơ cấu ghi, báo tín hiệu, hoặc máy phát. Nhóm này không bao gồm các dụng cụ được quy định cụ thể ở các nhóm khác như van điều chỉnh (nhóm 84.81), phong tốc kế (nhóm 90.15), nhiệt kế và khí áp kế (nhóm 90.25), thiết bị phân tích lý hóa (nhóm 90.27), và đồng hồ đo chất lỏng (nhóm 90.28). Các bộ phận và phụ kiện của các thiết bị này, khi được trình bày riêng lẻ, cũng được phân loại trong nhóm này.",
+    "en": "Heading 90.26 covers instruments and apparatus for measuring or checking the flow, level, pressure, kinetic energy, or other variables of liquids or gases. These instruments include flowmeters, level gauges, manometers, and heat meters. They may be fitted with recording, signaling, or transmitting devices. This heading excludes instruments more specifically covered by other headings, such as regulating valves (heading 84.81), anemometers (heading 90.15), thermometers and barometers (heading 90.25), instruments for physical or chemical analysis (heading 90.27), and liquid supply meters (heading 90.28). Separately presented parts and accessories for these instruments are also classified in this heading."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Ngoại trừ các dụng cụ hoặc thiết bị được quy định cụ thể hơn trong các nhóm khác của Danh mục, như:\n(a) Van điều chỉnh nhiệt tĩnh và van giảm áp (nhóm 84.81);\n(b) Phong tốc kế (dụng cụ đo gió) và thiết bị thủy học (nhóm 90.15);",
+        "en": "Apart from instruments or apparatus more specifically covered by other headings of the Nomenclature, such as:\n(a) Pressure-reducing valves and thermostatically controlled valves (heading 84.81);\n(b) Anemometers (wind gauges) and hydrological level gauges (heading 90.15);"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(c) Nhiệt kế, hoả kế, áp kế, ẩm kế và thước đo ẩm (nhóm 90.25);\n(d) Thiết bị và dụng cụ để phân tích lý, hoá... (nhóm 90.27),\nnhóm này gồm các công cụ, thiết bị để đo đạc hoặc kiểm tra lưu lượng, mức độ, áp suất, động năng hoặc các tính chất biến đổi khác của chất lỏng hoặc khí. Các thiết bị có thể có cơ cấu ghi, báo tín hiệu, cơ cấu quang học hoặc máy phát. Chúng thường có một bộ phận nhạy cảm với các biến đổi của đại lượng cần đo.\n(I) THIẾT BỊ ĐO HOẶC KIỂM TRA LƯU LƯỢNG HOẶC TỐC ĐỘ DÒNG CHẢY CỦA CÁC CHẤT LỎNG HOẶC KHÍ\n(A) Lưu lượng kế, là công cụ chỉ báo tốc độ dòng chảy (thể tích hoặc trọng lượng trên đơn vị thời gian) trong dòng chảy lộ thiên hoặc kín. Chúng bao gồm:\n1. Lưu lượng kế áp suất vi sai (có độ mở cố định): gồm một dụng cụ chính tạo áp suất vi sai (ống Pitot, Venturi, màng chắn) và một áp kế vi sai.\n2. Thiết bị đo lưu lượng có tiết diện thay đổi (độ mở thay đổi): thường gồm ống hình nón chứa phao nổi.\n3. Lưu lượng kế sử dụng từ trường, siêu âm hoặc nhiệt.",
+        "en": "(c) Thermometers, pyrometers, barometers, hygrometers and psychrometers (heading 90.25);\n(d) Instruments and apparatus for physical or chemical analysis, etc. (heading 90.27),\nthis heading covers instruments and apparatus for measuring or checking the flow, level, pressure, kinetic energy or other process variables of liquids or gases. The instruments may be fitted with recording, signalling or optical scale-reading devices or transmitters. They generally incorporate a sensitive element to variations.\n(I) APPARATUS FOR MEASURING OR CHECKING THE FLOW OR RATE OF FLOW OF LIQUIDS OR GASES\n(A) Flowmeters. These indicate the rate of flow (in volume or weight per unit of time) in open or closed conduits. These include:\n1. Differential pressure (fixed aperture) flowmeters: comprise a primary device (Pitot tube, Venturi tube, diaphragm) to set up a differential pressure, and a differential pressure gauge.\n2. Variable area (variable aperture) flowmeters: usually consist of a graduated cone-shaped tube containing a heavy float.\n3. Flowmeters which operate by using magnetic fields, ultrasound or heat."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Bánh guồng thủy văn đo tốc độ dòng chảy (nhóm 90.15).\n(b) Thiết bị chỉ báo tổng lưu lượng chất lỏng (đồng hồ đo chất lỏng) (nhóm 90.28).\n(B) Các phong tốc kế chuyên dụng ghi tốc độ lưu lượng không khí trong hầm mỏ, đường hầm, ống khói, lò nung.\n(II) THIẾT BỊ VÀ DỤNG CỤ ĐO HOẶC KIỂM TRA MỨC ĐỘ CHẤT LỎNG HOẶC KHÍ: Chỉ báo mức độ chất lỏng hoặc hàm lượng của khí kế. Các dụng cụ chỉ báo mức độ chất lỏng gồm:\n1. Chỉ báo loại phao nổi.\n2. Loại có phao hơi và thủy tĩnh.\n3. Loại có ánh sáng hai màu.\n4. Loại dùng điện (dựa trên biến đổi điện trở, điện dung, siêu âm). Nhóm này cũng bao gồm chỉ báo mức trong bể hoặc kênh lộ thiên.\nThiết bị đo hoặc kiểm tra mức độ các chất rắn bị loại trừ (nhóm 90.22 hoặc 90.31).\n(III) THIẾT BỊ VÀ DỤNG CỤ ĐO HOẶC KIỂM TRA ÁP SUẤT CHẤT LỎNG HOẶC KHÍ: Dụng cụ đo áp suất (áp kế) đo áp suất chất lỏng hoặc khí trong không gian kín, khác với khí áp kế đo áp suất khí quyển.",
+        "en": "This heading excludes:\n(a) Hydrometric paddle-wheels for measuring the rate of flow (heading 90.15).\n(b) Apparatus which merely indicate the total amount of liquid delivered (supply meters of heading 90.28).\n(B) Anemometers of the special types used for recording the rate of flow of air currents in mines, tunnels, chimneys, furnaces.\n(II) INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING THE LEVEL OF LIQUIDS OR GASES: Level indicators for liquids and for the content of gasometers. Level indicators for liquids include:\n1. Float-type.\n2. Pneumatic and hydrostatic type.\n3. Two-colour light type.\n4. Electrical-type (based on variations of resistance, capacitance, ultrasound). This heading also covers level indicators for open basins and canals.\nInstruments for measuring or checking the level of solid materials are excluded (heading 90.22 or 90.31).\n(III) INSTRUMENTS AND APPARATUS FOR MEASURING OR CHECKING THE PRESSURE OF LIQUIDS OR GASES: Pressure gauges (manometers) measure the pressure of a liquid or gas in a closed space, differing from barometers which measure atmospheric pressure."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các loại áp kế chính:\n(1) Áp kế chất lỏng (thủy ngân, nước,...).\n(2) Áp kế kim loại (tương tự khí áp kế hộp).\n(3) Áp kế piston.\n(4) Áp kế điện (dựa trên biến đổi hiện tượng điện hoặc dùng siêu âm).\nCác thước chân không để đo áp suất rất thấp cũng thuộc nhóm này, nhưng các ống nhiệt chân không (triode) trình bày riêng lẻ bị loại trừ (nhóm 85.40). Nhóm này cũng bao gồm các áp kế cực đại, cực tiểu và các áp kế vi sai.\n(IV) CÔNG TƠ NHIỆT: Đo đại lượng nhiệt tiêu thụ trong một thiết bị. Gồm một thiết bị đo chất lỏng, hai nhiệt kế và một cơ cấu đếm, tính tổng. Các công tơ nhiệt nhỏ cũng thuộc nhóm này.\nCÁC BỘ PHẬN VÀ PHỤ KIỆN: Các bộ phận và phụ kiện trình bày tách rời vẫn được phân loại ở đây, ví dụ các thiết bị ghi đồ họa riêng biệt.",
+        "en": "The main types of pressure gauges are:\n(1) Liquid-type pressure gauges (mercury, water, etc.).\n(2) Metallic pressure gauges (like aneroid barometers).\n(3) Piston-type pressure gauges.\n(4) Electrical pressure gauges (based on variations of an electrical phenomenon or using ultrasound).\nVacuum gauges for measuring very low pressures are also included, but thermionic vacuum tubes (triodes) presented separately are excluded (heading 85.40). The heading also covers maximum and minimum type pressure gauges, and differential pressure gauges.\n(IV) HEAT METERS: Measure the quantities of heat consumed in an installation. They consist of a liquid supply meter, two thermometers, and a counting and totalising mechanism. Small heat meters of the types mounted on radiators are also included.\nPARTS AND ACCESSORIES: Separately presented parts and accessories remain classified here, for example, separate graphical recording devices."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9026.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Để đo hoặc kiểm tra lưu lượng hoặc mức của chất lỏng",
+        "en": "For measuring or checking the flow or level of liquids"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9026.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Để đo hoặc kiểm tra áp suất",
+        "en": "For measuring or checking pressure"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9026.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị hoặc dụng cụ khác",
+        "en": "Other instruments or apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9026.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

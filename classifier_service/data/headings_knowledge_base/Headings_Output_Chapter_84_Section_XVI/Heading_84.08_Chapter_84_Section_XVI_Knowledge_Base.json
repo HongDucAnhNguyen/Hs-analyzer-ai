@@ -1,0 +1,72 @@
+{
+  "heading_id": "84.08",
+  "heading_title": {
+    "vi": "Động cơ đốt trong kiểu piston cháy do nén (động cơ diesel hoặc bán diesel).",
+    "en": "Compression-ignition internal combustion piston engines (diesel or semi-diesel engines)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các động cơ đốt trong kiểu piston cháy do nén (động cơ diesel hoặc bán diesel), kể cả loại dùng cho xe có gắn động cơ, trừ những loại thuộc Chương 95. Các động cơ này có thể dùng trong nhiều mục đích như máy nông nghiệp, bơm, máy ép, đẩy ô tô, máy kéo, đầu máy xe lửa hoặc tàu thủy, và trong các nhà máy điện. Chúng có thể được gắn thêm các bộ phận phụ như bơm phun, bộ tản nhiệt, bộ lọc, bộ ly hợp hoặc các thiết bị khởi động. Nhóm này cũng bao gồm các động cơ di động được gắn trên khung có bánh xe hoặc con lăn. \n\nNhóm này loại trừ các loại động cơ nén có piston được thiết kế đặc biệt để xác định trị số ốc-tan và xê-tan của nhiên liệu (Chương 90). \n\nTheo quy tắc chung, bộ phận của các động cơ thuộc nhóm này được phân loại vào nhóm 84.09.",
+    "en": "This heading covers compression-ignition internal combustion piston engines (diesel or semi-diesel engines), including those for motor vehicles, other than those of Chapter 95. These engines are suitable for various uses, e.g., in agricultural machines, pumps, compressors, for propelling motorcars, tractors, locomotives or ships, or in electric power stations. They may be equipped with accessories such as injection pumps, radiators, filters, clutches, or starting devices. The heading also covers mobile motors mounted on a wheeled chassis or runners.\n\nThis heading excludes variable compression motors designed specially for determination of the octane and cetane value of motor fuels (Chapter 90).\n\nSubject to general provisions, parts of the engines of this heading are classified in heading 84.09."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các động cơ đốt trong kiểu piston cháy do nén (trừ những loại thuộc Chương 95), kể cả loại dùng cho xe có gắn động cơ.\nNhững loại động cơ này có cơ cấu máy móc giống với động cơ đốt trong kiểu piston cháy do nén và có bộ phận cấu thành chính tương tự (ví dụ xi lanh, piston, biên (thanh truyền), trục khuỷu, bánh đà, van nạp và van xả ...) nhưng khác ở chỗ không khí (hoặc đôi khi là không khí trộn với khí ga) đầu tiên được nạp vào xi lanh nơi chúng được nén một cách nhanh chóng. Sau đó nhiên liệu lỏng dạng các hạt nhỏ được phun vào buồng đốt nơi nó tự động cháy do nhiệt độ tăng, mức độ nén này cao hơn rất nhiều so với động cơ đốt cháy bằng tia lửa điện.\nNgoài các động cơ được gọi là động cơ diesel, còn có một dạng động cơ khởi động trung gian bằng sức nén còn được gọi là động cơ bán diesel, hoạt động với một sức nén yếu hơn. Để khởi động loại này đòi hỏi làm nóng từ trước đầu xi lanh bằng một đèn xì (động cơ đốt đầu), hoặc phải sử dụng bugi đốt nóng.\nĐộng cơ đốt trong kiểu piston cháy do nén sử dụng nhiên liệu lỏng nặng như: dầu nặng chế từ dầu khí hoặc dầu hắc ín than đá, dầu đá phiến, dầu thực vật (ví dụ: dầu lạc, thầu dầu, dầu cọ...).\nCác động cơ thuộc nhóm này cũng có thể là động cơ một xi lanh hoặc nhiều xi lanh. Nếu là động cơ nhiều xi lanh, các thanh truyền sẽ được nối với cùng một trục quay (trục khuỷu) và với các xi lanh, được tiếp nhiên liệu riêng biệt, chúng có thể được lắp đặt theo nhiều kiểu.",
+        "en": "This heading covers compression-ignition internal combustion piston engines (other than those of Chapter 95), including those for motor vehicles.\nThese engines are of similar mechanical construction to spark-ignition internal combustion piston engines and have the same essential elements (i.e., cylinder, piston, connecting-rod, crank shaft, flywheel, inlet and exhaust valves, etc.), but differ in that the air (or sometimes air mixed with gas) is first admitted to the cylinder where it is rapidly compressed. Atomised liquid fuel is then injected into the combustion chamber where it is spontaneously ignited by the heat developed, the compression being considerably greater than in the spark-ignition engine.\nIn addition to diesel engines, there are intermediate compression-ignition semi-diesel engines which operate at lower compression. To start this type, the cylinder-head must be pre-heated by a blow-lamp or a glow plug must be used.\nCompression-ignition internal combustion piston engines operate on heavy fluid fuels such as heavy petroleum or coal tar oils, shale oils, vegetable oils (ground-nut, castor, palm, etc.).\nThe engines of this heading may have one or several cylinders. In the latter case the connecting-rods are coupled to a single crank shaft, and the cylinders, fed separately, may be arranged in various ways."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các kiểu lắp đặt xi lanh có thể là: theo kiểu dọc (chiều thẳng đứng hoặc chiều ngược lại), thành hai nhóm đối xứng nghiêng (động cơ hình chữ V) hoặc đối xứng.\nĐộng cơ thuộc nhóm này có thể được dùng trong nhiều công việc, chủ yếu như sau: được lắp ráp trong máy nông nghiệp, bơm hoặc máy ép, đẩy ô tô, máy kéo, đầu máy xe lửa hoặc tàu thủy, trang bị trong các nhà máy điện.v.v...\nCác động cơ thuộc nhóm này có thể được gắn thêm bơm phun, các bộ phận đánh lửa, bình đựng nhiên liệu hoặc đựng dầu, quạt máy, bơm dầu..., bộ tản nhiệt dầu hoặc nước, bộ lọc khí hoặc dầu, các bộ phận phụ dùng để khởi động (điện hoặc các loại tương tự khác). Các động cơ này cũng có thể gồm bộ phận thay đổi tốc độ. Những động cơ này có thể được trang bị một trục đàn hồi.\nNhóm này cũng bao gồm động cơ di động chứa động cơ được gắn trên một khung có bánh xe hoặc trên các con lăn, bao gồm các động cơ có cơ cấu dẫn động cho phép chúng tự đẩy đến một phạm vi nhất định (nhưng không tạo thành phương tiện của Chương 87).\nNhóm này loại trừ các loại động cơ nén có piston, đánh lửa bằng tia lửa điện, được thiết kế chủ yếu để xác định trị số ốc -tan và xê -tan của các loại nhiên liệu động cơ (Chương 90).",
+        "en": "The cylinders may be arranged in various ways, e.g., in a vertical line (upright or inverted), in two symmetrical obliquely opposed rows (V-engines), or horizontally opposed on opposite sides on the crank shaft.\nThe engines of this heading are suitable for very many uses, e.g., in agricultural machines, for propelling motorcars, tractors, locomotives or ships or in electric power stations, etc.\nThe engines of this heading may be equipped with fuel injection pumps, ignition parts, fuel or oil reservoirs, water radiators, oil coolers, water or oil pumps, blowers, air or oil filters, clutches or power drives, or starting devices (electric or other). Change speed gears may also be fitted. The engines may also be equipped with a flexible shaft.\nIt also covers mobile motors consisting of engines mounted on a wheeled chassis or on runners, including those with driving mechanisms permitting their self-propulsion to a certain extent (but not constituting vehicles of Chapter 87).\nThe heading excludes variable compression motors of the compression- ignition internal combustion piston engine type designed specially for determination of the octane and cetane value of motor fuels (Chapter 90)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo các quy tắc về phân loại các bộ phận (xem phần Chú giải Tổng quát của Phần XVI), bộ phận của các động cơ thuộc nhóm này được phân loại trong nhóm 84.09.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the engines of this heading are classified in heading 84.09."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8408.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ máy thủy",
+        "en": "Marine propulsion engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8408.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ dùng để tạo động lực cho các loại xe thuộc Chương 87",
+        "en": "Engines of a kind used for the propulsion of vehicles of Chapter 87"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8408.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ khác",
+        "en": "Other engines"
+      }
+    }
+  ]
+}

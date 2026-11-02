@@ -1,0 +1,269 @@
+{
+  "heading_id": "55.16",
+  "heading_title": {
+    "vi": "Vải dệt thoi từ xơ staple tái tạo.",
+    "en": "Woven fabrics of artificial staple fibres."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm nhiều loại vải dệt thoi làm từ sợi từ xơ staple tái tạo, được dùng làm vật liệu may mặc, rèm, vải trang trí, vải trải bàn, chăn, khăn tắm, v.v. Băng, đã tẩm thuốc hay đã đóng gói để bán lẻ thì bị loại trừ (nhóm 30.05).",
+    "en": "This heading covers a very large variety of woven fabrics made of yarns of artificial staple fibres, such as dress materials, curtain or other furnishing fabrics, and materials for table cloths, blankets, towels, etc. Bandages, medicated or put up for retail sale, are excluded (heading 30.05)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm vải dệt thoi (được định nghĩa trong Phần (I) (C) của Chú giải tổng quát cho Phần XI) được làm bằng sợi từ xơ staple tái tạo. Loại vải này rất đa dạng, được dùng trong may mặc quần áo, rèm hoặc vải dệt trang trí và vải trải bàn, chăn, khăn tắm,... v.v.",
+        "en": "This heading covers woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI) made of yarns of artificial staple fibres. Such fabrics include a very large variety of dress materials, curtain or other furnishing fabrics, and materials for table cloths, blankets, towels, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Băng, đã tẩm thuốc hay đã đóng gói để bán lẻ thì bị loại trừ (nhóm 30.05).",
+        "en": "Bandages, medicated or put up for retail sale, are excluded (heading 30.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of artificial staple fibres:"
+      },
+      "subheading_id": "5516.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of artificial staple fibres:"
+      },
+      "subheading_id": "5516.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of artificial staple fibres:"
+      },
+      "subheading_id": "5516.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có các màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of artificial staple fibres:"
+      },
+      "subheading_id": "5516.14",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với sợi filament nhân tạo:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with man-made filaments:"
+      },
+      "subheading_id": "5516.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với sợi filament nhân tạo:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with man-made filaments:"
+      },
+      "subheading_id": "5516.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với sợi filament nhân tạo:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with man-made filaments:"
+      },
+      "subheading_id": "5516.23",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có các màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với sợi filament nhân tạo:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with man-made filaments:"
+      },
+      "subheading_id": "5516.24",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với lông cừu hoặc lông động vật loại mịn:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair:"
+      },
+      "subheading_id": "5516.31",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với lông cừu hoặc lông động vật loại mịn:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair:"
+      },
+      "subheading_id": "5516.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- -Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với lông cừu hoặc lông động vật loại mịn:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair:"
+      },
+      "subheading_id": "5516.33",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có các màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với lông cừu hoặc lông động vật loại mịn:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with wool or fine animal hair:"
+      },
+      "subheading_id": "5516.34",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với bông:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with cotton:"
+      },
+      "subheading_id": "5516.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với bông:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with cotton:"
+      },
+      "subheading_id": "5516.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với bông:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with cotton:"
+      },
+      "subheading_id": "5516.43",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có các màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple tái tạo chiếm dưới 85% tính theo khối lượng, được pha chủ yếu hoặc pha duy nhất với bông:",
+        "en": "- Containing less than 85 % by weight of artificial staple fibres, mixed mainly or solely with cotton:"
+      },
+      "subheading_id": "5516.44",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "5516.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "- - Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "5516.92",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "5516.93",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có các màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "5516.94",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    }
+  ]
+}

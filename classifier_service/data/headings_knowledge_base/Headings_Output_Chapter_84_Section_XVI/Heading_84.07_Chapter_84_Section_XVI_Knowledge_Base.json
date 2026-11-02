@@ -1,0 +1,139 @@
+{
+  "heading_id": "84.07",
+  "heading_title": {
+    "vi": "Động cơ đốt trong kiểu piston chuyển động tịnh tiến hoặc kiểu piston chuyển động quay đốt cháy bằng tia lửa điện (+).",
+    "en": "Spark-ignition reciprocating or rotary internal combustion piston engines (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại động cơ piston đốt trong chuyển động tịnh tiến hoặc quay tròn (ví dụ, động cơ Wankel) đốt cháy bằng tia lửa điện, sử dụng bugi. Chúng có thể được sử dụng cho nhiều mục đích khác nhau như trong máy nông nghiệp, máy phát điện, bơm, máy nén, và làm động cơ đẩy cho máy bay, ô tô, xe máy, máy kéo và tàu thủy. Nhóm này bao gồm các 'động cơ gắn ngoài' (outboard motors) là một khối hoàn chỉnh và các động cơ di động được lắp trên khung có bánh xe. Các bộ phận của các động cơ này thường được phân loại trong nhóm 84.09. Nhóm này loại trừ các động cơ thuộc Chương 95 và các động cơ nén biến đổi được thiết kế đặc biệt để xác định trị số ốc-tan và xê-tan của nhiên liệu (Chương 90). Các máy tạo khí ga, nếu độc lập, được phân loại ở nhóm 84.05.",
+    "en": "This heading covers spark-ignition reciprocating or rotary (e.g., Wankel) internal combustion piston engines, which use a sparking plug. They are used for various purposes such as in agricultural machines, electric generators, pumps, compressors, and for propelling aircraft, motorcars, motorcycles, tractors, or boats. The heading includes 'outboard motors' as a single, indivisible unit and mobile motors mounted on a wheeled chassis. Parts for these engines are generally classified in heading 84.09. The heading excludes engines of Chapter 95 and variable compression motors specially designed for determining the octane and cetane value of fuels (Chapter 90). Independent gas generators are classified in heading 84.05."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại động cơ piston đốt trong chuyển động tịnh tiến hoặc kiểu piston chuyển động quay tròn, đốt cháy bằng tia lửa điện (động cơ có rôto đĩa 3 thuỳ kiểu Wankel), mồi lửa bằng tia lửa điện, trừ loại thuộc Chương 95. Kể cả loại động cơ cho xe có động cơ.\nCác động cơ này chủ yếu gồm các bộ phận sau: xi lanh, piston, biên, trục khuỷu, bánh đà, van nạp và xả... chúng sử dụng lực giãn nở của hỗn hợp khí và nhiên liệu khí ga hoặc hơi khác để cháy, bị đốt bên trong xi lanh. Đặc tính của loại động cơ này là có một bugi đánh lửa gắn cố định bên trên quy lát và với một thiết bị điện (như, ma nhê tô, cuộn dây, bộ ngắt mạch) được đồng bộ với mô tơ để cung cấp dòng điện cao thế.\nNhiên liệu được sử dụng nhiều nhất là xăng, nhưng người ta cũng có thể sử dụng dầu hoả (kerozen), cồn, khí hydro, khí than, khí mê tan…\nĐộng cơ chạy bằng khí ga đôi khi được tiếp nhiên liệu bằng thiết bị tạo khí ga được gắn trong động cơ, nhưng thông thường thiết bị tạo khí ga nằm ngoài động cơ, và trong trường hợp này, máy tạo khí luôn luôn được phân loại thuộc nhóm 84.05.\nĐộng cơ thuộc nhóm này có thể là động cơ một xi lanh hoặc động cơ nhiều xi lanh.",
+        "en": "This heading covers spark-ignition reciprocating internal combustion piston engines and rotary internal combustion piston engines (Wankel engines having a trilobal disc type “piston”), other than those of Chapter 95. It includes such engines for motor vehicles.\nThese engines generally have the following elements: cylinder, piston, connecting-rod, crank shaft, flywheel, inlet and exhaust valves, etc. They make use of the expansion force of a charge of inflammable gas or vapour burned inside a cylinder. The characteristic feature of these engines is that they are equipped with sparking plugs fitted into the cylinder head and with electrical devices (such as magnetos, coils and contact breakers) synchronised with the motor, for supplying high tension current.\nThe most usual fuel is petrol, but others include kerosene, alcohol, hydrogen, coal gas, methane, etc.\nGas engines are most frequently fed by producer gas generators which are sometimes integral with the engine, but are more often independent. In the latter case the generators are always classified in heading 84.05.\nThese engines may have one or several cylinders."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nếu động cơ có nhiều xi lanh, phần thanh truyền (biên) thường được lắp với trục khuỷu, và xi lanh, được tiếp nhiên liệu riêng biệt, có thể sắp xếp theo nhiều cách, ví dụ theo hướng thẳng đứng, chia thành hai nhóm đối xứng nghiêng (động cơ hình chữ V), hoặc xếp đối với nhau trên trục khuỷu, ngoài ra đối với động cơ dùng cho một số loại phương tiện bay còn có thể là hướng tâm (hình sao). Động cơ piston quay (động cơ Wankel) vận hành theo cùng nguyên tắc với động cơ piston quay đã được miêu tả ở trên.\nĐộng cơ thuộc nhóm này có thể có nhiều tác dụng: lắp trong máy móc sử dụng trong lĩnh vực nông nghiệp, dẫn động máy phát điện, bơm hoặc nén khí, dùng làm động cơ đẩy của máy bay, ô tô, xe máy, máy kéo hoặc tàu thủy.\nĐộng cơ thuộc nhóm này cũng có thể được lắp thêm bộ phận bơm phun, các bộ phận đánh lửa, bình chứa nhiên liệu hoặc dầu, quạt gió, bơm xăng, bơm dầu, bộ tản nhiệt bằng nước hoặc dầu, bộ phận lọc không khí hoặc lọc dầu, bộ ly hợp hoặc các thiết bị khác dùng để đẩy động cơ hoặc thiết bị phụ trợ để khởi động, chạy điện hoặc khác. Các động cơ này cũng có thể bao gồm bộ phận giảm tốc độ hoặc bộ phận thay đổi tốc độ khác. Chúng có thể được gắn thêm một trục đàn hồi.\nNhóm này cũng bao gồm các 'động cơ gắn ngoài' để đẩy các loại xuồng, thuyền nhỏ, bao gồm một động cơ thuộc nhóm này, một chân vịt và một thiết bị lái, tạo thành một đơn vị hoàn chỉnh, không thể tách rời. Các động cơ này được thiết kế để gắn bên ngoài của vỏ thuyền nhỏ, chúng có thể tháo rời và xoay theo các hướng. Tuy nhiên, những động cơ được gắn cố định bên trong vỏ tàu tại phía đuôi tàu được kết hợp với hệ chân vịt - bánh lái điều khiển đặt ở vị trí tương ứng bên ngoài tàu, sẽ không được coi là động cơ gắn ngoài.\nNhóm này cũng bao gồm động cơ di động chứa động cơ được gắn trên một khung có bánh xe hoặc trên các con lăn, bao gồm các động cơ có cơ cấu dẫn động cho phép chúng tự đẩy đến một phạm vi nhất định (nhưng không tạo thành phương tiện của Chương 87).\nNhóm này loại trừ các loại động cơ nén có piston, đánh lửa bằng tia lửa điện, được thiết kế chủ yếu để xác định trị số ốc-tan, xê-tan của các loại nhiên liệu động cơ (Chương 90).",
+        "en": "In the latter case the connecting-rods are coupled to a single crank shaft, and the cylinders, fed separately, may be arranged in various ways, e.g., in a vertical line (upright or inverted), in two symmetrical obliquely opposed rows (V- engines), horizontally opposed on opposite sides on the crank shaft or, for certain aircraft engines, radially. The rotary piston engine (Wankel engine) operates on the same general principle as the conventional piston engines described above.\nThe engines of this heading are suitable for very many uses, e.g., in agricultural machines; for driving electric generators, pumps or compressors; for propelling aircraft, motorcars, motorcycles, autocycles, tractors or boats.\nThe engines of this heading may be equipped with fuel injection pumps, ignition parts, fuel or oil reservoirs, water radiators, oil coolers, water, oil or fuel pumps, blowers, air or oil filters, clutches or power drives, or starting devices (electric or other). Change speed gears may also be fitted. The engines may also be equipped with a flexible shaft.\nThe heading includes “outboard motors” for the propulsion of small boats, consisting of a motor of this heading, a propeller and a steering device, the whole constituting a single, indivisible unit. These motors, designed to be attached to the outside of the hull of the boat, are detachable, that is they can be attached and removed easily and are adjustable. However, motors designed to be fixed to the inside of the hull at the rear of the boat combined with a block holding a steering propeller fixed to the exterior of the boat at the corresponding place are not regarded as outboard motors.\nIt also covers mobile motors consisting of engines mounted on a wheeled chassis or on runners, including those with driving mechanisms permitting their self-propulsion to a certain extent (but not constituting vehicles of Chapter 87).\nThe heading excludes variable compression motors of the spark-ignition internal combustion piston engine type designed specially for determination of the octane and cetane value of motor fuels (Chapter 90)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung về phân loại các bộ phận (xem phần Chú giải Khái quát của Phần XVI), bộ phận của các động cơ thuộc nhóm này được phân loại vào nhóm 84.09.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the engines of this heading are classified in heading 84.09."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 8407.10\nKhái niệm “động cơ phương tiện bay” dùng để chỉ loại động cơ được thiết kế hoặc cải tiến để phù hợp gắn với cánh quạt hoặc roto.\nCác phân nhóm 8407.31, 8407.32, 8407.33 và 8407.34\nĐối với những động cơ nhiều xi lanh, dung tích xi lanh được tính bằng dung tích phần xi lanh, được quét bởi piston giữa điểm chết bên dưới và điểm chết bên trên, được nhân với số lượng xi lanh.",
+        "en": "Subheading Explanatory Notes.\nSubheading 8407.10\nThe expression “aircraft engines” means engines designed or modified for fitting with a propeller (airscrew) or rotor.\nSubheadings 8407.31, 8407.32, 8407.33 and 8407.34\nFor engines with cylinders, the cylinder capacity is equal to the volume of that part of a cylinder swept by the piston between bottom dead centre and top dead centre, multiplied by the number of cylinders."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8407.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ phương tiện bay",
+        "en": "Aircraft engines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ máy thủy:",
+        "en": "Marine propulsion engines:"
+      },
+      "subheading_id": "8407.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ gắn ngoài",
+        "en": "Outboard motors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ máy thủy:",
+        "en": "Marine propulsion engines:"
+      },
+      "subheading_id": "8407.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ đốt trong kiểu piston chuyển động tịnh tiến dùng để tạo động lực cho các loại xe thuộc Chương 87:",
+        "en": "Reciprocating piston engines of a kind used for the propulsion of vehicles of Chapter 87:"
+      },
+      "subheading_id": "8407.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dung tích xi lanh không quá 50 cc",
+        "en": "Of a cylinder capacity not exceeding 50 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ đốt trong kiểu piston chuyển động tịnh tiến dùng để tạo động lực cho các loại xe thuộc Chương 87:",
+        "en": "Reciprocating piston engines of a kind used for the propulsion of vehicles of Chapter 87:"
+      },
+      "subheading_id": "8407.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dung tích xi lanh trên 50 cc nhưng không quá 250 cc",
+        "en": "Of a cylinder capacity exceeding 50 cc but not exceeding 250 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ đốt trong kiểu piston chuyển động tịnh tiến dùng để tạo động lực cho các loại xe thuộc Chương 87:",
+        "en": "Reciprocating piston engines of a kind used for the propulsion of vehicles of Chapter 87:"
+      },
+      "subheading_id": "8407.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dung tích xi lanh trên 250 cc nhưng không quá 1.000 cc",
+        "en": "Of a cylinder capacity exceeding 250 cc but not exceeding 1,000 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Động cơ đốt trong kiểu piston chuyển động tịnh tiến dùng để tạo động lực cho các loại xe thuộc Chương 87:",
+        "en": "Reciprocating piston engines of a kind used for the propulsion of vehicles of Chapter 87:"
+      },
+      "subheading_id": "8407.34",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dung tích xi lanh trên 1.000 cc",
+        "en": "Of a cylinder capacity exceeding 1,000 cc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8407.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Động cơ khác",
+        "en": "Other engines"
+      }
+    }
+  ]
+}

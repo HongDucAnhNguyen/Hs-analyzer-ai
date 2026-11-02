@@ -1,0 +1,198 @@
+{
+  "heading_id": "29.04",
+  "heading_title": {
+    "vi": "Dẫn xuất sulphonat hoá, nitro hoá hoặc nitroso hoá của hydrocarbon, đã hoặc chưa halogen hóa.",
+    "en": "Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các dẫn xuất sulphonat hóa, nitro hóa hoặc nitroso hóa của hydrocarbon, đã hoặc chưa được halogen hóa. Nhóm này được chia thành các loại chính:\n(A) Dẫn xuất sulphonat hóa: Hydrocarbon có một hoặc nhiều nhóm sulpho (-SO3H), còn được gọi là axit sulphonic, bao gồm cả muối và este etyl của chúng.\n(B) Dẫn xuất nitro hóa: Hydrocarbon có một hoặc nhiều nhóm nitro (-NO2).\n(C) Dẫn xuất nitroso hóa: Hydrocarbon có một hoặc nhiều nhóm nitroso (-NO).\n(D) Dẫn xuất sulphohalogen hóa: Chứa nhóm sulpho và halogen.\n(E) Dẫn xuất nitrohalogen hóa: Chứa nhóm nitro và halogen.\n(F) Dẫn xuất nitrosulphonat hóa: Chứa nhóm nitro và nhóm sulpho.\n(G) Dẫn xuất kết hợp khác, ví dụ như dẫn xuất nitrosulphohalogen hóa.\n\nNhóm này không bao gồm các hỗn hợp nổ đã được điều chế của các dẫn xuất nitro hóa (nhóm 36.02).\n\nLưu ý: Việc sản xuất và sử dụng axit Perfluorooctane sulphonic (PFOS), muối của nó và perfluorooctane sulfonyl fluoride (PFOSF) được kiểm soát bởi Công ước Stockholm và Công ước Rotterdam, có tham chiếu đến các nhóm 29.22, 29.23, 29.35, 38.08 và 38.24.",
+    "en": "This heading covers sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated. The heading is divided into major categories:\n(A) Sulphonated derivatives: Hydrocarbons with one or more sulpho groups (-SO3H), also known as sulphonic acids, including their salts and ethyl esters.\n(B) Nitrated derivatives: Hydrocarbons with one or more nitro groups (-NO2).\n(C) Nitrosated derivatives: Hydrocarbons with one or more nitroso groups (-NO).\n(D) Sulphohalogenated derivatives: Containing sulpho groups and halogens.\n(E) Nitrohalogenated derivatives: Containing nitro groups and halogens.\n(F) Nitrosulphonated derivatives: Containing nitro and sulpho groups.\n(G) Other compound derivatives, for example, nitrosulphohalogenated derivatives.\n\nThis heading excludes prepared explosive mixtures of nitrated derivatives (heading 36.02).\n\nNote: The production and use of Perfluorooctane sulphonic acid (PFOS), its salts and perfluorooctane sulfonyl fluoride (PFOSF) is controlled by the Stockholm Convention and the Rotterdam Convention, with references to headings 29.22, 29.23, 29.35, 38.08 and 38.24."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) CÁC DẪN XUẤT SULPHONAT HÓA\nĐây là những hydrocarbon mà một hay nhiều nguyên tử hydro của chúng được thay thế bằng số lượng các nhóm sulpho (-SO3H) tương ứng; chúng thường được gọi là axit sulphonic. Nhóm này còn bao gồm cả những muối và những etyl este của axit sulphonic (xem Chú giải 5 (B) của Chương này).\n(1) Các dẫn xuất sulphonat hóa của hydrocarbon mạch hở. Ví dụ: (a) Ethylenesulphonic axit; (b) Ethansuphonic axit.\n(2) Các dẫn xuất sulphonat hóa của hydrocarbon vòng. Ví dụ: (a) Benzensulphonic axit; (b) Các axit toluensulphonic; (c) Các axit xylensulphonic; (d) Các axit benzendisulphonic; (e) Các axít Naphthaensulphonic.",
+        "en": "(A) SULPHONATED DERIVATIVES\nThese are hydrocarbons in which one or more atoms of hydrogen have been replaced by a like number of sulpho group (-SO3H); they are generally called sulphonic acids. The heading also includes salts and ethyl esters of suIphonic acids (see Note 5 (B) to this Chapter).\n(1) Sulphonated derivatives of acyclic hydrocarbons. e.g., (a) Ethylenesulphonic acid; (b) Ethanesulphonic acid.\n(2) Sulphonated derivatives of cyclic hydrocarbons. e.g., (a) Benzenesulphonic acid; (b) Toluenesulphonic acids; (c) Xylenesulphonic acids; (d) Benzenedisulphonic acids; (e) Naphthalenesulphonic acids."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) CÁC DẪN XUẤT NITRO HÓA\nĐây là những hydrocarbon mà trong đó có 1 hay nhiều nguyên tử hydro được thay thế bởi một số lượng như thế các nhóm nitro (-NO2).\n(1) Dẫn xuất nitro hóa của hydrocarbon mạch hở. Ví dụ: (a) Nitrometan; (b) Nitroetan; (c) Nitropropan; (d) Trinitrometan.\n(2) Các dẫn xuất nitro hóa của hydrocarbon vòng. Ví dụ: (a) Nitrobenzene (dầu của mirbane); (b) m-Dinitrobenzene; (c) Nitrotoluene (o-, m- và p-).",
+        "en": "(B) NITRATED DERIVATIVES\nThese are hydrocarbons in which one or more hydrogen atoms have been replaced by a like number of nitro groups (-NO2).\n(1) Nitrated derivatives of acyclic hydrocarbons. e.g., (a) Nitromethane; (b) Nitroethane; (c) Nitropropane; (d) Trinitromethane.\n(2) Nitrated derivatives of cyclic hydrocarbons. e.g., (a) Nitrobenzene (oil of mirbane); (b) m-Dinitrobenzene; (c) Nitrotoluene (o-, m- and p-)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các ví dụ về dẫn xuất nitro hóa của hydrocarbon vòng (tiếp theo): (d) 2,4-Dinitrotoluene; (e) 2,4,6-Trinitrotoluene; (f) 5-tert-Butyl-2,4,6-trinitrometaxylene (xạ hương xylen); (g) Nitroxylene, 3-tert-butyl-2,6- dinitro - p - cymene (xạ hương cymen), nitronaphthalene.\nNhóm này không bao gồm: Các hỗn hợp nổ đã được điều chế của các dẫn xuất này (xếp vào nhóm 36.02).",
+        "en": "Examples of nitrated derivatives of cyclic hydrocarbons (continued): (d) 2,4-Dinitrotoluene; (e) 2,4,6-Trinitrotoluene; (f) 5-tert-Butyl-2,4,6-trinitrometaxylene (xylene musk); (g) Nitroxylene, 3-tert-butyl-2,6- dinitro - p - cymene (cymene musk), nitronaphthalene.\nThis heading excludes: Prepared explosive mixtures of these derivatives (heading 36.02)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(C) CÁC DẪN XUẤT NITROSO HÓA\nĐây là những hydrocarbon, trong đó có một hoặc nhiều nguyên tử hydro được thay thế bằng số lượng tương ứng các nhóm nitroso hóa (-NO). Ví dụ: (1) Nitrosobenzene; (2) Nitrosotoluene (o-, m- và p-).",
+        "en": "(C) NITROSATED DERIVATIVES\nThese are hydrocarbons in which one or more atoms of hydrogen have been replaced by a like number of nitroso groups (-NO). Examples: (1) Nitrosobenzene; (2) Nitrosotoluene (o-, m- and p-)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(D) CÁC DẪN XUẤT SULPHOHALOGEN HÓA\nChúng là các dẫn xuất hydrocarbon mà phân tử của chúng chứa 1 hoặc nhiều nhóm sulpho (‑SO3H) hoặc muối hoặc este etyl của chúng và một hoặc nhiều halogen, hoặc 1 nhóm halosulphonyl. Ví dụ: (1) Chloro-, bromo- và iodobenzenesulphonic acids (o-, m- và p-); (2) Chloro-, bromo- và các axit iodobenzenedisulphonic; (3) Các axit chloronaphthalenesulphonic; (4) p-Toluenesulphonyl clorua; (5) Perfluorooctane sulphonic axit (PFOS). Quá trình sản xuất và sử dụng PFOS, muối của nó và perfluorooctane sulfonyl fluoride (PFOSF) phải tuân thủ theo Công ước Stockholm về các chất ô nhiễm hữu cơ khó phân hủy và Công ước Rotterdam về thủ tục đồng thuận thông báo trước đối với các hoá chất và thuốc bảo vệ thực vật nguy hại trong thương mại quốc tế (xem nhóm 29.22, 29.23, 29.35, 38.08 và 38.24).",
+        "en": "(D) SULPHOHALOGENATED DERIVATIVES\nThese are hydrocarbon derivatives the molecules of which contain one or more sulpho groups (‑SO3H) or salts or ethyl esters thereof and one or more halogens, or else a halosulphonyl group. Examples: (1) Chloro-, bromo- and iodobenzenesulphonic acids (o-, m- and p-); (2) Chloro-, bromo- and iodobenzenedisulphonic acids; (3) Chloronaphthalenesulphonic acids; (4) p-Toluenesulphonyl chloride; (5) Perfluorooctane sulphonic acid (PFOS). The production and use of PFOS, its salts and perfluorooctane sulfonyl fluoride (PFOSF) is controlled by the Stockholm Convention on Persistent Organic Pollutants and by the Rotterdam Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade (see also headings 29.22, 29.23, 29.35, 38.08 and 38.24)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(E) CÁC DẪN XUẤT NITROHALOGEN HÓA\nLà các dẫn xuất hydrocarbon mà phân tử có chứa 1 hay nhiều nhóm nitro (-NO2) và một hoặc nhiều halogen. Ví dụ: (1) Trichloronitromethane hoặc chloropicrin; (2) Iodotrinitromethane (iodopicrin); (3) Chloronitromethane; (4) Bromonitromethane; (5) Iodonitromethane; (6) Chloronitrobenzene; (7) Chloronitrotoluene.",
+        "en": "(E) NITROHALOGENATED DERIVATIVES\nThese are hydrocarbon derivatives the molecules of which contain one or more nitro groups (-NO2) and one or more halogens. Examples: (1) Trichloronitromethane or chloropicrin; (2) Iodotrinitromethane (iodopicrin); (3) Chloronitromethane; (4) Bromonitromethane; (5) Iodonitromethane; (6) Chloronitrobenzene; (7) Chloronitrotoluene."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(F) CÁC DẪN XUẤT NITROSULPHONAT HÓA\nĐây là các dẫn xuất hydrocarbon mà phân tử của chúng có chứa một hoặc nhiều nhóm nitro (- NO2) và một hoặc nhiều nhóm sulpho (-SO3H) hoặc các muối hoặc những este etyl của chúng.",
+        "en": "(F) NITROSULPHONATED DERIVATIVES\nThese are hydrocarbon derivatives the molecules of which contain one or more nitro groups (-NO2) and one or more sulpho groups (-SO3H) or salts or ethyl esters thereof."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Ví dụ về Dẫn xuất Nitrosulphonat hóa: (1) Các axit nitrobenzenesulphonic và di- và trinitrobenzenesulphonic; (2) Các axit nitrotoluenesulphonic và di- và trinitrotoluenesulphonic; (3) Các axit nitronaphthalenesulphonic; (4) Các axit dinitrostilbenedisulphonic.",
+        "en": "Examples of Nitrosulphonated Derivatives: (1) Nitrobenzenesulphonic and di- and trinitrobenzenesulphonic acids; (2) Nitrotoluenesulphonic and di- and trinitrotoluenesulphonic acids; (3) Nitronaphthalenesulphonic acids; (4) Dinitrostilbenedisulphonic acids."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(G) CÁC DẪN XUẤT NITROSULPHOHALOGEN HÓA HOẶC CÁC DẪN XUẤT KẾT HỢP KHÁC\nCác dẫn xuất kết hợp này thuộc một loại không đề cập ở trên, ví dụ, các dẫn xuất trong thành phần của chúng có một hoặc nhiều nhóm nitro (-NO2), nhóm sulpho (-SO3H) hoặc các muối hoặc các este etyl của chúng và một hoặc nhiều halogen. Các ví dụ cụ thể là các dẫn xuất sunphonat hóa của cloronitrobenzen, cloronitrotoluen,...",
+        "en": "(G) NITROSULPHOHALOGENATED OR OTHER COMPOUND DERIVATIVES\nThese are compound derivatives of a kind not specified above, for example, those which contain one or more nitro groups (-NO2), sulpho groups (-SO3H) or salts or ethyl esters thereof and one or more halogens. Specific examples are the sulphonated derivatives of chloronitrobenzenes, of chloronitrotoluenes, etc."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2904.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dẫn xuất chỉ chứa các nhóm sulpho, muối và các etyl este của chúng",
+        "en": "Derivatives containing only sulpho groups, their salts and ethyl esters"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2904.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dẫn xuất chỉ chứa các nhóm nitro hoặc các nhóm nitroso",
+        "en": "Derivatives containing only nitro or only nitroso groups"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Perfluorooctane sulphonic axit, muối của nó và perfluorooctane sulphonyl fluoride:",
+        "en": "Perfluorooctane sulphonic acid, its salts and perfluorooctane sulphonyl fluoride:"
+      },
+      "subheading_id": "2904.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Perfluorooctane sulphonic axit",
+        "en": "Perfluorooctane sulphonic acid"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Perfluorooctane sulphonic axit, muối của nó và perfluorooctane sulphonyl fluoride:",
+        "en": "Perfluorooctane sulphonic acid, its salts and perfluorooctane sulphonyl fluoride:"
+      },
+      "subheading_id": "2904.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Ammonium perfluorooctane sulphonate",
+        "en": "Ammonium perfluorooctane sulphonate"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Perfluorooctane sulphonic axit, muối của nó và perfluorooctane sulphonyl fluoride:",
+        "en": "Perfluorooctane sulphonic acid, its salts and perfluorooctane sulphonyl fluoride:"
+      },
+      "subheading_id": "2904.33",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Lithium perfluorooctane sulphonate",
+        "en": "Lithium perfluorooctane sulphonate"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Perfluorooctane sulphonic axit, muối của nó và perfluorooctane sulphonyl fluoride:",
+        "en": "Perfluorooctane sulphonic acid, its salts and perfluorooctane sulphonyl fluoride:"
+      },
+      "subheading_id": "2904.34",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Kali perfluorooctane sulphonate",
+        "en": "Potassium perfluorooctane sulphonate"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Perfluorooctane sulphonic axit, muối của nó và perfluorooctane sulphonyl fluoride:",
+        "en": "Perfluorooctane sulphonic acid, its salts and perfluorooctane sulphonyl fluoride:"
+      },
+      "subheading_id": "2904.35",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Muối khác của perfluorooctane sulphonic axit",
+        "en": "Other salts of perfluorooctane sulphonic acid"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Perfluorooctane sulphonic axit, muối của nó và perfluorooctane sulphonyl fluoride:",
+        "en": "Perfluorooctane sulphonic acid, its salts and perfluorooctane sulphonyl fluoride:"
+      },
+      "subheading_id": "2904.36",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Perfluorooctane sulphonyl fluoride",
+        "en": "Perfluorooctane sulphonyl fluoride"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "2904.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Trichloronitromethane (chloropicrin)",
+        "en": "Trichloronitromethane (chloropicrin)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "2904.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

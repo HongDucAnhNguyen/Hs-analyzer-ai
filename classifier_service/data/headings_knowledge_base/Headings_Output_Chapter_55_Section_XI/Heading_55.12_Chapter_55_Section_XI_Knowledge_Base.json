@@ -1,0 +1,101 @@
+{
+  "heading_id": "55.12",
+  "heading_title": {
+    "vi": "Các loại vải dệt thoi từ xơ staple tổng hợp, có hàm lượng loại xơ này chiếm từ 85% trở lên tính theo khối lượng.",
+    "en": "Woven fabrics of synthetic staple fibres, containing 85 % or more by weight of synthetic staple fibres."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải dệt thoi (định nghĩa trong Phần (I) (C) của Chú giải tổng quát Phần XI) chứa từ 85% trở lên xơ staple tổng hợp. Các loại vải này có thể dùng làm vật liệu may mặc, rèm cửa, vải trang trí, vải trải bàn, chăn, khăn tắm, v.v. Nhóm này loại trừ băng, đã tẩm thuốc hoặc đã đóng gói để bán lẻ (nhóm 30.05).",
+    "en": "This heading covers woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI), containing 85% or more by weight of synthetic staple fibres. Such fabrics can be used as dress materials, curtain or other furnishing fabrics, and materials for table cloths, blankets, towels, etc. This heading excludes bandages, medicated or put up for retail sale (heading 30.05)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại vải dệt (được định nghĩa trong Phần (I) (C) của Chú giải tổng quát của Phần XI) có tỷ trọng xơ staple tổng hợp từ 85% trở lên. Loại vải này rất đa dạng, được dùng trong may mặc quần áo, rèm hoặc vải dệt trang trí và vải trải bàn, chăn, khăn tắm,... v.v.",
+        "en": "This heading covers woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI), containing 85 % or more by weight of synthetic staple fibres. Such fabrics include a very large variety of dress materials, curtain or other furnishing fabrics, and materials for table cloths, blankets, towels, etc."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Băng, đã tẩm thuốc hoặc đã đóng gói để bán lẻ thì bị loại trừ (nhóm 30.05).",
+        "en": "Bandages, medicated or put up for retail sale, are excluded (heading 30.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng xơ staple polyeste chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "Containing 85 % or more by weight of polyester staple fibres:"
+      },
+      "subheading_id": "5512.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng xơ staple polyeste chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "Containing 85 % or more by weight of polyester staple fibres:"
+      },
+      "subheading_id": "5512.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng xơ staple bằng acrylic hoặc modacrylic chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "Containing 85 % or more by weight of acrylic or modacrylic staple fibres:"
+      },
+      "subheading_id": "5512.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng xơ staple bằng acrylic hoặc modacrylic chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "Containing 85 % or more by weight of acrylic or modacrylic staple fibres:"
+      },
+      "subheading_id": "5512.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "5512.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng",
+        "en": "Unbleached or bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "5512.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

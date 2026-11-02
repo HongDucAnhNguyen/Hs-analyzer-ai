@@ -1,0 +1,101 @@
+{
+  "heading_id": "85.35",
+  "heading_title": {
+    "vi": "Thiết bị điện để đóng ngắt mạch hay bảo vệ mạch điện, hoặc dùng để đấu nối hay lắp trong mạch điện (ví dụ, cầu dao, công tắc, cầu chì, bộ chống sét, bộ khống chế điện áp, bộ triệt xung điện, phích cắm và đầu nối khác, hộp đấu nối), dùng cho điện áp trên 1.000 V.",
+    "en": "Electrical apparatus for switching or protecting electrical circuits, or for making connections to or in electrical circuits (for example, switches, fuses, lightning arresters, voltage limiters, surge suppressors, plugs and other connectors, junction boxes), for a voltage exceeding 1,000 volts."
+  },
+  "summary": {
+    "vi": "Nhóm 85.35 bao gồm các thiết bị điện dùng để đóng ngắt, bảo vệ, hoặc đấu nối trong mạch điện có điện áp trên 1.000V, thường sử dụng trong các hệ thống phân phối điện năng. Các sản phẩm chính thuộc nhóm này là cầu chì, bộ ngắt mạch tự động, cầu dao cách ly và thiết bị đóng ngắt điện cao áp. Ngoài ra, nhóm còn bao gồm các thiết bị bảo vệ chuyên dụng như bộ chống sét, bộ khống chế điện áp và bộ triệt xung điện. Cần lưu ý một số loại trừ quan trọng: bộ chống sét dựa trên nguyên lý phóng xạ thuộc nhóm 90.22, bộ điều chỉnh điện áp tự động thuộc nhóm 90.32, và các cụm lắp ráp phức tạp của các thiết bị này (trừ cụm công tắc đơn giản) thuộc nhóm 85.37. Các bộ phận của thiết bị trong nhóm này được phân loại riêng tại nhóm 85.38. Các quy định kỹ thuật của nhóm 85.36 cũng được áp dụng tương tự cho các sản phẩm trong nhóm này.",
+    "en": "Heading 85.35 covers electrical apparatus for switching, protecting, or making connections in electrical circuits with a voltage exceeding 1,000V, typically used in power distribution systems. The main products in this heading are fuses, automatic circuit breakers, isolating switches, and make-and-break switches for high tension. Additionally, the heading includes specialized protective devices such as lightning arresters, voltage limiters, and surge suppressors. It is important to note several key exclusions: lightning arresters based on radioactivity are classified in heading 90.22, automatic voltage regulators fall under heading 90.32, and complex assemblies of these apparatus (other than simple switch assemblies) belong to heading 85.37. Parts of the apparatus of this heading are classified separately in heading 85.38. The technical provisions for heading 85.36 also apply mutatis mutandis to the products in this heading."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các thiết bị điện dùng trong hệ thống phân phối điện năng với điện áp trên 1000V. Các quy định của Chú giải chi tiết nhóm 85.36 được áp dụng tương tự. Các thiết bị bao gồm: (A) Cầu chì và bộ ngắt mạch tự động. (B) Thiết bị đóng ngắt điện cao áp, thường có cấu trúc phức tạp để ngăn hồ quang, đặt trong vỏ chứa dầu, khí hoặc chân không. (C) Bộ chống sét để bảo vệ cáp cao thế, ví dụ như chống sét bằng oxit kim loại, hạt carbon, khe hẹp phóng điện, hoặc điện phân. Tuy nhiên, bộ chống sét hoạt động theo nguyên lý phóng xạ thuộc nhóm 90.22. (D) Bộ khống chế điện áp, đảm bảo hiệu điện thế không vượt quá giá trị đặt trước.",
+        "en": "This heading covers electrical apparatus generally used in power distribution systems for a voltage exceeding 1,000 volts. The provisions of the Explanatory Note to heading 85.36 apply, mutatis mutandis. These include: (A) Fuses and automatic circuit breakers. (B) Make-and-break switches specialised for high tension circuits, often of a complex and robust construction with special devices to prevent arcing, mounted in containers filled with oil, gas, or in a vacuum. (C) Lightning arresters to protect high tension cables or electrical installations, including metal oxide arresters, carbon granule arresters, horned spark gap arresters, and electrolytic arresters. However, lightning arresters based on the principle of radioactivity are classified in heading 90.22. (D) Voltage limiters, intended to ensure the potential difference does not exceed a predetermined value."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này không bao gồm những bộ điều chỉnh điện áp tự động (nhóm 90.32). Các thiết bị khác bao gồm: (E) Cầu dao cách ly, được dùng để tạo một khoảng cách cách điện của dây. (F) Bộ triệt xung điện hoặc đột biến, là tổ hợp các cuộn dây hoặc tụ điện. Các cuộn dây hoặc tụ điện đơn giản sử dụng cho mục đích này vẫn được phân loại vào nhóm tương ứng của chúng. Các bộ phận của thiết bị thuộc nhóm này được phân loại vào nhóm 85.38. Nhóm này cũng loại trừ các cụm lắp ráp của các thiết bị trên (trừ cụm đóng ngắt đơn giản), chúng thuộc nhóm 85.37.",
+        "en": "However, the heading does not cover automatic voltage regulators (heading 90.32). Other apparatus include: (E) Isolating switches, used for isolating sections of a line. (F) Surge or spike suppressors, which are assemblies of coils, capacitors, etc. Simple coils or capacitors used on their own for this purpose remain classified in their respective headings. Parts of the apparatus of this heading are classified in heading 85.38. The heading excludes assemblies (other than simple switch assemblies) of the apparatus mentioned above (heading 85.37)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8535.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Cầu chì",
+        "en": "Fuses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bộ ngắt mạch tự động:",
+        "en": "Automatic circuit breakers:"
+      },
+      "subheading_id": "8535.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Có điện áp dưới 72,5 kV",
+        "en": "- - For a voltage of less than 72.5 kV"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bộ ngắt mạch tự động:",
+        "en": "Automatic circuit breakers:"
+      },
+      "subheading_id": "8535.29",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8535.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Cầu dao cách ly và thiết bị đóng - ngắt điện",
+        "en": "Isolating switches and make-and-break switches"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8535.40",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ chống sét, bộ khống chế điện áp và bộ triệt xung điện",
+        "en": "Lightning arresters, voltage limiters and surge suppressors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8535.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

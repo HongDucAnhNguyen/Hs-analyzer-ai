@@ -1,0 +1,28 @@
+{
+  "heading_id": "27.05",
+  "heading_title": {
+    "vi": "Khí than đá, khí than ướt, khí than và các loại khí tương tự, trừ các loại khí dầu mỏ và khí hydrocarbon khác.",
+    "en": "Coal gas, water gas, producer gas and similar gases, other than petroleum gases and other gaseous hydrocarbons."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm khí than đá (thu được bằng cách chưng cất than), khí được sản xuất bởi khí hóa ngầm, khí than ướt, khí than nung và các loại khí tương tự (ví dụ: khí lò cao). Nhóm này cũng bao gồm các hỗn hợp khí được hình thành do quá trình cracking hoặc reforming các loại dầu khoáng, khí dầu mỏ, hoặc khí tự nhiên (đôi khi được gọi là 'khí tổng hợp').\n\nTuy nhiên, nhóm này loại trừ các loại khí đã chi tiết hóa ở nhóm 27.11.",
+    "en": "This heading includes coal gas (obtained by the distillation of coal), gas produced by underground gasification, water gas, producer gas and similar gases (e.g., blast-furnace gas). It also covers mixtures of gases formed by cracking or reforming mineral oils, petroleum gases, or natural gases (sometimes called 'synthesis gas').\n\nHowever, the heading excludes the gases specified in heading 27.11."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Khí than đá thu được bằng cách chưng cất than trong môi trường chân không, thường ở các thiết bị sản xuất khí hoặc lò luyện cốc. Nó là hỗn hợp phức tạp của các loại khí hydro, methane, carbon monoxide v.v, và được sử dụng cho các mục đích thắp sáng hoặc đốt nóng.",
+        "en": "Coal gas is obtained by the distillation of coal in the absence of air, usually in gas works or coke ovens. It is a complex mixture of hydrogen, methane, carbon monoxide, etc., and is used for lighting or healing purposes."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm khí được sản xuất bởi khí hóa ngầm và cũng bao gồm khí than ướt, khí than nung và các loại khí tương tự. Ví dụ khí lò nung. Nhóm này cũng bao gồm các hỗn hợp khí được hình thành do quá trình cracking hoặc reforming các loại dầu khoáng, khí dầu mỏ, các khí tự nhiên, thường có hơi nước. Những hỗn hợp khí này có thành phần tương tự như khí than và được sử dụng cho thắp sáng và đốt cháy hoặc trong quá trình tổng hợp hóa học. Ví dụ: methanol, ammonia. Trong trường hợp sau, đôi khi chúng được gọi là \"khí tổng hợp\". Tuy nhiên, nhóm này cũng loại trừ các loại khí đã chi tiết hóa ở nhóm 27.11.",
+        "en": "The heading includes the gas produced by underground gasification and also water gas, producer gas and similar gases, for example blast-furnace gas. It also covers mixtures of gases formed by cracking or reforming of mineral oils, petroleum gases or natural gases, usually in the presence of steam. These mixtures are similar in composition to coal gas and are used for heating or lighting purposes and in the synthesis of chemicals, e.g., methanol, ammonia. In the latter case, they are sometimes called “synthesis gas”. However, the heading excludes the gases specified in heading 27.11."
+      }
+    }
+  ],
+  "subheadings": []
+}

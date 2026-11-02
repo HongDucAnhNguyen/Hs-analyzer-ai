@@ -1,0 +1,70 @@
+{
+  "heading_id": "75.05",
+  "heading_title": {
+    "vi": "Niken ở dạng thanh, que, hình và dây.",
+    "en": "Nickel bars, rods, profiles and wire."
+  },
+  "summary": {
+    "vi": "Nhóm 75.05 bao gồm các sản phẩm niken ở dạng thanh, que, hình và dây, được định nghĩa trong Chú giải 9(a), 9(b) và 9(c) của Phần XV. Các sản phẩm này tương ứng với các mặt hàng bằng đồng thuộc nhóm 74.07 và 74.08, trừ quy định đặc biệt cho anod mạ điện (nhóm 75.08). Nhóm này loại trừ một số sản phẩm cụ thể như: sợi trộn kim loại (nhóm 56.05), các loại thanh, que hoặc hình đã được gia công để sử dụng trong kết cấu (nhóm 75.08), và các thanh dẫn điện đã được bọc cách điện (thanh góp) cùng với dây dẫn điện (kể cả dây tráng men) thuộc nhóm 85.44.",
+    "en": "Heading 75.05 covers nickel products in the form of bars, rods, profiles, and wire, as defined in Notes 9(a), 9(b), and 9(c) to Section XV. These products correspond to similar copper goods of headings 74.07 and 74.08, except for the special provision for electroplating anodes (heading 75.08). This heading excludes certain specific products such as: metallised yarn (heading 56.05), bars, rods, or profiles prepared for use in structures (heading 75.08), and insulated electric bars (busbars) and wire (including enamelled wire) of heading 85.44."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những sản phẩm này, được định nghĩa ở ghi chú Chương 9 (a) , 9 (b) và 9 (c) Phần XV, tương tự với các mặt hàng bằng đồng, trừ qui định đặc biệt cho anod mạ điện (xem chú giải nhóm 75.08). Qui định ở chú giải nhóm 74.07 và 74.08 được áp dụng cho nhóm này.\nNhóm này không bao gồm:\n(a) Sợi trộn kim loại (nhóm 56.05).\n(b) Thanh, que hoặc các dạng hình, đã được gia công để sử dụng làm kết cấu (nhóm 75.08).\n(c) Thanh đã bọc cách điện (được hiểu chung là “thanh góp”) và dây (bao gồm cả dây tráng men) (nhóm 85.44).",
+        "en": "These products, which are defined in Notes 9 (a) , 9 (b) and 9 (c) to Section XV, correspond to similar goods of copper, except for the special provision for electroplating anodes (see the Explanatory Note to heading 75.08). The provisions of the Explanatory Notes to headings 74.07 and 74.08 apply, mutatis mutandis, to this heading.\nThe heading does not cover :\n(a) Metallised yam (heading 56.05).\n(b) Bars, rods or profiles, prepared for use in structures (heading 75.08).\n(c) Insulated electric bars (commonly known as “busbars” and wire (including enamelled wire) (heading 85.44)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Thanh, que và hình :",
+        "en": "- Bars, rods and profiles:"
+      },
+      "subheading_id": "7505.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng niken không hợp kim",
+        "en": "- - Of nickel, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thanh, que và hình :",
+        "en": "- Bars, rods and profiles:"
+      },
+      "subheading_id": "7505.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng hợp kim niken",
+        "en": "- - Of nickel alloys"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dây :",
+        "en": "- Wire:"
+      },
+      "subheading_id": "7505.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng niken không hợp kim",
+        "en": "- - Of nickel, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dây :",
+        "en": "- Wire:"
+      },
+      "subheading_id": "7505.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Bằng hợp kim niken",
+        "en": "- - Of nickel alloys"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "heading_id": "83.05",
+  "heading_title": {
+    "vi": "Các chi tiết ghép nối dùng cho cặp giữ tờ rơi hoặc hồ sơ tài liệu rời, cái kẹp thư, để thư, kẹp giấy, kẹp phiếu mục lục và các vật phẩm văn phòng tương tự, bằng kim loại cơ bản; ghim dập dạng băng (ví dụ, dùng cho văn phòng, dùng cho công nghệ làm đệm, đóng gói), bằng kim loại cơ bản.",
+    "en": "Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal; staples in strips (for example, for offices, upholstery, packaging), of base metal."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các chi tiết ghép nối và vật phẩm văn phòng bằng kim loại cơ bản. Các sản phẩm chính bao gồm các chi tiết ghép nối như kẹp, dây nối, lò xo, vòng, vít dùng cho cặp giữ hồ sơ tài liệu rời. Nhóm này cũng bao gồm các vật phẩm văn phòng bằng kim loại dùng để kẹp, ghim hoặc đánh dấu giấy tờ như kẹp thư, kẹp giấy, kẹp phiếu mục lục. Ngoài ra, nhóm còn phân loại ghim dập dạng băng dùng trong máy dập ghim cho văn phòng, bọc đệm hoặc đóng gói. Nhóm này loại trừ các mặt hàng như đinh ấn (đinh rệp) thuộc nhóm 73.17 hoặc 74.15 và các loại khóa, chốt cho sách, sổ thuộc nhóm 83.01 hoặc 83.08.",
+    "en": "This heading covers fittings and office articles of base metal. Key products include fittings such as clips, cords, spring levers, rings, and screws for loose-leaf binders or files. It also covers metal office articles used for fastening or index-marking papers, such as letter clips, paper clips, and indexing tags. Additionally, the heading classifies staples in strips used in stapling machines for offices, upholstery, or packaging. This heading excludes items such as drawing pins (heading 73.17 or 74.15) and clasps or fasteners for books and ledgers (heading 83.01 or 83.08)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các chi tiết ghép nối bằng kim loại cơ bản (cặp kẹp, dây nối, lò xo đẩy, vòng, vít) dùng cho cặp giữ tờ rời hoặc hộp giữ hồ sơ. Nhóm cũng bao gồm vòng bảo vệ, dải đóng gáy, nẹp góc cho sổ sách văn phòng; và các đồ dùng văn phòng bằng kim loại để ghim hoặc đánh dấu tài liệu (kẹp ghim, kẹp giấy, để thư, kẹp phiếu mục lục). Ghim dập dạng băng dùng trong máy dập ghim văn phòng, bọc đệm, đóng gói cũng thuộc nhóm này. Các mặt hàng bị loại trừ bao gồm: (a) Đinh ấn (đinh rệp) thuộc nhóm 73.17 hoặc 74.15; (b) Các loại khóa và chốt cho sách, sổ thuộc nhóm 83.01 hoặc 83.08.",
+        "en": "This heading covers base metal fittings (clip, cord, spring lever, ring, screw types) for loose-leaf binders or box files. It also includes protecting rings, bands, and corners for ledgers or stationery books; and metal office stationery for fastening or index-marking papers (letter clips, paper clips, paper fasteners, letter corners, card indexing tags). Staples in strips for stapling machines in offices, for upholstery, or for packaging are also included. The heading excludes: (a) Drawing pins (heading 73.17 or 74.15); (b) Clasps and fasteners for books, ledgers (heading 83.01 or 83.08)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8305.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các chi tiết ghép nối dùng cho cặp giữ tờ rời hoặc hồ sơ tài liệu rờ",
+        "en": "Fittings for loose-leaf binders or files"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8305.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ghim dập dạng băng",
+        "en": "Staples in strips"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8305.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, kể cả bộ phận",
+        "en": "Other, including parts"
+      }
+    }
+  ]
+}

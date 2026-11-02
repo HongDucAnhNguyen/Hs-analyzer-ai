@@ -1,0 +1,46 @@
+{
+  "heading_id": "25.20",
+  "heading_title": {
+    "vi": "Thạch cao; thạch cao khan; thạch cao plaster (bao gồm thạch cao nung hay canxi sulphat đã nung), đã hoặc chưa nhuộm màu, có hoặc không thêm một lượng nhỏ chất xúc tác hay chất ức chế.",
+    "en": "Gypsum; anhydrite; plasters (consisting of calcined gypsum or calcium sulphate) whether or not coloured, with or without small quantities of accelerators or retarders."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thạch cao (gypsum), là dạng canxi sulphate tự nhiên đã được hydrate hoá; thạch cao khan (anhydrite), là dạng canxi sulphate khan tự nhiên; và thạch cao plaster, bao gồm thạch cao được tách nước một phần hoặc toàn bộ bằng cách nung. Nhóm này cũng bao gồm thạch cao plaster nghiền thành bột, có thêm chất tạo màu, hoặc được nung đặc biệt cho nha khoa. Tuy nhiên, nhóm này không bao gồm các chế phẩm dùng trong nha khoa có thành phần cơ bản là thạch cao plaster (nhóm 34.07).",
+    "en": "This heading covers gypsum, a natural hydrated calcium sulphate; anhydrite, a natural anhydrous calcium sulphate; and plasters, consisting of gypsum partly or completely dehydrated by calcination. It also includes plaster reduced to a floury consistency, plaster with added colouring matter, or specially calcined plaster for use in dentistry. However, this heading does not include preparations for use in dentistry with a basis of plaster (heading 34.07)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Thạch cao (gypsum) là dạng canxi sulphate tự nhiên đã được hydrate hoá, thường màu trắng và dễ vụn.\nThạch cao khan là dạng canxi sulphate khan tự nhiên, được dùng trong sản xuất axit sulphuric hoặc một số dạng thạch cao plaster.\nThạch cao plaster bao gồm thạch cao (gypsum) được tách nước một phần hoặc toàn bộ bằng cách nung.\nĐặc tính của thạch cao là: khi nung nó sẽ mất một phần nước tạo thành thạch cao plaster mà, khi trộn với nước sẽ đông cứng. Để thạch cao plaster không đông cứng quá nhanh thì thường cho thêm lượng nhỏ các chất ức chế vào thạch cao nung. Đối với các mục đích đặc biệt thì thạch cao được nung tới khi toàn bộ lượng nước của nó bị mất đi và một lượng nhỏ của chất tăng tốc đóng rắn như phèn được thêm vào (xi măng keenne hoặc xi măng của Anh). Các loại thạch cao plaster tương tự được tạo ra bằng cách bổ sung phèn vào anhydrite tự nhiên. Tất cả các loại thạch cao plaster được điều chế này vẫn được xếp vào nhóm này.\nNhóm này cũng bao gồm:\n(1) Thạch cao plaster nghiền thành bột đặc quánh dùng trong công nghệ hồ vải hoặc phủ bề mặt giấy.\n(2) Thạch cao plaster có thêm các chất tạo màu.\n(3) Thạch cao plaster được nung đặc biệt hoặc nghiền mịn dùng trong nha khoa, có hoặc không thêm một lượng nhỏ chất xúc tác hay chất ức chế. Nhóm này không bao gồm các chế phẩm dùng trong nha khoa có thành phần cơ bản là thạch cao plaster (nhóm 34.07).",
+        "en": "Gypsum is a natural hydrated calcium sulphate generally white and friable.\nAnhydrite is a natural anhydrous calcium sulphate used in the manufacture of sulphuric acid or of certain types of plaster.\nPlasters consist of gypsum partly or completely dehydrated by calcination.\nThe characteristic of gypsum is that, when calcined, it loses part of its water thus forming plasters which on being mixed with water set hard. In order that the plasters should not set too quickly small quantities of retarders are often added to the calcined gypsum. For special purposes gypsum is calcined until all its water is lost, and a small quantity of an accelerator such as alum is added (Keene's cement or English cement). Similar plasters are made by adding alum to natural anhydrite. All these prepared plasters remain in this heading.\nThis heading also covers:\n(1) Plaster reduced to a floury consistency for use in dressing woven fabrics or surfacing paper.\n(2) Plaster containing added colouring matter.\n(3) Plaster which has been specially calcined or finely ground for use in dentistry, whether or not containing small quantities of accelerators or retarders. This heading does not include preparations for use in dentistry with a basis of plaster (heading 34.07)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2520.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thạch cao; thạch cao khan",
+        "en": "Gypsum; anhydrite"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2520.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thạch cao plaster",
+        "en": "Plasters"
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "heading_id": "52.10",
+  "heading_title": {
+    "vi": "Vải dệt thoi từ bông, có hàm lượng bông chiếm dưới 85% tính theo khối lượng, pha chủ yếu hoặc pha duy nhất với xơ sợi nhân tạo, có định lượng không quá 200 g/m2.",
+    "en": "Woven fabrics of cotton, containing less than 85 % by weight of cotton, mixed mainly or solely with man-made fibres, weighing not more than 200 g/m2."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải dệt thoi được phân loại là vải bông theo Chú giải 2 Phần XI, với điều kiện chúng đáp ứng các tiêu chuẩn sau: (a) Có tỷ trọng bông dưới 85%; (b) Được pha chủ yếu hay chỉ pha duy nhất với xơ nhân tạo; và (c) Trọng lượng không quá 200g/m2. Khi tính toán thành phần, tổng trọng lượng của sợi nhân tạo phải được xem xét, không có sự phân biệt giữa sợi filament và xơ staple. Nhóm này không bao gồm: (a) Băng y tế (nhóm 30.05), (b) Vải dệt nhóm 58.01, (c) Vải khăn lông (nhóm 58.02), (d) Vải dệt quấn (nhóm 58.03), và (e) Vải dệt thoi cho mục đích kỹ thuật (nhóm 59.11).",
+    "en": "This heading covers woven fabrics classified as cotton fabrics by Note 2 to Section XI, provided they meet the following specifications: (a) Contain less than 85% by weight of cotton; (b) Are mixed mainly or solely with man-made fibres; and (c) Weigh not more than 200 g/m2. When calculating proportions, the total weight of man-made fibres is considered, without distinguishing between filaments and staple fibres. This heading excludes: (a) Medicated bandages (heading 30.05), (b) Fabrics of heading 58.01, (c) Terry towelling (heading 58.02), (d) Gauze (heading 58.03), and (e) Woven fabrics for technical uses (heading 59.11)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại vải dệt như đã định nghĩa trong Phần (I) (C) của Chú giải tổng quát Phần XI.\nNhóm này cũng bao gồm các loại vải được phân loại như là vải bông theo Chú giải 2 Phần XI (xem Phần (I) (A) Chú giải tổng quát Phần XI) và với điều kiện chúng phải đáp ứng những tiêu chuẩn sau:\n(a) Có tỷ trọng bông dưới 85%;\n(b) Được pha chủ yếu hay chỉ pha duy nhất với xơ nhân tạo;\n(c) Trọng lượng không quá 200g/m2.\nKhi tính toán thành phần, phải nhớ rằng tổng trọng lượng của sợi nhân tạo phải được xem xét, không có sự phân biệt giữa sợi filament và xơ staple.",
+        "en": "This heading covers woven fabrics as defined in Part (I) (C) of the General Explanatory Note to Section XI.\nIt covers these fabrics provided they are classified as cotton fabrics by the application of Note 2 to Section XI (see also Part (I) (A) of the General Explanatory Note to Section XI) and provided they meet the following specification:\n(a) Contain less than 85 % by weight of cotton;\n(b) Are mixed mainly or solely with man-made fibres;\n(c) Weigh not more than 200 g/m2.\nIn calculating the proportions it must be remembered that the total weight of man-made fibres is to be taken into consideration, no distinction being made between filaments and staple fibres."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05).\n(b) Các loại vải dệt nhóm 58.01.\n(c) Vải khăn lông và các loại vải dệt thoi tạo vòng lông tương tự (nhóm 58.02).\n(d) Vải dệt quấn (nhóm 58.03).\n(e) Vải dệt thoi phục vụ cho mục đích kỹ thuật, thuộc nhóm 59.11.",
+        "en": "The heading does not include:\n(a) Bandages, medicated or put up for retail sale (heading 30.05).\n(b) Fabrics of heading 58.01.\n(c) Terry towelling and similar terry fabrics (heading 58.02).\n(d) Gauze (heading 58.03).\n(e) Woven fabrics for technical uses, of heading 59.11."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5210.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Vải vân điểm",
+        "en": "- - Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5210.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Vải dệt khác",
+        "en": "- - Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã tẩy trắng:",
+        "en": "Bleached:"
+      },
+      "subheading_id": "5210.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Vải vân điểm",
+        "en": "- - Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã tẩy trắng:",
+        "en": "Bleached:"
+      },
+      "subheading_id": "5210.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Vải dệt khác",
+        "en": "- - Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5210.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Vải vân điểm",
+        "en": "- - Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5210.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo dấu nhân",
+        "en": "- - 3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5210.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Vải dệt khác",
+        "en": "- - Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5210.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Vải vân điểm",
+        "en": "- - Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5210.49",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Vải dệt khác",
+        "en": "- - Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5210.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Vải vân điểm",
+        "en": "- - Plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5210.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Vải dệt khác",
+        "en": "- - Other fabrics"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "heading_id": "81.09",
+  "heading_title": {
+    "vi": "Zircon và các sản phẩm làm từ zircon, kể cả phế liệu và mảnh vụn.",
+    "en": "Zirconium and articles thereof, including waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm zircon (zirconium) và các sản phẩm làm từ zircon. Zircon được thu được từ quặng silicat, zircon, thông qua việc khử oxit, chloride hoặc bằng điện phân. Nó là kim loại dẻo, dễ kéo sợi, màu xám bạc. Zircon được sử dụng trong bóng đèn nháy, làm bộ phận thu hút khí trong đèn điện tử. Ở dạng đơn chất hoặc hợp kim với thiếc (Zircalloy), zircon được dùng trong ngành công nghiệp hạt nhân để sản xuất lớp bảo vệ hộp nhiên liệu và kết cấu nhà máy hạt nhân. Hợp kim Zircon-Plutonium và Zircon-Uranium được dùng làm nhiên liệu hạt nhân. Hợp kim Fero-Zircon được dùng trong sản xuất thép và thuộc Chương 72.",
+    "en": "This heading covers zirconium and articles thereof. Zirconium is obtained from the silicate ore, zircon, by reduction of the oxide, chloride, etc., or by electrolysis. It is a silver-grey, malleable, and ductile metal. It is used in photo-flash bulbs and as getters in radio valves. In its pure form or alloyed with tin ('zircalloy'), it is used in the nuclear industry for sheaths of nuclear fuel cartridges and structures for nuclear plants. Zirconium-plutonium and zirconium-uranium alloys are used as nuclear fuel. Ferro-zirconium alloy is used in steel manufacturing and is classified in Chapter 72."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Zircon thu được quặng silicat, zircon, bằng việc khử oxit, chloride... hoặc bằng điện phân.\nNó có màu xám bạc, và là kim loại dẻo và dễ kéo sợi.\nNó được sử dụng trong các bóng đèn nháy chụp ảnh, sản xuất của bộ phận thu hút khí hoặc các bộ phận hấp thụ trong các đèn điện tử Radio. Fero-Zircon (Chương 72) được sử dụng trong sản xuất thép, và kim loại này cũng tạo hợp kim với Niken,...",
+        "en": "Zirconium is obtained from the silicate ore, zircon, by reduction of the oxide, chloride, etc., or by electrolysis.\nIt is a silver-grey, malleable and ductile metal.\nIt is used in photo-flash bulbs, for the manufacture of getters or absorbents in radio valve manufacture, etc. Ferro-zirconium (Chapter 72) is used in steel manufacture, and the metal is also alloyed with nickel, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Zircon, ở dạng đơn chất hoặc đã hợp kim với thiếc (Zircalloy), cũng được sử dụng trong việc sản xuất các lớp bảo vệ của các hộp đựng nhiên liệu hạt nhân và sản xuất các kết cấu kim loại cho nhà máy hạt nhân. Hợp kim Zircon-Plutonium và hợp kim Zircon-Uranium được sử dụng như nhiên liệu hạt nhân. Để đảm bảo yêu cầu về hạt nhân, các vết Hafnium phải được loại bỏ đầu tiên.",
+        "en": "Zirconium, alone or alloyed with tin (“ zircalloy ”), is also used in the manufacture of sheaths for nuclear fuel cartridges and of metal structures for nuclear plant. Zirconium-plutonium alloys and zirconium-uranium alloys are used as nuclear fuel. For nuclear purposes all but traces of hafnium must first be removed."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Zircon chưa gia công; bột",
+        "en": "Unwrought zirconium; powders"
+      },
+      "subheading_id": "8109.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chứa hàm lượng hafini trong zircon dưới 1/500 tính theo khối lượng",
+        "en": "Containing less than 1 part hafnium to 500 parts zirconium by weight"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Zircon chưa gia công; bột",
+        "en": "Unwrought zirconium; powders"
+      },
+      "subheading_id": "8109.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Phế liệu và mảnh vụn",
+        "en": "Waste and scrap"
+      },
+      "subheading_id": "8109.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chứa hàm lượng hafini trong zircon dưới 1/500 tính theo khối lượng",
+        "en": "Containing less than 1 part hafnium to 500 parts zirconium by weight"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Phế liệu và mảnh vụn",
+        "en": "Waste and scrap"
+      },
+      "subheading_id": "8109.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác",
+        "en": "Other"
+      },
+      "subheading_id": "8109.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chứa hàm lượng hafini trong zircon dưới 1/500 tính theo khối lượng",
+        "en": "Containing less than 1 part hafnium to 500 parts zirconium by weight"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác",
+        "en": "Other"
+      },
+      "subheading_id": "8109.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "heading_id": "84.61",
+  "heading_title": {
+    "vi": "Máy bào, máy bào ngang, máy xọc, máy chuốt, máy cắt bánh răng, mài hoặc máy gia công răng lần cuối, máy cưa, máy cắt đứt và các loại máy công cụ khác gia công bằng cách bóc tách kim loại hoặc gốm kim loại, chưa được ghi hoặc chi tiết ở nơi khác.",
+    "en": "Machine-tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing, cutting-off and other machine-tools working by removing metal or cermets, not elsewhere specified or included."
+  },
+  "summary": {
+    "vi": "Nhóm 84.61 bao gồm các loại máy công cụ gia công bằng cách bóc tách kim loại hoặc gốm kim loại mà chưa được phân loại ở nơi khác. Các máy này thường hoạt động bằng động cơ nhưng cũng bao gồm cả loại vận hành bằng tay hoặc chân, được phân biệt với dụng cụ cầm tay của nhóm 82.05 và 84.67 bởi chúng được thiết kế để gắn cố định. Các loại máy chính trong nhóm này gồm máy bào, máy bào ngang, máy xọc, máy chuốt, và máy cắt/mài/gia công bánh răng. Nhóm cũng bao gồm các loại máy cưa (cưa chuyển động qua lại, cưa đĩa, cưa vòng), máy cắt đứt (sử dụng dao tiện hoặc đĩa mài/kim loại), máy giũa và máy chạm khắc. Các bộ phận và phụ kiện của các máy này được phân loại trong nhóm 84.66. Nhóm này loại trừ các máy công cụ công nghệ cao như laser, siêu âm (nhóm 84.56), trung tâm gia công (nhóm 84.57) và các máy kiểm tra (nhóm 90.24).",
+    "en": "Heading 84.61 covers machine-tools working by removing metal or cermets, not elsewhere specified or included. These machines are generally power-driven but also include hand or pedal-operated versions, which are distinguished from hand tools of headings 82.05 and 84.67 by being designed for fixed mounting. Key machines in this heading include planing, shaping, slotting, broaching, and gear cutting, grinding, or finishing machines. The heading also covers sawing machines (reciprocating, circular, bandsaw), cutting-off machines (using lathe-like tools, abrasive or metal discs), filing machines, and engraving machines. Parts and accessories for these machines are classified in heading 84.66. This heading excludes high-tech machine-tools like laser or ultrasonic machines (heading 84.56), machining centres (heading 84.57), and testing machines (heading 90.24)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy công cụ dùng để gia công bằng cách bóc tách kim loại hoặc gốm kim loại chưa được phân loại ở nơi khác. Các máy này thường hoạt động bằng động cơ điện, nhưng các loại tương tự hoạt động bằng tay hoặc đạp chân cũng thuộc nhóm này. Chúng được phân biệt với dụng cụ cầm tay của nhóm 82.05 và 84.67 ở chỗ chúng được thiết kế để gắn trên sàn, băng ghế, tường hoặc trên một máy khác.",
+        "en": "This heading covers machine-tools working by removing metal or cermets, not elsewhere specified or included. While generally power-driven, similar machines operated by hand or pedal are also covered. They are distinguished from hand tools of heading 82.05 and 84.67 by being designed for mounting on the floor, a bench, a wall, or another machine."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại máy cụ thể bao gồm:\n(1) Máy bào: Dùng để gia công bề mặt phẳng, bao gồm cả \"máy bào và phay\" nhưng không bao gồm \"máy bào - phay\" thuộc nhóm 84.59.\n(2) Máy bào ngang: Hoạt động theo nguyên lý bào nhưng vật gia công được cố định.\n(3) Máy xọc: Dụng cụ chuyển động theo phương thẳng đứng hoặc nghiêng, bao gồm máy xọc rãnh, máy xọc - đột dập, máy xọc đứng và \"máy cắt rãnh\".\n(4) Máy chuốt: Dụng cụ (dao chuốt) được kéo hoặc đẩy qua vật để gia công bề mặt.",
+        "en": "Specific machine types include:\n(1) Planing machines: For working plane surfaces, including “planing and milling machines” but excluding “plano-milling machines” of heading 84.59.\n(2) Shaping machines: Operate on the planing principle but the workpiece is fixed.\n(3) Slotting machines: The tool moves vertically or inclined, including slotting tools, slotting-punching machines, vertical slotting machines, and “grooving machines”.\n(4) Broaching machines: A tool (broach) is pulled or pushed across the work for surface working or shaping."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các loại máy cụ thể (tiếp theo):\n(5) Máy cắt, mài hoặc gia công răng lần cuối: Dùng để chế tạo bánh răng bằng cách tách kim loại khỏi phôi.\n(6) Máy cưa: Bao gồm máy cưa chuyển động qua lại (cưa cần lắc), máy cưa đĩa tròn và máy cưa vòng.\n(7) Máy cắt đứt: Khác máy cưa, sử dụng dụng cụ như dao tiện, đĩa kim loại hoặc vật liệu mài. Gồm hai loại: một loại hoạt động như máy tiện cắt đứt, loại còn lại dụng cụ cố định trong khi chi tiết chuyển động.",
+        "en": "Specific machine types (continued):\n(5) Gear-cutting, gear-grinding or gear-finishing machines: Used for making gears by removing metal from blanks.\n(6) Sawing machines: Includes reciprocating sawing machines, circular saws, and bandsaw sawing machines.\n(7) Cutting-off machines: Differ from sawing machines, using tools analogous to lathe tools, or abrasive or metal discs. Includes two types: one working like slide lathes, the other having a fixed tool while the article moves."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các loại máy cụ thể (tiếp theo):\n(7) Máy cắt đứt (tiếp): bao gồm máy cắt đứt có đĩa cắt hạt mài và máy cắt đứt với đĩa kim loại (máy cưa ma sát).\n(8) Máy giũa: Có thiết kế tương tự máy cưa chuyển động qua lại nhưng dùng giũa thay lưỡi cưa.\n(9) Máy chạm khắc: Trừ những loại thuộc nhóm 84.59 hoặc 84.60.\nBộ phận và phụ kiện: Trừ các loại dụng cụ thuộc Chương 82, các bộ phận và phụ kiện của máy thuộc nhóm này được phân loại vào nhóm 84.66.",
+        "en": "Specific machine types (continued):\n(7) Cutting-off machines (continued): includes machines with abrasive discs and machines with metal discs (friction sawing machines).\n(8) Filing machines: Similar in design to reciprocating sawing machines but use a file instead of a blade.\n(9) Engraving machines: Other than those of heading 84.59 or 84.60.\nParts and accessories: Subject to the tools of Chapter 82, parts and accessories for the machines of this heading are classified in heading 84.66."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Dụng cụ cầm tay (nhóm 82.05).\n(b) Máy công cụ gia công bằng tia laser, siêu âm, phóng điện, điện hóa, tia điện tử, tia ion, hồ quang plasma; máy cắt bằng tia nước (nhóm 84.56).\n(c) Trung tâm gia công, máy kết cấu nguyên khối và máy gia công chuyển dịch đa vị trí (nhóm 84.57).\n(d) Dụng cụ cầm tay hoạt động bằng khí nén, thuỷ lực hoặc có động cơ (nhóm 84.67).\n(e) Máy và thiết bị kiểm tra (nhóm 90.24).",
+        "en": "The heading also excludes:\n(a) Hand tools (heading 82.05).\n(b) Machine-tools working by laser, ultrasonic, electro-discharge, electro-chemical, electron beam, ionic-beam, or plasma arc processes; water-jet cutting machines (heading 84.56).\n(c) Machining centres, unit construction machines (single station) and multi-station transfer machines (heading 84.57).\n(d) Tools for working in the hand, pneumatic, hydraulic or with a self-contained motor (heading 84.67).\n(e) Machines and appliances for testing (heading 90.24)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8461.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy bào ngang hoặc máy xọc",
+        "en": "Shaping or slotting machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8461.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy chuốt",
+        "en": "Broaching machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8461.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy cắt bánh răng, mài hoặc gia công răng lần cuối",
+        "en": "Gear cutting, gear grinding or gear finishing machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8461.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy cưa hoặc máy cắt đứt",
+        "en": "Sawing or cutting-off machines"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8461.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

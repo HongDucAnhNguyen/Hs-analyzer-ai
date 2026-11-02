@@ -1,0 +1,46 @@
+{
+  "heading_id": "41.05",
+  "heading_title": {
+    "vi": "Da thuộc hoặc da mộc của cừu hoặc cừu non, không có lông, đã hoặc chưa lạng xẻ, nhưng chưa được gia công thêm.",
+    "en": "Tanned or crust skins of sheep or lambs, without wool on, whether or not split, but not further prepared."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm da của cừu hoặc cừu non (kể cả da cừu và da dê giao nhau), đã thuộc hoặc làm mộc, không còn lông, nhưng chưa được xử lý thêm. Da thuộc của cừu hoặc cừu non có cấu tạo bề mặt không chặt và vân không đều hơn da dê. Da cừu thường được 'thuộc bằng phèn'. Nhóm này không bao gồm: (a) Da thuộc dầu (nhóm 41.14), (b) Da vụn và phế liệu khác từ da thuộc hoặc da mộc (nhóm 41.15), và (c) Da cừu hoặc da cừu non, đã thuộc hoặc đã làm mộc, còn lông (Chương 43).",
+    "en": "This heading covers the skins of sheep or lambs (including those of crossed sheep and goats), tanned or crusted, without the wool on, but not further prepared. Sheep or lamb leather is of looser texture and has a more irregular grain than that of goats or kids. Sheepskins are often 'alum tanned'. This heading excludes: (a) Chamois leather (heading 41.14), (b) Parings and other waste of tanned or crust leather (heading 41.15), and (c) Sheep or lamb skins, tanned or crusted, with the wool on (Chapter 43)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm da của cừu hoặc cừu non (kể cả da cừu và da dê giao nhau), đã thuộc hoặc làm mộc, không còn lông, nhưng chưa được xử lý thêm (xem Chú giải Tổng quát của Chương này).\n\nDa thuộc của cừu hoặc cừu non ở một mức độ nào đó tương tự như da thuộc của dê hoặc dê non nhưng có cấu tạo bề mặt không chặt hơn và có vân không đều hơn.\n\nDa cừu thường được \"thuộc bằng phèn\" (xem Chú giải Tổng quát của Chương này).\n\nNhững da váng có mặt cật (da lộn) của da cừu, khi đã thuộc, được gọi là \"da đã lạng mỏng\" (skiver); \"basils\" là da cừu đã thuộc bằng các chất thuộc thực vật.\n\nNhóm này không bao gồm:\n(a) Da thuộc dầu (kể cả da thuộc dầu kết hợp) (nhóm 41.14).\n(b) Da vụn và phế liệu khác từ da thuộc hoặc da mộc (nhóm 41.15)\n(c) Da cừu hoặc da cừu non, đã thuộc hoặc đã làm mộc, còn lông (Chương 43).",
+        "en": "This heading covers the skins of sheep or lambs (including those of crossed sheep and goats), tanned or crusted, without the wool on, but not further prepared (see the General Explanatory Note to this Chapter).\n\nSheep or lamb leather is somewhat similar to that of goats or kids but is of looser texture and has a more irregular grain.\n\nSheepskins are often \"alum tanned\" (see the General Explanatory Note to this Chapter).\n\nThe grain splits of the sheepskin, when tanned, are called a \"skiver\"; \"basils\" are sheepskins tanned with certain vegetable tannings.\n\nThe heading excludes :\n(a) Chamois (including combination chamois) leather (heading 41.14).\n(b) Parings and other waste of tanned or crust leather (heading 41.15).\n(c) Sheep or lamb skins, tanned or crusted, with the wool on (Chapter 43)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4105.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ở dạng ướt (kể cả phèn xanh)",
+        "en": "- In the wet state (including wet-blue)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4105.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Ở dạng khô (mộc)",
+        "en": "- In the dry state (crust)"
+      }
+    }
+  ]
+}

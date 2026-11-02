@@ -1,0 +1,58 @@
+{
+  "heading_id": "62.15",
+  "heading_title": {
+    "vi": "Cà vạt, nơ con bướm và cravat.",
+    "en": "Ties, bow ties and cravats."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm cà vạt, nơ con bướm, cravat và cổ cồn, thường được nam giới đeo, kể cả các sản phẩm được gắn phụ kiện để dễ dàng gắn vào cổ áo. Vải được cắt thành mẫu để sản xuất các mặt hàng này cũng thuộc nhóm này, nhưng không bao gồm các dải vật liệu được cắt đơn giản theo đường chéo. Nhóm này không bao gồm: (a) Cà vạt, nơ con bướm và nơ dệt kim hoặc móc (nhóm 61.17); (b) Cổ bẻ to (rabat), khăn đeo ngực (jabot) và các mặt hàng tương tự thuộc nhóm 62.17.",
+    "en": "This heading covers ties, bow ties, cravats and stocks, of the kinds generally worn by men, including those mounted on fittings to facilitate attachment. Fabrics cut to pattern for their manufacture are also included, but not strips of tie material simply cut on the cross. The heading does not cover: (a) Knitted or crocheted ties, bow ties and cravats (heading 61.17); (b) Rabats, jabots and similar articles of heading 62.17."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm cà vạt, nơ con bướm, cravat và cổ cồn, chúng thường được nam giới đeo (kể cả các sản phẩm trên được gắn, ép vào phụ kiện bằng plastic hoặc kim loại,... để gắn vào cổ áo dễ dàng hơn).\nVải được cắt thành mẫu để sản xuất thành cà vạt,... cũng được phân loại trong nhóm này, nhưng không bao gồm các dải làm từ các vật liệu làm cà vạt được cắt đơn giản theo đường chéo.\nNhóm này không bao gồm:\n(a) Cà vạt, nơ con bướm và nơ thường được dệt kim hoặc móc (nhóm 61.17).\n(b) Cổ bẻ to (rabat), khăn đeo ngực (jabot) và các mặt hàng tương tự thuộc nhóm 62.17.",
+        "en": "This heading covers ties, bow ties, cravats and stocks, of the kinds generally worn by men (including those mounted on plastic, metal, etc., fittings to facilitate attachment to the collar).\nFabrics cut to pattern for manufacture into ties, etc., are also included in this heading, but not strips of tie material simply cut on the cross.\nThe heading does not cover:\n(a) Ties, bow ties and cravats, knitted or crocheted (heading 61.17).\n(b) Rabats, jabots and similar articles of heading 62.17."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6215.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ tơ tằm hoặc phế liệu tơ tằm",
+        "en": "Of silk or silk waste"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6215.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ sợi nhân tạo",
+        "en": "Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6215.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ vật liệu dệt khác",
+        "en": "Of other textile materials"
+      }
+    }
+  ]
+}

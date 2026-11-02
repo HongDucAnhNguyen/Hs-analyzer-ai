@@ -1,0 +1,65 @@
+{
+  "heading_id": "85.46",
+  "heading_title": {
+    "vi": "Vật cách điện làm bằng vật liệu bất kỳ.",
+    "en": "Electrical insulators of any material."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các vật cách điện làm từ bất kỳ vật liệu nào, như gốm, sứ, thủy tinh, cao su cứng hoặc plastic. Chức năng chính của chúng là để cố định, đỡ hoặc dẫn hướng các dây dẫn điện, đồng thời cách ly chúng về mặt điện. Kích thước và hình dạng của vật cách điện phụ thuộc vào điện áp và các yếu tố cơ, nhiệt. Nhóm này bao gồm ba loại chính: vật cách điện treo (dùng cho hệ thống ngoài trời như đường dây điện, tàu điện), vật cách điện cứng (dùng để gắn vào cột, tường) và vật cách điện xuyên (để dẫn dây qua tường). Chúng có thể đi kèm các bộ phận kim loại để lắp ráp. Tuy nhiên, nhóm này không bao gồm các phụ kiện cách điện khác cho máy móc thiết bị điện thuộc nhóm 85.47. Các vật cách điện có gắn thiết bị chống sét thuộc nhóm 85.35 và ống luồn dây điện cách điện thuộc nhóm 85.47 cũng bị loại trừ.",
+    "en": "This heading covers electrical insulators of any material, such as ceramics, glass, hardened rubber, or plastics. Their main function is to fix, support, or guide electrical conductors while providing electrical insulation. The size and shape of insulators depend on the voltage and mechanical or thermal considerations. The heading includes three main types: suspension insulators (for outdoor systems like power lines, electric trains), rigid insulators (for mounting on poles or walls), and leading-in insulators (for guiding wires through walls). They may incorporate metal components for assembly purposes. However, this heading excludes other insulating fittings for electrical machinery, which fall under heading 85.47. Insulators equipped with lightning arrester devices of heading 85.35 and insulated electrical conduit tubing of heading 85.47 are also excluded."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Vật cách điện thuộc nhóm này được dùng để cố định, đỡ hoặc dẫn hướng các dây dẫn điện, đồng thời cách ly chúng về điện. Nhóm này không bao gồm các bộ phận cách điện (trừ vật cách điện) cho máy, thiết bị hoặc đồ dùng điện; các bộ phận này được xếp vào nhóm 85.47 nếu chúng được làm hoàn toàn bằng vật liệu cách điện (ngoại trừ các chi tiết kim loại nhỏ được gắn vào chỉ nhằm mục đích lắp ráp). Kích thước của vật cách điện thường liên quan đến điện áp, và hình dạng của chúng bị ảnh hưởng bởi các yếu tố điện, nhiệt và cơ. Bề mặt bên ngoài rất nhẵn để ngăn chặn sự lắng đọng của các chất dẫn điện như nước, muối, bụi, oxit và khói.",
+        "en": "Insulators of this heading are used for the fixing, supporting or guiding of electric current conductors while at the same time insulating them electrically. The heading excludes insulating fittings (other than insulators) for electrical machinery, appliances or equipment; these fittings fall in heading 85.47 if they consist wholly of insulating material (apart from any minor components of metal incorporated during moulding solely for purposes of assembly). There is usually a relation between the size of the insulator and the voltage, and the shape of the insulators is influenced by electric, thermic and mechanical considerations. The external surface is very smooth in order to prevent the formation of deposits of non-insulating materials, such as water, salts, dusts, oxides and smoke."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Vật cách điện thường có dạng chuông, dạng xếp nếp, hình trụ hoặc các dạng khác, một số loại có thể chứa dầu để ngăn sự nhiễm bẩn bề mặt. Chúng có thể được làm từ bất kỳ vật liệu cách điện nào như gốm (sứ, steatite), thủy tinh, bazan nóng chảy, cao su cứng, plastic hoặc vật liệu cách điện tổng hợp. Chúng có thể bao gồm các thiết bị cố định bằng kim loại. Vật cách điện có gắn các sừng kim loại hoặc các bộ phận khác tạo thành thiết bị chống sét bị loại trừ (nhóm 85.35). Các loại vật cách điện thuộc nhóm này bao gồm: (A) Vật cách điện treo (kiểu chuỗi treo, kiểu cầu, chuông, ròng rọc); (B) Các vật cách điện cứng (có hoặc không có giá đỡ); (C) Các vật cách điện xuyên (dạng nón, đĩa, măng sông, ống). Nhóm này cũng không bao gồm ống dẫn dây điện và các khớp nối của chúng được cách điện (nhóm 85.47).",
+        "en": "Insulators are often given bell, accordion, grooved, cylinder or other shapes; certain types may contain oil to prevent contamination of the surface. They may be made of any insulating material such as ceramic material (porcelain, steatite), glass, fused basalt, hardened rubber, plastics or compounded insulating materials. They may contain metal fixing devices. Insulators equipped with metal horns or guard shields or other devices to form lightning arresters are excluded (heading 85.35). The insulators of this heading include: (A) Suspension insulators (chain suspension insulators, ball, bell, pulley insulators); (B) Rigid insulators (with or without supports); (C) Leading-in insulators (cone, disc, sleeves, pipes and tubular bends). The heading excludes insulated electrical conduit tubing and joints therefor (heading 85.47)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8546.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng thủy tinh",
+        "en": "- Of glass"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8546.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng gốm, sứ",
+        "en": "- Of ceramics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8546.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

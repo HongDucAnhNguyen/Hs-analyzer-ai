@@ -1,0 +1,127 @@
+{
+  "heading_id": "63.04",
+  "heading_title": {
+    "vi": "Các sản phẩm trang trí nội thất khác, trừ các loại thuộc nhóm 94.04.",
+    "en": "Other furnishing articles, excluding those of heading 94.04."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các sản phẩm trang trí nội thất bằng vật liệu dệt dùng trong nhà, công trình công cộng, tàu thủy, ô tô, v.v., trừ các sản phẩm thuộc các nhóm trước hoặc nhóm 94.04. Các sản phẩm này bao gồm màn phủ tường, sản phẩm dệt dùng cho nghi lễ, màn chống muỗi, khăn trải giường, vỏ nệm, vỏ bọc đồ đạc, tấm phủ bàn, khăn phủ bệ lò sưởi, ri-đô và diềm (trừ loại thuộc nhóm 63.03). Nhóm này không bao gồm vỏ bọc giường thuộc nhóm 94.04, tấm phủ sàn thuộc Chương 57 và chụp đèn thuộc nhóm 94.05.",
+    "en": "This heading covers furnishing articles of textile materials for use in homes, public buildings, ships, motor-cars, etc., other than those of the preceding headings or of heading 94.04. These articles include wall hangings, textile furnishings for ceremonies, mosquito nets, bedspreads, cushion covers, loose covers for furniture, table covers, mantlepiece runners, curtain loops, and valances (other than those of heading 63.03). This heading does not include bed coverings of heading 94.04, floor coverings of Chapter 57, or lampshades of heading 94.05."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các sản phẩm làm bằng chất liệu dệt trang bị trong nhà, trừ các sản phẩm thuộc các nhóm trước đó hoặc thuộc nhóm 94.04, để dùng trong nhà, các tòa nhà công cộng, nhà hát, nhà thờ,... và các sản phẩm tương tự dùng trên tàu thủy, toa tàu hỏa, máy bay, xe rơ-móoc dùng làm nhà ở, ô tô,...",
+        "en": "This heading covers furnishing articles of textile materials, other than those of the preceding headings or of heading 94.04, for use in the home, public buildings, theatres, churches, etc., and similar articles used in ships, railway carriages, aircraft, trailer caravans, motor-cars, etc."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các sản phẩm này bao gồm màn phủ tường và các sản phẩm dệt dùng cho các các nghi thức, nghi lễ (ví dụ như: đám tang hoặc đám cưới); màn chống muỗi hoặc màn ngủ (bao gồm màn ngủ chi tiết tại Chú giải Phân nhóm 1 Chương này); khăn trải giường (nhưng không bao gồm vỏ bọc; giường thuộc nhóm 94.04); vỏ nệm, vỏ bọc mềm dùng để phủ, che đồ đạc, áo ghế;",
+        "en": "These articles include wall hangings and textile furnishings for ceremonies (e.g., weddings or funerals); mosquito nets or bed nets (including bed nets specified in Subheading Note 1 to this Chapter); bedspreads (but not including bed coverings of heading 94.04); cushion covers, loose covers for furniture, antimacassars;"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "tấm phủ bàn (trừ các sản phẩm có các đặc trưng của tấm phủ sàn - xem Chú giải 1 của chương 57); khăn phủ bệ lò sưởi, ri-đô; diềm (trừ các sản phẩm thuộc nhóm 63.03).",
+        "en": "table covers (other than those having the characteristics of floor coverings - see Note 1 to Chapter 57); mantlepiece runners; curtain loops; valances (other than those of heading 63.03)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm chụp đèn (nhóm 94.05).",
+        "en": "The heading does not include lampshades (heading 94.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Các bộ khăn phủ giường (bedspreads):",
+        "en": "Bedspreads:"
+      },
+      "subheading_id": "6304.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dệt kim hoặc móc",
+        "en": "Knitted or crocheted"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Các bộ khăn phủ giường (bedspreads):",
+        "en": "Bedspreads:"
+      },
+      "subheading_id": "6304.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6304.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Màn ngủ được chi tiết tại Chú giải Phân nhóm 1 Chương này",
+        "en": "Bed nets specified in Subheading Note 1 to this Chapter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "6304.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dệt kim hoặc móc",
+        "en": "Knitted or crocheted"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "6304.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không dệt kim hoặc móc, từ bông",
+        "en": "Not knitted or crocheted, of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "6304.93",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không dệt kim hoặc móc, từ sợi tổng hợp",
+        "en": "Not knitted or crocheted, of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "6304.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Không dệt kim hoặc móc, từ vật liệu dệt khác",
+        "en": "Not knitted or crocheted, of other textile materials"
+      }
+    }
+  ]
+}

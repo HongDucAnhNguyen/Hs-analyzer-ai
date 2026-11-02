@@ -1,0 +1,74 @@
+{
+  "heading_id": "85.21",
+  "heading_title": {
+    "vi": "Thiết bị ghi hoặc tái tạo video, có hoặc không gắn bộ phận thu tín hiệu video.",
+    "en": "Video recording or reproducing apparatus, whether or not incorporating a video tuner."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các thiết bị ghi hoặc tái tạo video, có hoặc không tích hợp bộ thu tín hiệu video. Nhóm này bao gồm: (A) Các thiết bị ghi và kết hợp ghi với tái tạo video, sử dụng phương pháp ghi từ tính hoặc quang học trên các phương tiện như băng hoặc đĩa. Các thiết bị này ghi lại hình ảnh và âm thanh từ máy quay hình, máy thu hình hoặc máy xử lý dữ liệu tự động. (B) Các thiết bị chỉ dùng để tái tạo hình ảnh và âm thanh đã được ghi sẵn trên các phương tiện truyền thông trực tiếp trên thiết bị thu truyền hình. Bộ phận và phụ kiện của các thiết bị thuộc nhóm này được phân loại tại nhóm 85.22. Nhóm này không bao gồm: (a) Phương tiện ghi âm của nhóm 85.23; (b) Camera video (nhóm 85.25); và (c) Thiết bị thu dùng cho truyền hình, màn hình video và máy chiếu video (nhóm 85.28).",
+    "en": "This heading covers video recording or reproducing apparatus, whether or not incorporating a video tuner. It includes: (A) Recording and combined recording and reproducing apparatus, which use magnetic or optical recording methods on media such as tapes or discs. These apparatus record images and sound from television cameras, television receivers, or automatic data processing machines. (B) Apparatus designed only to reproduce prerecorded images and sound directly on a television receiver. Parts and accessories for the apparatus of this heading are classified in heading 85.22. This heading excludes: (a) The recording media of heading 85.23; (b) Video cameras (heading 85.25); and (c) Reception apparatus for television, video monitors and video projectors (heading 85.28)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) CÁC THIẾT BỊ GHI VÀ KẾT HỢP GHI VỚI TÁI TẠO VIDEO\nĐây là các thiết bị mà khi được kết nối với một máy quay hình, hoặc một máy thu hình, ghi trên môi trường xung điện (tín hiệu tương tự) hoặc các tín hiệu tương tự đã biến đổi thành mã kỹ thuật số (hoặc sự kết hợp của những thứ này) mà tương ứng với hình ảnh và âm thanh thu được bởi máy quay hình hoặc được nhận bởi một bộ ghi hình. Nhìn chung các hình ảnh và âm thanh được ghi lên cùng một phương tiện. Phương pháp ghi có thể bằng từ tính hoặc quang học và phương tiện ghi thường là băng hoặc đĩa.\nNhóm này cũng bao gồm các thiết bị ghi, thường là trên đĩa từ, mã kỹ thuật số tương ứng với hình ảnh video và âm thanh, bằng cách chuyển đổi các mã kỹ thuật số từ một máy xử lý dữ liệu tự động (ví dụ, máy ghi video kỹ thuật số).",
+        "en": "(A) RECORDING AND COMBINED RECORDING AND REPRODUCING APPARATUS\nThese are apparatus which, when connected to a television camera or a television receiver, record on media electric impulses (analogue signals) or analogue signals converted into digital code (or a combination of these) which correspond to the images and sound captured by a television camera or received by a television receiver. Generally the images and sound are recorded on the same media. The method of recording can be by magnetic or optical means and the recording media is usually tapes or discs.\nThe heading also includes apparatus which record, generally on a magnetic disc, digital code representing video images and sound, by transferring the digital code from an automatic data processing machine (e.g., digital video recorders)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Trong máy ghi từ tính trên băng, hình ảnh và âm thanh được ghi trên các rãnh khác nhau trên băng trong khi máy ghi từ tính trên đĩa hình ảnh và âm thanh được ghi dưới dạng đường từ tính hoặc vết từ trong các rãnh xoắn ốc trên bề mặt của đĩa.\nTrong các thiết bị ghi quang học, dữ liệu kỹ thuật số tương ứng với hình ảnh và âm thanh được mã hoá bằng tia laze chiếu lên đĩa.\nThiết bị ghi video nhận tín hiệu từ các bộ thu truyền hình cũng được gắn một thiết bị dò sóng có khả năng chọn lựa các tín hiệu (hoặc kênh) mong muốn (kênh) từ dải tần số của tín hiệu được truyền bởi trạm phát sóng truyền hình.\nKhi được sử dụng để tái tạo video, các thiết bị biến đổi bản ghi thành tín hiệu video. Các tín hiệu này được chuyển trên trạm phát sóng hoặc qua thiết bị thu hình.",
+        "en": "In magnetic recording on tape the images and sound are recorded on different hacks on the tape whereas in magnetic recording on disc the images and sound are recorded as magnetic patterns or spots in spiral hacks on the surface of the disc.\nIn optical recording, digital data representing the images and sound are encoded by a laser onto a disc.\nVideo recording apparatus which receive signals from a television receiver also incorporate a tuner which enables selection of the desired signal (or channel) from the frequency band of signals transmitted by the television transmitting station.\nWhen used for reproduction, the apparatus convert the recording into video signals. These signals are passed on either to a transmitting station or to a television receiver."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) THIẾT BỊ TÁI TẠO\nThiết bị này được thiết kế chỉ để tái tạo hình ảnh và âm thanh trực tiếp trên thiết bị thu truyền hình. Các phương tiện truyền thông được sử dụng trong những thiết bị này được ghi trước đó bằng phương pháp cơ học khí, bằng từ tính hoặc quang học lên các thiết bị ghi đặc biệt. Ví dụ:\n(1) Thiết bị sử dụng các đĩa mà trong đó dữ liệu hình ảnh âm thanh đuợc lưu trữ trên đĩa bởi các cách khác nhau và được đọc bằng hệ thống đọc laze quang học, cảm ứng điện dung, cảm ứng áp lực hoặc đầu từ. Theo Chú giải 3 Phần XVI, thiết bị mà có thể tái tạo cả hình ảnh và âm thanh được phân loại ở nhóm này.\n(2) Các thiết bị giải mã và biến đổi dữ liệu hình ảnh được ghi trên phim nhạy sáng thành tín hiệu video (âm thanh được ghi bằng phương pháp từ tính trên cùng một phim).",
+        "en": "(B) REPRODUCING APPARATUS\nThese apparatus are designed only to reproduce images and sound directly on a television receiver. The media to be used in these instruments are prerecorded mechanically, magnetically or optically on special recording equipment. The following are examples of such apparatus:\n(1) Apparatus using discs in which the image and sound data are stored on the disc by various methods and picked up by a laser optical reading system, capacitive sensor, pressure sensor or magnetic head. Subject to Note 3 to Section XVI, apparatus which are capable of reproducing both video and audio recordings are to be classified in this heading.\n(2) Apparatus that decodes and converts into a video signal image data recorded on a light sensitive film (the sound being recorded by a magnetic process on the same film)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "BỘ PHẬN VÀ PHỤ KIỆN\nTheo quy tắc chung phân loại các bộ phận (xem Chú giải Chi tiết Tổng quát Phần XVI), bộ phận và phụ kiện của sản phẩm thuộc nhóm này được phân loại ở ở nhóm 85.22.",
+        "en": "PARTS AND ACCESSORIES\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts and accessories of the apparatus of this heading are classified in heading 85.22."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Phương tiện ghi âm của nhóm 85.23.\n(b) Camera video (nhóm 85.25).\n(c) Thiết bị thu dùng cho truyền hình (có hoặc không gắn với thiết bị thu sóng đài phát thanh, thiết bị ghi hoặc tái tạo âm thanh hoặc hình ảnh) và các màn hình video và máy chiếu video (nhóm 85.28).",
+        "en": "The heading excludes:\n(a) The recording media of heading 85.23.\n(b) Video cameras (heading 85.25).\n(c) Reception apparatus for television (whether or not incorporating radio-broadcast receivers or sound or video recording or reproducing apparatus) and video monitors and video projectors (heading 85.28)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8521.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng băng từ",
+        "en": "Magnetic tape-type"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8521.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

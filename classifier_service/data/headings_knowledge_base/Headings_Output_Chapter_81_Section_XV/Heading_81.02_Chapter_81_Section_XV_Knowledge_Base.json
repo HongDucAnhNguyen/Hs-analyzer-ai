@@ -1,0 +1,94 @@
+{
+  "heading_id": "81.02",
+  "heading_title": {
+    "vi": "Molypđen và các sản phẩm làm từ molypđen, kể cả phế liệu và mảnh vụn.",
+    "en": "Molybdenum and articles thereof, including waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm molypđen và các sản phẩm làm từ molypđen ở các dạng như bột, dạng chưa gia công (thanh và que thiêu kết), các dạng đã gia công (thanh, que, dạng hình, tấm, lá, dải, lá mỏng, dây), phế liệu, mảnh vụn và các sản phẩm khác. Nhóm này không bao gồm các hợp kim molypđen trong đó molypđen không phải là thành phần chiếm ưu thế theo Chú giải 5 Phần XV, và ferro-molypđen (Chương 72). Chú giải chi tiết của Nhóm 81.01 liên quan đến các dạng thương mại và phân loại cacbua vonfram cũng được áp dụng cho nhóm này.",
+    "en": "This heading covers molybdenum and its articles, in forms such as powders, unwrought forms (sintered bars and rods), worked forms (bars, rods, profiles, plates, sheets, strip, foil, wire), waste and scrap, and other articles. The heading excludes molybdenum alloys in which molybdenum is not the predominant metal according to Note 5 to Section XV, and ferro-molybdenum (Chapter 72). The Explanatory Note to Heading 81.01 concerning the marketed forms and classification of tungsten carbide also applies, mutatis mutandis, to this heading."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Molipden chủ yếu thu được từ quặng Molipden (Sunphít Molipden) và wulfenite (Molipdat chì) chúng được thu gom bởi quá trình thu gom nổi, được chuyển thành dạng oxit và sau đó được khử với kim loại. Kim loại thu được hoặc ở dạng bánh ép phù hợp cho quá trình cán kéo...hoặc ở dạng bột mà nó có thể được thiêu kết như Volfram (xem Chú giải Chi tiết nhóm 81.01).\nMolipden ở dạng ép giống như chì về bề ngoài nhưng cực kỳ rắn và nóng chảy ở nhiệt độ cao. Nó có thể dát mỏng và chống lại sự ăn mòn ở nhiệt độ thường.\nMolipđen được sử dụng (hoặc như kim loại hoặc dạng ferro-molipden, thuộc Chương 72) cho việc sản xuất thép hợp kim. Kim loại Molipđen cũng được sử dụng trong các cọc đỡ dây tóc bóng đèn điện, mạng lưới của đèn điện tử, nguyên tố hóa học dùng trong lò điện, các bộ nắn dòng điện và các công tắc điện. Nó cũng được sử dụng trong nha khoa, và như là một chất thay thế cho Platinum trong đồ trang sức bởi nó không bị xỉn.\nCác hợp kim Molipđen trong sử dụng thông thường không chứa một hàm lượng vượt trội đối với Molipden và bởi vậy nó cũng bị loại trừ khỏi nhóm này theo Chú giải 5 Phần XV.\nDo việc luyện kim của Molipden giống như của Volfram, phần thứ hai của chú giải chi tiết nhóm 81.01 (liên quan tới các dạng mà kim loại được bán trên thị trường, và việc phân loại của cacbua) với sửa đổi chi tiết phù hợp cũng được áp dụng cho nhóm này.",
+        "en": "Molybdenum is mainly obtained from the ores molybdenite (molybdenum sulphide) and wulfenite (lead molybdate) which are concentrated by flotation, converted into the oxide and then reduced to the metal. The metal is obtained either in a compact form suitable for rolling, drawing, etc., or as a powder which can be sintered like tungsten (see the Explanatory Note to heading 81.01).\nMolybdenum in the compact form resembles lead in appearance, but it is extremely hard and melts at a high temperature. It is malleable and, at normal temperatures, resists corrosion.\nMolybdenum is used (either as the metal or as ferro molybdenum, of Chapter 72) for the manufacture of alloy steels. Molybdenum metal is also used in filament supports for electric light bulbs; grids of electronic valves; elements for electric furnaces; current rectifiers and electric contacts. It is also used in dentistry, and as a substitute for platinum in jewellery because it does not tarnish.\nThe molybdenum alloys in general use do not contain a predominance of molybdenum and are therefore excluded from this heading in accordance with Note 5 to Section XV.\nSince the metallurgy of molybdenum resembles that of tungsten, the second part of the Explanatory Note to heading 81.01 (concerning the forms in which the metal is marketed, and the classification of the carbide) applies, mutatis mutandis, to this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8102.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bột",
+        "en": "- Powders"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "8102.94",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Molypđen chưa gia công, kể cả thanh và que thu được từ quá trình thiêu kết",
+        "en": "- - Unwrought molybdenum, including bars and rods obtained simply by sintering"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "8102.95",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Thanh và que, trừ các loại thu được từ quá trình thiêu kết, dạng hình, tấm, lá, dải và lá mỏng",
+        "en": "- - Bars and rods, other than those obtained simply by sintering, profiles, plates, sheets, strip and foil"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "8102.96",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Dây",
+        "en": "- - Wire"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "8102.97",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Phế liệu và mảnh vụn",
+        "en": "- - Waste and scrap"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other:"
+      },
+      "subheading_id": "8102.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "heading_id": "85.39",
+  "heading_title": {
+    "vi": "Bóng đèn dây tóc hoặc bóng đèn phóng điện, kể cả đèn pha gắn kín và bóng đèn tia cực tím hoặc tia hồng ngoại; bóng đèn hồ quang; đèn đi-ốt phát quang (LED).",
+    "en": "Electric filament or discharge lamps, including sealed beam lamp units and ultra-violet or infra-red lamps; arc-lamps; light-emitting diode (LED) lamps."
+  },
+  "summary": {
+    "vi": "Nhóm 85.39 bao gồm tất cả các loại đèn điện, được thiết kế để biến đổi năng lượng điện thành ánh sáng, bao gồm đèn dây tóc (kể cả halogen), đèn phóng điện (huỳnh quang, neon, hơi natri/thủy ngân), đèn hồ quang, và đèn đi-ốt phát quang (LED). Nhóm này cũng áp dụng cho các sản phẩm chuyên dụng như đèn pha gắn kín, đèn tia cực tím cho y tế, và đèn tia hồng ngoại dùng làm nguồn nhiệt. Chú giải phân loại đèn theo nguyên lý hoạt động, từ sợi đốt nóng sáng đến phóng điện trong khí hoặc hơi. Nhóm này còn bao gồm các mô-đun LED không đui và đèn LED hoàn chỉnh có đui, cùng với các bộ phận như đui đèn và điện cực. Tuy nhiên, nhóm loại trừ vỏ thủy tinh (nhóm 70.11), đèn điện trở (nhóm 85.33), tắc te khởi động (nhóm 85.36), đèn điện tử (nhóm 85.40), đi-ốt phát quang (nhóm 85.41), thiết bị phát quang điện (nhóm 85.43), và carbon đèn hồ quang (nhóm 85.45).",
+    "en": "Heading 85.39 covers all types of electric lamps designed to convert electrical energy into light, including filament lamps (including halogen), discharge lamps (fluorescent, neon, sodium/mercury vapor), arc-lamps, and light-emitting diode (LED) lamps. This heading also applies to specialized products like sealed beam lamp units, ultra-violet lamps for medical use, and infra-red lamps used as heat sources. The notes classify lamps by their operating principle, from incandescent filaments to electric discharges in gas or vapor. The heading also includes baseless LED modules and complete LED lamps with bases, along with parts such as lamp bases and electrodes. However, the heading excludes glass envelopes (heading 70.11), resistance lamps (heading 85.33), starters (heading 85.36), thermionic valves (heading 85.40), light-emitting diodes (heading 85.41), electro-luminescent devices (heading 85.43), and arc-lamp carbons (heading 85.45)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các đèn điện có vỏ bọc bằng thủy tinh hoặc thạch anh, chứa các bộ phận cần thiết để biến đổi năng lượng điện thành ánh sáng (bao gồm tia hồng ngoại hoặc tia cực tím). Nhóm này bao gồm đèn dây tóc, đèn phóng điện hơi hoặc khí, đèn hồ quang và đèn đi-ốt phát quang (LED), dù có thiết kế đặc biệt hay không.",
+        "en": "This heading covers all electric light lamps, which consist of glass or quartz containers containing the necessary elements for converting electrical energy into light rays (including infra-red or ultra-violet rays). The heading covers filament lamps, gas or vapour discharge lamps, arc-lamps and light-emitting diode (LED) lamps, whether or not specially designed for particular uses."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) ĐÈN PHA GẮN KÍN: Gồm một thấu kính, phản xạ và sợi đốt nằm kín bên trong đèn nạp khí hoặc đèn chân không, thường được thiết kế để gắn vào thân xe ô tô.",
+        "en": "(A) SEALED BEAM LAMP UNITS: Consist of a lens, reflector, and a filament sealed within a gas-filled or vacuum-type lamp, sometimes designed for incorporation in the bodywork of cars."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) CÁC LOẠI ĐÈN DÂY TÓC KHÁC (trừ đèn tia cực tím hoặc hồng ngoại): Ánh sáng được tạo ra bởi sợi đốt (kim loại hoặc carbon) nóng lên do dòng điện. Vỏ thủy tinh được hút chân không hoặc chứa khí trơ. Đui đèn có thể dạng xoắn vít hoặc lưỡi lê. Đèn có nhiều hình dạng: hình cầu, quả lê, ngọn lửa, ống (thẳng hoặc cong), và các hình dạng đặc biệt để trang trí. Nhóm này cũng bao gồm đèn halogen.",
+        "en": "(B) OTHER FILAMENT LAMPS (excluding ultra-violet or infra-red lamps): Light is produced by a filament (metal or carbon) heated by an electric current. The glass envelope is either evacuated or filled with an inert gas. The base may be of the screw or bayonet type. Lamps come in various shapes: spherical, pear-shaped, flame-shaped, tubular (straight or curved), and special shapes for decoration. This group also covers halogen lamps."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(C) ĐÈN PHÓNG ĐIỆN (trừ đèn tia cực tím): Có vỏ bằng thủy tinh hoặc thạch anh, chứa khí hoặc chất tạo hơi phát quang dưới tác động của sự phóng điện giữa các điện cực. Một số đèn được phủ chất huỳnh quang để tăng hiệu suất. Chúng có thể hoạt động ở điện áp cao hoặc thấp.",
+        "en": "(C) DISCHARGE LAMPS (other than ultra-violet lamps): Consist of a glass or quartz envelope containing a gas or a substance that gives off a vapour which becomes luminous under an electric discharge between electrodes. Some lamps are coated with fluorescent substances to increase efficiency. They may operate on high or low voltages."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các kiểu đèn phóng điện chính bao gồm: (1) Đèn ống phóng điện trong môi trường khí (neon, heli, argon, nitơ, CO2), kể cả đèn chớp dùng trong nhiếp ảnh; (2) Đèn hơi natri; (3) Đèn hơi thủy ngân; (4) Đèn kép chứa khí (kết hợp sợi đốt và phóng điện); (5) Đèn halogen kim loại; (6) Đèn ống xenon và đèn ống chữ số; (7) Đèn phóng điện quang phổ và đèn phóng điện phát sáng. Chúng được dùng để chiếu sáng trong nhà, đường phố, nhà máy, trang trí hoặc quảng cáo.",
+        "en": "The principal types of discharge lamps include: (1) Gas discharge tubes (neon, helium, argon, nitrogen, carbon dioxide), including flashing discharge lamps for photography; (2) Sodium vapour lamps; (3) Mercury vapour lamps; (4) Gas filled dual lamps (combining filament and gas discharge); (5) Metal halide lamps; (6) Xenon and alphanumeric tubes; (7) Spectral discharge and glow discharge lamps. They are used for domestic, street, factory lighting, decoration, or publicity purposes."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(D) ĐÈN TIA CỰC TÍM HOẶC TIA HỒNG NGOẠI: Đèn tia cực tím thường là ống thạch anh chứa thủy ngân, dùng trong y học, phòng thí nghiệm, diệt khuẩn (gồm cả đèn ánh sáng đen). Đèn tia hồng ngoại là đèn sợi đốt được thiết kế đặc biệt để tạo ra tia hồng ngoại, thường có lớp phản xạ bên trong, dùng trong y khoa hoặc làm nguồn nhiệt công nghiệp.",
+        "en": "(D) ULTRA-VIOLET AND INFRA-RED LAMPS: Ultra-violet lamps, usually quartz tubes containing mercury, are used for medical, laboratory, or germicidal purposes (including black light lamps). Infra-red lamps are filament lamps specially designed to produce infra-red rays, often with an internal reflector, used for medical purposes or as an industrial heat source."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(E) ĐÈN HỒ QUANG: Ánh sáng được phát ra bởi hồ quang giữa hai điện cực (thường là carbon hoặc vonfram). Chúng là những thiết bị phức tạp, có thể có cơ chế tự động để duy trì khoảng cách điện cực, không đơn thuần là phần tử chiếu sáng.",
+        "en": "(E) ARC-LAMPS: Light is emitted by an arc between two electrodes (generally of carbon or tungsten). They are complex apparatus, and may have automatic mechanisms to maintain the electrode distance, not merely simple lighting elements."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(F) MÔ-ĐUN ĐI-ỐT PHÁT QUANG (LED): Ánh sáng được tạo ra bởi một hoặc nhiều LED gắn trên bảng mạch in. Các mô-đun này không có đui đèn (dạng xoáy, cài) nhưng có thể có đầu nối điện và mạch điều khiển điện áp và dòng điện (bộ điều khiển nguồn).",
+        "en": "(F) LIGHT-EMITTING DIODE (LED) MODULES: Light is produced by one or more LEDs mounted on a printed circuit board. These modules do not have a cap (base) (e.g., screw, bayonet type) but may have electric connectors and circuitry for power control."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(G) ĐÈN ĐI-ỐT PHÁT QUANG (LED): Ánh sáng được tạo ra bởi một hoặc nhiều LED. Đèn này gồm lớp vỏ, một hoặc nhiều LED, mạch điện và đui đèn (dạng xoáy, cài) để gắn vào đui đèn. Chúng có thể có tấm tản nhiệt hoặc bộ chỉnh lưu. Đèn có nhiều hình dạng khác nhau (cầu, quả lê, ống, trang trí).",
+        "en": "(G) LIGHT-EMITTING DIODE (LED) LAMPS: Light is produced by one or more LEDs. These lamps consist of an envelope, one or more LEDs, circuitry, and a cap (base) (e.g., screw, bayonet type) for fixing in a lamp-holder. They may contain a heat sink or a rectifier. The lamps come in various shapes (spherical, pear, tubular, decorative)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "BỘ PHẬN: Theo Chú giải Tổng quát của Phần XVI, các bộ phận của hàng hóa thuộc nhóm này cũng được phân loại ở đây. Chúng bao gồm: (1) Đui dùng cho đèn huỳnh quang, đèn phóng điện và bóng đèn; (2) Điện cực kim loại cho bóng và ống đèn phóng.",
+        "en": "PARTS: Subject to the General Explanatory Note to Section XVI, parts of the goods of this heading are also classified here. They include: (1) Bases for incandescent and discharge electric lamps and bulbs; (2) Metal electrodes for discharge lamps and tubes."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (a) Các vỏ bằng thủy tinh và các chi tiết bằng thủy tinh dùng cho đèn (nhóm 70.11); (b) Các đèn điện trở có sợi đốt bằng carbon hoặc sắt trong hydro (nhóm 85.33).",
+        "en": "The heading excludes: (a) Glass envelopes and glass parts for lamps (heading 70.11); (b) Resistance lamps with carbon filaments or iron filaments in hydrogen (heading 85.33)."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (c) Các chuyển mạch nhiệt điện tự động (tắc te) dùng để mồi cho đèn huỳnh quang (nhóm 85.36); (d) Các đèn điện tử và ống điện tử dùng nhiệt điện tử (nhóm 85.40); (e) Đi ốt phát quang (LED) (nhóm 85.41); (f) Các thiết bị phát quang điện dạng dải, tấm hoặc panel (nhóm 85.43); (g) Carbon của đèn hồ quang và các sợi đốt bằng carbon (nhóm 85.45).",
+        "en": "The heading excludes: (c) Automatic thermo-electric switches (starters) for starting fluorescent lamps (heading 85.36); (d) Thermionic valves and tubes (heading 85.40); (e) Light emitting diodes (LED) (heading 85.41); (f) Electro-luminescent devices in strips, plates or panels (heading 85.43); (g) Arc-lamp carbons and carbon filaments (heading 85.45)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8539.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đèn pha gắn kín (sealed beam lamp units)",
+        "en": "Sealed beam lamp units"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Các loại bóng đèn dây tóc khác, trừ bóng đèn tia cực tím hoặc tia hồng ngoại:",
+        "en": "- Other filament lamps, excluding ultra-violet or infra-red lamps:"
+      },
+      "subheading_id": "8539.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bóng đèn ha-lo-gien vonfram",
+        "en": "Tungsten halogen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Các loại bóng đèn dây tóc khác, trừ bóng đèn tia cực tím hoặc tia hồng ngoại:",
+        "en": "- Other filament lamps, excluding ultra-violet or infra-red lamps:"
+      },
+      "subheading_id": "8539.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, có công suất không quá 200 W và điện áp trên 100 V",
+        "en": "Other, of a power not exceeding 200 W and for a voltage exceeding 100 V"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Các loại bóng đèn dây tóc khác, trừ bóng đèn tia cực tím hoặc tia hồng ngoại:",
+        "en": "- Other filament lamps, excluding ultra-violet or infra-red lamps:"
+      },
+      "subheading_id": "8539.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bóng đèn phóng, trừ đèn tia cực tím:",
+        "en": "- Discharge lamps, other than ultra-violet lamps:"
+      },
+      "subheading_id": "8539.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bóng đèn huỳnh quang, ca-tốt nóng",
+        "en": "Fluorescent, hot cathode"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bóng đèn phóng, trừ đèn tia cực tím:",
+        "en": "- Discharge lamps, other than ultra-violet lamps:"
+      },
+      "subheading_id": "8539.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bóng đèn hơi thủy ngân hoặc natri; bóng đèn ha-lo-gien kim loại",
+        "en": "Mercury or sodium vapour lamps; metal halide lamps"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bóng đèn phóng, trừ đèn tia cực tím:",
+        "en": "- Discharge lamps, other than ultra-violet lamps:"
+      },
+      "subheading_id": "8539.39",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bóng đèn tia cực tím hoặc bóng đèn tia hồng ngoại; đèn hồ quang:",
+        "en": "- Ultra-violet or infra-red lamps; arc-lamps:"
+      },
+      "subheading_id": "8539.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Đèn hồ quang",
+        "en": "Arc-lamps"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Bóng đèn tia cực tím hoặc bóng đèn tia hồng ngoại; đèn hồ quang:",
+        "en": "- Ultra-violet or infra-red lamps; arc-lamps:"
+      },
+      "subheading_id": "8539.49",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Nguồn sáng đi-ốt phát quang (LED)",
+        "en": "- Light-emitting diode (LED) light sources:"
+      },
+      "subheading_id": "8539.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Mô-đun đi-ốt phát quang (LED)",
+        "en": "Light-emitting diode (LED) modules"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Nguồn sáng đi-ốt phát quang (LED)",
+        "en": "- Light-emitting diode (LED) light sources:"
+      },
+      "subheading_id": "8539.52",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bóng đèn đi-ốt phát quang (LED)",
+        "en": "Light-emitting diode (LED) lamps"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8539.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

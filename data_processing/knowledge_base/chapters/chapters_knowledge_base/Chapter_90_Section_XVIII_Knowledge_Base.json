@@ -1,0 +1,451 @@
+{
+  "chapter_id": "90",
+  "chapter_title": {
+    "vi": "Dụng cụ và thiết bị quang học, nhiếp ảnh, điện ảnh, đo lường, kiểm tra, chính xác, y tế hoặc phẫu thuật; các bộ phận và phụ kiện của chúng",
+    "en": "Optical, photographic, cinematographic, measuring, checking, precision, medical or surgical instruments and apparatus; parts and accessories thereof"
+  },
+  "summary": {
+    "vi": "Chương 90 bao gồm một loạt các dụng cụ và thiết bị có độ chính xác cao, chủ yếu dùng cho mục đích khoa học, công nghiệp chuyên ngành và y tế. Các sản phẩm chính bao gồm dụng cụ quang học như thấu kính (nhóm 90.01, 90.02), kính hiển vi (nhóm 90.11) và kính thiên văn (nhóm 90.05); các thiết bị đo lường, kiểm tra và điều khiển (nhóm 90.31, 90.32); và các dụng cụ y tế, phẫu thuật, nha khoa (nhóm 90.18, 90.21). Chú giải 1 của chương liệt kê một danh sách dài các mặt hàng bị loại trừ, đáng chú ý là các sản phẩm bằng cao su (nhóm 40.16), da (nhóm 42.05), vật liệu dệt (Phần XI), và nhiều loại máy móc thuộc Chương 84 và 85. Chú giải 2 đưa ra quy tắc phân loại cho các bộ phận và phụ kiện, ưu tiên phân loại chúng vào nhóm riêng nếu có, nếu không thì phân loại cùng máy chính, và các trường hợp khác xếp vào nhóm 90.33. Các chú giải khác làm rõ phạm vi của các nhóm cụ thể, ví dụ như kính ngắm (nhóm 90.13) và dụng cụ chỉnh hình (nhóm 90.21).",
+    "en": "Chapter 90 covers a wide range of high-precision instruments and apparatus, mainly for scientific, specialized industrial, and medical purposes. Key products include optical instruments like lenses (headings 90.01, 90.02), microscopes (heading 90.11), and telescopes (heading 90.05); measuring, checking, and controlling devices (headings 90.31, 90.32); and medical, surgical, or dental instruments (headings 90.18, 90.21). Note 1 of the chapter provides a long list of exclusions, notably articles of rubber (heading 40.16), leather (heading 42.05), textile materials (Section XI), and various machinery from Chapters 84 and 85. Note 2 establishes classification rules for parts and accessories, prioritizing their specific headings if available, otherwise classifying them with the main apparatus, with other cases falling into heading 90.33. Other notes clarify the scope of specific headings, such as for telescopic sights (heading 90.13) and orthopaedic appliances (heading 90.21)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1: Chương này không bao gồm: (a) Các mặt hàng kỹ thuật bằng cao su lưu hoá (nhóm 40.16), da thuộc hoặc da tổng hợp (nhóm 42.05), vật liệu dệt (nhóm 59.11).",
+        "en": "Note 1: This Chapter does not cover: (a) Articles for technical uses of vulcanised rubber (heading 40.16), leather or composition leather (heading 42.05), or textile material (heading 59.11)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1(b): Băng, đai trợ giúp bằng vật liệu dệt đàn hồi (ví dụ: đai cho phụ nữ có thai) thuộc Phần XI.",
+        "en": "Note 1(b): Supporting belts or other support articles of textile material from Section XI."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1(c): Hàng hóa chịu lửa thuộc nhóm 69.03; đồ gốm sứ dùng trong phòng thí nghiệm hoặc mục đích kỹ thuật khác thuộc nhóm 69.09.",
+        "en": "Note 1(c): Refractory goods of heading 69.03; ceramic wares for laboratory or other technical uses of heading 69.09."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1(d): Gương thủy tinh chưa gia công quang học (nhóm 70.09), hoặc gương bằng kim loại cơ bản hoặc kim loại quý không phải là bộ phận quang học (nhóm 83.06 hoặc Chương 71).",
+        "en": "Note 1(d): Glass mirrors, not optically worked (heading 70.09), or mirrors of base metal or precious metal that are not optical elements (heading 83.06 or Chapter 71)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1(e): Hàng hóa thuộc các nhóm 70.07, 70.08, 70.11, 70.14, 70.15 hoặc 70.17.",
+        "en": "Note 1(e): Goods of headings 70.07, 70.08, 70.11, 70.14, 70.15 or 70.17."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1(f): Các bộ phận công dụng chung bằng kim loại cơ bản (Phần XV) hoặc plastic (Chương 39) theo định nghĩa của Chú giải 2 Phần XV; trừ các mặt hàng cấy ghép trong y tế, phẫu thuật, nha khoa hoặc thú y được xếp vào nhóm 90.21.",
+        "en": "Note 1(f): Parts of general use of base metal (Section XV) or plastics (Chapter 39) as defined in Note 2 to Section XV; except for articles for implants in medical, surgical, dental or veterinary sciences, which are classified in heading 90.21."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1(g): Bơm có thiết bị đo lường (nhóm 84.13); máy đếm hoặc kiểm tra bằng cân (nhóm 84.23); máy nâng hạ (nhóm 84.25 đến 84.28); máy cắt giấy hoặc bìa (nhóm 84.41); phụ kiện cho máy công cụ (nhóm 84.66); máy tính (nhóm 84.70); van (nhóm 84.81); máy và thiết bị chiếu hoặc vẽ mạch điện lên vật liệu bán dẫn (nhóm 84.86).",
+        "en": "Note 1(g): Pumps with measuring devices (heading 84.13); weight-operated counting or checking machinery (heading 84.23); lifting or handling machinery (headings 84.25 to 84.28); paper or paperboard cutting machines (heading 84.41); fittings for machine-tools (heading 84.66); calculating machines (heading 84.70); valves (heading 84.81); machines and apparatus for projection or drawing of circuit patterns on semiconductor materials (heading 84.86)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 1(h): Đèn pha hoặc đèn rọi cho xe (nhóm 85.12); đèn điện xách tay (nhóm 85.13); máy ghi và tái tạo âm thanh (nhóm 85.19); đầu từ ghi âm (nhóm 85.22); camera các loại (nhóm 85.25); thiết bị ra đa và dẫn đường (nhóm 85.26); đầu nối sợi quang (nhóm 85.36); thiết bị điều khiển số (nhóm 85.37); đèn pha gắn kín (nhóm 85.39); cáp sợi quang (nhóm 85.44).",
+        "en": "Note 1(h): Searchlights for vehicles (heading 85.12); portable electric lamps (heading 85.13); sound recording/reproducing apparatus (heading 85.19); sound-heads (heading 85.22); cameras (heading 85.25); radar and radio apparatus (heading 85.26); optical fibre connectors (heading 85.36); numerical control apparatus (heading 85.37); sealed beam lamp units (heading 85.39); optical fibre cables (heading 85.44)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 1(ij): Đèn pha hoặc đèn rọi thuộc nhóm 94.05.",
+        "en": "Note 1(ij): Searchlights or spotlights of heading 94.05."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 1(k): Các mặt hàng thuộc Chương 95.",
+        "en": "Note 1(k): Articles of Chapter 95."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 1(l): Chân đế một chân (monopod), hai chân (bipod), ba chân (tripod) và các mặt hàng tương tự thuộc nhóm 96.20.",
+        "en": "Note 1(l): Monopods, bipods, tripods and similar articles of heading 96.20."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 1(m): Dụng cụ đo dung tích, được phân loại theo vật liệu cấu thành.",
+        "en": "Note 1(m): Capacity measures, classified according to their constituent material."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 1(n): Suốt chỉ, ống hoặc lõi tương tự (phân loại theo vật liệu cấu thành, ví dụ nhóm 39.23 hoặc Phần XV).",
+        "en": "Note 1(n): Spools, reels or similar supports (classified according to their constituent material, e.g., in heading 39.23 or Section XV)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 2: Quy tắc phân loại các bộ phận và phụ kiện: (a) Các bộ phận và phụ kiện là hàng hóa thuộc bất kỳ nhóm nào trong Chương 84, 85, 90 hoặc 91 (trừ các nhóm 84.87, 85.48 hoặc 90.33) phải được phân loại vào nhóm riêng của chúng.",
+        "en": "Note 2: Rules for classifying parts and accessories: (a) Parts and accessories which are goods of any heading in Chapter 84, 85, 90 or 91 (other than 84.87, 85.48 or 90.33) are to be classified in their respective headings."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 2(b): Các bộ phận và phụ kiện khác, nếu chỉ dùng hoặc chủ yếu dùng cho một loại máy, thiết bị, dụng cụ riêng biệt (kể cả của nhóm 90.10, 90.13 hoặc 90.31), được phân loại cùng loại đó.",
+        "en": "Note 2(b): Other parts and accessories, if for use solely or principally with a particular machine or apparatus (including of heading 90.10, 90.13 or 90.31), are to be classified with that kind."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 2(c): Tất cả các bộ phận và phụ kiện khác được phân loại trong nhóm 90.33.",
+        "en": "Note 2(c): All other parts and accessories are to be classified in heading 90.33."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 3: Các quy định trong Chú giải 3 và 4 của Phần XVI cũng áp dụng cho Chương này.",
+        "en": "Note 3: The provisions of Notes 3 and 4 to Section XVI also apply to this Chapter."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 4: Kính ngắm dùng để lắp vào vũ khí, kính tiềm vọng cho tàu ngầm hoặc xe tăng, hoặc kính viễn vọng cho máy, thiết bị của Chương này hoặc của Phần XVI, được phân loại vào nhóm 90.13, không thuộc nhóm 90.05.",
+        "en": "Note 4: Telescopic sights for fitting to arms, periscopic telescopes for submarines or tanks, or telescopes for machines/apparatus of this Chapter or Section XVI, are to be classified in heading 90.13, not heading 90.05."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 5: Những dụng cụ, thiết bị hoặc máy quang học dùng để đo hoặc kiểm tra có thể phân loại ở cả nhóm 90.13 và 90.31 thì phải xếp vào nhóm 90.31.",
+        "en": "Note 5: Measuring or checking optical instruments, appliances or machines which could be classified in both heading 90.13 and 90.31 are to be classified in heading 90.31."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 6: Theo mục đích của nhóm 90.21, thuật ngữ \"các dụng cụ chỉnh hình\" là các dụng cụ dùng để ngăn ngừa hoặc điều chỉnh biến dạng cơ thể; hoặc trợ giúp, nẹp giữ các bộ phận cơ thể sau khi bị bệnh, phẫu thuật hoặc bị thương.",
+        "en": "Note 6: For the purposes of heading 90.21, the expression “orthopaedic appliances” means appliances for preventing or correcting bodily deformities; or supporting or holding parts of the body following an illness, operation or injury."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải 7: Nhóm 90.32 chỉ áp dụng với: (a) Các thiết bị và dụng cụ điều khiển tự động dòng chảy, mức, áp suất hoặc biến số khác của chất lỏng/khí, hoặc nhiệt độ. (b) Các thiết bị điều chỉnh tự động các đại lượng điện và phi điện.",
+        "en": "Note 7: Heading 90.32 applies only to: (a) Instruments and apparatus for automatically controlling the flow, level, pressure or other variables of liquids or gases, or for automatically controlling temperature. (b) Automatic regulators of electrical and non-electrical quantities."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nội dung và bố cục của chương: Chương này bao gồm các loại dụng cụ và thiết bị có độ hoàn thiện và chính xác cao, sử dụng chủ yếu cho mục đích khoa học (nghiên cứu, phân tích, thiên văn học), kỹ thuật chuyên ngành (đo lường, kiểm tra) hoặc y học.",
+        "en": "General content and arrangement of the chapter: This Chapter covers a variety of instruments and apparatus characterized by their high finish and precision, used mainly for scientific (research, analysis, astronomy), specialized technical (measuring, checking) or medical purposes."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chương này bao gồm: (A) Các bộ phận quang học đơn giản (nhóm 90.01, 90.02) và các dụng cụ quang học từ kính đeo mắt (nhóm 90.04) đến các dụng cụ phức tạp hơn. (B) Dụng cụ cho mục đích sử dụng nhất định (trắc địa học, khí tượng). (C) Dụng cụ dùng trong y học, phẫu thuật, nha khoa hoặc thú y. (D) Máy móc dùng để kiểm tra vật liệu.",
+        "en": "The Chapter includes: (A) Simple optical elements (headings 90.01, 90.02) and optical instruments from spectacles (heading 90.04) to more complex instruments. (B) Instruments for specific uses (surveying, meteorology). (C) Instruments for medical, surgical, dental or veterinary uses. (D) Machines for testing materials."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Chương này bao gồm: (E) Dụng cụ và thiết bị phòng thí nghiệm. (F) Nhóm lớn các dụng cụ đo lường, kiểm tra hoặc điều chỉnh tự động, đặc biệt là nhóm 90.32. Ví dụ cụ thể bao gồm kính hiển vi (nhóm 90.11, 90.12), dụng cụ thiên văn (nhóm 90.05), dụng cụ quan trắc (nhóm 90.15), máy tia X (nhóm 90.22), và thiết bị chân không y tế (nhóm 90.18).",
+        "en": "The Chapter includes: (E) Laboratory instruments and appliances. (F) A large group of measuring, checking or automatically controlling instruments, particularly those of heading 90.32. Specific examples include microscopes (headings 90.11, 90.12), astronomical instruments (heading 90.05), surveying instruments (heading 90.15), X-ray apparatus (heading 90.22), and vacuum apparatus for medical use (heading 90.18)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Ngoại lệ: Chương này cũng bao gồm các loại có độ chính xác không cao như kính bảo hộ thông thường (nhóm 90.04), kính lúp đơn giản (nhóm 90.13), thước học sinh (nhóm 90.17) và ẩm kế trang trí (nhóm 90.25).",
+        "en": "Exceptions: The Chapter also covers low-precision items such as ordinary goggles (heading 90.04), simple magnifying glasses (heading 90.13), school rules (heading 90.17) and fancy hygrometers (heading 90.25)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Máy móc, thiết bị chưa hoàn chỉnh: Theo Quy tắc 2(a), các máy móc chưa hoàn chỉnh nhưng có đặc tính cơ bản của sản phẩm hoàn chỉnh được phân loại cùng với sản phẩm hoàn chỉnh.",
+        "en": "Incomplete or unfinished machines: According to Rule 2(a), incomplete machines having the essential character of the complete article are classified with the complete article."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Bộ phận và phụ kiện: Theo Chú giải 2, các bộ phận và phụ tùng được phân loại cùng máy móc. Quy tắc này không áp dụng cho các bộ phận tự nó đã là một mặt hàng thuộc một nhóm cụ thể của Chương 84, 85 hoặc 91 (trừ các nhóm 84.87, 85.48 hoặc 90.33).",
+        "en": "Parts and accessories: According to Note 2, parts and accessories are classified with the machines. This rule does not apply to parts which in themselves constitute articles of a specific heading of Chapter 84, 85 or 91 (other than headings 84.87, 85.48 or 90.33)."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Ví dụ về các bộ phận được phân loại riêng: bơm chân không (nhóm 84.14), các bộ phận điện (Chương 85), bộ phận quang học (nhóm 90.01 hoặc 90.02), máy đồng hồ (Chương 91), máy ảnh (nhóm 90.06). Các bộ phận dùng cho nhiều loại máy móc khác nhau thuộc Chương này được phân loại vào nhóm 90.33.",
+        "en": "Examples of separately classified parts: vacuum pumps (heading 84.14), electrical components (Chapter 85), optical elements (heading 90.01 or 90.02), clock movements (Chapter 91), cameras (heading 90.06). Parts suitable for use with several categories of machines of this Chapter are classified in heading 90.33."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Máy móc đa chức năng hoặc tổ hợp: Chú giải 3 của Chương này áp dụng các quy định của Chú giải 3 và 4 Phần XVI. Máy móc đa chức năng được phân loại theo chức năng chính. Tổ hợp máy móc được phân loại theo chức năng chính của cả tổ hợp.",
+        "en": "Multi-function or composite machines: Note 3 to this Chapter applies the provisions of Notes 3 and 4 to Section XVI. Multi-function machines are classified according to the principal function. Composite machines are classified according to the principal function of the composite apparatus."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Bộ phận chức năng: Chương này bao gồm các hệ thống đo từ xa bằng kỹ thuật tương tự hoặc kỹ thuật số, bao gồm các thiết bị ở đầu truyền (máy dò, khuếch đại, phát) và đầu nhận (nhận, khuếch đại, báo/ghi). Các thiết bị truyền và thu có dây hoặc vô tuyến được phân loại trong các nhóm 85.17, 85.25 hoặc 85.27 trừ khi chúng được kết hợp thành một khối hoặc tạo thành một bộ phận chức năng theo Chú giải 3 của Chương 90.",
+        "en": "Functional Units: This Chapter covers analogue or digital telemetering systems, including devices at the transmitting end (detector, amplifier, transmitter) and receiving end (receiver, amplifier, indicator/recorder). Line or radio transmitters and receivers are classified in headings 85.17, 85.25 or 85.27 unless combined as a single unit or forming a functional unit under Note 3 to Chapter 90."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "90.01",
+      "heading_title": {
+        "vi": "Sợi quang và bó sợi quang; cáp sợi quang trừ các loại thuộc nhóm 85.44; vật liệu phân cực dạng tấm và lá; thấu kính (kể cả thấu kính áp tròng), lăng kính, gương và các bộ phận quang học khác, bằng vật liệu bất kỳ, chưa lắp ráp, trừ loại bằng thủy tinh chưa gia công về mặt quang học.",
+        "en": "Optical fibres and optical fibre bundles; optical fibre cables other than those of heading 85.44; sheets and plates of polarising material; lenses (including contact lenses), prisms, mirrors and other optical elements, of any material, unmounted, other than such elements of glass not optically worked."
+      }
+    },
+    {
+      "heading_id": "90.02",
+      "heading_title": {
+        "vi": "Thấu kính, lăng kính, gương và các bộ phận quang học khác, bằng vật liệu bất kỳ, đã lắp ráp, là các bộ phận hoặc phụ kiện để lắp ráp cho các dụng cụ hoặc thiết bị, trừ loại làm bằng thủy tinh chưa được gia công quang học.",
+        "en": "Lenses, prisms, mirrors and other optical elements, of any material, mounted, being parts of or fittings for instruments or apparatus, other than such elements of glass not optically worked."
+      }
+    },
+    {
+      "heading_id": "90.03",
+      "heading_title": {
+        "vi": "Khung và gọng cho kính đeo, kính bảo hộ hoặc các loại tương tự, và các bộ phận của chúng.",
+        "en": "Frames and mountings for spectacles, goggles or the like, and parts thereof."
+      }
+    },
+    {
+      "heading_id": "90.04",
+      "heading_title": {
+        "vi": "Kính đeo, kính bảo hộ và các loại tương tự, kính thuốc, kính bảo vệ mắt hoặc loại khác.",
+        "en": "Spectacles, goggles and the like, corrective, protective or other."
+      }
+    },
+    {
+      "heading_id": "90.05",
+      "heading_title": {
+        "vi": "Ống nhòm loại hai mắt, ống nhòm đơn, kính viễn vọng quang học khác, và khung giá của các loại trên; các dụng cụ thiên văn khác và khung giá của chúng, trừ các dụng cụ dùng cho thiên văn học vô tuyến.",
+        "en": "Binoculars, monoculars, other optical telescopes, and mountings therefor; other astronomical instruments and mountings therefor, but not including instruments for radio-astronomy."
+      }
+    },
+    {
+      "heading_id": "90.06",
+      "heading_title": {
+        "vi": "Máy ảnh (trừ máy quay phim); thiết bị đèn chớp và đèn flash máy ảnh trừ đèn phóng điện thuộc nhóm 85.39.",
+        "en": "Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 85.39."
+      }
+    },
+    {
+      "heading_id": "90.07",
+      "heading_title": {
+        "vi": "Máy quay phim và máy chiếu phim, có hoặc không kèm thiết bị ghi hoặc tái tạo âm thanh.",
+        "en": "Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus."
+      }
+    },
+    {
+      "heading_id": "90.08",
+      "heading_title": {
+        "vi": "Máy chiếu hình ảnh, trừ máy chiếu phim; máy phóng và máy thu nhỏ ảnh (trừ máy chiếu phim).",
+        "en": "Image projectors, other than cinematographic; photographic (other than cinematographic) enlargers and reducers."
+      }
+    },
+    {
+      "heading_id": "90.10",
+      "heading_title": {
+        "vi": "Máy và thiết bị dùng trong phòng làm ảnh (kể cả điện ảnh), chưa được ghi hay chi tiết ở nơi nào khác thuộc Chương này; máy xem âm bản; màn ảnh của máy chiếu.",
+        "en": "Apparatus and equipment for photographic (including cinematographic) laboratories, not specified or included elsewhere in this Chapter; negatoscopes; projection screens."
+      }
+    },
+    {
+      "heading_id": "90.11",
+      "heading_title": {
+        "vi": "Kính hiển vi quang học phức hợp, kể cả loại để xem vi ảnh, vi phim quay hay vi chiếu.",
+        "en": "Compound optical microscopes, including those for photomicrography, cinephotomicrography or microprojection."
+      }
+    },
+    {
+      "heading_id": "90.12",
+      "heading_title": {
+        "vi": "Kính hiển vi trừ kính hiển vi quang học; thiết bị nhiễu xạ.",
+        "en": "Microscopes other than optical microscopes; diffraction apparatus."
+      }
+    },
+    {
+      "heading_id": "90.13",
+      "heading_title": {
+        "vi": "Thiết bị tạo tia laser, trừ điốt laser; các thiết bị và dụng cụ quang học khác, chưa được nêu hay chi tiết ở nơi nào khác trong Chương này.",
+        "en": "Lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this Chapter."
+      }
+    },
+    {
+      "heading_id": "90.14",
+      "heading_title": {
+        "vi": "La bàn xác định phương hướng; các thiết bị và dụng cụ dẫn đường khác.",
+        "en": "Direction finding compasses; other navigational instruments and appliances."
+      }
+    },
+    {
+      "heading_id": "90.15",
+      "heading_title": {
+        "vi": "Thiết bị và dụng cụ dùng để quan trắc (kể cả quan trắc ảnh), dùng cho thủy văn học, hải dương học, thủy học, khí tượng học hoặc địa lý học, trừ la bàn; máy đo xa.",
+        "en": "Surveying (including photogrammetrical surveying), hydrographic, oceanographic, hydrological, meteorological or geophysical instruments and appliances, excluding compasses; rangefinders."
+      }
+    },
+    {
+      "heading_id": "90.16",
+      "heading_title": {
+        "vi": "Cân với độ nhậy 5cg (50mg) hoặc chính xác hơn, có hoặc không có quả cân.",
+        "en": "Balances of a sensivity of 5 eg or better, with or without weights."
+      }
+    },
+    {
+      "heading_id": "90.17",
+      "heading_title": {
+        "vi": "Dụng cụ vẽ, vạch mức dấu hay dụng cụ tính toán toán học (ví dụ, máy vẽ phác, máy vẽ truyền, thước đo góc, bộ đồ vẽ, thước logarit, bàn tính dùng đĩa); dụng cụ đo chiều dài, dùng tay (ví dụ, thước thanh và thước dây, thước micromet, thước cặp), chưa được chi tiết hoặc ghi ở nơi khác trong Chương này.",
+        "en": "Drawing, marking-out or mathematical calculating instruments (for example, drafting machines, pantographs, protractors, drawing sets, slide rules, disc calculators); instruments for measuring length, for use in the hand (for example, measuring rods and tapes, micrometers, callipers), not specified or included elsewhere in this Chapter."
+      }
+    },
+    {
+      "heading_id": "90.18",
+      "heading_title": {
+        "vi": "Thiết bị và dụng cụ dùng cho ngành y, phẫu thuật, nha khoa hoặc thú y, kể cả thiết bị ghi biểu đồ nhấp nháy, thiết bị điện y học khác và thiết bị kiểm tra thị lực(+).",
+        "en": "Instruments and appliances used in medical, surgical, dental or veterinaiy sciences, including scintigraphic apparatus, other electro-medical apparatus and sight-testing instruments (+)."
+      }
+    },
+    {
+      "heading_id": "90.19",
+      "heading_title": {
+        "vi": "Thiết bị trị liệu cơ học; máy xoa bóp; máy thử nghiệm trạng thái tâm lý; máy trị liệu bằng ôzôn, bằng oxy, bằng xông, máy hô hấp nhân tạo hoặc máy hô hấp trị liệu khác.",
+        "en": "Mechano-therapy appliances; massage apparatus; psychological aptitude-testing apparatus; ozone therapy, oxygen therapy, aerosol therapy, artificial respiration or other therapeutic respiration apparatus."
+      }
+    },
+    {
+      "heading_id": "90.20",
+      "heading_title": {
+        "vi": "Thiết bị thở và mặt nạ phòng khí khác, trừ các mặt nạ bảo hộ mà không có bộ phận cơ khí hoặc không có phin lọc có thể thay thế được.",
+        "en": "Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters."
+      }
+    },
+    {
+      "heading_id": "90.21",
+      "heading_title": {
+        "vi": "Dụng cụ chỉnh hình, kể cả nạng, băng dùng trong phẫu thuật và băng cố định; nẹp và các dụng cụ cố định vết gẫy khác; các bộ phận nhân tạo của cơ thể người; thiết bị trợ thính và dụng cụ khác được lắp hoặc mang theo, hoặc cấy vào cơ thể, để bù đắp khuyết tật hay sự suy giảm của một bộ phận cơ thể.",
+        "en": "Orthopaedic appliances, including crutches, surgical belts and trusses; splints and other fracture appliances; artificial parts of the body; hearing aids and other appliances which are worn or carried, or implanted in the body, to compensate for a defect or disability."
+      }
+    },
+    {
+      "heading_id": "90.22",
+      "heading_title": {
+        "vi": "Thiết bị sử dụng tia X hoặc tia phóng xạ alpha, beta, gamma hoặc các bức xạ ion hóa khác, có hoặc không dùng cho mục đích y học, phẫu thuật, nha khoa hay thú y, kể cả thiết bị chụp hoặc thiết bị điều trị bằng các tia đó, ống phát tia X và thiết bị tạo tia X khác, thiết bị tạo tia cường độ cao, bảng và bàn điều khiển, màn hình, bàn, ghế và các loại tương tự, dùng để khám hoặc điều trị (+).",
+        "en": "Apparatus based on the use of X-rays or of alpha, beta, gamma or other ionising radiations, whether or not for medical, surgical, dental or veterinaiy uses, including radiography or radiotherapy apparatus, X-ray tubes and other X ray generators, high tension generators, control panels and desks, screens, examination or treatment tables, chairs and the like (+)."
+      }
+    },
+    {
+      "heading_id": "90.23",
+      "heading_title": {
+        "vi": "Các dụng cụ, máy và mô hình, được thiết kế cho mục đích trưng bày (ví dụ, dùng trong giáo dục hoặc triển lãm), không sử dụng được cho các mục đích khác.",
+        "en": "Instruments, apparatus and models, designed for demonstrational purposes (for example, in education or exhibitions), unsuitable for other uses."
+      }
+    },
+    {
+      "heading_id": "90.24",
+      "heading_title": {
+        "vi": "Máy và thiết bị thử độ cứng, độ bền, độ nén, độ đàn hồi hoặc các tính chất cơ học khác của vật liệu (ví dụ, kim loại, gỗ, hàng dệt, giấy, plastic).",
+        "en": "Machines and appliances for testing the hardness, strength, compressibility, elasticity or other mechanical properties of materials (for example, metals, wood, textiles, paper, plastics)."
+      }
+    },
+    {
+      "heading_id": "90.25",
+      "heading_title": {
+        "vi": "Tỷ trọng kế và các dụng cụ đo dạng nổi tương tự, nhiệt kế, hoả kế, khí áp kế, ẩm kế, có hoặc không ghi, và tổ hợp của chúng.",
+        "en": "Hydrometers and similar floating instruments, thermometers, pyrometers, barometers, hygrometers and psychrometers, recording or not, and any combination of these instruments."
+      }
+    },
+    {
+      "heading_id": "90.26",
+      "heading_title": {
+        "vi": "Dụng cụ và máy đo hoặc kiểm tra lưu lượng, mức, áp suất hoặc biến số của chất lỏng hoặc chất khí (ví dụ, dụng cụ đo lưu lượng, dụng cụ đo mức, áp kế, nhiệt kế), trừ các dụng cụ và thiết bị thuộc nhóm 90.14, 90.15, 90.28 hoặc 90.32.",
+        "en": "Instruments and apparatus for measuring or checking the flow, level, pressure or other variables of liquids or gases (for example, flowmeters, level gauges, manometers, heat meters), excluding instruments and apparatus of heading 90.14, 90.15, 90.28 or 90.32."
+      }
+    },
+    {
+      "heading_id": "90.27",
+      "heading_title": {
+        "vi": "Dụng cụ và thiết bị phân tích lý hoặc hóa học (ví dụ, máy đo phân cực, đo khúc xạ, quang phổ kế, máy phân tích khí hoặc khói); dụng cụ và thiết bị đo hoặc kiểm tra độ nhớt, độ xốp, độ giãn nở, sức căng bề mặt hoặc các loại tương tự; dụng cụ và thiết bị đo hoặc kiểm tra nhiệt lượng, âm lượng hoặc ánh sáng (kể cả máy đo độ phơi sáng); thiết bị vi phẫu.",
+        "en": "Instruments and apparatus for physical or chemical analysis (for example, polarimeters, refractometers, spectrometers, gas or smoke analysis apparatus); instruments and apparatus for measuring or checking viscosity, porosity, expansion, surface tension or the like; instruments and apparatus for measuring or checking quantities of heat, sound or light (including exposure meters); microtomes."
+      }
+    },
+    {
+      "heading_id": "90.28",
+      "heading_title": {
+        "vi": "Thiết bị đo khí, chất lỏng hoặc lượng điện được sản xuất hoặc cung cấp, kể cả thiết bị kiểm định các thiết bị trên.",
+        "en": "Gas, liquid or electricity supply or production meters, including calibrating meters therefor."
+      }
+    },
+    {
+      "heading_id": "90.29",
+      "heading_title": {
+        "vi": "Máy đếm vòng quay, máy đếm sản lượng, máy đếm cây số để tính tiền taxi, máy đếm dặm, máy đo bước và máy tương tự; đồng hồ chỉ tốc độ và máy đo tốc độ gốc, trừ các loại máy thuộc nhóm 90.14 hoặc 90.15; máy hoạt nghiệm.",
+        "en": "Revolution counters, production counters, taximeters, mileometers, pedometers and the like; speed indicators and tachometers, other than those of heading 90.14 or 90.15; stroboscopes."
+      }
+    },
+    {
+      "heading_id": "90.30",
+      "heading_title": {
+        "vi": "Máy hiện sóng, máy phân tích phổ và các dụng cụ và thiết bị khác để đo hoặc kiểm tra đại lượng điện, trừ các loại máy thuộc nhóm 90.28; các thiết bị và dụng cụ đo hoặc phát hiện tia alpha, beta, gamma, tia X, bức xạ vũ trụ hoặc các bức xạ ion khác (+).",
+        "en": "Oscilloscopes, spectrum analysers and other instruments and apparatus for measuring or checking electrical quantities, excluding meters of heading 90.28; instruments and apparatus for measuring or detecting alpha, beta, gamma, X-ray, cosmic or other ionising radiations (+)."
+      }
+    },
+    {
+      "heading_id": "90.31",
+      "heading_title": {
+        "vi": "Máy, thiết bị và dụng cụ đo lường hoặc kiểm tra, chưa được ghi hay chi tiết ở nơi khác trong Chương này; máy chiếu biên dạng (+).",
+        "en": "Measuring or checking instruments, appliances and machines, not specified or included elsewhere in this Chapter; profile projectors (+)."
+      }
+    },
+    {
+      "heading_id": "90.32",
+      "heading_title": {
+        "vi": "Dụng cụ và thiết bị điều chỉnh hoặc điều khiển tự động.",
+        "en": "Automatic regulating or controlling instruments and apparatus."
+      }
+    },
+    {
+      "heading_id": "90.33",
+      "heading_title": {
+        "vi": "Bộ phận và phụ kiện (chưa được chi tiết hoặc ghi ở các nhóm khác thuộc Chương này) dùng cho máy, thiết bị, dụng cụ hoặc đồ dùng thuộc Chương 90.",
+        "en": "Parts and accessories (not specified or included elsewhere in this Chapter) for machines, appliances, instruments or apparatus of Chapter 90."
+      }
+    }
+  ]
+}

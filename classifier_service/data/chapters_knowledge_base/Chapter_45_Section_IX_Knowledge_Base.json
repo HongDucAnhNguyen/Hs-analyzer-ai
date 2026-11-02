@@ -1,0 +1,66 @@
+{
+  "chapter_id": "45",
+  "chapter_title": {
+    "vi": "Lie và các sản phẩm bằng lie",
+    "en": "Cork and articles of cork"
+  },
+  "summary": {
+    "vi": "Chương này bao gồm lie tự nhiên và lie kết dính ở mọi dạng, cũng như các sản phẩm làm từ chúng. Lie tự nhiên được đề cập từ dạng thô hoặc sơ chế, phế liệu, và dạng ép, nghiền thành hạt hoặc bột (Nhóm 45.01); dạng đã bóc vỏ, đẽo thô hoặc ở dạng khối, tấm, lá, dải (Nhóm 45.02); và các sản phẩm hoàn chỉnh như nút, nắp đậy, đĩa, miếng đệm, phao, thảm lót (Nhóm 45.03). Chương này cũng bao gồm lie kết dính (có hoặc không có chất gắn) và các sản phẩm làm từ nó, thường dùng làm vật liệu xây dựng cách nhiệt hoặc cách âm (Nhóm 45.04).\n\nChương này không bao gồm:\n(a) Giày dép hoặc các bộ phận của giày dép thuộc Chương 64;\n(b) Mũ và các vật đội đầu khác hay các bộ phận của chúng thuộc Chương 65;\n(c) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể thao, phao nổi cho dây câu cá);\n(d) Nút đậy hình vương miện bằng kim loại cơ bản có vòng đệm bằng lie (Nhóm 83.09);\n(e) Nùi đạn cát tút (cartridge) bằng lie (Nhóm 93.06).",
+    "en": "This Chapter covers natural and agglomerated cork in all forms, as well as articles thereof. Natural cork is covered from its raw or simply prepared state, waste, and crushed, granulated or ground form (Heading 45.01); debacked, roughly squared, or in blocks, plates, sheets or strip (Heading 45.02); and finished articles such as corks, stoppers, discs, washers, buoys, mats (Heading 45.03). The Chapter also includes agglomerated cork (with or without a binding substance) and articles thereof, often used as insulating or soundproofing building materials (Heading 45.04).\n\nThis Chapter does not cover:\n(a) Footwear or parts of footwear of Chapter 64;\n(b) Headgear or parts of headgear of Chapter 65;\n(c) Articles of Chapter 95 (for example, toys, games, sports requisites, fishing-line floats);\n(d) Crown corks of base metal lined with cork discs (Heading 83.09);\n(e) Cork cartridge wads (Heading 93.06)."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "1.- Chương này không bao gồm:\n(a) Giày dép hoặc các bộ phận của giày dép thuộc Chương 64;\n(b) Mũ và các vật đội đầu khác hay các bộ phận của chúng thuộc Chương 65; hoặc\n(c) Các mặt hàng thuộc Chương 95 (ví dụ, đồ chơi, thiết bị trò chơi, dụng cụ, thiết bị thể thao).",
+        "en": "1.- This Chapter does not cover:\n(a) Footwear or parts of footwear of Chapter 64;\n(b) Headgear or parts of headgear of Chapter 65; or\n(c) Articles of Chapter 95 (for example, toys, games, sports requisites)."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Lie thu được hầu như chỉ từ vỏ ngoài của cây sồi- lie (Quercus suber). Lần bóc vỏ đầu tiên gọi là lie “nguyên thủy” (virgin), có chất lượng thấp. Các lần thu hoạch tiếp theo quan trọng hơn về phương diện thương mại, rắn chắc và đồng nhất.",
+        "en": "Cork is obtained almost exclusively from the outer bark of the cork-oak (Quercus suber). The first stripping of bark is known as “virgin” cork and is of inferior quality. Subsequent yields are commercially more important, being compact and homogeneous."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Lie nhẹ, đàn hồi, có thể nén được, mềm, không thấm nước, không mục rữa, và là chất kém dẫn nhiệt và kém dẫn truyền âm. Chương này bao gồm lie tự nhiên và lie kết dính ở mọi dạng (kể cả các mặt hàng từ lie và lie kết dính), trừ các loại đã bị loại trừ ở phần cuối Chú giải chi tiết nhóm 45.03.",
+        "en": "Cork is light, elastic, compressible, flexible, waterproof, rotproof, and a bad conductor of heat and sound. This Chapter covers natural and agglomerated cork in all forms (including articles of cork and agglomerated cork), other than those excluded at the end of the Explanatory Note to heading 45.03."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "45.01",
+      "heading_title": {
+        "vi": "Lie tự nhiên, thô hoặc đã sơ chế; lie phế liệu; lie đã ép, nghiền thành hạt hoặc thành bột.",
+        "en": "Natural cork, raw or simply prepared; waste cork; crushed, granulated or ground cork."
+      }
+    },
+    {
+      "heading_id": "45.02",
+      "heading_title": {
+        "vi": "Lie tự nhiên, đã bóc vỏ hoặc đã đẽo thô thành hình vuông, hoặc ở dạng khối, tấm, lá, hình chữ nhật (kể cả hình vuông) hoặc dải (kể cả dạng phôi lie đã cắt cạnh dùng làm nút hoặc nắp đậy).",
+        "en": "Natural cork, debacked or roughly squared, or in rectangular (including square) blocks, plates, sheets or strip (including sharp-edged blanks for corks or stoppers)."
+      }
+    },
+    {
+      "heading_id": "45.03",
+      "heading_title": {
+        "vi": "Các sản phẩm bằng lie tự nhiên (+).",
+        "en": "Articles of natural cork (+)."
+      }
+    },
+    {
+      "heading_id": "45.04",
+      "heading_title": {
+        "vi": "Lie kết dính (có hoặc không có chất gắn) và các sản phẩm bằng lie kết dính.",
+        "en": "Agglomerated cork (with or without a binding substance) and articles of agglomerated cork."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "heading_id": "28.14",
+  "heading_title": {
+    "vi": "Amoniac, dạng khan hoặc dạng dung dịch nước.",
+    "en": "Ammonia, anhydrous or in aqueous solution."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm amoniac khan (NH3) dạng khí không màu và amoniac trong dung dịch nước (NH4OH), là chất lỏng không màu hoặc vàng nhạt. Amoniac có thể thu được từ quá trình lọc khí than, chế biến than cốc (tham chiếu nhóm 38.25), hoặc tổng hợp từ hydro và nitơ. Nó được sử dụng trong nhiều ngành công nghiệp như sản xuất axit nitric, phân bón, chất tẩy rửa và trong các thiết bị làm lạnh. Nhóm này loại trừ dung dịch cồn của amoniac (nhóm 38.24).",
+    "en": "This heading covers anhydrous ammonia (NH3), a colorless gas, and ammonia in aqueous solution (NH4OH), a colorless or yellowish liquid. Ammonia can be obtained from coal gas purification, coke works (referencing heading 38.25), or by synthesis from hydrogen and nitrogen. It is used in various industries such as the manufacture of nitric acid, fertilisers, detergents, and in refrigerating plants. The heading excludes alcoholic solutions of ammonia (heading 38.24)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Amoniac thu được hoặc từ sản xuất khí ga lỏng amoniac không tinh khiết trong lọc khí than hoặc trong chế biến than cốc (xem Chú giải Chi tiết nhóm 38.25, Phần (A) (3)), hoặc bằng phương pháp tổng hợp từ hydro và nitơ.\nNhóm này bao gồm:\n(1) Amoniac khan (NH3), là dạng khí không màu. Nó nhẹ hơn không khí và dễ hóa lỏng khi nén. Được đựng trong các bình kim loại.\n(2) Amoniac trong dung dịch nước (NH4OH), là dạng hydroxit của “nguyên tố” giả thiết amoni (NH4). Dung dịch này (thường chứa 20, 27 hoặc 34% NH3) là chất lỏng không màu hoặc màu vàng nhạt được đựng trong các bình kín. Dung dịch cồn của amoniac bị loại trừ (nhóm 38.24).\nAmoniac có rất nhiều ứng dụng, ví dụ, trong sản xuất axit nitric và muối nitrat, muối anioni sulphat, các muối amoni khác và các loại phân bón nitơ, carbonat natri, xyanua, amin (ví dụ, naphthylamine). Nó tạo nhũ cho các chất béo và nhựa, và nó có tác dụng như một chất tẩy sạch các vết bẩn, tạo ra các hợp chất đánh bóng, xử lý latec (nhựa mủ cao su), lau chùi vecni,… Amoniac lỏng được sử dụng trong thiết bị làm lạnh.",
+        "en": "Ammonia is obtained either from impure ammoniacal gas liquors produced in coal gas purification or coke works (see Explanatory Note to heading 38.25, Item (A) (3)), or by synthesis from hydrogen and nitrogen.\nThis heading includes:\n(1) Anhydrous ammonia (NH3), a colourless gas. It is less dense than air and easily liquefied by pressure. Presented in metal cylinders.\n(2) Ammonia in aqueous solution (NH4OH), hydroxide of a hypothetical “ element ” ammonium (NH4). These solutions (generally containing 20, 27 or 34 % of NH3) are colourless or yellowish liquids presented in tightly-stoppered containers. Alcoholic solutions of ammonia are excluded (heading 38.24).\nAmmonia has many uses, for example, in the manufacture of nitric acid and nitrates, ammonium sulphate, other ammonium salts and nitrogenous fertilisers, sodium carbonate, cyanides, amines (e.g., naphthylamine). It emulsifies fatty matter and resins, and it acts as a detergent for removing stains, preparing polishing compounds, treating latex, removing varnish, etc. Liquefied ammonia is used in refrigerating plant."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2814.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dạng khan",
+        "en": "Anhydrous ammonia"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2814.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dạng dung dịch nước",
+        "en": "Ammonia in aqueous solution"
+      }
+    }
+  ]
+}

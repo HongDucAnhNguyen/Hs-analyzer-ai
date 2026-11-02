@@ -1,0 +1,77 @@
+{
+  "heading_id": "01.01",
+  "heading_title": {
+    "vi": "Ngựa, lừa, la sống (+).",
+    "en": "Live horses, asses, mules and hinnies (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại ngựa sống (ngựa cái, ngựa đực, ngựa thiến, ngựa con và ngựa nhỏ pony), lừa, la, nuôi hoặc hoang dã. Con la (mule) là con lai giữa lừa đực và ngựa cái. Con la (hinny) là con lai giữa ngựa đực và lừa cái. Theo Chú giải phân nhóm của phân nhóm 0101.21, thuật ngữ 'loại thuần chủng để nhân giống' chỉ bao gồm những động vật giống được các cơ quan quốc gia có thẩm quyền công nhận là 'thuần chủng'.",
+    "en": "This heading covers live horses (mares, stallions, geldings, foals and ponies), asses, mules and hinnies, whether domestic or wild. Mules are the hybrid offspring of the ass and the mare. The hinny is bred from the stallion and the ass. For the purposes of subheading 0101.21, the expression 'pure-bred breeding animals' covers only those breeding animals which are regarded as 'pure-bred' by the competent national authorities."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này gồm các loại ngựa (ngựa cái, ngựa đực, ngựa thiến, ngựa con và ngựa nhỏ (pony)), lừa, la, nuôi hoặc hoang.\nCon la (mule) là con lai giữa lừa đực và ngựa cái. Con la (hinny) là con lai giữa ngựa đực và lừa cái.",
+        "en": "This heading covers horses (mares, stallions, geldings, foals and ponies), asses, mules and hinnies, whether domestic or wild.\nMules are the hybrid offspring of the ass and the mare. The hinny is bred from the stallion and the ass."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 0101.21\nTheo mục đích của phân nhóm 0101.21, thuật ngữ \"loại thuần chủng để nhân giống” chỉ gồm những động vật giống được các cơ quan quốc gia có thẩm quyền công nhận là “thuần chủng”.",
+        "en": "Subheading Explanatory Note.\nSubheading 0101.21\nFor the purposes of subheading 0101.21, the expression “pure-bred breeding animals” covers only those breeding animals which are regarded as “pure-bred” by the competent national authorities."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Ngựa:",
+        "en": "- Horses:"
+      },
+      "subheading_id": "0101.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại thuần chủng để nhân giống",
+        "en": "- - Pure-bred breeding animals"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Ngựa:",
+        "en": "- Horses:"
+      },
+      "subheading_id": "0101.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0101.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Lừa",
+        "en": "- Asses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0101.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "heading_id": "51.12",
+  "heading_title": {
+    "vi": "Vải dệt thoi từ sơi len lông cừu chải kỹ hoặc từ sợi lông động vật loại mịn chải kỹ.",
+    "en": "Woven fabrics of combed wool or of combed fine animal hair."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải dệt thoi được làm từ sợi len lông cừu đã chải kỹ hoặc từ sợi lông động vật loại mịn đã chải kỹ. Các loại vải này rất đa dạng, bao gồm vải may com-lê, vải flannel, vải mềm (molleton) và các loại vải khác dùng để may quần áo, chăn, và làm đồ trang trí nội thất. Tuy nhiên, nhóm này không bao gồm băng y tế (nhóm 30.05) và vải dệt thoi dùng cho mục đích kỹ thuật (nhóm 59.11).",
+    "en": "This heading covers woven fabrics made of yarns of combed wool or of combed fine animal hair. These fabrics exist in great variety and include suitings, flannels, molletons and other fabrics for clothing, blankets, furnishing fabrics, etc. However, the heading does not cover bandages (heading 30.05) and woven fabrics for technical uses (heading 59.11)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm những mặt hàng dệt thoi (đã định nghĩa trong mục (I) (C) của Chú giải Tổng quát Phần XI) làm từ sợi được xe từ lông cừu đã chải kỹ hay lông động vật dạng mịn đã chải kỹ. Những mặt hàng dệt này rất đa dạng như các mặt hàng dùng để may com-lê và các vải khác dùng để may quần áo, hàng dệt làm đồ trang trí nội thất...",
+        "en": "This heading covers woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI) made of yarns of combed wool or of yarns of combed fine animal hair. These fabrics exist in great variety and include suitings and other fabrics for clothing, furnishing fabrics, etc."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm: (a) Băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05). (b) Vải dệt thoi phục vụ cho kỹ thuật trong nhóm 59.11.",
+        "en": "The heading does not cover: (a) Bandages, medicated or put up for retail sale (heading 30.05). (b) Woven fabrics for technical uses, of heading 59.11."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng lông cừu hoặc lông động vật loại mịn chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of wool or of fine animal hair:"
+      },
+      "subheading_id": "5112.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Định lượng không quá 200 g/m2",
+        "en": "- - Of a weight not exceeding 200 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng lông cừu hoặc lông động vật loại mịn chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of wool or of fine animal hair:"
+      },
+      "subheading_id": "5112.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5112.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác, pha chủ yếu hoặc pha duy nhất với sợi filament nhân tạo",
+        "en": "- Other, mixed mainly or solely with man-made filaments"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5112.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác, pha chủ yếu hoặc pha duy nhất với xơ staple nhân tạo",
+        "en": "- Other, mixed mainly or solely with man-made staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5112.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "heading_id": "62.01",
+  "heading_title": {
+    "vi": "Áo khoác ngoài, áo choàng mặc khi đi xe (car-coats), áo khoác không tay, áo choàng không tay, áo khoác có mũ trùm (kể cả áo jacket trượt tuyết), áo gió, áo jacket chống gió và các loại tương tự, dùng cho nam giới hoặc trẻ em trai, trừ các loại thuộc nhóm 62.03.",
+    "en": "Men’s or boys’ overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles, other than those of heading 62.03."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại áo khoác ngoài, áo choàng mặc khi đi xe, áo khoác không tay, áo choàng không tay, áo khoác có mũ trùm (kể cả áo jacket trượt tuyết), áo gió, áo jacket chống gió và các loại tương tự, dùng cho nam giới hoặc trẻ em trai. Các quy định của Chú giải chi tiết nhóm 61.01 được áp dụng tương tự. Tuy nhiên, nhóm này loại trừ các loại hàng hóa thuộc nhóm 62.03 và các loại quần áo làm từ vải thuộc nhóm 56.02, 56.03, 59.03, 59.06 hoặc 59.07 (thuộc nhóm 62.10).",
+    "en": "This heading covers men's or boys' overcoats, car-coats, capes, cloaks, anoraks (including ski-jackets), wind-cheaters, wind-jackets and similar articles. The provisions of the Explanatory Note to heading 61.01 apply, mutatis mutandis. However, this heading excludes articles of heading 62.03 and garments made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07 (heading 62.10)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những quy định của Chú giải chi tiết nhóm 61.01 được áp dụng tương tự nhưng phải có sự sửa đổi sao cho phù hợp đối với các sản phẩm của nhóm này.",
+        "en": "The provisions of the Explanatory Note to heading 61.01 apply, mutatis mutandis, to the articles of this heading."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, nhóm này không bao gồm quần áo làm từ vải thuộc nhóm 56.02, 56.03, 59.03, 59.06 hoặc 59.07 (nhóm 62.10).",
+        "en": "However, the heading does not cover garments made up of fabrics of heading 56.02, 56.03, 59.03, 59.06 or 59.07 (heading 62.10)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6201.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ lông cừu hoặc lông động vật loại mịn",
+        "en": "Of wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6201.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ bông",
+        "en": "Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6201.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ sợi nhân tạo",
+        "en": "Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6201.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ các vật liệu dệt khác",
+        "en": "Of other textile materials"
+      }
+    }
+  ]
+}

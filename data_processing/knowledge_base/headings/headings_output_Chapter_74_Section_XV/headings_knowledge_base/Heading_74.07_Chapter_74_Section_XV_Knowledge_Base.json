@@ -1,0 +1,58 @@
+{
+  "heading_id": "74.07",
+  "heading_title": {
+    "vi": "Đồng ở dạng thanh, que và dạng hình.",
+    "en": "Copper bars, rods and profiles."
+  },
+  "summary": {
+    "vi": "Nhóm 74.07 quy định về đồng ở dạng thanh, que và dạng hình, theo định nghĩa tại Chú giải 9 của Phần XV. Các sản phẩm này được sản xuất bằng các phương pháp như cán, ép đùn, kéo hoặc rèn, và có thể qua các công đoạn hoàn thiện nguội hoặc gia công thêm (như khoan, đột) miễn là không làm thay đổi đặc tính cơ bản của chúng thành sản phẩm thuộc nhóm khác. Nhóm này bao gồm cả các dạng hình rỗng như ống có gờ tạo ra bằng ép đùn. Tuy nhiên, nhóm này loại trừ một số sản phẩm quan trọng. Cụ thể, các ống có gờ được gắn vào bằng cách hàn thường thuộc nhóm 74.19. Các thanh và que được đúc hoặc thiêu kết nếu chỉ được xử lý bề mặt đơn giản (cạo gỉ, cắt sửa) sẽ được phân loại vào nhóm 74.03. Tương tự, các thanh dây và phôi thanh có đầu được chuốt nhọn để dễ dàng đưa vào máy móc gia công cũng thuộc nhóm 74.03.",
+    "en": "Heading 74.07 specifies copper in the form of bars, rods, and profiles, as defined in Note 9 to Section XV. These products are manufactured by methods such as rolling, extrusion, drawing, or forging, and may undergo cold-finishing or further working (like drilling, punching) as long as it does not change their essential character into products of another heading. This heading includes hollow profiles such as finned tubes obtained by extrusion. However, this heading excludes several important products. Specifically, tubes with gills attached by welding generally fall under heading 74.19. Cast or sintered bars and rods that have only undergone simple surface treatment (descaling, trimming) are classified in heading 74.03. Similarly, wire-bars and billets with tapered ends to facilitate entry into processing machines also belong to heading 74.03."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Thanh và que được định nghĩa ở Chú giải 9(a) Phần XV và dạng hình ở Chú giải 9(b) Phần XV. Các sản phẩm của nhóm này thường thu được bằng cách cán, ép đùn hoặc kéo, nhưng cũng có thể bằng rèn. Chúng có thể được hoàn thiện nguội (ví dụ: kéo nguội, duỗi thẳng) và được gia công (khoan, đột, xoắn hoặc gấp nếp) miễn là chúng không mang đặc tính của các sản phẩm thuộc nhóm khác. Nhóm này cũng bao gồm các dạng hình rỗng như ống và ống dẫn có gờ được tạo bởi ép đùn. Tuy nhiên, ống và ống dẫn có gờ được ghép nối vào bằng cách hàn sẽ bị loại trừ và thuộc nhóm 74.19. Thanh và que thu được bằng cách đúc hoặc thiêu kết được xếp vào nhóm 74.03 nếu chúng chưa được gia công sau sản xuất ngoài việc cắt sửa đơn giản hoặc cạo gỉ; nếu được gia công nhiều hơn, chúng thuộc nhóm này miễn là không có đặc tính của hàng hoá thuộc các nhóm khác. Thanh dây và phôi thanh (billets) có đầu được chuốt nhọn để thuận tiện đưa vào máy gia công được phân loại ở nhóm 74.03.",
+        "en": "Bars and rods are defined in Chapter Note 9 (a) to Section XV and profiles in Note 9 (b) to Section XV. The products of this heading are usually obtained by rolling, extrusion or drawing, but may also be obtained by forging. They may subsequently be cold-finished (if necessary after annealing) by cold-drawing, straightening, or other processes which give the products a finish of higher precision. They may also be worked (e.g., drilled, punched, twisted or crimped), provided that they do not thereby assume the character of articles or of products of other headings. The heading also covers hollow profiles including finned or gilled tubes and pipes obtained by extrusion. However, tubes and pipes to which fins or gills have been attached, e.g., by welding, are excluded generally heading 74.19. Bars and rods obtained by casting or by sintering fall in heading 74.03 provided they have not been subsequently worked after production otherwise than by simple trimming or descaling. If, however, they have been worked beyond this stage, they are classified in this heading, provided that they have not thereby assumed the character of articles or of products of other headings. Wire-bars and billets with their ends tapered or otherwise worked simply to facilitate their entry into machines for converting them into, e.g., wire drawing stock (wire-rod) or tubes, are, however, classified in heading 74.03."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7407.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng đồng tinh luyện",
+        "en": "Of refined copper"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng hợp kim đồng:",
+        "en": "Of copper alloys :"
+      },
+      "subheading_id": "7407.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng hợp kim đồng kẽm (đồng thau)",
+        "en": "Of copper-zinc base alloys (brass)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bằng hợp kim đồng:",
+        "en": "Of copper alloys :"
+      },
+      "subheading_id": "7407.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

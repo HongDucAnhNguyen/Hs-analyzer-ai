@@ -1,0 +1,35 @@
+{
+  "heading_id": "11.09",
+  "heading_title": {
+    "vi": "Gluten lúa mì, đã hoặc chưa làm khô.",
+    "en": "Wheat gluten, whether or not dried."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm gluten chiết xuất từ bột mì, ở dạng lỏng, sệt hoặc bột khô. Gluten chủ yếu gồm protein (gliadin và glutenin) tạo nên tính đàn hồi và dẻo. Nó được dùng để làm giàu protein cho bột, làm chất kết dính trong chế phẩm thịt, hoặc sản xuất hồ dán và các sản phẩm khác. Nhóm này không bao gồm: (a) Bột lúa mì được làm giàu bằng cách cho thêm gluten (nhóm 11.01); (b) Các protein chiết xuất từ gluten lúa mì (nhóm 35.04); (c) Gluten lúa mì chế biến dùng làm hồ dán hoặc nước bóng (nhóm 35.06 hoặc 38.09).",
+    "en": "This heading covers gluten extracted from wheat flour, in liquid, paste or dried powder form. Gluten consists mainly of proteins (gliadin and glutenin) which give it elasticity and plasticity. It is used to enrich flour with protein, as a binder in meat preparations, or for manufacturing glues and other products. This heading excludes: (a) Wheat flour enriched by the addition of gluten (heading 11.01); (b) Proteins extracted from wheat gluten (heading 35.04); (c) Wheat gluten prepared for use as a glue or as a glazing or dressing (heading 35.06 or 38.09)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Gluten được chiết xuất từ bột mỳ bởi quá trình phân tách đơn giản trong nước từ các thành phần khác nhau (tinh bột...).",
+        "en": "Gluten is extracted from wheat flour by simple aqueous separation from the other constituents (starch, etc.)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chất này hoặc ở dạng lỏng hoặc sệt màu hơi trắng (gluten \"ẩm\") hoặc có dạng bột màu kem (gluten khô).\nVề cơ bản, chất này bao gồm một hỗn hợp các loại protein, mà những protein chính là gliadin và glutenin (chiếm từ 85 đến 95% của hỗn hợp). Sự hiện diện của hai loại protein này là đặc trưng của gluten lúa mì, khi trộn gluten với nước theo một tỷ lệ nhất định, nhờ có hai loại protein này mà gluten có tính đàn hồi và mềm dẻo.\nGluten chủ yếu được sử dụng để làm giàu protein cho các loại bột dùng trong chế biến bánh mì hoặc bánh bích quy, macaroni hoặc các sản phẩm tương tự hoặc chế phẩm ăn kiêng. Chất này cũng được sử dụng như một chất kết dính trong một số chế phẩm thịt, trong sản xuất hồ dán hoặc các sản phẩm như gluten sulphate hoặc gluten phosphate, các protein thực vật thuỷ phân hoặc mỳ chính.",
+        "en": "It comes in the form of a whitish viscous liquid or paste (“ moist ” gluten) or a cream-coloured powder (dry gluten).\nIt consists essentially of a mixture of various proteins, the main ones being gliadin and glutenin (which account for 85 to 95 % of the total). The presence of these two proteins is characteristic of wheat gluten, which owes to them its elasticity and plasticity when mixed with water in suitable proportions.\nGluten is used mainly to enrich in proteins flours used in making certain types of bread or biscuits, of macaroni or similar products or of dietetic preparations. It is also used as a binder in certain meat preparations, for the manufacture of certain glues or of products such as gluten sulphate or gluten phosphate, hydrolysed vegetable proteins or sodium glutamate."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Ngoài các loại khác, nhóm này không bao gồm:\n(a) Bột lúa mì được làm giàu bằng cách cho thêm gluten (nhóm 11.01).\n(b) Các protein chiết xuất từ gluten lúa mì (nhóm 35.04).\n(c) Gluten lúa mì chế biến dùng làm hồ dán hoặc nước bóng hoặc chất xử lý hoàn tất trong công nghiệp dệt (nhóm 35.06 hoặc 38.09).",
+        "en": "The heading excludes, inter alia :\n(a) Wheat flour enriched by the addition of gluten (heading 11.01).\n(b) Proteins extracted from wheat gluten (generally heading 35.04).\n(c) Wheat gluten prepared for use as a glue or as a glazing or dressing for the textile industry (heading 35.06 or 38.09)."
+      }
+    }
+  ],
+  "subheadings": []
+}

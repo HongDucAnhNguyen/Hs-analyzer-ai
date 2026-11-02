@@ -1,0 +1,53 @@
+{
+  "heading_id": "17.03",
+  "heading_title": {
+    "vi": "Mật thu được từ chiết xuất hoặc tinh chế đường (+).",
+    "en": "Molasses resulting from the extraction or refining of sugar (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại mật chỉ thu được từ kết quả của việc chiết xuất hoặc tinh chế đường, ví dụ như từ đường mía, đường củ cải, hoặc từ việc sản xuất đường fructoza từ ngô. Đây là chất nhớt có màu nâu hoặc hơi đen chứa một lượng đường đáng kể không thể dễ dàng làm kết tinh, nhưng có thể được làm thành bột. Các loại mật này có thể bị khử màu, tạo màu hoặc tạo mùi. Công dụng chủ yếu là làm nguyên liệu để chưng cất rượu (ví dụ, rượu rum), chế biến thức ăn cho gia súc, chất thay thế cà phê, và đôi khi để chiết xuất đường. Một số dạng tinh chế có thể dùng làm thức ăn cho người. Phân nhóm 1703.10 (Mật mía) có thể được phân biệt với các loại mật khác trong nhóm này dựa trên mùi và thành phần hóa học.",
+    "en": "This heading covers molasses obtained only as a result of the extraction or refining of sugar, for example from sugar cane, sugar beet, or from the production of fructose from maize (corn). It is a viscous, brown or blackish substance containing an appreciable amount of sugar which cannot readily be crystallised, but it may be powdered. These molasses may be decolourised, coloured or flavoured. The main uses are as raw material for distilling alcohol (e.g., rum), in the preparation of cattle foods, coffee substitutes, and sometimes for the extraction of sugar. Certain refined forms are suitable for human consumption. Subheading 1703.10 (Cane molasses) can be distinguished from other molasses of this heading on the basis of odour and chemical composition."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại mật thuộc nhóm này chỉ thu được từ kết quả của việc chiết xuất hoặc tinh chế đường. Mật thu được thường là sản phẩm phụ thông thường từ việc chiết xuất hoặc tinh chế đường mía hoặc đường củ cải hoặc từ việc sản xuất đường fructoza từ ngô. Đó là chất nhớt có màu nâu hoặc hơi đen chứa một lượng đáng kể đường không thể dễ dàng làm kết tinh. Tuy nhiên, nó có thể được làm thành bột.\nMật củ cải đường thu được như ở trên thường không ăn được, nhưng một số dạng đã qua tinh chế của mật mía và mật ngô thích hợp dùng làm thức ăn cho người và được bán như là mật đường hoặc như xirô để ăn. Công dụng chủ yếu của các loại mật là dùng làm nguyên liệu thô để chưng cất rượu và đồ uống có cồn (ví dụ, rượu rum chế biến từ mật mía đường), hoặc chế biến thức ăn cho gia súc hay các chất thay thế cà phê. Nó cũng đôi khi được dùng để chiết xuất đường.\nCác loại mật thuộc nhóm này có thể bị khử màu, tạo màu hoặc tạo mùi.",
+        "en": "Molasses of this heading is obtained only as a result of the extraction or refining of sugar. It is most commonly obtained as a normal by-product resulting from the extraction or refining of beet or cane sugar or from the production of fructose from maize (corn). It is a brown or blackish viscous substance containing an appreciable amount of sugar which cannot readily be crystallised. However, it may be powdered.\nBeet sugar molasses is not normally eaten as such, but certain refined forms of sugar cane molasses and com molasses are suitable for human consumption and are sold as treacle or as table syrups. The main uses of molasses are as the raw material from which alcohols and alcoholic beverages are distilled (e.g., rum from sugar cane molasses), in the preparation of cattle foods and coffee substitutes. It is also sometimes used for the extraction of sugar.\nMolasses of this heading may be decolourised, coloured or flavoured."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 1703.10\nMật mía có thể phân biệt với các loại mật khác của nhóm 17.03 dựa trên mùi và thành phần hoá học.",
+        "en": "Subheading Explanatory Note.\nSubheading 1703.10\nCane molasses can be distinguished from the other molasses of heading 17.03 on the basis of odour and chemical composition."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1703.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Mật mía",
+        "en": "- Cane molasses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1703.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

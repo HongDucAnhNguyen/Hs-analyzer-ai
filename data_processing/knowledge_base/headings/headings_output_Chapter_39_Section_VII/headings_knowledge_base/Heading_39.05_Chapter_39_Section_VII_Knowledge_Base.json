@@ -1,0 +1,106 @@
+{
+  "heading_id": "39.05",
+  "heading_title": {
+    "vi": "Các polyme từ vinyl axetat hoặc từ các vinyl este khác, dạng nguyên sinh; các polyme vinyl khác ở dạng nguyên sinh.",
+    "en": "Polymers of vinyl acetate or of other vinyl esters, in primary forms; other vinyl polymers in primary forms."
+  },
+  "summary": {
+    "vi": "Nhóm 39.05 bao gồm tất cả các polyme vinyl dạng nguyên sinh, ngoại trừ các polyme halogen hóa của nhóm 39.04. Nhóm này chủ yếu phân loại các polyme từ vinyl axetat hoặc các vinyl este khác, poly(vinyl alcohol), polyvinyl acetal và các polyme vinyl khác như polyvinyl ete, poly(vinyl carbazole) và poly(vinyl pyrrolidone). Các polyme từ vinyl axetat thường quá mềm để sản xuất sản phẩm, chủ yếu được dùng làm sơn, chất kết dính và chất xử lý dệt. Poly(vinyl alcohol) được sử dụng làm chất tạo nhũ, chất kết dính, chất làm dày trong sơn, dược phẩm, mỹ phẩm và dệt may. Một loại hàng hóa bị loại trừ đáng chú ý là Polyvinyl xeton, được phân loại trong nhóm 39.11. Việc phân loại chi tiết các copolyme và polyme pha trộn phải tuân theo Chú giải Tổng quát của Chương 39.",
+    "en": "Heading 39.05 includes all vinyl polymers in primary forms, except for the halogenated polymers of heading 39.04. This heading primarily classifies polymers of vinyl acetate or other vinyl esters, poly(vinyl alcohol), polyvinyl acetals, and other vinyl polymers such as polyvinyl ethers, poly(vinyl carbazole), and poly(vinyl pyrrolidone). Polymers of vinyl acetate are generally too soft for manufacturing articles and are mainly used for paints, adhesives, and textile finishing agents. Poly(vinyl alcohol) is used as an emulsifier, binder, and thickener in paints, pharmaceuticals, cosmetics, and textiles. A notable exclusion is Polyvinyl ketones, which are classified in heading 39.11. The detailed classification of copolymers and polymer blends must follow the General Explanatory Note to Chapter 39."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các polyme vinyl trừ các polyme thuộc nhóm 39.04. Một polyme vinyl được định nghĩa là polyme có monome công thức C-X, trong đó liên kết C-X không phải là liên kết carbon-carbon hoặc carbon-hydro. Do đó, Polyvinyl xeton bị loại trừ và thuộc nhóm 39.11. Các polyme chính trong nhóm này bao gồm: 1. Polyme từ vinyl acetat hoặc các este vinyl khác: Poly(vinyl acetate) là quan trọng nhất, dùng để điều chế sơn mài, sơn, chất kết dính, chất thấm tẩm cho ngành dệt. 2. Poly(vinyl alcohol): Thường được điều chế bằng cách thuỷ phân poly(vinyl acetate). Nó được sử dụng như chất tạo nhũ tương, chất phân tán, chất keo bảo vệ, chất dính, chất kết dính, chất làm dày trong sơn, dược phẩm, mỹ phẩm và ngành dệt. Sợi từ poly(vinyl alcohol) được dùng để sản xuất quần áo lót, chăn, quần áo. 3. Polyvinyl acetal: Được điều chế bằng phản ứng giữa poly(vinyl alcohol) với aldehyde. 4. Các polyme vinyl khác: Bao gồm polyvinyl ete, poly(vinyl carbazole) và poly(vinyl pyrrolidone). Việc phân loại các polyme, copolyme, polyme biến đổi hóa học và polyme pha trộn phải tuân theo Chú giải Tổng quát của Chương này.",
+        "en": "This heading covers all vinyl polymers other than those of heading 39.04. A vinyl polymer is defined as one whose monomer has the formula C-X, where the C-X bond is neither a carbon-carbon nor a carbon-hydrogen bond. Therefore, Polyvinyl ketones are excluded and fall under heading 39.11. The main polymers in this heading include: 1. Polymers of vinyl acetate or of other vinyl esters: Poly(vinyl acetate) is the most important, used for preparing lacquers, paints, adhesives, and impregnating agents for textiles. 2. Poly(vinyl alcohol): Usually prepared by the hydrolysis of poly(vinyl acetate). It is used as an emulsifier, dispersing agent, protective colloid, adhesive, binder, and thickener in paints, pharmaceuticals, cosmetics, and textiles. Fibres from poly(vinyl alcohol) are used for making underwear, blankets, and clothing. 3. Polyvinyl acetals: Prepared by reacting poly(vinyl alcohol) with an aldehyde. 4. Other vinyl polymers: Include polyvinyl ethers, poly(vinyl carbazole), and poly(vinyl pyrrolidone). The classification of polymers, copolymers, chemically modified polymers, and polymer blends is governed by the General Explanatory Note to this Chapter."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Poly (vinyl axetat):",
+        "en": "- Poly(vinyl acetate):"
+      },
+      "subheading_id": "3905.12",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Dạng phân tán trong môi trường nước",
+        "en": "- - In aqueous dispersion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Poly (vinyl axetat):",
+        "en": "- Poly(vinyl acetate):"
+      },
+      "subheading_id": "3905.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Copolyme vinyl axetat:",
+        "en": "- Vinyl acetate copolymers:"
+      },
+      "subheading_id": "3905.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Dạng phân tán trong môi trường nước",
+        "en": "- - In aqueous dispersion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Copolyme vinyl axetat:",
+        "en": "- Vinyl acetate copolymers:"
+      },
+      "subheading_id": "3905.29",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3905.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Poly (vinyl alcohol), có hoặc không chứa các nhóm axetat chưa thuỷ phân",
+        "en": "- Poly(vinyl alcohol), whether or not containing unhydrolysed acetate groups"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "3905.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Các copolyme",
+        "en": "- - Copolymers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "3905.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

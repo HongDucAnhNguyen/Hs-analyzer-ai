@@ -1,0 +1,106 @@
+{
+  "heading_id": "06.03",
+  "heading_title": {
+    "vi": "Cành hoa và nụ hoa dùng làm hoa bó hoặc để trang trí, tươi, khô, đã nhuộm, tẩy, thấm tẩm hoặc xử lý cách khác.",
+    "en": "Cut flowers and flower buds of a kind suitable for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated or otherwise prepared."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm cành hoa và nụ hoa dùng làm hoa bó hoặc để trang trí, ở các dạng tươi, khô, đã nhuộm, tẩy, thấm tẩm hoặc xử lý cách khác. Phạm vi của nhóm bao gồm cả hoa và nụ hoa cắt đơn giản, các sản phẩm của người làm hoa như bó hoa, vòng hoa, lẵng hoa (ngay cả khi có các phụ kiện khác), và cành cắt từ cây hoặc cây bụi có mang hoa hoặc nụ hoa.\n\nNhóm này loại trừ các loại hoa, cánh hoa và nụ hoa chủ yếu dùng trong ngành nước hoa, dược phẩm, hoặc cho mục đích diệt côn trùng, miễn là chúng không ở dạng thích hợp để làm hoa bó hoặc trang trí (nhóm 12.11). Nhóm này cũng không bao gồm các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
+    "en": "This heading covers cut flowers and flower buds suitable for bouquets or ornamental purposes, in fresh, dried, dyed, bleached, impregnated, or otherwise prepared states. The scope includes single cut flowers and buds, florists' wares like bouquets, wreaths, and floral baskets (even with other accessories), and cut branches from trees or bushes bearing flowers or buds.\n\nThe heading excludes flowers, petals, and buds primarily used in perfumery, pharmacy, or for insecticidal purposes, provided they are not in a form suitable for bouquets or ornamental use (heading 12.11). It also excludes collages and similar decorative plaques of heading 97.01."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm không chỉ hoa và nụ hoa cắt đơn giản mà cả bó hoa, vòng hoa, lẵng hoa và sản phẩm tương tự có gắn hoa hoặc nụ hoa (ví dụ những bó hoa nhỏ, hoa cài khuyết áo). Nếu bó hoa như vậy vẫn giữ được đặc tính cơ bản của những sản phẩm của người làm hoa thì chúng vẫn ở trong nhóm này ngay cả khi chúng có chứa các đồ phụ trợ làm bằng vật liệu khác (ruy băng, hình cắt tỉa bằng giấy,v.v…).\nCành cắt từ cây, cây bụi và bụi cây, nếu mang hoa và nụ (như cành mộc lan và một số cành hồng), được coi như cành hoa và nụ hoa của nhóm này.\nNhóm này loại trừ hoa, cánh hoa và nụ hoa dùng chủ yếu để chế nước hoa, dùng trong bào chế dược phẩm, hoặc làm thuốc trừ sâu, thuốc trừ nấm hoặc các mục đích tương tự, miễn là chúng ở dạng không thích hợp để làm hoa bó hoặc để trang trí (nhóm 12.11). Nhóm này cũng loại trừ các tác phẩm ghép và phù điêu trang trí tương tự thuộc nhóm 97.01.",
+        "en": "The heading covers not only cut flowers and buds as such, but also bouquets, wreaths, floral baskets and similar articles (e.g., posies and buttonholes) incorporating flowers or flower buds. Provided that such bouquets, etc., have the essential character of florists’ wares, they remain in the heading even if they contain accessories of other materials (ribbons, paper trimmings, etc.).\nCut branches of trees, shrubs or bushes, if bearing flowers or flower buds (e.g., magnolia and certain types of roses), are treated as cut flowers or flower buds of this heading.\nThe heading excludes flowers, petals and buds of a kind used primarily in perfumery, in pharmacy, or for insecticidal, fungicidal or similar purposes, provided that, in the condition in which they are presented, they are not suitable for bouquets or for ornamental use (heading 12.11). The heading also excludes collages and similar decorative plaques of heading 97.01."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi:",
+        "en": "Fresh:"
+      },
+      "subheading_id": "0603.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoa hồng",
+        "en": "Roses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi:",
+        "en": "Fresh:"
+      },
+      "subheading_id": "0603.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoa cẩm chướng",
+        "en": "Carnations"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi:",
+        "en": "Fresh:"
+      },
+      "subheading_id": "0603.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Phong lan",
+        "en": "Orchids"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi:",
+        "en": "Fresh:"
+      },
+      "subheading_id": "0603.14",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Hoa cúc",
+        "en": "Chrysanthemums"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi:",
+        "en": "Fresh:"
+      },
+      "subheading_id": "0603.15",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Họ hoa ly (Lilium spp.)",
+        "en": "Lilies (Lilium spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Tươi:",
+        "en": "Fresh:"
+      },
+      "subheading_id": "0603.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0603.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

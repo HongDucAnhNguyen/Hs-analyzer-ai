@@ -1,0 +1,60 @@
+{
+  "heading_id": "60.04",
+  "heading_title": {
+    "vi": "Vải dệt kim hoặc móc có khổ rộng hơn 30 cm, có hàm lượng sợi đàn hồi hoặc sợi cao su chiếm từ 5% trở lên tính theo khối lượng, trừ các loại thuộc nhóm 60.01.",
+    "en": "Knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5 % or more of elastomeric yarn or rubber thread, other than those of heading 60.01."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm vải dệt kim hoặc móc có khổ rộng hơn 30 cm, có tỷ trọng sợi đàn hồi hoặc sợi cao su từ 5% trở lên. Sợi đàn hồi được định nghĩa tại Chú giải 13 Phần XI, và sợi dún được định nghĩa trong chú giải của nhóm 54.02. Nhóm này không bao gồm vải có tạo vòng lông thuộc nhóm 60.01, băng y tế (nhóm 30.05), nhãn, phù hiệu (nhóm 58.07), vải thêu (nhóm 58.10), vải thuộc Chương 59 (ví dụ: nhóm 59.03, 59.06, 59.07), và các mặt hàng hoàn thiện theo Chú giải 7 Phần XI.",
+    "en": "This heading covers knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5% or more of elastomeric yarn or rubber thread. Elastomeric yarn is defined in Note 13 to Section XI, and textured yarns are defined in the explanatory note to heading 54.02. This heading excludes pile fabrics of heading 60.01, bandages (heading 30.05), labels and badges (heading 58.07), embroidered fabrics (heading 58.10), fabrics of Chapter 59 (e.g., headings 59.03, 59.06, 59.07), and made up articles according to Note 7 to Section XI."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Loại trừ vải có tạo vòng lông thuộc nhóm 60.01, nhóm này bao gồm vải dệt kim hoặc móc có khổ rộng hơn 30 cm, có tỷ trọng sợi đàn hồi hoặc sợi cao su từ 5% trở lên.\nSợi đàn hồi được định nghĩa tại Chú giải 13 Phần XI. Sợi dún được nói đến trong Chú giải đó được định nghĩa trong Chú giải phân nhóm ở phần cuối Chú giải chi tiết nhóm 54.02.",
+        "en": "Other than the pile fabrics of heading 60.01, this heading covers knitted or crocheted fabrics of a width exceeding 30 cm, containing by weight 5 % or more of elastomeric yarn or rubber thread.\nElastomeric yarn is defined in Note 13 to Section XI. The textured yarns mentioned in that Note are defined in the Subheading Explanatory Note at the end of the Explanatory Note to heading 54.02."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm:\n(a) Băng, đã tẩm thuốc hoặc đóng gói để bán lẻ (nhóm 30.05).\n(b) Các loại nhãn, phù hiệu và các mặt hàng tương tự, dệt kim hoặc móc thuộc nhóm 58.07.\n(c) Vải thêu thuộc nhóm 58.10.\n(d) Vải thuộc Chương 59 (Ví dụ: Vải đã được ngâm tẩm, tráng, phủ hoặc ép thuộc nhóm 59.03 hoặc 59.07, vải cao su hóa thuộc nhóm 59.06).",
+        "en": "This heading also excludes:\n(a) Bandages, medicated or put up for retail sale (heading 30.05).\n(b) Labels, badges and similar articles, knitted or crocheted, of heading 58.07.\n(c) Embroidered fabrics of heading 58.10.\n(d) Fabrics of Chapter 59 (e.g., impregnated, coated, covered or laminated fabrics of heading 59.03 or 59.07, and rubberised fabrics of heading 59.06)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(e) Các mặt hàng hoàn thiện theo nghĩa của Chú giải 7 Phần XI (xem cả Phần (II) Chú giải tổng quát của Phần).",
+        "en": "(e) Made up articles within the meaning of Note 7 to Section XI (see also Part (II) of the General Explanatory Note to the Section)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6004.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có hàm lượng sợi đàn hồi chiếm từ 5% trở lên tính theo khối lượng nhưng không bao gồm sợi cao su",
+        "en": "Containing by weight 5 % or more of elastomeric yarn but not containing rubber thread"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6004.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

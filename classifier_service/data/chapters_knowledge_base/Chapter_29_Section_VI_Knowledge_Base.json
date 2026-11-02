@@ -1,0 +1,493 @@
+{
+  "chapter_id": "29",
+  "chapter_title": {
+    "vi": "Hóa chất hữu cơ",
+    "en": "Organic chemicals"
+  },
+  "summary": {
+    "vi": "Chương 29 bao gồm các hợp chất hữu cơ đã được xác định về mặt hóa học riêng biệt, có hoặc không chứa tạp chất, cũng như hỗn hợp các đồng phân của cùng một hợp chất hữu cơ. Chương này cũng bao gồm một số sản phẩm chưa được xác định về mặt hóa học như các sản phẩm thuộc nhóm 29.36 đến 29.39, ete đường, axetal đường, este đường và muối của chúng (29.40), và các sản phẩm của nhóm 29.41. Các hợp chất có thể được hòa tan trong nước hoặc các dung môi khác, hoặc được pha thêm chất ổn định, chất chống bụi, chất màu hoặc chất thơm cho mục đích an toàn, bảo quản hoặc vận chuyển mà không làm thay đổi công dụng chính của chúng. Cấu trúc của chương được chia thành các phân chương dựa trên nhóm chức hóa học: Hydrocarbon (I), Rượu (II), Phenol (III), Ete (IV), Hợp chất chức Aldehyt (V), Hợp chất chức Xeton và Quinon (VI), Axit Carboxylic (VII), Este của axit vô cơ (VIII), Hợp chất chức Nitơ (IX), Hợp chất hữu cơ-vô cơ và dị vòng (X), Tiền vitamin, vitamin và hormon (XI), Glycosit và Alkaloit (XII), và các hợp chất hữu cơ khác (XIII). Chương này áp dụng các quy tắc phân loại quan trọng: hàng hóa có thể xếp vào nhiều nhóm sẽ được xếp vào nhóm có số thứ tự sau cùng (Chú giải 3); và các quy tắc cụ thể để phân loại các dẫn xuất (halogen hóa, sulphonat hóa, nitrat hóa, nitroso hóa), este, muối và các hợp chất phối trí (Chú giải 4, 5). Chương này KHÔNG bao gồm: Hàng hoá thuộc nhóm 15.04 hoặc glyxerol thô thuộc nhóm 15.20; Cồn etylic (nhóm 22.07 hoặc 22.08); Methan hoặc propan (nhóm 27.11); Hợp chất carbon được nêu ở Chú giải 2 của Chương 28; Sản phẩm miễn dịch thuộc nhóm 30.02; Urê (nhóm 31.02 hoặc 31.05); Các chất màu nhất định (nhóm 32.03, 32.04, 32.12); Enzyme (nhóm 35.07); Nhiên liệu ở dạng nhất định (nhóm 36.06); Các sản phẩm dập lửa (nhóm 38.13); Chất tẩy mực đóng gói để bán lẻ (nhóm 38.24); và các bộ phận quang học (nhóm 90.01).",
+    "en": "Chapter 29 covers separate chemically defined organic compounds, whether or not containing impurities, as well as mixtures of isomers of the same organic compound. The Chapter also includes certain products that are not chemically defined such as products of headings 29.36 to 29.39, sugar ethers, sugar acetals, sugar esters, and their salts (29.40), and products of heading 29.41. The compounds may be dissolved in water or other solvents, or have added stabilisers, anti-dusting agents, colouring or odoriferous substances for safety, preservation or transport, provided it does not alter their primary use. The chapter is structured into sub-chapters based on chemical function: Hydrocarbons (I), Alcohols (II), Phenols (III), Ethers (IV), Aldehyde-function compounds (V), Ketone- and Quinone-function compounds (VI), Carboxylic Acids (VII), Esters of inorganic acids (VIII), Nitrogen-function compounds (IX), Organo-inorganic and Heterocyclic compounds (X), Provitamins, vitamins and hormones (XI), Glycosides and Alkaloids (XII), and other organic compounds (XIII). The chapter applies important classification rules: goods classifiable in multiple headings are classified in the one which occurs last in numerical order (Note 3); and specific rules for classifying derivatives (halogenated, sulphonated, nitrated, nitrosated), esters, salts, and co-ordination compounds (Notes 4, 5). This Chapter does NOT cover: Goods of heading 15.04 or crude glycerol of heading 15.20; Ethyl alcohol (heading 22.07 or 22.08); Methane or propane (heading 27.11); Compounds of carbon mentioned in Note 2 to Chapter 28; Immunological products of heading 30.02; Urea (heading 31.02 or 31.05); Certain colouring matter (heading 32.03, 32.04, 32.12); Enzymes (heading 35.07); Fuels in certain forms (heading 36.06); Fire-extinguishing products (heading 38.13); Retail ink removers (heading 38.24); and Optical elements (heading 90.01)."
+  },
+  "notes": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "1.- Trừ khi có yêu cầu khác, các nhóm thuộc Chương này chỉ bao gồm: (a) Các hợp chất hữu cơ đã được xác định về mặt hoá học riêng biệt, có hoặc không chứa tạp chất; (b) Các hỗn hợp của hai hoặc nhiều chất đồng phân của cùng một hợp chất hữu cơ (có hoặc không chứa tạp chất), trừ hỗn hợp các chất đồng phân hydro carbon mạch hở (trừ các chất đồng phân lập thể), no hoặc chưa no (Chương 27); (c) Các sản phẩm thuộc các nhóm từ 29.36 đến 29.39 hoặc ete đường, axetal đường và este đường, và các muối của chúng, của nhóm 29.40, hoặc các sản phẩm của nhóm 29.41, đã hoặc chưa xác định về mặt hoá học; (d) Các sản phẩm được nêu ở mục (a), (b) hoặc (c) đã hòa tan trong nước; (e) Các sản phẩm được nêu ở (a), (b) hoặc (c) trên đây đã hoà tan trong các dung môi khác nhưng sự hoà tan chỉ là một phương pháp thông thường và cần thiết để đóng gói những sản phẩm nhằm mục đích duy nhất là bảo đảm an toàn hoặc để vận chuyển và dung môi này không tạo cho sản phẩm một công dụng đặc biệt nào khác ngoài công dụng thông thường của chúng; (f) Các sản phẩm đã nêu ở (a), (b), (c), (d) hoặc (e) trên đây đã pha thêm chất ổn định (kể cả chất chống đông cứng/chất chống đông vón) cần thiết để bảo quản hoặc vận chuyển; (g) Các sản phẩm được nêu ở (a), (b), (c), (d), (e) hoặc (f) trên đây đã pha thêm tác nhân chống bụi hoặc chất màu hoặc chất có mùi thơm hoặc chất gây nôn để dễ nhận biết hoặc vì lý do an toàn, với điều kiện là việc pha thêm đó không làm cho sản phẩm có công dụng đặc biệt ngoài công dụng thông thường của nó; (h) Các sản phẩm dưới đây, pha loãng theo nồng độ tiêu chuẩn, để sản xuất thuốc nhuộm azo: muối diazoni, các chất tiếp hợp dùng cho loại muối này và các chất amin có khả năng diazo hoá và các muối của chúng.",
+        "en": "1.- Except where the context otherwise requires, the headings of this Chapter apply only to: (a) Separate chemically defined organic compounds, whether or not containing impurities; (b) Mixtures of two or more isomers of the same organic compound (whether or not containing impurities), except mixtures of acyclic hydrocarbon isomers (other than stereoisomers), whether or not saturated (Chapter 27); (c) The products of headings 29.36 to 29.39 or the sugar ethers, sugar acetals and sugar esters, and their salts, of heading 29.40, or the products of heading 29.41, whether or not chemically defined; (d) The products mentioned in (a), (b) or (c) above dissolved in water; (e) The products mentioned in (a), (b) or (c) above dissolved in other solvents provided that the solution constitutes a normal and necessary method of putting up these products adopted solely for reasons of safety or for transport and that the solvent does not render the product particularly suitable for specific use rather than for general use; (f) The products mentioned in (a), (b), (c), (d) or (e) above with an added stabiliser (including an anti-caking agent) necessary for their preservation or transport; (g) The products mentioned in (a), (b), (c), (d), (e) or (f) above with an added anti-dusting agent or a colouring or odoriferous substance or an emetic added to facilitate their identification or for safety reasons, provided that the additions do not render the product particularly suitable for specific use rather than for general use; (h) The following products, diluted to standard strengths, for the production of azo dyes: diazonium salts, couplers used for these salts and diazotisable amines and their salts."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "2.- Chương này không bao gồm: (a) Hàng hoá thuộc nhóm 15.04 hoặc glyxerol thô thuộc nhóm 15.20; (b) Cồn etylic (nhóm 22.07 hoặc 22.08); (c) Methan hoặc propan (nhóm 27.11); (d) Hợp chất carbon được nêu ở Chú giải 2 của Chương 28; (e) Sản phẩm miễn dịch thuộc nhóm 30.02; (f) Urê (nhóm 31.02 hoặc 31.05); (g) Chất màu gốc động vật hoặc thực vật (nhóm 32.03), chất màu hữu cơ tổng hợp, các sản phẩm hữu cơ tổng hợp được sử dụng như tác nhân tăng sáng huỳnh quang hoặc chất phát quang (nhóm 32.04) hoặc thuốc nhuộm hoặc chất màu khác được làm thành một dạng nhất định hoặc đóng gói để bán lẻ (nhóm 32.12);",
+        "en": "2.- This Chapter does not cover: (a) Goods of heading 15.04 or crude glycerol of heading 15.20; (b) Ethyl alcohol (heading 22.07 or 22.08); (c) Methane or propane (heading 27.11); (d) The compounds of carbon mentioned in Note 2 to Chapter 28; (e) Immunological products of heading 30.02; (f) Urea (heading 31.02 or 31.05); (g) Colouring matter of vegetable or animal origin (heading 32.03), synthetic organic colouring matter, synthetic organic products of a kind used as fluorescent brightening agents or as luminophores (heading 32.04) or dyes or other colouring matter put up in forms or packings for retail sale (heading 32.12);"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(h) Enzyme (nhóm 35.07); (ij) Metaldehyt, hexamethylenetetramine hoặc chất tương tự, làm thành dạng nhất định (ví dụ, viên, que hoặc các dạng tương tự) để sử dụng như nhiên liệu, hoặc nhiên liệu lỏng hoặc khí hoá lỏng đựng trong đồ chứa có dung tích không quá 300 cm3 dùng để bơm hoặc bơm lại ga bật lửa hút thuốc hoặc các loại bật lửa tương tự (nhóm 36.06); (k) Các sản phẩm dùng như chất dập lửa để nạp cho các bình cứu hỏa hoặc các loại lựu đạn dập lửa, thuộc nhóm 38.13; các chất tẩy mực đóng gói để bán lẻ, thuộc nhóm 38.24; hoặc (l) Các bộ phận quang học, ví dụ, làm bằng ethylenediamine tartrate (nhóm 90.01).",
+        "en": "(h) Enzymes (heading 35.07); (ij) Metaldehyde, hexamethylenetetramine or similar substances, put up in forms (for example, tablets, sticks or similar forms) for use as fuels, or liquid or liquefied-gas fuels in containers of a kind used for filling or refilling cigarette or similar lighters and of a capacity not exceeding 300 cm3 (heading 36.06); (k) Products put up as charges for fire-extinguishers or put up in fire-extinguishing grenades, of heading 38.13; ink removers put up in packings for retail sale, of heading 38.24; or (l) Optical elements, for example, of ethylenediamine tartrate (heading 90.01)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "3.- Các mặt hàng có thể xếp vào hai hoặc nhiều nhóm thuộc Chương này phải xếp vào nhóm có số thứ tự sau cùng.",
+        "en": "3.- Goods which could be included in two or more of the headings of this Chapter are to be classified in that one of those headings which occurs last in numerical order."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "4.- Đối với các nhóm từ 29.04 đến 29.06, từ 29.08 đến 29.11 và từ 29.13 đến 29.20, khi đề cập đến các dẫn xuất halogen hóa, sulphonat hoá, nitrat hoá hoặc nitroso hoá đều đề cập đến các dẫn xuất kết hợp, như các dẫn xuất sulpho-halogen hoá, nitro- halogen hóa, nitro-sulphonat hóa hoặc nitro-sulpho-halogen hoá. Theo mục đích của nhóm 29.29, các nhóm nitro hoá hoặc nitroso hoá không được coi là có “chức nitơ”. Theo mục đích của các nhóm 29.11, 29.12, 29.14. 29.18 và 29.22, \"chức oxy\", nhóm chứa oxy hữu cơ đặc trưng của các nhóm tương ứng trên, được giới hạn trong các chức oxy đề cập trong các nhóm từ 29.05 đến 29.20.",
+        "en": "4.- In headings 29.04 to 29.06, 29.08 to 29.11 and 29.13 to 29.20, any reference to halogenated, sulphonated, nitrated or nitrosated derivatives includes a reference to compound derivatives, such as sulphohalogenated, nitrohalogenated, nitrosulphonated or nitrosulphohalogenated derivatives. Nitro or nitroso groups are not to be taken as “nitrogen-functions” for the purpose of heading 29.29. For the purposes of headings 29.11, 29.12, 29.14, 29.18 and 29.22, “oxygen function”, the characteristic organic oxygen-containing group of those respective headings, is restricted to the oxygen-functions referred to in headings 29.05 to 29.20."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "5.- (A) Este của hợp chất hữu cơ chức axit thuộc phần Chương I đến VII với các hợp chất hữu cơ của các phần Chương này phải xếp cùng nhóm với các hợp chất ấy có nghĩa là được xếp vào nhóm có số thứ tự sau cũng trong các phần Chương này. (B) Este của cồn etylic với các hợp chất hữu cơ có chức axit trong phần Chương từ I đến VII phải xếp vào cùng nhóm với các hợp chất có chức axit tương ứng. (C) Theo Chú giải 1 của Phần VI và Chú giải 2 của Chương 28 thì: (1) Muối vô cơ của các hợp chất hữu cơ như các hợp chất có chức axit-, phenol- hoặc enol - hoặc các bazơ hữu cơ, của các phân Chương từ I đến X hoặc nhóm 29.42, phải được xếp vào trong nhóm tương ứng với hợp chất hữu cơ; (2) Các muối được tạo nên giữa các hợp chất hữu cơ của các phân Chương I đến X hoặc nhóm 29.42 phải được xếp vào nhóm tương ứng với bazơ hoặc axit (kể cả các hợp chất có chức phenol hoặc enol) mà chính từ đó chúng được tạo thành, phải xếp vào nhóm có số thứ tự sau cùng trong Chương; và",
+        "en": "5.- (A) The esters of acid-function organic compounds of sub-Chapters I to VII with organic compounds of these sub-Chapters are to be classified with that compound which is classified in the heading which occurs last in numerical order in these sub-Chapters. (B) Esters of ethyl alcohol with acid-function organic compounds of sub-Chapters I to VII are to be classified in the same heading as the corresponding acid-function compounds. (C) Subject to Note 1 to Section VI and Note 2 to Chapter 28: (1) Inorganic salts of organic compounds such as acid-, phenol- or enol-function compounds or organic bases, of sub-Chapters I to X or heading 29.42, are to be classified in the heading appropriate to the organic compound; (2) Salts formed between organic compounds of sub-Chapters I to X or heading 29.42 are to be classified in the heading appropriate to the base or to the acid (including phenol- or enol-function compounds) from which they are formed, whichever occurs last in numerical order in the Chapter; and"
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(3) Hợp chất phối trí, trừ các sản phẩm có thể được phân loại trong phân Chương XI hoặc nhóm 29.41, được phân loại trong nhóm có thứ tự sau cùng trong Chương 29, trong số những phân đoạn phù hợp được tạo bởi “quá trình bẻ gãy” của tất cả các liên kết kim loại, trừ liên kết carbon- kim loại. (D) Alcoholate kim loại phải xếp vào cùng nhóm với rượu tương ứng trừ rượu ethanol (nhóm 29.05). (E) Halogenua của axit carboxylic phải xếp vào cùng nhóm với axit tương đương.",
+        "en": "(3) Co-ordination compounds, other than products classifiable in sub-Chapter XI or heading 29.41, are to be classified in the heading which occurs last in numerical order in Chapter 29, among those appropriate to the fragments formed by “cleaving” of all metal bonds, other than metal-carbon bonds. (D) Metal alcoholates are to be classified in the same heading as the corresponding alcohols except in the case of ethanol (heading 29.05). (E) Halides of carboxylic acids are to be classified in the same heading as the corresponding acids."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "6.- Các hợp chất của các nhóm 29.30 và 29.31 là các hợp chất hữu cơ mà trong đó các phân tử chứa, ngoài các nguyên tử hydro, oxy hoặc niter, còn có chứa các nguyên tử của các phi kim loại khác hoặc của kim loại (như lưu huỳnh, arson hoặc chì) liên kết trực tiếp với các nguyên tử carbon. Nhóm 29.30 (hợp chất lưu huỳnh hữu cơ) và nhóm 29.31 (hợp chất vô cơ - hữu cơ khác) không bao gồm các dẫn xuất đã sulphonat hóa hoặc halogen hoá (kể cả các dẫn xuất kết hợp), ngoài hydro, oxy và nitơ, chỉ có nguyên tử của lưu huỳnh hoặc halogen trực tiếp liên kết với carbon, điều này làm cho các hợp chất trên mang tính chất của dẫn xuất halogen hóa hoặc sulphonat hóa (hoặc các dẫn xuất kết hợp).",
+        "en": "6.- The compounds of headings 29.30 and 29.31 are organic compounds the molecules of which contain, in addition to atoms of hydrogen, oxygen or nitrogen, atoms of other non-metals or of metals (such as sulphur, arsenic or lead) directly linked to carbon atoms. Heading 29.30 (organo-sulphur compounds) and heading 29.31 (other organo-inorganic compounds) do not include sulphonated or halogenated derivatives (including compound derivatives) which, apart from hydrogen, oxygen and nitrogen, only have directly linked to carbon the atoms of sulphur or of a halogen which give them their nature of sulphonated or halogenated derivatives (or compound derivatives)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "7.- Nhóm 29.32, 29.33 và 29.34 không bao gồm epoxit có vòng 3 cạnh (có 3 nguyên tử ở trên vòng), xeton peroxides, polyme vòng của aldehyt hoặc của thioaldehyt, anhydrit của các axit carboxilic polybasic, este vòng của rượu đa chức hoặc phenols đa chức với axit polybasic, hoặc imide của axit polybasic. Các quy định này chỉ áp dụng khi các dị tố loại ở trên vòng là kết quả duy nhất của chức năng đóng vòng hoặc các chức năng kể đến ở đây.",
+        "en": "7.- Headings 29.32, 29.33 and 29.34 do not include epoxides with a three-membered ring, ketone peroxides, cyclic polymers of aldehydes or of thioaldehydes, anhydrides of polybasic carboxylic acids, cyclic esters of polyhydric alcohols or phenols with polybasic acids, or imides of polybasic acids. These provisions apply only when the ring-position hetero-atoms are those resulting solely from the cyclising function or functions here listed."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "8.- Theo mục đích của nhóm 29.37: (a) thuật ngữ “hormon” bao gồm các yếu tố làm tiết hormon hoặc kích thích hormon, các chất ức chế và kháng hormon (anti- hormon); (b) khái niệm \"được sử dụng chủ yếu như hormon\" không chỉ bao gồm những dẫn xuất hormon và những chất có cấu trúc tương tự được sử dụng chủ yếu vì tác dụng hormon của chúng, mà còn bao gồm những dẫn xuất hormon và những chất có cấu trúc tương tự được sử dụng chủ yếu như chất trung gian trong quá trình tổng hợp các sản phẩm thuộc nhóm này.",
+        "en": "8.- For the purposes of heading 29.37: (a) the term “hormones” includes hormone-releasing or hormone-stimulating factors, hormone inhibitors and hormone antagonists (anti-hormones); (b) the expression “used primarily as hormones” applies not only to hormone derivatives and structural analogues used primarily for their hormonal effect, but also to those derivatives and structural analogues used primarily as intermediates in the synthesis of products of this heading."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Chú giải phân nhóm. 1. Trong bất kỳ nhóm nào của Chương này, các dẫn xuất của một hợp chất hoá học (hoặc một nhóm các hợp chất hoá học) cần được xếp vào cùng một phân nhóm với hợp chất ấy (hoặc nhóm hợp chất) với điều kiện là không có sự miêu tả đặc trưng hơn trong các phân nhóm khác và không có phân nhóm nào mang tên “Loại khác” trong những phân nhóm có liên quan.",
+        "en": "Subheading Notes. 1.- Within any one heading of this Chapter, derivatives of a chemical compound (or group of chemical compounds) are to be classified in the same subheading as that compound (or group of compounds) provided that they are not more specifically covered by any other subheading and that there is no residual subheading named “Other” in the series of subheadings concerned."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "2. Chú giải 3 Chương 29 không áp dụng cho các phân nhóm của Chương này.",
+        "en": "2.- Note 3 to Chapter 29 does not apply to the subheadings of this Chapter."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 5,
+      "content": {
+        "vi": "Theo quy tắc chung, Chương này giới hạn vào các hợp chất đã được xác định về mặt hóa học riêng biệt như theo các điều khoản của Chú giải 1 của Chương này. (A) Những hợp chất đã được xác định về mặt hóa học (Chú giải 1 của Chương): Một hợp chất đã được xác định về mặt hóa học riêng biệt là một chất có một trạng thái phân tử có cấu trúc xác định, thành phần của chất này được xác định bởi tỷ lệ không đổi của các nguyên tố và có thể được biểu thị bởi một biểu đồ cấu trúc xác định. Những hợp chất đã được xác định về mặt hoá học riêng biệt chứa những chất khác có thể được cố ý thêm vào trong hoặc sau khi sản xuất chúng (kể cả quá trình tinh chế) bị loại trừ khỏi chương này. Những hợp chất này có thể có tạp chất. Thuật ngữ 'tạp chất' áp dụng riêng cho các chất mà sự có mặt của chúng là kết quả duy nhất và trực tiếp từ quá trình sản xuất, bao gồm: (a) Nguyên liệu ban đầu chưa chuyển đổi; (b) Tạp chất có mặt trong nguyên liệu ban đầu; (c) Thuốc thử được dùng trong quá trình sản xuất; (d) Những sản phẩm phụ. Tuy nhiên, những chất được cố ý để lại trong sản phẩm với mục đích là làm cho sản phẩm phù hợp với công dụng riêng hơn là công dụng chung thì không được xem như là những tạp chất cho phép.",
+        "en": "As a general rule, this Chapter is restricted to separate chemically defined compounds, subject to the provisions of Note 1 to the Chapter. (A) Chemically defined compounds (Chapter Note 1): A separate chemically defined compound is a substance which consists of one molecular species whose composition is defined by a constant ratio of elements and can be represented by a definitive structural diagram. Separate chemically defined compounds containing other substances deliberately added during or after their manufacture (including purification) are excluded from this Chapter. These compounds may contain impurities. The term “impurities” applies exclusively to substances whose presence in the single chemical compound results solely and directly from the manufacturing process, including: (a) Unconverted starting materials; (b) Impurities present in the starting materials; (c) Reagents used in the manufacturing process; (d) By-products. However, when such substances are deliberately left in the product with a view to rendering it particularly suitable for specific use rather than for general use, they are not regarded as permissible impurities."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Những hợp chất đã được xác định về mặt hóa học riêng biệt của Chương này có thể tan trong nước, bao gồm cả những dung dịch không chứa nước và cả hợp chất có bổ sung thêm chất ổn định, chất chống bụi, chất màu hoặc chất có mùi thơm. Chương này còn bao gồm cả hỗn hợp đồng phân của cùng một hợp chất hữu cơ. Điều khoản này chỉ áp dụng cho hỗn hợp của những chất có cùng chức hóa học và cùng tồn tại trong hình thái tự nhiên hoặc thu được đồng thời trong cùng quá trình tổng hợp. Tuy nhiên, hỗn hợp của đồng phân hydrocacbon mạch thẳng (trừ những đồng phân lập thể), đã hoặc chưa bão hòa, bị loại trừ (Chương 27).",
+        "en": "The separate chemically defined compounds of this Chapter may be dissolved in water, including non-aqueous solutions and also compounds with added stabilisers, anti-dusting agents, colouring or odoriferous substances. This Chapter further includes mixtures of isomers of the same organic compound. This provision applies only to mixtures of compounds having the same chemical function and which either coexist in their natural form or are obtained simultaneously in the course of the same synthesis. Mixtures of acyclic hydrocarbon isomers (other than stereoisomers), whether or not saturated, are, however, excluded (Chapter 27)."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "(B) Sự khác nhau giữa các hợp chất của Chương 28 và các hợp chất của Chương 29: Các hợp chất hữu cơ của kim loại quý, nguyên tố phóng xạ, đồng vị phóng xạ, kim loại đất hiếm, scandium và yttrium, và các hợp chất khác có chứa carbon được liệt kê trong Chú giải 2 của Chương 28 được loại trừ khỏi Chương 29. Các hợp chất hữu cơ - vô cơ, trừ các hợp chất được liệt kê trong Chú giải 2 của Chương 28, được xếp vào Chương 29.",
+        "en": "(B) Distinction between the compounds of Chapter 28 and those of Chapter 29: Organic compounds of precious metals, radioactive elements, isotopes, rare-earth metals, yttrium and scandium, and the other compounds containing carbon listed in Note 2 to Chapter 28 are excluded from Chapter 29. Organo-inorganic compounds, other than those listed in Note 2 to Chapter 28, fall in Chapter 29."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "(C) Các sản phẩm vẫn được phân loại vào Chương 29, thậm chí khi chúng không phải là những hợp chất đã được xác định về mặt hóa học riêng biệt: Có một số những ngoại lệ đối với quy tắc này. Những ngoại lệ này bao gồm những sản phẩm sau: Nhóm 29.09 - Peroxit xeton; Nhóm 29.12 - Polymer vòng của aldehyt, paraformialdehyt; Nhóm 29.19 - Lactophosphat; Nhóm 29.23 - Lecithins và những phosphoaminolipid khác; Nhóm 29.34 - Các axit nucleic và các muối của chúng.",
+        "en": "(C) Products which remain classified in Chapter 29, even when they are not separate chemically defined compounds: There are certain exceptions to the rule that Chapter 29 is limited to separate chemically defined compounds. These exceptions include the following products: Heading 29.09 - Ketone peroxides; Heading 29.12 - Cyclic polymers of aldehydes, paraformaldehyde; Heading 29.19 - Lactophosphates; Heading 29.23 - Lecithins and other phosphoaminolipids; Heading 29.34 - Nucleic acids and their salts."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "Các sản phẩm không phải hợp chất xác định hóa học vẫn được phân loại trong Chương 29 (tiếp): Nhóm 29.36 - Tiền vitamin và vitamin; Nhóm 29.37 - Các hormon; Nhóm 29.38 - Các glycosit và dẫn xuất; Nhóm 29.39 - Alkaloid và các dẫn xuất; Nhóm 29.40 - Các ete đường, acetal đường, este đường và muối của chúng; Nhóm 29.41- Các kháng sinh. Chương này cũng bao gồm những muối diazonium đã được pha loãng đến nồng độ chuẩn và các dẫn xuất pegylated của các sản phẩm thuộc các nhóm từ 29.36 đến 29.39 và 29.41.",
+        "en": "Products not chemically defined which remain classified in Chapter 29 (cont.): Heading 29.36 - Provitamins and vitamins; Heading 29.37 - Hormones; Heading 29.38 - Glycosides and their derivatives; Heading 29.39 - Alkaloids and their derivatives; Heading 29.40 - Sugar ethers, sugar acetals, sugar esters, and their salts; Heading 29.41 - Antibiotics. This Chapter also includes diazonium salts diluted to standard strengths and pegylated derivatives of products of headings 29.36 to 29.39 and 29.41."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(D) Loại khỏi Chương 29 một số hợp chất hữu cơ đã được xác định về mặt hóa học riêng biệt (Chú giải 2 của Chương): (1) Một số hợp chất luôn bị loại trừ khỏi Chương 29 ngay cả khi ở dạng tinh khiết, ví dụ: (a) Sucroza (17.01); lactose, maltose, glucoza và fructoza (17.02); (b) Cồn ethylic (22.07 hoặc 22.08); (c) Metan và propan (27.11); (d) Các sản phẩm miễn dịch (30.02); (e) Urê (31.02 hoặc 31.05); (f) Chất màu có nguồn gốc từ động vật hoặc thực vật (32.03); (g) Chất màu hữu cơ tổng hợp và sản phẩm tăng sáng huỳnh quang (32.04).",
+        "en": "(D) Exclusion from Chapter 29 of certain separate chemically defined organic compounds (Chapter Note 2): (1) Certain separate chemically defined organic compounds are always excluded from Chapter 29, even when they are pure, for example: (a) Sucrose (17.01); lactose, maltose, glucose and fructose (17.02); (b) Ethyl alcohol (22.07 or 22.08); (c) Methane and propane (27.11); (d) Immunological products (30.02); (e) Urea (31.02 or 31.05); (f) Colouring matter of animal or vegetable origin (32.03); (g) Synthetic organic colouring matter and synthetic organic products of a kind used as fluorescent brightening agents (32.04)."
+      }
+    },
+    {
+      "page": 7,
+      "content": {
+        "vi": "(2) Một số sản phẩm hữu cơ khác có thể bị loại trừ khi chúng được tạo thành các dạng cụ thể hoặc đã qua xử lý nhất định, ví dụ:",
+        "en": "(2) Certain other separate chemically defined organic products may be excluded when put up in certain forms, or if they have been subjected to certain treatments which leave their chemical composition unchanged. Examples are:"
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "(a) Sản phẩm phòng bệnh hoặc trị bệnh, đóng gói theo liều hoặc bán lẻ (30.04); (b) Sản phẩm phát quang đã qua xử lý (32.04); (c) Thuốc nhuộm và chất màu khác đóng gói bán lẻ (32.12); (d) Nước thơm, mỹ phẩm, chế phẩm vệ sinh đóng gói bán lẻ (33.03 đến 33.07); (e) Keo dán đóng gói bán lẻ không quá 1 kg (35.06); (f) Nhiên liệu rắn hoặc lỏng ở dạng nhất định cho bật lửa (36.06); (g) Sản phẩm không pha trộn cho ngành ảnh, đóng gói theo tỷ lệ hoặc bán lẻ (37.07); (h) Chất khử trùng, diệt côn trùng, v.v, đóng gói như miêu tả ở nhóm 38.08; (ij) Sản phẩm nạp cho bình chữa cháy (38.13); (k) Chất tẩy mực đóng gói bán lẻ (38.24); (l) Các bộ phận quang học (90.01).",
+        "en": "(a) Products for therapeutic or prophylactic uses, put up in measured doses or for retail sale (30.04); (b) Products of a kind used as luminophores which have been treated to render them luminescent (32.04); (c) Dyes and other colouring matter put up for retail sale (32.12); (d) Perfumery, cosmetic or toilet preparations put up for retail sale (33.03 to 33.07); (e) Glues or adhesives put up for retail sale not exceeding a net weight of 1 kg (35.06); (f) Solid or liquid fuels put up in forms for use as fuels or for lighters (36.06); (g) Unmixed products for photographic uses, put up in measured portions or for retail sale (37.07); (h) Disinfectants, insecticides, etc., put up as described in heading 38.08; (ij) Products put up as charges for fire-extinguishers (38.13); (k) Ink removers put up in packings for retail sale (38.24); (l) Optical elements (90.01)."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "(E) Các sản phẩm có khả năng được phân loại vào 2 hoặc nhiều nhóm của Chương 29 (Chú giải 3 của Chương): Những sản phẩm này được phân loại vào nhóm có số thứ tự cuối cùng trong số những nhóm có thể được áp dụng. Ví dụ, axit ascobic có thể được coi như là một lactone (29.32) hoặc một vitamin (29.36); vì vậy nó sẽ được phân loại vào nhóm 29.36. Tuy nhiên, nội dung nhóm 29.40 đặc biệt loại trừ các sản phẩm của nhóm 29.37, 29.38 và 29.39.",
+        "en": "(E) Products potentially classifiable in two or more headings of Chapter 29 (Chapter Note 3): Such products are to be classified in the heading placed last in numerical order amongst those which could be applied. For example, ascorbic acid could be regarded as a lactone (29.32) or as a vitamin (29.36); it should therefore be classified in heading 29.36. It should, however, be noted that the text of heading 29.40 specifically excludes the products of headings 29.37, 29.38 and 29.39."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "(F) Các dẫn xuất halogen hóa, sulphonat hóa, nitrat hóa hoặc nitroso hóa và những hợp chất kết hợp của chúng (Chú giải 4 của Chương): Một số nhóm của Chương 29 bao gồm các dẫn xuất halogen hóa, sulphonat hóa, nitrat hóa hoặc nitroso hóa, và cả các dẫn xuất kết hợp (ví dụ, sulphohalogenat hóa, nitrohalogenat hóa). Theo mục đích của nhóm 29.29, các nhóm nitro và nitroso không được coi là các chức nitơ. Các dẫn xuất này được hình thành bằng cách thay thế một hoặc nhiều nguyên tử hydro trong hợp chất ban đầu bởi một hoặc nhiều nhóm halogen, sulfo (-SO3H), nitro (-NO2) hoặc nitroso (-NO) hoặc bất kỳ sự kết hợp nào của chúng, trong khi các nhóm chức năng chính vẫn được giữ nguyên.",
+        "en": "(F) Halogenated, sulphonated, nitrated or nitrosated derivatives and combinations thereof (Chapter Note 4): Certain headings of Chapter 29 include references to halogenated, sulphonated, nitrated or nitrosated derivatives, including compound derivatives (e.g., sulphohalogenated, nitrohalogenated). For the purpose of heading 29.29, nitro and nitroso groups are not to be taken as nitrogen-functions. These derivatives are formed by substitution of one or more hydrogen atoms in the parent compound by one or more halogens, sulpho (-SO3H), nitro (-NO2) or nitroso (-NO) groups or any combination thereof, while any functional group taken into consideration for classification should remain intact."
+      }
+    },
+    {
+      "page": 9,
+      "content": {
+        "vi": "(G) Phân loại các este, các muối, các hợp chất phối trí và một vài halogenua (Chú giải 5 của Chương): (1) Các este của hợp chất hữu cơ có chức axít (Phân Chương I-VII) với hợp chất hữu cơ khác của các phân chương này sẽ được phân loại vào nhóm có số thứ tự cuối cùng. Este với cồn etylic được phân loại cùng với hợp chất chức axit tương ứng. (2) Muối vô cơ của hợp chất hữu cơ được phân loại vào nhóm tương ứng với hợp chất hữu cơ. Muối được tạo thành giữa các hợp chất hữu cơ của các phân chương I-X hoặc nhóm 29.42 sẽ được xếp vào nhóm phù hợp với bazơ hoặc axit, loại có số thứ tự sau cùng.",
+        "en": "(G) Classification of esters, salts, co-ordination compounds and certain halides (Chapter Note 5): (1) Esters of acid-function organic compounds (sub-Chapters I-VII) with other organic compounds of these sub-Chapters are to be classified with the compound which is classified in the heading which occurs last in numerical order. Esters with ethyl alcohol are classified with the corresponding acid-function compound. (2) Inorganic salts of organic compounds are to be classified in the heading appropriate to the organic compound. Salts formed between organic compounds of sub-Chapters I to X or heading 29.42 are to be classified in the heading appropriate to the base or to the acid, whichever occurs last in numerical order."
+      }
+    },
+    {
+      "page": 11,
+      "content": {
+        "vi": "(3) Các hợp chất phối trí, trừ các sản phẩm thuộc phân Chương XI hoặc nhóm 29.41, phải được phân loại theo mảnh (fragment) rơi vào nhóm có thứ tự sau cùng của Chương 29 sau khi 'bẻ gãy' tất cả các liên kết kim loại trừ liên kết kim loại-cacbon.",
+        "en": "(3) Co-ordination compounds, other than products classifiable in sub-Chapter XI or heading 29.41, should be classified according to the fragment falling in Chapter 29 in the heading occurring last in numerical order, after “cleaving” of all metal bonds, apart from metal-carbon bonds."
+      }
+    },
+    {
+      "page": 12,
+      "content": {
+        "vi": "(4) Halogenua của axit cacboxylic được phân loại vào cùng nhóm với các axit tương ứng. (H) Phân loại vào các nhóm 29.32, 29.33 và 29.34 (Chú giải 7 của Chương): Các nhóm này không bao gồm epoxit có vòng ba, xeton peroxit, polyme mạch vòng của andehyt hoặc thioaldehyt, anhydrit của axit cacboxilic đa chức, este mạch vòng của rượu đa chức hoặc phenol đa chức với axit đa chức, hoặc imit của axit đa chức, nếu các dị tố trên vòng là kết quả duy nhất của chức năng đóng vòng đó. (IJ) Phân loại các chất dẫn xuất: Việc phân loại các dẫn xuất ở cấp độ nhóm sẽ được xác định khi áp dụng Quy tắc Chú giải tổng quát và Chú giải 3. Trong một nhóm, các dẫn xuất được phân loại theo Chú giải Phân nhóm 1.",
+        "en": "(4) Halides of carboxylic acids are classified in the same heading as the corresponding acids. (H) Classification in headings 29.32, 29.33 and 29.34 (Chapter Note 7): These headings do not include epoxides with a three-membered ring, ketone peroxides, cyclic polymers of aldehydes or of thioaldehydes, anhydrides of polybasic carboxylic acids, cyclic esters of polyhydric alcohols or phenols with polybasic acids, or imides of polybasic acids, if the ring-position hetero-atoms result solely from the cyclising function. (IJ) Classification of derivatives: Classification of derivatives at heading level is determined by application of the General Interpretative Rules and Note 3. Within a heading, derivatives are to be classified by application of Subheading Note 1."
+      }
+    },
+    {
+      "page": 12,
+      "content": {
+        "vi": "(K) Hệ thống vòng ngưng tụ: Một hệ thống vòng ngưng tụ là một hệ thống có ít nhất hai vòng, trong đó chỉ có duy nhất một liên kết chung và chỉ có hai nguyên tử chung. Các hợp chất có nhiều vòng mà trong đó hai vòng chỉ có hai nguyên tử dùng chung được gọi là “ortho- ngưng tụ”. Các hợp chất có nhiều vòng mà trong đó một vòng chỉ có hai nguyên tử chung với mỗi vòng hoặc nhiều hơn của một chuỗi vòng liên tục được gọi là “ortho- và peri- ngưng tụ”.",
+        "en": "(K) Fused ring systems: A fused ring system is one in which there are at least two rings which have one, and only one, common bond and have two, and only two, atoms in common. Polycyclic compounds in which two rings have two, and only two, atoms in common are said to be 'ortho-fused'. Polycyclic compounds in which one ring contains two, and only two, atoms in common with each of two or more rings of a contiguous series of rings are said to be 'ortho- and peri-fused'."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "29.01",
+      "heading_title": {
+        "vi": "Hydrocarbon mạch hở.",
+        "en": "Acyclic hydrocarbons."
+      }
+    },
+    {
+      "heading_id": "29.02",
+      "heading_title": {
+        "vi": "Hydrocarbon mạch vòng.",
+        "en": "Cyclic hydrocarbons."
+      }
+    },
+    {
+      "heading_id": "29.03",
+      "heading_title": {
+        "vi": "Dẫn xuất halogen hóa của hydrocarbon.",
+        "en": "Halogenated derivatives of hydrocarbons."
+      }
+    },
+    {
+      "heading_id": "29.04",
+      "heading_title": {
+        "vi": "Dẫn xuất sulphonat hoá, nitro hoá hoặc nitroso hoá của hydrocarbon, đã hoặc chưa halogen hóa.",
+        "en": "Sulphonated, nitrated or nitrosated derivatives of hydrocarbons, whether or not halogenated."
+      }
+    },
+    {
+      "heading_id": "29.05",
+      "heading_title": {
+        "vi": "Rượu mạch hở và các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng.",
+        "en": "Acyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.06",
+      "heading_title": {
+        "vi": "Rượu mạch vòng và các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng.",
+        "en": "Cyclic alcohols and their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.07",
+      "heading_title": {
+        "vi": "Phenols; rượu phenol.",
+        "en": "Phenols; phenol-alcohols."
+      }
+    },
+    {
+      "heading_id": "29.08",
+      "heading_title": {
+        "vi": "Dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của phenols hoặc của rượu-phenol.",
+        "en": "Halogenated, sulphonated, nitrated or nitrosated derivatives of phenols or phenol-alcohols."
+      }
+    },
+    {
+      "heading_id": "29.09",
+      "heading_title": {
+        "vi": "Ete, rượu-ete, phenol-ete, ete-rượu-phenol, peroxit rượu, peroxit ete, peroxit xeton (đã hoặc chưa xác định về mặt hóa học), và các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của các chất trên.",
+        "en": "Ethers, ether-alcohols, ether-phenols, ether-alcohol-phenols, alcohol peroxides, ether peroxides, acetal and hemiacetal peroxides, ketone peroxides (whether or not chemically defined), and their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.10",
+      "heading_title": {
+        "vi": "Epoxit, rượu epoxy, phenol epoxy và ete epoxy, có một vòng ba cạnh, và các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng.",
+        "en": "Epoxides, epoxyalcohols, epoxy phenols and epoxyethers, with a three-membered ring, and their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.11",
+      "heading_title": {
+        "vi": "Các Axetal và hemiaxetal, có hoặc không có chức oxy khác, và các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng",
+        "en": "Acetals and hemiacetals, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.12",
+      "heading_title": {
+        "vi": "Aldehyt, có hoặc không có chức oxy khác; polyme mạch vòng của aldehyt; paraformaldehyt",
+        "en": "Aldehydes, whether or not with other oxygen function; cyclic polymers of aldehydes; paraformaldehyde."
+      }
+    },
+    {
+      "heading_id": "29.13",
+      "heading_title": {
+        "vi": "Dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của các sản phẩm của nhóm 29.12.",
+        "en": "Halogenated, sulphonated, nitrated or nitrosated derivatives of products of heading 29.12."
+      }
+    },
+    {
+      "heading_id": "29.14",
+      "heading_title": {
+        "vi": "Xeton và quinon, có hoặc không có chức oxy khác, và các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng.",
+        "en": "Ketones and quinones, whether or not with other oxygen function, and their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.15",
+      "heading_title": {
+        "vi": "Axit carboxylic đơn chức no mạch hở và các anhydrit, halogenua, peroxit và peroxyaxit của chúng; các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của các chất trên.",
+        "en": "Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.16",
+      "heading_title": {
+        "vi": "Axit carboxylic đơn chức mạch hở chưa no, axit carboxylic đơn chức mạch vòng, các anhydrit, halogenua, peroxit và peroxyaxit của chúng; các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng.",
+        "en": "Unsaturated acyclic monocarboxylic acids, cyclic monocarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.17",
+      "heading_title": {
+        "vi": "Axit carboxylic đa chức, các anhydrit, halogenua, peroxit và peroxyaxit của chúng; các dẫn xuất halogen hoá, sulphonat hoá, nitro hoá hoặc nitroso hoá của các chất trên.",
+        "en": "Polycarboxylic acids, their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.18",
+      "heading_title": {
+        "vi": "Axit carboxylic có thêm chức oxy và các anhydrit, halogenua, peroxit và peroxyaxit của chúng; các dẫn xuất halogen hóa, sunphonat hóa, nitro hóa hoặc nitroso hóa của các chất trên.",
+        "en": "Carboxylic acids with additional oxygen function and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.19",
+      "heading_title": {
+        "vi": "Este phosphoric và muối của chúng, kể cả lactophosphat; các dẫn xuất đã halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của chúng.",
+        "en": "Phosphoric esters and their salts, including lactophosphates; their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.20",
+      "heading_title": {
+        "vi": "Este của axit vô cơ khác của các phi kim loại (trừ este của hydro halogenua) và muối của chúng; các dẫn xuất halogen hóa, sulphonat hóa, nitro hóa hoặc nitroso hóa của các chất trên.",
+        "en": "Esters of other inorganic acids of non-metals (excluding esters of hydrogen halides) and their salts; their halogenated, sulphonated, nitrated or nitrosated derivatives."
+      }
+    },
+    {
+      "heading_id": "29.21",
+      "heading_title": {
+        "vi": "Hợp chất chức amin (+).",
+        "en": "Amine-function compounds (+)."
+      }
+    },
+    {
+      "heading_id": "29.22",
+      "heading_title": {
+        "vi": "Hợp chất amino chức oxy (+).",
+        "en": "Oxygen-function amino-compounds (+)."
+      }
+    },
+    {
+      "heading_id": "29.23",
+      "heading_title": {
+        "vi": "Muối và hydroxit amoni bậc 4; lecithins và phosphoaminolipit khác, đã hoặc chưa xác định về mặt hóa học.",
+        "en": "Quaternary ammonium salts and hydroxides; lecithins and other phosphoaminolipids, whether or not chemically defined."
+      }
+    },
+    {
+      "heading_id": "29.24",
+      "heading_title": {
+        "vi": "Các hợp chất chức cacboxyamit; hợp chất chức amit của axit carbonic.",
+        "en": "Carboxyamide-function compounds; amide-function compounds of carbonic acid."
+      }
+    },
+    {
+      "heading_id": "29.25",
+      "heading_title": {
+        "vi": "Hợp chất chức carboxyimit (kể cả saccarin và muối của nó) và các hợp chất chức imin.",
+        "en": "Carboxyimide-function compounds (including saccharin and its salts) and imine-function compounds."
+      }
+    },
+    {
+      "heading_id": "29.26",
+      "heading_title": {
+        "vi": "Hợp chất chức nitril.",
+        "en": "Nitrile-function compounds."
+      }
+    },
+    {
+      "heading_id": "29.27",
+      "heading_title": {
+        "vi": "Hợp chất diazo-, azo- hoặc azoxy",
+        "en": "Diazo-, azo- or azoxy-compounds."
+      }
+    },
+    {
+      "heading_id": "29.28",
+      "heading_title": {
+        "vi": "Dẫn xuất của hydrazin hoặc của hydroxylamin.",
+        "en": "Organic derivatives of hydrazine or of hydroxylamine."
+      }
+    },
+    {
+      "heading_id": "29.29",
+      "heading_title": {
+        "vi": "Hợp chất chức nitơ khác.",
+        "en": "Compounds with other nitrogen function."
+      }
+    },
+    {
+      "heading_id": "29.30",
+      "heading_title": {
+        "vi": "Hợp chất lưu huỳnh - hữu cơ.",
+        "en": "Organo-sulphur compounds."
+      }
+    },
+    {
+      "heading_id": "29.31",
+      "heading_title": {
+        "vi": "Hợp chất vô cơ-hữu cơ khác.",
+        "en": "Other organo-inorganic compounds."
+      }
+    },
+    {
+      "heading_id": "29.32",
+      "heading_title": {
+        "vi": "Hợp chất dị vòng chỉ chứa (các) dị tố oxy",
+        "en": "Heterocyclic compounds with oxygen hetero-atom(s) only (+)."
+      }
+    },
+    {
+      "heading_id": "29.33",
+      "heading_title": {
+        "vi": "Hợp chất dị vòng chỉ chứa (các) dị tố nitơ (+).",
+        "en": "Heterocyclic compounds with nitrogen hetero-atom(s) only (+)."
+      }
+    },
+    {
+      "heading_id": "29.34",
+      "heading_title": {
+        "vi": "Các axit nucleic và muối của chúng, đã hoặc chưa được xác định về mặt hóa học; hợp chất dị vòng khác.",
+        "en": "Nucleic acids and their salts, whether or not chemically defined; other heterocyclic compounds."
+      }
+    },
+    {
+      "heading_id": "29.35",
+      "heading_title": {
+        "vi": "Sulphonamides.",
+        "en": "Sulphonamides."
+      }
+    },
+    {
+      "heading_id": "29.36",
+      "heading_title": {
+        "vi": "Tiền vitamin và vitamin các loại, tự nhiên hoặc tái tạo bằng phương pháp tổng hợp (kể cả các chất cô đặc tự nhiên), các dẫn xuất của chúng sử dụng chủ yếu như vitamin, và hỗn hợp của các chất trên, có hoặc không có bất kỳ loại dung môi nào (+).",
+        "en": "Provitamins and vitamins, natural or reproduced by synthesis (including natural concentrates), derivatives thereof used primarily as vitamins, and intermixtures of the foregoing, whether or not in any solvent (+)."
+      }
+    },
+    {
+      "heading_id": "29.37",
+      "heading_title": {
+        "vi": "Các hormon, prostaglandins, thromboxanes và leukotrienes, tự nhiên hoặc tái tạo bằng phương pháp tổng hợp; các dẫn xuất và các chất có cấu trúc tương tự của chúng; kể cả chuỗi polypeptit cải biến, được sử dụng chủ yếu như hormon (+).",
+        "en": "Hormones, prostaglandins, thromboxanes and leukotrienes, natural or reproduced by synthesis; derivatives and structural analogues thereof, including chain modified polypeptides, used primarily as hormones (+)."
+      }
+    },
+    {
+      "heading_id": "29.38",
+      "heading_title": {
+        "vi": "Glycosit, tự nhiên hoặc tái tạo bằng phương pháp tổng hợp, và các muối, ete, este và các dẫn chất khác của chúng.",
+        "en": "Glycosides, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives."
+      }
+    },
+    {
+      "heading_id": "29.39",
+      "heading_title": {
+        "vi": "Alkaloit, tự nhiên hoặc tái tạo bằng phương pháp tổng hợp, và các muối, ete, este và các dẫn xuất của chúng.",
+        "en": "Alkaloids, natural or reproduced by synthesis, and their salts, ethers, esters and other derivatives."
+      }
+    },
+    {
+      "heading_id": "29.40",
+      "heading_title": {
+        "vi": "Đường, tinh khiết về mặt hoá học, trừ sucroza, lactoza, mantoza, glucoza và fructoza; ete đường, axetal đường và este đường, và muối của chúng, trừ các sản phẩm thuộc nhóm 29.37, 29.38 hoặc 29.39.",
+        "en": "Sugars, chemically pure, other than sucrose, lactose, maltose, glucose and fructose; sugar ethers, sugar acetals and sugar esters, and their salts, other than products of heading 29.37, 29.38 or 29.39."
+      }
+    },
+    {
+      "heading_id": "29.41",
+      "heading_title": {
+        "vi": "Kháng sinh (+).",
+        "en": "Antibiotics (+)."
+      }
+    },
+    {
+      "heading_id": "29.42",
+      "heading_title": {
+        "vi": "Hợp chất hữu cơ khác.",
+        "en": "Other organic compounds."
+      }
+    }
+  ]
+}

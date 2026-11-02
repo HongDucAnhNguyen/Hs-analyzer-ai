@@ -1,0 +1,248 @@
+{
+  "chapter_id": "40",
+  "chapter_title": {
+    "vi": "Cao su và các sản phẩm bằng cao su",
+    "en": "Rubber and articles thereof"
+  },
+  "summary": {
+    "vi": "Chương 40 bao gồm cao su và các sản phẩm từ cao su, áp dụng cho cả dạng nguyên liệu thô, bán thành phẩm và thành phẩm đã lưu hóa hoặc chưa lưu hóa. Chú giải 1 định nghĩa rõ khái niệm \"cao su\", bao gồm cao su tự nhiên, cao su tổng hợp, các chất thay thế từ dầu và cao su tái sinh. Chương này loại trừ một số sản phẩm cụ thể như hàng dệt thuộc Phần XI, giày dép thuộc Chương 64, mũ thuộc Chương 65, và các dụng cụ cơ khí hoặc điện thuộc Phần XVI. Chú giải 4 đưa ra các tiêu chí kỹ thuật chi tiết để xác định \"cao su tổng hợp\", liên quan đến khả năng lưu hóa, độ kéo dãn và phục hồi. Chú giải 5 phân biệt giữa cao su chưa pha trộn (nhóm 40.01, 40.02) và cao su đã pha trộn (nhóm 40.05) bằng cách liệt kê các chất phụ gia bị cấm hoặc được phép. Các nhóm trong chương được sắp xếp logic từ cao su thô, tái sinh, hỗn hợp, đến các sản phẩm bán thành phẩm và thành phẩm đã lưu hóa như tấm, ống, lốp xe và các sản phẩm y tế.",
+    "en": "Chapter 40 covers rubber and articles thereof, applying to raw materials, semi-manufactured products, and finished articles, whether vulcanised or unvulcanised. Note 1 defines the term \"rubber\", including natural rubber, synthetic rubber, factice derived from oils, and reclaimed rubber. This chapter excludes certain specific products such as textile articles of Section XI, footwear of Chapter 64, headgear of Chapter 65, and mechanical or electrical appliances of Section XVI. Note 4 provides detailed technical criteria for defining \"synthetic rubber,\" relating to its vulcanisation, elongation, and recovery properties. Note 5 distinguishes between uncompounded rubber (headings 40.01, 40.02) and compounded rubber (heading 40.05) by listing prohibited or permitted additives. The headings within the chapter are logically arranged from raw, reclaimed, and compounded rubber to semi-manufactured and finished articles like plates, tubes, tires, and medical products."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1: Định nghĩa khái niệm \"cao su\" trong toàn bộ Danh mục, bao gồm: cao su tự nhiên, nhựa cây balata, gutta-percha, guayule, chicle và các loại nhựa tự nhiên tương tự, cao su tổng hợp, các chất thay thế cao su từ dầu, và các chất tái sinh, đã hoặc chưa lưu hóa hoặc ở dạng cứng.",
+        "en": "Note 1: Defines the expression \"rubber\" throughout the Nomenclature to mean products whether or not vulcanised or hard: natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, synthetic rubber, factice derived from oils, and such substances reclaimed."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 2: Chương này không bao gồm: (a) Hàng hóa thuộc Phần XI (nguyên liệu dệt và sản phẩm dệt); (b) Giày dép và các bộ phận của chúng thuộc Chương 64.",
+        "en": "Note 2: This Chapter does not cover: (a) Goods of Section XI (textiles and textile articles); (b) Footwear or parts thereof of Chapter 64."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 2 (tiếp theo): Chương này không bao gồm: (c) Mũ và các vật đội đầu khác hoặc các bộ phận của chúng thuộc Chương 65; (d) Dụng cụ điện, cơ khí hoặc các bộ phận của chúng thuộc Phần XVI làm bằng cao su cứng; (e) Sản phẩm thuộc các Chương 90, 92, 94 hoặc 96; (f) Sản phẩm thuộc Chương 95 (trừ găng tay thể thao và các sản phẩm thuộc các nhóm từ 40.11 đến 40.13).",
+        "en": "Note 2 (continued): This Chapter does not cover: (c) Headgear or parts thereof of Chapter 65; (d) Mechanical or electrical appliances or parts thereof of Section XVI, of hard rubber; (e) Articles of Chapter 90, 92, 94 or 96; (f) Articles of Chapter 95 (other than sports gloves, mittens and mitts and articles of headings 40.11 to 40.13)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 3: Trong các nhóm 40.01 đến 40.03 và 40.05, khái niệm “dạng nguyên sinh” áp dụng cho dạng lỏng, nhão (kể cả latex), và các khối không đều, cục, bành, bột, hạt, miếng, mảnh.",
+        "en": "Note 3: In headings 40.01 to 40.03 and 40.05, the expression \"primary forms\" applies to liquids, pastes, and blocks of irregular shape, lumps, bales, powders, granules, crumbs and similar bulk forms."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 4: Trong Chú giải 1 và nhóm 40.02, khái niệm “cao su tổng hợp” áp dụng cho: (a) Các chất tổng hợp chưa no có thể lưu hóa với lưu huỳnh thành loại không phải nhiệt dẻo, đáp ứng các tiêu chí về độ kéo dãn và phục hồi; (b) Chất dẻo có chứa lưu huỳnh (TM); và (c) Cao su tự nhiên đã biến đổi hoặc hỗn hợp các chất tổng hợp chưa no với các polyme cao phân tử tổng hợp no, đáp ứng các yêu cầu ở mục (a).",
+        "en": "Note 4: In Note 1 and heading 40.02, \"synthetic rubber\" applies to: (a) Unsaturated synthetic substances which can be transformed by vulcanisation with sulphur into non-thermoplastic substances and meet specific elongation and recovery tests; (b) Thioplasts (TM); and (c) Modified natural rubber or mixtures of unsaturated synthetic substances with saturated synthetic high polymers, provided they comply with the requirements in (a)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 5(A): Các nhóm 40.01 và 40.02 không áp dụng cho cao su hoặc hỗn hợp cao su đã kết hợp với: (i) chất lưu hoá, xúc tác, hãm hoặc kích hoạt; (ii) thuốc màu hoặc các chất màu khác; (iii) chất hoá dẻo, chất trương nở (trừ dầu khoáng), chất độn, tác nhân gia cố, dung môi hữu cơ.",
+        "en": "Note 5(A): Headings 40.01 and 40.02 do not apply to any rubber or mixture of rubbers compounded with: (i) vulcanising agents, accelerators, retarders or activators; (ii) pigments or other colouring matter; (iii) plasticisers or extenders (except mineral oil), fillers, reinforcing agents, organic solvents."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải 5(B): Sự có mặt của các chất sau đây không ảnh hưởng đến việc phân loại trong nhóm 40.01 hoặc 40.02, miễn là cao su vẫn giữ được đặc trưng của nguyên liệu thô: (i) chất nhũ hoá hoặc chất chống dính; (ii) lượng nhỏ sản phẩm phân nhỏ của chất nhũ hoá; (iii) một lượng rất nhỏ các chất như chất nhạy nhiệt, tác nhân hoạt động bề mặt cation, chất chống oxy hoá, chất làm đông tụ.",
+        "en": "Note 5(B): The presence of the following substances shall not affect classification in heading 40.01 or 40.02, provided the rubber retains its essential character as a raw material: (i) emulsifiers or anti-tack agents; (ii) small amounts of breakdown products of emulsifiers; (iii) very small amounts of agents like heat-sensitive agents, cationic surface-active agents, antioxidants, coagulants."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải 6: Theo mục đích của nhóm 40.04, khái niệm “phế liệu, phế thải và mảnh vụn\" chỉ các chất thải cao su và các sản phẩm cao su không còn sử dụng được do cắt, mài mòn hoặc các lý do khác.",
+        "en": "Note 6: For the purposes of heading 40.04, \"waste, parings and scrap\" means rubber waste, parings and scrap from manufacturing and rubber goods not usable as such because of cutting-up, wear or other reasons."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải 7: Sợi hoàn toàn bằng cao su lưu hoá, có kích thước mặt cắt ngang trên 5 mm, được phân loại như các loại dải, thanh hoặc dạng hình khác thuộc nhóm 40.08.",
+        "en": "Note 7: Thread wholly of vulcanised rubber, of which any cross-sectional dimension exceeds 5 mm, is to be classified as strip, rods or profile shapes, of heading 40.08."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải 8: Nhóm 40.10 gồm cả băng tải, đai tải, băng truyền (dây curoa) bằng vải dệt đã ngâm tẩm, tráng, phủ, hoặc ép với cao su hoặc làm từ sợi dệt đã được xử lý tương tự.",
+        "en": "Note 8: Heading 40.10 includes conveyor or transmission belts or belting of textile fabric impregnated, coated, covered or laminated with rubber or made from textile yarn or cord similarly treated."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải 9: Trong các nhóm 40.01, 40.02, 40.03, 40.05 và 40.08, khái niệm “tấm\", \"tờ\" và \"dải” chỉ áp dụng cho các sản phẩm chưa cắt hoặc mới chỉ cắt thành hình chữ nhật. Trong nhóm 40.08, “thanh” và “dạng hình” chỉ áp dụng cho sản phẩm đã hoặc chưa cắt thành từng đoạn.",
+        "en": "Note 9: In headings 40.01, 40.02, 40.03, 40.05 and 40.08, \"plates”, “sheets\" and \"strip\" apply only to products uncut or simply cut to rectangular shape. In heading 40.08, “rods” and “profile shapes\" apply to such products whether or not cut to length."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 3,
+      "content": {
+        "vi": "Tổng quát - Định nghĩa về cao su: Khái niệm \"cao su\" được định nghĩa trong Chú giải 1. Khi được sử dụng không có tiêu chuẩn, nó có nghĩa là các sản phẩm sau: (1) Cao su tự nhiên, balata, nhựa két, và các loại nhựa tự nhiên tương tự (xem Chú giải chi tiết nhóm 40.01).",
+        "en": "General - Definition of rubber: The expression \"rubber\" is defined in Note 1. It means the following products: (1) Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums (see the Explanatory Note to heading 40.01)."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Tổng quát - Định nghĩa về cao su (tiếp theo): (2) Cao su tổng hợp như định nghĩa trong Chú giải 4 (xem Chú giải chi tiết nhóm 40.02); (3) Chất thay thế cao su dẫn xuất từ dầu (xem Chú giải nhóm 40.02); (4) Cao su tái sinh (xem Chú giải nhóm 40.03). Khái niệm \"cao su\" bao gồm các sản phẩm trên, dù chưa, đã lưu hóa hoặc cứng. Thuật ngữ \"đã lưu hoá\" nói chung chỉ cao su đã được liên kết ngang. Các sản phẩm làm từ chất đã được xác định là cao su tổng hợp được xem là sản phẩm cao su lưu hoá cho mục đích của các nhóm từ 40.07 tới 40.17. Cao su hỗn hợp được phân loại trong nhóm 40.05 hoặc 40.06. Cao su cứng (ebonit) là cao su được lưu hoá với tỷ lệ lưu huỳnh cao.",
+        "en": "General - Definition of rubber (continued): (2) Synthetic rubber as defined in Note 4 (see Explanatory Note to heading 40.02); (3) Factice derived from oils (see Explanatory Note to heading 40.02); (4) Reclaimed rubber (see Explanatory Note to heading 40.03). The expression \"rubber\" covers these products whether unvulcanised, vulcanised or hard. The term \"vulcanised\" generally refers to cross-linked rubber. Products made from a substance determined to be synthetic rubber are considered as vulcanised rubber products for headings 40.07 to 40.17. Compounded rubber is classified in heading 40.05 or 40.06. Hard rubber (ebonite) is rubber vulcanised with a high proportion of sulphur."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Tổng quát - Phạm vi của Chương: Chương này bao gồm cao su ở dạng nguyên liệu thô, bán thành phẩm, đã hoặc chưa lưu hoá hay cứng, và các sản phẩm làm toàn bộ từ cao su, trừ các sản phẩm bị loại trừ theo Chú giải 2. Các nhóm được sắp xếp chung: (a) Nhóm 40.01 và 40.02 gồm cao su thô; (b) Nhóm 40.03 và 40.04 gồm cao su tái sinh và phế liệu; (c) Nhóm 40.05 gồm cao su hỗn hợp chưa lưu hóa; (d) Nhóm 40.06 gồm các dạng khác của cao su chưa lưu hóa; (e) Các nhóm từ 40.07 đến 40.16 gồm bán thành phẩm và sản phẩm cao su đã lưu hóa; (f) Nhóm 40.17 gồm cao su cứng.",
+        "en": "General - Scope of the Chapter: This Chapter covers rubber in raw or semi-manufactured states, whether or not vulcanised or hard, and articles wholly of rubber, other than products excluded by Note 2. The general arrangement of headings: (a) Headings 40.01 and 40.02 cover raw rubber; (b) Headings 40.03 and 40.04 cover reclaimed rubber and waste; (c) Heading 40.05 covers unvulcanised compounded rubber; (d) Heading 40.06 covers other forms of unvulcanised rubber; (e) Headings 40.07 to 40.16 cover semi-manufactures and articles of vulcanised rubber; (f) Heading 40.17 covers hard rubber."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Tổng quát - Cao su dạng nguyên sinh (nhóm 40.01 đến 40.03 và 40.05): Định nghĩa trong Chú giải 3. Mủ cao su tiền lưu hóa được coi là chưa lưu hóa. Các dạng phân tán và hòa tan khác trong Chú giải 3 chỉ áp dụng cho nhóm 40.05. Cao su ở dạng tấm, tờ và dải (nhóm 40.01, 40.02, 40.03, 40.05 và 40.08) được định nghĩa trong Chú giải 9. Cao su xốp là cao su có các lỗ rỗng.",
+        "en": "General - Primary forms (headings 40.01 to 40.03 and 40.05): Defined in Note 3. Pre-vulcanised latex is regarded as unvulcanised. \"Other dispersions and solutions\" in Note 3 applies only to heading 40.05. Plates, sheets and strip (headings 40.01, 40.02, 40.03, 40.05 and 40.08) are defined in Note 9. Cellular rubber is rubber having many cells."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Tổng quát - Chú giải 5: Quy định tiêu chuẩn để phân biệt cao su chưa hỗn hợp (nhóm 40.01, 40.02) với cao su hỗn hợp (nhóm 40.05). Các sản phẩm cao su kết hợp với vật liệu dệt: Việc phân loại được quy định trong Chú giải 1 (ij) của Phần XI, Chú giải 3 ở Chương 56 và Chú giải 5 ở Chương 59. Đối với băng tải, áp dụng Chú giải 8 Chương 40 và Chú giải 7 (b) Chương 59.",
+        "en": "General - Note 5: Provides criteria to distinguish uncompounded rubber (headings 40.01, 40.02) from compounded rubber (heading 40.05). Rubber and textile combinations: Classification is governed by Note 1 (ij) to Section XI, Note 3 to Chapter 56 and Note 5 to Chapter 59. For conveyor belts, Note 8 to Chapter 40 and Note 7 (b) to Chapter 59 apply."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "40.01",
+      "heading_title": {
+        "vi": "Cao su tự nhiên, nhựa cây balata, nhựa két, nhựa cây cúc cao su, nhựa cây họ sacolasea và các loại nhựa tự nhiên tương tự, ở dạng nguyên sinh hoặc dạng tấm, lá hoặc dải.",
+        "en": "Natural rubber, balata, gutta-percha, guayule, chicle and similar natural gums, in primary forms or in plates, sheets or strip."
+      }
+    },
+    {
+      "heading_id": "40.02",
+      "heading_title": {
+        "vi": "Cao su tổng hợp và các chất thay thế cao su dẫn xuất từ dầu, ở dạng nguyên sinh hoặc dạng tấm, tờ hoặc dải; hỗn hợp của một sản phẩm bất kỳ của nhóm 40.01 với một sản phẩm bất kỳ của nhóm này, ở dạng nguyên sinh hoặc dạng tấm, tờ hoặc dải.",
+        "en": "Synthetic rubber and factice derived from oils, in primary forms or in plates, sheets or strip; mixtures of any product of heading 40.01 with any product of this heading, in primary forms or in plates, sheets or strip."
+      }
+    },
+    {
+      "heading_id": "40.03",
+      "heading_title": {
+        "vi": "Cao su tái sinh ở dạng nguyên sinh hoặc dạng tấm, tờ hoặc dải.",
+        "en": "Reclaimed rubber in primary forms or in plates, sheets or strip."
+      }
+    },
+    {
+      "heading_id": "40.04",
+      "heading_title": {
+        "vi": "Phế liệu, phế thải và mảnh vụn từ cao su (trừ cao su cứng) và bột và hạt thu được từ chúng.",
+        "en": "Waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom."
+      }
+    },
+    {
+      "heading_id": "40.05",
+      "heading_title": {
+        "vi": "Cao su hỗn hợp, chưa lưu hóa, ở dạng nguyên sinh hoặc dạng tấm, tờ hoặc dải.",
+        "en": "Compounded rubber, unvulcanised, in primary forms or in plates, sheets or strip."
+      }
+    },
+    {
+      "heading_id": "40.06",
+      "heading_title": {
+        "vi": "Các dạng khác (ví dụ, thanh, ống và dạng hình) và các sản phẩm khác (ví dụ, đĩa và vòng), bằng cao su chưa lưu hóa.",
+        "en": "Other forms (for example, rods, tubes and profile shapes) and articles (for example, discs and rings), of unvulcanised rubber."
+      }
+    },
+    {
+      "heading_id": "40.07",
+      "heading_title": {
+        "vi": "Chỉ sợi và dây bện bằng cao su lưu hóa.",
+        "en": "Vulcanised rubber thread and cord."
+      }
+    },
+    {
+      "heading_id": "40.08",
+      "heading_title": {
+        "vi": "Tấm, tờ, dải, thanh và dạng hình, bằng cao su lưu hoá trừ cao su cứng.",
+        "en": "Plates, sheets, strip, rods and profile shapes, of vulcanised rubber other than hard rubber."
+      }
+    },
+    {
+      "heading_id": "40.09",
+      "heading_title": {
+        "vi": "Các loại ống, ống dẫn và ống vòi, bằng cao su lưu hóa trừ cao su cứng, có hoặc không kèm theo các phụ kiện để ghép nối (ví dụ, các đoạn nối, khớp, khuỷu, vành đệm).",
+        "en": "Tubes, pipes and hoses, of vulcanised rubber other than hard rubber, with or without their fittings (for example, joints, elbows, flanges)."
+      }
+    },
+    {
+      "heading_id": "40.10",
+      "heading_title": {
+        "vi": "Băng tải hoặc đai tải hoặc băng truyền (dây cu roa) hoặc đai truyền, bằng cao su lưu hóa.",
+        "en": "Conveyor or transmission belts or belting, of vulcanised rubber."
+      }
+    },
+    {
+      "heading_id": "40.11",
+      "heading_title": {
+        "vi": "Lốp loại bơm hơi bằng cao su, chưa qua sử dụng (+).",
+        "en": "New pneumatic tyres, of rubber (+)."
+      }
+    },
+    {
+      "heading_id": "40.12",
+      "heading_title": {
+        "vi": "Lốp bằng cao su loại bơm hơi đã qua sử dụng hoặc đắp lại; lốp đặc hoặc nửa đặc, hoa lốp và lót vành, bằng cao su (+).",
+        "en": "Retreaded or used pneumatic tyres of rubber; solid or cushion tyres, tyre treads and tyre flaps, of rubber (+)."
+      }
+    },
+    {
+      "heading_id": "40.13",
+      "heading_title": {
+        "vi": "Săm các loại, bằng cao su.",
+        "en": "Inner tubes, of rubber."
+      }
+    },
+    {
+      "heading_id": "40.14",
+      "heading_title": {
+        "vi": "Sản phẩm vệ sinh hoặc y tế (kể cả núm vú cao su), bằng cao su lưu hóa trừ cao su cứng, có hoặc không kèm theo các phụ kiện để ghép nối bằng cao su cứng.",
+        "en": "Hygienic or pharmaceutical articles (including teats), of vulcanised rubber other than hard rubber, with or without fittings of hard rubber."
+      }
+    },
+    {
+      "heading_id": "40.15",
+      "heading_title": {
+        "vi": "Sản phẩm may mặc và đồ phụ trợ may mặc (kể cả găng tay, găng hở ngón và găng bao tay), dùng cho mọi mục đích, bằng cao su lưu hóa trừ cao su cứng.",
+        "en": "Articles of apparel and clothing accessories (including gloves, mittens and mitts), for all purposes, of vulcanised rubber other than hard rubber (+)."
+      }
+    },
+    {
+      "heading_id": "40.16",
+      "heading_title": {
+        "vi": "Các sản phẩm khác bằng cao su lưu hóa trừ cao su cứng.",
+        "en": "Other articles of vulcanised rubber other than hard rubber."
+      }
+    },
+    {
+      "heading_id": "40.17",
+      "heading_title": {
+        "vi": "Cao su cứng (ví dụ, ebonit) ở các dạng, kể cả phế liệu và phế thải; các sản phẩm bằng cao su cứng.",
+        "en": "Hard rubber (for example, ebonite) in all forms, including waste and scrap; articles of hard rubber."
+      }
+    }
+  ]
+}

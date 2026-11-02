@@ -1,0 +1,108 @@
+{
+  "heading_id": "63.05",
+  "heading_title": {
+    "vi": "Bao và túi, loại dùng để đóng, gói hàng",
+    "en": "Sacks and bags, of a kind used for the packing of goods"
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại túi và bao dệt thường được sử dụng để đóng gói, vận chuyển, cất giữ hoặc bán hàng hóa. Các sản phẩm này có nhiều kích cỡ và hình dạng khác nhau, bao gồm túi loại lớn có thể gấp, mở linh hoạt (flexible intermediate bulk containers), túi đựng ngũ cốc, than, cà phê, túi đưa thư và các loại túi nhỏ như túi trà. Nhóm này không bao gồm vải để đóng gói hàng hóa được khâu sơ sài ở các cạnh nhưng không tạo thành túi hoặc bao thành phẩm hay bán thành phẩm (nhóm 63.07). Chú giải Phân nhóm 6305.32 định nghĩa rõ 'Túi loại lớn có thể gấp mở linh hoạt' thường làm bằng vải dệt polyethylene hoặc polypropylene, có sức chứa từ 250 kg đến 3.000 kg, có thể có quai nâng và các lỗ để bốc, dỡ hàng.",
+    "en": "This heading covers textile sacks and bags of a kind normally used for the packing, transport, storage or sale of goods. These articles vary in size and shape and include flexible intermediate bulk containers, sacks for grain, coal, coffee, mail bags, and small bags such as tea sachets. The heading excludes packing cloths which are roughly stitched at the edges but do not constitute finished or unfinished sacks or bags (heading 63.07). The Subheading Explanatory Note to 6305.32 defines 'Flexible intermediate bulk containers' as usually made of polypropylene or polyethylene woven fabrics, with a capacity from 250 kg to 3,000 kg, and may have lifting straps and openings for loading and unloading."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại túi dệt và bao loại thường được sử dụng để gói, đựng hàng hóa để vận chuyển, cất giữ hoặc bán.\nCác mặt hàng này có kích cỡ và hình dáng khác nhau, đặc biệt kể cả túi loại lớn có thể gấp, mở một cách nhanh chóng và linh hoạt, các loại túi để đựng ngũ cốc, than, tinh bột, khoai tây, cà phê hoặc các loại túi tương tự, túi đưa thư, và các loại túi nhỏ dùng để gửi hàng hóa mẫu theo đường bưu điện. Nhóm này cũng bao gồm các sản phẩm như túi trà.",
+        "en": "This heading covers textile sacks and bags of a kind normally used for the packing of goods for transport, storage or sale.\nThese articles, which vary in size and shape, include in particular flexible intermediate bulk containers, coal, grain, flour, potato, coffee or similar sacks, mail bags, and small bags of the kind used- for sending samples of merchandise by post. The heading also includes such articles as tea sachets."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này loại trừ vải để đóng gói hay đựng hàng hóa sau khi sử dụng như đồ để gói, bọc kiện hàng, chúng được khâu chặt hay lỏng lại với nhau ở cạnh hoặc rìa, nhưng chúng không tạo thành các loại túi, bao thành phẩm hay bán thành phẩm (nhóm 63.07).",
+        "en": "Packing cloths which, after use as bale wrappings, are roughly or loosely stitched together at the edges, but which do not constitute finished or unfinished sacks or bags are excluded (heading 63.07)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm 6305.32\nTúi loại lớn có thể gấp mở linh hoạt thường được làm bằng vải dệt polyethylene hoặc polypropylene và thông thường có thể chứa từ 250 kg đến 3000kg. Túi loại này có thể có quai để nâng lên cao ở 4 đỉnh và có thể có các lỗ ở đỉnh và ở đáy để thuận tiện cho việc bốc, dỡ. Túi loại này thường dùng để đóng gói, cất giữ, vận chuyển và đựng các vật liệu khô, dễ trôi.",
+        "en": "Subheading Explanatory Note.\nSubheading 6305.32\nFlexible intermediate bulk containers are usually made of polypropylene or polyethylene woven fabrics and generally have a capacity ranging from 250 kg to 3,000 kg. They may have lifting straps at the four top comers and may be fitted with openings at the top and bottom to facilitate loading and unloading. They are generally used for packing, storage, transport and handling of dry, flowable materials."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6305.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ đay hoặc các nguyên liệu dệt từ sợi libe khác thuộc nhóm 53.03",
+        "en": "Of jute or of other textile bast fibres of heading 53.03"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6305.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ bông",
+        "en": "Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ vật liệu dệt nhân tạo:",
+        "en": "Of man-made textile materials:"
+      },
+      "subheading_id": "6305.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Túi, bao đựng hàng loại lớn có thể gấp, mở linh hoạt",
+        "en": "Flexible intermediate bulk containers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ vật liệu dệt nhân tạo:",
+        "en": "Of man-made textile materials:"
+      },
+      "subheading_id": "6305.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, từ dải polyetylen hoặc dải polypropylen hoặc dạng tương tự:",
+        "en": "Other, of polyethylene or polypropylene strip or the like"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ vật liệu dệt nhân tạo:",
+        "en": "Of man-made textile materials:"
+      },
+      "subheading_id": "6305.39",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6305.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ các vật liệu dệt khác",
+        "en": "Of other textile materials"
+      }
+    }
+  ]
+}

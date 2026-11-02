@@ -1,0 +1,161 @@
+{
+  "heading_id": "88.06",
+  "heading_title": {
+    "vi": "Phương tiện bay không người lái.",
+    "en": "Unmanned aircraft."
+  },
+  "summary": {
+    "vi": "Nhóm 88.06 bao gồm các phương tiện bay không người lái, được thiết kế để bay mà không có phi công trên khoang, ngoại trừ những loại được nêu trong nhóm 88.01. Các phương tiện này có thể được điều khiển từ xa bởi một người vận hành hoặc bay tự động theo chương trình đã được lập trình sẵn. Chúng thường được trang bị các bộ phận như cánh quạt, rôto, cánh cố định và các hệ thống liên lạc, định vị vệ tinh toàn cầu (GNSS). Các phương tiện bay này được thiết kế để thực hiện các chức năng hữu ích như vận chuyển hàng hóa, hành khách, chụp ảnh trên không, công việc nông nghiệp, khoa học, cứu hộ, chữa cháy, giám sát hoặc cho các mục đích quân sự. Nhóm này loại trừ các loại đồ chơi hoặc mô hình bay được thiết kế chỉ nhằm mục đích giải trí và không có khả năng thực hiện các chức năng thực dụng, những loại này được phân loại vào nhóm 95.03.",
+    "en": "Heading 88.06 covers unmanned aircraft designed to be flown without a pilot on board, with the exception of those specified in heading 88.01. These aircraft may be remote-controlled by an operator or fly autonomously according to a pre-programmed flight plan. They are commonly equipped with components such as propellers, rotors, fixed wings, and communication and Global Navigation Satellite Systems (GNSS). These aircraft are designed to perform utilitarian functions such as carrying cargo, passengers, aerial photography, agricultural or scientific work, rescue duties, firefighting, surveillance, or for military purposes. This heading excludes flying toys or models designed solely for recreational purposes that cannot perform utilitarian functions; these are classified in heading 95.03."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 1 của Chương này, nhóm này bao gồm phương tiện bay không người lái, được thiết kế để bay mà không có người lái trên máy bay, trừ những loại được nêu trong nhóm 88.01. Phương tiện bay không người lái có thể được điều khiển từ xa bởi người điều khiển hoặc có khả năng bay theo chương trình đã được lập trình mà không cần sự can thiệp của người vận hành. Chúng thường được trang bị một hoặc nhiều cánh quạt hoặc rôto, hoặc cánh cố định, và hệ thống liên lạc. Chúng cũng có thể tích hợp máy thu Hệ thống Vệ tinh Định vị Toàn cầu (GNSS) như GPS, GLONASS, BEIDOU để bay ổn định, quay về điểm cất cánh, và các hệ thống tránh chướng ngại vật, nhận dạng và theo dõi đối tượng.",
+        "en": "In accordance with Note 1 to this Chapter, this heading covers unmanned aircraft designed to fly without a pilot on board, other than those specified in heading 88.01. Unmanned aircraft may be remote-controlled by an operator or capable of programmed flight without operator intervention. They are commonly equipped with one or more propellers, rotors, or fixed wings, and communication systems. They may also incorporate Global Navigation Satellite System (GNSS) receivers such as GPS, GLONASS, BEIDOU for stable flight, returning to the take-off point, and systems for obstacle avoidance, object recognition, and tracking."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Phương tiện bay không người lái có thể được thiết kế để mang trọng tải hoặc trang bị camera kỹ thuật số tích hợp hoặc thiết bị khác cho các chức năng như vận chuyển hàng hóa, hành khách, chụp ảnh trên không, công việc nông nghiệp, khoa học, cứu hộ, chữa cháy, giám sát, hoặc mục đích quân sự. Nhóm này không bao gồm đồ chơi hoặc mô hình bay chỉ nhằm mục đích giải trí (nhóm 95.03), được phân biệt bởi trọng lượng thấp, độ cao, khoảng cách, thời gian bay hạn chế, tốc độ tối đa thấp, không có khả năng bay tự động, không mang được hàng hóa, và không có thiết bị điện tử phức tạp như Hệ thống định vị toàn cầu.",
+        "en": "Unmanned aircraft may be designed to carry a payload or be equipped with permanently integrated digital cameras or other equipment for functions such as carrying cargo, passengers, aerial photography, agricultural, scientific work, rescue duties, fire-fighting, surveillance, or for military purposes. The heading excludes flying toys or models designed solely for recreational purposes (heading 95.03), which are distinguished by their low weight, limited height, distance, flight time, low maximum speed, inability to fly autonomously, inability to carry a cargo, and lack of sophisticated electronic apparatus like Global Positioning Systems."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8806.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Được thiết kế để vận chuyển hành khách",
+        "en": "- Designed for the carriage of passengers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, chỉ sử dụng cho chuyến bay được điều khiển từ xa:",
+        "en": "Other, for remote-controlled flight only :"
+      },
+      "subheading_id": "8806.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng cất cánh tối đa không quá 250 g",
+        "en": "- - With maximum take-off weight not more than 250 g"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, chỉ sử dụng cho chuyến bay được điều khiển từ xa:",
+        "en": "Other, for remote-controlled flight only :"
+      },
+      "subheading_id": "8806.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng cất cánh tối đa trên 250 g nhưng không quá 7 kg",
+        "en": "- - With maximum take-off weight more than 250 g but not more than 7 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, chỉ sử dụng cho chuyến bay được điều khiển từ xa:",
+        "en": "Other, for remote-controlled flight only :"
+      },
+      "subheading_id": "8806.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng cất cánh tối đa trên 7 kg nhưng không quá 25 kg",
+        "en": "- - With maximum take-off weight more than 7 kg but not more than 25 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, chỉ sử dụng cho chuyến bay được điều khiển từ xa:",
+        "en": "Other, for remote-controlled flight only :"
+      },
+      "subheading_id": "8806.24",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng cất cánh tối đa trên 25 kg nhưng không quá 150 kg",
+        "en": "- - With maximum take-off weight more than 25 kg but not more than 150 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác, chỉ sử dụng cho chuyến bay được điều khiển từ xa:",
+        "en": "Other, for remote-controlled flight only :"
+      },
+      "subheading_id": "8806.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other :"
+      },
+      "subheading_id": "8806.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng cất cánh tối đa không quá 250 g",
+        "en": "- - With maximum take-off weight not more than 250 g"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other :"
+      },
+      "subheading_id": "8806.92",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng cất cánh tối đa trên 250 g nhưng không quá 7 kg",
+        "en": "- - With maximum take-off weight more than 250 g but not more than 7 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other :"
+      },
+      "subheading_id": "8806.93",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng cất cánh tối đa trên 7 kg nhưng không quá 25kg",
+        "en": "- - With maximum take-off weight more than 7 kg but not more than 25 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other :"
+      },
+      "subheading_id": "8806.94",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Trọng lượng cất cánh tối đa trên 25 kg nhưng không quá 150kg",
+        "en": "- - With maximum take-off weight more than 25 kg but not more than 150 kg"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Loại khác:",
+        "en": "Other :"
+      },
+      "subheading_id": "8806.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

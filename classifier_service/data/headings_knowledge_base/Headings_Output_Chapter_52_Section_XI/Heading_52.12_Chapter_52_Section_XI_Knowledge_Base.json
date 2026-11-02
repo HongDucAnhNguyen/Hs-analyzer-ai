@@ -1,0 +1,142 @@
+{
+  "heading_id": "52.12",
+  "heading_title": {
+    "vi": "Vải dệt thoi khác từ sợi bông.",
+    "en": "Other woven fabrics of cotton."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải dệt thoi từ sợi bông, cụ thể là các loại vải dệt từ sợi đã được pha. Nhóm này không bao gồm các loại vải thuộc các nhóm trước của Chương này hoặc các loại vải được chỉ rõ hay nằm trong mục thứ hai của Phần XI (thường là Chương 58 hoặc 59). Nhóm này cũng loại trừ băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05).",
+    "en": "This heading covers woven fabrics of cotton, specifically mixed woven fabrics. It excludes fabrics of the preceding headings of this Chapter, or fabrics specified or included in the second part of Section XI (usually Chapter 58 or 59). It also excludes bandages, medicated or put up for retail sale (heading 30.05)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại vải dệt thoi (như đã định nghĩa trong Phần (I) (C) của Chú giải tổng quát Phần XI) làm từ sợi bông. Tuy nhiên, cần chú ý rằng nhóm này chỉ bao gồm các loại vải dệt từ sợi đã được pha, không bao gồm các vải thuộc nhóm trước của Chương này hoặc được chỉ rõ hay nằm trong mục thứ hai của Phần XI (thông thường ở Chương 58 hoặc 59).\nNhóm này loại trừ băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05).",
+        "en": "This heading covers woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI) made of cotton yarns. However, it should be noted that it covers only mixed woven fabrics, other than those of the preceding headings of this Chapter or specified or included in the second part of this Section (Chapter 58 or 59, usually).\nBandages, medicated or put up for retail sale, are excluded (heading 30.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng không quá 200g/m2:",
+        "en": "- Weighing not more than 200 g/m2:"
+      },
+      "subheading_id": "5212.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng",
+        "en": "- - Unbleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng không quá 200g/m2:",
+        "en": "- Weighing not more than 200 g/m2:"
+      },
+      "subheading_id": "5212.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã tẩy trắng",
+        "en": "- - Bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng không quá 200g/m2:",
+        "en": "- Weighing not more than 200 g/m2:"
+      },
+      "subheading_id": "5212.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng không quá 200g/m2:",
+        "en": "- Weighing not more than 200 g/m2:"
+      },
+      "subheading_id": "5212.14",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có các màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng không quá 200g/m2:",
+        "en": "- Weighing not more than 200 g/m2:"
+      },
+      "subheading_id": "5212.15",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng trên 200g/m2:",
+        "en": "- Weighing more than 200 g/m2:"
+      },
+      "subheading_id": "5212.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Chưa tẩy trắng",
+        "en": "- - Unbleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng trên 200g/m2:",
+        "en": "- Weighing more than 200 g/m2:"
+      },
+      "subheading_id": "5212.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã tẩy trắng",
+        "en": "- - Bleached"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng trên 200g/m2:",
+        "en": "- Weighing more than 200 g/m2:"
+      },
+      "subheading_id": "5212.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã nhuộm",
+        "en": "- - Dyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng trên 200g/m2:",
+        "en": "- Weighing more than 200 g/m2:"
+      },
+      "subheading_id": "5212.24",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Từ các sợi có các màu khác nhau",
+        "en": "- - Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Định lượng trên 200g/m2:",
+        "en": "- Weighing more than 200 g/m2:"
+      },
+      "subheading_id": "5212.25",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Đã in",
+        "en": "- - Printed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "chapter_id": "91",
+  "chapter_title": {
+    "vi": "Đồng hồ thời gian, đồng hồ cá nhân và các bộ phận của chúng",
+    "en": "Clocks and watches and parts thereof"
+  },
+  "summary": {
+    "vi": "Chương 91 bao gồm đồng hồ thời gian, đồng hồ cá nhân (như đồng hồ đeo tay, đồng hồ bỏ túi) và các bộ phận liên quan. Chương này phân loại các sản phẩm từ đồng hồ hoàn chỉnh đến các bộ phận máy móc riêng lẻ. Các chú giải của Chương định nghĩa rõ phạm vi, ví dụ như loại trừ các mặt hàng như dây đeo đồng hồ (nhóm 71.13), các bộ phận có công dụng chung bằng kim loại cơ bản (Phần XV) hoặc plastic (Chương 39), và các sản phẩm của Chương 85. Chú giải 2 quy định chi tiết về đồng hồ có vỏ bằng kim loại quý thuộc nhóm 91.01. Chú giải 3 đưa ra định nghĩa kỹ thuật quan trọng cho \"máy đồng hồ cá nhân\" với giới hạn về kích thước (dày không quá 12 mm, rộng/dài/đường kính không quá 50 mm). Phần tổng quát cũng làm rõ các loại trừ khác như đồng hồ đồ chơi (nhóm 95.03) và tác phẩm nghệ thuật (Chương 97), đồng thời mô tả chi tiết cấu tạo cơ bản của máy đồng hồ cơ khí và điện.",
+    "en": "Chapter 91 covers clocks, watches (such as wrist-watches, pocket-watches), and related parts. This chapter classifies products from complete timepieces to individual movement components. The Chapter Notes clearly define the scope, for example, by excluding items such as watch chains (heading 71.13), parts of general use of base metal (Section XV) or plastics (Chapter 39), and articles of Chapter 85. Note 2 provides specifics for watches with precious metal cases under heading 91.01. Note 3 gives an important technical definition for \"watch movements\" with size limitations (not exceeding 12 mm in thickness and 50 mm in width/length/diameter). The General section further clarifies other exclusions like toy clocks (heading 95.03) and works of art (Chapter 97), while also detailing the basic construction of mechanical and electrical watch movements."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 1: Chương này không bao gồm: (a) Mặt kính hoặc quả lắc đồng hồ; (b) Dây đeo đồng hồ cá nhân (nhóm 71.13 hoặc 71.17); (c) Các bộ phận công dụng chung của Phần XV (bằng kim loại cơ bản) hoặc Chương 39 (bằng plastic), hoặc hàng hóa tương tự bằng kim loại quý (thường thuộc nhóm 71.15), ngoại trừ lò xo đồng hồ (nhóm 91.14); (d) Bi của ổ bi (nhóm 73.26 hoặc 84.82); (e) Các mặt hàng nhóm 84.12 không có bộ phận điều tốc; (f) Ổ bi (nhóm 84.82); (g) Các mặt hàng thuộc Chương 85 chưa được lắp ráp thành máy đồng hồ.",
+        "en": "Note 1: This Chapter does not cover: (a) Clock or watch glasses or weights; (b) Watch chains (heading 71.13 or 71.17); (c) Parts of general use of Section XV (of base metal) or Chapter 39 (of plastics), or similar goods of precious metal (generally heading 71.15), except for clock or watch springs (heading 91.14); (d) Bearing balls (heading 73.26 or 84.82); (e) Articles of heading 84.12 constructed to work without an escapement; (f) Ball bearings (heading 84.82); (g) Articles of Chapter 85 not yet assembled into watch or clock movements."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải 2: Nhóm 91.01 chỉ bao gồm đồng hồ cá nhân có vỏ làm hoàn toàn bằng kim loại quý hoặc kim loại dát phủ kim loại quý, hoặc bằng các vật liệu này kết hợp với ngọc trai, đá quý hoặc đá bán quý thuộc các nhóm từ 71.01 đến 71.04. Đồng hồ cá nhân có vỏ bằng kim loại cơ bản khảm kim loại quý thuộc nhóm 91.02.",
+        "en": "Note 2: Heading 91.01 covers only watches with a case wholly of precious metal or of metal clad with precious metal, or of these materials combined with natural or cultured pearls, or precious or semi-precious stones of headings 71.01 to 71.04. Watches with a case of base metal inlaid with precious metal fall in heading 91.02."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 3: Trong Chương này, \"máy đồng hồ cá nhân\" là các bộ phận được điều chỉnh bằng con lắc và dây tóc, tinh thể thạch anh hoặc hệ thống khác có khả năng xác định khoảng cách thời gian, có kèm theo mặt hiển thị. Máy đồng hồ cá nhân như vậy có chiều dày không quá 12 mm và chiều rộng, chiều dài hoặc đường kính không quá 50 mm.",
+        "en": "Note 3: For the purposes of this Chapter, the expression \"watch movements\" means devices regulated by a balance-wheel and hairspring, quartz crystal or any other system capable of determining intervals of time, with a display. Such watch movements shall not exceed 12 mm in thickness and 50 mm in width, length or diameter."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải 4: Trừ các quy định trong Chú giải 1, máy đồng hồ và các bộ phận khác sử dụng được cho cả đồng hồ thời gian, đồng hồ cá nhân và các mặt hàng khác (ví dụ: thiết bị chính xác) đều được phân loại trong Chương này.",
+        "en": "Note 4: Except as provided in Note 1, movements and other parts suitable for use both in clocks or watches and in other articles (for example, precision instruments) are to be classified in this Chapter."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chương này bao gồm các thiết bị để đo thời gian hoặc thực hiện hoạt động liên quan đến thời gian, bao gồm đồng hồ mang theo người (đồng hồ đeo tay, đồng hồ bấm giờ), các loại đồng hồ khác (đồng hồ thông thường, đồng hồ báo thức, đồng hồ hàng hải), thiết bị ghi thời gian, dụng cụ đo quãng thời gian, dụng cụ hẹn giờ và các bộ phận của chúng.",
+        "en": "This Chapter covers apparatus for measuring time or for effecting some operation in relation to time. It includes timepieces for carrying on the person (watches, stop-watches), other timepieces (ordinary clocks, alarm clocks, marine chronometers), time recording apparatus, time interval measuring instruments, time switches, and their parts."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các mặt hàng của Chương này có thể làm bằng bất kỳ vật liệu nào (kể cả kim loại quý) và có thể được trang trí bằng ngọc trai, đá quý hoặc đá bán quý (tham khảo Chú giải chi tiết nhóm 91.11 và 91.12).",
+        "en": "The articles of this Chapter may be of any material (including precious metals) and may be decorated with natural or cultured pearls, or natural, synthetic or reconstructed precious or semi-precious stones (see Explanatory Notes to headings 91.11 and 91.12)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Việc phân loại đồng hồ kết hợp với đồ vật khác (đồ nội thất, đèn, chặn giấy) được quy định bởi các Quy tắc giải thích chung. Việc có thêm bộ phận chiếu sáng bên trong không làm thay đổi phân loại của đồng hồ.",
+        "en": "The classification of clocks and watches combined with other objects (furniture, lamp, paperweight) is governed by the Rules for the interpretation of the Nomenclature. The mere inclusion of internal lighting does not remove clocks or watches from this Chapter."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Ngoài các loại trừ trong Chú giải chi tiết mỗi nhóm, Chương này không bao gồm: (a) Đồng hồ mặt trời và đồng hồ cát; (b) Thiết bị âm nhạc tự động và hộp nhạc không có mặt đồng hồ (nhóm 92.08); (c) Đồng hồ đồ chơi hoặc phụ kiện cây Giáng sinh không có máy đồng hồ (nhóm 95.03 hoặc 95.05); (d) Các mô hình tự động và vật trưng bày cử động dùng trong cửa hàng (nhóm 96.18).",
+        "en": "In addition to the exclusions in the Explanatory Note to each heading, this Chapter excludes: (a) Sundials and hour-glasses; (b) Musical automatons and musical boxes without time dials (heading 92.08); (c) Toy clocks and watches and Christmas tree accessories without clock or watch movements (heading 95.03 or 95.05); (d) Automata and other animated displays for shop window dressing (heading 96.18)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chương này cũng không bao gồm các tác phẩm nghệ thuật, đồ sưu tầm và đồ cổ (Chương 97). Một chiếc đồng hồ bao gồm hai phần chính là phần máy và phần vỏ. Máy đồng hồ cơ khí gồm: (1) Thân máy/khung máy; (2) Thiết bị truyền động (quả lắc, lò xo, điện); (3) Bộ truyền động; (4) Cơ cấu chuyển động; (5) Bộ phận điều hòa chuyển động (cái hồi); (6) Các loại hồi thông thường; (7) Bộ điều tốc; (8) Cơ cấu lên dây cót và đặt giờ.",
+        "en": "This chapter also excludes works of art, collectors' pieces, and antiques (Chapter 97). A clock or watch has two main parts: the movement and the container. A mechanical movement consists of: (1) The body or frame; (2) The driving device (weights, springs, electricity); (3) The train; (4) The motion work; (5) The escapement; (6) Common types of escapement; (7) The regulating device; (8) The winding and hand setting mechanism."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các máy thuộc Chương này có thể là máy điện hoặc điện tử, ví dụ: (A) Đồng hồ dùng pin/ắc quy dự trữ yếu; (B) Đồng hồ nối lưới điện có dự trữ mạnh; (C) Đồng hồ quả lắc chạy bằng pin/ắc quy hoặc nối lưới; (D) Đồng hồ chạy pin/ắc quy với bộ điều tốc điện tử (âm thoa, thạch anh); (E) Đồng hồ động cơ đồng bộ. Hệ thống đồng hồ điện được đề cập cụ thể hơn ở nhóm 91.05.",
+        "en": "The apparatus of this Chapter may be electrical or electronic, e.g.: (A) Clocks using a dry battery or accumulator with a low running reserve; (B) Clocks connected to the mains with a high running reserve; (C) Pendulum clocks driven from a battery, accumulator, or the mains; (D) Clocks and watches powered by a battery or accumulator with an electronic regulating device (tuning fork, quartz crystal); (E) Synchronous motor clocks. Electric clock systems are dealt with more specifically in heading 91.05."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "91.01",
+      "heading_title": {
+        "vi": "Đồng hồ đeo tay, đồng hồ bỏ túi và các loại đồng hồ cá nhân khác, kể cả đồng hồ bấm giờ, với vỏ làm bằng kim loại quý hay kim loại dát phủ kim loại quý.",
+        "en": "Wrist-watches, pocket-watches and other watches, including stop-watches, with case of precious metal or of metal clad with precious metal."
+      }
+    },
+    {
+      "heading_id": "91.02",
+      "heading_title": {
+        "vi": "Đồng hồ đeo tay, đồng hồ bỏ túi và các loại đồng hồ cá nhân khác, kể cả đồng hồ bấm giờ, trừ các loại thuộc nhóm 91.01.",
+        "en": "Wrist-watches, pocket-watches and other watches, including stop-watches, other than those of heading 91.01."
+      }
+    },
+    {
+      "heading_id": "91.03",
+      "heading_title": {
+        "vi": "Đồng hồ thời gian có lắp máy đồng hồ cá nhân, trừ các loại đồng hồ thời gian thuộc nhóm 91.04.",
+        "en": "Clocks with watch movements, excluding clocks of heading 91.04."
+      }
+    },
+    {
+      "heading_id": "91.04",
+      "heading_title": {
+        "vi": "Đồng hồ thời gian lắp trên bàn điều khiển phương tiện và các loại đồng hồ thời gian tương tự dùng cho xe cộ, phương tiện bay, tàu vũ trụ hoặc tàu thủy.",
+        "en": "Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels."
+      }
+    },
+    {
+      "heading_id": "91.05",
+      "heading_title": {
+        "vi": "Đồng hồ thời gian khác.",
+        "en": "Other clocks."
+      }
+    },
+    {
+      "heading_id": "91.06",
+      "heading_title": {
+        "vi": "Thiết bị ghi thời gian và các thiết bị dùng để đo, ghi hoặc biểu thị các khoảng thời gian bằng cách khác, kèm theo máy đồng hồ thời gian và đồng hồ cá nhân hoặc kèm theo động cơ đồng bộ (ví dụ, thiết bị chấm công (time-registers), thiết bị ghi thời gian).",
+        "en": "Time of day recording apparatus and apparatus for measuring, recording or otherwise indicating intervals of time, with clock or watch movement or with synchronous motor (for example, time-registers, time-recorders)."
+      }
+    },
+    {
+      "heading_id": "91.07",
+      "heading_title": {
+        "vi": "Thiết bị đóng ngắt định giờ (time switches) có máy đồng hồ cá nhân hoặc đồng hồ thời gian hoặc có động cơ đồng bộ.",
+        "en": "Time switches with clock or watch movement or with synchronous motor."
+      }
+    },
+    {
+      "heading_id": "91.08",
+      "heading_title": {
+        "vi": "Máy đồng hồ cá nhân, hoàn chỉnh và đã lắp ráp.",
+        "en": "Watch movements, complete and assembled."
+      }
+    },
+    {
+      "heading_id": "91.09",
+      "heading_title": {
+        "vi": "Máy đồng hồ thời gian, hoàn chỉnh và đã lắp ráp.",
+        "en": "Clock movements, complete and assembled."
+      }
+    },
+    {
+      "heading_id": "91.10",
+      "heading_title": {
+        "vi": "Máy đồng hồ thời gian hoặc đồng hồ cá nhận đủ bộ, chưa lắp ráp hoặc đã lắp ráp từng phần (cụm máy); máy đồng hồ thời gian hoặc máy đồng hồ cá nhân chưa đủ bộ, đã lắp ráp; máy đồng hồ thời gian hoặc máy đồng hồ cá nhân chưa đủ bộ, chưa lắp ráp.",
+        "en": "Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements."
+      }
+    },
+    {
+      "heading_id": "91.11",
+      "heading_title": {
+        "vi": "Vỏ đồng hồ cá nhân và các bộ phận của nó.",
+        "en": "Watch cases and parts thereof."
+      }
+    },
+    {
+      "heading_id": "91.12",
+      "heading_title": {
+        "vi": "Vỏ đồng hồ thời gian và vỏ của các loại tương tự dùng cho các mặt hàng khác của Chương này, và các bộ phận của chúng.",
+        "en": "Clock cases and cases of a similar type for other goods of this Chapter, and parts thereof."
+      }
+    },
+    {
+      "heading_id": "91.13",
+      "heading_title": {
+        "vi": "Dây đeo, quai đeo và vòng đeo đồng hồ cá nhân, và các bộ phận của chúng.",
+        "en": "Watch straps, watch bands and watch bracelets, and parts thereof."
+      }
+    },
+    {
+      "heading_id": "91.14",
+      "heading_title": {
+        "vi": "Các bộ phận khác của đồng hồ thời gian hoặc đồng hồ cá nhân.",
+        "en": "Other clock or watch parts."
+      }
+    }
+  ]
+}

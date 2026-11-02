@@ -1,0 +1,46 @@
+{
+  "heading_id": "27.08",
+  "heading_title": {
+    "vi": "Nhựa chưng (hắc ín) và than cốc nhựa chưng, thu được từ hắc ín than đá hoặc hắc ín khoáng chất khác.",
+    "en": "Pitch and pitch coke, obtained from coal tar or from other mineral tars."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hai sản phẩm chính: (1) Nhựa chưng (hắc ín), là cặn của quá trình chưng cất hắc ín than đá ở nhiệt độ cao hoặc hắc ín khoáng chất khác, có màu đen hoặc nâu, dùng để sản xuất điện cực, hắc ín rải đường, và các mục đích khác. Nhóm này cũng bao gồm nhựa chưng đã được làm thay đổi chút ít bằng cách thổi không khí. (2) Than cốc nhựa chưng, là cặn cuối cùng từ việc chưng cất hắc ín hoặc nhựa chưng của chúng, được dùng để chế tạo điện cực hoặc làm nhiên liệu.",
+    "en": "This heading covers two main products: (1) Pitch, the residue from the distillation of high temperature coal tar or other mineral tars, which is black or brown and used for manufacturing electrodes, road tars, and other purposes. It includes pitch slightly modified by air-blowing. (2) Pitch coke, the final residual product from the distillation of tars or their pitches, used for making electrodes or as fuel."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Hắc ín nhựa chưng trong nhóm này là cặn của quá trình chưng cất hắc ín than đá ở nhiệt độ cao hoặc hắc ín khoáng chất khác. Nó chứa một lượng nhỏ dầu hắc ín nặng. Có màu đen hoặc màu nâu và có thể mềm hoặc dễ vỡ. Nó được sử dụng trong sản xuất điện cực, hắc ín rải đường, các hỗn hợp chống thấm nước, để liên kết khối bụi than...\nHắc ín nhựa chưng đã được làm thay đổi chút ít bằng cách thổi không khí tương tự như nhựa không thổi và vẫn được xếp trong nhóm này.\nThan cốc nhựa chưng là sản phẩm cặn sót lại cuối cùng từ việc chưng cất hắc ín than đá ở nhiệt độ thấp hoặc nhiệt độ cao hoặc chưng cất các hắc ín khoáng hoặc hắc ín (nhựa chưng) của chúng. Nó được dùng cho chế tạo điện cực hoặc làm nhiên liệu.",
+        "en": "The pitch covered by this heading is a residue of the distillation of either high temperature coal tars or other mineral tars. It contains a small proportion of heavy tar oils. It is black or brown in colour and may be soft or brittle. It is used in the manufacture of electrodes, road tars, waterproofing mixtures, for agglomerating coal-dust, etc.\nPitch which has been slightly modified by air-blowing is similar to unblown pitch and remains in this heading.\nPitch coke is the final residual product left from the distillation of either high temperature or low temperature coal tars or of other mineral tars or of their pitches. It is used for making electrodes or as a fuel."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2708.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Nhựa chưng (hắc ín)",
+        "en": "Pitch"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2708.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Than cốc nhựa chưng",
+        "en": "Pitch coke"
+      }
+    }
+  ]
+}

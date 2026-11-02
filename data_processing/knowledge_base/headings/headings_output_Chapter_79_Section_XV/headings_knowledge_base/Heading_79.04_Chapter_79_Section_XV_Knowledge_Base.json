@@ -1,0 +1,35 @@
+{
+  "heading_id": "79.04",
+  "heading_title": {
+    "vi": "Kẽm ở dạng thanh, que, hình và dây.",
+    "en": "Zinc bars, rods, profiles and wire."
+  },
+  "summary": {
+    "vi": "Nhóm 79.04 bao gồm kẽm ở dạng thanh, que, hình và dây, được định nghĩa tại các Chú giải 9(a), 9(b) và 9(c) của Phần XV. Các quy định của nhóm 74.07 và 74.08 đối với đồng cũng được áp dụng tương tự. Các sản phẩm này thường được dùng làm cấu kiện xây dựng hoặc để phun kim loại. Nhóm này bao gồm que hàn hợp kim gốc kẽm không bọc chất trợ dung. Các sản phẩm bị loại trừ chính bao gồm que hàn có bọc chất trợ dung (nhóm 83.11), que đúc dùng để gia công thêm (nhóm 79.01), và cấu kiện xây dựng đã hoàn thiện (nhóm 79.07).",
+    "en": "Heading 79.04 covers zinc bars, rods, profiles, and wire, as defined in Notes 9(a), 9(b), and 9(c) to Section XV. The provisions for copper in headings 74.07 and 74.08 apply mutatis mutandis. These products are often used for building components or for metal spraying. The heading includes uncoated zinc-base alloy welding rods. Key exclusions are coated welding rods (heading 83.11), cast rods intended for further working (heading 79.01), and fabricated building components (heading 79.07)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các sản phẩm này được định nghĩa tại Chú giải 9(a), 9(b) và 9(c) của Phần XV. Các điều khoản của Chú giải nhóm 74.07 và 74.08 được áp dụng tương tự. Que và hình kẽm dùng làm cấu kiện xây dựng (nhóm 79.07); dây kẽm dùng để phun kim loại.",
+        "en": "These products are defined in Notes 9 (a), 9 (b) and 9 (c) to Section XV. The provisions of the Explanatory Notes to headings 74.07 and 74.08 apply, mutatis mutandis. Rods and profiles of zinc are often used to make fabricated building components (heading 79.07); the main use of zinc wire is as a source of zinc for spraying the metal from an oxy-acetylene pistol."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các que hàn hơi hoặc hàn điện bằng hợp kim gốc kẽm, không bọc chất trợ dung. Các que hàn có bọc chất trợ dung bị loại trừ (nhóm 83.11).",
+        "en": "The heading also includes brazing or welding rods of zinc base alloys, provided they are not coated with flux material. Coated rods are excluded (heading 83.11)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm các que dạng đúc dùng để cán, kéo hoặc đúc lại thành các sản phẩm được tạo hình (nhóm 79.01).",
+        "en": "The heading also excludes cast rods intended, for example, for rolling or drawing or for re-casting into shaped articles (heading 79.01)."
+      }
+    }
+  ],
+  "subheadings": []
+}

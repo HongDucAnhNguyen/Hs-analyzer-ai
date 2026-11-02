@@ -1,0 +1,28 @@
+{
+  "heading_id": "85.34",
+  "heading_title": {
+    "vi": "Mạch in.",
+    "en": "Printed circuits."
+  },
+  "summary": {
+    "vi": "Nhóm 85.34 bao gồm các mạch được tạo ra trên một tấm cách điện bằng các quy trình in khác nhau (in, mạ, khắc axít), chứa các phần tử thụ động như dây dẫn, tiếp điểm, cuộn cảm, điện trở và tụ điện. Nhóm này loại trừ các phần tử 'chủ động' có khả năng xử lý tín hiệu điện như điốt, triốt. Phạm vi của nhóm bao gồm các mạch in một mặt, hai mặt, nhiều lớp, và các mạch phim mỏng hoặc dày chỉ có các phần tử thụ động. Các linh kiện thụ động riêng lẻ được tạo ra bằng quy trình in (như cuộn cảm, tụ điện, điện trở) bị loại trừ và phân loại vào các nhóm riêng của chúng như 85.04, 85.16, 85.32 hoặc 85.33. Các mạch in đã được gắn các linh kiện điện hoặc cơ khí cũng bị loại trừ và được phân loại theo Chú giải 2 Phần XVI hoặc Chú giải 2 Chương 90.",
+    "en": "Heading 85.34 covers circuits made on an insulating base by various printing processes (printing, plating-up, etching), containing passive elements such as conductors, contacts, inductances, resistors, and capacitors. This heading excludes 'active' elements capable of processing electrical signals, such as diodes and triodes. The scope of the heading includes single-sided, double-sided, multi-layered circuits, and thin- or thick-film circuits with only passive elements. Individual passive components created by a printing process (such as inductors, capacitors, resistors) are excluded and classified in their own headings like 85.04, 85.16, 85.32 or 85.33. Printed circuits on which electrical or mechanical components have been mounted are also excluded and are classified according to Note 2 to Section XVI or Note 2 to Chapter 90."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 6 của Chương này, nhóm này bao gồm các mạch được tạo ra trên một tấm cách điện bằng quy trình in (in thông thường, rập nổi, mạ, khắc axít...). Các mạch này chứa các phần tử dẫn điện (dây dẫn), tiếp điểm, hoặc các thành phần thụ động được in như cuộn cảm, điện trở và tụ điện. Nhóm này loại trừ các phần tử có thể tạo ra, chỉnh lưu, điều biến hoặc khuếch đại tín hiệu điện, ví dụ như điốt, triốt hoặc các phần tử 'chủ động' khác. Các mạch cơ bản hoặc 'trắng' có thể chỉ bao gồm các phần tử dẫn điện đã được in.",
+        "en": "In accordance with Note 8 to this Chapter, this heading covers circuits made on an insulating base by any printing process (conventional printing, embossing, plating-up, etching, etc.). These circuits contain conductor elements (wiring), contacts, or other printed passive components such as inductances, resistors, and capacitors. The heading excludes elements which can produce, rectify, modulate, or amplify electric signals, such as diodes, triodes, or other 'active' elements. Basic or 'blank' circuits may comprise only printed conductor elements."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tấm vật liệu cách điện có thể phẳng, hình trụ hoặc hình nón. Mạch có thể được in một mặt, hai mặt (mạch in 2 lớp), hoặc nhiều lớp. Nhóm này cũng bao gồm các mạch in trên phim mỏng hoặc dày chỉ có các phần tử thụ động. Mạch phim mỏng được tạo ra bằng cách kết tủa phim kim loại/điện môi lên tấm thủy tinh/gốm. Mạch phim dày được tạo ra bằng cách in lưới bột nhão lên tấm gốm rồi nung. Các linh kiện thụ động riêng lẻ (cuộn cảm, tụ điện, điện trở) được tạo ra từ quá trình in không thuộc nhóm này mà được phân loại vào các nhóm 85.04, 85.16, 85.32 hoặc 85.33. Các mạch đã được gắn các phần tử cơ khí hoặc linh kiện điện cũng bị loại trừ và phân loại theo Chú giải 2 Phần XVI hoặc Chú giải 2 Chương 90.",
+        "en": "The insulating base material may be flat, cylindrical, or cone-shaped. The circuit can be printed on one side, both sides (double circuits), or in multiple layers. The heading also covers thin- or thick-film circuits consisting solely of passive elements. Thin-film circuits are formed by depositing metallic and dielectric films on glass or ceramic plates. Thick-film circuits are formed by screen printing pastes onto ceramic plates, followed by furnace-firing. Individual passive components (inductances, capacitors, resistors) obtained by a printing process are excluded and classified in headings 85.04, 85.16, 85.32, or 85.33. Circuits on which mechanical elements or electrical components have been mounted are also excluded and are classified in accordance with Note 2 to Section XVI or Note 2 to Chapter 90."
+      }
+    }
+  ],
+  "subheadings": []
+}

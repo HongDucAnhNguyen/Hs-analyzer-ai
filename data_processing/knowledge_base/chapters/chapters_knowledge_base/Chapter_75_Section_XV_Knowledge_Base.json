@@ -1,0 +1,108 @@
+{
+  "chapter_id": "75",
+  "chapter_title": {
+    "vi": "Niken và các sản phẩm bằng niken",
+    "en": "Nickel and articles thereof"
+  },
+  "summary": {
+    "vi": "Chương 75 bao gồm niken, các hợp kim của niken và các sản phẩm làm từ chúng. Chương này đưa ra định nghĩa chi tiết về \"niken không hợp kim\" và \"niken hợp kim\" dựa trên tỷ lệ phần trăm khối lượng của các nguyên tố hóa học như coban, sắt và oxy. Chú giải của chương cũng làm rõ định nghĩa về \"dây\" cho mục đích của phân nhóm 7508.10. Phần tổng quát mô tả niken là một kim loại cứng, màu trắng xám, có từ tính và chống ăn mòn tốt, được sử dụng chủ yếu trong sản xuất hợp kim, mạ điện và làm chất xúc tác. Chương bao gồm các hợp kim chính như niken-sắt, niken-crom và niken-đồng. Phạm vi sản phẩm rất rộng, từ các dạng thô như sten niken, niken chưa gia công, phế liệu, bột và vảy (nhóm 75.01 đến 75.04), đến các sản phẩm đã qua gia công như thanh, que, tấm, lá, ống (nhóm 75.05 đến 75.07) và các sản phẩm hoàn chỉnh khác (nhóm 75.08), ngoại trừ các mặt hàng được nêu trong Chú giải 1 Phần XV, hoặc thuộc Chương 82 và 83.",
+    "en": "Chapter 75 covers nickel, its alloys, and articles made from them. This chapter provides detailed definitions for \"nickel, not alloyed\" and \"nickel alloys\" based on the weight percentage of chemical elements such as cobalt, iron, and oxygen. The chapter notes also clarify the definition of \"wire\" for the purposes of subheading 7508.10. The general section describes nickel as a hard, greyish-white, magnetic, and corrosion-resistant metal, mainly used in the production of alloys, electroplating, and as a catalyst. The chapter includes principal alloys such as nickel-iron, nickel-chromium, and nickel-copper. The product scope is broad, ranging from raw forms like nickel mattes, unwrought nickel, waste and scrap, powders, and flakes (headings 75.01 to 75.04), to worked products like bars, rods, plates, sheets, and tubes (headings 75.05 to 75.07) and other finished articles (heading 75.08), excluding items specified in Note 1 to Section XV, or those belonging to Chapter 82 and 83."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm 1: Định nghĩa các khái niệm:\n(a) Niken không hợp kim: Là kim loại có tổng hàm lượng niken và coban tối thiểu 99%, với điều kiện hàm lượng coban không quá 1,5% và hàm lượng các nguyên tố khác không vượt quá giới hạn trong bảng: Sắt (Fe) 0,5%, Oxy (O) 0,4%, các nguyên tố khác (mỗi loại) 0,3%.\n(b) Niken hợp kim: Là vật liệu kim loại trong đó niken chiếm ưu thế về khối lượng so với mỗi nguyên tố khác, với điều kiện: (i) hàm lượng coban trên 1,5%, hoặc (ii) hàm lượng ít nhất một nguyên tố khác vượt quá giới hạn trong bảng trên, hoặc (iii) tổng hàm lượng các nguyên tố khác trừ niken và coban lớn hơn 1%.",
+        "en": "Subheading Note 1: Defines the expressions:\n(a) Nickel, not alloyed: Metal containing by weight at least 99% of nickel plus cobalt, provided that the cobalt content does not exceed 1.5% and the content of other elements does not exceed the limits in the table: Iron (Fe) 0.5%, Oxygen (O) 0.4%, other elements (each) 0.3%.\n(b) Nickel alloys: Metallic substances in which nickel predominates by weight over each of the other elements, provided that: (i) the cobalt content exceeds 1.5%, or (ii) the content of at least one other element is greater than the limit in the table, or (iii) the total content of elements other than nickel plus cobalt exceeds 1%."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm 2: Mặc dù có quy định tại Chú giải 9(c) Phần XV, với mục đích của phân nhóm 7508.10, khái niệm \"dây\" chỉ áp dụng cho sản phẩm, dù ở dạng cuộn hay không, có hình dạng mặt cắt ngang bất kỳ và kích thước mặt cắt ngang không vượt quá 6 mm.",
+        "en": "Subheading Note 2: Notwithstanding the provisions of Note 9(c) to Section XV, for the purposes of subheading 7508.10, the term \"wire\" applies only to products, whether or not in coils, of any cross-sectional shape, of which no cross-sectional dimension exceeds 6 mm."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chương này bao gồm niken, các hợp kim niken và các sản phẩm từ niken. Niken là kim loại cứng, màu trắng xám, có tính sắt từ, dễ uốn, dễ kéo sợi, bền và chống ăn mòn, nóng chảy ở 1453°C. Niken được sử dụng chủ yếu trong sản xuất hợp kim (đặc biệt là thép hợp kim), mạ điện, làm chất xúc tác trong phản ứng hóa học, chế tạo thiết bị hóa học và đúc tiền.",
+        "en": "This Chapter covers nickel, its alloys, and certain articles thereof. Nickel is a relatively hard, greyish-white metal, melting at 1453°C, which is ferro-magnetic, malleable, ductile, strong, and resistant to corrosion and oxidation. Nickel is used mainly in the production of alloys (especially alloy steels), for coating other metals by electrodeposition, as a catalyst in chemical reactions, for manufacturing chemical plants, and for coinage."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các hợp kim niken chính thuộc Chương này tuân thủ Chú giải 5 Phần XV bao gồm:\n(1) Hợp kim niken-sắt: Dùng trong cáp ngầm, lõi cuộn cảm, tấm chắn từ.\n(2) Hợp kim niken-crom hoặc niken-crom-sắt: Có độ bền và chống oxy hóa tốt ở nhiệt độ cao. Dùng làm bộ phận đốt nóng, lò nhiệt luyện, ống dẫn xử lý hóa chất. Bao gồm cả \"siêu hợp kim\" dùng cho tuabin máy bay (cánh tuabin, đường dẫn chất đốt) chứa molyđen, vonfram, niobi, nhôm, titan.\n(3) Hợp kim niken-đồng: Chống ăn mòn và có độ bền tốt. Dùng làm trục cánh quạt, thiết bị kẹp, máy bơm, van, hệ thống ống tiếp xúc với axit, kiềm và muối.\nChương này bao gồm:\n(A) Sten niken, oxit niken thiêu kết, sản phẩm trung gian của luyện kim niken, niken chưa gia công, phế liệu và mảnh vụn (nhóm 75.01 đến 75.03).\n(B) Niken bột và vảy (nhóm 75.04).\n(C) Sản phẩm từ phôi niken chưa gia công của nhóm 75.02 (nhóm 75.05 và 75.06).\n(D) Ống, ống dẫn và phụ kiện (nhóm 75.07), anod mạ điện và hàng hóa khác (nhóm 75.08), trừ các loại được nêu ở Chú giải 1 Phần XV hoặc thuộc Chương 82 hoặc 83.",
+        "en": "The principal nickel alloys in this Chapter under Note 5 to Section XV include:\n(1) Nickel-iron alloys: Used in submarine cables, induction coil cores, magnetic shielding.\n(2) Nickel-chromium or nickel-chromium-iron alloys: Good strength and oxidation resistance at high temperatures. Used for heater elements, heat treatment components, high-temperature processing pipes. Includes \"super alloys\" for aircraft turbines (turbine blades, vanes) containing molybdenum, tungsten, niobium, aluminium, titanium.\n(3) Nickel-copper alloys: Good corrosion resistance and strength. Used for propeller shafts, fasteners, pumps, valves, tubing exposed to acids, alkalis, and salts.\nThis Chapter includes:\n(A) Nickel mattes, nickel oxide sinters, other intermediate products of nickel metallurgy, unwrought nickel, nickel waste and scrap (headings 75.01 to 75.03).\n(B) Nickel powders and flakes (heading 75.04).\n(C) Products obtained from unwrought nickel of heading 75.02 (headings 75.05 and 75.06).\n(D) Tubes, pipes and fittings (heading 75.07), electroplating anodes and other articles (heading 75.08), excluding those covered by Note 1 to Section XV or in Chapter 82 or 83."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các sản phẩm bằng niken có thể được xử lý để cải thiện đặc tính hoặc bề mặt theo các phương pháp được nêu trong Chú giải tổng quát của Chương 72 mà không ảnh hưởng đến việc phân loại, trừ trường hợp đặc biệt của anod mạ điện (nhóm 75.08). Việc phân loại hàng hóa phức hợp được giải thích tại Chú giải tổng quát ở Phần XV.",
+        "en": "Products and articles of nickel may be subjected to various treatments to improve properties or appearance, as referred to in the General Explanatory Note to Chapter 72, without affecting classification, except for the special case of electroplating anodes (heading 75.08). The classification of composite articles is explained in the General Explanatory Note to Section XV."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "75.01",
+      "heading_title": {
+        "vi": "Sten niken, oxit niken thiêu kết và các sản phẩm trung gian khác của quá trình luyện niken.",
+        "en": "Nickel mattes, nickel oxide sinters and other intermediate products of nickel metallurgy."
+      }
+    },
+    {
+      "heading_id": "75.02",
+      "heading_title": {
+        "vi": "Niken chưa gia công.",
+        "en": "Unwrought nickel."
+      }
+    },
+    {
+      "heading_id": "75.03",
+      "heading_title": {
+        "vi": "Phế liệu và mảnh vụn niken.",
+        "en": "Nickel waste and scrap."
+      }
+    },
+    {
+      "heading_id": "75.04",
+      "heading_title": {
+        "vi": "Bột và vảy niken.",
+        "en": "Nickel powders and flakes."
+      }
+    },
+    {
+      "heading_id": "75.05",
+      "heading_title": {
+        "vi": "Niken ở dạng thanh, que, hình và dây.",
+        "en": "Nickel bars, rods, profiles and wire."
+      }
+    },
+    {
+      "heading_id": "75.06",
+      "heading_title": {
+        "vi": "Niken ở dạng tấm, lá, dải và lá mỏng.",
+        "en": "Nickel plates, sheets, strip and foil."
+      }
+    },
+    {
+      "heading_id": "75.07",
+      "heading_title": {
+        "vi": "Các loại ống, ống dẫn và các phụ kiện để ghép nối của ống hoặc ống bằng niken (ví dụ, khớp nối đôi, khuỷu, măng sông).",
+        "en": "Nickel tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves)."
+      }
+    },
+    {
+      "heading_id": "75.08",
+      "heading_title": {
+        "vi": "Sản phẩm khác bằng niken.",
+        "en": "Other articles of nickel."
+      }
+    }
+  ]
+}

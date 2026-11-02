@@ -1,0 +1,154 @@
+{
+  "heading_id": "55.13",
+  "heading_title": {
+    "vi": "Vải dệt thoi bằng xơ staple tổng hợp, có hàm lượng loại xơ này chiếm dưới 85% tính theo khối lượng, pha chủ yếu hoặc pha duy nhất với bông, định lượng không quá 170 g/m2.",
+    "en": "Woven fabrics of synthetic staple fibres, containing less than 85 % by weight of such fibres, mixed mainly or solely with cotton, of a weight not exceeding 170 g/m2."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải dệt thoi (định nghĩa trong Phần (I)(C) Chú giải tổng quát Phần XI) đáp ứng đồng thời các điều kiện sau: (a) Chứa dưới 85% xơ staple tổng hợp theo khối lượng; (b) Được pha chủ yếu hoặc duy nhất với bông; và (c) Có trọng lượng không quá 170 g/m2. Việc phân loại phải tuân theo Chú giải 2 của Phần XI. Nhóm này không bao gồm băng đã tẩm thuốc hoặc đóng gói để bán lẻ (nhóm 30.05).",
+    "en": "This heading covers woven fabrics (as defined in Part (I)(C) of the General Explanatory Note to Section XI) which meet all of the following conditions: (a) Contain less than 85% by weight of synthetic staple fibres; (b) Are mixed mainly or solely with cotton; and (c) Have a weight not exceeding 170 g/m2. Classification is subject to Note 2 to Section XI. This heading excludes bandages, medicated or put up for retail sale (heading 30.05)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại vải dệt thoi được định nghĩa trong Phần (I) (C) của Chú giải tổng quát Phần XI.\n\nNhóm này bao gồm các loại vải trên nếu chúng được phân loại như vải làm từ xơ staple tổng hợp bằng cách áp dụng Chú giải 2 của Phần XI (xem Phần (I) (A) của Chú giải tổng quát của Phần XI) và nếu chúng đáp ứng được các tiêu chuẩn kỹ thuật sau:\n(a) Có tỷ trọng xơ staple tổng hợp dưới 85%;\n(b) Được pha chủ yếu hoặc pha duy nhất với bông;\n(c) Trọng lượng không vượt quá 170g/m2.\n\nNhóm này loại trừ băng, đã tẩm thuốc hoặc đã đóng gói để bán lẻ (nhóm 30.05).",
+        "en": "This heading covers woven fabrics as defined in Part (I) (C) of the General Explanatory Note to Section XI.\n\nIt covers these fabrics provided they are classified as fabrics of synthetic staple fibres by the application of Note 2 to Section XI (see also Part (I) (A) of the General Explanatory Note to Section XI) and provided they meet the following specifications:\n(a) Contain less than 85 % by weight of synthetic staple fibres;\n(b) Are mixed mainly or solely with cotton;\n(c) Weigh not more than 170 g/m2.\n\nBandages, medicated or put up for retail sale, are excluded (heading 30.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng:",
+        "en": "Unbleached or bleached:"
+      },
+      "subheading_id": "5513.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ xơ staple polyeste, dệt vân điểm",
+        "en": "Of polyester staple fibres, plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng:",
+        "en": "Unbleached or bleached:"
+      },
+      "subheading_id": "5513.12",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo chữ nhân, từ xơ staple polyeste",
+        "en": "3-thread or 4-thread twill, including cross twill, of polyester staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng:",
+        "en": "Unbleached or bleached:"
+      },
+      "subheading_id": "5513.13",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác từ xơ staple polyeste",
+        "en": "Other woven fabrics of polyester staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng:",
+        "en": "Unbleached or bleached:"
+      },
+      "subheading_id": "5513.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5513.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ xơ staple polyeste, dệt vân điểm",
+        "en": "Of polyester staple fibres, plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5513.23",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác từ xơ staple polyeste",
+        "en": "Other woven fabrics of polyester staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5513.29",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác",
+        "en": "Other woven fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5513.31",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ xơ staple polyeste, dệt vân điểm",
+        "en": "Of polyester staple fibres, plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5513.39",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác",
+        "en": "Other woven fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5513.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ xơ staple polyeste, dệt vân điểm",
+        "en": "Of polyester staple fibres, plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5513.49",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác",
+        "en": "Other woven fabrics"
+      }
+    }
+  ]
+}

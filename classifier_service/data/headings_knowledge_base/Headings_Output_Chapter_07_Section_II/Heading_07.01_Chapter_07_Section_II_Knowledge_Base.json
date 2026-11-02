@@ -1,0 +1,53 @@
+{
+  "heading_id": "07.01",
+  "heading_title": {
+    "vi": "Khoai tây, tươi hoặc ướp lạnh (+).",
+    "en": "Potatoes, fresh or chilled (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại khoai tây tươi hoặc ướp lạnh, bao gồm khoai tây giống để trồng và khoai tây đầu mùa. Nhóm này không bao gồm khoai lang thuộc nhóm 07.14. Chú giải phân nhóm 0701.10 quy định rằng khái niệm 'để làm giống' chỉ áp dụng cho khoai tây được các cơ quan quốc gia có thẩm quyền công nhận là dùng để gieo trồng.",
+    "en": "This heading covers all kinds of fresh or chilled potatoes, including seed potatoes intended for sowing and new potatoes. It excludes sweet potatoes of heading 07.14. The Subheading Explanatory Note to 0701.10 specifies that 'seed' potatoes are only those regarded by competent national authorities as intended for sowing."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các loại khoai tây tươi hoặc ướp lạnh (trừ khoai lang thuộc nhóm 07.14). Ngoài những loại khác, nhóm này có thể kể đến khoai tây giống dùng để trồng và khoai tây đầu mùa.",
+        "en": "This heading covers fresh or chilled potatoes of all kinds (other than sweet potatoes of heading 07.14). The heading includes, inter alia, seed potatoes intended for sowing and new potatoes."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 0701.10\nTheo mục đích của phân nhóm 0701.10, khái niệm \"để làm giống\" chỉ bao gồm các loại khoai tây được các cơ quan quốc gia có thẩm quyền đánh giá là để gieo trồng.",
+        "en": "Subheading Explanatory Note.\nSubheading 0701.10\nFor the purposes of subheading 0701.10, the expression “seed” covers only potatoes which are regarded by the competent national authorities as intended for sowing."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0701.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Để làm giống",
+        "en": "Seed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0701.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

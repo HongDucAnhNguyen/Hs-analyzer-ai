@@ -1,0 +1,46 @@
+{
+  "heading_id": "39.06",
+  "heading_title": {
+    "vi": "Các polyme acrylic dạng nguyên sinh.",
+    "en": "Acrylic polymers in primary forms."
+  },
+  "summary": {
+    "vi": "Nhóm 39.06 bao gồm các polyme acrylic dạng nguyên sinh, định nghĩa là các polyme của axit acrylic, axit methacrylic, các muối hoặc este của chúng, hoặc các aldehyde, amit hoặc nitril tương ứng. Sản phẩm nổi bật nhất là Poly(methyl methacrylate), được ứng dụng làm vật liệu kính, biển hiệu ngoài trời, mắt giả, kính áp tròng và răng giả nhờ vào đặc tính quang học và độ bền vật lý. Các polyme từ acrylonitrile cũng được phân loại trong nhóm này và thường được sử dụng để sản xuất sợi tổng hợp. Việc phân loại copolyme và polyme pha trộn phải tuân theo Chú giải Tổng quát của Chương này. Nhóm này loại trừ hai loại sản phẩm chính: các polyme acrylic là chất trao đổi ion (nhóm 39.14) và các copolyme từ acrylonitrile thỏa mãn Chú giải 4 của Chương 40 (thuộc Chương 40).",
+    "en": "Heading 39.06 covers acrylic polymers in primary forms, defined as polymers of acrylic acid, methacrylic acid, their salts or esters, or the corresponding aldehydes, amides, or nitriles. The most prominent product is Poly(methyl methacrylate), used as glazing material, outdoor signs, artificial eyes, contact lenses, and artificial dentures due to its optical properties and physical strength. Polymers of acrylonitrile are also classified in this heading and are commonly used in the manufacture of synthetic fibers. The classification of copolymers and polymer blends must follow the General Explanatory Note to this Chapter. This heading excludes two main types of products: acrylic polymers which are ion-exchangers (heading 39.14) and copolymers of acrylonitrile that comply with Note 4 to Chapter 40 (classified in Chapter 40)."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Thuật ngữ \"các polyme acrylic\" bao gồm các polyme của acrylic hoặc axit methacrylic, của các muối hoặc este của chúng, hoặc của các aldehyde, các amit hoặc nitril tương ứng.\nPoly(methyl methacrylate) là polyme quan trọng nhất trong loại này. Do có tính chất quang học tốt và có độ bền vật lý nên nó được sử dụng như vật liệu kính, trong các biển hiệu ngoài trời và các sản phẩm trưng bày khác, và trong sản xuất mắt giả, kính áp tròng và răng giả.\nCác Polyme từ acrylonitrile có thể được sử dụng trong sản xuất sợi tổng hợp.\nĐể phân loại các polyme (kể cả các copolyme), các polyme đã bị biến đổi về mặt hóa học và polyme pha trộn, xem Chú giải Tổng quát thuộc Chương này.\nNhóm này không bao gồm:\n(a) Các polyme acrylic là các chất trao đổi ion (nhóm 39.14).\n(b) Các copolyme từ acrylonitrile thỏa mãn các yêu cầu của Chú giải 4 thuộc Chương 40 (Chương 40).",
+        "en": "The expression “acrylic polymers” covers polymers of acrylic or methacrylic acid, of their salts or esters, or of the corresponding aldehydes, amides or nitriles.\nPoly(methyl methacrylate) is the most important polymer of this category. It is used, because of its excellent optical properties and its physical strength, as a glazing material, in outdoor signs and other display articles, and in the manufacture of artificial eyes, contact lenses and artificial dentures.\nPolymers of acrylonitrile may be used in the manufacture of synthetic fibres.\nFor the classification of polymers (including copolymers), chemically modified polymers and polymer blends, see the General Explanatory Note to this Chapter.\nThis heading excludes:\n(a) Acrylic polymers which are ion-exchangers (heading 39.14).\n(b) Copolymers of acrylonitrile which comply with the requirements of Note 4 to Chapter 40 (Chapter 40)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3906.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Poly (metyl metacrylat)",
+        "en": "Poly(methyl methacrylate)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3906.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "heading_id": "09.06",
+  "heading_title": {
+    "vi": "Quế và hoa quế (+).",
+    "en": "Cinnamon and cinnamon-tree flowers (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm quế (vỏ trong của cành non của một số loại cây thuộc họ Laurus), hoa quế và quả quế. Các loại quế khác nhau được đề cập, bao gồm quế Sri Lanka (Ceylon), quế Tàu, Indonesia và Việt Nam. Nhóm này cũng bao gồm quế vụn ('dạng lát') dùng để chiết xuất tinh dầu. Chú giải phân nhóm 0906.11 giới hạn phạm vi cho quế từ cây Cinnamomum zeylanicum Blume.",
+    "en": "This heading covers cinnamon (the inner bark of young branches of certain trees of the Laurus family), cinnamon-tree flowers, and cinnamon fruit. Various types of cinnamon are mentioned, including Sri Lankan (Ceylon), Chinese, Indonesian, and Vietnamese types. The heading also covers cinnamon waste ('chips') used for essence preparation. The Subheading Explanatory Note to subheading 0906.11 limits its scope to cinnamon from the Cinnamomum zeylanicum Blume tree."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Quế là phần vỏ trong của các cành non của một số loại cây thuộc họ Laurus. Quế Sri Lanka (Ceylon), Seychelles và Madagasca (Cinnamomum zeylanicum Blume), còn được gọi là quế thượng hạng, thường ở dạng bó gồm những mảnh vỏ mầu xanh xám cuộn lại với nhau. Quế Tàu (Cinnamomum cassia (Nees) ex Blume), quế Indonesia (Cinnamomum burmanii (C.G.Nees)) và Việt Nam (Cinnamomum loureirii Nees), còn được gọi là muồng hoặc quế thường, lấy từ các lớp vỏ dày hơn, có sọc nâu; nó thường ở dạng cuộn một lớp. Các loại quế khác bao gồm Cinnamomum obtusifolium, Cinnamomum tamala và Cinnamomum sintek.\nNhóm này cũng bao gồm quế vụn, được gọi là “quế dạng lát”, chủ yếu dùng để chiết xuất tinh dầu quế.\nHoa quế là hoa của cây quế đã được giần sàng và làm khô. Chúng có hình như cái chuỳ và dài không quá 1cm. Sau khi nghiền, chúng được trộn lẫn với quế.",
+        "en": "Cinnamon is the inner bark of young branches of certain trees of the Laurus family. Sri Lankan (Ceylon) type, Seychelles type and Madagascan type cinnamon (Cinnamomum zeylanicum Blume), also called tine cinnamon, is generally presented in bundles of pale-coloured strips of bark rolled together. Chinese type (Cinnamomum cassia (Nees) ex Blume). Indonesian type (Cinnamomum burmanii (C.G.Nees)) and Vietnamese type (Cinnamomum loureirii Nees) cinnamon, also known as cassia or common cinnamon, is formed of thicker layers of bark, streaked with brown; it is generally presented in rolls of a single layer. Other varieties of cinnamon include Cinnamomum obtusifolium, Cinnamomum tamala and Cinnamomum sintek.\nThis heading also covers cinnamon waste, known as “chips”, used chiefly for the preparation of cinnamon essence.\nCinnamon-tree flowers are the dried and sieved flowers of the cinnamon tree. They are club-shaped and of a length not normally exceeding 1 cm. After grinding, they are mixed with cinnamon."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm cả quả quế.",
+        "en": "The heading also includes cinnamon fruit."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 0906.11\nPhạm vi của phân nhóm này giới hạn ở quế có vỏ trong của các cành non của cây hoặc cây bụi Cinnamomum zeylanicum Blume, thường được gọi là quế Sri Lanka (Ceylon), Seychelles và Madagasca.\nCác loại thương phẩm phổ biến là quế dạng thanh, xếp nếp hình tổ ong, sợi mỏng và lát mỏng.",
+        "en": "Subheading Explanatory Note.\nSubheading 0906.11\nThe scope of this subheading is limited to cinnamon which is the inner bark of young branches of the tree or shrub Cinnamomum zeylanicum Blume, commonly known as Sri Lankan (Ceylon) type, Seychelles type and Madagascan type cinnamon.\nGeneral commercial grades are quills, quillings, featherings and chips."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa xay hoặc chưa nghiền:",
+        "en": "Neither crushed nor ground :"
+      },
+      "subheading_id": "0906.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quế (Cinnamomum zeylanicum Blume)",
+        "en": "Cinnamon (Cinnamomum zeylanicum Blume)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa xay hoặc chưa nghiền:",
+        "en": "Neither crushed nor ground :"
+      },
+      "subheading_id": "0906.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0906.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã xay hoặc nghiền",
+        "en": "Crushed or ground"
+      }
+    }
+  ]
+}

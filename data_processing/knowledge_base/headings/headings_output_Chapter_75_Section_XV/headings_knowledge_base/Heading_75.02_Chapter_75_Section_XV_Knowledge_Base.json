@@ -1,0 +1,46 @@
+{
+  "heading_id": "75.02",
+  "heading_title": {
+    "vi": "Niken chưa gia công",
+    "en": "Unwrought nickel."
+  },
+  "summary": {
+    "vi": "Nhóm 75.02 bao gồm niken chưa gia công ở các dạng nguyên sinh như thỏi, cục, viên, tấm, catốt hoặc các dạng mạ điện khác. Các dạng này chủ yếu được dùng làm phụ gia trong sản xuất thép hợp kim và hợp kim không chứa sắt. Nhóm này bao gồm cả anốt niken chưa tinh luyện dùng để tinh luyện bằng điện phân, có dạng tấm phiến với hai quai treo. Cần phân biệt chúng với anốt mạ điện của nhóm 75.08. Catốt, kể cả khi đã được cắt thành dải hoặc miếng nhỏ, vẫn thuộc nhóm này nếu chúng không có móc treo hoặc chưa được gia công để gắn móc treo. Bột và vảy niken bị loại trừ và thuộc nhóm 75.04.",
+    "en": "Heading 75.02 covers unwrought nickel in primary forms such as ingots, pigs, pellets, cathodes, or other electrodeposited shapes. These forms are mainly used as additives in the manufacture of alloy steels and non-ferrous alloys. This heading includes unrefined nickel anodes for electrolytic refining, which are in the form of slabs with two lugs for suspension. They must be distinguished from the electroplating anodes of heading 75.08. Cathodes, even when cut into strips or small pieces, remain in this heading as long as they are not fitted with or prepared for suspension hooks. Nickel powders and flakes are excluded and classified in heading 75.04."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Niken chưa gia công thường ở dạng thỏi, cục, viên, tấm, hình khối, vành, viên gạch, hạt, cathod hoặc dạng thanh mạ điện âm cực khác. Bao gồm anod niken chưa tinh luyện dùng để tinh luyện bằng điện phân, có dạng tấm phiến đúc với hai quai treo, khác với anod mạ điện của nhóm 75.08. Các cathod thu được bằng kết tủa điện phân, kể cả loại chưa gọt giũa hoặc đã được cắt thành dải hoặc miếng nhỏ, vẫn thuộc nhóm này và có thể phân biệt với anod của nhóm 75.08 do không có móc treo hoặc chưa được gia công để gắn móc. Nhóm này không bao gồm bột và vảy niken (nhóm 75.04).",
+        "en": "Unwrought nickel is usually in the form of ingots, pigs, pellets, flats, cubes, rondelles, briquettes, shots, cathodes or other electrodeposited shapes. It includes unrefined nickel anodes for refining by electrolysis, usually in the form of slabs cast with two lugs, which should not be confused with electroplating anodes of heading 75.08. Cathodes obtained by electrolytic deposition, including those merely trimmed or cut into strips or small rectangular pieces, remain in this heading and can be distinguished from anodes of heading 75.08 as they are not fitted with or prepared for suspension hooks. This heading excludes nickel powders and flakes (heading 75.04)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7502.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Niken, không hợp kim",
+        "en": "Nickel, not alloyed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7502.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Hợp kim niken",
+        "en": "Nickel alloys"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "heading_id": "72.27",
+  "heading_title": {
+    "vi": "Các dạng thanh và que, của thép hợp kim khác, được cán nóng, dạng cuộn không đều.",
+    "en": "Bars and rods, hot-rolled, in irregularly wound coils, of other alloy steel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các dạng thanh và que, của thép hợp kim khác, được cán nóng, ở dạng cuộn không đều. Các quy định của Chú giải cho nhóm 72.13 được áp dụng cho các sản phẩm của nhóm này.",
+    "en": "This heading covers bars and rods, of other alloy steel, hot-rolled, in irregularly wound coils. The provisions of the Explanatory Note to heading 72.13 apply, mutatis mutandis, to the products of this heading."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho nhóm 72.13, với những sửa đổi thích hợp áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to heading 72.13 apply, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7227.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng thép gió",
+        "en": "- Of high speed steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7227.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bằng thép mangan- silic",
+        "en": "- Of silico-manganese steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7227.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

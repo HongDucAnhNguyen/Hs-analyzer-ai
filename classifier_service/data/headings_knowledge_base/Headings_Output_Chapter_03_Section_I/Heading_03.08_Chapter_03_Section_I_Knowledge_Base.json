@@ -1,0 +1,125 @@
+{
+  "heading_id": "03.08",
+  "heading_title": {
+    "vi": "Động vật thủy sinh không xương sống trừ động vật giáp xác và động vật thân mềm, sống, tươi, ướp lạnh, đông lạnh, khô, muối hoặc ngâm nước muối; động vật thủy sinh không xương sống hun khói trừ động vật giáp xác và động vật thân mềm, đã hoặc chưa làm chín trước hoặc trong quá trình hun khói.",
+    "en": "Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine; smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm động vật thủy sinh không xương sống (trừ động vật giáp xác và động vật thân mềm) ở các dạng sống, tươi, ướp lạnh, đông lạnh, khô, muối, ngâm nước muối hoặc hun khói. Các loài chính bao gồm cầu gai, hải sâm và sứa. Nhóm này cũng bao gồm các bộ phận của chúng (ví dụ: tuyến sinh dục của cầu gai) nếu được chế biến theo các phương pháp trên. Nhóm này không bao gồm các động vật thủy sinh không xương sống được chế biến theo các cách khác như luộc hoặc bảo quản trong dấm (nhóm 16.05).",
+    "en": "This heading covers aquatic invertebrates (other than crustaceans and molluscs) in live, fresh, chilled, frozen, dried, salted, in brine, or smoked forms. The principal varieties include sea-urchins, sea cucumbers, and jellyfish. It also covers parts thereof (e.g., gonads of sea-urchins) if prepared by the aforementioned methods. The heading excludes aquatic invertebrates prepared by other means, such as boiled or preserved in vinegar (heading 16.05)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Động vật thủy sinh không xương sống trừ động vật giáp xác và động vật thân mềm, sống, tươi, ướp lạnh, đông lạnh, làm khô, muối hoặc ngâm nước muối.\n(2) Động vật thủy sinh không xương sống hun khói trừ động vật giáp xác và động vật thân mềm, đã hoặc chưa làm chín trước hoặc trong quá trình hun khói.\nCác loài động vật thủy sinh không xương sống chủ yếu là cầu gai, hải sâm (beches-de-mer) và sứa.\nNhóm này cũng bao gồm các bộ phận của động vật thủy sinh không xương sống (ví dụ tuyến sinh dục của cầu gai), với điều kiện chúng được chế biến như cách đã nêu tại mục (1) hoặc (2) trên.",
+        "en": "This heading covers:\n(1) Aquatic invertebrates other than crustaceans and molluscs, live, fresh, chilled, frozen, dried, salted or in brine.\n(2) Smoked aquatic invertebrates other than crustaceans and molluscs, whether or not cooked before or during the smoking process.\nThe principal varieties of aquatic invertebrates are sea-urchins, sea cucumbers (beches-de-mer) and jellyfish.\nThis heading also covers parts of aquatic invertebrates (e.g., gonads of sea-urchins), provided they have been subjected to no other processes than those specified in (1) or (2) above."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm các động vật thủy sinh không xương sống được chế biến hay bảo quản theo những cách không được nêu trong nhóm này (ví dụ động vật thủy sinh không xương sống được luộc trong nước hoặc bảo quản trong dấm) (nhóm 16.05).",
+        "en": "The heading does not cover aquatic invertebrates prepared or preserved by processes not provided for in this heading (e.g., aquatic invertebrates boiled in water or preserved in vinegar) (heading 16.05)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Hải sâm (Stichopus japonicus, Holothuroide):",
+        "en": "Sea cucumbers (Stichopus japonicus, Holothuroide):"
+      },
+      "subheading_id": "0308.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hải sâm (Stichopus japonicus, Holothuroide):",
+        "en": "Sea cucumbers (Stichopus japonicus, Holothuroide):"
+      },
+      "subheading_id": "0308.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hải sâm (Stichopus japonicus, Holothuroide):",
+        "en": "Sea cucumbers (Stichopus japonicus, Holothuroide):"
+      },
+      "subheading_id": "0308.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Cầu gai (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus):",
+        "en": "Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus):"
+      },
+      "subheading_id": "0308.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sống, tươi hoặc ướp lạnh",
+        "en": "Live, fresh or chilled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Cầu gai (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus):",
+        "en": "Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus):"
+      },
+      "subheading_id": "0308.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đông lạnh",
+        "en": "Frozen"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Cầu gai (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus):",
+        "en": "Sea urchins (Strongylocentrotus spp., Paracentrotus lividus, Loxechinus albus, Echinus esculentus):"
+      },
+      "subheading_id": "0308.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0308.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Sứa (Rhopilema spp.)",
+        "en": "Jellyfish (Rhopilema spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0308.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

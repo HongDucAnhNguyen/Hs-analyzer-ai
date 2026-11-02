@@ -1,0 +1,94 @@
+{
+  "heading_id": "55.03",
+  "heading_title": {
+    "vi": "Xơ staple tổng hợp, chưa chải thô, chưa chải kỹ hoặc chưa gia công cách khác để kéo sợi.",
+    "en": "Synthetic staple fibres, not carded, combed or otherwise processed for spinning."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm xơ staple tổng hợp chưa được chải thô, chải kỹ hoặc gia công để kéo sợi, thường được ép thành kiện và có chiều dài đồng đều, phân biệt với phế liệu của nhóm 55.05. Nhóm này cũng bao gồm tô filament tổng hợp có chiều dài không quá 2m với điều kiện mỗi filament có độ mảnh dưới 67 decitex.\nNhóm này không bao gồm:\n- Tô filament tổng hợp dài trên 2 m (nhóm 54.02 hoặc 55.01).\n- Xơ staple tổng hợp đã được chải thô, chải kỹ hoặc gia công khác để kéo sợi (nhóm 55.06).",
+    "en": "This heading covers synthetic staple fibres, not carded, combed or otherwise processed for spinning. They are usually press-packed in bales and are generally of uniform length, distinguishing them from the waste of heading 55.05. The heading also covers synthetic filament tow of a length not exceeding 2m, provided that each filament measures less than 67 decitex.\nThis heading does not cover:\n- Synthetic filament tow of a length exceeding 2 m (heading 54.02 or 55.01).\n- Synthetic staple fibres which have been carded, combed or otherwise processed for spinning (heading 55.06)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại xơ của nhóm này được sản xuất như mô tả trong Chú giải tổng quát của Chương này.\nXơ staple tổng hợp thường được ép-đóng gói thành kiện. Nói chung các xơ có chiều dài đồng đều, điều này phân biệt chúng với phế liệu của nhóm 55.05.\nNhóm cũng bao gồm tô filament tổng hợp có chiều dài không quá 2 m miễn là mỗi filament có độ mảnh dưới 67 decitex. Tô filament tổng hợp có chiều dài trên 2 m bị loại trừ (nhóm 54.02 hoặc 55.01).\nXơ staple tổng hợp đã được chải thô, chải kỹ hoặc được gia công cách khác để kéo sợi cũng bị loại trừ (nhóm 55.06).",
+        "en": "The fibres of this heading are manufactured as described in the General Explanatory Note to this Chapter.\nSynthetic staple fibres are usually press-packed in bales. The fibres are generally of uniform length, which distinguishes them from the waste material of heading 55.05.\nThe heading also covers synthetic filament tow of a length not exceeding 2 m provided that each filament measures less than 67 decitex. Synthetic filament tow of a length exceeding 2 m is excluded (heading 54.02 or 55.01).\nSynthetic staple fibres which have been carded, combed or otherwise processed for spinning are also excluded (heading 55.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Từ ni lông hoặc từ các polyamit khác:",
+        "en": "Of nylon or other polyamides:"
+      },
+      "subheading_id": "5503.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ các aramit",
+        "en": "Of aramids"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ ni lông hoặc từ các polyamit khác:",
+        "en": "Of nylon or other polyamides:"
+      },
+      "subheading_id": "5503.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5503.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ các polyeste",
+        "en": "Of polyesters"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5503.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ acrylic hoặc modacrylic",
+        "en": "Acrylic or modacrylic"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5503.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ polypropylen",
+        "en": "Of polypropylene"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5503.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

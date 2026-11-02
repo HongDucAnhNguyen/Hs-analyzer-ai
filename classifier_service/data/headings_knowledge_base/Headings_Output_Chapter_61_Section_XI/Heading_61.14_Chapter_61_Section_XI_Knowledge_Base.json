@@ -1,0 +1,65 @@
+{
+  "heading_id": "61.14",
+  "heading_title": {
+    "vi": "Các loại quần áo khác, dệt kim hoặc móc.",
+    "en": "Other garments, knitted or crocheted."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại quần áo dệt kim hoặc móc chưa được mô tả chi tiết tại các nhóm trước thuộc Chương 61.\nBao gồm, ngoài các mặt hàng khác:\n(1) Tạp dề, bộ quần áo bảo hộ và các loại áo bảo hộ khác cho thợ cơ khí, công nhân nhà máy, bác sĩ phẫu thuật, v.v.\n(2) Bộ quần áo của mục sư hoặc thầy tu và các áo lễ phục.\n(3) Áo choàng của các giáo sư hoặc học giả.\n(4) Áo quần đặc biệt cho các nhà du hành vũ trụ (ví dụ: áo quần được làm nóng bằng điện).\n(5) Các trang phục đặc biệt cho một số môn thể thao, khiêu vũ hoặc thể dục (ví dụ: quần áo đấu kiếm, quần áo lụa cho đua ngựa, váy múa ba lê, trang phục bó sát), kể cả có các bộ phận bảo vệ.\nNhóm này không bao gồm các thiết bị bảo vệ dùng cho thể thao hoặc trò chơi (ví dụ: mặt nạ đấu kiếm, quần chơi khúc quân cầu trên băng) (nhóm 95.06).",
+    "en": "This heading covers knitted or crocheted garments which are not included more specifically in the preceding headings of Chapter 61.\nIncludes, inter alia:\n(1) Aprons, boiler suits, and other protective clothing for mechanics, factory workers, surgeons, etc.\n(2) Clerical or ecclesiastical garments and vestments.\n(3) Professional or scholastic gowns and robes.\n(4) Specialised clothing for airmen (e.g., electrically heated clothing).\n(5) Special articles of apparel for certain sports, dancing, or gymnastics (e.g., fencing clothing, jockeys' silks, ballet skirts, leotards), including those with protective components.\nThis heading excludes protective equipment for sports or games (e.g., fencing masks, ice hockey pants) (heading 95.06)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại quần áo dệt kim hoặc móc chưa được mô tả chi tiết tại các nhóm trước thuộc Chương này.\nNhóm này bao gồm, ngoài các mặt hàng khác:\n(1) Tạp dề, bộ quần áo bảo hộ chống hơi, nước nóng (liền quần), áo khoác bảo hộ mặc bên ngoài (chống hỏng, bẩn các quần áo khác) và các loại áo bảo hộ khác dành cho thợ cơ khí, công nhân nhà máy, bác sĩ phẫu thuật,.. v.v mặc.\n(2) Bộ quần áo của mục sư hoặc thầy tu và các áo lễ phục, (ví dụ: áo dài của thầy tu, áo chùng của các giáo sĩ, áo lễ của tu sĩ, áo tế).\n(3) Áo choàng của các giáo sư hoặc học giả.\n(4) Áo quần đặc biệt cho các nhà du hành vũ trụ v.v. (ví dụ như: áo quần được làm nóng bằng điện của các nhà du hành vũ trụ).\n(5) Các trang phục đặc biệt, có hoặc không gắn với các bộ phận bảo vệ như miếng lót hoặc phần lót ở khuỷu tay, đầu gối hoặc phần háng, được dùng cho một số môn thể thao hoặc khiêu vũ hoặc các hoạt động thể dục (ví dụ như: áo quần dùng cho môn đấu kiếm, quần áo bằng lụa dùng cho đua ngựa, váy múa ba lê, trang phục bó sát dùng cho khiêu vũ, rèn luyện thể chất của nữ).",
+        "en": "This heading covers knitted or crocheted garments which are not included more specifically in the preceding headings of this Chapter.\nThe heading includes, inter alia:\n(1) Aprons, boiler suits (coveralls), smocks and other protective clothing of a kind worn by mechanics, factory workers, surgeons, etc.\n(2) Clerical or ecclesiastical garments and vestments (e.g., monks’ habits, cassocks, copes, soutanes, surplices).\n(3) Professional or scholastic gowns and robes.\n(4) Specialised clothing for airmen, etc. (e.g., airmen’s electrically heated clothing).\n(5) Special articles of apparel, whether or not incorporating incidentally protective components such as pads or padding in the elbow, knee or groin areas, used for certain sports or for dancing or gymnastics (e.g., fencing clothing, jockeys’ silks, ballet skirts, leotards)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Tuy nhiên, các thiết bị bảo vệ dùng cho thể thao hoặc trò chơi ( ví dụ như: mặt nạ và các tấm che ngực dùng cho môn đấu kiếm, quần chơi khúc quân cầu trên băng, … ) bị loại trừ (nhóm 95.06).",
+        "en": "However, protective equipment for sports or games (e.g., fencing masks and breast plates, ice hockey pants, etc.) are excluded (heading 95.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6114.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ bông",
+        "en": "Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6114.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ sợi nhân tạo",
+        "en": "Of man-made fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6114.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ các vật liệu dệt khác",
+        "en": "Of other textile materials"
+      }
+    }
+  ]
+}

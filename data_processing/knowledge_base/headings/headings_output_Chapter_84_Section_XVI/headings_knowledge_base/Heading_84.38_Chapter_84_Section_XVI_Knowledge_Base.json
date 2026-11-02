@@ -1,0 +1,125 @@
+{
+  "heading_id": "84.38",
+  "heading_title": {
+    "vi": "Máy chế biến công nghiệp hoặc sản xuất thực phẩm hoặc đồ uống, chưa được ghi hoặc chi tiết ở nơi khác trong Chương này, trừ các loại máy để chiết xuất hoặc chế biến dầu hoặc mỡ động vật hoặc dầu hoặc chất béo không bay hơi của thực vật hoặc vi sinh vật.",
+    "en": "Machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink, other than machinery for the extraction or preparation of animal or fixed vegetable or microbial fats or oils."
+  },
+  "summary": {
+    "vi": "Nhóm 84.38 bao gồm các máy móc chưa được nêu ở nơi khác dùng để chế biến công nghiệp hoặc sản xuất thực phẩm và đồ uống cho người hoặc động vật, bao gồm cả máy dùng trong nhà hàng. Tuy nhiên, nhóm này loại trừ các máy chiết xuất hoặc chế biến dầu mỡ động vật hoặc thực vật không bay hơi (nhóm 84.79). Nhiều máy móc khác cũng bị loại trừ, chẳng hạn như thiết bị gia dụng (nhóm 82.10, 85.09), lò công nghiệp (nhóm 84.17, 85.14), máy móc hoạt động bằng nhiệt (nhóm 84.19), máy ly tâm và máy lọc (nhóm 84.21), máy đóng gói (nhóm 84.22), và máy xay xát (nhóm 84.37). Các bộ phận của máy móc thuộc nhóm này cũng được phân loại tại đây, ví dụ như khuôn làm bánh, khuôn kẹo, khuôn sô cô la và khuôn ép mì.",
+    "en": "Heading 84.38 covers machinery not specified elsewhere for the industrial preparation or manufacture of food and drink for humans or animals, including machinery used in restaurants. However, it excludes machinery for the extraction or preparation of animal or fixed vegetable fats or oils (heading 84.79). Many other machines are also excluded, such as domestic appliances (headings 82.10, 85.09), industrial ovens (headings 84.17, 85.14), machinery operating by heat (heading 84.19), centrifuges and filters (heading 84.21), packing machinery (heading 84.22), and milling industry machinery (heading 84.37). Parts of the machinery of this heading are also classified here, for example, moulds for bread-making, confectionery, chocolate, and extrusion dies for pasta."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm các loại máy chưa được ghi hoặc chi tiết ở nơi khác trong Chương này, dùng cho chế biến công nghiệp hoặc sản xuất thực phẩm hoặc đồ uống cho người hoặc động vật, bao gồm cả máy dùng trong nhà hàng. Nhóm này không bao gồm máy để chiết xuất hoặc chế biến mỡ hoặc dầu động vật hoặc thực vật không bay hơi (nhóm 84.79). Các loại máy bị loại trừ cụ thể là: (a) Thiết bị gia đình như máy xay thịt và máy cắt bánh mì (nhóm 82.10 hoặc 85.09); (b) Lò công nghiệp hoặc phòng thí nghiệm (nhóm 84.17 hoặc 85.14); (c) Máy nấu ăn, nướng, hầm (nhóm 84.19); (d) Máy li tâm và máy lọc (nhóm 84.21); (e) Máy đóng chai, đóng hộp, đóng gói (nhóm 84.22); (f) Máy dùng trong công nghiệp xay (nhóm 84.37).",
+        "en": "This heading covers machinery, not specified or included elsewhere in this Chapter, for the industrial preparation or manufacture of food or drink for human or animal consumption, including machines for industrial or commercial use in restaurants. It does not include machinery for the extraction or preparation of animal or fixed vegetable fats or oils (heading 84.79). Specifically excluded are: (a) Domestic appliances like meat mincing machines and bread cutting machines (heading 82.10 or 85.09); (b) Industrial or laboratory ovens (heading 84.17 or 85.14); (c) Cooking, roasting, steaming machinery (heading 84.19); (d) Centrifuges and filters (heading 84.21); (e) Bottling, canning, packing machinery (heading 84.22); (f) Machinery for the milling industry (heading 84.37)."
+      }
+    },
+    {
+      "page": 8,
+      "content": {
+        "vi": "Theo các quy định chung của Phần XVI, các bộ phận của máy móc thuộc nhóm này cũng được phân loại ở đây. Ví dụ: khuôn (chảo) dùng trong sản xuất bánh mì liên tục, khuôn của máy đổ khuôn bánh kẹo, khuôn của máy đổ khuôn sô cô la, và khuôn ép bằng đồng thiếc hoặc đồng thau để sản xuất mì macaroni, spaghetti, hoặc các sản phẩm tương tự.",
+        "en": "Subject to the general provisions of Section XVI, parts of the machinery of this heading are also classified here. For example: moulds (pans) used in continuous process bread-making, moulds for confectionery moulding machines, moulds for chocolate moulding machines, and extrusion dies of bronze or brass for the manufacture of macaroni, spaghetti, or similar products."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Máy làm bánh và máy để sản xuất mì macaroni, spaghetti hoặc các sản phẩm tương tự",
+        "en": "Bakery machinery and machinery for the manufacture of macaroni, spaghetti or similar products"
+      },
+      "subheading_id": "8438.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy làm bánh và máy để sản xuất mì macaroni, spaghetti hoặc các sản phẩm tương tự",
+        "en": "Bakery machinery and machinery for the manufacture of macaroni, spaghetti or similar products"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy sản xuất mứt kẹo, ca cao, hoặc socola",
+        "en": "Machinery for the manufacture of confectionery, cocoa or chocolate"
+      },
+      "subheading_id": "8438.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy sản xuất mứt kẹo, ca cao, hoặc socola",
+        "en": "Machinery for the manufacture of confectionery, cocoa or chocolate"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy sản xuất đường",
+        "en": "Machinery for sugar manufacture"
+      },
+      "subheading_id": "8438.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy sản xuất đường",
+        "en": "Machinery for sugar manufacture"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy sản xuất bia",
+        "en": "Brewery machinery"
+      },
+      "subheading_id": "8438.40",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy sản xuất bia",
+        "en": "Brewery machinery"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy chế biến thịt gia súc hoặc gia cầm",
+        "en": "Machinery for the preparation of meat or poultry"
+      },
+      "subheading_id": "8438.50",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy chế biến thịt gia súc hoặc gia cầm",
+        "en": "Machinery for the preparation of meat or poultry"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy chế biến hoa quả, quả hạch hoặc rau",
+        "en": "Machinery for the preparation of fruits, nuts or vegetables"
+      },
+      "subheading_id": "8438.60",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy chế biến hoa quả, quả hạch hoặc rau",
+        "en": "Machinery for the preparation of fruits, nuts or vegetables"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy khác",
+        "en": "Other machinery"
+      },
+      "subheading_id": "8438.80",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Máy khác",
+        "en": "Other machinery"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      },
+      "subheading_id": "8438.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

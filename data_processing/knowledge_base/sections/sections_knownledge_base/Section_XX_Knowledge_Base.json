@@ -1,0 +1,36 @@
+{
+  "section_id": "XX",
+  "section_title": {
+    "vi": "CÁC MẶT HÀNG KHÁC",
+    "en": "MISCELLANEOUS MANUFACTURED ARTICLES"
+  },
+  "summary": {
+    "vi": "Phần XX bao gồm một loạt các mặt hàng chế tạo đa dạng không được phân loại ở các phần khác, được chia thành ba chương riêng biệt. Chương 94 tập trung vào đồ nội thất, bộ đồ giường, các thiết bị chiếu sáng và nhà lắp ghép. Chương 95 đề cập đến đồ chơi, dụng cụ cho các trò chơi và thiết bị thể thao, từ búp bê, mô hình thu nhỏ đến các dụng cụ thể dục, điền kinh và thiết bị săn bắn, câu cá. Chương 96 là một tập hợp đa dạng các mặt hàng khác như chổi, bàn chải, bút viết, cúc áo, khóa kéo, bật lửa, và các loại chân đế máy ảnh. Các chú giải của từng chương quy định nhiều loại trừ quan trọng. Ví dụ, đồ nội thất được thiết kế riêng làm bộ phận của máy móc thuộc Phần XVI hoặc thiết bị điện tử thuộc Chương 85 sẽ bị loại trừ khỏi Chương 94. Tương tự, quần áo thể thao thuộc Chương 61 và 62 và xe thể thao thuộc Phần XVII không thuộc phạm vi của Chương 95. Phần này nhấn mạnh việc phân loại dựa trên công dụng và thiết kế chuyên biệt của sản phẩm.",
+    "en": "Section XX encompasses a wide variety of miscellaneous manufactured articles not classified in other sections, divided into three distinct chapters. Chapter 94 focuses on furniture, bedding, lighting fittings, and prefabricated buildings. Chapter 95 addresses toys, articles for games, and sports requisites, ranging from dolls and scale models to equipment for gymnastics, athletics, and hunting or fishing. Chapter 96 is a diverse collection of other items such as brooms, brushes, writing instruments, buttons, slide fasteners, lighters, and monopods/tripods. The notes to each chapter specify numerous important exclusions. For instance, furniture specially designed as parts of machinery of Section XVI or electronic apparatus of Chapter 85 is excluded from Chapter 94. Likewise, sports clothing of Chapters 61 and 62 and sports vehicles of Section XVII fall outside the scope of Chapter 95. This section emphasizes classification based on the product's specific function and specialized design."
+  },
+  "notes": [],
+  "general": [],
+  "chapters": [
+    {
+      "chapter_id": "94",
+      "chapter_title": {
+        "vi": "Đồ nội thất; bộ đồ giường, đệm, khung đệm, nệm và các đồ dùng nhồi tương tự; đèn (luminaires) và bộ đèn, chưa được chi tiết hoặc ghi ở nơi khác; biển hiệu được chiếu sáng, biển đề tên được chiếu sáng và các loại tương tự; nhà lắp ghép",
+        "en": "Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; luminaires and lighting fittings, not elsewhere specified or included; illuminated signs, illuminated name-plates and the like; prefabricated buildings"
+      }
+    },
+    {
+      "chapter_id": "95",
+      "chapter_title": {
+        "vi": "Đồ chơi, thiết bị trò chơi và dụng cụ thể thao; các bộ phận và phụ kiện của chúng",
+        "en": "Toys, games and sports requisites; parts and accessories thereof"
+      }
+    },
+    {
+      "chapter_id": "96",
+      "chapter_title": {
+        "vi": "Các mặt hàng khác",
+        "en": "Miscellaneous manufactured articles"
+      }
+    }
+  ]
+}

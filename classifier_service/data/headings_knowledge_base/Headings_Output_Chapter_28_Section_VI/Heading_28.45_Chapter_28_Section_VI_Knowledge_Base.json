@@ -1,0 +1,82 @@
+{
+  "heading_id": "28.45",
+  "heading_title": {
+    "vi": "Chất đồng vị trừ các đồng vị thuộc nhóm 28.44; các hợp chất, vô cơ hoặc hữu cơ, của các đồng vị này, đã hoặc chưa xác định về mặt hóa học.",
+    "en": "Isotopes other than those of heading 28.44; compounds, inorganic or organic, of such isotopes, whether or not chemically defined."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các đồng vị bền (không phóng xạ) và các hợp chất vô cơ hoặc hữu cơ của chúng, đã hoặc chưa được xác định về mặt hóa học. Nhóm này không bao gồm các đồng vị thuộc nhóm 28.44. Định nghĩa về thuật ngữ 'đồng vị' được nêu tại Phần (I) của Chú giải chi tiết nhóm 28.44. Các sản phẩm chính bao gồm: hydro nặng (deuteri), nước nặng (deuteri oxit), các hợp chất khác của deuteri (axetylen nặng, methan nặng, axit axetic nặng và sáp paraffin nặng), đồng vị của lithi (lithi 6 hoặc 7) và các hợp chất của chúng, và đồng vị của cacbon (cacbon 13) và các hợp chất của nó.",
+    "en": "This heading covers stable (non-radioactive) isotopes and their inorganic or organic compounds, whether or not chemically defined. The heading excludes isotopes of heading 28.44. The definition of the term 'isotopes' is given in Part (I) of the Explanatory Note to heading 28.44. The principal products include: heavy hydrogen (deuterium), heavy water (deuterium oxide), other deuterium compounds (heavy acetylene, heavy methane, heavy acetic acids and heavy paraffin wax), isotopes of lithium (lithium 6 or 7) and their compounds, and the isotope of carbon (carbon 13) and its compounds."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Đối với định nghĩa về thuật ngữ \"đồng vị\", xem Phần (I) của Chú giải chi tiết nhóm 28.44.\nNhóm này bao gồm các đồng vị bền vững, đó là các chất không phải đồng vị phóng xạ và các hợp chất hữu cơ hoặc vô cơ của chúng, đã hoặc chưa được xác định về một hóa học.\nNhóm này bao gồm các đồng vị và các hợp chất của chúng sau đây:\n(1) Hydro hoặc deuteri nặng. Nó được tách ra từ hydro bình thường trong đó nó tồn tại ở tỉ lệ là 1/6500.\n(2) Nước nặng, là deuteri oxit. Tồn tại ở nước bình thường với tỷ lệ 1/6500. Thông thường thu được như một chất thải của quá trình điện phân nước. Được dùng như nguồn deuteri, và trong lò phản ứng hạt nhân để làm chậm lại các notron làm phân chia các nguyên tử urani.\n(3) Các hợp chất khác được sản xuất từ deuterium, ví dụ, axetylen nặng, methan nặng, axit acetic nặng và sáp paranfin nặng.\n(4) Các đồng vị của lithi được coi là lithi 6 hoặc 7, và các hợp chất của chúng.\n(5) Các đồng vị của cacbon được hiểu là cacbon 13 và hợp chất của nó.",
+        "en": "For the definition of the term “isotopes”, see Part (I) of Explanatory Note to heading 28.44.\nThis heading covers stable isotopes, that is, non-radioactive isotopes and their inorganic or organic compounds, whether or not chemically defined.\nThe heading includes the following isotopes and their compounds:\n(1) Heavy hydrogen or deuterium. This is separated from normal hydrogen in which it occurs at a level of 1 part in 6,500.\n(2) Heavy water, which is deuterium oxide. Occurring in ordinary water at a level of 1 part in 6.500. It is normally obtained as a residue of the electrolysis of water. Used as a source of deuterium, and in nuclear reactors for slowing down the neutrons which split the uranium atoms.\n(3) Other compounds made with deuterium, e.g., heavy acetylene, heavy methane, heavy acetic acids and heavy paraffin wax.\n(4) The isotopes of lithium known as lithium 6 or 7, and their compounds.\n(5) The isotope of carbon known as carbon 13, and its compounds."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2845.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Nước nặng (deuterium oxide)",
+        "en": "Heavy water (deuterium oxide)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2845.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bo được làm giàu bo-10 và các hợp chất của nó",
+        "en": "Boron enriched in boron-10 and its compounds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2845.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Liti được làm giàu liti-6 và các hợp chất của nó",
+        "en": "Lithium enriched in lithium-6 and its compounds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2845.40",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Helium-3",
+        "en": "Helium-3"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2845.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

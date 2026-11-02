@@ -1,0 +1,98 @@
+{
+  "heading_id": "91.10",
+  "heading_title": {
+    "vi": "Máy đồng hồ thời gian hoặc đồng hồ cá nhân đủ bộ, chưa lắp ráp hoặc đã lắp ráp từng phần (cụm máy); máy đồng hồ thời gian hoặc máy đồng hồ cá nhân chưa đủ bộ, đã lắp ráp; máy đồng hồ thời gian hoặc máy đồng hồ cá nhân chưa đủ bộ, chưa lắp ráp.",
+    "en": "Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại máy đồng hồ thời gian hoặc đồng hồ cá nhân ở các trạng thái khác nhau: đủ bộ nhưng chưa lắp ráp hoặc đã lắp ráp từng phần (còn gọi là cụm máy - chablon), chưa đủ bộ nhưng đã lắp ráp, và máy đồng hồ chưa đủ bộ, chưa lắp ráp. Nhóm này cung cấp các định nghĩa chi tiết cho 'cụm máy', 'máy cơ chưa đủ bộ', 'máy điện tử chưa đủ bộ', 'máy điện tử có mặt hiện số cơ chưa đủ bộ', và 'máy đồng hồ chưa đủ bộ và chưa lắp ráp' để phân biệt rõ phạm vi của từng loại.",
+    "en": "This heading covers various states of watch or clock movements: complete but unassembled or partly assembled (known as movement sets or chablons), incomplete but assembled, and rough movements. The heading provides detailed definitions for 'movement set', 'incomplete mechanical movement', 'incomplete fully electronic movement', 'incomplete electronic movement with mechanical display', and 'rough watch or clock movement' to clearly distinguish the scope of each type."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Cụm máy là một bộ hoàn chỉnh các bộ phận chưa lắp ráp hay được lắp ráp một phần của máy đồng hồ thời gian hay máy đồng hồ cá nhân (mua bán được dưới dạng này). Trong trường hợp máy đồng hồ có bộ hiện số cơ thì có thể có hoặc không có mặt số và bộ kim.",
+        "en": "Movement set (chablon) means a complete set of the components of a watch or clock movement, unassembled or partly assembled (marketed in this form). In the case of mechanical display movements, the dial and hands may or may not be included."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Máy cơ chưa đủ bộ của đồng hồ cá nhân hay đồng hồ thời gian là những máy đã được lắp nhưng còn thiếu một số bộ phận ngoài mặt số, kim hay ti (suốt) lên dây (ví dụ, bộ phận bộ phận điều tốc hay cầu ổ cót).",
+        "en": "Incomplete mechanical watch or clock movement means a movement which is mounted but lacks certain parts other than the dial, hands or winding spindle (e.g., the escapement or the barrel bridge)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Máy chưa hoàn chỉnh của đồng hồ cá nhân điện tử hay đồng hồ thời gian điện tử là những máy đã được lắp nhưng còn thiếu một số bộ phận trừ pin (ví dụ: bộ hiện số, một phần mạch điện tử hay các chi tiết của bộ phận này).",
+        "en": "Incomplete fully electronic watch or clock movement means a movement which is mounted but lacks certain parts other than the battery (e.g., the display, part of the electronic circuit or components thereof)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Máy ở dạng chưa hoàn chỉnh có mặt hiện số cơ của đồng hồ cá nhân điện tử hoặc máy đồng hồ thời gian điện tử là những máy đã được lắp nhưng còn thiếu một số bộ phận ngoài mặt số, kim, ti (suốt) lấy giờ hoặc pin (ví dụ, thiếu mạch điện tử hay các chi tiết của bộ phận này, động cơ).",
+        "en": "Incomplete electronic watch or clock movement with mechanical display means a movement which is mounted but lacks certain parts other than the dial, hands, setting spindle or battery (e.g., the electronic circuit or components thereof, the motor)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Máy đồng hồ chưa đủ bộ và chưa lắp ráp của đồng hồ cá nhân hay đồng hồ thời gian là những bộ phận chưa được lắp ráp của máy đồng hồ cá nhân hay đồng hồ thời gian bao gồm mâm (cả các mâm phụ), các cầu, bộ truyền động, máy chuyển động, bộ phận lên dây và lấy giờ và các bộ phận phụ trợ như bộ phận lên dây tự động, bộ phận lịch, bấm giờ, báo thức, v.v, nhưng không có bộ phận điều tốc, bánh xe cân bằng và dây tóc hoặc các thiết bị điều tốc khác, lò xo chính, mặt số hay kim. Những bộ phận này có thể được trình bày có hoặc không có hộp chứa.",
+        "en": "Rough watch or clock movement means the unassembled parts of a watch or clock movement consisting of the plate (and any additional plates), bridges, train, motion work, winding and setting mechanism, and additional mechanisms such as automatic winding device, calendar mechanisms, chronograph, alarm, etc., but without escapement, balance-wheel and hairspring or other regulating device, mainspring, dial or hands. These may be presented with or without a barrel."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Của đồng hồ cá nhân",
+        "en": "Of watches"
+      },
+      "subheading_id": "9110.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy đồng hồ đủ bộ, chưa lắp ráp hoặc đã lắp ráp từng phần (cụm máy)",
+        "en": "Complete movements, unassembled or partly assembled (movement sets)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của đồng hồ cá nhân",
+        "en": "Of watches"
+      },
+      "subheading_id": "9110.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy đồng hồ chưa đủ bộ, đã lắp ráp",
+        "en": "Incomplete movements, assembled"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Của đồng hồ cá nhân",
+        "en": "Of watches"
+      },
+      "subheading_id": "9110.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy đồng hồ chưa đủ bộ, chưa lắp ráp",
+        "en": "Rough movements"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9110.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

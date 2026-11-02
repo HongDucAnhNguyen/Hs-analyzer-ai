@@ -1,0 +1,82 @@
+{
+  "heading_id": "91.08",
+  "heading_title": {
+    "vi": "Máy đồng hồ cá nhân, hoàn chỉnh và đã lắp ráp.",
+    "en": "Watch movements, complete and assembled."
+  },
+  "summary": {
+    "vi": "Nhóm 91.08 bao gồm các máy đồng hồ cá nhân đã hoàn chỉnh và lắp ráp, sẵn sàng để sử dụng. Theo Chú giải 3 của Chương, các máy này là thiết bị điều chỉnh bởi bánh xe cân bằng và dây tóc, tinh thể thạch anh hoặc hệ thống khác, có độ dày không quá 12 mm và đường kính không quá 50 mm. Nhóm này phân loại năm loại máy chính: cơ, điện tử (loại lên dây cót hoặc âm thoa), và thạch anh (hiển thị analog hoặc kỹ thuật số). Các máy này chủ yếu dùng cho đồng hồ thuộc nhóm 91.01 đến 91.03 nhưng vẫn thuộc nhóm này ngay cả khi được dùng cho các sản phẩm khác như dụng cụ đo lường hay khí cụ nổ. Các máy không đáp ứng điều kiện kích thước sẽ được phân loại vào nhóm 91.09 hoặc 91.10. Nhóm này cũng không bao gồm động cơ hoạt động bằng dây cót thuộc nhóm 84.12. Máy đồng hồ có thể được hoàn thiện bằng nhiều cách như đánh bóng hoặc mạ kim loại. Máy chạy bằng pin hoặc ắc quy được phân loại tại đây dù có kèm pin hay không.",
+    "en": "Heading 91.08 covers complete and assembled watch movements, ready for use. According to Chapter Note 3, these movements are devices regulated by a balance-wheel and hairspring, quartz crystal, or other systems, not exceeding 12 mm in thickness and 50 mm in diameter. The heading classifies five main types: mechanical, electronic (balance-spring or tuning fork), and quartz movements (analogue or digital display). These movements are primarily for watches of headings 91.01 to 91.03 but remain here even if used in other goods like measuring instruments or explosive devices. Movements not meeting the size criteria are classified in heading 91.09 or 91.10. This heading also excludes spring-operated motors of heading 84.12. The movements can have various finishes such as polished or plated. Battery or accumulator powered movements are classified here, with or without the battery."
+  },
+  "general": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này áp dụng đối với các máy đồng hồ đã lắp ráp, không có vỏ, hoàn chỉnh và sẵn sàng để sử dụng. Gồm 5 loại chính: (1) máy cơ; (2) máy điện tử loại lên dây cót; (3) máy điện tử có bộ cộng hưởng uốn (âm thoa); (4) máy thạch anh có bộ hiện số analog (kim); (5) máy thạch anh có màn hình hiện số điện tử (LED hoặc LCD). Máy cơ hoặc điện tử hiển thị analog có thể không có mặt số hay kim. Theo Chú giải 3 của Chương, 'máy đồng hồ cá nhân' là thiết bị điều chỉnh bởi bánh xe cân bằng và dây tóc, tinh thể thạch anh hoặc hệ thống khác, có độ dày không quá 12 mm và chiều rộng, dài hoặc đường kính không quá 50 mm. Các máy này chủ yếu dùng cho đồng hồ thuộc nhóm 91.01 đến 91.03, nhưng vẫn được phân loại ở đây dù được dùng cho các hàng hóa khác trong Chương này hoặc các dụng cụ của các Chương khác như dụng cụ đo lường, đồng hồ đếm bước, khí cụ nổ. Nhóm này không bao gồm các máy đồng hồ không đáp ứng điều kiện trên (nhóm 91.09 hay 91.10) và động cơ hoạt động bằng dây cót (nhóm 84.12). Máy có thể được đánh bóng, mạ niken, mạ rhodium, mạ bạc, mạ vàng, quét véc ni. Máy chạy pin hay ắc quy được phân loại trong nhóm này dù có kèm pin hay không.",
+        "en": "This heading applies to assembled watch movements without cases, complete and ready for use. These movements may be of five principal types: (1) mechanical movements; (2) electronic movements of the balance-spring type; (3) electronic movements with a flexural resonator (tuning fork); (4) quartz movements with an analogue time display (hands); (5) quartz movements with an electronic digital time display (LED or LCD). Mechanical or electronic movements with an analogue time display may be presented without dial or hands. Under Chapter Note 3, the expression “watch movements” means devices regulated by a balance-wheel and hairspring, quartz crystal or any other system capable of determining intervals of time, with a display or a system to which a mechanical display can be incorporated. Such watch movements shall not exceed 12 mm in thickness and 50 mm in width, length or diameter. These movements are mainly intended for the watches and clocks of headings 91.01 to 91.03, but they remain classified here even if for incorporation in other articles of this Chapter or in instruments or apparatus of other Chapters (measuring or precision instruments, pedometers, explosive devices). The heading excludes movements not conforming to the above conditions (heading 91.09 or 91.10), and spring-operated motors of heading 84.12. The movements of this heading may be unpolished, polished, nickel-plated, rhodium-plated, silvered, gilded, or varnished. Battery or accumulator powered watch movements are classified in this heading, whether or not the battery or accumulator is present."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Hoạt động bằng điện:",
+        "en": "Electrically operated:"
+      },
+      "subheading_id": "9108.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chỉ có mặt hiển thị bằng cơ học hoặc có một thiết bị được kết hợp với mặt hiển thị bằng cơ học",
+        "en": "With mechanical display only or with a device to which a mechanical display can be incorporated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hoạt động bằng điện:",
+        "en": "Electrically operated:"
+      },
+      "subheading_id": "9108.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chỉ có mặt hiển thị bằng quang điện tử",
+        "en": "With opto-electronic display only"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Hoạt động bằng điện:",
+        "en": "Electrically operated:"
+      },
+      "subheading_id": "9108.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác.",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9108.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có bộ phận lên dây tự động",
+        "en": "With automatic winding"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9108.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

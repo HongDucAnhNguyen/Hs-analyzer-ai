@@ -1,0 +1,58 @@
+{
+  "heading_id": "02.01",
+  "heading_title": {
+    "vi": "Thịt của động vật họ trâu bò, tươi hoặc ướp lạnh.",
+    "en": "Meat of bovine animals, fresh or chilled."
+  },
+  "summary": {
+    "vi": "Nhóm này gồm thịt tươi hoặc ướp lạnh của động vật họ trâu bò nuôi hoặc hoang dã thuộc nhóm 01.02.",
+    "en": "This heading covers fresh or chilled meat of domestic or wild bovine animals of heading 01.02."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm thịt tươi hoặc ướp lạnh của động vật họ trâu bò nuôi hoặc hoang thuộc nhóm 01.02.",
+        "en": "This heading covers fresh or chilled meat of domestic or wild bovine animals of heading 01.02."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0201.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt cả con và nửa con",
+        "en": "Carcasses and half-carcasses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0201.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt pha có xương khác",
+        "en": "Other cuts with bone in"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0201.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt lọc không xương",
+        "en": "Boneless"
+      }
+    }
+  ]
+}

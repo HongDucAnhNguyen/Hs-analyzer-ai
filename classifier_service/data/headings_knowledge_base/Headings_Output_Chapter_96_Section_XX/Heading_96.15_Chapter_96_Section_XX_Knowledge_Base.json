@@ -1,0 +1,65 @@
+{
+  "heading_id": "96.15",
+  "heading_title": {
+    "vi": "Lược, trâm cài tóc và loại tương tự; ghim cài tóc, cặp uốn tóc, kẹp uốn tóc, lô cuộn tóc và loại tương tự, trừ các loại thuộc nhóm 85.16, và bộ phận của chúng.",
+    "en": "Combs, hair-slides and the like; hairpins, curling pins, curling grips, hair-curlers and the like, other than those of heading 85.16, and parts thereof."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại lược (kể cả lược cho động vật), lược chải tóc, trâm cài tóc, ghim cài tóc, kẹp uốn tóc, và các loại tương tự dùng để giữ tóc hoặc trang điểm, thường làm bằng plastic, ngà, xương, sừng, mai rùa, kim loại. Nhóm này không bao gồm các thiết bị làm tóc bằng điện thuộc nhóm 85.16, các sản phẩm chứa kim loại quý hoặc đá quý (trừ khi là thành phần phụ) thuộc Chương 71, và băng buộc đầu bằng chất liệu dệt (Phần XI).",
+    "en": "This heading covers combs (including for animals), dress combs, hair-slides, hairpins, curling pins, and similar articles for keeping the hair in place or for adornment, usually made of plastics, ivory, bone, horn, tortoise-shell, or metal. The heading excludes electric hair apparatus of heading 85.16, articles containing precious metal or precious stones (other than as minor constituents) falling in Chapter 71, and textile headbands (Section XI)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Lược vệ sinh các loại, kể cả lược chải cho động vật.\n(2) Lược chải tóc các loại, cho trang điểm cá nhân hoặc để giữ tóc theo nếp.\n(3) Trâm cài tóc và các loại tương tự để tóc theo nếp hoặc để trang điểm.\n(4) Kẹp tóc.\n(5) Kẹp uốn tóc, cặp uốn tóc, cuộn uốn tóc và các loại tương tự, trừ loại thuộc nhóm 85.16, đã hoặc chưa bọc hoặc lót bằng vật liệu dệt, cao su hoặc bằng các vật liệu khác.",
+        "en": "This heading covers:\n(1) Toilet combs of all kinds, including combs for animals.\n(2) Dress combs of all kinds, whether for personal adornment or for keeping the hair in place.\n(3) Hair-slides and the like for holding the hair in place or for ornamental purposes.\n(4) Hairpins.\n(5) Curling pins, curling grips, hair-curlers and the like, other than those of heading 85.16, whether or not having coverings or fittings of textile, rubber or other materials."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này loại trừ:\n- Các sản phẩm xếp vào Chương 71 nếu chứa kim loại quý hoặc kim loại mạ kim loại quý, chứa ngọc trai tự nhiên hoặc nuôi cấy, đá quý hoặc bán quý (tự nhiên, tổng hợp hoặc tái tạo), trừ loại có hàm lượng các chất trên quá nhỏ.\n- Băng buộc đầu bằng chất liệu dệt (Phần XI).",
+        "en": "Exclusions:\n- Articles falling in Chapter 71 if containing precious metal or metal clad with precious metal, natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed), other than as minor constituents.\n- Textile headbands (Section XI)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Lược, trâm cài tóc và loại tương tự:",
+        "en": "- Combs, hair-slides and the like:"
+      },
+      "subheading_id": "9615.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng cao su cứng hoặc plastic",
+        "en": "Of hard rubber or plastics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Lược, trâm cài tóc và loại tương tự:",
+        "en": "- Combs, hair-slides and the like:"
+      },
+      "subheading_id": "9615.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9615.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

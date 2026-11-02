@@ -1,0 +1,46 @@
+{
+  "heading_id": "79.03",
+  "heading_title": {
+    "vi": "Bột, bụi và vảy kẽm.",
+    "en": "Zinc dust, powders and flakes."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm bụi kẽm (được định nghĩa tại Chú giải Phân nhóm 1(c) của Chương này), bột kẽm (được định nghĩa tại Chú giải 8(b) Phần XV) và vảy kẽm. Các quy định của Chú giải Nhóm 74.06 được áp dụng tương tự cho nhóm này. Nhóm này không bao gồm bụi ống khói (nhóm 26.20), bụi, bột hoặc vảy kẽm đã được pha chế thành thuốc màu, sơn hoặc các sản phẩm tương tự (Chương 32), và viên kẽm (nhóm 79.01).",
+    "en": "This heading covers zinc dust (as defined by Subheading Note 1(c) to this Chapter), zinc powders (as defined in Note 8(b) to Section XV), and zinc flakes. The provisions of the Explanatory Note to heading 74.06 apply, mutatis mutandis, to this heading. The heading excludes flue dusts (heading 26.20), zinc dust, powders or flakes prepared as colours, paints or the like (Chapter 32), and zinc pellets (heading 79.01)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(1) Bụi kẽm như định nghĩa bởi chú giải phân nhóm 1(c) Chương này thu được từ quá trình ngưng tụ hơi kẽm mà nó được sản xuất hoặc trực tiếp từ quá trình khử quặng kẽm hoặc phương pháp xử lý nhiệt của các vật liệu chứa kẽm bằng việc đun nóng. Các sản phẩm đó nhất thiết không được nhầm lẫn với bụi ống khói, nó được biết dưới nhiều tên như \"Bụi lò kẽm\", \"bụi lò ôxit kẽm\" hoặc \"bụi ống khói nhà lọc túi kẽm\" mà chúng được phân loại trong nhóm 26.20.\n(2) Kẽm dạng bột như đã định nghĩa trong chú giải 8b Phần XV và kẽm ở dạng vảy. Các điều khoản của chú giải nhóm 74.06 với sự sửa đổi thích hợp cũng được áp dụng cho nhóm này.\nKẽm ở dạng bụi, bột và vảy chủ yếu được sử dụng để phủ các kim loại khác bằng quá trình gắn kết kim loại (sự mạ kẽm), dùng trong việc sản xuất các loại sơn với vai trò là tác nhân khử hoá chất...\nNhóm này cũng không bao gồm:\n(a) Kẽm ở dạng bụi, bột hoặc vẩy, được pha chế làm thuốc màu, các loại son phủ hoặc các sản phẩm tương tự (ví dụ: được tạo với chất màu khác hoặc được đưa vào như thể huyền phù, phân tán hoặc bột nhão, với một chất liên kết hoặc dung môi (Chương 32).\n(b) Kẽm ở dạng viên (nhóm 79.01).",
+        "en": "The heading covers:\n(1) Zinc dust as defined by Subheading Note 1 (c) to this Chapter is obtained by condensation of zinc vapour which is produced either directly in a zinc ore reduction operation or by the treatment of zincbearing materials by boiling. These products must not be confused with the flue dusts, variously known as “zinc flue dust”, “zinc oxide flue dust” or “zinc baghouse flue dust” which are classified in heading 26.20.\n(2) Zinc powders as defined in Note 8 (b) to Section XV and zinc flakes. The provisions of the Explanatory Note to heading 74.06 apply, mutatis mutandis, to this heading.\nZinc dust, powders and flakes are mainly used to coat other metals by metallic cementation (sherardisation), in the manufacture of paints, as chemical reducing agents, etc.\nThe heading also excludes:\n(a) Zinc dust, powders or flakes, prepared as colours, paints or the like (e.g., made up with other colouring matter or put up as suspensions, dispersions or pastes, with a binder or solvent) (Chapter 32).\n(b) Zinc pellets (heading 79.01)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7903.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "– Bụi kẽm",
+        "en": "– Zinc dust"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7903.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "heading_id": "62.09",
+  "heading_title": {
+    "vi": "Quần áo may sẵn và phụ kiện may mặc cho trẻ em.",
+    "en": "Babies’ garments and clothing accessories."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm quần áo và phụ kiện may mặc cho trẻ em có chiều cao không quá 86 cm, theo Chú giải 5(a) của Chương này. Các mặt hàng thuộc nhóm này bao gồm áo khoác ngắn, áo tiên, quần yếm, yếm dải, găng tay, quần tất và giày len của trẻ em không có đế ngoài, không dệt kim hoặc móc. Theo Chú giải 5(b) của Chương này, các mặt hàng có thể phân loại đồng thời vào nhóm 62.09 và các nhóm khác của Chương này thì sẽ được phân loại vào nhóm 62.09. Nhóm này không bao gồm: mũ bonnet trẻ em (nhóm 65.05), khăn (bỉm) và tã lót (nhóm 96.19), và phụ kiện quần áo trẻ em được quy định cụ thể hơn ở các Chương khác.",
+    "en": "This heading covers babies’ garments and clothing accessories for young children of a body height not exceeding 86 cm, in accordance with Chapter Note 5(a). Items included are matinee coats, pixie suits, rompers, bibs, gloves, tights and babies’ bootees without an outer sole, not knitted or crocheted. According to Chapter Note 5(b), articles classifiable both in heading 62.09 and in other headings of this Chapter are to be classified in heading 62.09. This heading does not include: babies’ bonnets (heading 65.05), napkins (diapers) and napkin liners (heading 96.19), and babies’ clothing accessories covered more specifically by other Chapters."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 5 (a) của Chương này, thuật ngữ quần áo và phụ kiện may mặc cho trẻ em” chỉ áp dụng cho trẻ em có chiều cao không quá 86 cm.",
+        "en": "In accordance with Chapter Note 5 (a) the expression babies’ garments and clothing accessories applies to articles for young children of a body height not exceeding 86 cm."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này, không kể những cái khác, bao gồm các sản phẩm như áo khoác ngắn cho trẻ em, áo tiên, quần yếm của trẻ con, yếm dải của trẻ sơ sinh, găng tay, găng tay hở ngón, quần tất và giầy len của trẻ em không có đế ngoài được may hoặc được gắn bằng cách khác hoặc được kết với mũ giày, không được dệt kim hoặc móc.",
+        "en": "This heading includes, inter alia, matinee coats, pixie suits, rompers, infants’ bibs, gloves, mittens and mitts, tights and babies’ bootees without an outer sole glued, sewn or otherwise affixed or applied to the upper, not knitted or crocheted."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chúng ta cũng nên lưu ý rằng các sản phẩm mà thoạt nhìn thì có thể phân chúng vào nhóm 62.09 và nhóm khác thuộc Chương này thì được phân loại vào nhóm 62.09 (xem Chú giải 5 (b) của Chương này).",
+        "en": "It should be noted that articles which art, prima facie, classifiable both in heading 62.09 and in other headings of this Chapter are to be classified in heading 62.09 (see Chapter Note 5 (b))."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm: \n(a) Mũ bonnet (mũ rộng vành có dây buộc ở cằm) dành cho trẻ em (nhóm 65.05).\n(b) Khăn (bỉm) và tã lót cho trẻ (nhóm 96.19).\n(c) Hàng may mặc phụ trợ dùng cho trẻ em được chi tiết hơn trong các Chương khác của Danh mục này.",
+        "en": "This heading does not include: \n(a) Babies’ bonnets (heading 65.05).\n(b) Napkins (diapers) and napkin liners for babies (heading 96.19).\n(c) Babies’ clothing accessories covered more specifically by other Chapters of the Nomenclature."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6209.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ bông",
+        "en": "- Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6209.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ sợi tổng hợp",
+        "en": "- Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6209.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Từ vật liệu dệt khác",
+        "en": "- Of other textile materials"
+      }
+    }
+  ]
+}

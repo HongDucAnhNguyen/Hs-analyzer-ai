@@ -1,0 +1,166 @@
+{
+  "heading_id": "55.14",
+  "heading_title": {
+    "vi": "Vải dệt thoi bằng xơ staple tổng hợp, có hàm lượng loại xơ này chiếm dưới 85% tính theo khối lượng, pha chủ yếu hoặc pha duy nhất với bông, định lượng trên 170 g/m2.",
+    "en": "Woven fabrics of synthetic staple fibres, containing less than 85 % by weight of such fibres, mixed mainly or solely with cotton, of a weight exceeding 170 g/m2."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải có đặc tính tương tự như nhóm 55.13 (hàm lượng xơ staple tổng hợp dưới 85%, pha chủ yếu hoặc duy nhất với bông) nhưng có trọng lượng trên 170 g/m2. Chú giải chi tiết của nhóm 55.13 được áp dụng tương tự cho các mặt hàng thuộc nhóm này.",
+    "en": "This heading covers fabrics with characteristics similar to those of heading 55.13 (containing less than 85% by weight of synthetic staple fibres, mixed mainly or solely with cotton) but of a weight exceeding 170 g/m2. The Explanatory Note to heading 55.13 applies, mutatis mutandis, to the products of this heading."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải chi tiết của nhóm 55.13 được áp dụng, một cách tương tự, cho các mặt hàng thuộc nhóm này.",
+        "en": "The Explanatory Note to heading 55.13 applies, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng:",
+        "en": "Unbleached or bleached:"
+      },
+      "subheading_id": "5514.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ xơ staple polyeste, dệt vân điểm",
+        "en": "Of polyester staple fibres, plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng:",
+        "en": "Unbleached or bleached:"
+      },
+      "subheading_id": "5514.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo chữ nhân, từ xơ staple polyeste",
+        "en": "3 thread or 4-thread twill, including cross twill, of polyester staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng hoặc đã tẩy trắng:",
+        "en": "Unbleached or bleached:"
+      },
+      "subheading_id": "5514.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác",
+        "en": "Other woven fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5514.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Từ xơ staple polyeste, dệt vân điểm",
+        "en": "Of polyester staple fibres, plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5514.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo chữ nhân, từ xơ staple polyeste",
+        "en": "3-thread or 4-thread twill, including cross twill, of polyester staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5514.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác làm từ xơ staple polyeste",
+        "en": "Other woven fabrics of polyester staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5514.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác",
+        "en": "Other woven fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5514.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ các sợi có các màu khác nhau",
+        "en": "Of yarns of different colours"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5514.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ xơ staple polyeste, dệt vân điểm",
+        "en": "Of polyester staple fibres, plain weave"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5514.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo chữ nhân, từ xơ staple polyeste",
+        "en": "3-thread or 4-thread twill, including cross twill, of polyester staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5514.43",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác từ xơ staple polyeste",
+        "en": "Other woven fabrics of polyester staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5514.49",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt thoi khác",
+        "en": "Other woven fabrics"
+      }
+    }
+  ]
+}

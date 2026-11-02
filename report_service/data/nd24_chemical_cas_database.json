@@ -1,0 +1,7328 @@
+{
+  "_metadata": {
+    "source": "Nghị định 24/2026/NĐ-CP - Tất cả Phụ lục",
+    "description": "Danh mục tất cả hóa chất theo Luật Hóa chất (dùng để match CAS)",
+    "url": "https://thuvienphapluat.vn/van-ban/Linh-vuc-khac/Nghi-dinh-24-2026-ND-CP-danh-muc-hoa-chat-thuoc-pham-vi-dieu-chinh-cua-Luat-Hoa-chat-682556.aspx",
+    "appendix_info": {
+      "I": "Danh mục hóa chất cơ bản thuộc lĩnh vực công nghiệp hóa chất trọng điểm",
+      "II": "Danh mục hóa chất sản xuất, kinh doanh có điều kiện",
+      "III": "Danh mục hóa chất cần kiểm soát đặc biệt (cần giấy phép)",
+      "IV": "Danh mục hóa chất phải xây dựng kế hoạch phòng ngừa, ứng phó sự cố"
+    },
+    "last_updated": "2026-02-05",
+    "total_chemicals": 1203,
+    "appendix_iii_count": 222
+  },
+  "100-00-5": {
+    "name": "p-Nitrochlorobenzene / p-Nitro clo benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-01-6": {
+    "name": "4-Nitroaniline / 4-Nitroanilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-02-7": {
+    "name": "1-hydroxy-4-nitrobenzene / 1-hydroxy-4-nitrobenzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-17-4": {
+    "name": "1-Methoxy-4-nitrobenzene / 1-Methoxy-4-nitrobenzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-36-7": {
+    "name": "N, N-Diethylethylene diamine / N,N-Dietyl etylen diamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-37-8": {
+    "name": "N, N-Diethylaminoetanol / N,N-dietyl amino etanol",
+    "appendix": [
+      "II",
+      "III"
+    ]
+  },
+  "100-41-4": {
+    "name": "Ethyl benzene / Etyl benzen",
+    "appendix": [
+      "III"
+    ]
+  },
+  "100-42-5": {
+    "name": "Vinyl benzene (styrene) / Vinyl benzen",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "100-44-7": {
+    "name": "Benzyl chloride / Benzyl clorua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "100-50-5": {
+    "name": "1,2,3,6-etrahydro benzaldehyde / 1,2,3,6- Tetrahydrobenzal dehyt",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-52-7": {
+    "name": "Benzaldehyde / Benzoic aldehyde",
+    "appendix": [
+      "III"
+    ]
+  },
+  "100-61-8": {
+    "name": "N-Methyl aniline / N-metyl anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-63-0": {
+    "name": "Phenyl hydrazine / Phenyl hydrazin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-66-3": {
+    "name": "Anisole (methoxybenzene) / Anisol (methoxy benzen)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "100-97-0": {
+    "name": "Hexametylentetramine / Hexametylen tetramin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1002-16-0": {
+    "name": "1-Pentyl nitrate / 1-Pentyl nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10022-31-8": {
+    "name": "Bari nitrate / Bari nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10024-97-2": {
+    "name": "Nitrous oxide / Dinitơ monoxit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "10025-67-9": {
+    "name": "Sulfur monochloride / Sulfur monochloride",
+    "appendix": [
+      "III"
+    ]
+  },
+  "10025-78-2": {
+    "name": "Trichlorosilane (Silane, trichloro-) / Triclo silan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "10025-87-3": {
+    "name": "Phosphorus oxychloride / Phosphorus oxychloride",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "10025-91-9": {
+    "name": "Antimony trichloride / Antimonony clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10026-04-7": {
+    "name": "Silicon tetrachloride / Silicon tetraclorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10026-11-6": {
+    "name": "Zirconium (IV) chloride / Zirconi (IV) chlorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10026-13-8": {
+    "name": "Phosphorus pentachloride / Phosphorus pentachloride",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "10031-87-5": {
+    "name": "2-Ethylbutyl acetate / 2-Etyl butyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10034-81-8": {
+    "name": "Magnesium perchlorate / Magie peclorat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10034-85-2": {
+    "name": "Hydrogen iodide / Hydro iođua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10035-10-6": {
+    "name": "Hydrogen bromide / Hydro bromua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10037-74-3": {
+    "name": "Calcium chlorate / Canxi clorat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10039-54-0": {
+    "name": "Hydroxyl ammonium sulfate / Hydroxyl amin sunphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10042-76-9": {
+    "name": "Strontium nitrate / Stronti nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10049-04-4": {
+    "name": "Chlorine dioxide (Chlorine oxide (ClO2)) / Clo dioxit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "101-14-4": {
+    "name": "2,2′-dichloro-4,4′- methylene dianiline (MOCA) / 2,2’-Dichloro-4,4′- metylen dianilin (MOCA)",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "101-77-9": {
+    "name": "4,4’-Methylene dianiline / 4,4’-Diamino diphenyl metan",
+    "appendix": [
+      "III"
+    ]
+  },
+  "101-83-7": {
+    "name": "Dicyclo hexylamine / Dixyclohexyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10101-50-5": {
+    "name": "Sodium permanganate / Natri pemanganat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10102-18-8": {
+    "name": "Sodium selenite / Natri selenit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "10102-43-9": {
+    "name": "Nitric oxdide (Nitrogen oxide (NO)) / Nitơ monoxit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "10102-45-1": {
+    "name": "Thallium nitrate / Tali nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10108-64-2": {
+    "name": "Cadmium chloride / Cadimi clorua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "10118-77-6": {
+    "name": "1-propen-2-chloro-1,3-diol-diacetate / 1-Propen-2-clo-1,3-diol diaxetat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "10124-37-5": {
+    "name": "Calcium nitrate / Canxi nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "101463-69-8": {
+    "name": "Flufenoxuron / Flufenoxuron",
+    "appendix": [
+      "II"
+    ]
+  },
+  "102-36-3": {
+    "name": "3,4-Dichloro phenyl isocyanate / 3,4-Diclophenyl isoxyanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "102-69-2": {
+    "name": "Tripropylamine / Tripropyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "102-70-5": {
+    "name": "Triallylamine / Triallyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "102-71-6": {
+    "name": "Triethanolamine / Triethanol amine",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "102-81-8": {
+    "name": "Dibutyl amino ethanol / Dibutyl amino etanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "102-82-9": {
+    "name": "Tributyl amine / Tributyl amin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "10265-92-6": {
+    "name": "Methamidophos / Methamidophos",
+    "appendix": [
+      "III"
+    ]
+  },
+  "10294-33-4": {
+    "name": "Boron tribromide / Bo tribromua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10294-34-5": {
+    "name": "Boron trichloride (Borane, trichloro-) / Boron triclorua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "103-65-1": {
+    "name": "N-Propyl benzene / N-Propyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "103-69-5": {
+    "name": "N-Ethylaniline / N-etyl anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "103-71-9": {
+    "name": "Phenyl isocyanate / Phenyl isoxyanat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "103-79-7": {
+    "name": "Phenylacetone / 1 - phenyl - 2 - propanone (P2P)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "103-82-2": {
+    "name": "Benzeneacetic acid / Phenylacetic acid",
+    "appendix": [
+      "III"
+    ]
+  },
+  "103-83-3": {
+    "name": "Dimethyl benzyl amine / Benzyl dimetyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10311-84-9": {
+    "name": "Dialifos / Dialifos",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "10377-60-3": {
+    "name": "Magnesium nitrate / Magie nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10377-66-9": {
+    "name": "Manganese (II) nitrate / Magan nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "104-51-8": {
+    "name": "Butyl benzene / Butyl benzene",
+    "appendix": [
+      "II"
+    ]
+  },
+  "104-75-6": {
+    "name": "2-Ethylhexylamine / 2-Etylhexylamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "104-83-6": {
+    "name": "1-Chloro-4-chloromethyl-benzene / 1-Clo-4-clometyl-benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "104-90-5": {
+    "name": "2-Methyl-5-ethyl pyridine / 2-Metyl-5-etylpyridin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "104-94-9": {
+    "name": "p-Anisidine (4-Methoxybenzenanime) / p-Anisidin (4-Methoxy benzen anim)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "105-36-2": {
+    "name": "Ethyl bromoacetate / Etyl brom axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "105-37-3": {
+    "name": "Ethyl propionate / Etyl propionat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "105-39-5": {
+    "name": "Ethyl chloracetate / Etyl clo axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "105-48-6": {
+    "name": "Isopropyl chloroacetate / Isopropyl cloaxetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "105-58-8": {
+    "name": "Diethyl cacbonate (ethyl carbonate) / Dietyl cacbonat (etyl cacbonat)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "105-59-9": {
+    "name": "Methyldiethanolamine / Methyldiethanolamine",
+    "appendix": [
+      "III"
+    ]
+  },
+  "105-67-9": {
+    "name": "2,4-Xylenol / 2,4-Xylenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10544-72-6": {
+    "name": "Dinitrogen tetroxide / Dinitơ tetraoxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "10545-99-0": {
+    "name": "Sulfur dichloride / Sulfur dichloride",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "106-27-4": {
+    "name": "Amyl butyrate / Amyl butyrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-31-0": {
+    "name": "Butyric anhydride / Butyric anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-42-3": {
+    "name": "p-Xylene / p-Xylen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-43-4": {
+    "name": "1-chloro-4-methyl benzene / 1-Clo-4-metyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-44-5": {
+    "name": "1-Hydroxy-4-methylbenzene / 1-Hydroxy-4-metyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-47-8": {
+    "name": "4-Chloroaniline / 4-Clo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-48-9": {
+    "name": "4-Chlorophenol / 4-Clo phenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-49-0": {
+    "name": "Toluidine / Toluidin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "106-50-3": {
+    "name": "1,4-Diamino benzene / 1,4-Diamino benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-51-4": {
+    "name": "1,4-benzo quinone (p-benzoquinone) / 1,4-Benzo quinon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-63-8": {
+    "name": "Isobutyl acrylate / Isobutyl acrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-88-7": {
+    "name": "1,2-Butylene oxide / 1,2-Butylen oxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-89-8": {
+    "name": "Epichlorohydrin (oxirane, (chloromethyl-) / Epiclohydrin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "106-92-3": {
+    "name": "Allyl glycidyl ether / Allyl glycidyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-93-4": {
+    "name": "1,2-dibromo ethane (ethylene dibromide) / 1,2-Dibrom etan",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "106-94-5": {
+    "name": "1-Propyl bromide / 1-Brom propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-95-6": {
+    "name": "Allyl bromide / Allyl bromua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-96-7": {
+    "name": "3-Bromopropyne (Propargyl bromide) / 3-Brom propyn",
+    "appendix": [
+      "II"
+    ]
+  },
+  "106-97-8": {
+    "name": "Butane / Butan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "106-98-9": {
+    "name": "1-Buten / 1-Butene",
+    "appendix": [
+      "I",
+      "IV"
+    ]
+  },
+  "106-99-0": {
+    "name": "1,3-Butadiene / 1,3-Butadien",
+    "appendix": [
+      "I",
+      "II",
+      "IV"
+    ]
+  },
+  "107-00-6": {
+    "name": "Ethyl acetylene (1-Butyne) / Etyl axetylen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-02-8": {
+    "name": "Acrolein (2-Propenal) / Acrolein",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "107-03-9": {
+    "name": "1-Propanethiol / 1-Propanthiol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-05-1": {
+    "name": "Allyl chloride / Allyl chlorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-06-2": {
+    "name": "1,2- dichloroethane (EDC) / 1,2-Diclo etan (EDC)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "107-07-3": {
+    "name": "Chloro ethanol / Clo etanol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "107-08-4": {
+    "name": "1-Iodopropane / 1-Iotpropan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-10-8": {
+    "name": "Propylamine / Propylamin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-11-9": {
+    "name": "Allyl amine (2-Propen-1-amine) / Allyl amin",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "107-12-0": {
+    "name": "Propionitrile (Propanenitrile) / Propionitril",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-13-1": {
+    "name": "Acrylonitrile / Acrylonitrile",
+    "appendix": [
+      "I",
+      "II",
+      "IV"
+    ]
+  },
+  "107-14-2": {
+    "name": "Chloroacetonitrile / Clo axetonitril",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-15-3": {
+    "name": "Ethylenediamine (1,2-Ethanediamine) / Etylen diamin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-16-4": {
+    "name": "Hydroxy aceto nitrile (glycolonitrile) / Hydroxy axeto nitril",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "107-18-6": {
+    "name": "Allyl alcohol (2-Propen-l-ol) / Rượu allyl",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "107-19-7": {
+    "name": "Propargyl alcohol / Rượu propargyl",
+    "appendix": [
+      "III"
+    ]
+  },
+  "107-20-0": {
+    "name": "2-Chloro acethanal / Clo axetandehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-21-1": {
+    "name": "Ethylene glycol / Ethylene glycol",
+    "appendix": [
+      "I"
+    ]
+  },
+  "107-25-5": {
+    "name": "Vinyl methyl ether (Ethene, methoxy-) / Vinyl metyl ete",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-29-9": {
+    "name": "Acetaldehyde oxime / Axetandehit oxim",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-30-2": {
+    "name": "Chloromethyl methyl ether / Clormetyl metyl ete",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-31-3": {
+    "name": "Methyl formate (Formic acid, methyl ester) / Metyl format",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-37-9": {
+    "name": "Allyl trichloro silane / Allyl triclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-39-1": {
+    "name": "Diisobutylene / Diisobutyllen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-49-3": {
+    "name": "T.E.P.P - (Tetraethyl pyrophosphate) / Tepp - tetraetyl pyrophotphat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-71-1": {
+    "name": "Tert-butyl peroxyacetate (>70%) / Tert-butyl peroxyaxetat (>70%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "107-72-2": {
+    "name": "Amyl trichloro silane / Amyl triclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-81-3": {
+    "name": "2-Bromopentane / 2-Brom-pentan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-82-4": {
+    "name": "1-Bromo-3- methyl butane / 1-Bromo-3-metyl butan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-87-9": {
+    "name": "2-Pentanone / 2-Pentanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-92-6": {
+    "name": "Butyric acid / Axit butyric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-93-7": {
+    "name": "Crotonic acid / Axit crotonic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "107-98-2": {
+    "name": "1-Methoxy-2-propanol / 1-Metoxy-2-propanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-01-0": {
+    "name": "N, N -Dimetylaminoethanol / N,N-dimetyl amino etanol và các muối proton hóa  chất tương ứng",
+    "appendix": [
+      "II",
+      "III"
+    ]
+  },
+  "108-03-2": {
+    "name": "1-nitropropane / 1-nitropropan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-05-4": {
+    "name": "Vinyl acetate monomer (Acetic acid ethenyl ester) / Vinyl axetat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "108-10-1": {
+    "name": "Methyl isobutyl ketone / Metyl isobutyl keton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-11-2": {
+    "name": "Methyl isobutyl carbinol / Metyl isobutyl carbinol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-18-9": {
+    "name": "Diisopropyl amine / Diisopropyla min",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-20-3": {
+    "name": "Diisopropyl ether / Diisopropyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-21-4": {
+    "name": "Isopropyl acetate / Isopropyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-22-5": {
+    "name": "Isopropenyl acetate / Isopropenyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-23-6": {
+    "name": "1-methylethyl chlorocarbonate / Isopropyl cloformat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "108-24-7": {
+    "name": "Acetic oxide / Acetic anhydride (AA)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "108-31-6": {
+    "name": "Maleic anhydride / Maleic anhydrit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "108-34-9": {
+    "name": "Pyrazoxon / Pyrazoxon",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "108-38-3": {
+    "name": "m-Xylene / m-Xylen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-39-4": {
+    "name": "1-Hydroxy-3-methyl benzene / 1-Hydroxy-3-metyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-41-8": {
+    "name": "1-chloro-3-methyl benzene / 1-Clo-3-metyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-42-9": {
+    "name": "3-Chloroaniline / 3-Clo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-43-0": {
+    "name": "3-Chlorophenol / 3-Clo phenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-44-1": {
+    "name": "Toluidine / Toluidin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "108-45-2": {
+    "name": "1,3-Diamino benzene / 1,3-Diamino benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-46-3": {
+    "name": "Resorcinol / Resorcinol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-62-3": {
+    "name": "Metaldehyde / Metaldehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-67-8": {
+    "name": "1,3,5-Trimetyl benzene / 1,3,5- Trimetyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-68-9": {
+    "name": "3,5-Xylenol / 3,5-Xylenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-70-3": {
+    "name": "1,3,5-Trichlorbenzene / 1,3,5-Triclo benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-77-0": {
+    "name": "Cyanuric chloride / Xyanuric clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-83-8": {
+    "name": "Diisobutyl ketone / Diisobutyl keton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-84-9": {
+    "name": "Methylamyl acetate / Metylamyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-86-1": {
+    "name": "Bromobenzene / Brom benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-87-2": {
+    "name": "Methylcyclohexane / Metyl xyclohexan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-88-3": {
+    "name": "Methyl benzene / Toluene",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "108-90-7": {
+    "name": "Chlorobenzene / Cloanilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-91-8": {
+    "name": "Cyclohexyl amine / Xyclohexyl amin",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "108-94-1": {
+    "name": "Cyclohexanone / Xyclohexanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "108-95-2": {
+    "name": "Phenol / Phenol",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "108-98-5": {
+    "name": "Phenyl mercaptan (Thiophenol) / Phenyl mercaptan",
+    "appendix": [
+      "III"
+    ]
+  },
+  "108-99-6": {
+    "name": "β-picoline (3-Methylpyridine) / β-picolin (3-Metyl pyridin)",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "109-02-4": {
+    "name": "4-Methylmorpholine / 4-Metyl morpholin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-13-7": {
+    "name": "Tert-butyl peroxy isobutyrate (>80%) / Tert-butyl peroxy isobutyrat (>80%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "109-27-3": {
+    "name": "1-guanyl-4-nitrosaminoguanyl-1 -tetrazene / 1 -Guanyl-4-nitrosaminoguanyl-1 -tetrazen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "109-53-5": {
+    "name": "Vinyl isobutyl ether / Vinyl isobutyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-55-7": {
+    "name": "Diethyl aminopropyl amine / Dietyl aminopropyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-60-4": {
+    "name": "Propyl acetate / Propyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-61-5": {
+    "name": "Propyl chloroformate (Carbonochloridic acid,  propylester) / Propyl cloformat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "109-63-7": {
+    "name": "Boron trifluoride diethyl etherate / Bo triflo dietyl etherat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-65-9": {
+    "name": "1-Bromo butane / 1-Brom butan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-66-0": {
+    "name": "Pentane / Pentan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "109-67-1": {
+    "name": "1-Pentene / 1-Penten",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "109-69-3": {
+    "name": "n-Butylchloride / N- butyl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-70-6": {
+    "name": "1-Bromo-3- chloropropane / 1-Brom-3- cloropropan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "109-73-9": {
+    "name": "n-Butylamine / N-butylamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-74-0": {
+    "name": "Butyronitrile / Butyronitril",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-77-3": {
+    "name": "Malono nitril / Malono nitril",
+    "appendix": [
+      "III"
+    ]
+  },
+  "109-79-5": {
+    "name": "Butyl mercaptan (Butanethiol) / Butyl mercaptan (Butanethiol)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-86-4": {
+    "name": "2-Methoxyethanol / 2-Methoxy etanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-87-5": {
+    "name": "Dimethoxymethane / Metylal",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-89-7": {
+    "name": "N-Ethylethanamine / Diethylamine",
+    "appendix": [
+      "III"
+    ]
+  },
+  "109-92-2": {
+    "name": "Vinyl ethyl ether (Ethene, ethoxy-) / Vinyl etyl ete",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "109-94-4": {
+    "name": "Ethyl formate / Etyl format",
+    "appendix": [
+      "II"
+    ]
+  },
+  "109-95-5": {
+    "name": "Ethyl nitrite (Nitrous acid, ethyl ester) / Etyl nitro",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "109-99-9": {
+    "name": "Tetrahydrofuran / Tetrahydrofuran",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-00-9": {
+    "name": "Furan / Furan",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "110-01-0": {
+    "name": "Tetrahydro thiophene (thiolan) / Tetrahydro thiophen (thiolan)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-02-1": {
+    "name": "Thiophene / Thiophen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-18-9": {
+    "name": "1,2-Di-(dimethyl amino) ethane / 1,2-Di-(dimetyl amino) etan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-19-0": {
+    "name": "Isobutyl acetate / Isobutyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-43-0": {
+    "name": "2-Heptanone / 2-Heptanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-46-3": {
+    "name": "Iso-Amyl nitrite / Iso-Amyl nitrite",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-49-6": {
+    "name": "2-Methoxy ethyl acetate / 2-Methoxy etyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-54-3": {
+    "name": "n-Hexane / n-Hexan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-58-7": {
+    "name": "Pentylamine / N-amylamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-62-3": {
+    "name": "Pentanaldehyde / Valeraldehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-63-4": {
+    "name": "Butane-1,4-diol / 1,4-Butanediol; BD; BDO",
+    "appendix": [
+      "III"
+    ]
+  },
+  "110-65-6": {
+    "name": "1,4-Butynediol / 1,4-Butyn diol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-66-7": {
+    "name": "Amyl mercaptan / Amyl mercaptan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-68-9": {
+    "name": "N-Methyl butyl amine / N-metyl butyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-71-4": {
+    "name": "1,2-dimethoxy ethane, ethylene glycol dimethyl  ether (EGDME) / 1,2-Dimethoxy etan, etylen glycol dimethyl ete  (EGDME)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "110-74-7": {
+    "name": "Propyl formate / Propyl format",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-78-1": {
+    "name": "N-Propyl isocyanate / N-Propyl isoxyanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-80-5": {
+    "name": "2-Ethoxy ethanol / 2-Ethoxy etanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-82-7": {
+    "name": "Cyclohexane / Xyclohexan",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "110-83-8": {
+    "name": "Cyclohexene / Xyclohexen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-85-0": {
+    "name": "Piperazine / Piperazin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-86-1": {
+    "name": "Pyridine / Pyridin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-87-2": {
+    "name": "Dihydropyran / 2,3-Dihydropyran",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-89-4": {
+    "name": "Piperidine / Piperidine",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "110-91-8": {
+    "name": "Morpholine / Morpholin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "110-96-3": {
+    "name": "Diisobutyl amine / Diisobutyl amin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "11071-47-9": {
+    "name": "Isooctene / Isooctan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-15-9": {
+    "name": "2-Ethoxyethyl acetate / 2-Ethoxy etyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-27-3": {
+    "name": "1-Hexanol / 1-Hexanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-34-2": {
+    "name": "n-Butyl vinyl ether / n-Butyl vinyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-36-4": {
+    "name": "N-Butyl isocyanate / N-Butyl isoxyanat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "111-40-0": {
+    "name": "Diethylene triamine / Dietylen triamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-43-3": {
+    "name": "Di-n-propyl ether / Di-n-propyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-44-4": {
+    "name": "2,2'-Dichloro diethyl ether / 2,2’-Diclo dietyl ete",
+    "appendix": [
+      "III"
+    ]
+  },
+  "111-48-8": {
+    "name": "Thiodiglycol: Bis(2-hydroxyethyl)sulfide / Thiodiglycol: Bis(2-hydroxyethyl) sulfide",
+    "appendix": [
+      "III"
+    ]
+  },
+  "111-49-9": {
+    "name": "Hexamethyleneimine / Hexametylenimin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-55-7": {
+    "name": "1,2-Ethanediol diacetate / Ethylene diacetate",
+    "appendix": [
+      "III"
+    ]
+  },
+  "111-65-9": {
+    "name": "Octane / Octan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-69-3": {
+    "name": "Adiponitrile / Adiponitril",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-71-7": {
+    "name": "N-Heptanaldehyde (Heptanal) / N-heptanaldehit (Heptanal)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-84-2": {
+    "name": "Nonane / Nonan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-92-2": {
+    "name": "Dibutyl amine / Di-n-butyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "111-96-6": {
+    "name": "Bis (2-methoxy ethyl) ether (diglyme) / Bis (2-methoxy etyl) ete (diglyme)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "11104-93-1": {
+    "name": "Nitrogen oxides / Nitơ oxit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "112-24-3": {
+    "name": "Triethylenetetramine / Trietyl enetetramin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "112-49-2": {
+    "name": "1,2-bis (2-methoxy ethoxy) ethane (TEGDME,  triglyme) / 1,2-Bis (2-methoxy ethoxy) etan (TEGDME, triglym)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "112-57-2": {
+    "name": "Tetraethyl enepent amine / Tetraetyl enpent amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1120-21-4": {
+    "name": "Undecane / Undecan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1120-71-4": {
+    "name": "1,3-Propane sultone / 1,3-Propane sultone",
+    "appendix": [
+      "II"
+    ]
+  },
+  "113136-77-9": {
+    "name": "1-(2,4-Dichloranilinocarbonyl)cyclopropan  carbonsaure / 1-(2,4-Diclo anilino cacbonyl) xyclopropan  cacbonsaure",
+    "appendix": [
+      "II"
+    ]
+  },
+  "114-26-1": {
+    "name": "Propoxure / Propoxur",
+    "appendix": [
+      "III"
+    ]
+  },
+  "115-07-1": {
+    "name": "1-Propene / Propylen",
+    "appendix": [
+      "I",
+      "IV"
+    ]
+  },
+  "115-10-6": {
+    "name": "Methyl ether (Methane, oxybis-) / Dimetyl ete",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "115-11-7": {
+    "name": "2-Methylpropene (1-Propene, 2-methyl-) / 2-Metyl 1-propen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "115-21-9": {
+    "name": "Ethyltrichlorosilane / Etyl triclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "115-25-3": {
+    "name": "Octafluorocyclobutane / Octaflo xyclobutan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "115-26-4": {
+    "name": "Dimefox / Dimefox",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "115-29-7": {
+    "name": "Endosulfane / Endosulfan",
+    "appendix": [
+      "III"
+    ]
+  },
+  "115-32-2": {
+    "name": "2,2,2-trichloro-1,1-bis (4-chloro phenyl) ethanol / Dicofol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "115-90-2": {
+    "name": "Pensulfothion / Pensunfothion",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "115-96-8": {
+    "name": "Tris (2-chloro ethyl) phosphate / Tris (2-clo etyl) photphat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "116-06-3": {
+    "name": "Aldicarb / Aldicarb",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "116-14-3": {
+    "name": "Tetrafluoroethylene (Ethene, tetrafluoro-) / Tetraflo etylen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1163-19-5": {
+    "name": "Decabromodiphenyl ether (DBDE) / Decabromo diphenyl ete (DBDE)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "117-18-0": {
+    "name": "Technazene / Technazen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "117-81-7": {
+    "name": "Bis (2-ethyl hexyl) phthalate (DEHP) / Bis (2-etyl hexyl) phthalat (DEHP)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "117-82-8": {
+    "name": "Bis (2-methoxyethyl) phthalate / Bis (2-methoxy etyl) phthalat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "118-74-1": {
+    "name": "Hexachloro benzene / Hexaclo benzen",
+    "appendix": [
+      "III"
+    ]
+  },
+  "118-92-3": {
+    "name": "2 - Aminobenzoic acid / Anthranilic acid",
+    "appendix": [
+      "III"
+    ]
+  },
+  "118-96-7": {
+    "name": "2,4,6-trinitrotoluene / 2,4,6-trinitrotoluen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "119-93-7": {
+    "name": "o-Tolidine / O-tolidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1194-65-6": {
+    "name": "2,6-Dichloro benzonitrile / 2,6-Diclo benzonitril",
+    "appendix": [
+      "II"
+    ]
+  },
+  "120-57-0": {
+    "name": "1,3 - Benzodioxole, 5 - carboxaldehyde / Piperonal",
+    "appendix": [
+      "III"
+    ]
+  },
+  "120-58-1": {
+    "name": "1,3 - Benzodioxole - 5 - (1 - propenyl) / Isosafrole",
+    "appendix": [
+      "III"
+    ]
+  },
+  "120-82-1": {
+    "name": "1,2,4-Trichlorbenzene / 1,2,4-Triclo benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "120-83-2": {
+    "name": "2,4-Dichloro phenol / 2,4-Diclo phenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "120-92-3": {
+    "name": "Cyclopentanone / Xyclopentanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "12001-29-5": {
+    "name": "Asbestos chrysotile / Amiăng trắng",
+    "appendix": [
+      "II"
+    ]
+  },
+  "12013-56-8": {
+    "name": "Calcium silicide / Canxi silicua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "12031-80-0": {
+    "name": "Lithium peroxide / Liti peroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "12057-74-8": {
+    "name": "Magnesium phosphide / Magie phốtphua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "121-14-2": {
+    "name": "2,4-Dinitro toluene (2,4-DNT) / Dinitro toluen (2,4-DNT)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "121-43-7": {
+    "name": "Trimethyl borate / Trimetyl borat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "121-44-8": {
+    "name": "Triethylamine / Triethyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "121-45-9": {
+    "name": "Trimethyl phosphite / Trimethyl phosphite",
+    "appendix": [
+      "III"
+    ]
+  },
+  "121-46-0": {
+    "name": "2,5-Norbornadiene / 2,5-Norbornadien (Dicyclo heptadien)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "121-69-7": {
+    "name": "N, N-Dimethylaniline / N, N-Dimetyl anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "121-73-3": {
+    "name": "1-Chloro-3-nitrobenzene / 1-Clo-3-nitrobenzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "121-82-4": {
+    "name": "Cyclotrimethylene trinitramine / Xyclotrimetylen trinitramin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "121-87-9": {
+    "name": "2-Chloro-4-nitroaniline / 2-Clo-4-nitroanilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "12135-76-1": {
+    "name": "Ammonium sulfide / Amon sunfua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "12136-45-7": {
+    "name": "Potassium oxide / Kali monoxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "122-14-5": {
+    "name": "O,O-Dimethyl O-4-nitro-m-tolyl phosphorothioate / O,O-Dimetyl O-4-nitro-m-tolyl photphothioat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "122-34-9": {
+    "name": "Simazine / Simazin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "122-39-4": {
+    "name": "N-Phenyl aniline / N-Phenyl anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "122-51-0": {
+    "name": "Ethyl orthoformate / Etyl orthoformat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "122-52-1": {
+    "name": "Triethyl phosphite / Triethyl phosphite",
+    "appendix": [
+      "III"
+    ]
+  },
+  "122-66-7": {
+    "name": "1,2-Diphenyl hydrazine / 1,2-Diphenyl hydrazin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "122453-73-0": {
+    "name": "4-Bromo-2-(4-chloro phenyl)-1-ethoxy  methyl-5-trifluoro methyl-1H-pyrrole-3-carbonitrile / 4-Brom-2-(4-clophenyl)-1-ethoxy metyl-5-triflo  metyl-1H-p",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-15-9": {
+    "name": "Alpha-methyl valeraldehyde / Alpha-Metyl valeraldehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-19-3": {
+    "name": "Dipropyl ketone / Dipropyl keton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-20-6": {
+    "name": "Vinyl butyrate / Vinyl butyrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-31-9": {
+    "name": "Hydroquinone / Hydroquinon",
+    "appendix": [
+      "III"
+    ]
+  },
+  "123-38-6": {
+    "name": "Propionaldehyde / Propionaldehyt",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-54-6": {
+    "name": "Pentane-2,4-dione (Acetylacetone) / Pentan-2,4-dion (Axetylaxeton)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-62-6": {
+    "name": "Propionic anhydride / Propionic anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-63-7": {
+    "name": "Paraldehyde / Paraldehyt",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-72-8": {
+    "name": "Butyraldehyde / Butyraldehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-73-9": {
+    "name": "Crotonaldehyde / Butenal",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-75-1": {
+    "name": "Pyrrolidine / Pyrolidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-86-4": {
+    "name": "n-Butyl acetate / n-Butyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "123-91-1": {
+    "name": "1,4-Dioxane / 1,4-Dietylen dioxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "124-02-7": {
+    "name": "Diallylamine / Diallylamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "124-09-4": {
+    "name": "Hexa methylene diamine / Hexametylen diamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "124-13-0": {
+    "name": "Ocryl aldehit (ethyl hexadehyd) / Ocryl aldehit (etyl hexadehyt)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "124-18-5": {
+    "name": "N-Decane / N-decan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "124-40-3": {
+    "name": "Dimethylamine (Methanamine, N-methyl-) / Dimetyl amin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "124-41-4": {
+    "name": "Sodium methylate / Natri metylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "124-43-6": {
+    "name": "Urea hydrogen peroxide / Urea hydro peroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "124-63-0": {
+    "name": "Methane sulfonyl chloride / Metan sunphonyl clorit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "12427-38-2": {
+    "name": "Maned (carbamodithioic acid, N, N  -1,2-ethanediylbis-manganese (2+) salt (1:1)) / Maned (cacbamodithioic axit, N, N -1,2-etan  diylbis-mangan (2+) mu",
+    "appendix": [
+      "II"
+    ]
+  },
+  "126-72-7": {
+    "name": "Tris (2,3-dibromo propyl) phosphate / Tris (2,3-dibro propyl) photphat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "126-75-0": {
+    "name": "Demeton / Demeton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "126-98-7": {
+    "name": "2-methyl-2- Propenenitrile / Metacrylonitril",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "126801-58-9": {
+    "name": "Ethoxysulfuron / Ethoxy sunfuron",
+    "appendix": [
+      "II"
+    ]
+  },
+  "127-19-5": {
+    "name": "N, N-dimethyl acetamide / N, N-Dimetyl axetamit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "127-68-4": {
+    "name": "Sodium 3-nitrobenzene sulphonate / Axit nitrobenzen sunphonic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "129-66-8": {
+    "name": "Trinitrobenzoic acid / Axit trinitrobenzoic",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1299-86-1": {
+    "name": "Aluminium carbide / Nhôm cacbua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1300-73-8": {
+    "name": "Xylidine / Xylidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1302-42-7": {
+    "name": "Sodium aluminate / Natri aluminat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1303-28-2": {
+    "name": "Arsenic pentoxide / Asen pentoxit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1303-86-2": {
+    "name": "Diboron trioxide / Diboron trioxist",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1304-28-5": {
+    "name": "Barium oxide / Bari oxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1304-29-6": {
+    "name": "Barium peroxide / Bari peroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1305-79-9": {
+    "name": "Calcium peroxide / Canxi peroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1306-19-0": {
+    "name": "Cadmium oxide / Cadimi oxit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1306-23-6": {
+    "name": "Cadmium sulfide / Cadimi sulfua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1306-24-7": {
+    "name": "Cadmium selenide / Cadimi selenua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1306-25-8": {
+    "name": "Cadmium telluride / Cadmi tellurua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "131-73-7": {
+    "name": "Bis (2,4,6- trinitrophenyl) amine / Bis (2,4,6-trinitrophenyl) amin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1310-58-3": {
+    "name": "Potassium hydroxide / Kali hydroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1310-65-2": {
+    "name": "Lithium hydroxide / Liti hydroxit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1310-73-2": {
+    "name": "Sodium hydroxide / Natri hydroxit",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "1312-73-8": {
+    "name": "Potassium sulfide / Kali sulfua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "13121-70-5": {
+    "name": "Cyhexatin / Xyhexatin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1313-59-3": {
+    "name": "Sodium oxide / Natri oxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1313-82-2": {
+    "name": "Sodium sulfide2 / Natri sunfua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13138-45-9": {
+    "name": "Nickel (II) nitrate / Niken nitrat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1314-18-7": {
+    "name": "Strontium peroxide / Stronti peroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1314-22-3": {
+    "name": "Zinc peroxide / Kẽm peroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1314-56-3": {
+    "name": "Phosphorus pentoxide / Photpho pentoxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1314-62-1": {
+    "name": "Vanadium pentoxide / Vanadi pentoxit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1314-80-3": {
+    "name": "Phosphorus pentasulfide / Photpho pentasunfua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1314-84-7": {
+    "name": "Zinc phosphide / Kẽm photphua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1314-85-8": {
+    "name": "Phosphorus sesquisulfide / Photpho sesquisunfua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13171-21-6": {
+    "name": "Phosphamidon / Phosphamidon",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "1319-77-3": {
+    "name": "Cresylic acid / Axit cresylic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "132-33-2": {
+    "name": "Thorine sodium / Thorin natri",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1321-64-8": {
+    "name": "Pentachloronaphthalene / Pentaclo naphthalen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1327-53-3": {
+    "name": "Arsenic trioxide / Asen trioxit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1330-20-7": {
+    "name": "Xylene / Xylen",
+    "appendix": [
+      "I"
+    ]
+  },
+  "1330-78-5": {
+    "name": "Tricresyl phosphate / Tricresyl photphat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "13323-81-4": {
+    "name": "Alpha-Methyl benzyl alcohol / Alpha-metyl benzyl alcohol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1333-39-7": {
+    "name": "Phenolsulfonic acid / Axit phenol sunphonic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1333-74-0": {
+    "name": "Hydrogen / Hydro",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "1333-83-1": {
+    "name": "Sodium hydrogendifluoride / Natri hydrodiflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1335-26-8": {
+    "name": "Magnesium peroxide / Magie peroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13356-08-6": {
+    "name": "Bis[tris(2-methyl-2-phenyl propyl)zinn] oxiy / Bis[tris(2-metyl-2-phenyl propyl)zinn] oxiy",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1336-36-3": {
+    "name": "Polychlorinated biphenyls (PCBs) / Biphenyls Clo hóa (PCBs)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1338-23-4": {
+    "name": "Methyl ethyl ketone peroxide (> 60%) / Metyl etyl keton peroxit (> 60%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1341-49-7": {
+    "name": "Ammonium hydrogen difluoride / Amon hydrodiflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "134237-50-6": {
+    "name": "Hexabromo cyclododecane / Hexabrom xyclododecan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13424-46-9": {
+    "name": "Lead azide / Chì azit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "13457-18-6": {
+    "name": "Pyrazophos / Pyrazophos",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13463-39-3": {
+    "name": "Nickel tetra carbonyle / Niken tetra carbonyl",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "13463-40-6": {
+    "name": "Iron, pentacacbonyl-(Iron carbonyl (Fe (CO)5),  (TB-5-11)-) / Sắt pentacacbonyl",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "13463-67-7": {
+    "name": "Titanium dioxide / Titan dioxit",
+    "appendix": [
+      "I"
+    ]
+  },
+  "13464-97-6": {
+    "name": "Hydrazine nitrate / Hydrazin nitrat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "13465-78-6": {
+    "name": "Chlorosilane / Clo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13465-95-7": {
+    "name": "Barium perchlorate / Bari perclorat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13473-90-0": {
+    "name": "Aluminium nitrate / Nhôm nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13477-00-4": {
+    "name": "Barium chlorate / Bari clorat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13477-10-6": {
+    "name": "Barium hypochlorite / Bari hypoclorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13477-36-6": {
+    "name": "Calcium perchlorate / Canxi perclorat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13597-99-4": {
+    "name": "Beryllium nitrate / Beri nitrat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "137-26-8": {
+    "name": "Thiram / Thiram",
+    "appendix": [
+      "III"
+    ]
+  },
+  "137-32-6": {
+    "name": "2-Ethyl butanol / 2-Etyl butanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "137-43-9": {
+    "name": "Bromocyclopentane / Cyclopentyl bromide",
+    "appendix": [
+      "III"
+    ]
+  },
+  "13718-26-8": {
+    "name": "Sodium vanadate / Natri vanadat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13746-89-9": {
+    "name": "Zirconium nitrate / Ziriconi nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13770-96-2": {
+    "name": "Sodium aluminium hydride / Natri nhôm hydrua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13779-41-4": {
+    "name": "Difluoro phosphoric acid / Axit diflo photphoric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "138-42-1": {
+    "name": "4-Nitrobenzene sulfonic acid / 4-nitro benzen sunphonic axit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "138-89-6": {
+    "name": "P-Nitrosodimethyl aniline / P-Nitrosodimetyl anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13823-29-5": {
+    "name": "Thorium nitrate / Thori nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13840-33-0": {
+    "name": "Lithium hypochlorite / Liti hypoclorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13863-41-7": {
+    "name": "Bromine monochloride / Brom clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "139-87-7": {
+    "name": "Ethyldiethanolamine / Ethyldiethanolamine",
+    "appendix": [
+      "III"
+    ]
+  },
+  "13967-90-3": {
+    "name": "Barium bromate / Bari bromic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "13987-01-4": {
+    "name": "Tripropylene / Tripropylen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "140-29-4": {
+    "name": "2-Phenylacetonenitrile / Benzyl cyanide",
+    "appendix": [
+      "III"
+    ]
+  },
+  "140-31-8": {
+    "name": "N-Amino ethyl piperazine / N-amino etyl piperazin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "140-88-5": {
+    "name": "Ethyl acrylate / Etyl acrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "141-32-2": {
+    "name": "Butyl acrylate / Butyl acrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "141-43-5": {
+    "name": "Ethanolamine / Etanol amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "141-57-1": {
+    "name": "Propyltrichlorosilane / Propyl triclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "141-66-2": {
+    "name": "Dicrotophos ((E)-2-Dimethyl carbamoyl-1-methyl  vinyl dimethyl phosphate) / Dicrotophos",
+    "appendix": [
+      "II"
+    ]
+  },
+  "141-75-3": {
+    "name": "Butyryl chloride / Butyryl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "141-78-6": {
+    "name": "Ethyl acetate / Etyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "141-79-7": {
+    "name": "Mesityl oxide / Mesityl oxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "14166-21-3": {
+    "name": "Trans-cyclohexane-1,2-dicarboxylic anhydride / Trans-xyclohexan-1,2-dicacboxylic anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "142-04-1": {
+    "name": "Aniline hydrocloride / Anilin hydroclorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "142-29-0": {
+    "name": "Cyclopentene / Xyclopenten",
+    "appendix": [
+      "II"
+    ]
+  },
+  "142-62-1": {
+    "name": "Ethyl chlorothioformate / Etyl clo thioformat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "142-82-5": {
+    "name": "N-Heptane / N-Heptan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "142-84-7": {
+    "name": "Dipropylamine / Dipropyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "142-96-1": {
+    "name": "Dibutyl ether / Dibutyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1420-07-1": {
+    "name": "2-tert-Butyl-4,6-dinitrophenol / 2-Tert-butyl-4,6-dinitrophenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "142891-20-1": {
+    "name": "Ethyl-(Z)-2-chlor-3-(2-chlor-5-(cyclohex-1-en-1,2-dicarbox-imido)phenyl)  acrylate / Etyl-(Z)-2-clo-3-(2-clo-5-(xyclohex-1-en-1,2-dicacbox-imido)pheny",
+    "appendix": [
+      "II"
+    ]
+  },
+  "144-49-0": {
+    "name": "Fluoroacetic acid / Axit flo axetic",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "144-55-8": {
+    "name": "Sodium Bicarbonate / Natri bicarbonat",
+    "appendix": [
+      "I"
+    ]
+  },
+  "14486-19-2": {
+    "name": "Cadmium fluoro borate / Cadimi tetraflo borat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "14666-78-5": {
+    "name": "Dietyl peroxy dicarbonate (>30%) / Dietyl peroxy dicarbonat (> 30%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "148-79-8": {
+    "name": "Thiabendazole / Thiabendazol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "149-74-6": {
+    "name": "Methyl phenyldichloro silane / Metyl phenyl diclosilan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "150-46-9": {
+    "name": "Triethyl borate / Trietyl borat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "151-56-4": {
+    "name": "Ethylen imine / Etylen imin",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "156-43-4": {
+    "name": "Phenetidine / Phenetidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1563-66-2": {
+    "name": "Carbofuran / Cacbofuran",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1569-69-3": {
+    "name": "Cyclohexyl mercaptan / Xyclohexyl mercaptan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1582-09-8": {
+    "name": "Trifluralin / Trifluralin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "15901-42-5": {
+    "name": "3,3,5-Trimethyl cyclohexylamine / 3,3,5-Trimetyl xyclohexyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "15972-60-8": {
+    "name": "Alachlor / Alachlor",
+    "appendix": [
+      "III"
+    ]
+  },
+  "16066-38-9": {
+    "name": "Di-n-propylperoxy dicarbonate (> 80%) / Di-n-propylperoxy dicacbonat (> 80%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1609-86-5": {
+    "name": "Tert-Butyl isocyanate / Tert-butyl isoxyanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1619-34-7": {
+    "name": "Quinuclidin-3-ol / Quinuclidin-3-ol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1634-04-4": {
+    "name": "Methyl tert-butyl ether / Metyl tert-butyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16529-56-9": {
+    "name": "2-Methyl-3- butenenitrile / 2-Metyl-3-buten nitril",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1663-39-4": {
+    "name": "Tert-butyl acrylate / Tert-butyl acrylat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "16721-80-5": {
+    "name": "Sodium hydrosulfide / Natri hydrosunfua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16752-77-5": {
+    "name": "Methomyl / Methomyl",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16871-71-9": {
+    "name": "Zinc fluorosilicate / Kẽm fluorosilicate",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16871-90-2": {
+    "name": "Potassium hexafluoro silicate / Kali hexaflo silicat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16872-11-0": {
+    "name": "Fluoroboric acid / Axit floroboric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16893-85-9": {
+    "name": "Sodium fluorosilicate / Natri flo silicat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16921-30-5": {
+    "name": "Potassium hexachloro platinate (IV) / Kali hexaclo platinat (IV)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16940-81-1": {
+    "name": "Hexafluoro phosphoric acid / Axit hexaflo photphoric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "16961-83-4": {
+    "name": "Hexafluoro silicic acid / Axit flo silicic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1702-17-6": {
+    "name": "Clopyralid / Clopyralit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1712-64-7": {
+    "name": "Isopropyl nitrate / Isopropyl nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1719-53-5": {
+    "name": "Diethyl dichloro silane / Dietyl diclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1746-01-6": {
+    "name": "2,3,7,8- tetrachlorodibenzo-p-dioxin / 2,3,7,8-Tetraclo dibenzo-p-dioxin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1758-73-2": {
+    "name": "Thiourea dioxide / Thiourea dioxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "17639-93-9": {
+    "name": "Methyl 2-chloropropionate / Metyl 2-clo propionat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1789-58-8": {
+    "name": "Ethyldichlorosilane / Etyl diclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1795-48-8": {
+    "name": "Isopropyl isocyanate / Isopropyl isocyanat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1836-75-5": {
+    "name": "Nitrofen (2,4-Dichloro-1-(4-nitro phenoxy)  benzene) / Nitrofen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1861-32-1": {
+    "name": "Dimethyl 2,3,5,6-tetrachloro  benzene-1,4-dicarboxylate / Dimetyl 2,3,5,6-tetraclo benzen-1,4-dicacboxylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "18810-58-7": {
+    "name": "Barium azide / Bari azit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1885-14-9": {
+    "name": "Phenyl chloro formate / Phenyl clo fomat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1910-42-5": {
+    "name": "Paraquate / Paraquat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "1912-24-9": {
+    "name": "Atrazine / Atrazin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "1918-16-7": {
+    "name": "2-Chloro-N-isopropyl-N-phenyl acetamide / 2-Clo-N-isopropyl-N-phenyl axetamit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "19210-21-0": {
+    "name": "3-Chloropropan-1-ol / 3-Clo propanol-1",
+    "appendix": [
+      "II"
+    ]
+  },
+  "19287-45-7": {
+    "name": "Diborane / Diboran",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "1931-62-0": {
+    "name": "Tert-butylperoxy maleate (>80%) / Tert-butylperoxy maleat (>80%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "19408-74-3": {
+    "name": "1,2,3,7,8,9- Hexachlorodibenzo-p- dioxin / 1,2,3,7,8,9-Hexaclo dibenzo-p-dioxin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "19438-60-9": {
+    "name": "Hexahydro-4-methylphthalic anhydride / Hexahydro-4-metyl phthalic anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "19624-22-7": {
+    "name": "Pentaborane / Pentaboran",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "19872-52-7": {
+    "name": "4-Methyl-4-mercaptopentan-2-one / 4-Metyl-4-mercaptopentan-2-one",
+    "appendix": [
+      "II"
+    ]
+  },
+  "19910-65-7": {
+    "name": "Di-sec-butyl peroxydicarbonate (> 80%) / Di-sec-butyl peroxydicacbonat (> 80%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "20062-22-0": {
+    "name": "2,2’,4,4’,6,6’-hexanitrostilbene / 2,2’, 4,4’, 6,6’-Hexanitro stilben",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "2032-59-9": {
+    "name": "Aminocarb / Aminocarb",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2042-37-7": {
+    "name": "2-Bromobenzonitrile / o-Bromo benzo nitrile",
+    "appendix": [
+      "III"
+    ]
+  },
+  "2050-92-2": {
+    "name": "Di-n-amyl amine / Di-n-amyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "20816-12-0": {
+    "name": "Osmium tetroxide / Osmium tetroxit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "20859-73-8": {
+    "name": "Aluminium phosphide (AlP) / Nhôm photphua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2104-64-5": {
+    "name": "Epn (Phosphonothioic acid, P-phenyl-, O-ethyl  O-(4-nitrophenyl) ester) / Epn (Photphonothioic acid, P-phenyl-, O-ethyl  O-(4-nitrophenyl) este)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "21351-79-1": {
+    "name": "Cesium hydroxide / Cesium hydroxit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "2144-45-8": {
+    "name": "Dibenzyl peroxy dicarbonate (>90%) / Dibenzyl peroxy dicacbonat (>90%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "2167-23-9": {
+    "name": "2,2- Bis(tert-butylperoxy) butane (>70%) / 2,2-Bis(tert-butylperoxy) butan (>70%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "21725-46-2": {
+    "name": "Cyanazine / Cyanazin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "218-01-9": {
+    "name": "Chrysen (1,2-benzophenanthrene) / Chrysen (1,2-benzophenanthren)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "22397-33-7": {
+    "name": "33.6.6.9.9-Hexamethyl-1,2,4,5-tetroxacyclononate  (>75%) / 3,3,6,6,9,9-Hexametyl- 1,2,4,5-tetroxacyclononat  (>75%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "22831-39-6": {
+    "name": "Magnesium silicide / Magie silicua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2310-17-0": {
+    "name": "Phosalone / Phosalon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2312-35-8": {
+    "name": "2-(4-tert-butylphenoxy)cyclohexyl  prop-2-yne-1-sulfonate / 2-(4-tert-butyl phenoxy) xyclohexyl  prop-2-yne-1-sunfonat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "23414-72-4": {
+    "name": "Zinc permanganate / Kẽm permanganat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2372-21-6": {
+    "name": "Tert-butylperoxy isopropylcarbonate (>80%) / Tert-butylperoxy isopropyl cacbonat (>80%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "2385-85-5": {
+    "name": "Dodecachloropentacyclodecane (mirex) / Dodecaclo pentaxyclodecan",
+    "appendix": [
+      "III"
+    ]
+  },
+  "2425-06-1": {
+    "name": "Captafol / Captafol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "2431-50-7": {
+    "name": "Trichlorobutene / Triclobuten",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2439-35-2": {
+    "name": "2-Dimethyl amino ethyl acrylate / 2-Dimetyla mino etyl acrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "24468-13-1": {
+    "name": "2-Ethyl hexyl chloro formate / 2-Etyl hexyl clo format",
+    "appendix": [
+      "II"
+    ]
+  },
+  "24613-89-6": {
+    "name": "Dichromium tris(chromate) / Dicrom tris(­cromat)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2497-07-6": {
+    "name": "Oxydisulfoton / Oxydisunfoton",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "25013-15-4": {
+    "name": "Vinyltoluene / Vinyl toluen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "25154-52-3": {
+    "name": "Nonylphenol / Nonylphenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "25167-67-3": {
+    "name": "Butene / Buten",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "2524-03-0": {
+    "name": "Dimethyl thiophosphoryl chloride / Dimetyl thiophotphoryl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "25321-14-6": {
+    "name": "Dinitro toluene (mixed isomers) / Dinitro toluen (hỗn hợp đồng phân)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "25340-17-4": {
+    "name": "Diethyl benzene / Dietyl bezen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2551-62-4": {
+    "name": "Sulfur hexafluoride / Lưu huỳnh hexaflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "25550-51-0": {
+    "name": "Hexahydromethyl phthalic anhydride / Hexahydromethyl phthalic anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "25639-42-3": {
+    "name": "Methylcyclohexanol / Metyl xyclo hexanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2588-05-8": {
+    "name": "oo-Diethyl s- ethylsulphinylmethyl  phosphorothioate / oo-Dietyl s- etylsunphinylmetyl photphothioat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "2588-06-9": {
+    "name": "oo-Diethyl s-ethyl sulphonylmethyl  phosphorothioate / oo-Dietyl s-etyl sunphonylmetyl photphothioat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "25973-55-1": {
+    "name": "2-(2H-Benzotriazol-2-yl)-4,6-di-tert-pentylphenol / UV-328",
+    "appendix": [
+      "III"
+    ]
+  },
+  "2600-69-3": {
+    "name": "oo-Diethyl s-ethyl thiomethyl phosphorothioate / oo-Dietyl s-etyl thiometyl photphothioat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "2612-57-9": {
+    "name": "2,4-Dichloro phenyl isocyanate / 2,4-Diclophenyl isoxyanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2614-76-8": {
+    "name": "2,2 Dihydro peroxypropane (>30%) / 2,2-Dihydro peroxypropan (>30%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "26419-73-8": {
+    "name": "Tirpate (2,4-dimethyl-1,3-dithiolane-2-carbo  xaldehydeo-methyl carbamoyloxime) / Tirpate (2,4-Dimetyl-2-formyl-1,3-dithiolan oxim  metylcacbamat)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "2642-71-9": {
+    "name": "Azinphos-ethyl / Azinphos-etyl",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "26471-62-5": {
+    "name": "Toluene di-isocyanate / Toluen di-isoxyanat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "26628-22-8": {
+    "name": "Sodium azide / Natri azid",
+    "appendix": [
+      "III"
+    ]
+  },
+  "2691-41-0": {
+    "name": "Cyclotetramethylenet etranitramine / Xyclotetrametylen tetra nitramin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "26952-42-1": {
+    "name": "Trinitroaniline / Trinitro anilin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "2699-79-8": {
+    "name": "Sulfuryl fluoride / Sunphuryl florua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "27774-13-6": {
+    "name": "Vanadyl sulfate / Vanadyl sunphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2782-57-2": {
+    "name": "Dichloro isocyanuric acid / Axit diclo isoxyanuric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "28249-77-6": {
+    "name": "S-(4-Chlorobenzyl) diethylcarbamothioate / S-(4-Clobenzyl) dietyl cacbamothioat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "28289-54-5": {
+    "name": "1,2,3,6-Tetrahydro-1-methyl-4-phenyl pyridine / 1,2,3,6-Tetrahydro-1-metyl-4-phenyl pyritin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2855-13-2": {
+    "name": "Isophorone diamine / Isophoron diamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2867-47-2": {
+    "name": "2-Dimethylaminoethyl methacrylate / 2-Dimetyl-amino-ety-1-metacrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "287-23-0": {
+    "name": "Cyclobutane / Xyclobutan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "287-92-3": {
+    "name": "Cyclopentane / Xyclopentan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "291-64-5": {
+    "name": "Cycloheptane / Xycloheptan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2921-88-2": {
+    "name": "Chlorpyrifos / Clorpyrifos",
+    "appendix": [
+      "II"
+    ]
+  },
+  "2937-50-0": {
+    "name": "Allyl chloro formate / Allyl clo fomat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "297-78-9": {
+    "name": "Isobenzan / Isobenzan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "297-97-2": {
+    "name": "Thionazin / Thionazin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "29790-52-1": {
+    "name": "Nicotine salicylate / Nicotin salicylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "298-00-0": {
+    "name": "Methyl-parathion / Metyl-parathion",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "298-02-2": {
+    "name": "Phorate / Phorat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "298-04-4": {
+    "name": "Disulfoton / Disulfoton",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "300-76-5": {
+    "name": "Dimethyl-1,2-dibromo-2,2-dichlorethyl phosphate / Dimetyl-1,2-dibrom-2,2-diclo etyl photphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3006-86-8": {
+    "name": "1,1- Bis(tert-butylperoxy) xyclohexan (>80%) / 1,1-Bis(tert-butylperoxy) xyclohexan (>80%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "301-12-2": {
+    "name": "S-[2-(Ethylsulfinyl) ethyl] O, O-dimethyl  phosphorothioate / S-[2-(Etyl sunfinyl) etyl] O,O-dimetyl  photphothioat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "302-01-2": {
+    "name": "Hydrazine and hydrated / Hydrazin và các dạng ngậm nước",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "302-17-0": {
+    "name": "Chloral hydrate / Cloral hydrat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "3030-47-5": {
+    "name": "Bis (2- dimethyl aminoethyl) (methyl)amin / Bis (2- dimetylaminoetyl) (metyl)amin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "305-03-3": {
+    "name": "Chlo rambucil / Clo rambucil",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3054-95-3": {
+    "name": "3,3-Diethoxy propene / 3,3-Dietoxy propen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "30560-19-1": {
+    "name": "N-(Methoxy-methyl sulfanylphosphoryl)acetamide / N-(Methoxy-metyl sunfanyl photphoryl) axetamit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3058-38-6": {
+    "name": "1,3,5- Triamino-2,4,6-trinitrobenzene / 1,3,5- Triamino- 2,4,6- trinitro benzen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "3087-37-4": {
+    "name": "Tetrapropyl orthotitanate / Tetrapropyl orthotitanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "309-00-2": {
+    "name": "Aldrin / Aldrin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "3090-36-6": {
+    "name": "Tributyl tin laurate / Tributyl laurat thiếc",
+    "appendix": [
+      "II"
+    ]
+  },
+  "311-45-5": {
+    "name": "Paraoxon (diethyl 4-nitrophenylphosphate) / Paraoxon (dietyl 4- nitrophenyl photphat)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "3132-64-7": {
+    "name": "Epibromo hydrin / Epibrom hydrin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3173-53-3": {
+    "name": "Cyclohexyl isocyanate / Xyclohexyl isocyanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "31807-55-3": {
+    "name": "Pentametylheptane (Isododecane) / Pentametyl heptan (Isododecan)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3188-13-4": {
+    "name": "Chloromethyl ethyl ether / Clo metyl etyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "319-84-6": {
+    "name": "Alpha-hexachloro cyclohexane / Alpha-hexaclo xyclohexan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "319-85-7": {
+    "name": "Beta-hexachloro cyclohexane / Beta-hexaclo xyclohexan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "32536-52-0": {
+    "name": "Octabromodiphenyl ether / Octabrom diphenyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3268-49-3": {
+    "name": "3-(Methylmercapto) propionaldehyde / 3-(Methylmercapto) propionaldehyde",
+    "appendix": [
+      "II"
+    ]
+  },
+  "32809-16-8": {
+    "name": "3-(3,5-dichloro  phenyl)-1,5-dimethyl-3-azabicyclo[3.1.0] hexane-2,4-dione / 3-(3,5-diclo  phenyl)-1,5-dimetyl-3-azabicyclo[3.1.0] hexan-2,4-dion",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3282-30-2": {
+    "name": "Trimethylacetyl chloride / Trimetyl axetyl chlorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "329-01-1": {
+    "name": "3-(Trifluoromethyl) phenyl isocyanate / 3-(Trifluoromethyl) phenyl isocyanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "33089-61-1": {
+    "name": "N, N'-[(Methylimino)  dimethylidyne]di-2,4-xylidine / N, N'-[(Metylimino) dimetylidyn]di-2,4-xylidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3309-68-0": {
+    "name": "oo-Diethyl s-propyl thiomethyl phosphorodithioate / oo-Dietyl s-propyl thiometyl photphodithioat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "33240-34-5": {
+    "name": "Cyclopentyl magnesium bromide / Cyclopentyl magnesium bromide",
+    "appendix": [
+      "III"
+    ]
+  },
+  "333-41-5": {
+    "name": "Diazinon / Diazinon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "334-88-3": {
+    "name": "Diazomethane / Diazometan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "335-67-1": {
+    "name": "Perfluorooctanoic acid (PFOA) and its salts and  PFOA - related compounds / Axit perflo-octanoic (PFOA), các muối của chúng  và các hợp chất liên quan",
+    "appendix": [
+      "III"
+    ]
+  },
+  "33629-47-9": {
+    "name": "N-sec-Butyl-4-tert-butyl-2,6-dinitroanilin / N-Sec-butyl-4-tert-butyl-2,6-dinitro anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "33857-26-0": {
+    "name": "Polychlorodibenzo-furans and  Polychlorodibenzo-dioxins (including TCDD) / Các Polyclo dibenzo furan và Polyclodibenzo  dioxin (bao gồm TCDD)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "34256-82-1": {
+    "name": "2-Chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)  acetamide / 2-Clo-N-(ethoxy metyl)-N-(2-etyl-6-metyl phenyl)  axetamit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3437-84-1": {
+    "name": "Di-isobutyryl peroxide (> 50%) / Di-isobutyryl peroxit (> 50%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "348-54-9": {
+    "name": "Fluoro aniline / Flo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "34893-92-0": {
+    "name": "3,5-Dichloro phenyl isocyanate / 3,5-Diclo phenyl isoxyanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "3497-00-5": {
+    "name": "Phenylphosphorus Thiodichloride / Phenyl photpho thio diclo",
+    "appendix": [
+      "II"
+    ]
+  },
+  "352-32-9": {
+    "name": "p-Fluorotoluene / p-Flo toluen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "352-70-5": {
+    "name": "m-Fluoro toluene / m-Flo toluen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "352-93-2": {
+    "name": "Diethyl sulfide / Dietyl sunfit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "353-42-4": {
+    "name": "Boron trifluoride compound with methyl ether  (1:1) (Boron, trifluoro (oxybis (metane)-, T-4- / Hỗn hợp boron triflorua và metyl ete (1:1)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "353-50-4": {
+    "name": "Carbonyl fluoride / Cacbonyl florua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "353-59-3": {
+    "name": "Bromo chlorodifluoro methane / Clo diflo brom metan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "355-46-4": {
+    "name": "Perfluorohexane sulfonic acid (PFHxS), its salts  and PFHxS - related compounds / Axit perflo hexan sulfonic (PFHxS), các muối của  chúng và các hợp c",
+    "appendix": [
+      "III"
+    ]
+  },
+  "3689-24-5": {
+    "name": "Sulfotepp / Sunfotepp",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "37206-20-5": {
+    "name": "Methyl isobutyl ketone peroxide (> 60%) / Metyl isobutyl keton peroxit (nồng độ > 60%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "3734-95-0": {
+    "name": "Cyathoate / Xyanthoat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "382-21-8": {
+    "name": "PFIB:  1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene / PFIB:  1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene",
+    "appendix": [
+      "III"
+    ]
+  },
+  "3926-62-3": {
+    "name": "Sodium chloroacetate / Natri clo axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "39807-15-3": {
+    "name": "Oxadiargyl / Oxadiargyl",
+    "appendix": [
+      "II"
+    ]
+  },
+  "4016-11-9": {
+    "name": "1,2-Epoxy-3-ethoxy propane / 1,2-Epoxy-3-ethoxy propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "4098-71-9": {
+    "name": "Isophorone diisocyanate / Isophoron diisoxyanat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "4104-14-7": {
+    "name": "Phosacetim / Phosacetim",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "41083-11-8": {
+    "name": "1-Tricyclohexylstannyl-1,2,4-triazol / 1-Trixyclo hexylstannyl-1,2,4-triazol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "4109-96-0": {
+    "name": "Dichlorosilane (silane, dichloro-) / Diclo silan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "41814-78-2": {
+    "name": "Tricyclazole / Tricyclazol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "420-04-2": {
+    "name": "Cyanamide / Xianamit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "4301-50-2": {
+    "name": "Fluenetil / Fluenetil (2-floetyl 4 -Biphenylaxetat)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "431-03-8": {
+    "name": "2,3-Butanedione (Diacetyl) / 2,3-Butan dion (Diacetyl)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "4468-48-8": {
+    "name": "3-oxo-2-phenylbutanenitrile / Alpha-phenyl acetoacetonitrile (APAAN)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "460-19-5": {
+    "name": "Cyanogen (Ethanedinitrile) / Xyanogen (Etandinitril)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "462-06-6": {
+    "name": "Fluorobenzene / Flo benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "462-08-8": {
+    "name": "3-Amino pyridine / 3-Amino pyridin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "462-95-3": {
+    "name": "Diethoxy methane / Dietoxymetan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "463-49-0": {
+    "name": "1,2-Propadiene / Propadien",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "463-58-1": {
+    "name": "Carbon oxysulfide (Carbon oxide sulfide (COS)) / Cacbon oxysunfua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "463-82-1": {
+    "name": "2,2-Dimethylpropane (Propane, 2,2-dimethyl-) / 2,2-Dimetyl propan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "464-07-3": {
+    "name": "Pinacolyl alcohol: 3,3-Dimethylbutan-2-ol / Pinacolyl alcohol: 3,3-Dimethyl butan-2-ol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "465-73-6": {
+    "name": "Isodrin / Isodrin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "4676-39-5": {
+    "name": "3,4 - methylenedioxypheny - 2 - propanone / Piperonyl methyl ketone (PMK)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "470-90-6": {
+    "name": "Chlorfenvinphos / Clo fenvinphos",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "4732-14-3": {
+    "name": "2,4,6- trinitrophenetole / 2,4,6-Trinitrophenetol",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "479-45-8": {
+    "name": "n-Methyl-n,2,4,6-tetranitroaniline / n-Metyl-n, 2,4,6-tetranitroanilin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "4795-29-3": {
+    "name": "2-Tetrahydrofurfuryl amine / 2-Tetrahydro furfuryl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "481-39-0": {
+    "name": "5-Hydroxy-1,4-naphthalenedione / 5-hydroxy naphthalen-1,4-dion",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "485-31-4": {
+    "name": "Binapacryl / Binapacryl",
+    "appendix": [
+      "III"
+    ]
+  },
+  "4904-61-4": {
+    "name": "1,5,9-Cyclod odecatriene / 1,5,9-Xyclo dodecatrien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "494-52-0": {
+    "name": "Anabasine, (Pyridine,3-(2S)-2- piperidinyl-) / Anabasin (Pyridin,3-(2S)-2- piperidinyl)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "49663-84-5": {
+    "name": "Pentazinc chromate octahydroxide / Penta kẽm cromat octahydroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "50-00-0": {
+    "name": "Formaldehyde / Formaldehit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "50-29-3": {
+    "name": "1,1,1-Trichloro-2,2-bis(4-chlorophenyl) ethane / 1,1,1-Triclo-2,2-bis  (4-clophenyl) etan (D.D.T)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "50-35-1": {
+    "name": "Thalidomide / Thalidomit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "50-78-2": {
+    "name": "2-Acetyloxy benzoic acid / Axit 2-axetyloxy benzoic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "503-17-3": {
+    "name": "Dimethyl acetylene / Dimetyl axetylen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "504-24-5": {
+    "name": "4-Amino pyridine / 4-Amino pyridin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "504-29-0": {
+    "name": "2-Amino pyridine / 2-Amino pyridin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "504-60-9": {
+    "name": "1,3-Pentadiene / 1,3-Pentadien",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "505-60-2": {
+    "name": "Bis (2-chloroethyl) sulphide / Bis (2-clo etyl) sunfua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "506-77-4": {
+    "name": "Cyanogen chloride / Cyanogen chloride",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "506-93-4": {
+    "name": "Guanidine nitrate / Guanidin nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "507-02-8": {
+    "name": "Acetyl iodide / Iot axetyl",
+    "appendix": [
+      "II"
+    ]
+  },
+  "507-19-7": {
+    "name": "2-Bromo-2-methylpropane / 2-Bromo-2-metyl propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "507-20-0": {
+    "name": "Tert-Butylchloride / Tert-Butyl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "509-14-8": {
+    "name": "Tetranitromethane (Methane, tetranitro-) / Tetranitro metan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "51-18-3": {
+    "name": "Triethylenemelamine / Trietylenmelamin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "51-28-5": {
+    "name": "2,4-dinitrophenol, salts / 2,4-Dinitrophenol và các muối",
+    "appendix": [
+      "III"
+    ]
+  },
+  "51-79-6": {
+    "name": "Ethyl carbamate / Etyl cacbamat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "510-15-6": {
+    "name": "Chlorobenzilate / Chlorobenzilat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "513-35-9": {
+    "name": "Isopentene / Isopenten",
+    "appendix": [
+      "II"
+    ]
+  },
+  "513-38-2": {
+    "name": "Iodomethylpropane / Iot metyl propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "513-42-8": {
+    "name": "Methallyl alcohol / Methallyl alcohol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "513-48-4": {
+    "name": "Butane, 2-iodo- / Butan, 2-iot-",
+    "appendix": [
+      "II"
+    ]
+  },
+  "513-86-0": {
+    "name": "3-Hydroxy-2-butanone / 3-Hydroxy-2-butanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "52-51-7": {
+    "name": "2-Bromo-2-nitro-1,3-propanediol / 2-Brom-2-nitro-1,3-propandiol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "52-68-6": {
+    "name": "Trichlorfon / Triclofon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "526-75-0": {
+    "name": "2,3-Xylenol / 2,3-Xylenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "528-29-0": {
+    "name": "1,2-Dinitro benzene / 1,2-Dinitro benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "52962-96-6": {
+    "name": "α-picoline (2-Methylpyridine) / α-picolin (2-Metyl pyridin)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "53-70-3": {
+    "name": "Dibenz (a, h) anthracene / Dibenz (a, h) anthracen",
+    "appendix": [
+      "III"
+    ]
+  },
+  "53-86-1": {
+    "name": "Indomethacine / Indomethacin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "532-27-4": {
+    "name": "Phenacyl chloride / Clo axetophenon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "533-74-4": {
+    "name": "Tetrahydro-3,5- dimethyl-1,3,5,-  thiadiazine-2-thione (Dazomet) / Tetrahydro-3,5- dimetyl-1,3,5,-  thiadiazin-2-thion (Dazomet)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "534-07-6": {
+    "name": "1,3-Dichloro acetone / 1.3-Diclo axeton",
+    "appendix": [
+      "III"
+    ]
+  },
+  "534-15-6": {
+    "name": "1,1-Dimethoxyethane / 1,1-Dimetoxyetan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "534-22-5": {
+    "name": "2-Methyl furan / 2-Metyl furan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "534-52-1": {
+    "name": "Dinitro-o-cresol / Dinitro-o-cresol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "535-13-7": {
+    "name": "Ethyl 2-chloropropionate / Etyl 2-clo propionat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "535-89-7": {
+    "name": "Crimidine / Crimidin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "536-90-3": {
+    "name": "3-Methoxyaniline / 3-Methoxy anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "5397-31-9": {
+    "name": "3-(2-Ethylhexyloxy) propylamin / 3-(2-Etylhexyloxy) propylamin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "54-11-5": {
+    "name": "Nicotine (3-(1-Methyl-2-pyrrolidinyl) pyridine) / Nicotin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "540-42-1": {
+    "name": "Isobutyl propionate / Isobutyl propionat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "540-54-5": {
+    "name": "n-Propyl chloride / 1-Clo propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "540-59-0": {
+    "name": "1,2-Dicloetylen / 1,2-Diclo etylen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "540-69-2": {
+    "name": "Formic acid ammonium salt / Ammonium formate",
+    "appendix": [
+      "III"
+    ]
+  },
+  "540-73-8": {
+    "name": "1,2-Dimethyl hydrazine / 1,2-Dimetyl hydrazin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "541-41-3": {
+    "name": "Ethyl chloro formate / Etyl clo format",
+    "appendix": [
+      "III"
+    ]
+  },
+  "541-85-5": {
+    "name": "Ethyl amyl ketone / Etyl amyl keton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "5419-55-6": {
+    "name": "Triisopropyl borate / Triisopropyl borat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "542-55-2": {
+    "name": "Isobutyl formate / Isobutyl format",
+    "appendix": [
+      "II"
+    ]
+  },
+  "542-75-6": {
+    "name": "1,3-Dichloropropene / 1,3-Diclo propen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "542-88-1": {
+    "name": "Bis(chloro methyl) ether / Bis(clo metyl) ete",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "543-59-9": {
+    "name": "n-Amyl chloride / n-Amyl clo",
+    "appendix": [
+      "II"
+    ]
+  },
+  "544-16-1": {
+    "name": "Butyl nitrite / Butyl nitrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "544-25-2": {
+    "name": "Cycloheptatriene / Xycloheptatrien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "544-97-8": {
+    "name": "Dimethyl zinc / Dimetyl kẽm",
+    "appendix": [
+      "II"
+    ]
+  },
+  "5470-11-1": {
+    "name": "Hydroxylamine hydrochloride / Hydroxylamin hydroclorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "55-38-9": {
+    "name": "Fenthion / Fenthion",
+    "appendix": [
+      "II"
+    ]
+  },
+  "55-63-0": {
+    "name": "Nitroglycerin / Nitơ glyxerin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "55179-31-2": {
+    "name": "(1RS,2RS;1RS,2SR)-1-(Biphenyl-4-yloxy)-3,3-dimethyl-1-(1H-1,2,4-triazol-1-yl)  butan-2-ol / (1RS,2RS;1RS,2SR)-1-(Biphenyl-4-yloxy)-3,3-dimetyl-1-(1H-1",
+    "appendix": [
+      "II"
+    ]
+  },
+  "55283-68-6": {
+    "name": "Ethafluralin / Ethalfluralin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "55285-14-8": {
+    "name": "2,2-Dimethyl-2,3-dihydro-1-benzofuran-7-yl  [(dibutylamino) sulfanyl]methyl carbamate / 2,2-Dimetyl-2,3-dihydro-1-benzofuran-7-yl  [(dibutylamino) sun",
+    "appendix": [
+      "II"
+    ]
+  },
+  "554-00-7": {
+    "name": "2,4-Dichloroaniline / 2,4-Diclo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "554-12-1": {
+    "name": "Methyl propionate / Metyl propionat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "554-84-7": {
+    "name": "1-hydroxy-3-nitrobenzene / 1-hydroxy-3-nitrobenzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "556-24-1": {
+    "name": "Methyl isovalerate / Metyl isovalerat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "556-52-5": {
+    "name": "2,3-Epoxy-1-propanol (Glycidol) / 2,3-Epoxy-1-propanol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "556-61-6": {
+    "name": "Methyl isothiocyanate / Metyl isothioxyanat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "556-64-9": {
+    "name": "Methyl thiocyanate (Thiocyanic acid, methyl ester) / Metyl thioxyanat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "557-17-5": {
+    "name": "Methyl propyl ether / Metyl propyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "557-20-0": {
+    "name": "Diethylzinc / Dietyl kẽm",
+    "appendix": [
+      "II"
+    ]
+  },
+  "557-31-3": {
+    "name": "Allyl ethyl ether / Allyl etyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "557-40-4": {
+    "name": "Diallylether / Diallyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "557-98-2": {
+    "name": "2-Chloropropylene (1-Propene, 2-chloro-) / 2-Clo propylene",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "558-13-4": {
+    "name": "Tetrabromomethane / Cacbon tetrabromit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "56-18-8": {
+    "name": "Bis(3-aminopropyl) amine / Bis(3-aminopropyl) amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "56-23-5": {
+    "name": "Carbon tetrachloride / Carbon tetraclorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "56-36-0": {
+    "name": "Tributyl tin acetate / Tributyl axetat thiếc",
+    "appendix": [
+      "II"
+    ]
+  },
+  "56-38-2": {
+    "name": "Parathion / Parathion",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "56-55-3": {
+    "name": "Benz(a) anthracene (1,2-Benzoanthracene) / Benz(a) anthracen (1,2-Benzoanthracen)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "563-12-2": {
+    "name": "Ethion / Ethion",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "563-45-1": {
+    "name": "3-Methyl -1-butene / 3-Metyl 1-buten",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "563-46-2": {
+    "name": "2-Methyl-1 -butene / 2-Metyl 1-buten",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "563-47-3": {
+    "name": "Methyl allyl chloride / Metylallyl clo",
+    "appendix": [
+      "II"
+    ]
+  },
+  "563-80-4": {
+    "name": "Methyl isopropenyl ketone / Metyl isopropenyl keton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "56425-91-3": {
+    "name": "Flurprimidol / Flurprimidol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "57-06-7": {
+    "name": "Allyl isothio cyanate / Allyl isotioxyanat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "57-24-9": {
+    "name": "Strychnine / Strychnin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "57-52-3": {
+    "name": "Triethyl tin sulfate / Trietyl thiếc sunphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "57-74-9": {
+    "name": "Chlordane / Chlordan",
+    "appendix": [
+      "III"
+    ]
+  },
+  "576-26-1": {
+    "name": "2,6-Xylenol / 2,6-Xylenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "58-89-9": {
+    "name": "Lindane (gamma-1,2,3,4,5,6-Hexachlorocyclohexane) / Lindan (gamma-1,2,3,4,5,6-Hexaclo xyclohexan)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "58-90-2": {
+    "name": "2,3,4,6-Tetrachlorophenol / 2,3,4,6-Tetraclo phenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "581-89-5": {
+    "name": "2-Nitronaphthalene / 2- Nitronaphthalen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "583-60-8": {
+    "name": "2-methyl cyclo hexanone / 2-metyl xyclo hexanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "583-63-1": {
+    "name": "1,2-Benzo quinone / 1,2-Benzo quinon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "5836-73-7": {
+    "name": "Promurit (1-(3,4-dichlorophenyl) -3-triazene  thiocarboxamide) / Promurit  (1-(3,4-diclophenyl)-3-triazenethiocacboxamit)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "584-84-9": {
+    "name": "2,4-Toluene di-isocyanate / 2,4-Toluen diisoxyanat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "586-62-9": {
+    "name": "Terpinolene / Terpinolen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "589-92-4": {
+    "name": "4-methyl cyclohexanone / 4-Metyl xyclohexanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "5894-60-0": {
+    "name": "Hexadecyltrichloro silane / Hexadecyltriclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "59-50-7": {
+    "name": "4-Chloro-3-methyl phenol / 4-Clo-3-metyl phenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "590-01-2": {
+    "name": "Butyl propionate / Butyl propionat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "590-21-6": {
+    "name": "1-Chlopropylene (1-Propene, 1-chloro-) / 1-Clo propylene",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "590-36-3": {
+    "name": "2-Methyl-2-pentanol / 2-Metyl pentan-2-ol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "591-24-2": {
+    "name": "3-methyl cyclohexanone / 3-Metyl xyclohexanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "591-78-6": {
+    "name": "2-Hexanone / 2-Hexanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "591-87-7": {
+    "name": "Allyl acetate / Allyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "592-34-7": {
+    "name": "N-Butyl chloroformate / N-butyl clo format",
+    "appendix": [
+      "II"
+    ]
+  },
+  "592-41-6": {
+    "name": "1-Hexene / 1-Hexen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "592-42-7": {
+    "name": "1,5-Hexadiene / 1,5-Hexadien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "592-45-0": {
+    "name": "1,4-Hexadiene / 1,4-Hexadien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "592-46-1": {
+    "name": "2,4-Hexadiene / 2,4-Hexadien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "592-55-2": {
+    "name": "Ethane, 1 -bromo-2-ethoxy- / 1-Bromo-2-ethoxy-etan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "592-84-7": {
+    "name": "N-Butyl formate / N-butyl format",
+    "appendix": [
+      "II"
+    ]
+  },
+  "593-60-2": {
+    "name": "Vinyl bromide / Vinyl bromua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "594-42-3": {
+    "name": "Perchloromethylmercaptan (Methanesulfenyl  chloride, trichloro-) / Perclometyl mercaptan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "594-72-9": {
+    "name": "1,1 -Dichloro-1-nitroethane / 1,1-Diclo-1-nitroetan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "59669-26-0": {
+    "name": "Thiodicarb / Thiodicarb",
+    "appendix": [
+      "III"
+    ]
+  },
+  "598-31-2": {
+    "name": "Bromo acetone / Brom axeton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "598-73-2": {
+    "name": "Bromotrifluorethylene (Ethene, bromotrifluor o-) / Brom triflo etylen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "598-78-7": {
+    "name": "2-Chloropropionic acid / Axit 2-clo propionic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "60-24-2": {
+    "name": "Thioethylene glycol / Thioethylene glycol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "60-29-7": {
+    "name": "1 - 1 - Oxybisethane  Diethyl ether / Ethyl ether (Diethyl ether)  Ethyl ether",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "60-34-4": {
+    "name": "Methyl hydrazine (Hydrazine, methyl-) / Metyl hydrazin",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "60-41-3": {
+    "name": "Strychnine sulfate / Strychnin sunphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "60-57-1": {
+    "name": "Dieldrin / Dieldrin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "60168-88-9": {
+    "name": "Fenarimol / Fenarimol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "602-01-7": {
+    "name": "2,3-Dinitro toluene / 2,3-Dinitro toluen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "602-99-3": {
+    "name": "Trinitrocresol / Trinitro cresol",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "6032-29-7": {
+    "name": "2-Pentanol / 2-Pentanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "606-20-2": {
+    "name": "2,6-Dinitro toluene / 2,6-Dinitro toluen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "606-35-9": {
+    "name": "2,4,6-trinitroanisole / 2,4,6-Trinitroanisol",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "608-26-4": {
+    "name": "2-Chloro-3-methyl phenol / 2-Clo-3-metyl phenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "608-27-5": {
+    "name": "2,3-Dichloro aniline / 2,3-Diclo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "608-31-1": {
+    "name": "2,6-Dichloro aniline / 2,6-Diclo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "608-73-1": {
+    "name": "Hexachloro cyclohexane / Hexachloxyclohexan",
+    "appendix": [
+      "III"
+    ]
+  },
+  "608-93-5": {
+    "name": "Pentachlorobenzene (PeCB) / Pentaclo benzen (PeCB)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "610-39-9": {
+    "name": "3,4-Dinitro toluene / 3,4-Dinitro toluen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "611-19-8": {
+    "name": "1-Chloro-2-chloromethyl-benzene / 1-Clo-2-clometyl-benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "612-82-8": {
+    "name": "o-Tolidine dihydrochloride / O-tolidin dihydro clo",
+    "appendix": [
+      "II"
+    ]
+  },
+  "616-38-6": {
+    "name": "Dimethyl carbonate / Dimetyl cacbon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "6164-98-3": {
+    "name": "Chlordimeform / Chlordimeform",
+    "appendix": [
+      "III"
+    ]
+  },
+  "617-50-5": {
+    "name": "Isopropyl isobutyrate / Isopropyl isobutyrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "617-89-0": {
+    "name": "Furfurylamine / Furfurylamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "61788-33-8": {
+    "name": "Polychlorinated terphenyls (PCTs) / Terphenyls clo hóa (PCTs)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "61789-51-3": {
+    "name": "Cobalt (II) naphthenate / Coban (II) naphthenat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "62-53-3": {
+    "name": "Aniline / Anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "62-56-6": {
+    "name": "Thiourea / Thiourea",
+    "appendix": [
+      "II"
+    ]
+  },
+  "62-73-7": {
+    "name": "2,2-dichlorovinyl dimethyl phosphate / 2,2-diclovinyl dimetyl photphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "62-74-8": {
+    "name": "Sodium fluoro acetate / Natri flo axetat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "62-75-9": {
+    "name": "Dimethyl nitros amine / Dimetyl nitro amin",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "620-20-2": {
+    "name": "1-Chloro-3-chloromethyl-benzene / 1-Clo-3-clometyl-benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "622-45-7": {
+    "name": "Cyclohexyl acetate / Xyclohexyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "623-42-7": {
+    "name": "Methyl n-butyrate / Metyl butyrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "623-70-1": {
+    "name": "Ethyl trans-crotonate / Etyl trans-crotonat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "624-18-0": {
+    "name": "1,4-Benzene diamine dihydrochloride / 1,4-Benzen diamin dihydroclorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "624-83-9": {
+    "name": "Methyl isocyanate / Metyl isoxyanat",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "624-92-0": {
+    "name": "Dimethyl disulfide / Dimetyl disunfit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "625-45-6": {
+    "name": "Methoxy acetic acid / Axit methoxy axetic",
+    "appendix": [
+      "III"
+    ]
+  },
+  "625-58-1": {
+    "name": "Ethyl nitrate / Etyl nitrat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "626-43-7": {
+    "name": "3,5-Dichloro aniline / 3,5-Diclo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "626-67-5": {
+    "name": "1-Methylpiperidine / 1-Metyl piperidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "627-20-3": {
+    "name": "2-Pentene, (Z)- / (Z)-2-Penten",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "627-63-4": {
+    "name": "Fumaryl chloride / Fumaryl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "628-28-4": {
+    "name": "Butyl methyl ether / Butyl metyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "628-32-0": {
+    "name": "Ethyl propyl ether / Etyl propyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "628-63-7": {
+    "name": "Amyl acetate / Amyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "628-76-2": {
+    "name": "1,5-Dichloro pentane / 1,5-Diclopentan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "628-81-9": {
+    "name": "Ethyl butyl ether / Etyl butyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "628-92-2": {
+    "name": "Cycloheptene / Xyclohepten",
+    "appendix": [
+      "II"
+    ]
+  },
+  "628-96-6": {
+    "name": "Ethylene glycol dinitrate / Etylen glycol dinitrat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "629-20-9": {
+    "name": "1,3,5,7-cyclo octatetraene / 1,3,5,7-Xyclo octatetraen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "63-25-2": {
+    "name": "1-naphthyl methylcarbamate / 1-naphtyl metyl cacbamat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "630-08-0": {
+    "name": "Carbon monoxide / Cacbon monoxit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "630-20-6": {
+    "name": "1,1,1,2-Tetrachloroethane / 1,1,1,2-Tetraclo etan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "637-78-5": {
+    "name": "Isopropyl propionate / Isopropyl propionat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "638-11-9": {
+    "name": "Isopropyl butyrate / Isopropyl butyrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "638-29-9": {
+    "name": "Valeryl chloride / Valeryl clo",
+    "appendix": [
+      "II"
+    ]
+  },
+  "638-49-3": {
+    "name": "Amyl formate / Amyl format",
+    "appendix": [
+      "II"
+    ]
+  },
+  "63917-41-9": {
+    "name": "Dimetylphosphoramid ocyanidic acid / Axit dimetyl photphoramido xyanidic",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "63918-97-8": {
+    "name": "Lead 2,4,6-trinitroresorcinoxide lead styphnate) / Chì 2,4,6-trinitroresorcinoxit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "64-17-5": {
+    "name": "Ethanol / Etanol",
+    "appendix": [
+      "I"
+    ]
+  },
+  "64-18-6": {
+    "name": "Methanoic acid / Axit Formic",
+    "appendix": [
+      "III"
+    ]
+  },
+  "64-19-7": {
+    "name": "Ethanoic acid / Axit Axetic (GAA)",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "64-67-5": {
+    "name": "Dietyl sulfate / Dietyl sunfat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "640-15-3": {
+    "name": "S-2-Ethylthioethyl O, O-dimethyl  phosphorodithioate / S-2-Etylthio etyl O, O-dimetyl photphodithioat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "640-19-7": {
+    "name": "Fluoracetamide / Floraxetamit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "644-97-3": {
+    "name": "Phenylphosphorus Dichloride / Phenyl photpho diclo",
+    "appendix": [
+      "II"
+    ]
+  },
+  "646-04-8": {
+    "name": "2-Pentene, (E)- / (E)-2-Penten",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "646-06-0": {
+    "name": "Dioxolane / Dioxolan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "6484-52-2": {
+    "name": "Ammonium nitrate / Amoni nitrat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "65-30-5": {
+    "name": "Nicotine sulfate  (1-1-Methyl-2-(3-pyridyl)-pynolidine sulfate) / Nicotin sunfat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "65-31-6": {
+    "name": "Nicotine tartrate / Nicotin tartrat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "6581-06-2": {
+    "name": "BZ: 3-Quinuclidinyl benzilate (*) / BZ: 3-Quinuclidinyl benzilate (*)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "66-25-1": {
+    "name": "Hexanal / Hexaldehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "66-81-9": {
+    "name": "Cycloheximide / Xycloheximit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "67-56-1": {
+    "name": "Methanol / Metanol",
+    "appendix": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "67-63-0": {
+    "name": "Isopropyl alcohol / Isopropanol",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "67-64-1": {
+    "name": "2 - Propanone / Acetone",
+    "appendix": [
+      "III"
+    ]
+  },
+  "67-66-3": {
+    "name": "Chloroform (methane, trichloro-) / Cloroform",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "674-82-8": {
+    "name": "Diketene (3-Butenoic acid) / Diketen (3-Butenoic axit)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "676-97-1": {
+    "name": "Methylphosphonyl dichloride / 676-97-1",
+    "appendix": [
+      "III"
+    ]
+  },
+  "68-11-1": {
+    "name": "Thioglycolic acid / Axit thioglycolic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "680-31-9": {
+    "name": "Hexamethyl phosphoro amide / Hexametyl photpho amit",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "681-84-5": {
+    "name": "Methyl orthosilicate / Metyl orthosilicat (Tetramethoxy silan)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "6834-92-0": {
+    "name": "Sodium metasilicate / Natri silicat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "684-16-2": {
+    "name": "Hexafluoroacetone / Hexaflo axeton hydrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "6842-15-5": {
+    "name": "Propylene tetramer (Tetrapropylen) / Propylen tetram (Tetrapropylen)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "687-47-8": {
+    "name": "Ethyl lactate / Etyl lactat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "689-97-4": {
+    "name": "Vinyl acetylene (1-Buten-3-yne) / Vinyl axetylen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "68956-56-9": {
+    "name": "Terpene hydrocarbon / Terpen hydrocacbon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "691-37-2": {
+    "name": "Isohexene / Isohexen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "6923-22-4": {
+    "name": "Monocrotophos (Dimethyl (E)-1-methyl-2- (methyl  carbamoyl) vinyl phosphate) / Monocrotophos",
+    "appendix": [
+      "III"
+    ]
+  },
+  "693-21-0": {
+    "name": "Diethylene glycol dinitrate / Dietylen glycol dinitrat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "69523-06-4": {
+    "name": "Ferrocerium / Ceri sắt",
+    "appendix": [
+      "II"
+    ]
+  },
+  "70-30-4": {
+    "name": "Hexachlorophene / Hexaclophen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "70776-03-3": {
+    "name": "Polychlorinated naphthalene (PCN) / Naphtalen polyclo hóa (PCN)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "709-98-8": {
+    "name": "Propanil / Propanil",
+    "appendix": [
+      "II"
+    ]
+  },
+  "71-23-8": {
+    "name": "Propan-1-ol / Propan-1-ol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "71-36-3": {
+    "name": "n-Butanol / n-Butanol",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "71-41-0": {
+    "name": "1-Pentanol / 1-Pentanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "71-43-2": {
+    "name": "Benzene / Benzen",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "71-55-6": {
+    "name": "1,1,1-Trichloroethane / 1,1,1-Triclo etan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "72-20-8": {
+    "name": "Endrine / Endrin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "731-27-1": {
+    "name": "Tolylfluanid / Tolylfluanid",
+    "appendix": [
+      "II"
+    ]
+  },
+  "74-82-8": {
+    "name": "Methane / Metan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "74-83-9": {
+    "name": "Bromom ethane / Metyl bromit",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "74-84-0": {
+    "name": "Ethane / Etan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "74-85-1": {
+    "name": "Ethylene / Etylen",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "74-86-2": {
+    "name": "Acetylene / Axetylen",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "74-87-3": {
+    "name": "Methyl chloride (Methane,chloro-) / Clorua metyl",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "74-88-4": {
+    "name": "Iodomethane / Metyl lotua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "74-89-5": {
+    "name": "Aminomethane / Methylamine",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "74-90-8": {
+    "name": "Hydrogen cyanide / Hydrogen cyanide",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "74-93-1": {
+    "name": "Methyl mercaptan (Methanethiol) / Metyl mercaptan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "74-96-4": {
+    "name": "Bromoethane / Etyl bromua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "74-98-6": {
+    "name": "Propane / Propan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "74-99-7": {
+    "name": "1-Propyne / Propin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7429-90-5": {
+    "name": "Aluminium powder / Bột nhôm",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7439-90-9": {
+    "name": "Krypton / Krypton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7439-93-2": {
+    "name": "Lithium / Liti",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7439-95-4": {
+    "name": "Magnesium / Magie",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-01-9": {
+    "name": "Neon / Neon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-09-7": {
+    "name": "Potassium / Kali",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-21-3": {
+    "name": "Silicon / Silic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-23-5": {
+    "name": "Sodium / Natri",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-28-0": {
+    "name": "Thallium / Tali",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7440-32-6": {
+    "name": "Titanium / Titan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-37-1": {
+    "name": "Argon / Argon",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "7440-39-3": {
+    "name": "Barium / Bari",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-41-7": {
+    "name": "Beryllium (powders, compounds) / Beryli (dạng bột và các hợp chất)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7440-43-9": {
+    "name": "Cadmium / Cadimi",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7440-45-1": {
+    "name": "Cerium / Xeri",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-55-3": {
+    "name": "Gallium / Gali",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-59-7": {
+    "name": "Helium / Heli",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-66-6": {
+    "name": "Zinc ashe / Tro kẽm",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-67-7": {
+    "name": "Zirconium / Zirconi",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7440-70-2": {
+    "name": "Calcium / Canxi",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7446-09-5": {
+    "name": "Sulfur dioxide / Lưu huỳnh dioxit",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "7446-11-9": {
+    "name": "Sulfur trioxide / Lưu huỳnh trioxit",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7446-18-6": {
+    "name": "Thallium sulfate / Tali sunphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7446-70-0": {
+    "name": "Aluminium chloride / Nhôm clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7447-39-4": {
+    "name": "Copper (II) chloride / Đồng (II) clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7488-56-4": {
+    "name": "Selenium disulfide / Selen disunfua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-00-3": {
+    "name": "Ethyl chloride (Ethane, chloro) / Etyl clorua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-01-4": {
+    "name": "Vinyl chloride / Vinyl clorua",
+    "appendix": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "75-02-5": {
+    "name": "Vinyl fluoride (Ethene, fluoro) / Vinyl florua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-04-7": {
+    "name": "Ethylamine (Ethanamine) / Etyl amin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-05-8": {
+    "name": "Acetonitrile / Axetonitril",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-07-0": {
+    "name": "Acetaldehyde / Axetandehit",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "75-08-1": {
+    "name": "Ethyl mercaptan (Ethanethiol) / Etyl mercaptan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-10-5": {
+    "name": "Difluoromethane / Diflo metan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-12-7": {
+    "name": "Methanamide; Carbamaldehyde / Formamide",
+    "appendix": [
+      "III"
+    ]
+  },
+  "75-15-0": {
+    "name": "Carbon disulfide / Cacbon disunfua",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "75-18-3": {
+    "name": "Dimethyl sulfide / Dimetyl sunfit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-19-4": {
+    "name": "Cyclopropane / Xyclopropan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-20-7": {
+    "name": "Calcium carbide / Canxi cacbua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-21-8": {
+    "name": "Ethylene oxide / Etylen oxit",
+    "appendix": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "75-25-2": {
+    "name": "Bromoform / Bromoform",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-26-3": {
+    "name": "2-Bromopropane / 2- Brom propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-29-6": {
+    "name": "2-chloropropane / Isopropyl clorua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-30-9": {
+    "name": "2-Iodopropane / 2-Iotpropan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-31-0": {
+    "name": "2-Propanamine / Isopropylamin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-34-3": {
+    "name": "1,1-Dichloro ethane / 1,1-Diclo etan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-35-4": {
+    "name": "Vinylidene chloride (Ethene, 1,1-dichloro-) / Vinyliden clorua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-36-5": {
+    "name": "Acetyl chloride / Acetyl chloride",
+    "appendix": [
+      "III"
+    ]
+  },
+  "75-37-6": {
+    "name": "Difluoroethane (Ethane, 1,1 -difluoro-) / 1,1 Diflo etan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-38-7": {
+    "name": "Vinylidene fluoride (Ethene, 1,1-difluoro-) / Vinyliden florua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-44-5": {
+    "name": "Phosgene: Carbonyl dichloride / Phosgene: Carbonyl dichloride",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "75-45-6": {
+    "name": "Chloro difluoro methane (R-22) / Clo diflo metan (R-22)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "75-46-7": {
+    "name": "Trifluoromethane (Fluoroform) / Triflo metan (Floform)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-50-3": {
+    "name": "Trimethylamine / Trimetylamin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-54-7": {
+    "name": "Methyldichlorosilane / Metyl diclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-55-8": {
+    "name": "2- methyl-Aziridine / Propylen imin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-56-9": {
+    "name": "Methyl oxirane (Propylene oxide) / Metyl oxiran (Propylen oxit)",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "75-59-2": {
+    "name": "Tetramethyiammonium hydroxide / Tetrametyl amonni hydroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-65-0": {
+    "name": "tert-Butanol / Tert-butanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-73-0": {
+    "name": "Tetrafluoromethane / Tetraflo metan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-76-3": {
+    "name": "Tetramethylsilane (Silane, tetramethyl-) / Tetrametyl silan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-77-4": {
+    "name": "Trimethylchlorosilane (Silane, chlorotrimethyl-) / Trimetylclosilan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-78-5": {
+    "name": "Dimethyldichlorosilane (silane,  dichlorodimethyl-) / Dimetyldiclo silan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-79-6": {
+    "name": "Methyltrichlorosilane (Silane, trichloromethyl-) / Metyl triclo silan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "75-86-5": {
+    "name": "2-cyanopropan-2-ol (acetone cyanohydrin) / 2-Xyanopropan-2-ol",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "75-88-7": {
+    "name": "1 -Chloro-2,2,2-trifluoro ethane / 1-Clo-2,2,2-triflo etan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "75-94-5": {
+    "name": "Vinyltrichlorosilane / Vinyl triclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7521-80-4": {
+    "name": "n-Butyltrichlorosilane / n-Butyl triclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7550-45-0": {
+    "name": "Titanium tetrachloride (Titanium chloride (TiCl4)  (T-4)-) / Titan tetraclorua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7553-56-2": {
+    "name": "Iodine / Iot",
+    "appendix": [
+      "II"
+    ]
+  },
+  "756-79-6": {
+    "name": "Dimethyl methyl phosphonate / 756-79-6",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7578-36-1": {
+    "name": "Boron trifluoride acetic acid / Axit bo triflo axetic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7580-67-8": {
+    "name": "Lithium hydride / Liti hydrit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "76-01-7": {
+    "name": "Pentachloroethane / Pentaclo etan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "76-02-8": {
+    "name": "Trichloro acetyl chloride / Triclo axetyl clorua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "76-03-9": {
+    "name": "Trichloroacetic acid / Axit triclo axetic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "76-05-1": {
+    "name": "Trifluoroacetic acid / Axit triflo axetic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "76-06-2": {
+    "name": "Chloropicrin: Trichloronitromethane / Chloropicrin: Trichloronitromethane",
+    "appendix": [
+      "III"
+    ]
+  },
+  "76-44-8": {
+    "name": "Hepta chlorane / Hepta cloran",
+    "appendix": [
+      "III"
+    ]
+  },
+  "76-87-9": {
+    "name": "Triphenyltin hydroxide / Triphenyltin hydroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "76-93-7": {
+    "name": "2,2-Diphenyl-2-hydroxyacetic acid / 2,2-Diphenyl-2-hydroxyacetic acid",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7601-89-0": {
+    "name": "Sodium perchlorate / Natri perclorat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7601-90-3": {
+    "name": "Perchloric acid / Axit percloric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7616-94-6": {
+    "name": "Perchloryl fluoride / Flo percloryl",
+    "appendix": [
+      "II"
+    ]
+  },
+  "762-04-9": {
+    "name": "Diethyl phosphite / Diethyl phosphite",
+    "appendix": [
+      "III"
+    ]
+  },
+  "76253-60-6": {
+    "name": "Monomethyl-Tetrachlorodiphenyl methane (Trade  name: Ugilec 141) / Monometyl-Tetraclodiphenyl metan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7632-04-4": {
+    "name": "Sodium perborate / Natri perborat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7637-07-2": {
+    "name": "Boron trifluoride / Bo trifluorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7646-78-8": {
+    "name": "Stannic tetrachloride / Thiếc (IV) clorua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7646-79-9": {
+    "name": "Cobalt dichloride / Coban diclorua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7646-85-7": {
+    "name": "Zinc chloride / Kẽm clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7646-93-7": {
+    "name": "Potassium hydrogen sulfate / Kali bisulfat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7647-01-0": {
+    "name": "Hydrochloric acid / Axit Hydrochloric",
+    "appendix": [
+      "I",
+      "III",
+      "IV"
+    ]
+  },
+  "7647-18-9": {
+    "name": "Antimony pentachloride / Stibi pentaclorua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "765-34-4": {
+    "name": "Glycidaldehyde / Glycidaldehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "766-09-6": {
+    "name": "1-Ethylpiperidine / 1-Etyl piperidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7664-38-2": {
+    "name": "Phosphoric acid / Axit photphoric",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "7664-39-3": {
+    "name": "Hydrogen fluoride / Hydro florua",
+    "appendix": [
+      "I",
+      "II",
+      "IV"
+    ]
+  },
+  "7664-41-7": {
+    "name": "Ammonia (anhydrous) / Amoniac (khan)",
+    "appendix": [
+      "I",
+      "II",
+      "IV"
+    ]
+  },
+  "7664-93-9": {
+    "name": "Sulfuric acid / Axit Sulfuric",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "7681-49-4": {
+    "name": "Sodium fluoride / Natri florua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7681-52-9": {
+    "name": "Sodium hypochlorite / Natri hypoclorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7697-37-2": {
+    "name": "Nitric acid / Axit nitric",
+    "appendix": [
+      "I",
+      "II",
+      "IV"
+    ]
+  },
+  "77-09-8": {
+    "name": "Phenol phthalein / Phenol phthalein",
+    "appendix": [
+      "III"
+    ]
+  },
+  "77-47-4": {
+    "name": "Hexachloro cyclopentadiene / Hexaclo xyclopentadien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "77-73-6": {
+    "name": "Dicyclo pentadiene / Dixyclopentadien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7704-34-9": {
+    "name": "Sulfur / Lưu huỳnh",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7704-98-5": {
+    "name": "Titanium hydride / Titan hydrua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7704-99-6": {
+    "name": "Zirconium (II) hydride / Kẽm hydrua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7705-08-0": {
+    "name": "Iron(IIl) chloride / Sắt (III) clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7719-09-7": {
+    "name": "Thionyl chloride / Thionyl chloride",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7719-12-2": {
+    "name": "Phosphorus trichloride / Phosphorus trichloride",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "7722-64-7": {
+    "name": "Potassium permanganate / Kali permanganat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7722-84-1": {
+    "name": "Hydrogen peroxide / Hydro peroxit",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "7723-14-0": {
+    "name": "Phosphorus (White, yellow) / Photpho vàng",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7726-95-6": {
+    "name": "Bromine / Brom",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7727-21-1": {
+    "name": "Potassium persulfate / Kali persunphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7727-37-9": {
+    "name": "Nitrogen / Nitơ",
+    "appendix": [
+      "I",
+      "II"
+    ]
+  },
+  "7727-54-0": {
+    "name": "Ammonium persulfate / Amoni persunphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7746-08-4": {
+    "name": "Selenium dioxide / Selen dioxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7756-94-7": {
+    "name": "Triisobutylene / Triisobutylen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7757-79-1": {
+    "name": "Potassium nitrate / Kali nitrat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7758-01-2": {
+    "name": "Potassium bromate / Kali bromat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7758-09-0": {
+    "name": "Potassium nitrite / Kali nitrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7758-19-2": {
+    "name": "Sodium chlorite / Natri clorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7758-89-6": {
+    "name": "Copper (I) chloride / Đồng (I) clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7761-88-8": {
+    "name": "Silver nitrate / Bạc nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "776297-69-9": {
+    "name": "N-pentyl-isopentyl phthalate / N-Pentyl-isopentyl phthalat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7775-09-9": {
+    "name": "Sodium chlorate / Natri clorat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7775-14-6": {
+    "name": "Sodium dithionite / Natri đithionit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7775-27-1": {
+    "name": "Sodium persulfate / Natri persunphat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7778-54-3": {
+    "name": "Calcium hypochlorite / Canxi hypoclorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7779-88-6": {
+    "name": "Zinc nitrate / Kẽm nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7782-41-4": {
+    "name": "Fluorine / Flo",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "7782-44-7": {
+    "name": "Oxygen / Oxy",
+    "appendix": [
+      "I",
+      "II",
+      "IV"
+    ]
+  },
+  "7782-49-2": {
+    "name": "Selenium (powder) / Selen (dạng bột)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7782-50-5": {
+    "name": "Chlorine / Clo",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "7782-78-7": {
+    "name": "Nitrosyl sulfuric acid / Axit nitrosyl sunphuric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7783-00-8": {
+    "name": "Selenious acid / Axit selenơ",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7783-06-4": {
+    "name": "Hydrogen sulphide / Hydro sunphua",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "7783-07-5": {
+    "name": "Hydrogen selenide / Hydro selenua",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "7783-08-6": {
+    "name": "Selenic acid / Axit selenic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7783-41-7": {
+    "name": "Oxygen difluoride / Oxy diflorua",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "7783-54-2": {
+    "name": "Nitrogen trifluoride / Nitrotriflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7783-60-0": {
+    "name": "Sulfur tetrafloride (Sulfur fluoride) / Lưu huỳnh tetraflorua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7783-61-1": {
+    "name": "Silicon tetrafluoride / Silicon tetraflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7783-66-6": {
+    "name": "Iodine pentafluoride / Iot pentaflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7783-79-1": {
+    "name": "Selenium hexafloride / Selen hexaflorua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7783-80-4": {
+    "name": "Tellurium hexafloride / Telu hexaflorua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7783-82-6": {
+    "name": "Tungsten hexafluoride / Vonfram hexaflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7784-34-1": {
+    "name": "Arsenic trichloride / Arsenic trichloride",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "7784-42-1": {
+    "name": "Arsen trihydride (arsine) / Asen hydrua",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7785-87-7": {
+    "name": "Manganese sulfate / Mangan Sunphat",
+    "appendix": [
+      "I"
+    ]
+  },
+  "7786-34-7": {
+    "name": "Mevinphos / Mevinphos",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "7789-18-6": {
+    "name": "Caesium nitrate / Ceri nitrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7789-21-1": {
+    "name": "Fluorosulfonic acid / Axit flo sunphonic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7789-23-3": {
+    "name": "Potassium fluoride / Kali florua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7789-38-0": {
+    "name": "Sodium bromate / Natri bromat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7790-79-6": {
+    "name": "Cadmiumfluoride / Cadimi florua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "7790-91-2": {
+    "name": "Chlorine trifluoride / Clo triflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7790-93-4": {
+    "name": "Chloric acid / Axit cloric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7790-98-9": {
+    "name": "Ammonium perchlorate / Amoni perclorat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7790-99-0": {
+    "name": "Iodine monochloride / lod monoclorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7791-23-3": {
+    "name": "Selenium oxychloride / Selen oxyclorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-10-4": {
+    "name": "Tetraethyl silicate / Tetraetyl silicat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-11-5": {
+    "name": "Pentaerythritol tetranitrate / Pentaerythritol tetranitrat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "78-30-8": {
+    "name": "Tri-o-cresyl phosphate (TOCP) / Tri-o-cresyl phosphat (TOCP)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-34-2": {
+    "name": "Dioxathion (isomer mixture) / Dioxathion (hỗn hợp đồng phân)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-52-4": {
+    "name": "oo-Diethyl s-iso propylthiomethyl  phosphorodithioate / oo-Dietyl s-iso propylthiometyl photphodithioat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "78-53-5": {
+    "name": "Amiton: O, O-Diethyl S-[2-(diethylamino)ethyl]  phosphorothiolate and corresponding alkylated or protonated salts / Amiton: (O, O-Diethyl-S-(2-diethyl",
+    "appendix": [
+      "III"
+    ]
+  },
+  "78-62-6": {
+    "name": "Dimethyl diethoxy silane / Dimetyl dietoxy silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-76-2": {
+    "name": "2-Bromo butane / 2-Brom butan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-77-3": {
+    "name": "1-Bromo-2-methylpropane / 1-Bromo-2-metyl propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-78-4": {
+    "name": "2-methyl- Butane / Isopentan",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "78-79-5": {
+    "name": "2-methyl-1,3-butadiene / Isopren",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "78-81-9": {
+    "name": "Isobutylamine / Isobutylamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-82-0": {
+    "name": "2- methyl-Propanenitrile / Isobutyronitril (2-metyl propan nitril)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "78-83-1": {
+    "name": "Isobutanol / Isobutanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-84-2": {
+    "name": "Isobutyraldehyde / Isobutyraldehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-85-3": {
+    "name": "Methacryl aldehyde / Metacryl aldehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-87-5": {
+    "name": "1,2-Dichloropropane / 1,2-Diclo propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-90-0": {
+    "name": "1,2-Propylene diamine / 1,2-Propylendiamin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-92-2": {
+    "name": "sec-Butanol / sec-Butanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "78-93-3": {
+    "name": "2-Butanone / Methyl ethyl ketone (MEK)",
+    "appendix": [
+      "I",
+      "III"
+    ]
+  },
+  "78-94-4": {
+    "name": "Methyl vinyl ketone / Metyl vinyl keton",
+    "appendix": [
+      "III"
+    ]
+  },
+  "78-95-5": {
+    "name": "Chloroacetone / Clo axeton",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7803-49-8": {
+    "name": "Hydroxylamine / Hydroxyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "7803-51-2": {
+    "name": "Phosphorus trihydride (phosphine) / Photpho trihydrua (photphin)",
+    "appendix": [
+      "I",
+      "IV"
+    ]
+  },
+  "7803-52-3": {
+    "name": "Stibine (antimony hydril) / Stibin (antimony hydril)",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "7803-62-5": {
+    "name": "Silane / Silan",
+    "appendix": [
+      "I",
+      "IV"
+    ]
+  },
+  "786-19-6": {
+    "name": "Carbon phenothion / Cacbon phenothion",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "79-01-6": {
+    "name": "Trichloro ethylene / Triclo etylen",
+    "appendix": [
+      "III"
+    ]
+  },
+  "79-03-8": {
+    "name": "Propionyl chloride / Propionyl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-04-9": {
+    "name": "Chloroacetyl chloride / Cloaxetyl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-06-1": {
+    "name": "2- Propen amit / 2-Propen amit",
+    "appendix": [
+      "III"
+    ]
+  },
+  "79-08-3": {
+    "name": "Bromoacetic acid / Axit brom axetic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-09-4": {
+    "name": "Propanoic acid / Axit propionic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-10-7": {
+    "name": "Acrylic acid / Axit acrylic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-11-8": {
+    "name": "Chloroacetic acid / Axit clo axetic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-16-3": {
+    "name": "N-methyl acetamide / N-Metyl axetamit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-20-9": {
+    "name": "Methyl acetate / Metyl axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-21-0": {
+    "name": "Peracetic acid (> 60%) / Axit peraxetic (> 60%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "79-22-1": {
+    "name": "Methyl chloroformate (Carbonochloridic acid,  methylester) / Metyl cloformat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "79-24-3": {
+    "name": "Nitroethane / Nitroethane",
+    "appendix": [
+      "III"
+    ]
+  },
+  "79-29-8": {
+    "name": "2,3-Dimethylbutane / 2,3-Dimetyl butan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-30-1": {
+    "name": "Isobutyryl chloride / Isobutyryl chlorit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-31-2": {
+    "name": "Isobutyric acid / Axit isobutyric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-34-5": {
+    "name": "1,1,2,2-Tetrachloroethane / 1,1,2,2-Tetraclo etan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-36-7": {
+    "name": "Dichloro acetyl chloride / Diclo axetyl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-38-9": {
+    "name": "Trifluorochloroethylene (Ethene,  chlorotrifluoro-) / Triflocloetylen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "79-41-4": {
+    "name": "Methacrylic acid / Axit metacrylic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-43-6": {
+    "name": "Dichloroacetic acid / Axit diclo axetic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "79-44-7": {
+    "name": "Dimethyl carbamoyl chloride / Dimetyl amin carbonyl clorua",
+    "appendix": [
+      "II",
+      "IV"
+    ]
+  },
+  "79-46-9": {
+    "name": "2-Nitropropane / 2-Nitropropan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "80-10-4": {
+    "name": "Diphenyl dichloro silane / Diphenyl diclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "80-12-6": {
+    "name": "Tetramethylenedisulp hotetramine / Tetrametylen disunphotetramin",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "80-56-8": {
+    "name": "α - pinene / α - Pinen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "80-62-6": {
+    "name": "Methyl methacrylate / Metyl metacrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "8001-35-2": {
+    "name": "Toxaphene (Camphechlor) / Toxaphen (Camphechlor)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "8014-95-7": {
+    "name": "Oleum (Fuming Sulfuric acid) (Sulfuric acid,  mixture with sulfur trioxide) / Oleum (hỗn hợp axit sunfuric với lưu huỳnh  trioxit)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "8065-48-3": {
+    "name": "Demeton / Demeton",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "81-15-2": {
+    "name": "5-tert-Butyl-2,4,6-trinitro-m-xylene / 5-Tert-Butyl-2,4,6-trinitro-m-xylen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "81-81-2": {
+    "name": "Warfarin ((RS)-4-hydroxy-3 -(3 -oxo-1  -phenylbutyl)-2H-chromen-2-one) / Warfarin ((RS)-4-hydroxy-3-(3 -oxo-1  -phenylbutyl)-2H-chromen-2-on)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "814-68-6": {
+    "name": "Acrylyl chloride / Acrylyl clorit",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "818-08-6": {
+    "name": "Dibultyltin oxide / Di butyl oxit thiếc",
+    "appendix": [
+      "II"
+    ]
+  },
+  "82-58-6": {
+    "name": "(8β) - 9,10 - didehydro - 6 - methylergolin - 8 -  carboxylic acid / Lysergic acid",
+    "appendix": [
+      "III"
+    ]
+  },
+  "82-66-6": {
+    "name": "Diphacinone / Diphacinon",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "82-68-8": {
+    "name": "pentachloronitrobenzene / Pentaclo nitro benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "82-71-3": {
+    "name": "2,4,6- Trinitroresorcinol (styphnic acid) / 2,4,6- Trinitroresorcinol",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "822-06-0": {
+    "name": "Hexamethylene diisocyanate (1,6-HexamethyIene  diisocyanate) / Hexametylen diisoxyanat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "82560-54-1": {
+    "name": "Ethyl-N-[(2,3-dihydro-2,2-dimethyl-7-benzofuranyloxy-carbonyl)  methylaminothio]-N-isopropyl-beta-alaninat / Etyl-N-[(2,3-dihydro-2,2-dimetyl-7-benzo ",
+    "appendix": [
+      "II"
+    ]
+  },
+  "83-79-4": {
+    "name": "Rotenone / Rotenon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "831-52-7": {
+    "name": "Sodium picramate / Natri picramat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "83657-18-5": {
+    "name": "(E)-β-((Dichlorphenyl)methylen)-α-(1,1-dimethyl-ethyl)-1H-1,2,4-triazol-1-ethanol / (E)-β-((Diclophenyl)  metylen)-α-(1,1-dimetyl-etyl)-1H-1,2,4-triaz",
+    "appendix": [
+      "II"
+    ]
+  },
+  "84-65-1": {
+    "name": "Anthracene-9,10-dione / Anthracen-9,10-dion",
+    "appendix": [
+      "II"
+    ]
+  },
+  "84-66-2": {
+    "name": "Diethyl phthalate (DEP） / Dietyl phthalat (DEP）",
+    "appendix": [
+      "II"
+    ]
+  },
+  "84-69-5": {
+    "name": "Diisobutyl phthalate (DIBP) / Diisobutyl phthalat (DIBP)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "84-74-2": {
+    "name": "Dibutyl phthalate / Dibutyl phthalat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "84332-86-5": {
+    "name": "Ethyl-3-​(3,5-​dichlorphenyl)​-​5-methyl-​2,4-​dioxo-​5-​oxazolidincarboxylat / Etyl-3-​(3,5-​diclophenyl)​-​5-metyl-​2,4-​dioxo-​5-​oxazolidin  cacbo",
+    "appendix": [
+      "II"
+    ]
+  },
+  "85-42-7": {
+    "name": "Hexahydrophthalic anhydride / Hexahydro phthalic anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "85-43-8": {
+    "name": "Tetrahydrophthalic anhydride / Tetrahydrophthalic anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "85-44-9": {
+    "name": "Phthalic anhydride / Phthalic anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "85-68-7": {
+    "name": "Benzyl butyl phthalate / Benzyl butyl phthalat",
+    "appendix": [
+      "III"
+    ]
+  },
+  "86-50-0": {
+    "name": "Azinphos-methyl / Azinphos-metyl",
+    "appendix": [
+      "III",
+      "IV"
+    ]
+  },
+  "86-57-7": {
+    "name": "1-Nitronaphthalene / 1-Nitronaphthalen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "86-88-4": {
+    "name": "Alpha-naphthyl thiourea / Alpha-naphtyl thiourea",
+    "appendix": [
+      "II"
+    ]
+  },
+  "86763-47-5": {
+    "name": "Propisochlor / Propisochlor",
+    "appendix": [
+      "II"
+    ]
+  },
+  "868-85-9": {
+    "name": "Dimethyl phosphite / Dimethyl phosphite",
+    "appendix": [
+      "III"
+    ]
+  },
+  "87-31-0": {
+    "name": "Diazodinitrophenol / Diazo dinitro phenol",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "87-51-4": {
+    "name": "Indolacetic Aacid / Axit indolacetic",
+    "appendix": [
+      "II"
+    ]
+  },
+  "87-61-6": {
+    "name": "1,2,3-Trichlorbenzene / 1,2,3-Triclo benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "87-62-7": {
+    "name": "2,6-Xylidine / 2,6-Xylidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "87-68-3": {
+    "name": "Hexachloro butadiene / Hexaclo butadien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "87-86-5": {
+    "name": "Pentachlorophenol and its salts and esters / Pentaclophenol và muối và este của  nó",
+    "appendix": [
+      "III"
+    ]
+  },
+  "87-90-1": {
+    "name": "Trichloro isocyanuric acid / Axit triclo isoxyanuric",
+    "appendix": [
+      "II"
+    ]
+  },
+  "873-32-5": {
+    "name": "2-Chlorobenzonitrile / o-chloro benzo nitrile",
+    "appendix": [
+      "III"
+    ]
+  },
+  "87674-68-8": {
+    "name": "(RS)-2-Chloro-N-(2,4-dimethyl-3-thienyl)-N-(2-methoxy-1-methylethyl)  acetamide / (RS)-2-Clo-N-(2,4-dimetyl-3-thienyl)-N-(2-methoxy-1-metyl  ethyl) ac",
+    "appendix": [
+      "II"
+    ]
+  },
+  "88-06-2": {
+    "name": "2,4,6-Trichlorophenol / 2,4,6-Triclophenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "88-16-4": {
+    "name": "Chlorobenzotri fluoride / Clo benzo triflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "88-72-2": {
+    "name": "o-nitrotoluene / Nitrotoluen",
+    "appendix": [
+      "III"
+    ]
+  },
+  "88-73-3": {
+    "name": "1 -Chloro-2-nitrobenzene / 1-Clo-2-nitrobenzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "88-74-4": {
+    "name": "2-Nitroaniline / 2-Nitroanilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "88-75-5": {
+    "name": "1-hydroxy-2-nitrobenzene / 1-hydroxy-2-nitrobenzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "88-85-7": {
+    "name": "Dinoseb (6-sec-butyl-2,4-dinitro phenol) / Dinoseb (6-sec-butyl-2,4-dinitro phenol)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "88-88-0": {
+    "name": "Chlorotrinitro benzene / Clo trinitro benzen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "88-89-1": {
+    "name": "2,4,6-Trinitrophenol (picric acid) / 2,4,6-Trinitrophenol",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "89-52-1": {
+    "name": "1 - Acetylamino - 2 - carboxybenzene / N - acetylanthranilic acid",
+    "appendix": [
+      "III"
+    ]
+  },
+  "89-83-8": {
+    "name": "Thymol / Thymol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "90-04-0": {
+    "name": "o-Anisidine / o-Anisidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "900-95-8": {
+    "name": "Triphenyltin acetate / Triphenyltin acetate",
+    "appendix": [
+      "II"
+    ]
+  },
+  "9004-70-0": {
+    "name": "Nitrocellulose (containing > 12,6% of  nitrogen) / Nitơ xenlulo (hàm lượng > 12,6% nitrogen)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "9007-13-0": {
+    "name": "Calcium resinate / Canxi resinat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "9008-34-8": {
+    "name": "Manganese resinate / Mangan resinat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "9016-45-9": {
+    "name": "Ethoxylated nonylphenol / Nonylphenol ethoxylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "91-08-7": {
+    "name": "2,6- Toluene di-isocyanate / 2,6-Toluen di-isoxyanat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "91-17-8": {
+    "name": "Decahydronaphthalene / Decahydro naphathalen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "91-20-3": {
+    "name": "Naphthalene / Naphthalen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "91-22-5": {
+    "name": "Quinoline / Quinolin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "91-53-2": {
+    "name": "6-Ethoxy-2,2,4-trimethyl-1,2-dihydroquinoline / 6-Ethoxy-2,2,4-trimetyl-1,2-dihydro quinolin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "91-59-8": {
+    "name": "2-naphthyl amine / 2-Naphtyl amin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "91-94-1": {
+    "name": "3,3’-Dichloro benzidine / 3,3’-Diclo benzidin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "919-86-8": {
+    "name": "Demeton-s-methyl (S-2-Ethyl thioethyl O,  O-dimethyl phosphorothioate) / Demeton-s-metyl (S-2-Etyl thioetyl O, O-dimetyl  photphorothioat)",
+    "appendix": [
+      "II"
+    ]
+  },
+  "92-67-1": {
+    "name": "4-Aminobiphenyl / 4-Biphenyl amin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "92-87-5": {
+    "name": "Benzidine ((1,1’-Biphenyl)-4,4'-diamine) / Benzidin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "92-93-3": {
+    "name": "4-Nitro biphenyl / 4-Nitro biphenyl",
+    "appendix": [
+      "III"
+    ]
+  },
+  "926-02-3": {
+    "name": "Tert-Butyl vinyl ether / Butyl vinyl ete",
+    "appendix": [
+      "II"
+    ]
+  },
+  "926-56-7": {
+    "name": "Methyl pentadiene / Metyl pentadien",
+    "appendix": [
+      "II"
+    ]
+  },
+  "926-64-7": {
+    "name": "Dimethyl amino aceto nitril / Dimetyl amino axeto nitril",
+    "appendix": [
+      "II"
+    ]
+  },
+  "927-07-1": {
+    "name": "Tert-butylperoxy pivalate (>77%) / Tert-butylperoxy pivalat (>77%)",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "93-55-0": {
+    "name": "1-phenyl-1-propanone / Propiophenone (P1P)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "93-72-1": {
+    "name": "Silvex / Silvex",
+    "appendix": [
+      "II"
+    ]
+  },
+  "93-76-5": {
+    "name": "(2,4,5-Trichloro phenoxy) acetic acid (2,4,5-T  and its salts and esters) / Axit (2,4,5-triclo phenoxy) axetic",
+    "appendix": [
+      "III"
+    ]
+  },
+  "930-28-9": {
+    "name": "Chlorocyclopentane / Cyclopentyl cloride",
+    "appendix": [
+      "III"
+    ]
+  },
+  "94-36-0": {
+    "name": "Benzoyl peroxide / Benzoyl peroxit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "94-59-7": {
+    "name": "1,3 - Benzodioxole, 5 - (2 -propenyl) / Safrole",
+    "appendix": [
+      "III"
+    ]
+  },
+  "944-22-9": {
+    "name": "O-Ethyl S-phenyl ethylphosphonothiolothionate / 944-22-9",
+    "appendix": [
+      "III"
+    ]
+  },
+  "95-47-6": {
+    "name": "o-Xylene / o-Xylen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-48-7": {
+    "name": "1-Hydroxy-2-methylbenzene / 1-Hydroxy-2-metyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-49-8": {
+    "name": "1-chloro-2-methyl benzene / 1-Clo-2-metyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-50-1": {
+    "name": "o-Dichlorobenzene / O-diclo benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-51-2": {
+    "name": "2-Chloroaniline / 2-Clo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-52-3": {
+    "name": "o-Fluorotoluene / o-Flo toluen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-53-4": {
+    "name": "Toluidine / Toluidin",
+    "appendix": [
+      "III"
+    ]
+  },
+  "95-54-5": {
+    "name": "1,2-Diamino benzene / 1,2-Diamino benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-57-8": {
+    "name": "2-Chloro phenol / Clo phenol",
+    "appendix": [
+      "III"
+    ]
+  },
+  "95-65-8": {
+    "name": "3,4-Xylenol / 3,4-Xylenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-68-1": {
+    "name": "2,4-Xylidine / 2,4-Xylidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-69-2": {
+    "name": "4-Chloro-o-toluidine / 4-Clo-o-toluidine",
+    "appendix": [
+      "III"
+    ]
+  },
+  "95-76-1": {
+    "name": "3,4-Dichloro aniIine / 3,4-Diclo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-79-4": {
+    "name": "5-Chloro-o-toluidine / 5-Clo-o-toluidine",
+    "appendix": [
+      "III"
+    ]
+  },
+  "95-80-7": {
+    "name": "2,4-Diamino toluene / 2,4-Diamino toluen",
+    "appendix": [
+      "III"
+    ]
+  },
+  "95-82-9": {
+    "name": "2,5-Dichloroaniline / 2,5-Diclo anilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-85-2": {
+    "name": "2-Amino-4-chlorophenol / 2-Amino-4-clo phenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95-87-4": {
+    "name": "2,5-Xylenol / 2,5-Xylenol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "95465-99-9": {
+    "name": "S, S -di-sec-Butyl-O-ethyl-phosphorodithioat / S, S -di-sec-Butyl-O-etyl-photpho dithioat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-12-8": {
+    "name": "1,2-Dibromo-3-chloro propane / 1,2-Dibrom-3-clo propan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-22-0": {
+    "name": "3-Pentanone / 3-Pentanon",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-23-1": {
+    "name": "1,3-Dichloro propan-2-ol / 1,3-Diclo propanol-2",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-24-2": {
+    "name": "Glycerol alpha-monochlorohydrin / Glycerol alpha-monoclo hydrin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-33-3": {
+    "name": "Methyl acrylate / Metyl acrylat",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "96-34-4": {
+    "name": "Methyl chloroacetate / Metyl clo axetat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-37-7": {
+    "name": "Methyl cyclopentane / Metyl xyclopentan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-41-3": {
+    "name": "Cyclopentanol / Xyclopentanol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-45-7": {
+    "name": "Ethylene thiourea / Etylen thiourea",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-47-9": {
+    "name": "2-Methyltetrahydrofuran / 2-Metyl tetrahydrofuran",
+    "appendix": [
+      "II"
+    ]
+  },
+  "96-48-0": {
+    "name": "Dihydrofuran-2(3H)-one / Gamma-butyro lactone (GBL)",
+    "appendix": [
+      "III"
+    ]
+  },
+  "97-00-7": {
+    "name": "2,4-Dinitrochloro benzene / 2,4-Dinitro clobenzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-02-9": {
+    "name": "2,4-Dinitro aniline / 2,4-Dinitro aniIin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-56-3": {
+    "name": "O-Aminoazo toluene / o-Aminoazo toluen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-62-1": {
+    "name": "Ethyl isobutyrate / Etyl isobutyrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-63-2": {
+    "name": "Ethyl methacrylate / Etyl metacrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-72-3": {
+    "name": "Isobutyric anhydride / Isobutyric anhydrit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-85-8": {
+    "name": "Isobutyl isobutyrate / Isobutyl isobutyrat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-86-9": {
+    "name": "Isobutyl methacrylate / Isobutyl metacrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-88-1": {
+    "name": "N-Butyl methacrylate / N-butyl metacrylat",
+    "appendix": [
+      "II"
+    ]
+  },
+  "97-96-1": {
+    "name": "2-Ethylbutyraldehyde / 2-Etyl butyl andehit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-00-0": {
+    "name": "Furfuryl alcohol / Furfuryl alcohol",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-07-7": {
+    "name": "Benzo trichloride / Benzo triclorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-08-8": {
+    "name": "Benzo trifluoride (Trifluorotoluene) / Benzo triflorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-09-9": {
+    "name": "Benzene sulfonyl chloride / Benzen sunphonyl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-13-5": {
+    "name": "Phenyl trichloro silane / Phenyl triclo silan",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-47-5": {
+    "name": "3-Nitrobenzene sulfonic acid / 3-Nitrobenzen sunphonic axit",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-51-1": {
+    "name": "Butyltoluene (p-tert-Butyl toluene) / Butyl toluen",
+    "appendix": [
+      "III"
+    ]
+  },
+  "98-82-8": {
+    "name": "Cumene / Cumen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-83-9": {
+    "name": "Isopropenyl benzene / Isopropenyl benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-87-3": {
+    "name": "Benzal chloride / Benzal clorua",
+    "appendix": [
+      "III"
+    ]
+  },
+  "98-88-4": {
+    "name": "Benzoyl chloride / Benzoyl clorua",
+    "appendix": [
+      "II"
+    ]
+  },
+  "98-95-3": {
+    "name": "Nitrobenzene / Nitrobenzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "99-09-2": {
+    "name": "3-Nitroaniline / 3-Nitroanilin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "99-30-9": {
+    "name": "2,6-Dichlor-4-nitroanilin / Dicloran",
+    "appendix": [
+      "III"
+    ]
+  },
+  "99-35-4": {
+    "name": "Trinitrobenzene / 1,3,5-Trinitro benzen",
+    "appendix": [
+      "IV"
+    ]
+  },
+  "99-65-0": {
+    "name": "1,3-Dinitro benzene / 1,3-Dinitro benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "99-87-6": {
+    "name": "Cymenel-methyl-4-(1-methy lethyl) benzene / Xymenel-metyl-4-(1-metyl etyl) benzen",
+    "appendix": [
+      "II"
+    ]
+  },
+  "99-97-8": {
+    "name": "N,N-Dimethyl-p-toluidine / N,N-dimetyl-p-toluidin",
+    "appendix": [
+      "II"
+    ]
+  },
+  "99688-47-8": {
+    "name": "Monomethyl-dibromo-diphenyl methane (Trade name:  DBBT) / Monometyl-dibrom-diphenyl metan",
+    "appendix": [
+      "II"
+    ]
+  }
+}

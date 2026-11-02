@@ -1,0 +1,31 @@
+fastapi==0.115.9
+uvicorn==0.34.2
+gunicorn==23.0.0
+pydantic==2.11.4
+# pydantic-ai>=0.0.14
+# pydantic-ai-slim
+pydantic-ai==0.8.1
+pydantic-ai-slim==0.8.1
+griffe
+httpx==0.28.1
+aiohttp==3.11.18
+llama-index==0.12.39
+llama-index-vector-stores-mongodb==0.6.0
+llama-index-llms-openai==0.4.1
+llama-index-llms-anthropic==0.6.10
+llama-index-llms-gemini==0.4.14
+llama-index-postprocessor-cohere-rerank==0.3.0
+llama-index-embeddings-gemini
+python-dotenv==1.1.0
+openai
+anthropic
+google-generativeai
+qdrant-client==1.14.2
+llama-index-vector-stores-qdrant==0.6.0
+elasticsearch==8.19.1
+neo4j==5.28.2
+arize-phoenix-otel==0.8
+openinference-instrumentation-llama-index==4.0.0
+python-multipart==0.0.20
+loguru==0.7.3
+logfire>=4.14.1

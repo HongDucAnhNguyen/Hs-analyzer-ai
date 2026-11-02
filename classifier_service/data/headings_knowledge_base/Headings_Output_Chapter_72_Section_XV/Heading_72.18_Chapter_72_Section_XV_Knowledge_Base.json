@@ -1,0 +1,58 @@
+{
+  "heading_id": "72.18",
+  "heading_title": {
+    "vi": "Thép không gỉ ở dạng thỏi đúc hoặc dạng thô khác; bán thành phẩm của thép không gỉ.",
+    "en": "Stainless steel in ingots or other primary forms; semi-finished products of stainless steel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thép không gỉ ở dạng thỏi đúc, dạng thô khác và bán thành phẩm của thép không gỉ. Các quy định trong Chú giải của nhóm 72.06 và 72.07 cũng được áp dụng cho các sản phẩm thuộc nhóm này, với những sửa đổi phù hợp.",
+    "en": "This heading covers stainless steel in ingots or other primary forms, and semi-finished products of stainless steel. The provisions of the Explanatory Note to headings 72.06 and 72.07 apply, mutatis mutandis, to the products of this heading."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Những điều khoản của Chú giải cho các nhóm 72.06 và 72.07, với những sửa đổi thích hợp áp dụng cho các sản phẩm thuộc nhóm này.",
+        "en": "The provisions of the Explanatory Note to headings 72.06 and 72.07 apply, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7218.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ở dạng thỏi đúc và các dạng thô khác",
+        "en": "Ingots and other primary forms"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7218.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có mặt cắt ngang hình chữ nhật (trừ hình vuông)",
+        "en": "- - Of rectangular (other than square) cross-section"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7218.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

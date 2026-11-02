@@ -1,0 +1,115 @@
+{
+  "heading_id": "72.12",
+  "heading_title": {
+    "vi": "Các sản phẩm sắt hoặc thép không hợp kim cán phẳng, có chiều rộng dưới 600mm, đã dát phủ (clad), phủ, mạ (coated) hoặc tráng (plated) (+).",
+    "en": "Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 72.12 phân loại các sản phẩm sắt hoặc thép không hợp kim cán phẳng có chiều rộng dưới 600mm đã được dát phủ, phủ, mạ hoặc tráng. Về cơ bản, đây là các sản phẩm tương tự như trong nhóm 72.10 nhưng có kích thước chiều rộng nhỏ hơn. Nhóm này loại trừ các sản phẩm dải cách điện thuộc nhóm 85.44. Chú giải phân nhóm của nhóm này tham chiếu đến các chú giải của nhóm 72.10 để phân loại các sản phẩm chịu nhiều hơn một quá trình xử lý bề mặt. Cụ thể, chú giải cho các phân nhóm 7212.20 và 7212.30 tham chiếu đến chú giải của các phân nhóm 7210.30, 7210.41 và 7210.49.",
+    "en": "Heading 72.12 classifies flat-rolled products of iron or non-alloy steel with a width of less than 600mm that have been clad, plated, or coated. These are essentially the same products as in heading 72.10 but with a smaller width. This heading excludes insulated electric strip of heading 85.44. The subheading explanatory notes refer to the notes of heading 72.10 for classifying products that have undergone more than one surface treatment process. Specifically, the notes for subheadings 7212.20 and 7212.30 refer to the explanatory notes for subheadings 7210.30, 7210.41, and 7210.49."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các sản phẩm tương tự như được mô tả trong nhóm 72.10 nhưng phải có chiều rộng dưới 600 mm.",
+        "en": "This heading covers the same kind of products as described in heading 72.10 but, to fall in this heading, they must be of a width of less than 600 mm."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm dải cách điện (nhóm 85.44).",
+        "en": "This heading does not cover insulated electric strip (heading 85.44)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm: Đối với các sản phẩm đã chịu nhiều hơn một quá trình bọc, phủ, hoặc mạ, cần tham khảo Chú giải cho các phân nhóm thuộc nhóm 72.10.",
+        "en": "Subheading Explanatory Notes: See the Explanatory Note to the subheadings of heading 72.10 in respect of products subjected to more than one type of coating, plating or cladding."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm 7212.20, 7212.30: Tham khảo Chú giải cho các phân nhóm 7210.30, 7210.41, và 7210.49.",
+        "en": "Subheadings 7212.20 and 7212.30: See the Explanatory Note to subheadings 7210.30, 7210.41 and 7210.49."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7212.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Được phủ, mạ hoặc tráng thiếc",
+        "en": "Plated or coated with tin"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7212.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Được phủ, mạ hoặc tráng kẽm bằng phương pháp điện phân",
+        "en": "Electrolytically plated or coated with zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7212.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Được phủ, mạ hoặc tráng kẽm bằng phương pháp khác",
+        "en": "Otherwise plated or coated with zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7212.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Được sơn, quét vécni hoặc phủ plastic",
+        "en": "Painted, varnished or coated with plastics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7212.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Được phủ, mạ hoặc tráng bằng phương pháp khác",
+        "en": "Otherwise plated or coated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7212.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Được dát phủ",
+        "en": "Clad"
+      }
+    }
+  ]
+}

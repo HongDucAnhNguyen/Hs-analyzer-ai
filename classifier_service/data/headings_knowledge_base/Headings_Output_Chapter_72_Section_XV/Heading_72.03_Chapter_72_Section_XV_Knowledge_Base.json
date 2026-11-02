@@ -1,0 +1,53 @@
+{
+  "heading_id": "72.03",
+  "heading_title": {
+    "vi": "Các sản phẩm chứa sắt được hoàn nguyên trực tiếp từ quặng sắt và các sản phẩm sắt xốp khác, dạng tảng, cục hoặc các dạng tương tự; sắt có độ tinh khiết tối thiểu là 99,94%, ở dạng tảng, cục hoặc các dạng tương tự.",
+    "en": "Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99.94 %, in lumps, pellets or similar forms."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hai loại sản phẩm chính: (1) Các sản phẩm chứa sắt được sản xuất bằng cách hoàn nguyên quặng sắt không nung chảy (sắt xốp), thường chứa hơn 80% sắt kim loại theo trọng lượng và có cấu trúc xốp. Chúng được dùng trong sản xuất thép. Cần phân biệt chúng với quặng kết tinh thuộc nhóm 26.01. (2) Sắt rất nguyên chất, có độ tinh khiết tối thiểu 99,94% theo trọng lượng (hàm lượng tạp chất không vượt quá 0,06%), được sử dụng trong phòng thí nghiệm và một số ngành công nghiệp gia công sắt.\n\nNhóm này không bao gồm bùi nhùi bằng thép, đôi khi được gọi là 'vật liệu xốp bằng thép' (nhóm 73.23).",
+    "en": "This heading covers two main types of products: (1) Ferrous products produced by reducing iron ore without fusion (sponge iron), usually containing more than 80% by weight of metallic iron and having a spongy structure. They are used in steel manufacturing. They should be distinguished from concentrated ores of heading 26.01. (2) Very pure iron, having a minimum purity of 99.94% by weight (impurity content not exceeding 0.06%), used in research laboratories and certain branches of the iron-working industry.\n\nThe heading excludes steel wool, sometimes known as 'steel sponge' (heading 73.23)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các sản phẩm có chứa sắt bằng cách hoàn nguyên quặng sắt không nung chảy (xem các Chú giải chung cho Chương này, phần (I) - (B)). Những sản phẩm này thu được từ quặng ở dạng cục hoặc hạt hoặc thu được từ quặng tinh ở dạng bánh hoặc viên. Chúng thường chứa hơn 80% sắt kim loại theo trọng lượng và có một cấu trúc xốp (sắt xốp). Chúng được sử dụng trong sản xuất thép. Các sản phẩm thuộc nhóm này, ở dạng bánh hoặc hạt viên, không được lẫn với những sản phẩm bao gồm quặng kết tinh thuộc nhóm 26.01; sản phẩm được đề cập trước khác với những sản phẩm sau đáng chú ý là bởi bề ngoài sáng bóng của mặt cắt của chúng.\nCác sản phẩm có chứa sắt thu được bằng việc hoàn nguyên trực tiếp sẽ dễ dàng phân biệt với các sản phẩm có chứa sắt xốp khác (thu được từ gang thỏi nóng chảy bằng kỹ thuật phun mù) bởi thực tế rằng các sản phẩm được đề cập trước có bề mặt thô nhám và rỗ, nhưng trái lại loại sau có một bề mặt hình tròn biểu hiện rõ ràng rằng nó đã đi qua trạng thái nóng chảy.\nNhóm này còn bao gồm sắt rất nguyên chất (có nghĩa là sắt có một hàm lượng tạp chất không vượt quá 0,06%). Sắt này, được sử dụng trong các phòng thí nghiệm nghiên cứu và một số ngành của công nghiệp gia công sắt (ví dụ trong ngành luyện kim bột), là một chất pha loãng tốt cho các kim loại.",
+        "en": "This heading covers ferrous products produced by reducing the ore without fusion (see the General Explanatory Notes to this Chapter, Part (I) - (B). These products are obtained from ore in lumps or in granules or from concentrated ore in the form of briquettes or pellets. They usually contain more than 80 % by weight of metallic iron and have a spongy structure (sponge iron). They are used in the manufacture of steel. The products of this heading, in the form of briquettes or pellets, should not be confused with those consisting of concentrated ores of heading 26.01; the former differ from the latter, notably, by the shiny appearance of their cut surface.\nFerrous products obtained by direct reduction are easily differentiated from other spongy ferrous products (obtained from molten pig iron by the atomisation technique) by the fact that the former has a rough and porous surface, whereas the latter has a rounded surface showing clearly that it has gone through the molten state.\nThe heading also covers very pure iron (i.e., iron having an impurity content not exceeding 0.06 %). This iron, used in research laboratories and by certain branches of the iron-working industry (e.g., in powder metallurgy), is a good diluent for metals."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm bùi nhùi bằng thép, ..., đôi khi được biết như \"vật liệu xốp bằng thép\" (nhóm 73.23).",
+        "en": "The heading also excludes steel wool, etc., sometimes known as “steel sponge” (heading 73.23)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7203.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các sản phẩm chứa sắt được hoàn nguyên trực tiếp từ quặng sắt",
+        "en": "Ferrous products obtained by direct reduction of iron ore"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7203.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

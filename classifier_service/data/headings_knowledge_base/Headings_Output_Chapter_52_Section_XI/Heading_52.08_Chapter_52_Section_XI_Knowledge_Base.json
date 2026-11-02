@@ -1,0 +1,250 @@
+{
+  "heading_id": "52.08",
+  "heading_title": {
+    "vi": "Vải dệt thoi từ bông, có hàm lượng bông chiếm từ 85% trở lên tính theo khối lượng, định lượng không quá 200 g/m2",
+    "en": "Woven fabrics of cotton, containing 85 % or more by weight of cotton, weighing not more than 200 g/m2."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại vải dệt thoi có hàm lượng bông từ 85% trở lên tính theo khối lượng và có định lượng không quá 200 g/m2. Các loại vải này được sử dụng để may quần áo, vải lanh gia dụng, khăn trải giường, rèm cửa, và các mặt hàng nội thất khác. Nhóm này không bao gồm: (a) Băng y tế (nhóm 30.05); (b) Vải của nhóm 58.01; (c) Vải khăn lông (nhóm 58.02); (d) Vải dệt quấn (nhóm 58.03); (e) Vải dệt thoi dùng cho mục đích kỹ thuật (nhóm 59.11).",
+    "en": "This heading covers woven fabrics containing 85% or more by weight of cotton and weighing not more than 200 g/m2. These fabrics are used for making clothing, household linen, bedspreads, curtains, and other furnishing articles. This heading does not include: (a) Medicated bandages (heading 30.05); (b) Fabrics of heading 58.01; (c) Terry towelling (heading 58.02); (d) Gauze (heading 58.03); (e) Woven fabrics for technical uses (heading 59.11)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này gồm cả những loại vải dệt thoi (như đã chỉ rõ trong Phần (I) (C) của Chú giải tổng quát Phần XI) mà trọng lượng không vượt quá 200g/m2, có tỷ trọng bông từ 85% trở lên.\nVải dệt bông được sản xuất bằng nhiều phương pháp khác nhau và được sử dụng phù hợp với đặc tính của nó, như sản xuất để làm quần áo, vải lanh dùng trong gia đình, khăn trải giường, rèm cửa và các mặt hàng nội thất khác...\nNhóm này không bao gồm:\n(a) Băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05).\n(b) Các loại vải dệt của nhóm 58.01.\n(c) Vải khăn lông và các loại vải dệt thoi tạo vòng lông tương tự (nhóm 58.02).\n(d) Vải dệt quấn (nhóm 58.03).\n(e) Vải dệt thoi phục vụ cho kỹ thuật của nhóm 59.11.",
+        "en": "This heading covers woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI) weighing not more than 200 g/m2, containing 85 % or more by weight of cotton.\nCotton fabrics are produced in great variety and are used, according to their characteristics, for making clothing, household linen, bedspreads, curtains, other furnishing articles, etc.\nThe heading does not include:\n(a) Bandages, medicated or put up for retail sale (heading 30.05).\n(b) Fabrics of heading 58.01.\n(c) Terry towelling and similar terry fabrics (heading 58.02).\n(d) Gauze (heading 58.03).\n(e) Woven fabrics for technical uses, of heading 59.11."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5208.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng không quá 100 g/m2",
+        "en": "Plain weave, weighing not more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5208.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng trên 100g/ m2",
+        "en": "Plain weave, weighing more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5208.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo dấu nhân",
+        "en": "3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Chưa tẩy trắng:",
+        "en": "Unbleached:"
+      },
+      "subheading_id": "5208.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã tẩy trắng:",
+        "en": "Bleached:"
+      },
+      "subheading_id": "5208.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng không quá 100g/ m2",
+        "en": "Plain weave, weighing not more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã tẩy trắng:",
+        "en": "Bleached:"
+      },
+      "subheading_id": "5208.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng trên 100g/ m2",
+        "en": "Plain weave, weighing more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã tẩy trắng:",
+        "en": "Bleached:"
+      },
+      "subheading_id": "5208.23",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo dấu nhân",
+        "en": "3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã tẩy trắng:",
+        "en": "Bleached:"
+      },
+      "subheading_id": "5208.29",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5208.31",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng không quá 100g/ m2",
+        "en": "Plain weave, weighing not more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5208.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng trên 100g/ m2",
+        "en": "Plain weave, weighing more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5208.33",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vải vân chéo dấu nhân.",
+        "en": "3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã nhuộm:",
+        "en": "Dyed:"
+      },
+      "subheading_id": "5208.39",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5208.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng không quá 100g/ m2",
+        "en": "Plain weave, weighing not more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5208.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng trên 100g/ m2",
+        "en": "Plain weave, weighing more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5208.43",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân chéo 3 sợi hoặc vân chéo 4 sợi, kể cả vân chéo dấu nhân.",
+        "en": "3-thread or 4-thread twill, including cross twill"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Từ các sợi có các màu khác nhau:",
+        "en": "Of yarns of different colours:"
+      },
+      "subheading_id": "5208.49",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5208.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng không quá 100g/ m2",
+        "en": "Plain weave, weighing not more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5208.52",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải vân điểm, định lượng trên 100g/ m2",
+        "en": "Plain weave, weighing more than 100 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Đã in:",
+        "en": "Printed:"
+      },
+      "subheading_id": "5208.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Vải dệt khác",
+        "en": "Other fabrics"
+      }
+    }
+  ]
+}

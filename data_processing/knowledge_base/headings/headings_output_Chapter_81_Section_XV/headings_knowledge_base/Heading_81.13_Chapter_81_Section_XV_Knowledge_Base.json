@@ -1,0 +1,28 @@
+{
+  "heading_id": "81.13",
+  "heading_title": {
+    "vi": "Gốm kim loại và các sản phẩm làm từ gốm kim loại, kể cả phế liệu và mảnh vụn.",
+    "en": "Cermets and articles thereof, including waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm 81.13 bao gồm gốm kim loại (cermets), các sản phẩm làm từ chúng, cùng phế liệu và mảnh vụn. Gốm kim loại là vật liệu được tạo thành từ sự kết hợp của thành phần gốm chịu nhiệt (như oxit, cacbua, borua) và thành phần kim loại (như sắt, niken, nhôm, crôm, coban). Các loại chính bao gồm hợp chất kim loại-ôxit, borua zirconium hoặc crôm (borolites), cacbua của vonfram hoặc crôm, và cacbua bo với nhôm (boral cermets). Nhóm này áp dụng cho gốm kim loại ở dạng chưa gia công hoặc các sản phẩm cụ thể không được phân loại ở nơi khác. Các sản phẩm này được sử dụng trong các ngành công nghiệp hàng không, hạt nhân, tên lửa, cũng như trong các lò luyện kim. Tuy nhiên, nhóm này loại trừ gốm kim loại chứa chất phân hạch hoặc phóng xạ (nhóm 28.44) và các sản phẩm như tấm, que, đầu mẩu dùng làm dụng cụ có nền là cacbua kim loại thiêu kết (nhóm 82.09).",
+    "en": "Heading 81.13 covers cermets, articles thereof, and their waste and scrap. Cermets are materials formed from a combination of a heat-resistant ceramic component (such as oxides, carbides, borides) and a metallic component (such as iron, nickel, aluminum, chromium, cobalt). Main types include metal-oxide compounds, zirconium or chromium borides (borolites), carbides of tungsten or chromium, and boron carbide with aluminum (boral cermets). The heading applies to cermets in unwrought form or as specific articles not classified elsewhere. These products are used in industries like aerospace, nuclear, and missiles, as well as in furnaces. However, this heading excludes cermets containing fissile or radioactive substances (heading 28.44) and products like plates, sticks, and tips for tools with a basis of sintered metal carbides (heading 82.09)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Gốm kim loại chứa cả hai cấu thành: một cấu thành là gốm (chịu nhiệt và có điểm nóng chảy cao) và một cấu thành là kim loại. Các tính chất và quá trình sản xuất của chúng liên quan đến cả hai cấu thành này. Cấu thành gốm thường bao gồm oxit, cacbua, borua. Cấu thành kim loại gồm sắt, niken, nhôm, crôm hoặc coban. Gốm kim loại được chế tạo bằng cách thiêu kết, phân tán hoặc các quá trình khác. Các loại gốm kim loại quan trọng nhất bao gồm: (1) Kim loại và một ôxit, ví dụ: ôxit magie-sắt, ôxit magie-niken, ôxit nhôm-crôm, ôxit nhôm-nhôm. (2) Zirconium hoặc borua crôm (borolites). (3) Cacbua của Zirconium, crôm, tungsten với coban, niken hoặc niobium. (4) Cacbua bo và nhôm (gốm kim loại boral). Nhóm này bao gồm gốm kim loại chưa gia công hoặc ở dạng sản phẩm không được phân loại ở nơi khác. Chúng được sử dụng trong công nghiệp hàng không, hạt nhân, tên lửa, lò đốt và lò đúc kim loại.",
+        "en": "Cermets contain both a ceramic constituent (resistant to heat and with a high melting point) and a metallic constituent. The manufacturing processes used in the production of these products, and also their physical and chemical properties, are related both to their ceramic and metallic constituents. The ceramic constituent usually consists of oxides, carbides, borides, etc. The metal component consists of a metal such as iron, nickel, aluminium, chromium or cobalt. Cermets are made by sintering, by dispersion or by other processes. The most important cermets are obtained from : (1) A metal and an oxide, e.g., iron-magnesium oxide; nickel- magnesium oxide; chromium-aluminium oxide; aluminium- aluminium oxide. (2) Zirconium or chromium borides; these products are known as borolites. (3) Zirconium, chromium, tungsten, etc. carbides with cobalt, nickel or niobium. (4) Boron carbide and aluminium: aluminium-clad products known as boral cermets. The heading covers cermets, whether unwrought or in the form of articles not elsewhere specified in the Nomenclature. Cermets are used in the aircraft and nuclear industries and in missiles. They are also used in furnaces and metal foundries (e.g., as pots, spouts, tubes)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Gốm kim loại cũng được sử dụng trong việc sản xuất các ổ trục và lớp lót phanh. Nhóm này không bao gồm: (a) Gốm kim loại chứa các chất phân hạch hoặc phóng xạ (nhóm 28.44). (b) Các tấm, que, các đầu mẩu và những thứ tương tự để làm dụng cụ bằng gốm kim loại với nền tảng là cacbua kim loại được kết tụ bằng quá trình thiêu kết (nhóm 82.09).",
+        "en": "The heading excludes: (a) Cermets containing fissile or radioactive substances (heading 28.44). (b) Plates, sticks, tips and the like for tools, of cermets with a basis of metal carbides agglomerated by sintering (heading 82.09)."
+      }
+    }
+  ],
+  "subheadings": []
+}

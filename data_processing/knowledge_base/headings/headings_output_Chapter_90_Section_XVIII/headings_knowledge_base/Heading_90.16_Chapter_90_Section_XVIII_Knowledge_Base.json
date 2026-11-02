@@ -1,0 +1,28 @@
+{
+  "heading_id": "90.16",
+  "heading_title": {
+    "vi": "Cân với độ nhậy 5cg (50mg) hoặc chính xác hơn, có hoặc không có quả cân.",
+    "en": "Balances of a sensivity of 5 eg or better, with or without weights."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại cân, kể cả cân điện tử, có độ nhạy từ 5 centigam (50mg) trở lên. Các quả cân đi kèm với cân cũng được phân loại trong nhóm này, tuy nhiên, các quả cân được trình bày riêng lẻ thuộc nhóm 84.23. Các loại cân thuộc nhóm này thường được chế tạo để đo lường chính xác, sử dụng vật liệu không gỉ và có thể được đặt trong hộp kính hoặc nhựa để bảo vệ. Nhóm này bao gồm các loại cân cụ thể như cân phân tích, cân thử nghiệm kim loại quý, cân đá quý, cân của dược sỹ, cân sợi, cân mẫu và cân thủy tĩnh. Các bộ phận và phụ kiện chuyên dụng cũng được bao gồm, trừ chân đế loại một chân, hai chân, ba chân (nhóm 96.20). Các loại cân có độ nhạy kém hơn 5cg bị loại trừ và thuộc nhóm 84.23.",
+    "en": "This heading covers all types of balances, including electronic ones, with a sensitivity of 5 centigrams (50mg) or better. Weights presented with the balances are also classified here; however, weights presented separately fall under heading 84.23. Balances of this heading are typically designed for precision measurement, made of non-corrosive materials, and may be enclosed in glass or plastic cases for protection. The heading includes specific types such as analytical balances, assay balances for precious metals, balances for precious stones, chemists' balances, yarn balances, sample balances, and hydrostatic balances. Specialized parts and accessories are also included, with the exception of monopods, bipods, and tripods (heading 96.20). Balances with a sensitivity poorer than 5cg are excluded and belong to heading 84.23."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các loại cân, kể cả cân điện tử, với điều kiện độ nhạy của chúng là 5cg hoặc chính xác hơn. Quả cân được trình bày cùng với cân đó thuộc nhóm này, nhưng quả cân trình bày riêng lẻ, ngay cả khi làm bằng kim loại quý, bị loại trừ (nhóm 84.23). Nhiều loại cân trong nhóm này được làm bằng kim loại không gỉ hoặc hợp kim nhẹ, với dao cân, vòng đệm và mặt cân bằng đá mã não. Chúng có thể được đặt trong vỏ bằng thủy tinh hoặc nhựa, trang bị thiết bị quang học (kính lúp), chiếu sáng nhân tạo, hoặc thiết bị cân bằng (giá ba chân, vít hãm, thanh đo cân bằng). Một số loại cân đặc biệt là cân xoắn và cân điện tử sử dụng trong chân không hoặc dưới áp suất được kiểm soát.",
+        "en": "This heading covers all types of balances, including electronic balances, provided their sensitivity is 5 cg or better. Weights presented with such balances fall in this heading, but weights presented separately, even if made of precious metal, are excluded (heading 84.23). Many balances of this heading are made of non-corrosive metal or light alloys, with knife-edges, bearings and planes of agate. They may be enclosed in a glass or plastics case, fitted with an optical device (e.g., magnifying lens), artificially illuminated, or fitted with levelling devices (tripod, adjustable screws, spirit-level). Specific types include torsion balances and certain electronic balances used in a vacuum or under controlled pressure."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm: (1) Cân phân tích (ví dụ, cân hiển vi hoá học, cân vi tiểu, cân phân tích không chu kỳ); (2) Cân thử nghiệm kim loại quý; (3) Cân đá quý; (4) Cân tiểu ly của dược sỹ, cân sợi, cân mẫu (để xác định trọng lượng vải dệt, giấy); (5) Cân thủy tĩnh (đo trọng lượng riêng). Các bộ phận và phụ kiện phù hợp để chỉ dùng hoặc chủ yếu dùng cho các cân này (ví dụ: đòn cân, đĩa cân, hộp cân, mặt số, bộ phận giảm rung) cũng được phân loại tại đây. Các mặt hàng bị loại trừ là chân đế loại một chân, hai chân, ba chân (nhóm 96.20) và cân có độ nhạy kém hơn 5cg (nhóm 84.23).",
+        "en": "The heading includes: (1) Analytical balances (e.g., microchemical balances, microbalances, aperiodic analytical balances); (2) Assay balances for precious metals; (3) Balances for precious stones; (4) Chemists’ balances, yarn balances, sample balances (for paper, textile fabrics); (5) Hydrostatic (or specific gravity) balances. Parts and accessories identifiable as being for use solely or principally with these balances (for example, beams, trays, cabinets, dials, swing dampers) are also classified here. Excluded are monopods, bipods, tripods (heading 96.20) and balances of a sensitivity poorer than 5 cg (heading 84.23)."
+      }
+    }
+  ],
+  "subheadings": []
+}

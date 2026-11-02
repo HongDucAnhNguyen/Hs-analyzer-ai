@@ -1,0 +1,28 @@
+{
+  "heading_id": "86.04",
+  "heading_title": {
+    "vi": "Xe bảo dưỡng hoặc phục vụ dùng trong đường sắt hoặc đường tàu điện, loại tự hành hoặc không (ví dụ, toa xưởng, xe gắn cần cẩu, máy chèn đường, máy đặt ray, toa xe thử nghiệm và xe kiểm tra đường ray)",
+    "en": "Railway or tramway maintenance or service vehicles, whether or not self-propelled (for example, workshops, cranes, ballast tampers, trackliners, testing coaches and track inspection vehicles)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các phương tiện bảo dưỡng hoặc phục vụ dùng cho đường sắt hoặc tàu điện, có hoặc không tự hành, được thiết kế đặc biệt để lắp đặt, bảo dưỡng và duy tu đường ray và các cấu trúc dọc theo đường ray. Các ví dụ bao gồm toa xưởng, xe cần cẩu, xe chèn đá, xe phun diệt cỏ dại, xe thử nghiệm, và các loại xe goòng kiểm tra đường. Nhóm này loại trừ các máy móc, thiết bị đo đạc và các thiết bị khác khi được định vị trên một bệ có bánh xe đơn giản và không lắp trên các khung gầm đường sắt hoặc tàu điện đích thực (chúng được phân loại vào các nhóm cụ thể hơn như 84.25, 84.26, 84.28, 84.29, 84.30, v.v...).",
+    "en": "This heading covers railway or tramway maintenance or service vehicles, whether or not self-propelled, specially designed for use in the installation, servicing and maintenance of the permanent way and structures alongside the track. Examples include workshop vans, crane-vehicles, ballast tampers, spraying vans, testing coaches, and track inspection trolleys. The heading excludes machines, measuring instruments and other equipment when mounted on simple wheeled platforms and not on true railway or tramway underframes (they fall in other more specific headings such as 84.25, 84.26, 84.28, 84.29, 84.30, etc.)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các phương tiện thuộc nhóm này, tự hành hay không tự hành, được thiết kế chủ yếu theo mục đích sử dụng, ví dụ, trong việc lắp đặt đường sắt, phục vụ và bảo dưỡng các nền và cấu trúc nằm dọc theo đường ray. Nhóm này bao gồm:\n(1) Loại xe sửa chữa (workshop van) có trang bị dụng cụ, máy công cụ, máy phát điện, máy nâng (kích, palăng,...), các thiết bị hàn, dây xích, cáp ....\n(2) Cần cẩu cứu hộ và các loại cần cẩu khác; đầu máy hoặc cần cẩu nâng toa; cần cẩu để nâng hoặc đặt đường ray; cần cẩu để xếp hoặc dỡ hàng hoá tại các nhà ga.\n(3) Xe có tời kéo.\n(4) Xe được gắn thiết bị đặc biệt để dọn hoặc chèn đá đường ray.\n(5) Xe được gắn máy trộn bê tông sử dụng trên đường ray (đối với móng của cột treo cáp điện).\n(6) Xe để kiểm định độ chịu tải của cầu.\n(7) Các xe có giàn giáo để lắp đặt và bảo dưỡng đường cáp điện.\n(8) Các xe phun diệt cỏ dại.\n(9) Các phương tiện tự hành dùng cho việc bảo dưỡng đường ray (ví dụ xe nắn đường ray).\n(10) Các xe thử nghiệm đường ray có gắn thiết bị đặc biệt như dụng cụ tự động kiểm tra sự vận hành của động cơ, phanh…\n(11) Các xe goòng kiểm tra đường loại có cơ cấu đẩy kể cả xe đạp trên ray được trang bị động cơ.\n(12) Các xe goòng kiểm tra đường loại không có cơ cấu đẩy, bao gồm xe đạp trên ray.",
+        "en": "The vehicles covered by this heading, whether or not self-propelled, are specially designed for use, e.g., in the installation, servicing and maintenance of the permanent way and structures alongside the track. The heading includes:\n(1) Workshop vans and trucks fitted with tools, machine-tools, electric generators, lifting machinery (jacks, hoists, etc.), welding equipment, chains, cables, etc.\n(2) Breakdown and other crane-vehicles; locomotive or coach lifting crane-vehicles; crane-vehicles for lifting or placing rails; crane-vehicles for loading and unloading at station platforms.\n(3) Winch trucks.\n(4) Trucks fitted with special equipment for cleaning or tamping ballast.\n(5) Trucks fitted With machinery for mixing cement for use on the track (for the foundations of electric cable pylons, etc.).\n(6) Trucks for calibrating weigh-bridges.\n(7) Scaffold trucks for the installation and maintenance of electric cables.\n(8) Spraying vans for weed-killing.\n(9) Self-propelled vehicles for track maintenance (in particular, railway trackliners).\n(10) Railway testing coaches fitted with special equipment such as automatic instruments for checking the working of the engine, brakes, etc.\n(11) Mechanically-propelled track inspection trolleys, including motorised rail-cycles.\n(12) Non-mechanically-propelled track inspection trolleys, including rail-cycles."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Khi được định vị trên một bệ có bánh xe và không lắp trên các khung gầm đường sắt hoặc tàu điện đích thực (do đó, không tạo thành tòa xe đường sắt và tàu điện đích thực), các máy móc, thiết bị đo đạc và các thiết bị khác, bị loại trừ khỏi nhóm này và được xếp trong các nhóm cụ thể hơn (nhóm 84.25, 84.26, 84.28, 84.29, 84.30 v.v...).",
+        "en": "When mounted on simple wheeled platforms and not on true railway or tramway underframes (not constituting, therefore, true railway or tramway rolling-stock), machines, measuring instruments and other equipment, are excluded from this heading and fall in other more specific headings (headings 84.25, 84.26, 84.28, 84.29, 84.30, etc.)."
+      }
+    }
+  ],
+  "subheadings": []
+}

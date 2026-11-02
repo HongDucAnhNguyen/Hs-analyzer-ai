@@ -1,0 +1,178 @@
+{
+  "chapter_id": "76",
+  "chapter_title": {
+    "vi": "Nhôm và các sản phẩm bằng nhôm",
+    "en": "Aluminium and articles thereof"
+  },
+  "summary": {
+    "vi": "Chương 76 bao gồm nhôm, hợp kim nhôm và các sản phẩm làm từ chúng. Phạm vi của chương trải dài từ nhôm chưa gia công, phế liệu và mảnh vụn (nhóm 76.01, 76.02) đến các sản phẩm đã qua chế biến như bột, vảy, thanh, dây, tấm, lá mỏng, ống (nhóm 76.03 đến 76.08) và các sản phẩm hoàn thiện khác. Chú giải của chương đưa ra các định nghĩa kỹ thuật quan trọng để phân biệt \"nhôm không hợp kim\" (hàm lượng nhôm tối thiểu 99%) và \"hợp kim nhôm\" dựa trên tỷ lệ phần trăm của các nguyên tố khác như Sắt, Silic và Đồng. Ngoài ra, chú giải còn định nghĩa \"dây\" cho mục đích của phân nhóm 7616.91 là sản phẩm có kích thước mặt cắt ngang không quá 6 mm. Chương này loại trừ hydroxit và oxit nhôm (Chương 28), gốm kim loại thiêu kết (nhóm 81.13), và các sản phẩm được quy định cụ thể hơn ở Chương 82 hoặc 83.",
+    "en": "Chapter 76 covers aluminium, its alloys, and articles made thereof. The chapter's scope ranges from unwrought aluminium, waste, and scrap (headings 76.01, 76.02) to worked products like powders, flakes, bars, wires, plates, foil, tubes (headings 76.03 to 76.08), and other finished articles. The chapter notes provide crucial technical definitions to distinguish 'aluminium, not alloyed' (minimum 99% aluminium content) from 'aluminium alloys' based on the percentage of other elements such as Iron, Silicon, and Copper. Additionally, a note defines 'wire' for the purpose of subheading 7616.91 as products with a cross-sectional dimension not exceeding 6 mm. This chapter excludes aluminium hydroxide and oxide (Chapter 28), sintered cermets (heading 81.13), and articles more specifically covered in Chapter 82 or 83."
+  },
+  "notes": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm 1: Định nghĩa các khái niệm:\n(a) Nhôm, không hợp kim: Là kim loại chứa ít nhất 99% nhôm theo khối lượng, với điều kiện hàm lượng Fe + Si không quá 1% và mỗi nguyên tố khác (như Cr, Cu, Mg, Mn, Ni, Zn) không quá 0,1%. Tỷ lệ đồng có thể lớn hơn 0,1% nhưng không quá 0,2%, với điều kiện Cr và Mn không quá 0,05%.\n(b) Hợp kim nhôm: Vật liệu kim loại có nhôm chiếm ưu thế về khối lượng so với mỗi nguyên tố khác, và (i) hàm lượng của ít nhất một nguyên tố khác hoặc tổng hàm lượng Sắt + Silic vượt quá giới hạn trong bảng trên, hoặc (ii) tổng hàm lượng các nguyên tố khác vượt quá 1% khối lượng.",
+        "en": "Subheading Note 1: Definition of expressions:\n(a) Aluminium, not alloyed: Metal containing at least 99% by weight of aluminium, provided that the content of Fe + Si does not exceed 1% and each other element (e.g., Cr, Cu, Mg, Mn, Ni, Zn) does not exceed 0.1%. The proportion of copper may be greater than 0.1% but not more than 0.2%, provided that Cr and Mn do not exceed 0.05%.\n(b) Aluminium alloys: Metallic substances in which aluminium predominates by weight over each of the other elements, provided that (i) the content of at least one other element or of Iron + Silicon is greater than the limit in the table above, or (ii) the total content of other elements exceeds 1%."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chú giải phân nhóm 2: Mặc dù có quy định tại Chú giải 9(c) của Phần XV, cho mục đích của phân nhóm 7616.91, khái niệm 'dây' chỉ áp dụng cho sản phẩm ở dạng cuộn hoặc không, có mặt cắt ngang bất kỳ và kích thước mặt cắt ngang không quá 6 mm.",
+        "en": "Subheading Note 2: Notwithstanding Note 9(c) to Section XV, for the purpose of subheading 7616.91, the term 'wire' applies only to products, whether or not in coils, of any cross-sectional shape, of which no cross-sectional dimension exceeds 6 mm."
+      }
+    }
+  ],
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chương này bao gồm nhôm, hợp kim nhôm và các sản phẩm bằng nhôm. Nhôm được điều chế chủ yếu từ Bô-xít (nhôm hydrat thô, thuộc nhóm 26.06). Quặng thô được xử lý để chuyển thành oxit nhôm tinh khiết, lọc bỏ tạp chất như Oxit sắt, Silicat. Hydroxit nhôm và oxit nhôm được phân loại vào Chương 28.",
+        "en": "This Chapter covers aluminium, its alloys, and articles thereof. Aluminium is obtained principally from bauxite (crude hydrated alumina, heading 26.06). The raw ore is treated to become pure aluminium oxide, filtering out impurities like iron oxide and silica. Aluminium hydroxide and aluminium oxide are classified in Chapter 28."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Kim loại nhôm được tách bằng phương pháp điện phân oxit nhôm hòa tan trong Criolit nấu chảy. Nhôm cũng có thể được điều chế từ quặng leuxit hoặc tái chế từ phế liệu. Nhôm là kim loại dẻo, nhẹ, dẫn điện và nhiệt tốt. Độ cứng và độ bền có thể được tăng cường bằng cách hợp kim hóa với Đồng, Magiê, Silicon, Kẽm hoặc Mangan.",
+        "en": "Aluminium metal is extracted by electrolytic reduction of alumina dissolved in fused cryolite. Aluminium may also be obtained from leucite ore or by recycling scrap. Aluminium is a ductile, light metal, and a good conductor of heat and electricity. Its hardness and toughness can be increased by alloying with Copper, Magnesium, Silicon, Zinc, or Manganese."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các hợp kim nhôm chính được phân loại theo Chú giải 5 của Phần XV bao gồm:\n(1) Hợp kim nhôm-đồng\n(2) Hợp kim nhôm-đồng-kẽm\n(3) Hợp kim nhôm-silicon (ví dụ “Alpax”, “silumin”)\n(4) Hợp kim nhôm-magie-mangan\n(5) Hợp kim nhôm-silicon-magie (ví dụ “Almelec”, “Aldrey”)\n(6) Hợp kim nhôm-mangan-magie-đồng (ví dụ “Duralumin”)\n(7) Hợp kim nhôm-magie (ví dụ “magnalium”)",
+        "en": "The principal aluminium alloys classified under Note 5 to Section XV include:\n(1) Aluminium-copper alloys\n(2) Aluminium-zinc-copper alloys\n(3) Aluminium-silicon alloys (e.g., “Alpax”, “silumin”)\n(4) Aluminium-manganese-magnesium alloys\n(5) Aluminium-magnesium-silicon alloys (e.g., “Almelec”, “Aldrey”)\n(6) Aluminium-copper-magnesium-manganese alloys (e.g., “Duralumin”)\n(7) Aluminium-magnesium alloys (e.g., “magnalium”)"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các hợp kim nhôm chính khác bao gồm hợp kim nhôm-mangan và hợp kim nhôm-magiê-thiếc, có thể chứa một lượng nhỏ sắt, niken, crom. Nhôm và hợp kim được sử dụng rộng rãi trong các ngành công nghiệp máy bay, ô tô, đóng tàu, xây dựng và điện.",
+        "en": "Other principal aluminium alloys include aluminium-manganese and aluminium-zinc-magnesium alloys, which may contain small quantities of iron, nickel, chromium. Aluminium and its alloys are widely used in the aircraft, automobile, shipbuilding, building, and electrical industries."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chương này bao gồm:\n(A) Nhôm chưa gia công, phế liệu và mảnh vụn (nhóm 76.01 và 76.02).\n(B) Bột và vảy nhôm (nhóm 76.03).\n(C) Các sản phẩm từ nhôm chưa gia công thuộc nhóm 76.01 được gia công thêm (các nhóm 76.04 tới 76.07).\n(D) Các hàng hóa khác từ nhóm 76.08 đến 76.16, ngoại trừ các mặt hàng thuộc Chương 82, 83 hoặc được quy định ở nơi khác.\nChương này không bao gồm các sản phẩm thiêu kết nhôm và oxit nhôm (gốm kim loại), được xếp vào nhóm 81.13.",
+        "en": "This Chapter covers:\n(a) Unwrought aluminium, and waste and scrap (headings 76.01 and 76.02).\n(b) Aluminium powders and flakes (heading 76.03).\n(c) Products obtained by working the unwrought aluminium of heading 76.01 (headings 76.04 to 76.07).\n(d) Articles specified in headings 76.08 to 76.16, other than articles included in Chapter 82 or 83, or covered elsewhere.\nThis Chapter excludes products obtained by sintering aluminium and alumina (cermets), which are classified in heading 81.13."
+      }
+    }
+  ],
+  "headings": [
+    {
+      "heading_id": "76.01",
+      "heading_title": {
+        "vi": "Nhôm chưa gia công",
+        "en": "Unwrought aluminium."
+      }
+    },
+    {
+      "heading_id": "76.02",
+      "heading_title": {
+        "vi": "Phế liệu và mảnh vụn nhôm",
+        "en": "Aluminium waste and scrap."
+      }
+    },
+    {
+      "heading_id": "76.03",
+      "heading_title": {
+        "vi": "Bột và vảy nhôm",
+        "en": "Aluminium powders and flakes."
+      }
+    },
+    {
+      "heading_id": "76.04",
+      "heading_title": {
+        "vi": "Nhôm ở dạng thanh, que và hình",
+        "en": "Aluminium bars, rods and profiles."
+      }
+    },
+    {
+      "heading_id": "76.05",
+      "heading_title": {
+        "vi": "Dây nhôm",
+        "en": "Aluminium wire."
+      }
+    },
+    {
+      "heading_id": "76.06",
+      "heading_title": {
+        "vi": "Nhôm ở dạng tấm, lá và dải, chiều dày trên 0,2 mm",
+        "en": "Aluminium plates, sheets and strip, of a thickness exceeding 0.2 mm."
+      }
+    },
+    {
+      "heading_id": "76.07",
+      "heading_title": {
+        "vi": "Nhôm lá mỏng (đã hoặc chưa in hoặc bồi trên giấy, bìa plastic hoặc vật liệu bồi tương tự) có chiều dày (trừ phần bồi không quá 0,2 mm(+).",
+        "en": "Aluminium foil (whether or not printed or backed with paper, paperboard, plastics or similar backing materials) of a thickness (excluding any backing) not exceeding 0.2 mm (+)."
+      }
+    },
+    {
+      "heading_id": "76.08",
+      "heading_title": {
+        "vi": "Các loại ống và ống dẫn bằng nhôm.",
+        "en": "Aluminium tubes and pipes."
+      }
+    },
+    {
+      "heading_id": "76.09",
+      "heading_title": {
+        "vi": "Các phụ kiện để ghép nối của ống hoặc ống dẫn (ví dụ, khớp nối đôi, nối khuỷu, măng sông) bằng nhôm.",
+        "en": "Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves)."
+      }
+    },
+    {
+      "heading_id": "76.10",
+      "heading_title": {
+        "vi": "Các kết cấu bằng nhôm (trừ nhà lắp ghép thuộc nhóm 94.06) và các bộ phận của các kết cấu bằng nhôm (ví dụ, cầu và nhịp cầu, tháp, cột lưới, mái nhà, khung mái, cửa ra vào và cửa sổ và các loại khung cửa và ngưỡng cửa ra vào, cửa chớp, lan can, cột trụ và các loại cột); tấm, thanh, dạng hình, ống và các loại tương tự bằng nhôm, đã được gia công để sử dụng làm kết cấu.",
+        "en": "Aluminium structures (excluding prefabricated buildings of heading 94.06) and parts of structures (for example, bridges and bridge-sections, towers, lattice masts, roofs, roofing frameworks, doors and windows and their frames and thresholds for doors, balustrades, pillars and columns); aluminium plates, rods, profiles, tubes and the like, prepared for use in structures."
+      }
+    },
+    {
+      "heading_id": "76.11",
+      "heading_title": {
+        "vi": "Các loại bể chứa, két, bình chứa và các loại tương tự, dùng để chứa các loại vật liệu (trừ khí nén hoặc khí hóa lỏng), có dung tích trên 300 lít, bằng nhôm, đã hoặc chưa lót hoặc cách nhiệt, nhưng chưa lắp ghép với thiết bị cơ khí hoặc thiết bị nhiệt.",
+        "en": "Aluminium reservoirs, tanks, vats and similar containers, for any material (other than compressed or liquefied gas), of a capacity exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment."
+      }
+    },
+    {
+      "heading_id": "76.12",
+      "heading_title": {
+        "vi": "Thùng phuy, thùng hình trống, lon, hộp và các loại đồ chứa tương tự (kể cả các loại thùng chứa hình ống cứng hoặc có thể xếp lại được), dung tích không quá 300 lít, đã hoặc chưa lót hoặc cách nhiệt, nhưng chưa lắp ghép với thiết bị cơ khí hoặc thiết bị nhiệt.",
+        "en": "Aluminium casks, drums, cans, boxes and similar containers (including rigid or collapsible tubular containers), for any material (other than compressed or liquefied gas), of a capacity not exceeding 300 l, whether or not lined or heat-insulated, but not fitted with mechanical or thermal equipment."
+      }
+    },
+    {
+      "heading_id": "76.13",
+      "heading_title": {
+        "vi": "Các loại thùng chứa khí nén hoặc khí hóa lỏng bằng nhôm.",
+        "en": "Aluminium containers for compressed or liquefied gas."
+      }
+    },
+    {
+      "heading_id": "76.14",
+      "heading_title": {
+        "vi": "Dây bện tao, cáp, băng tết và các loại tương tự, bằng nhôm, chưa cách điện",
+        "en": "Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated."
+      }
+    },
+    {
+      "heading_id": "76.15",
+      "heading_title": {
+        "vi": "Bộ đồ ăn, đồ nhà bếp hoặc các loại đồ gia dụng khác và các bộ phận của chúng, bằng nhôm; miếng dùng để cọ nồi và cọ rửa hoặc đánh bóng, găng tay và các loại tương tự bằng nhôm; đồ trang bị trong nhà vệ sinh và các bộ phận của chúng, bằng nhôm.",
+        "en": "Table, kitchen or other household articles and parts thereof, of aluminium; pot scourers and scouring or polishing pads, gloves and the like, of aluminium; sanitary ware and parts thereof, of aluminium."
+      }
+    },
+    {
+      "heading_id": "76.16",
+      "heading_title": {
+        "vi": "Các sản phẩm khác bằng nhôm",
+        "en": "Other articles of aluminium."
+      }
+    }
+  ]
+}

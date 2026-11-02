@@ -1,0 +1,65 @@
+{
+  "heading_id": "52.02",
+  "heading_title": {
+    "vi": "Phế liệu bông (kể cả phế liệu sợi và bông tái chế).",
+    "en": "Cotton waste (including yarn waste and garnetted stock)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm phế liệu bông thu được trong quá trình chuẩn bị kéo sợi, kéo sợi, dệt, đan, v.v., hoặc từ việc tái chế các mặt hàng bông. Các loại phế liệu này có thể bao gồm phế liệu từ quá trình chải kỹ, sợi đứt, xơ bay, sợi rối và các loại phế liệu khác. Các phế liệu này có thể còn dính chất nhờn, bụi, hoặc đã được làm sạch, tẩy trắng hoặc nhuộm màu. Nhóm này không bao gồm: (a) Xơ của cây bông (nhóm 14.04), (b) Mền xơ, bông (nhóm 30.05 hay 56.01), (c) Phế liệu bông đã chải thô hay chải kỹ (nhóm 52.03), (d) Xơ vụn, bụi xơ và kết xơ (nhóm 56.01), và (e) Vải vụn (nhóm 63.10).",
+    "en": "This heading covers waste cotton obtained during spinning preparation, spinning, weaving, knitting, etc., or from the garnetting of cotton goods. This waste may include comber noils, broken fibres, carding fly, tangled yarn, and other yarn waste. This waste may contain greasy matter, dust, or may have been cleaned, bleached or dyed. The heading excludes: (a) Cotton linters (heading 14.04), (b) Wadding (heading 30.05 or 56.01), (c) Carded or combed cotton waste (heading 52.03), (d) Textile flock and dust and mill neps (heading 56.01), and (e) Rags (heading 63.10)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhìn chung, nhóm này bao gồm bông phế liệu thu được khi chuẩn bị cho việc kéo sợi hay trong các hoạt động kéo sợi, dệt, đan, v.v... hay được tái chế từ những mặt hàng làm từ bông.\nDo vậy mà nhóm này bao gồm:\nPhế liệu thu được từ quá trình chải kỹ, thường là những xơ vụn chải kỹ; sợi thu từ trục cán của quá trình chải thô hay chải kỹ; những sợi đứt tách ra từ quá trình kéo sợi; xơ vụn từ con cúi (sliver) hoặc sợi thô (roving); xơ bay thu từ quá trình chải thô; sợi rối hoặc các sợi phế liệu khác; sợi và xơ thu được từ quá trình tái chế vải vụn...\nNhững phế liệu này có thể còn dính chất nhờn, bụi hay những chất bẩn khác hay đã được làm sạch, tẩy trắng hoặc nhuộm màu. Chúng có thể được sử dụng để kéo sợi hay cho các mục đích khác.",
+        "en": "In general, this heading covers waste cotton obtained when cotton is prepared for spinning, or during spinning operations, weaving, knitting, etc., or from the garnetting of cotton goods.\nIt thus includes:\nCombing waste, usually referred to as comber noils; strippings recovered from carding or combing cylinders; broken fibres detached during the drawing process; fragments of slivers or rovings; carding fly; tangled yarn and other yarn waste; yarn and fibres resulting from the garnetting of rags.\nThis waste may contain greasy matter, dust or other extraneous matter or may have been cleaned, bleached or dyed. It may be used for spinning or may serve for other purposes."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Xơ của cây bông (nhóm 14.04).\n(b) Mền xơ, bông (nhóm 30.05 hay 56.01).\n(c) Phế liệu bông, đã chải thô hay chải kỹ (nhóm 52.03).\n(d) Xơ vụn và bụi xơ và kết xơ từ công nghiệp dệt (nhóm 56.01).\n(e) Vải vụn cũ hay mới và các mặt hàng dệt vụn khác (nhóm 63.10).",
+        "en": "The heading excludes:\n(a) Cotton linters (heading 14.04).\n(b) Wadding (heading 30.05 or 56.01).\n(c) Carded or combed cotton waste (heading 52.03).\n(d) Textile flock and dust and mill neps (heading 56.01).\n(e) Used or new rags and other scrap textile articles (heading 63.10)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5202.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Phế liệu sợi (kể cả phế liệu chỉ)",
+        "en": "- Yarn waste (including thread waste)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "5202.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Bông tái chế",
+        "en": "- - Garnetted stock"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "5202.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

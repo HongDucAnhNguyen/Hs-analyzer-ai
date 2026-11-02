@@ -1,0 +1,65 @@
+{
+  "heading_id": "83.05",
+  "heading_title": {
+    "vi": "Các chi tiết ghép nối dùng cho cặp giữ tờ rơi hoặc hồ sơ tài liệu rời, cái kẹp thư, để thư, kẹp giấy, kẹp phiếu mục lục và các vật phẩm văn phòng tương tự, bằng kim loại cơ bản; ghim dập dạng băng (ví dụ, dùng cho văn phòng, dùng cho công nghệ làm đệm, đóng gói), bằng kim loại cơ bản.",
+    "en": "Fittings for loose-leaf binders or files, letter clips, letter corners, paper clips, indexing tags and similar office articles, of base metal; staples in strips (for example, for offices, upholstery, packaging), of base metal."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các chi tiết ghép nối bằng kim loại cơ bản (như kẹp, dây nối, lò xo đẩy, vòng, vít) dùng cho cặp giữ tờ rời hoặc hộp hồ sơ; các vòng bảo vệ, dải đóng gáy, nẹp góc cho sổ sách; đồ dùng văn phòng bằng kim loại để kẹp hoặc đánh dấu giấy tờ (kẹp thư, kẹp giấy, kẹp phiếu mục lục); và ghim dập dạng băng dùng trong máy dập ghim cho văn phòng, bọc đệm, đóng gói. Nhóm này không bao gồm đinh ấn (đinh rệp) (nhóm 73.17 hoặc 74.15) và các loại khóa, chốt cho sách, sổ (nhóm 83.01 hoặc 83.08).",
+    "en": "This heading covers base metal fittings (such as clips, cords, spring levers, rings, screws) for loose-leaf binders or box files; protecting rings, bands, and corners for ledgers; metal office stationery for fastening or index-marking papers (letter clips, paper clips, indexing tags); and staples in strips for stapling machines for offices, upholstery, and packaging. The heading excludes drawing pins (heading 73.17 or 74.15) and clasps and fasteners for books or ledgers (heading 83.01 or 83.08)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm những chi tiết ghép nối bằng kim loại cơ bản (ví dụ như cặp kẹp, dây nối, lò xo đẩy, vòng, vít...) để ghép nối dùng cho cặp giữ tờ rời hoặc hộp giữ hồ sơ tài liệu. Nhóm này còn bao gồm các vòng bảo vệ, dải đóng gáy, nẹp góc dùng cho các loại sổ, sách văn phòng; tương tự như vậy là những đồ dùng văn phòng bằng kim loại được sử dụng để đóng thành tập, ghim lại hoặc đánh dấu các loại giấy tờ tài liệu rời (ví dụ: các loại kẹp ghim, kẹp giấy, nẹp giấy, để thư, kẹp phiếu mục lục, kẹp đánh dấu hồ so, cây ghim giấy); ghim dập dạng băng loại được dùng trong máy dập ghim, trong văn phòng, để bọc đệm, đóng gói...",
+        "en": "This heading covers base metal fittings of the clip, cord, spring lever, ring, screw, etc., types, for loose-leaf binders or box files. It further includes protecting rings, bands and comers for ledgers or other stationery books; also office stationery in metal of the type used in fastening together or index-marking papers (e.g., letter clips, paper clips, paper fasteners, letter comers, card indexing tags, file tags, spike files); staples in strips of the kind used in stapling machines, in offices, for upholstery, for packaging, etc."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Đinh ấn (đinh rệp) (ví dụ: nhóm 73.17 hoặc 74.15).\n(b) Các loại khóa và chốt cho sách, sổ... (nhóm 83.01 hoặc 83.08).",
+        "en": "The heading excludes:\n(a) Drawing pins (e.g., heading 73.17 or 74.15).\n(b) Clasps and fasteners for books, ledgers, etc. (heading 83.01 or 83.08)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8305.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các chi tiết ghép nối dùng cho cặp giữ tờ rời hoặc hồ sơ tài liệu rời",
+        "en": "Fittings for loose-leaf binders or files"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8305.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Ghim dập dạng băng",
+        "en": "Staples in strips"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8305.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, kể cả bộ phận",
+        "en": "Other, including parts"
+      }
+    }
+  ]
+}

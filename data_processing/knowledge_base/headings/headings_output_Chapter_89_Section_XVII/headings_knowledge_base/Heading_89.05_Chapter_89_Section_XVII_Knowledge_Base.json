@@ -1,0 +1,86 @@
+{
+  "heading_id": "89.05",
+  "heading_title": {
+    "vi": "Tàu đèn hiệu, tàu cứu hỏa, tàu hút nạo vét (tàu cuốc), cần cẩu nổi và tàu thuyền khác mà tính năng di động trên mặt nước chỉ nhằm bổ sung cho chức năng chính của các tàu thuyền này; ụ nổi sửa chữa tàu; dàn khoan hoặc dàn sản xuất nổi hoặc nửa nổi nửa chìm.",
+    "en": "Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function; floating docks; floating or submersible drilling or production platforms."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại tàu thuyền đặc biệt mà chức năng chính được thực hiện khi ở vị trí cố định và khả năng di chuyển chỉ là thứ yếu. Cụ thể, nhóm này bao gồm tàu đèn hiệu, tàu cứu hỏa, tàu hút nạo vét, cần cẩu nổi, tàu trục vớt, tàu lặn, và các cấu kiện nổi (pontoon) có trang bị máy móc xếp dỡ. Nó cũng bao gồm các nhà thuyền, tàu giặt và nhà máy xay nổi. Ngoài ra, nhóm này còn áp dụng cho ụ nổi sửa chữa tàu, là các xưởng nổi để sửa chữa tàu thuyền, và các dàn khoan hoặc dàn sản xuất nổi hoặc nửa nổi nửa chìm dùng để khai thác dầu khí ngoài khơi. Các loại dàn này bao gồm dàn tự nâng, dàn ngầm và dàn nửa ngầm. Nhóm này loại trừ các dàn cố định (nhóm 84.30), phà (nhóm 89.01), tàu chế biến hải sản (nhóm 89.02), tàu rải cáp và tàu khí tượng (nhóm 89.06).",
+    "en": "This heading covers special vessels whose main function is performed in a stationary position and whose navigability is subsidiary. Specifically, it includes light-vessels, fire-floats, dredgers, floating cranes, salvage ships, bathyscaphes, and pontoons fitted with handling machinery. It also covers house-boats, laundry boats, and floating mills. Additionally, the heading applies to floating docks, which are floating workshops for repairing vessels, and floating or submersible drilling or production platforms used for offshore oil and gas exploitation. These platforms include self-elevating, submersible, and semi-submersible types. The heading excludes fixed platforms (heading 84.30), ferry-boats (heading 89.01), factory ships (heading 89.02), cable-laying ships, and weather ships (heading 89.06)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) Các tàu đèn hiệu, tàu cứu hoả, tàu cuốc, cần cẩu nổi và các tàu thuyền khác mà tính năng di động trên mặt nước chỉ nhằm bổ sung cho chức năng chính của chúng. Các tàu này thường hoạt động tại vị trí cố định, bao gồm: tàu đèn hiệu, tàu khoan, tàu cứu hoả, tàu cuốc các loại (bằng gầu, bằng hút), tàu trục tàu đắm, tàu phao cứu đắm, tàu lặn, cấu kiện nổi có máy nâng hoặc thiết bị xếp dỡ (cần trục, cần cẩu, băng tải chuyển ngũ cốc), và các cấu kiện nổi (pontoon) làm nền cho máy móc. Nhóm này cũng bao gồm nhà thuyền, tàu giặt và nhà máy xay nổi.",
+        "en": "(A) Light-vessels, fire-floats, dredgers, floating cranes, and other vessels the navigability of which is subsidiary to their main function. These normally perform their main function in a stationary position. They include: light-vessels; drill-ships; fire-floats; dredgers of all kinds (e.g., grab or suction dredgers); salvage ships for the recovery of sunken vessels; permanently moored air-sea rescue floats; bathyscaphes; pontoons fitted with lifting or handling machines (e.g., derricks, cranes, grain elevators) and pontoons clearly designed to serve as a base for these machines. House-boats, laundry boats and floating mills are also covered by this group."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(B) Ụ nổi sửa chữa tàu: Là loại xưởng nổi dùng để thay thế xưởng chữa tàu trên cạn. Chúng thường có cấu trúc mặt cắt hình chữ U gồm sàn và vách ngăn, trang bị khoang bơm để nửa nổi nửa chìm cho phép tàu thuyền vào sửa chữa. Một số có thể được lai kéo.",
+        "en": "(B) Floating docks: A type of floating workshop used instead of dry docks. They are generally structures of a U-section comprising a platform and side-walls, and are equipped with pumping compartments which enable them to be partly submerged to permit the entrance of vessels requiring repair. In some cases they may be towed."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Một loại ụ nổi sửa chữa tàu khác là loại tự hành và được trang bị động cơ công suất lớn, dùng để sửa chữa hoặc vận chuyển các xe lội nước hoặc tàu thuyền khác.",
+        "en": "A further type of floating dock functions in a similar manner, but is self-propelled and equipped with powerful engines. These are used for the repair or transport of amphibious vehicles or other craft."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(C) Các dàn khoan hoặc dàn sản xuất, nổi hoặc ngầm: Được thiết kế để phát hiện hoặc khai thác dầu khí ngoài khơi. Chúng được trang bị tháp khoan, cần cẩu, bơm, bộ phận trám xi măng, tháp xi lô và chỗ ở cho nhân viên. Các loại dàn này bao gồm: (1) Dàn tự nâng, (2) Dàn ngầm, (3) Dàn nửa ngầm.",
+        "en": "(C) Floating or submersible drilling or production platforms: Generally designed for the discovery or exploitation of off-shore deposits of oil or natural gas. They are equipped with derricks, cranes, pumps, cementing units, silos, and living quarters for personnel. These platforms may be divided into the following main groups: (1) Self-elevating platforms, (2) Submersible platforms, (3) Semi-submersible platforms."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Loại trừ khỏi nhóm này: Các dàn cố định để khai thác dầu khí (nhóm 84.30), phà (nhóm 89.01), tàu chế biến hải sản (nhóm 89.02), tàu rải cáp và tàu khí tượng (nhóm 89.06).",
+        "en": "Excluded from this heading: Fixed platforms used for the discovery or exploitation of off-shore deposits of oil or natural gas (heading 84.30), ferry-boats (heading 89.01), factory ships for processing fishery products (heading 89.02), cable-laying ships and weather ships (heading 89.06)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8905.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Tàu hút nạo vét (tàu cuốc)",
+        "en": "Dredgers"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8905.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Dàn khoan hoặc dàn sản xuất nổi hoặc nửa nổi nửa chìm",
+        "en": "Floating or submersible drilling or production platforms"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8905.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

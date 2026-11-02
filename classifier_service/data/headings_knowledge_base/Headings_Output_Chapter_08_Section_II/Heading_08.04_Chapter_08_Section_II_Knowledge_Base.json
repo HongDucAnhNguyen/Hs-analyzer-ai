@@ -1,0 +1,82 @@
+{
+  "heading_id": "08.04",
+  "heading_title": {
+    "vi": "Quả chà là, sung, vả, dứa, bơ, ổi, xoài và măng cụt, tươi hoặc khô.",
+    "en": "Dates, figs, pineapples, avocados, guavas, mangoes and mangosteens, fresh or dried."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm quả chà là, sung, vả, dứa, bơ, ổi, xoài và măng cụt, ở dạng tươi hoặc khô. Cần lưu ý rằng khái niệm 'quả sung, vả' chỉ áp dụng cho các loại quả thuộc loài Ficus carica. Nhóm này loại trừ các loại vả xương rồng (lê gai), chúng được phân loại vào nhóm 08.10.",
+    "en": "This heading covers dates, figs, pineapples, avocados, guavas, mangoes, and mangosteens, in a fresh or dried state. It should be noted that the term 'figs' applies only to fruits of the species Ficus carica. The heading excludes cactus figs (prickly pears), which are classified in heading 08.10."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo mục đích của nhóm này, khái niệm \"quả sung, vả\" chỉ áp dụng cho các loại quả thuộc loài Ficus carica, đã hoặc chưa dùng để trưng cất; vì vậy nhóm này không bao gồm các loại vả xương rồng (lê gai) thuộc nhóm 08.10.",
+        "en": "For the purposes of this heading the term “figs” applies only to fruits of the species Ficus carica, whether or not to be used for distillation; the heading therefore does not cover cactus figs (prickly pears) which fall in heading 08.10."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0804.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả chà là",
+        "en": "Dates"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0804.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả sung, vả",
+        "en": "Figs"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0804.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả dứa",
+        "en": "Pineapples"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0804.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả bơ",
+        "en": "Avocados"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0804.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Quả ổi, xoài và măng cụt",
+        "en": "Guavas, mangoes and mangosteens"
+      }
+    }
+  ]
+}

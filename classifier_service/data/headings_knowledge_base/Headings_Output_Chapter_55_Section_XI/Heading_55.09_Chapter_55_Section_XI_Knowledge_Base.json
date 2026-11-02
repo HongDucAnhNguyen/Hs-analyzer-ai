@@ -1,0 +1,238 @@
+{
+  "heading_id": "55.09",
+  "heading_title": {
+    "vi": "Sợi (trừ chỉ khâu) từ xơ staple tổng hợp, chưa đóng gói để bán lẻ.",
+    "en": "Yarn (other than sewing thread) of synthetic staple fibres, not put up for retail sale."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm sợi (trừ chỉ khâu), dù là sợi đơn hay sợi xe (folded), thu được từ việc kéo sợi thô làm từ xơ staple tổng hợp thuộc nhóm 55.06. Nhóm này cũng bao gồm sợi đã được xử lý như nêu tại Phần (I) (B) (1) của Chú giải tổng quát Phần XI. Tuy nhiên, nhóm này loại trừ sợi được đóng gói để bán lẻ (nhóm 55.11) hoặc thuộc phạm vi định nghĩa về dây xe, chão bện,... (nhóm 56.07) theo Phần (I) (B) (2) và (3) của Chú giải tổng quát của Phần XI.",
+    "en": "This heading covers yarn (other than sewing thread), whether single or multiple (folded), obtained by spinning rovings of synthetic staple fibres of heading 55.06. It also includes yarn processed as indicated in Part (I) (B) (1) of the General Explanatory Note to Section XI. However, yarn of synthetic staple fibres is excluded if put up for retail sale (heading 55.11) or if within the definition of twine, cordage, etc. (heading 56.07) (see Parts (I) (B) (2) and (3) of the General Explanatory Note to Section XI)."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm sợi (trừ chỉ khâu), cho dù là sợi đơn hay sợi xe (folded) thu được từ việc kéo sợi thô làm từ xơ staple tổng hợp thuộc nhóm 55.06.\nTuy nhiên, sợi từ xơ staple tổng hợp không được xếp trong nhóm này nếu chúng được đóng gói để bán lẻ (nhóm 55.11) hoặc nếu thuộc phạm vi định nghĩa về dây xe, chão bện,...(nhóm 56.07) (xem Phần (I) (B) (2) và (3) của Chú giải tổng quát của Phần XI).\nNhóm này bao gồm sợi đã được xử lý như nêu tại Phần (I) (B) (1) của Chú giải tổng quát Phần XI.",
+        "en": "This heading covers yarns (other than sewing thread), whether single or multiple (folded), obtained by spinning rovings of synthetic staple fibres of heading 55.06.\nYarn of synthetic staple fibres is, however, excluded if put up for retail sale (heading 55.11) or if within the definition of twine, cordage, etc. (heading 56.07) (see Parts (I) (B) (2) and (3) of the General Explanatory Note to Section XI).\nThe heading includes yarn which has been processed as indicated in Part (I) (B) (1) of the General Explanatory Note to Section XI."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple bằng ni lông hoặc các polyamit khác chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of staple fibres of nylon or other polyamides:"
+      },
+      "subheading_id": "5509.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Sợi đơn",
+        "en": "- - Single yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple bằng ni lông hoặc các polyamit khác chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of staple fibres of nylon or other polyamides:"
+      },
+      "subheading_id": "5509.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Sợi xe (folded) hoặc sợi cáp",
+        "en": "- - Multiple (folded) or cabled yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple polyeste chiếm từ 85% trở lên tính theo khối lương:",
+        "en": "- Containing 85 % or more by weight of polyester staple fibres:"
+      },
+      "subheading_id": "5509.21",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi đơn",
+        "en": "- - Single yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple polyeste chiếm từ 85% trở lên tính theo khối lương:",
+        "en": "- Containing 85 % or more by weight of polyester staple fibres:"
+      },
+      "subheading_id": "5509.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi xe (folded) hoặc sợi cáp",
+        "en": "- - Multiple (folded) or cabled yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple bằng acrylic hoặc modacrylic chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of acrylic or modacrylic staple fibres:"
+      },
+      "subheading_id": "5509.31",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi đơn",
+        "en": "- - Single yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng xơ staple bằng acrylic hoặc modacrylic chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of acrylic or modacrylic staple fibres:"
+      },
+      "subheading_id": "5509.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi xe (folded) hoặc sợi cáp",
+        "en": "- - Multiple (folded) or cabled yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, có hàm lượng xơ staple tổng hợp chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Other yarn, containing 85 % or more by weight of synthetic staple fibres:"
+      },
+      "subheading_id": "5509.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi đơn",
+        "en": "- - Single yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, có hàm lượng xơ staple tổng hợp chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Other yarn, containing 85 % or more by weight of synthetic staple fibres:"
+      },
+      "subheading_id": "5509.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi xe (folded) hoặc sợi cáp",
+        "en": "- - Multiple (folded) or cabled yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, từ xơ staple polyeste:",
+        "en": "- Other yarn, of polyester staple fibres:"
+      },
+      "subheading_id": "5509.51",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được pha chủ yếu hoặc pha duy nhất với xơ staple tái tạo",
+        "en": "- - Mixed mainly or solely with artificial staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, từ xơ staple polyeste:",
+        "en": "- Other yarn, of polyester staple fibres:"
+      },
+      "subheading_id": "5509.52",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được pha chủ yếu hoặc pha duy nhất với lông cừu hoặc lông động vật loại mịn",
+        "en": "- - Mixed mainly or solely with wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, từ xơ staple polyeste:",
+        "en": "- Other yarn, of polyester staple fibres:"
+      },
+      "subheading_id": "5509.53",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được pha chủ yếu hoặc pha duy nhất với bông",
+        "en": "- - Mixed mainly or solely with cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, từ xơ staple polyeste:",
+        "en": "- Other yarn, of polyester staple fibres:"
+      },
+      "subheading_id": "5509.59",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, từ xơ staple bằng acrylic hoặc modacrylic:",
+        "en": "- Other yarn, of acrylic or modacrylic staple fibres:"
+      },
+      "subheading_id": "5509.61",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được pha chủ yếu hoặc pha duy nhất với lông cừu hoặc lông động vật loại mịn",
+        "en": "- - Mixed mainly or solely with wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, từ xơ staple bằng acrylic hoặc modacrylic:",
+        "en": "- Other yarn, of acrylic or modacrylic staple fibres:"
+      },
+      "subheading_id": "5509.62",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được pha chủ yếu hoặc pha duy nhất với bông",
+        "en": "- - Mixed mainly or solely with cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác, từ xơ staple bằng acrylic hoặc modacrylic:",
+        "en": "- Other yarn, of acrylic or modacrylic staple fibres:"
+      },
+      "subheading_id": "5509.69",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác:",
+        "en": "- Other yarn:"
+      },
+      "subheading_id": "5509.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được pha chủ yếu hoặc pha duy nhất với lông cừu hoặc lông động vật loại mịn",
+        "en": "- - Mixed mainly or solely with wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác:",
+        "en": "- Other yarn:"
+      },
+      "subheading_id": "5509.92",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Được pha chủ yếu hoặc pha duy nhất với bông",
+        "en": "- - Mixed mainly or solely with cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi khác:",
+        "en": "- Other yarn:"
+      },
+      "subheading_id": "5509.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

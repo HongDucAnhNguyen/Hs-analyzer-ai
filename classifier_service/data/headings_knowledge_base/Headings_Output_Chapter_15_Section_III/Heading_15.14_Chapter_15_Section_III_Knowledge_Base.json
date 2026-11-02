@@ -1,0 +1,77 @@
+{
+  "heading_id": "15.14",
+  "heading_title": {
+    "vi": "Dầu cây cải dầu (rape oil hoặc colza oil) hoặc dầu mù tạt và các phần phân đoạn của chúng, đã hoặc chưa tinh chế, nhưng không thay đổi về mặt hóa học (+).",
+    "en": "Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm dầu cây cải dầu (rape hoặc colza oil) và dầu mù tạt, cùng các phần phân đoạn của chúng. Các loại dầu này có thể đã hoặc chưa tinh chế, nhưng không được thay đổi về mặt hóa học. Nhóm này bao gồm cả dầu cải dầu có hàm lượng axit erucic cao và thấp (ví dụ, dầu canola). Chú giải cho các phân nhóm dầu thô (1514.11 và 1514.91) tham chiếu đến Chú giải của phân nhóm 1507.10.",
+    "en": "This heading covers rape or colza oil and mustard oil, and their fractions. These oils may be refined or not, but must not be chemically modified. The heading includes both high and low erucic acid rape oil (e.g., canola oil). The explanatory notes for the crude oil subheadings (1514.11 and 1514.91) refer to the Explanatory Note to subheading 1507.10."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "(A) DẦU CÂY CẢI DẦU (RAPE OIL HOẶC COLZA OIL): Dầu bán mau khô thu được từ hạt của một số loài thuộc họ Brassica, đặc biệt là B. napus và B. rapa (hoặc B. campestris). Dầu này thường có hàm lượng axit erucic cao. Nhóm này cũng bao gồm dầu cây cải dầu có hàm lượng axit erucic thấp (ví dụ, dầu canola). Chúng được sử dụng để trộn salad, trong sản xuất bơ thực vật, v.v... và cũng được sử dụng cho các sản phẩm công nghiệp, ví dụ, như một chất phụ gia bôi trơn. Dầu tinh chế cũng có thể ăn được.\n(B) DẦU MÙ TẠT: Dầu thực vật không bay hơi thu được từ, ví dụ, mù tạt trắng (Sinapsis alba và Brassica hirta), mù tạt đen (Brassica nigra), hoặc mù tạt Ấn Độ (Brassica juncea). Dầu này thường có hàm lượng axit erucic cao và được sử dụng, ví dụ, trong y học, nấu ăn hoặc trong các sản phẩm công nghiệp.",
+        "en": "(A) RAPE OR COLZA OILS: The seeds of several species of Brassica, particularly B. napus and B. rapa (or B. campestris), yield semi-drying oils with similar characteristics, which are classified commercially as rape or colza oils. These oils generally contain high levels of erucic acid. This heading also covers low erucic acid rape seed oil and colza seed oil (e.g., canola oil or the European rape or colza oil “double zero”). They are used for salad dressings, in the manufacturing of margarine, etc. They are also used for making industrial products, e.g., as a lubricant additive. The refined oils, generally referred to as colza oil, are also edible.\n(B) MUSTARD OIL: This is a fixed vegetable oil obtained from, for example, the following three species: white mustard (Sinapsis alba and Brassica hirta), black mustard (Brassica nigra) or Indian mustard (Brassica juncea). It generally contains a high level of erucic acid and is used, e.g., in medicines, for cooking or in industrial products."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm. Phân nhóm 1514.11 và 1514.91: Xem Chú giải của phân nhóm 1507.10.",
+        "en": "Subheading Explanatory Note. Subheadings 1514.11 and 1514.91: See the Explanatory Note to subheading 1507.10."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Dầu cây cải dầu hàm lượng axit eruxic thấp và các phần phân đoạn của chúng:",
+        "en": "- Low erucic acid rape or colza oil and its fractions:"
+      },
+      "subheading_id": "1514.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Dầu thô",
+        "en": "- - Crude oil"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Dầu cây cải dầu hàm lượng axit eruxic thấp và các phần phân đoạn của chúng:",
+        "en": "- Low erucic acid rape or colza oil and its fractions:"
+      },
+      "subheading_id": "1514.19",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "1514.91",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Dầu thô",
+        "en": "- - Crude oil"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "1514.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

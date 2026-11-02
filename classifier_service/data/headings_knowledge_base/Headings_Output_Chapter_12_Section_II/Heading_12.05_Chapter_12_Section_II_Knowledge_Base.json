@@ -1,0 +1,46 @@
+{
+  "heading_id": "12.05",
+  "heading_title": {
+    "vi": "Hạt cải dầu đã hoặc chưa vỡ mảnh.",
+    "en": "Rape or colza seeds, whether or not broken."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại hạt cải dầu (hạt của một số loài cải Brassica), bao gồm cả hạt cải dầu truyền thống và hạt cải dầu có hàm lượng axit erucic thấp (ví dụ, hạt Canola). Hạt cải dầu có hàm lượng axit erucic thấp được định nghĩa là loại cho dầu không bay hơi có tổng hàm lượng axit eruxic dưới 2% tính theo trọng lượng và thành phần rắn chứa dưới 30 micromol glucosinolate trên một gram.",
+    "en": "This heading includes rape or colza seeds (the seeds of several species of Brassica), covering both traditional rape or colza seeds and low erucic acid rape or colza seeds (e.g., canola seeds). Low erucic acid rape or colza seeds are defined as those yielding a fixed oil with a total erucic acid content of less than 2% by weight and a solid component which contains less than 30 micromoles of glucosinolates per gram."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm các loại hạt cải dầu (các loại hạt của một số loài cải Brassica, nhất là cải Brassica napus (cải dầu) và brassica rapa (hoặc B. campestris)). Nhóm này bao gồm cả hạt cải dầu truyền thống và hạt cải dầu có hàm lượng axit erucic thấp. Hạt cải dầu có hàm lượng axit erucic thấp, như hạt Canola, hoặc hạt cải dầu Châu âu “ double zero ”, có chứa một lượng dầu không bay hơi với hàm lượng axit eruxic chiếm dưới 2% tính theo trọng lượng và thành phần rắn chứa dưới 30 micromol glucosinolate trên 1 gram.",
+        "en": "This heading includes rape or colza seeds (the seeds of several species of Brassica, particularly B. napus and B. rapa (or B. campestris)). The heading covers both the traditional rape or colza seeds and the low erucic acid rape or colza seeds. Low erucic acid rape or colza seeds, e.g., canola seeds or the European rape or colza seeds “ double zero ”, yield a fixed oil which has a total erucic acid content of less than 2 % by weight and yield a solid component which contains less than 30 micromoles of glucosinolatcs per gram."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1205.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Hạt cải dầu có hàm lượng axit eruxic thấp",
+        "en": "- Low erucic acid rape or colza seeds"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "1205.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

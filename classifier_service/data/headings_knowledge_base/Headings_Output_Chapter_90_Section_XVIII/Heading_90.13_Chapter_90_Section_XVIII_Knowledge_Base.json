@@ -1,0 +1,84 @@
+{
+  "heading_id": "90.13",
+  "heading_title": {
+    "vi": "Thiết bị tạo tia laser, trừ điốt laser; các thiết bị và dụng cụ quang học khác, chưa được nêu hay chi tiết ở nơi nào khác trong Chương này.",
+    "en": "Lasers, other than laser diodes; other optical appliances and instruments, not specified or included elsewhere in this Chapter."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các thiết bị tạo tia laser (trừ điốt laser) và các thiết bị, dụng cụ quang học khác chưa được quy định hoặc chi tiết ở nơi nào khác trong Chương 90. Cụ thể, nhóm này bao gồm: thiết bị laser để nghiên cứu, giảng dạy, hoặc sử dụng độc lập (ví dụ: bút chỉ laser); kính lúp cầm tay; 'mắt kính gắn lên cửa'; kính ngắm cho vũ khí (khi trình bày riêng); kính viễn vọng được thiết kế làm bộ phận của máy móc khác thuộc Chương 90 hoặc Phần XVI; ống nội soi sợi quang học dùng trong công nghiệp; kính lập thể; kính vạn hoa (trừ loại đồ chơi); kính tiềm vọng; gương kính đã gia công quang học không phù hợp để lắp ghép; máy quang học để chuyển tín hiệu bằng ánh sáng; và máy soi phim dương bản.\n\nNhóm này loại trừ:\n- Theo Chú giải 5 của Chương này, các máy móc, thiết bị và dụng cụ quang học để đo hoặc để kiểm tra (nhóm 90.31).\n- Theo Chú giải 4 của Chương này, một số kính thiên văn khúc xạ (nhóm 90.05).\n- Các thiết bị laser đã được lắp đặt để thực hiện các chức năng chuyên dụng, ví dụ: máy gia công vật liệu (nhóm 84.56), máy hàn (nhóm 85.15), thiết bị cân bằng mức (nhóm 90.15), và thiết bị y tế (nhóm 90.18).\n- Các bộ phận và phụ kiện của laser như: đèn flash điện (nhóm 85.39), điốt laser (nhóm 85.41), và các tinh thể, gương, thấu kính laser (nhóm 90.01 hoặc 90.02).\n- Ống nội soi dùng trong y tế (nhóm 90.18).\n- Kính ngắm quang học được lắp trên vũ khí (Chú giải 1(d) Chương 93).\n- Kính vạn hoa đồ chơi (Chương 95).\n- Gương hậu hoặc gương khác chưa gia công quang học (nhóm 70.09 hoặc 83.06).\n\nViệc phân loại các bộ phận và phụ kiện tuân theo Chú giải 1 và 2 của Chương này.",
+    "en": "This heading covers lasers (other than laser diodes) and other optical appliances and instruments not specified or included elsewhere in Chapter 90. Specifically, it includes: lasers for research, teaching, or independent use (e.g., laser pointers); hand magnifying glasses; 'door-eyes'; telescopic sights for weapons (when presented separately); telescopes designed to be parts of other machines of Chapter 90 or Section XVI; fibrescopes for industrial use; stereoscopes; kaleidoscopes (other than toys); periscopes; mounted, optically worked glass mirrors unsuitable for fitting to instruments; optical lightbeam signalling apparatus; and slide viewers.\n\nThis heading excludes:\n- In accordance with Chapter Note 5, measuring or checking optical appliances, instruments and machines (heading 90.31).\n- Per Chapter Note 4, certain refracting telescopes (heading 90.05).\n- Lasers adapted to perform specific functions, e.g., machine-tools for working material (heading 84.56), welding machines (heading 85.15), levelling instruments (heading 90.15), and medical apparatus (heading 90.18).\n- Parts and accessories for lasers such as: electric flash lamps (heading 85.39), laser diodes (heading 85.41), and laser crystals, mirrors, and lenses (heading 90.01 or 90.02).\n- Fibrescopes for medical purposes (heading 90.18).\n- Telescopic sights mounted on arms (Note 1(d) to Chapter 93).\n- Toy kaleidoscopes (Chapter 95).\n- Rear-view or other mirrors, not optically worked (heading 70.09 or 83.06).\n\nThe classification of parts and accessories is subject to Notes 1 and 2 to this Chapter."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 5 của Chương này, các máy móc, thiết bị và dụng cụ quang học để đo hoặc để kiểm tra bị loại trừ khỏi nhóm này và thuộc nhóm 90.31. Tuy nhiên, theo Chú giải 4 của Chương, một số kính thiên văn có tính khúc xạ nhất định thuộc nhóm này, và không thuộc nhóm 90.05. Hơn nữa, cần lưu ý rằng, những máy móc và dụng cụ quang học không chỉ thuộc các nhóm từ 90.01 đến 90.12, mà còn có thể thuộc các nhóm khác của Chương này (cụ thể, nhóm 90.15, 90.18 hoặc 90.27).\nNhóm này gồm:\n(1) Các thiết bị laser, là những máy tạo ra hoặc khuếch đại một bức xạ điện từ trong dải bước sóng trong khoảng giữa 1 nanomet và một milimet (tia cực tím, ánh sáng nhìn bằng mắt thường và các miền hồng ngoại quang phổ), bằng quá trình phát xạ có kích thích và được kiểm soát. Ngoài môi trường kích hoạt laser, nguồn năng lượng (hệ thống kích thích) và các hốc quang học cộng hưởng (hệ thống phản xạ), các thiết bị laser nhìn chung còn gồm có một số các linh kiện phụ nhất định (ví dụ: một nguồn cung cấp điện, một thiết bị làm lạnh, một thiết bị điều khiển).",
+        "en": "In accordance with Chapter Note 5, measuring or checking optical appliances, instruments and machines are excluded from this heading and fall in heading 90.31. Chapter Note 4, however, classifies certain refracting telescopes in this heading and not in heading 90.05. It should, moreover, be noted that optical instruments and appliances can fall not only in headings 90.01 to 90.12 but also in other headings of this Chapter (in particular, heading 90.15, 90.18 or 90.27).\nThis heading includes:\n(1) Lasers. These produce or amplify electro-magnetic radiation in the wavelength range between 1 nanometre and 1 millimetre (ultra-violet, visible light and infra-red regions of the spectrum), by the process of controlled stimulated emission. In addition to the lasing medium, the energy source (pumping system) and the resonant optical cavity (reflector system), lasers generally also incorporate certain auxiliary components (e.g., a power supply unit, a cooling system, a control unit)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Một số linh kiện phụ này có thể cùng được đặt trong cùng một bọc như đầu laser (bộ laser nén) hoặc ở dạng những thiết bị riêng biệt được nối liền với đầu laser bằng những cáp điện,... (hệ thống laser). Ở trường hợp cuối cùng, các thiết bị được phân loại trong nhóm này miễn là chúng được trình bày cùng với nhau.\nCác thiết bị laser thuộc nhóm này không chỉ là để đưa vào các máy móc hoặc thiết bị, mà còn để sử dụng riêng rẽ, như là laser compact hoặc các hệ thống laser sử dụng vào những mục đích khác nhau như để nghiên cứu, giảng dạy hoặc thí nghiệm, ví dụ bút chỉ laser.\nTuy vậy, bị loại trừ khỏi nhóm này là các thiết bị laser đã được lắp đặt để thực hiện các chức năng khá là chuyên dụng bằng cách thêm một thiết bị phụ gồm nhiều chi tiết chuyên dụng (ví dụ, bàn cố định, bộ phận mang vật, thiết bị cung cấp hoặc đưa vào vị trí các vật cần gia công trên máy, thiết bị để quan sát và kiểm tra tiến độ của quá trình hoạt động, v.v...) và do đó chúng có thể được nhận biết như những máy gia công, dụng cụ y tế, các thiết bị điều khiển, thiết bị đo... Những máy móc và thiết bị mà được đưa vào trong các bộ laser cũng bị loại trừ khỏi nhóm này. Ví dụ như:\n(i) Máy dụng cụ để gia công bất kỳ vật liệu nào bằng cách dùng tia laser để cắt bỏ vật liệu (ví dụ, kim loại, thủy tinh, sản phẩm gốm, sứ hoặc plastic) (nhóm 84.56).\n(ii) Máy móc và thiết bị để hàn vảy hoặc hàn hoạt động bằng laser có hoặc không thể cắt (nhóm 85.15).\n(iii) Thiết bị cân bằng mức của các ống thủy (căn mức) bằng chùm laser (nhóm 90.15).\n(iv) Thiết bị laser đặc dụng trong y tế (ví dụ trong các phẫu thuật về mắt) (nhóm 90.18).\nTheo các quy định của Chú giải 1 và 2 của Chương này, các bộ phận và phụ kiện của các thiết bị laser, ví dụ ống laser, cũng thuộc nhóm này. Tuy nhiên, nhóm này không bao gồm các đèn flash điện dùng để bơm, như các đèn xenon, các đèn iot và các đèn thủy ngân (nhóm 85.39), các điot laser (nhóm 85.41) và các tinh thể laser (ví dụ các viên hồng ngọc), gương và thấu kính cho laser (nhóm 90.01 hoặc 90.02).\n(2) Các kính lúp và kính phóng đại cầm tay (ví dụ, loại bỏ túi hay sử dụng trong văn phòng), và các máy đếm dây; các kính lúp hai mặt (thường là trên giá đỡ) không giống với các kính hiển vi soi nổi phân loại ở nhóm 90.11, chúng được lắp thêm những thị kính nhưng không có vật kính.",
+        "en": "Some of these auxiliary components may be contained in the same housing as the laser head (compact laser) or may take the form of separate units, connected to the laser head by cables, etc. (laser system). In the latter case the units are classified in this heading provided they are presented together.\nLasers are classified in this heading not only if they are intended to be incorporated in machines or appliances but also if they can be used independently, as compact lasers or laser systems, for various purposes such as research, teaching or laboratory examinations, for example, laser pointers.\nHowever, the heading excludes lasers which have been adapted to perform quite specific functions by adding ancillary equipment consisting of special devices (e.g., work-tables, work-holders, means of feeding and positioning workpieces, means of observing and checking the progress of the operation, etc.) and which, therefore, are identifiable as working machines, medical apparatus, control apparatus, measuring apparatus, etc. Machines and appliances incorporating lasers are also excluded from the heading. Examples include:\n(i) Machine-tools for working any materials by removal of material by laser (e.g., metal, glass, ceramics or plastics) (heading 84.56).\n(ii) Laser soldering, brazing or welding machines and apparatus, whether or not capable of cutting (heading 85.15).\n(iii) Instruments for levelling (aligning) pipes by means of a laser beam (heading 90.15).\n(iv) Laser apparatus specially used for medical purposes (e.g., in ophthalmological operations) (heading 90.18).\nSubject to the provisions of Notes 1 and 2 to this Chapter, parts and accessories for lasers, for example, laser tubes, are also classified in this heading. However, this heading does not include electric flash lamps used for pumping, such as xenon lamps, iodine lamps and mercury vapour lamps (heading 85.39), laser diodes (heading 85.41) and laser crystals (e.g., rubies), laser mirrors and lenses (heading 90.01 or 90.02).\n(2) Hand magnifying glasses and magnifiers (e.g., pocket type or those for office use), and thread counters; binocular magnifying glasses (generally on supports) which, unlike stereoscopic microscopes of heading 90.11, are fitted with eyepieces but not with an objective."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "(3) “Những mắt kính gắn lên cửa” để nhìn ra bên ngoài.\n(4) Các kính ngắm và các bộ ngắm bằng khúc xạ hoặc phản xạ dùng cho vũ khí ở dạng riêng lẻ; các thiết bị quang học thích hợp dùng để lắp trên vũ khí, hoặc được thiết kế để lắp trên súng ngắn thì được phân loại theo vũ khí, xem Chú giải 1(d) của Chương 93.\n(5) Các loại kính thiên văn được thiết kế thành các bộ phận cho các thiết bị và dụng cụ thuộc các nhóm khác trong Chương này (ví dụ, các kính thiên văn là bộ phận của dụng cụ quan trắc) hoặc cho các máy móc thuộc Phần XVI.\n(6) Ống nội soi sợi quang học dùng trong công nghiệp. Ống nội soi sợi quang học dùng trong y tế (đèn nội soi) bị loại trừ (nhóm 90.18).\n(7) Các kính lập thể, kể cả các kính lập thể vận hành bằng tay.\n(8) Các kính vạn hoa, trừ các kính vạn hoa đồ chơi (Chương 95).\n(9) Các kính ngắm tiềm vọng khuếch đại quang học dùng cho tầu ngầm hoặc xe tăng chiến đấu; và các kính tiềm vọng không có khuếch đại quang học.\n(10) Các gương kính, đã gia công về quang học và không phù hợp để lắp ghép vào các thiết bị hoặc dụng cụ. Các gương hậu hoặc các gương khác, chưa gia công quang học (kể cả các gương cạo râu), bị loại trừ (nhóm 70.09 hoặc 83.06).\n(11) Các máy quang học để chuyển tín hiệu bằng ánh sáng.\n(12) Các máy soi phim dương bản chỉ có một thấu kính để phóng to.\nCÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo các quy định của Chú giải 1 và 2 thuộc Chương này, các bộ phận và phụ kiện cho các thiết bị hoặc dụng cụ trong nhóm này thì vẫn được phân loại vào nhóm.",
+        "en": "(3) “Door-eyes” for viewing through doors.\n(4) Telescopic sights for weapons, refracting or reflecting, presented separately; optical devices suitable for use with arms and mounted thereon or presented with the firearms on which they are designed to be mounted, are classified with the arm, see Note 1(d) to Chapter 93.\n(5) Telescopes of a kind designed to form parts of instruments of other headings of this Chapter (e.g., telescopes forming parts of surveying instruments) or of machines of Section XVI.\n(6) Fibrescopes for industrial use. Fibrescopes for medical purposes (endoscopes) are excluded (heading 90.18).\n(7) Stereoscopes, including hand-operated stereoscopes.\n(8) Kaleidoscopes, other than toy kaleidoscopes (Chapter 95).\n(9) Magnifying periscopes for submarines or tanks; and non-magnifying periscopes.\n(10) Mounted glass mirrors, optically worked, which are unsuitable for fitting to instruments or apparatus. Rear-view or other mirrors, not optically worked (including shaving mirrors), are excluded (heading 70.09 or 83.06).\n(11) Optical lightbeam signalling apparatus.\n(12) Slide viewers fitted with a single magnifying lens.\nPARTS AND ACCESSORIES\nSubject to the provisions of Notes 1 and 2 to this Chapter, parts and accessories of apparatus or appliances of this heading remain classified here."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9013.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Kính ngắm để lắp vào vũ khí; kính tiềm vọng; kính viễn vọng được thiết kế là bộ phận của máy, thiết bị, dụng cụ hoặc bộ dụng cụ của Chương này hoặc Phần XVI",
+        "en": "Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this Chapter or Section XVI"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9013.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị tạo tia laser, trừ điốt laser",
+        "en": "Lasers, other than laser diodes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9013.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các bộ phận, thiết bị và dụng cụ khác",
+        "en": "Other devices, appliances and instruments"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9013.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}

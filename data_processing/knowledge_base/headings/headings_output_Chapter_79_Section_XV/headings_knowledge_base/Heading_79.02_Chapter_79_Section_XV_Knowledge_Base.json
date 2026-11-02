@@ -1,0 +1,28 @@
+{
+  "heading_id": "79.02",
+  "heading_title": {
+    "vi": "Phế liệu và mảnh vụn kẽm.",
+    "en": "Zinc waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm 79.02 bao gồm phế liệu và mảnh vụn kẽm. Việc phân loại các mặt hàng này tuân theo các quy định tương tự như trong chú giải của nhóm 72.04 đối với phế liệu và mảnh vụn sắt thép. Tuy nhiên, nhóm này có những loại trừ quan trọng. Cụ thể, nó không bao gồm xỉ, tro và các chất thải phát sinh từ quá trình sản xuất hoặc mạ kẽm, ví dụ như cặn kết tủa và chất thải kim loại từ thùng nhúng, những sản phẩm này thuộc nhóm 26.20. Ngoài ra, các thỏi kẽm hoặc các dạng chưa gia công tương tự được đúc lại từ phế liệu và mảnh vụn kẽm cũng bị loại trừ và được phân loại vào nhóm 79.01.",
+    "en": "Heading 79.02 covers zinc waste and scrap. The classification of these items follows provisions similar to those in the explanatory note of heading 72.04 for iron and steel waste and scrap. However, this heading has important exclusions. Specifically, it does not include slag, ash, and residues from zinc manufacturing or galvanising processes, such as sludges and metallic residues from dipping tanks, which fall under heading 26.20. Furthermore, zinc ingots or similar unwrought forms that are cast from remelted zinc waste and scrap are also excluded and are classified under heading 79.01."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các điều khoản liên quan đến phế liệu và mảnh vụn trong chú giải nhóm 72.04, với những bổ sung thích hợp, cũng được áp dụng cho nhóm này. Nhóm này không bao gồm: (a) Xỉ, tro và chất thải từ quá trình sản xuất kẽm, từ quá trình mạ kẽm.",
+        "en": "The provisions concerning waste and scrap in the Explanatory Note to heading 72.04 apply, mutatis mutandis, to this heading. The heading excludes : (a) Slag, ash and residues from the manufacture of zinc, from galvanising processes."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các sản phẩm bị loại trừ (tiếp theo): ví dụ cặn kết tủa trong quá trình mạ kẽm và chất thải kim loại từ các thùng nhúng (nhóm 26.20). (b) Kẽm ở dạng thỏi và các dạng tương tự chưa qua gia công được đúc từ kẽm phế liệu và mảnh vụn được nấu lại (nhóm 79.01).",
+        "en": "Excluded products (continued): e.g., sludges deposited in electro galvanising, and metallic residues from dipping tanks (heading 26.20). (b) Ingots and similar unwrought forms cast from remelted zinc waste and scrap (heading 79.01)."
+      }
+    }
+  ],
+  "subheadings": []
+}

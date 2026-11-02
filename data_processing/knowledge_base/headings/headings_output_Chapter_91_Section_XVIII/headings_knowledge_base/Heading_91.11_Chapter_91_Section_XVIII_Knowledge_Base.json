@@ -1,0 +1,77 @@
+{
+  "heading_id": "91.11",
+  "heading_title": {
+    "vi": "Vỏ đồng hồ cá nhân và các bộ phận của nó.",
+    "en": "Watch cases and parts thereof."
+  },
+  "summary": {
+    "vi": "Nhóm 91.11 bao gồm vỏ cho các loại đồng hồ cá nhân thuộc nhóm 91.01 hoặc 91.02 như đồng hồ bỏ túi và đồng hồ đeo tay, được trình bày không có máy đồng hồ. Nhóm này cũng bao gồm các bộ phận chi tiết của vỏ như thân vỏ, dây đeo, nắp trong, vòng đệm và đáy. Vỏ và bộ phận có thể được làm từ nhiều vật liệu đa dạng, từ kim loại cơ bản, kim loại quý, đến plastic, ngà, và xà cừ, và có thể được trang trí. Các loại trừ quan trọng khỏi nhóm này bao gồm vỏ bảo vệ đơn giản, mặt kính đồng hồ, các bộ phận có công dụng chung bằng kim loại cơ bản của Phần XV hoặc plastic của Chương 39, và vỏ của đồng hồ thời gian thuộc nhóm 91.12.",
+    "en": "Heading 91.11 covers cases for personal watches of heading 91.01 or 91.02, such as pocket-watches and wrist-watches, presented without their movements. This heading also includes detailed parts of these cases, such as the body, pendant, dome, bezel, and bottom. The cases and parts can be made from a variety of materials, ranging from base metal and precious metal to plastics, ivory, and mother-of-pearl, and may be ornamented. Important exclusions from this heading include simple protective covers, watch glasses, parts of general use of base metal from Section XV or plastics from Chapter 39, and cases for clocks under heading 91.12."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm:\n(A) Vỏ đồng hồ cá nhân thuộc nhóm 91.01 hoặc 91.02 (đồng hồ bỏ túi, đồng hồ đeo tay, đồng hồ tính giờ), có hoặc không có mặt kính, được trình bày không có máy đồng hồ.\n(B) Bộ phận của các loại vỏ này, bao gồm: (1) Thân vỏ, có thể có bản lề. (2) Dây đeo (xích), hàn vào khung vỏ, cùng với vòng (khâu) và gút. (3) Nắp trong, bộ phận bên trong để che, bảo vệ máy đồng hồ. (4) Vòng đệm gắn vào mặt đồng hồ, phần để cố định kính. (5) Đáy, phần đậy kín đồng hồ ở mặt đối diện với mặt kính.",
+        "en": "This heading covers:\n(A) Cases for the watches of heading 91.01 or 91.02 (pocket-watches, wrist-watches, chronograph watches), with or without glasses, presented without movements.\n(B) Parts of these cases, including: (1) The case body, which may have hinges. (2) The pendant, welded to the case body, with the watch bow and the bushings. (3) The dome, the inner cover protecting the movement. (4) The bezel, the part which holds the glass. (5) The bottom, which closes the watch on the opposite side from the glass."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Vỏ đồng hồ đeo tay có tai (quai) để lắp dây đeo. Vỏ và các bộ phận của chúng có thể được làm bằng kim loại cơ bản (thép, niken), kim loại quý, kim loại dát phủ kim loại quý, plastic, ngà, mã não, xà cừ hay đồi mồi, và có thể được trang trí. Nhóm này không bao gồm: (a) Vỏ bảo vệ đơn giản và mặt kính đồng hồ cá nhân. (b) Bộ phận có công dụng chung đã định trong Chú giải 2 của Phần XV (bao gồm cả lò xo của vỏ đồng hồ đeo tay), làm bằng kim loại cơ bản (Phần XV) và các mặt hàng tương tự làm bằng plastic (Chương 39). (c) Vỏ đồng hồ thời gian và các loại tương tự thuộc nhóm 91.12.",
+        "en": "Cases for wrist-watches have lugs for attaching the wrist-straps. Watch cases and parts thereof may be of any material, mainly of base metal (steel, nickel), precious metal, or metal clad with precious metal, or sometimes of plastics, ivory, agate, mother-of-pearl or tortoise-shell, and they may be ornamented. The heading excludes: (a) Simple protective covers for watches, nor watch glasses. (b) Parts of general use as defined in Note 2 to Section XV (which include springs for watch cases), of base metal (Section XV) and similar goods of plastics (Chapter 39). (c) Clock cases and cases of a similar type for other goods of this Chapter (heading 91.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9111.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vỏ đồng hồ bằng kim loại quý hoặc bằng kim loại dát phủ kim loại quý",
+        "en": "Cases of precious metal or of metal clad with precious metal"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9111.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vỏ bằng kim loại cơ bản, đã hoặc chưa được mạ vàng hoặc mạ bạc",
+        "en": "Cases of base metal, whether or not gold- or silver-plated"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9111.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vỏ đồng hồ loại khác",
+        "en": "Other cases"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9111.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

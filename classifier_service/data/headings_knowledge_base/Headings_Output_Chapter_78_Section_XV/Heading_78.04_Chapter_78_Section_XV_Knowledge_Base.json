@@ -1,0 +1,72 @@
+{
+  "heading_id": "78.04",
+  "heading_title": {
+    "vi": "Chì ở dạng tấm, lá, dải và lá mỏng; bột và vảy chì.",
+    "en": "Lead plates, sheets, strip and foil; lead powders and flakes."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm chì ở dạng tấm, lá, dải và lá mỏng (được định nghĩa trong Chú giải 9(d) Phần XV) và bột chì (định nghĩa ở Chú giải 8(b) Phần XV) và vảy chì. Các điều khoản của chú giải nhóm 74.06, 74.09 và 74.10 được áp dụng cho nhóm này. Các sản phẩm này chủ yếu dùng để lợp mái, mạ kim loại, làm tấm chắn tia X, và đóng gói. Nhóm này không bao gồm bột và vảy chì được điều chế thành chất màu, sơn hoặc các loại tương tự (Chương 32).",
+    "en": "This heading covers lead plates, sheets, strip, and foil (as defined in Note 9(d) to Section XV) and lead powders (as defined in Note 8(b) to Section XV) and flakes. The provisions of the Explanatory Notes to headings 74.06, 74.09, and 74.10 apply to this heading. These products are mainly used for roofing, cladding, X-ray screens, and packing. The heading does not cover lead powders and flakes prepared as colours, paints, or the like (Chapter 32)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Chì ở dạng tấm, lá, dải và lá mỏng được định nghĩa trong Chú giải 9 (d) Phần XV. Các điều khoản của chú giải nhóm 74.09 và 74.10 áp dụng, với những sửa đổi phù hợp, cho nhóm này. Dạng tấm, lá và dải của chì được sử dụng chủ yếu là cho mục đích lợp mái, mạ kim loại, trong các bể chứa, các bình chứa và trong xưởng hoá chất khác, cho việc sản xuất tấm chắn tia X.... Chì ở dạng lá mỏng được sử dụng chủ yếu trong việc đóng gói (đặc biệt cho hộp chè có lớp tráng trong hoặc các hòm đựng tơ lụa). Trong một số trường hợp các lá mỏng được mạ hoặc được bao bọc bởi thiếc hoặc các kim loại khác.",
+        "en": "Lead plates, sheets, strip and foil are defined in Note 9 (d) to Section XV. The provisions of the Explanatory Notes to headings 74.09 and 74.10 apply, mutatis mutandis, to this heading. The main uses of lead plates, sheets and strip are for roofing purposes, cladding, in reservoirs, vats and other chemical plant, for the manufacture of X-ray screens, etc. Lead foil is mainly used for packing (especially for lining tea chests or cases for silk). In some cases the foil is clad or coated with tin or other metals."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm bột chì như định nghĩa ở chú giải 8 (b) phần XV và vảy chì. Các điều khoản của chú giải chi tiết nhóm 74.06 áp dụng, với những sửa đổi phù hợp, cho nhóm này.",
+        "en": "The heading also covers lead powders as defined in Note 8 (b) to Section XV and lead flakes. The provisions of the Explanatory Note to heading 74.06 apply, mutatis mutandis, to this heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm bột và vảy chì, được điều chế thành chất màu, sơn hoặc các loại tương tự (ví dụ: phối hợp với chất màu khác hoặc được đóng dưới dạng nhũ tương, dạng phân tán hoặc dạng bột nhão với chất kết dính hoặc dung môi) (Chương 32).",
+        "en": "The heading does not cover lead powders and flakes, prepared as colours, paints or the like (e.g., made up with other colouring matter or put up as suspensions, dispersions or pastes with a binder or solvent) (Chapter 32)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Chì ở dạng tấm, lá, dải và lá mỏng:",
+        "en": "- Plates, sheets, strip and foil:"
+      },
+      "subheading_id": "7804.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Lá, dải và lá mỏng có chiều dày (trừ phần bồi) không quá 0,2mm",
+        "en": "- - Sheets, strip and foil of a thickness (excluding any backing) not exceeding 0.2 mm"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Chì ở dạng tấm, lá, dải và lá mỏng:",
+        "en": "- Plates, sheets, strip and foil:"
+      },
+      "subheading_id": "7804.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7804.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bột và vảy chì",
+        "en": "Powders and flakes"
+      }
+    }
+  ]
+}

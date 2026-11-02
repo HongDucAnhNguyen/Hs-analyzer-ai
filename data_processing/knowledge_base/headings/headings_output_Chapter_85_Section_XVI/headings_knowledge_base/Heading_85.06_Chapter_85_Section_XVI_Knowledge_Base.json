@@ -1,0 +1,134 @@
+{
+  "heading_id": "85.06",
+  "heading_title": {
+    "vi": "Pin và bộ pin (+).",
+    "en": "Primary cells and primary batteries (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 85.06 bao gồm các loại pin và bộ pin sơ cấp, là các thiết bị tạo ra điện năng thông qua phản ứng hóa học không thể sạc lại hoặc sạc không hiệu quả. Về cấu tạo, chúng thường có anốt làm từ kẽm, magie hoặc liti và catốt làm từ điôxit mangan, ôxit thủy ngân hoặc ôxit bạc. Nhóm này áp dụng cho nhiều loại pin khác nhau như pin ướt, pin khô, pin trơ và pin nồng độ, với nhiều hình dạng như hình trụ hoặc hình nút áo. Chúng được sử dụng rộng rãi trong các thiết bị như đồng hồ, máy trợ thính, đồ chơi, và đèn pin. Việc phân loại không phụ thuộc vào mục đích sử dụng, ngay cả pin chuẩn dùng trong phòng thí nghiệm cũng thuộc nhóm này. Các bộ phận của pin, bao gồm cả vỏ, cũng được phân loại ở đây theo quy tắc chung của Phần XVI. Tuy nhiên, nhóm này loại trừ rõ ràng các loại ắc quy có thể sạc lại (nhóm 85.07), pin mặt trời (nhóm 85.41), điện cực cacbon (nhóm 85.45), pin đã qua sử dụng (nhóm 85.49), và các đầu nối điện (nhóm 85.36).",
+    "en": "Heading 85.06 covers primary cells and batteries, which generate electrical energy through chemical reactions and are not efficiently rechargeable. Structurally, they typically feature an anode made of zinc, magnesium, or lithium, and a cathode of manganese dioxide, mercuric oxide, or silver oxide. This heading applies to various types, including wet cells, dry cells, inert cells, and concentration cells, in shapes like cylindrical or button forms. They are widely used in devices such as watches, hearing aids, toys, and portable lamps. Classification is independent of their intended use; even standard laboratory cells are included. Parts of these cells and batteries, including their containers, are also classified here under the general rules of Section XVI. However, the heading explicitly excludes rechargeable accumulators (heading 85.07), solar cells (heading 85.41), carbon electrodes (heading 85.45), spent batteries (heading 85.49), and electrical terminals (heading 85.36)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Pin sơ cấp tạo ra điện năng bằng phản ứng hóa học và không thể sạc lại hiệu quả. Cấu tạo cơ bản gồm vỏ chứa chất điện phân (kiềm hoặc không kiềm như hiđrôxit kali, hiđrôxit natri, clorua amôniac) và hai điện cực. A-nốt thường làm bằng kẽm, magie hoặc liti. Ca-tốt làm bằng điôxit mangan, ôxit thủy ngân hoặc ôxit bạc. Pin liti có a-nốt bằng liti, ca-tốt bằng clorua ti-ô-nin, đi-ô-xit lưu huỳnh, điôxit mangan hoặc sun-phit sắt, và sử dụng chất điện phân khô. Pin kẽm-khí dùng chất điện phân kiềm hoặc trung tính, với a-nốt kẽm và ca-tốt là ôxy từ không khí.",
+        "en": "Primary cells generate electrical energy by chemical reactions and are not efficiently rechargeable. The basic structure consists of a container with an electrolyte (alkaline or non-alkaline such as potassium hydroxide, sodium hydroxide, ammonium chloride) and two electrodes. The anode is typically made of zinc, magnesium, or lithium. The cathode is made of manganese dioxide, mercuric oxide, or silver oxide. Lithium cells have a lithium anode, a cathode of thionyl chloride, sulphur dioxide, manganese dioxide, or iron sulphide, and use a nonaqueous electrolyte. Air-zinc cells use an alkaline or neutral electrolyte, with a zinc anode and an oxygen cathode from the air."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Pin sơ cấp được dùng cho chuông điện, điện thoại, máy trợ thính, camera, đồng hồ, máy tính bỏ túi, máy tạo nhịp tim, đài, đồ chơi, đèn xách tay, roi điện. Các loại pin bao gồm: (1) Pin ướt, có chất điện phân lỏng. (2) Pin khô, chất điện phân được cố định trong vật liệu thấm hút hoặc gel. (3) Pin trơ hoặc pin dự trữ, cần thêm nước hoặc chất điện phân trước khi sử dụng. (4) Pin nồng độ. Pin có thể có hình trụ hoặc hình nút áo. Pin ướt và pin trơ không có chất điện phân vẫn được phân loại ở đây.",
+        "en": "Primary cells are used for bells, telephones, hearing aids, cameras, watches, calculators, heart pacemakers, radios, toys, portable lamps, and electric prods. Types of cells include: (1) Wet cells, with a liquid electrolyte. (2) Dry cells, with the electrolyte immobilised in absorbent materials or gels. (3) Inert or reserve cells, which require the addition of water or electrolyte before use. (4) Concentration cells. Cells may be cylindrical or button-shaped. Wet and inert cells presented without their electrolyte remain classified here."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Theo quy tắc chung phân loại các bộ phận (xem chú giải chi tiết tổng quát phần XVI), bộ phận của pin và bộ pin, kể cả vỏ pin, được phân loại trong nhóm này.",
+        "en": "Subject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), the heading covers parts of primary cells or batteries, including containers."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm: Ắc quy có thể sạc lại (nhóm 85.07), đầu nối điện (nhóm 85.36), pin mặt trời (nhóm 85.41), điện cực cacbon (nhóm 85.45), pin và bộ pin đã sử dụng hết và phế liệu của nó (nhóm 85.49), và cặp nhiệt điện (ví dụ nhóm 85.03, 85.48, 90.33).",
+        "en": "This heading does not cover: Rechargeable cells and batteries (heading 85.07), Terminals (heading 85.36), Solar cells (heading 85.41), Carbon electrodes (heading 85.45), Spent primary cells and spent primary batteries and waste and scrap thereof (heading 85.49), and Thermocouples (e.g., headings 85.03, 85.48, 90.33)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải chi tiết phân nhóm: Phân loại trong các phân nhóm 8506.10, 8506.30 và 8506.40 được xác định bởi thành phần của ca-tốt. Tuy nhiên, pin có ca-tốt bằng điôxit mangan và a-nốt bằng liti được phân loại vào phân nhóm 8506.50. Phân loại trong phân nhóm 8506.50 được xác định bởi thành phần của a-nốt.",
+        "en": "Subheading Explanatory Notes: Classification in subheadings 8506.10, 8506.30 and 8506.40 is determined by the composition of the cathode. However, primary cells with a cathode of manganese dioxide and an anode of lithium are classified in subheading 8506.50. Classification in subheading 8506.50 is determined by the composition of the anode."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng dioxit mangan",
+        "en": "Manganese dioxide"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng oxit thủy ngân",
+        "en": "Mercuric oxide"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng oxit bạc",
+        "en": "Silver oxide"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng liti",
+        "en": "Lithium"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bằng kẽm-khí",
+        "en": "Air-zinc"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Pin và bộ pin khác",
+        "en": "Other primary cells and primary batteries"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8506.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

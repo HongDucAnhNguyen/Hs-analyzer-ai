@@ -1,0 +1,136 @@
+{
+  "heading_id": "85.25",
+  "heading_title": {
+    "vi": "Thiết bị phát dùng cho phát thanh sóng vô tuyến hoặc truyền hình, có hoặc không gắn với thiết bị thu hoặc ghi hoặc tái tạo âm thanh; camera truyền hình, camera kỹ thuật số và camera ghi hình ảnh.",
+    "en": "Transmission apparatus for radio-broadcasting or television, whether or not incorporating reception apparatus or sound recording or reproducing apparatus; television cameras, digital cameras and video camera recorders."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm hai loại sản phẩm chính. Thứ nhất là các thiết bị phát cho phát thanh sóng vô tuyến hoặc truyền hình, bao gồm cả thiết bị chuyển tiếp và thiết bị dùng trong công nghiệp. Thiết bị phát thanh truyền tín hiệu qua sóng điện từ không dây, trong khi thiết bị truyền hình có thể truyền bằng sóng hoặc qua dây. Thứ hai là camera truyền hình, camera kỹ thuật số và camera ghi hình ảnh, có chức năng chụp ảnh và chuyển đổi thành tín hiệu điện tử. Các camera này khác biệt với camera thuộc Chương 90, vốn ghi hình lên phim ảnh, bằng cách ghi dữ liệu lên các phương tiện lưu trữ điện tử (như băng từ, thẻ nhớ) thông qua cảm biến CMOS hoặc CCD. Nhóm cũng quy định các bộ phận của các thiết bị này được phân loại trong nhóm 85.29. Các loại trừ chính bao gồm thiết bị thuộc nhóm 85.17, thiết bị thu phát sóng trình bày riêng lẻ (nhóm 85.27), thiết bị thu truyền hình vệ tinh (nhóm 85.28), xe chuyên dụng (nhóm 87.05) và vệ tinh viễn thông (nhóm 88.02).",
+    "en": "This heading covers two main product categories. The first is transmission apparatus for radio-broadcasting or television, including relay and industrial-use apparatus. Radio-broadcasting equipment transmits signals via wireless electromagnetic waves, while television equipment can transmit by wave or by line. The second category includes television cameras, digital cameras, and video camera recorders, which capture images and convert them into electronic signals. These cameras are distinguished from those of Chapter 90, which record onto photographic film, by recording data onto electronic storage media (like magnetic tape, memory cards) via CMOS or CCD sensors. The heading also specifies that parts for these apparatus are classified in heading 85.29. Major exclusions include apparatus of heading 85.17, separately presented reception apparatus (heading 85.27), satellite television receivers (heading 85.28), special purpose vehicles (heading 87.05), and telecommunication satellites (heading 88.02)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) THIẾT BỊ PHÁT DÙNG CHO PHÁT THANH SÓNG VÔ TUYẾN HOẶC TRUYỀN HÌNH, CÓ HOẶC KHÔNG GẮN VỚI THIẾT BỊ THU HOẶC GHI HOẶC TÁI TẠO ÂM THANH\nThiết bị phát thanh thuộc nhóm này phải có chức năng phát tín hiệu thông qua sóng điện từ được truyền trong không khí mà không cần bất cứ kết nối có dây nào. Mặt khác, thiết bị truyền hình thuộc nhóm này có thể phát tín hiệu bằng sóng điện từ hoặc bằng dây dẫn.",
+        "en": "(A) TRANSMISSION APPARATUS FOR RADIO-BROADCASTING OR TELEVISION, WHETHER OR NOT INCORPORATING RECEPTION APPARATUS OR SOUND RECORDING OR REPRODUCING APPARATUS\nThe apparatus for radio-broadcasting falling in this group must be for the transmission of signals by means of electro-magnetic waves transmitted through the ether without any line connection. On the other hand television apparatus falls here whether the transmission is by electro-magnetic waves or by line."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm thiết bị này bao gồm:\n(1) Thiết bị truyền dẫn dùng cho phát thanh vô tuyến hoặc truyền hình.\n(2) Thiết bị chuyển tiếp sử dụng để nhận sóng và phát lại chúng để tăng phạm vi lan truyền (kể cả thiết bị chuyển tiếp truyền hình để gắn vào phương tiện bay).\n(3) Các thiết bị truyền dẫn truyền hình chuyển tiếp để phát, thông qua một ăngten và phản xạ parabol, từ một phòng thu hoặc từ vị trí của một đài phát thanh ngoài tới máy phát chính.\n(4) Các máy phát truyền hình dùng cho mục đích công nghiệp (ví dụ, để đọc các máy móc/thiết bị ở khoảng cách xa, hoặc để quan sát các vị trí nguy hiểm). Các thiết bị truyền dẫn này thường sử dụng dây để truyền dữ liệu.",
+        "en": "This group includes:\n(1) Transmitters for radio-broadcasting or television.\n(2) Relay apparatus used to pick up a broadcast and retransmit it and so increase the range (including television relay apparatus for mounting in aircraft).\n(3) Relay television transmitters for transmission, by means of an aerial and parabolic reflector, from the studio or site of an outside broadcast to the main transmitter.\n(4) Television transmitters for industrial use (e.g., for reading instruments at a distance, or for observation in dangerous localities). With this apparatus the transmission is often by line."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) CAMERA TRUYỀN HÌNH, CAMERA KỸ THUẬT SỐ VÀ CAMERA GHI HÌNH ẢNH\nNhóm này bao gồm các camera chụp hình ảnh và chuyển đổi chúng thành tín hiệu điện tử mà:\n(1) được phát như hình ảnh video đến một thiết bị bên ngoài camera để quan sát hoặc ghi từ xa (ví dụ, máy ảnh truyền hình); hoặc\n(2) được ghi trong camera như một hình ảnh tĩnh hoặc động (ví dụ, máy camera kỹ thuật số và camera ghi hình ảnh).\nNhiều loại camera của nhóm này có thể có hình dáng vật lý giống như máy chụp ảnh của nhóm 90.06 hoặc các loại máy camera điện ảnh của nhóm 90.07. Tuy nhiên, các máy chụp ảnh và máy camera điện ảnh của Chương 90 thì hiện ảnh trên các tấm phim lưu hình ảnh thuộc Chương 37 trong khi máy ảnh của nhóm 85.25 thì chuyển đổi hình ảnh thành dữ liệu tương tự hoặc dữ liệu kỹ thuật số.\nCamera của nhóm này ghi nhận hình ảnh bằng cách tập trung ảnh lên một thiết bị nhạy sáng, ví dụ như là một thiết bị bán dẫn oxit kim loại (CMOS) hoặc thiết bị tích điện kép (CCD). Thiết bị nhạy sáng gửi đi một dữ liệu hình ảnh dạng điện để dữ liệu đó tiếp tục được xử lý thành dạng ghi tương tự hoặc kỹ thuật số của các hình ảnh.\nCamera truyền hình có thể có hoặc không có thiết bị đi kèm để điều khiển từ xa các thấu kính và khẩu độ cũng như là điều khiển từ xa sự di chuyển của camera theo chiều dọc và chiều ngang (ví dụ, camera truyền hình cho hãng phim truyền hình hoặc tường thuật truyền hình, các loại sử dụng cho mục đích công nghiệp hoặc khoa học, trong truyền hình mạch kín (giám sát) hoặc giám sát giao thông). Những camera này không có bất kỳ khả năng ghi hình ảnh nào ở trong nó. Một số camera loại này cũng được sử dụng với máy xử lý dữ liệu tự động (ví dụ webcam).",
+        "en": "(B) TELEVISION CAMERAS, DIGITAL CAMERAS AND VIDEO CAMERA RECORDERS\nThis group covers cameras that capture images and convert them into an electronic signal that is:\n(1) transmitted as a video image to a location outside the camera for viewing or remote recording (i.e., television cameras); or\n(2) recorded in the camera as a still image or as a motion picture (i.e., digital cameras and video camera recorders).\nMany of the cameras of this heading may physically resemble the photographic cameras of heading 90.06 or the cinematographic cameras of heading 90.07. However, photographic and cinematographic cameras of Chapter 90 expose images onto photographic film of Chapter 37, while the cameras of this heading convert the images into analogue or digital data.\nThe cameras of this heading capture an image by focusing the image onto a light-sensitive device, such as a complementary metal oxide semiconductor (CMOS) or charge-coupled device (CCD). The light-sensitive device sends an electrical representation of the images to be further processed into an analogue or digital record of the images.\nTelevision cameras may or may not have an incorporated device for remote control of lens and diaphragm as well as for remote control of the horizontal and vertical movement of the camera (e.g., television cameras for television studios or for reporting, those used for industrial or scientific purposes, in closed circuit television (surveillance) or for supervising traffic). These cameras do not have any inbuilt capability of recording images. Some of these cameras may also be used with automatic data processing machines (e.g., webcams)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "\"Thiết bị di chuyển\", thiết bị cơ học di động dùng cho camera truyền hình, có hoặc không xuất trình riêng rẽ, được loại trừ khỏi nhóm này (nhóm 84.28).\nCũng loại trừ khỏi nhóm này là các thiết bị điện dùng để điều khiển từ xa và lấy nét cho camera truyền hình, khi xuất trình riêng rẽ (nhóm 85.37).",
+        "en": "“Travelling”, mobile mechanical equipment for television cameras, whether or not presented separately, is excluded from this heading (heading 84.28).\nAlso excluded from this heading is electrical equipment for long-distance control and focussing of television cameras, when presented separately (heading 85.37)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Trong camera kỹ thuật số và camera ghi video, hình ảnh được ghi lên một thiết bị lưu trữ bên trong hoặc lên các phương tiện lưu trữ khác (ví dụ, băng từ, phương tiện quang học, phương tiện bán dẫn hoặc phương tiện khác của nhóm 85.23). Chúng có thể bao gồm một bộ biến đổi tín hiệu tương tự/ kỹ thuật số (ADC) và một cổng đầu ra cung cấp phương tiện để gửi hình ảnh tới các đơn vị chức năng của máy xử lý dữ liệu tự động, máy in, ti vi, hoặc các máy quan sát khác. Một vài camera kỹ thuật số và camera ghi hình ảnh gồm các kết nối đầu vào để chúng có thể ghi các file hình ảnh kỹ thuật số hoặc tương tự từ các máy bên ngoài vào bên trong.\nNhìn chung, các camera của nhóm này được trang bị với một kính ngắm quang học hoặc màn tinh thể lỏng (LCD), hoặc cả hai. Một số camera gắn với màn tinh thể lỏng có thể sử dụng màn hình hiển thị vừa như một kính ngắm để chụp hình vừa như một màn hình để hiển thị hình ảnh nhận được từ các nguồn khác hoặc tái tạo hình ảnh đã được ghi lại.",
+        "en": "In digital cameras and video camera recorders, images are recorded onto an internal storage device or onto media (e.g., magnetic tape, optical media, semiconductor media or other media of heading 85.23). They may include an analogue/digital converter (ADC) and an output terminal which provides the means to send images to units of automatic data processing machines, printers, televisions or other viewing machines. Some digital cameras and video camera recorders include input terminals so that they can internally record analogue or digital image files from such external machines.\nGenerally, the cameras of this group are equipped with an optical viewfinder or a liquid crystal display (LCD), or both. Many cameras equipped with an LCD can employ the display both as a viewfinder when capturing images and as a screen for displaying images received from other sources or for reproducing images already recorded."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung phân loại các bộ phận (xem Chú giải Chi tiết Tổng quát Phần XVI), bộ phận của các thiết bị thuộc nhóm này được phân loại vào nhóm 85.29.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the apparatus of this heading are classified in heading 85.29."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm:\n(a) Thiết bị của nhóm 85.17.\n(b) Các thiết bị thu phát sóng vô tuyến để kết hợp với thiết bị chuyển tiếp nhưng được xuất trình riêng (nhóm 85.27).\n(c) Thiết bị thu truyền hình vệ tinh và hệ thống nhận truyền hình vệ tinh (nhóm 85.28).\n(d) Các xe chuyên dụng được trang bị cố định với máy phát thanh hoặc truyền hình của nhóm này (thường thuộc nhóm 87.05).\n(e) Vệ tinh viễn thông (nhóm 88.02).",
+        "en": "The heading also excludes:\n(a) Apparatus of heading 85.17.\n(b) Separately presented radio-broadcasting reception apparatus for incorporation in relay apparatus (heading 85.27).\n(c) Satellite television receivers and satellite television reception systems (heading 85.28).\n(d) Special purpose vehicles permanently equipped with radio-broadcasting or television transmitters of this heading (generally heading 87.05).\n(e) Telecommunication satellites (heading 88.02)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8525.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị phát",
+        "en": "Transmission apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8525.60",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị phát có gắn với thiết bị thu",
+        "en": "Transmission apparatus incorporating reception apparatus"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Camera truyền hình, camera kỹ thuật số và camera ghi hình ảnh:",
+        "en": "Television cameras, digital cameras and video camera recorders"
+      },
+      "subheading_id": "8525.81",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại tốc độ cao nêu tại Chú giải Phân nhóm 1 của Chương này",
+        "en": "High-speed goods as specified in Subheading Note 1 to this Chapter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Camera truyền hình, camera kỹ thuật số và camera ghi hình ảnh:",
+        "en": "Television cameras, digital cameras and video camera recorders"
+      },
+      "subheading_id": "8525.82",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, được làm cứng bức xạ hoặc chịu bức xạ nêu tại Chú giải Phân nhóm 2 của Chương này",
+        "en": "Other, radiation-hardened or radiation-tolerant goods as specified in Subheading Note 2 to this Chapter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Camera truyền hình, camera kỹ thuật số và camera ghi hình ảnh:",
+        "en": "Television cameras, digital cameras and video camera recorders"
+      },
+      "subheading_id": "8525.83",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, loại nhìn ban đêm nêu tại Chú giải Phân nhóm 3 của Chương này",
+        "en": "Other, night vision goods as specified in Subheading Note 3 to this Chapter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Camera truyền hình, camera kỹ thuật số và camera ghi hình ảnh:",
+        "en": "Television cameras, digital cameras and video camera recorders"
+      },
+      "subheading_id": "8525.89",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

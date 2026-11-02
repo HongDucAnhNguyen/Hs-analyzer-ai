@@ -1,0 +1,157 @@
+{
+  "heading_id": "29.41",
+  "heading_title": {
+    "vi": "Kháng sinh (+).",
+    "en": "Antibiotics (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm kháng sinh, là những chất được tiết ra bởi vi sinh vật sống có tác dụng giết chết hoặc ức chế sự tăng trưởng của các vi sinh vật khác. Chúng được sử dụng chủ yếu vì tác dụng ức chế mạnh mẽ đối với các vi sinh vật gây bệnh. Kháng sinh có thể là một chất duy nhất hoặc một nhóm các chất liên quan, với cấu trúc hóa học có thể đã biết hoặc chưa. Nhóm này bao gồm nhiều loại đa dạng về mặt hóa học như: dị vòng (penicillin), liên quan đến đường (streptomycin), tetracycline, chloramphenicol, macrolide (erythromycin), và polypeptide. Nhóm này cũng bao gồm các kháng sinh biến đổi hóa học, kháng sinh tự nhiên được tái tổng hợp, và các sản phẩm tổng hợp có liên quan chặt chẽ. Thuật ngữ “các dẫn xuất” đề cập đến các hợp chất kháng sinh hoạt động giữ lại các đặc điểm cơ bản và cấu trúc hóa học cơ bản của hợp chất gốc.\n\nNhóm này không bao gồm:\n(a) Chế phẩm kháng sinh dùng trong thức ăn gia súc (nhóm 23.09).\n(b) Hợp chất hữu cơ đã xác định về mặt hóa học có hoạt tính kháng sinh yếu, dùng làm chất trung gian (các nhóm đầu của Chương này).\n(c) Các dẫn xuất của axit quinolinecarboxylic, nitrofuran, sulphonamit và các hợp chất hữu cơ khác có tác dụng kháng khuẩn (các nhóm đầu của Chương này).\n(d) Hỗn hợp trộn có chủ định của các kháng sinh (ví dụ, penicillin và streptomycin) dùng cho mục đích phòng bệnh và chữa bệnh (nhóm 30.03 hoặc 30.04).\n(e) Các sản phẩm trung gian trong quá trình sản xuất kháng sinh có hàm lượng kháng sinh thường không vượt quá 70% (nhóm 38.24).",
+    "en": "This heading covers antibiotics, which are substances secreted by living micro-organisms that have the effect of killing other micro-organisms or inhibiting their growth. They are used principally for their powerful inhibitory effect on pathogenic micro-organisms. Antibiotics may consist of a single substance or a group of related substances, with a chemical structure that may or may not be known or chemically defined. They are chemically diverse and include types such as: heterocyclic (penicillins), sugar-related (streptomycins), tetracyclines, chloramphenicol, macrolides (erythromycin), and polypeptides. The heading also includes chemically modified antibiotics, natural antibiotics reproduced by synthesis, and closely related synthetic products. The term \"derivatives\" refers to active antibiotic compounds which retain the essential characteristics and basic chemical structure of the parent compound.\n\nThis heading does not cover:\n(a) Antibiotic preparations of a kind used in animal feeding (heading 23.09).\n(b) Chemically defined organic compounds with a very low antibiotic activity, used as intermediates (earlier headings of this Chapter).\n(c) Quinolinecarboxylic acid derivatives, nitrofurans, sulphonamides and other chemically defined organic compounds having antibacterial action (earlier headings of this Chapter).\n(d) Deliberate intermixtures of antibiotics (e.g., a mixture of penicillin and streptomycin) for therapeutic or prophylactic uses (heading 30.03 or 30.04).\n(e) Intermediate products obtained during the manufacture of antibiotics with an antibiotic content generally not exceeding 70% (heading 38.24)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Kháng sinh là những chất được tiết ra bởi các vi sinh vật sống mà có tác dụng giết chết các vi sinh vật khác hoặc ức chế sự tăng trưởng của chúng. Chúng được sử dụng chủ yếu bởi tác dụng ức chế mạnh mẽ của chúng trên các vi sinh vật gây bệnh, đặc biệt là vi khuẩn hoặc nấm, hoặc trong một số trường hợp trên khối ung thư. Chúng có thể có hiệu quả ở nồng độ một vài microgram trên mỗi ml máu.\nThuốc kháng sinh có thể bao gồm một chất hoặc một nhóm các chất có liên quan, cấu trúc hóa học của chúng có thể có hoặc có thể không được biết đến hoặc được xác định về mặt hóa học. Chúng đa dạng về mặt hóa học và bao gồm:\n(1) Heterocyclic, ví dụ, novobiocin, cephalosporins, streptothricin, faropenem (INN), doripenem (INN), monobactams (e.g., aztreonam (INN)). Quan trọng nhất là penicillin* do một số loại nấm Penicrllium tiết ra. Loại này cũng bao gồm cả procaine penicillin.\n(2) Chất có liên quan đến đường, ví dụ, streptomycins*.\n(3) Tetracyclin và các dẫn xuất của chúng; ví dụ, chlortetracyclin (INN), oxytetracyclin (INN) *.\n(4) Chloramphenicol và các dẫn xuất của chúng, ví dụ, thiamphenicol và florfenicol.\n(5) Macrolides, ví dụ, erythromycin*, amphotericin, B, tylosin.\n(6) Polypeptides, ví dụ, actinomycin, bacitracin, gramicidin, tyrocidin.",
+        "en": "Antibiotics are substances secreted by living micro organisms which have the effect of killing other micro organisms or inhibiting their growth. They are used principally for their powerful inhibitory effect on pathogenic micro organisms, particularly bacteria or fungi, or in some cases on neoplasms. They can be effective at a concentration of a few micrograms per ml in the blood.\nAntibiotics may consist of a single substance or a group of related substances, their chemical structure may or may not be known or be chemically defined. They are chemically diverse and include the following:\n(1) Heterocyclic, e.g., novobiocin, cephalosporins, streptothricin, faropenem (INN), doripenem (INN), monobactams (e.g., aztreonam (INN)). The most important of this class are the penicillins* which are secreted by several species of the fungus Peniciliium. This class also includes procaine penicillin.\n(2) Sugar-related, e.g., streptomycins*.\n(3) Tetracyclines and their derivatives, e.g., chlortetracycline (INN), oxytetracycline (INN) *.\n(4) Chloramphenicol and its derivatives, e.g., thiamphenicol and florfenicol.\n(5) Macrolides, e.g., erythromycin*, amphotericin B, tylosin.\n(6) Polypeptides, e.g., actinomycins, bacitracin, gramicidins, tyrocidin."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(7) Các kháng sinh khác, ví dụ, sarkomycin, vacomycin.\nNhóm này cũng bao gồm các thuốc kháng sinh biến đổi hóa học được sử dụng tương tự. Những kháng sinh này có thể được điều chế bằng cách cô lập các thành phần có được từ sự phát triển tự nhiên của vi sinh vật và sau đó biến đổi cấu trúc bằng phản ứng hóa học hoặc bằng cách cộng thêm vào nhánh phụ để tạo ghép những nhóm phân tử mong muốn vào phân tử chất kháng sinh, bằng quá trình xử lý tế bào (penicillin bán tổng hợp); hoặc bằng quá trình tổng hợp sinh học (ví dụ, penicillin từ các amino axit được chọn).\nCác kháng sinh tự nhiên được tái tổng hợp lại (ví dụ, cloramphenicol) cũng được phân loại vào nhóm này, chúng là những sản phẩm tổng hợp có liên quan đến kháng sinh tự nhiên và có công dụng tương tự (ví dụ, thiamphenicol).\nTrong nhóm này, thuật ngữ “các dẫn xuất” là đề cập đến các hợp chất kháng sinh hoạt động mà có thể thu được từ một hợp chất thuộc nhóm này và vẫn giữ được các đặc điểm cơ bản của hợp chất gốc, bao gồm cả cấu trúc hóa học cơ bản của nó.",
+        "en": "(7) Other antibiotics, e.g., sarkomycin, vancomycin.\nThis heading also includes chemically modified antibiotics used as such. These may be prepared by isolating ingredients produced by natural growth of the micro organism and then modifying the structure by chemical reaction or by adding sidechain precursors to the growth-medium so that desired groups are incorporated into the molecule by the cell processes (semi synthetic penicillins); or by bio synthesis (e.g., penicillins from selected amino acids).\nNatural antibiotics reproduced by synthesis (e.g., chloramphenicol) are classified in this heading, as are certain synthetic products closely related to natural antibiotics and used as such (e.g., thiamphenicol).\nIn this heading, the term “derivatives” refers to active antibiotic compounds which could be obtained from a compound of this heading and which retain the essential characteristics of the parent compound, including its basic chemical structure."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\n(a) Chế phẩm kháng sinh dùng trong thức ăn gia súc (ví dụ, mycelium khô và đã được chuẩn hoá) (nhóm 23.09).\n(b) Hợp chất hữu cơ đã xác định về mặt hóa học với hoạt tính kháng sinh yếu, sử dụng như chất trung gian trong quá trình sản xuất kháng sinh (phân loại vào các nhóm đầu của Chương này tùy theo cấu trúc).\n(c) Các dẫn xuất của axit quinolinecarboxylic, nitrofuran, sulphonamit và các hợp chất hữu cơ đã được xác định về mặt hóa học khác của các nhóm đầu của Chương này có độc tính chống vi khuẩn.\n(d) Hỗn hợp trộn có chủ định của các kháng sinh (ví dụ, hỗn hợp của penicillin và streptomycin) dùng với mục đích phòng bệnh và chữa bệnh (nhóm 30.03 hoặc 30.04)\n(e) Các sản phẩm trung gian được tạo thành trong quá trình sản xuất chất kháng sinh bằng cách tinh lọc và sau giai đoạn chiết xuất đầu tiên, với thành phần kháng sinh thường không vượt quá 70% (nhóm 38.24).",
+        "en": "This heading does not cover:\n(a) Antibiotic preparations of a kind used in animal feeding (e.g, dried and standardised complete mycelium) (heading 23.09).\n(b) Chemically defined organic compounds with a very low antibiotic activity, used as intermediates in the manufacture of antibiotics (earlier headings of this Chapter according to structure).\n(c) Quinolinecarboxylic acid derivatives, nitrofurans, sulphonamides and other chemically defined organic compounds of earlier headings of this Chapter having antibacterial action.\n(d) Deliberate intermixtures of antibiotics (e.g., a mixture of penicillin and streptomycin) for therapeutic or prophylactic uses (heading 30.03 or 30.04).\n(e) Intermediate products obtained during the manufacture of antibiotics by filtering and first stage extraction, with an antibiotic content generally not exceeding 70 % (heading 38.24)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải phân nhóm.\nPhân nhóm 2941.10\nPhân nhóm này bao gồm toàn bộ các penicillin, có nghĩa là tất cả các hợp chất kháng sinh hoạt động mà phân tử có chứa...",
+        "en": "Subheading Explanatory Notes.\nSubheading 2941.10\nThis subheading includes all penicillins, that is, all active antibiotic compounds whose molecules contain the penin or 6-aminopenicillanic acid..."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "...penin hoặc bộ khung axit 6 -aminopenicillinanic của a- β-lactam của amino-(4-carboxy-5,5-dimethylthiazolidin-2-yl) aceticaxit, trong đó nhóm amin của vòng lactam liên kết với axit hữu cơ bằng một liên kết amit. Việc phân loại không bị ảnh hưởng bởi cấu trúc của axit hữu cơ, việc tạo thành muối hoặc sự thay thế khác trên nhóm carboxyl của vòng thiazolidine. Tuy nhiên, cấu trúc cơ bản của penin (bộ khung) thì vẫn được giữ nguyên.\nPhân nhóm này bao gồm, ngoài những đề cập khác, ampicillin (INN), amoxicillin (INN) and talampicillin (INN).\nTuy nhiên, phân nhóm này không bao gồm các kháng sinh khác chứa vòng beta-lactam như cephalosporins (ví dụ., cefazolin (INN), cefaclor (INN)), cephamycins (ví dụ., cefoxitin (INN)), oxacephems, penems, carbapenems, ...",
+        "en": "...skeleton of a β-lactam of amino-(4-carboxy-5,5-dimethylthiazolidin-2-yl) acetic acid, in which the amine group of the lactam ring is attached to organic acids by an amide bond. Neither the structure of these organic acids, nor the salt formation or other substitutions on the carboxyl group of the thiazolidine ring, affect the classification. However, the basic structure of penin (skeleton) should remain unmodified.\nThis subheading includes, inter alia, ampicillin (INN), amoxicillin (INN) and talampicillin (INN).\nHowever, this subheading excludes other antibiotics containing a beta-lactam ring such as cephalosporins (e.g., cefazolin (INN), cefaclor (INN)), cephamycins (e.g., cefoxitin (INN)), oxacephems, penems, carbapenems, etc."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Phân nhóm 2941.20\nCác dẫn xuất streptomycin là thuốc kháng sinh hoạt động có phân tử chứa trong cấu trúc cả ba thành phần sau của khung streptomycin: streptidine và methylglucosamine liên kết với 5 deoxylyxose. Các este trong vị trí bất kỳ và glycozit cũng được coi là dẫn xuất*.\nPhân nhóm này bao gồm, ngoài những đề cập khác, dihydrostreptomycin (INN) và streptoniazid (INN). Tuy nhiên, bluensomycin (INN) mà không giữ lại hai nhóm amidino của streptidine, cũng như không có các aminoglycoside khác chứa các dẫn xuất của streptamine, như neomycin (INN), đươc coi là dẫn xuất streptomycin.",
+        "en": "Subheading 2941.20\nStreptomycin derivatives are active antibiotics whose molecules contain in their structure all the three following constituents of the streptomycin skeleton: streptidine and methylglucosamine linked to 5-deoxylyxose. Esters in any position and glycosides are also considered as derivatives*.\nThis subheading includes, inter alia, dihydrostreptomycin (INN) and streptoniazid (INN). However, neither bluensomycin (INN) which does not retain the two amidino groups of streptidine, nor other aminoglycosides containing derivatives of streptamine, such as neomycin (INN), are regarded as streptomycin derivatives."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Phân nhóm 2941.30\nCác dẫn xuất tetracycline là thuốc kháng sinh hoạt tính có chứa trong phân tử 4 dimetylamino-naphthacene-2-cacboxamit đã hydro hóa một phần của khung tetracycline. Các este cũng được coi là dẫn xuất. *\nPhân nhóm này bao gồm, ngoài những đề cập khác, chlortetracycline (INN), eravacycline (INN) và rolitetracycline (INN). Tuy nhiên, anthracyclines của loại \"rubicin\", như aclarubicin (INN) và doxorubicin (INN), không được coi là dẫn xuất tetracycline.",
+        "en": "Subheading 2941.30\nTetracycline derivatives are active antibiotics whose molecules contain partially hydrogenated 4-dimethylamino-naphthacene- 2-carboxamide of the tetracycline skeleton. Esters are also considered as derivatives. *\nThis subheading includes, inter alia, chlortetracycline (INN), eravacycline (INN) and rolitetracycline (INN). However, anthracyclines of the “rubicin” type, such as aclarubicin (INN) and doxorubicin (INN), are not regarded as tetracycline derivatives."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Phân nhóm 2941.40\nCác dẫn xuất chloramphenicol là kháng sinh hoạt tính trong phân tử chứa N-(2-hydroxy-1-methyl-2-phenethyl) acetamit của bộ khung chloramphenicol.\nPhân nhóm này bao gồm, ngoài những đề cập khác, thiamphenicol (INN) và florfenicol (INN). Tuy nhiên, cetofenicol (INN) không thuộc về nhóm này bởi vì nó không phải là kháng sinh hoạt động.",
+        "en": "Subheading 2941.40\nChloramphenicol derivatives are active antibiotics whose molecules contain N-(2-hydroxy-1-methyl-2-phenethyl) acetamide of the chloramphenicol skeleton.\nThis subheading includes, inter alia, thiamphenicol (INN) and florfenicol (INN). However, cetofenicol (INN) does not belong to this group because it is not antibiotically active."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Phân nhóm 2941.50",
+        "en": "Subheading 2941.50"
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các dẫn xuất erythromycin là kháng sinh hoạt động mà trong phân tử có chứa các thành phần sau của khung erythromycin: 13-ethyl-13-tridecanolide với liên kết desosamine và mycarose (hoặc cladinose). Este cũng được coi là dẫn xuất*.\nPhân nhóm này bao gồm, ngoài những đề cập khác, clarithromycin (INN) và dirithromycin (INN). Tuy nhiên, azithromycin (INN) mà có một vòng trung tâm 15-nguyên tử và picromycin, trong đó không chứa cladinose hoặc mycarose, không được coi là dẫn xuất erythromycin.",
+        "en": "Erythromycin derivatives are active antibiotics whose molecules contain the following constituents of the erythromycin skeleton : 13-ethyl-13-tridecanolide with linked desosamine and mycarose (or cladinose). Esters are also considered as derivatives*.\nThis subheading includes, inter alia, clarithromycin (INN) and dirithromycin (INN). However, azithromycin (INN) which contains a 15-atom central ring and picromycin which contains no cladinose or mycarose, are not regarded as erythromycin derivatives."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2941.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các penicillin và các dẫn xuất của chúng có cấu trúc là axit penicillanic; muối của chúng",
+        "en": "Penicillins and their derivatives with a penicillanic acid structure; salts thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2941.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các streptomycin và dẫn xuất của chúng; muối của chúng",
+        "en": "Streptomycins and their derivatives; salts thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2941.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Các tetracyline và dẫn xuất của chúng; muối của chúng",
+        "en": "Tetracyclines and their derivatives; salts thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2941.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cloramphenicol và các dẫn xuất của nó; muối của chúng",
+        "en": "Chloramphenicol and its derivatives; salts thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2941.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Erythromycin và các dẫn xuất của nó; muối của chúng",
+        "en": "Erythromycin and its derivatives; salts thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "2941.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "heading_id": "89.08",
+  "heading_title": {
+    "vi": "Tàu thuyền và kết cấu nổi khác để phá dỡ.",
+    "en": "Vessels and other floating structures for breaking up."
+  },
+  "summary": {
+    "vi": "Nhóm 89.08 chỉ áp dụng cho các tàu thuyền và kết cấu nổi khác, vốn thuộc các nhóm từ 89.01 đến 89.07, nhưng được trình bày với mục đích để phá dỡ. Các tàu thuyền và cấu kiện này thường đã lỗi thời, hư hỏng, hoặc đã được tháo dỡ các thiết bị và máy móc trước khi được đưa đi phá dỡ. Tiêu chí phân loại chính là mục đích sử dụng cuối cùng là để phá hủy, không phải để sửa chữa hay sử dụng lại. Nhóm này không có các phân nhóm chi tiết hơn.",
+    "en": "Heading 89.08 is restricted to vessels and other floating structures, which would otherwise fall under headings 89.01 to 89.07, but are presented for the purpose of being broken up. These vessels and structures are typically obsolete, damaged, or may have had their instruments and machinery removed prior to being sent for destruction. The key classification criterion is the final intended use for breaking up, not for repair or re-use. This heading is not further subdivided."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này chỉ bao gồm những tàu thuyền và các cấu kiện nổi khác thuộc các nhóm từ 89.01 đến 89.07, khi chúng được trình bày với mục đích phá dỡ. Thông thường, đây là những tàu thuyền đã cũ, bị hư hỏng, và đôi khi đã bị tháo dỡ các thiết bị và máy móc.",
+        "en": "This heading is restricted to the vessels and other floating structures of headings 89.01 to 89.07 when presented for the purpose of being broken up. Such vessels may be obsolete or damaged, and may have had their instruments, machinery, etc., removed prior to presentation."
+      }
+    }
+  ],
+  "subheadings": []
+}

@@ -1,0 +1,58 @@
+{
+  "heading_id": "07.08",
+  "heading_title": {
+    "vi": "Rau đậu, đã hoặc chưa bóc vỏ, tươi hoặc ướp lạnh.",
+    "en": "Leguminous vegetables, shelled or unshelled, fresh or chilled."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các loại rau đậu tươi hoặc ướp lạnh, đã hoặc chưa bóc vỏ. Các loại này bao gồm đậu Hà Lan (Pisum sativum), đậu hạt (Vigna spp., Phaseolus spp.), đậu tằm, đậu ngựa, đậu dạ hương, đậu Hà Lan loại nhỏ (garbanzos), đậu lăng và hạt Guar.\nNhóm này không bao gồm: (a) Hạt đỗ tương (nhóm 12.01); (b) Hạt cây minh quyết (nhóm 12.12).",
+    "en": "This heading covers leguminous vegetables, fresh or chilled, shelled or unshelled. These include peas (Pisum sativum), beans (Vigna spp., Phaseolus spp.), broad beans, horse beans, hyacinth beans, chickpeas (garbanzos), lentils and Guar seeds.\nThe heading excludes: (a) Soya beans (heading 12.01); (b) Locust beans (heading 12.12)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các loại rau đậu thuộc nhóm này bao gồm:\n(1) Đậu Hà Lan (Pisum sativum), gồm cả đậu Hà Lan hạt xanh hoặc đậu làm thức ăn cho gia súc.\n(2) Đậu hạt (Vigna spp., Phaasseolus spp) gồm cả đậu Lima hoặc đậu bơ, đậu xanh, đậu ăn được cả vỏ (rất đa dạng như là đậu lửa, đậu Pháp, đậu tây, đậu dây, đậu sáp hoặc đậu ngủ) và đậu bò (kể cả loại có chấm đen).\n(3) Đậu tằm (Vicia faba var. major), đậu ngựa (Vicia faba var. equina hoặc var.minor) và đậu dạ hương (Dolichos lablab L.).\n(4) Đậu Hà Lan loại nhỏ (garbanzos).\n(5) Đậu lăng.\n(6) Hạt Guar.\nNhóm này không bao gồm:\n(a) Hạt đỗ tương (nhóm 12.01).\n(b) Hạt cây minh quyết (nhóm 12.12).",
+        "en": "The leguminous vegetables of this heading include :\n(1) Peas (Pisum sativum), including green peas and fodder peas.\n(2) Beans (Phaseolus spp.. Vigna spp.), which include Lima or butter beans, mung beans, beans in edible pods (variously known as kidney beans, French beans, runner beans, string beans, wax beans or snap beans) and cowpeas (including black eye).\n(3) Broad beans (Vicia faba var. major), horse beans (Vicia faba var. equina hoặc var.minor) and hyacinth beans (Dolichos lablab L.).\n(4) Chickpeas (garbanzos).\n(5) Lentils.\n(6) Guar seeds.\nThe heading excludes :\n(a) Soya beans (heading 12.01).\n(b) Locust beans (heading 12.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0708.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Đậu Hà Lan (Pisum sativum)",
+        "en": "- Peas (Pisum sativum)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0708.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Đậu hạt (Vigna spp., Phaseolus spp.)",
+        "en": "- Beans (Vigna spp., Phaseolus spp.)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0708.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Các loại rau đậu khác",
+        "en": "- Other leguminous vegetables"
+      }
+    }
+  ]
+}

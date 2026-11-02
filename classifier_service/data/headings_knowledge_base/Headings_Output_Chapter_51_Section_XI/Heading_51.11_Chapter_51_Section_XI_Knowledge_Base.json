@@ -1,0 +1,89 @@
+{
+  "heading_id": "51.11",
+  "heading_title": {
+    "vi": "Vải dệt thoi từ sợi len lông cừu chải thô hoặc từ sợi lông động vật loại mịn chải thô.",
+    "en": "Woven fabrics of carded wool or of carded fine animal hair."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các mặt hàng dệt thoi (như đã định nghĩa trong mục (I) (C) của Chú giải tổng quát Phần XI) làm bằng các sợi xe từ lông cừu đã chải thô hay lông động vật dạng mịn đã chải thô. Chúng bao gồm nhiều loại vải đa dạng như vải may complê, vải flannel, vải mềm (molleton) dùng để may quần áo, chăn, hàng dệt làm đồ trang trí nội thất.\nNhóm này không bao gồm:\n(a) Băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05).\n(b) Vải dệt thoi phục vụ cho kỹ thuật ở nhóm 59.11.",
+    "en": "This heading covers woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI) made of yarns of carded wool or of yarns of carded fine animal hair. They exist in great variety and include suitings, flannels, molletons and other fabrics for clothing, blankets, furnishing fabrics, etc.\nThe heading does not cover:\n(a) Bandages, medicated or put up for retail sale (heading 30.05).\n(b) Woven fabrics for technical uses, of heading 59.11."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các mặt hàng dệt thoi (như đã định nghĩa trong mục (I) (C) của Chú giải tổng quát Phần XI) làm bằng các sợi xe từ lông cừu đã chải thô hay lông động vật dạng mịn đã chải thô.",
+        "en": "This heading covers woven fabrics (as defined in Part (I) (C) of the General Explanatory Note to Section XI) made of yarns of carded wool or of yarns of carded fine animal hair."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Những mặt hàng dệt này rất đa dạng và bao gồm vải may complê, vải flannel, vải mềm (molleton) và các loại khác để may quần áo, chăn, hàng dệt làm đồ trang trí nội thất...\nNhóm này không bao gồm:\n(a) Băng dùng trong y tế, đã tẩm thuốc hay đã đóng gói để bán lẻ (nhóm 30.05).\n(b) Vải dệt thoi phục vụ cho kỹ thuật ở nhóm 59.11.",
+        "en": "These fabrics exist in great variety and include suitings, flannels, molletons and other fabrics for clothing, blankets, furnishing fabrics, etc.\nThe heading does not cover:\n(a) Bandages, medicated or put up for retail sale (heading 30.05).\n(b) Woven fabrics for technical uses, of heading 59.11."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng lông cừu hoặc lông động vật loại mịn chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of wool or of fine animal hair:"
+      },
+      "subheading_id": "5111.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Định lượng không quá 300 g/m2",
+        "en": "- - Of a weight not exceeding 300 g/m2"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Có hàm lượng lông cừu hoặc lông động vật loại mịn chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "- Containing 85 % or more by weight of wool or of fine animal hair:"
+      },
+      "subheading_id": "5111.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5111.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác, pha chủ yếu hoặc pha duy nhất với sợi filament nhân tạo",
+        "en": "- Other, mixed mainly or solely with man-made filaments"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5111.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác, pha chủ yếu hoặc pha duy nhất với xơ staple nhân tạo",
+        "en": "- Other, mixed mainly or solely with man-made staple fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5111.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "heading_id": "84.44",
+  "heading_title": {
+    "vi": "Máy ép đùn, kéo chuỗi, tạo dún hoặc máy cắt vật liệu dệt nhân tạo.",
+    "en": "Machines for extruding, drawing, texturing or cutting man-made textile materials."
+  },
+  "summary": {
+    "vi": "Nhóm 84.44 bao gồm các máy móc chuyên dụng cho việc sản xuất sợi dệt nhân tạo. Cụ thể, nhóm này phân loại các máy ép đùn sợi đơn hoặc sợi đa, máy kéo chuỗi để tăng độ bền sợi, máy tạo dún để sản xuất sợi gấp nếp hoặc sợi 'xốp', và máy cắt vật liệu thành xơ staple. Ngoài ra, nhóm còn bao gồm các máy chuyên dụng như máy chuyển tô thành cúi ('tow-to-top') và máy cắt đứt sợi. Các bộ phận và phụ tùng của những máy này được phân loại riêng tại nhóm 84.48. Nhóm này loại trừ các máy chuẩn bị nguyên liệu thô (nhóm 84.19 hoặc 84.77), máy kéo sợi và thiết bị chải sợi (nhóm 84.45), và máy kéo sợi thủy tinh (nhóm 84.75).",
+    "en": "Heading 84.44 covers specialized machinery for the manufacture of man-made textile fibres. Specifically, this heading classifies machines for extruding monofilaments or multifilaments, drawing machines to increase fibre strength, texturing machines for producing crimped or 'foam' yarn, and machines for cutting materials into staple fibres. Additionally, it includes specialized machines such as 'tow-to-top' machines and rupturing machines. Parts and accessories for these machines are classified separately under heading 84.48. The heading excludes machines for preparing raw materials (heading 84.19 or 84.77), draw boxes and gill boxes (heading 84.45), and machines for spinning glass fibres (heading 84.75)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các máy dùng để sản xuất sợi nhân tạo, kể cả các máy dùng để cắt sợi. Chúng bao gồm: (1) Máy dùng để ép đùn sợi nhân tạo dưới hình thức sợi đơn hoặc sợi đa. Mỗi bộ phận kéo sợi gồm một bơm đo và một bộ lọc cấp cho vòi kéo sợi. Tùy theo quy trình, sợi có thể đi qua bể chứa tác nhân hóa học kết đông (quy trình tơ viscose), khoang kín hơi có hệ thống phun nước (quy trình amoniac - đồng), luồng khí nóng (quy trình acetat hóa xenlulo), hoặc một khoang làm mát.",
+        "en": "This heading covers machines for the manufacture of man-made textile fibres, including machines for cutting the fibres. They include: (1) Machines for extruding man-made textiles in the form of monofilaments or of several filaments. Each spinning unit consists of a metering pump and a filter which feed the spinnerets. Depending on the process, the filaments pass through a chemical coagulating bath (viscose process), an airtight chamber with a water spray (cuprammonium process), a hot air current (cellulose acetate process), or a cooling chamber."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các loại máy khác trong nhóm này bao gồm: (2) Máy kéo chuỗi, dùng để kéo dài sợi; (3) Máy tạo dún sợi dệt tổng hợp để sản xuất sợi gấp nếp, sợi 'xốp' dẻo; (4) Máy cắt xơ staple dùng để cắt tô thành các đoạn ngắn; (5) Máy chuyển tô thành cúi ('tow-to-top') để sản xuất cúi sẵn sàng cho việc kéo sợi; và (6) Máy cắt đứt sợi dùng để sản xuất sợi xơ đứt đoạn. Các bộ phận và phụ tùng của các máy thuộc nhóm này được phân loại ở nhóm 84.48. Nhóm này không bao gồm: (a) Máy chuẩn bị vật liệu thô để kéo đùn (nhóm 84.19 hoặc 84.77); (b) Máy kéo sợi và thiết bị chải sợi (nhóm 84.45); (c) Máy kéo sợi thủy tinh (nhóm 84.75).",
+        "en": "Other machines in this heading include: (2) Drawing machines, which stretch the filaments; (3) Machines for texturing synthetic textile yarn to produce crimped yarn or elastic 'foam' yarn; (4) Staple fibre cutters for cutting tow into short lengths; (5) 'Tow-to-top' machines for producing tops ready for spinning; and (6) Rupturing machines for producing ruptured filament tow. Parts and accessories of the machines of this heading are classified in heading 84.48. The heading excludes: (a) Machines for preparing raw materials for extrusion (heading 84.19 or 84.77); (b) Draw boxes and gill boxes (heading 84.45); (c) Machines for spinning glass fibres or yarns (heading 84.75)."
+      }
+    }
+  ],
+  "subheadings": []
+}

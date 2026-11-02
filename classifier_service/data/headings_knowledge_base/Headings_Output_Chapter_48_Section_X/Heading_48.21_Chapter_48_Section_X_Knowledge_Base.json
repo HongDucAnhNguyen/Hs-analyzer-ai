@@ -1,0 +1,67 @@
+{
+  "heading_id": "48.21",
+  "heading_title": {
+    "vi": "Các loại nhãn mác bằng giấy hoặc bìa, đã hoặc chưa in. (+).",
+    "en": "Paper or paperboard labels of all kinds, whether or not printed (+)."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại nhãn bằng giấy hoặc bìa dùng để đính vào bất kỳ loại mặt hàng nào nhằm chỉ rõ tính chất, nhận dạng, quyền sở hữu, điểm đến, giá cả, v.v. Các nhãn này có thể là loại dán lên (được bôi keo hoặc tự dính) hoặc được thiết kế để dán bằng các phương tiện khác. Chúng có thể trơn, đã in, có keo, có dây buộc hoặc được gia cố. Nhóm này không bao gồm nhãn dính tự dính đã in dùng cho quảng cáo hoặc trang trí (nhóm 49.11) và các \"nhãn\" bao gồm một tờ kim loại cơ bản được phủ bằng giấy mỏng (các nhóm 73.26, 76.16, 79.07,..., hoặc nhóm 83.10).",
+    "en": "This heading covers all varieties of paper and paperboard labels used for attachment to any type of article to indicate its nature, identity, ownership, destination, price, etc. They may be of the stick-on type (gummed or self-adhesive) or designed to be affixed by other means. They can be plain, printed, gummed, fitted with ties, or reinforced. The heading excludes self-adhesive printed stickers for publicity or decoration (heading 49.11) and \"labels\" consisting of a base metal sheet covered with a thin sheet of paper (headings 73.26, 76.16, 79.07, etc., or heading 83.10)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các loại nhãn bằng giấy hoặc bìa loại sử dụng để đính vào bất kỳ loại mặt hàng nào nhằm mục đích chỉ rõ tính chất, nhận dạng, quyền sở hữu, điểm đến, giá cả... Chúng có thể thuộc loại dán lên (stick-on) (được bôi keo hoặc tự dính) hoặc được thiết kế để dán bằng cách khác, ví dụ, dây bện.\nCác nhãn này có thể là trơn, được in ký tự hoặc hình ảnh không giới hạn, được bôi keo, được gắn dây buộc, móc cài, móc hoặc khóa, chốt khác hoặc được gia cố bằng kim loại hoặc các vật liệu khác. Chúng có thể được đục lỗ hoặc trình bày ở dạng tờ hoặc cuốn sách nhỏ.",
+        "en": "This heading covers all varieties of paper and paperboard labels of a kind used for attachment to any type of article for the purpose of indicating its nature, identity, ownership, destination, price, etc. They may be of the stick-on type (gummed or self-adhesive) or designed to be affixed by other means, e.g., string.\nThese labels may be plain, printed to any extent with characters or pictures, gummed, fitted with ties, clasps, hooks or other fasteners or reinforced with metal or other materials. They may be perforated or put up in sheets or booklets."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này không bao gồm:\nNhãn dính đã in tự dính được thiết kế, ví dụ, để quảng cáo hoặc trang trí giản đơn, ví dụ, \"nhãn tự dính mang tính hài hước\" và \"nhãn dính dán cửa sổ”, bị loại trừ (nhóm 49.11).",
+        "en": "The heading excludes:\nSelf-adhesive printed stickers designed to be used, for example, for publicity, advertising or mere decoration, e.g., “ comic stickers ” and “ window stickers ”, are excluded (heading 49.11)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm các “nhãn” bao gồm một tờ tương đối bền bằng kim loại cơ bản được phủ trên một mặt hoặc cả hai mặt bằng một tờ giấy mỏng, có hay không được in (các nhóm 73.26, 76.16, 79.07,..., hoặc nhóm 83.10).",
+        "en": "The heading does not cover “ labels ” consisting of a relatively strong sheet of base metal covered on one or both sides with a thin sheet of paper, whether or not printed (headings 73.26, 76.16, 79.07, etc., or heading 83.10)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải chi tiết phân nhóm.\nPhân nhóm 4821.10\nPhân nhóm này gồm tất cả các loại nhãn đã in bất kể ý nghĩa hoặc quy mô của phần in trên đó. Do đó, nhãn đã in, ví dụ, với dòng kẻ hoặc các đường viền đơn giản hoặc chỉ kết hợp các môtip nhỏ hoặc các biểu tượng khác được xem như \"đã in\" theo mục đích của phân nhóm này.",
+        "en": "Subheading Explanatory Note.\nSubheading 4821.10\nThis subheading covers all printed labels regardless of the significance or extent of the printing thereon. Labels printed, for example, with lines or other simple borders or merely incorporating small motifs or other symbols are therefore regarded as printed” for the purposes of this subheading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4821.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Đã in",
+        "en": "Printed"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "4821.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

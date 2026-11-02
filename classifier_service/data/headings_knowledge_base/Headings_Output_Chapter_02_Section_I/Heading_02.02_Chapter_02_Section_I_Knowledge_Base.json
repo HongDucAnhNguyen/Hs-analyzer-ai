@@ -1,0 +1,58 @@
+{
+  "heading_id": "02.02",
+  "heading_title": {
+    "vi": "Thịt của động vật họ trâu bò, đông lạnh.",
+    "en": "Meat of bovine animals, frozen."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm thịt đông lạnh của động vật họ trâu bò, cả nuôi hoặc hoang dã, được phân loại trong nhóm 01.02.",
+    "en": "This heading covers frozen meat of domestic or wild bovine animals of heading 01.02."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này gồm thịt đông lạnh của động vật họ trâu bò nuôi hoặc hoang thuộc nhóm 01.02.",
+        "en": "This heading covers frozen meat of domestic or wild bovine animals of heading 01.02."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0202.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt cả con và nửa con",
+        "en": "Carcasses and half-carcasses"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0202.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt pha có xương khác",
+        "en": "Other cuts with bone in"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0202.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thịt lọc không xương",
+        "en": "Boneless"
+      }
+    }
+  ]
+}

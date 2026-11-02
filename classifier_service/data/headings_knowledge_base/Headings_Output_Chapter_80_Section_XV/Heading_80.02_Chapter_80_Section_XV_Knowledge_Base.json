@@ -1,0 +1,35 @@
+{
+  "heading_id": "80.02",
+  "heading_title": {
+    "vi": "Phế liệu và mảnh vụn thiếc",
+    "en": "Tin waste and scrap"
+  },
+  "summary": {
+    "vi": "Bao gồm phế liệu và mảnh vụn thiếc. Các quy định trong Chú giải chi tiết nhóm 72.04 được áp dụng tương tự. Nhóm này không bao gồm: (a) Xỉ, tro và các chất thải từ việc sản xuất thiếc (nhóm 26.20); và (b) Thiếc dạng thỏi và các dạng chưa gia công tương tự được đúc từ phế liệu và mảnh vụn thiếc nấu lại (nhóm 80.01).",
+    "en": "Covers tin waste and scrap. The provisions of the Explanatory Note to heading 72.04 apply, mutatis mutandis. This heading excludes: (a) Slag, ash and residues from the manufacture of tin (heading 26.20); and (b) Ingots and similar unwrought forms cast from remelted tin waste and scrap (heading 80.01)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các khoản liên quan tới phế liệu và mảnh vụn trong chú giải chi tiết nhóm 72.04 với sửa đổi phù hợp cũng áp dụng cho nhóm này.",
+        "en": "The provisions concerning waste and scrap in the Explanatory Note to heading 72.04 apply, mutatis mutandis, to this heading."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này loại trừ:\n(a) Xỉ, tro và các chất thải từ việc sản xuất thiếc (nhóm 26.20).",
+        "en": "This heading excludes :\n(A) Slag, ash and residues from the manufacture of tin (heading 26.20)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(b) Thiếc ở dạng thỏi và các dạng chưa gia công tương tự đúc từ phế liệu và mảnh vụn thiếc được nấu lại (nhóm 80.01).",
+        "en": "(B) Ingots and similar unwrought forms cast from remelted tin waste and scrap (heading 80.01)."
+      }
+    }
+  ],
+  "subheadings": []
+}

@@ -1,0 +1,70 @@
+{
+  "heading_id": "72.13",
+  "heading_title": {
+    "vi": "Sắt hoặc thép không hợp kim, dạng thanh và que, ở dạng cuộn cuốn không đều, được cán nóng.",
+    "en": "Bars and rods, hot-rolled, in irregularly wound coils, of iron or non-alloy steel."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm các thanh và que bằng sắt hoặc thép không hợp kim, được cán nóng và ở dạng cuộn cuốn không đều, theo định nghĩa tại Chú giải 1(l) của Chương 72. Các sản phẩm này, còn được gọi là phôi để cán kéo dây, chủ yếu dùng để kéo thành dây (nhóm 72.17) hoặc cho các mục đích khác như xây dựng, công nghiệp đai ốc và bulông, kéo nguội, và sản xuất que hàn. Nhóm này cũng bao gồm các thanh và que làm cốt thép bê tông có mấu lồi hoặc vết lõm (răng, rãnh, bích) để tăng cường liên kết với bê tông, miễn là hình dạng mặt cắt ngang chung của chúng phù hợp với định nghĩa trong Chú giải 1(l) của Chương này. Tuy nhiên, nhóm này không bao gồm các thanh và que loại này đã được nắn thẳng và cắt theo chiều dài (nhóm 72.14).",
+    "en": "This heading covers bars and rods of iron or non-alloy steel, hot-rolled and in irregularly wound coils, as defined in Note 1(l) to Chapter 72. These products, also known as wire rod, are mainly used for drawing into wire (heading 72.17) or for other purposes such as construction, the nut and bolt industry, cold-drawing, and the manufacture of welding rods. The heading also includes bars and rods for concrete reinforcement with protuberances or indentations (teeth, grooves, flanges) to improve the bond with concrete, provided their general cross-sectional shape corresponds to one of the shapes defined in Chapter Note 1(l). However, the heading excludes bars and rods of this kind that have been straightened and cut to length (heading 72.14)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các thanh và que, được cán nóng, ở dạng cuộn cuốn không đều được định nghĩa trong Chú giải 1 (l) của chương này.\nNhững sản phẩm này (còn được biết như phôi để cán kéo dây) chủ yếu được sử dụng để kéo thành dây (nhóm 72.17) nhưng chúng còn được sử dụng cho những mục đích khác đặc biệt trong vật liệu xây dựng (ví dụ như lưới hàn), trong công nghiệp đai ốc và bulông, trong công nghiệp kéo nguội, và để sản xuất các que hàn.\nNhóm này còn gồm cả các thanh và que làm cốt thép của bê tông, những sản phẩm này được cán với những mấu lồi hoặc các vết lõm (ví dụ như răng, rãnh, bích), với điều kiện hình dạng mặt cắt ngang chính của chúng tương tự với một trong các dạng hình học được định rõ trong Chú giải 1(l) của chương. Những mấu lồi hoặc các vết lõm chỉ có mục đích để cải thiện sự liên kết với bê tông,...\nNhóm này không bao gồm các thanh và que của kiểu này, đã được nắn thẳng và cắt theo chiều dài (nhóm 72.14).",
+        "en": "Bars and rods, hot-rolled, in irregularly wound coils, are defined in Note 1 (l) to this Chapter.\nThese products (also known as wire rod) are mainly used for drawing into wire (heading 72.17) but they are also used for other purposes especially in building work (e.g., as welded netting), in the nut and bolt industry, in the cold-drawing industry, etc., and for the manufacture of welding rods.\nThe heading also includes bars and rods for concrete reinforcement; such products are rolled with protuberances or indentations (e.g., teeth, grooves, flanges), provided their general cross-sectional shape corresponds to one of the geometrical shapes defined in Chapter Note 1 (l). These protuberances or indentations must be designed solely to improve the bond with concrete, etc.\nThe heading does not cover bars and rods of this kind, straightened and cut to length (heading 72.14)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7213.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có răng khía, rãnh, gân hoặc các dạng khác được tạo thành trong quá trình cán",
+        "en": "Containing indentations, ribs, grooves or other deformations produced during the rolling process"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "7213.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác, bằng thép dễ cắt gọt",
+        "en": "Other, of free-cutting steel"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7213.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Có đường kính mặt cắt ngang hình tròn dưới 14 mm",
+        "en": "- - Of circular cross-section measuring less than 14 mm in diameter"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác:",
+        "en": "- Other:"
+      },
+      "subheading_id": "7213.99",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

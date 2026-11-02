@@ -1,0 +1,107 @@
+{
+  "heading_id": "85.30",
+  "heading_title": {
+    "vi": "Thiết bị điện phát tín hiệu thông tin, bảo đảm an toàn hoặc điều khiển giao thông, dùng cho đường sắt, đường tàu điện, đường bộ, đường thủy nội địa, điểm dừng đỗ, cảng hoặc sân bay (trừ loại thuộc nhóm 86.08).",
+    "en": "Electrical signalling, safety or traffic control equipment for railways, tramways, roads, inland waterways, parking facilities, port installations or airfields (other than those of heading 86.08)."
+  },
+  "summary": {
+    "vi": "Nhóm 85.30 bao gồm các thiết bị điện dùng để phát tín hiệu, đảm bảo an toàn hoặc điều khiển giao thông cho nhiều phương thức vận tải như đường sắt, đường tàu điện, đường bộ và đường thủy nội địa, cũng như các cơ sở như điểm đỗ xe, cảng và sân bay. Các thiết bị này bao gồm hệ thống tín hiệu đường sắt (đèn màu, cần di chuyển), thiết bị điều khiển tuyến đường từ xa và hệ thống đèn giao thông đường bộ. Nhóm này cũng bao gồm các tín hiệu tự động tại các điểm giao cắt và thiết bị vận hành cổng chắn điện. Tuy nhiên, nhóm này loại trừ các thiết bị hoạt động cơ học, ngay cả khi có các tính năng điện nhỏ, thuộc nhóm 86.08. Các biển báo tĩnh, dù được chiếu sáng bằng điện, cũng bị loại trừ và được phân loại vào các nhóm khác như 83.10 hoặc 94.05. Ngoài ra, các thiết bị chiếu sáng hoặc tín hiệu lắp trên xe đạp hoặc xe có động cơ thuộc nhóm 85.12 không thuộc nhóm này.",
+    "en": "Heading 85.30 covers electrical equipment used for signalling, safety, or traffic control for various transport modes such as railways, tramways, roads, and inland waterways, as well as for facilities like parking areas, ports, and airfields. This equipment includes railway signalling systems (coloured lights, moving arms), remote track control devices, and road traffic light systems. The heading also covers automatic level crossing signals and electrical gate operating equipment. However, it excludes mechanically operated equipment, even with minor electrical features, which falls under heading 86.08. Static signs, even if electrically lit, are also excluded and classified in other headings such as 83.10 or 94.05. Furthermore, lighting or signalling equipment for cycles or motor vehicles of heading 85.12 is not covered."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các thiết bị điện dùng để điều khiển giao thông đường sắt, các hệ thống tàu chạy trên đệm không khí, đường bộ hoặc đường thủy nội địa, cũng như để điều khiển tàu thuyền trong cảng, máy bay ở sân bay và các điểm dừng đỗ xe. Tuy nhiên, nhóm này không bao gồm các thiết bị tương tự hoạt động cơ học, ngay cả khi có các tính năng điện nhỏ (ví dụ: tín hiệu cơ với phương tiện chiếu sáng bằng điện, điều khiển thủy lực hoặc khí nén chuyển động bằng điện); các thiết bị này được xếp vào nhóm 86.08.",
+        "en": "This heading covers all electrical equipment used for controlling traffic on railways, hovertrain systems, roads or inland waterways, as well as for controlling ships or boats in harbours, aircraft at airports, and for parking facilities. However, the heading excludes similar equipment which is operated mechanically, even if incorporating minor electrical features (e.g., mechanical signals with electrical means of illumination, or hydraulic or pneumatic controls set in motion electrically); this falls in heading 86.08."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các tín hiệu tĩnh, thậm chí nếu được thắp sáng bằng điện (ví dụ: các bảng hiệu chiếu sáng dùng như tín hiệu chỉ hướng), không được xem là thiết bị điều khiển giao thông và không thuộc nhóm này, mà được xếp vào các nhóm thích hợp như 83.10 hoặc 94.05.",
+        "en": "Static signs, even if lit electrically (e.g., illuminated panels used as direction signs), are not regarded as traffic control equipment and are not covered by this heading but are classified in their own appropriate headings (headings 83.10, 94.05, etc.)."
+      }
+    },
+    {
+      "page": 1,
+      "content": {
+        "vi": "(A) Các dụng cụ cho đường sắt hoặc đường tàu điện (kể cả thiết bị đường sắt trong hầm mỏ) và hệ thống vận tải trên đệm không khí, được chia làm hai nhóm: (1) Thiết bị phát tín hiệu hoặc đảm bảo an toàn, bao gồm các tín hiệu thực tế (đèn màu, cần di chuyển, đĩa), thiết bị chấp hành và thiết bị điều khiển (thủ công hoặc tự động). Các thiết bị này dùng để điều khiển giao thông tại nhà ga, nút giao, điểm chắn, hoặc điều khiển các chuyến tàu trên cùng một tuyến (ví dụ: thiết bị tín hiệu phân tuyến tự động). Nhóm này cũng bao gồm thiết bị phát tín hiệu tới nhà ga hoặc hộp tín hiệu (bằng chuông hoặc hiển thị hình ảnh) về vị trí hoặc sự tiếp cận của tàu.",
+        "en": "(A) Railway or tramway equipment (including equipment for underground mine railways) and hovertrain transport system equipment, which falls in two groups: (1) Signalling or safety equipment, consisting of the actual signals (coloured lights, moving arms or discs), the actuating equipment and the control equipment (hand-operated or automatic). This equipment is used for traffic control at stations, junctions, level crossings, or for controlling trains over the same sections of line (e.g., automatic section signalling equipment). The heading also covers equipment for signalling the position or approach of trains to stations or signal boxes (by warning bell or visual display)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các thiết bị tín hiệu truyền tín hiệu trực tiếp tới cabin đầu máy, nơi có các tiếp điểm hoặc cảm biến trên đường truyền tác động lên cơ cấu trên đầu máy để đưa ra cảnh báo hoặc dừng tàu, thì phần thiết bị gắn trên đầu máy không thuộc nhóm này. (2) Thiết bị điều khiển tuyến đường, ví dụ như điều khiển từ xa các điểm nút, bao gồm thiết bị thao tác cơ khí gắn trên đường ray và bảng điều khiển tại trung tâm. Nhóm này còn bao gồm thiết bị phức tạp để điều khiển tự động xe goòng trong khu vực nối toa.",
+        "en": "For signalling equipment that passes signals directly to the engine's cab, where contacts or sensors on the line actuate a mechanism on the engine to give a warning or stop the train, the part of the equipment mounted in the engine is not covered by this heading. (2) Track control equipment, e.g., for the remote control of points, consists of the operating equipment mounted on the track and the control panel at a central point. This group also includes complex equipment for the automatic control of wagons in marshalling yards."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) Các thiết bị dùng cho đường bộ, đường thủy nội địa hoặc bãi đỗ xe bao gồm: (1) Tín hiệu tự động tại các điểm giao nhau như đèn nháy, chuông, tín hiệu dừng được phát sáng, và thiết bị điện vận hành cổng chắn hoặc barie. (2) Đèn giao thông, bao gồm hệ thống đèn màu tại các giao lộ, thiết bị điều khiển và phương tiện vận hành (bằng tay bởi cảnh sát/người đi bộ, hoặc tự động bằng bộ định giờ, pin quang điện hoặc tiếp điểm trên đường).",
+        "en": "(B) Equipment for roads, inland waterways or parking facilities includes: (1) Automatic level crossing signals such as winking lights, bells, illuminated stop signs, and electrical equipment for operating gates or barriers. (2) Traffic lights, consisting of systems of coloured lights at cross-roads, control equipment, and means of operation (hand-operated by police/pedestrians, or automatic via time basis, photoelectric cells, or road contacts)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(C) Các thiết bị điện điều khiển giao thông lắp đặt ở cảng hoặc sân bay.",
+        "en": "(C) Electrical traffic control equipment for port installations or airfields."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Theo quy tắc chung về phân loại bộ phận trong Chú giải Chi tiết Tổng quát Phần XVI, các bộ phận của hàng hóa thuộc nhóm này cũng được phân loại trong nhóm này.",
+        "en": "Subject to the general provisions regarding the classification of parts in the General Explanatory Note to Section XVI, parts of the goods of this heading are also classified here."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm các thiết bị điện phát tín hiệu hoặc chiếu sáng gắn trên xe đạp hoặc xe có động cơ (nhóm 85.12).",
+        "en": "The heading does not cover electrical lighting or signalling equipment for mounting on cycles or motor vehicles (heading 85.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8530.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị dùng cho đường sắt hay đường tàu điện",
+        "en": "Equipment for railways or tramways"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8530.80",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thiết bị khác",
+        "en": "Other equipment"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8530.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

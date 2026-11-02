@@ -1,0 +1,21 @@
+{
+  "heading_id": "75.03",
+  "heading_title": {
+    "vi": "Phế liệu và mảnh vụn niken",
+    "en": "Nickel waste and scrap."
+  },
+  "summary": {
+    "vi": "Nhóm 75.03 được dành riêng để phân loại phế liệu và mảnh vụn niken. Để đảm bảo tính nhất quán trong phân loại, các quy định và hướng dẫn được nêu trong Chú giải của nhóm 72.04 về phế liệu và mảnh vụn kim loại đen cũng được áp dụng tương tự cho niken. Nhóm này có hai loại trừ quan trọng cần được chú ý. Thứ nhất, nó không bao gồm các sản phẩm phụ của quá trình sản xuất niken như xỉ, tro và cặn bã; những mặt hàng này được phân loại trong nhóm 26.20. Thứ hai, các thỏi kim loại hoặc các dạng đúc chưa gia công tương tự được tạo ra bằng cách nấu chảy lại phế liệu và mảnh vụn niken cũng bị loại trừ. Thay vào đó, các sản phẩm tái chế này được coi là niken chưa gia công và thuộc về nhóm 75.02.",
+    "en": "Heading 75.03 is dedicated to the classification of nickel waste and scrap. To ensure consistency in classification, the provisions and guidelines outlined in the Explanatory Note to heading 72.04 concerning ferrous waste and scrap are applied mutatis mutandis to nickel. This heading has two important exclusions that must be noted. Firstly, it does not include by-products from nickel manufacturing such as slag, ash, and residues; these items are classified under heading 26.20. Secondly, metal ingots or similar unwrought forms created by remelting nickel waste and scrap are also excluded. Instead, these recycled products are considered unwrought nickel and belong in heading 75.02."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Các quy định liên quan đến phế liệu và mảnh vụn trong chú giải của nhóm 72.04 được áp dụng tương tự cho nhóm này. Nhóm này không bao gồm: (a) Xỉ, tro và cặn bã từ việc sản xuất niken (nhóm 26.20); (b) Thỏi và các dạng đúc chưa gia công tương tự từ phế liệu và mảnh vụn niken được tái nấu chảy (nhóm 75.02).",
+        "en": "The provisions concerning waste and scrap in the Explanatory Note to heading 72.04 apply, mutatis mutandis, to this heading. This heading excludes: (a) Slag, ash and residues from the manufacture of nickel (heading 26.20), (b) Ingots and similar unwrought forms cast from remelted nickel waste and scrap (heading 75.02)."
+      }
+    }
+  ],
+  "subheadings": []
+}

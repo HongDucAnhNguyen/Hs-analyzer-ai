@@ -1,0 +1,203 @@
+{
+  "heading_id": "85.04",
+  "heading_title": {
+    "vi": "Máy biến điện (máy biến áp và máy biến dòng), máy biến đổi điện tĩnh (ví dụ, bộ chỉnh lưu) và cuộn cảm.",
+    "en": "Electrical transformers, static converters (for example, rectifiers) and inductors."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm ba loại thiết bị chính: (I) Máy biến điện, (II) Máy biến đổi điện tĩnh, và (III) Cuộn cảm.\n(I) Máy biến điện là các thiết bị tĩnh, không có bộ phận chuyển động, sử dụng cảm ứng để biến đổi dòng điện xoay chiều. Nhóm này bao gồm tất cả các loại máy biến điện, từ chấn lưu, máy biến áp nhỏ dùng trong thiết bị không dây đến các loại lớn dùng trong nhà máy điện. Nó cũng bao gồm cuộn cảm ứng, nhưng loại trừ thiết bị đánh lửa cho động cơ đốt trong (nhóm 85.11) và máy biến điện để hàn khi đi kèm đầu kẹp que hàn hoặc thiết bị hàn (nhóm 85.15).\n(II) Máy biến đổi điện tĩnh dùng để biến đổi điện năng thành dạng phù hợp cho mục đích sử dụng sau đó. Chúng bao gồm: bộ chỉnh lưu (biến đổi AC sang DC), thiết bị nghịch lưu (DC sang AC), thiết bị biến đổi dòng xoay chiều (thay đổi tần số hoặc điện áp), và thiết bị biến đổi dòng một chiều (thay đổi điện áp). Ví dụ bao gồm máy sạc ắc quy và nguồn cấp liên tục (UPS). Nhóm này loại trừ máy phát cao áp cho thiết bị phát xạ (nhóm 90.22) và máy điều chỉnh điện áp tự động (nhóm 90.32).\n(III) Cuộn cảm là cuộn dây dùng trong mạch điện xoay chiều để giới hạn hoặc cản trở dòng điện. Nhóm này loại trừ cuộn lái tia cho ống phóng tia ca tốt (nhóm 85.40).\nTheo quy tắc chung của Phần XVI, các bộ phận của hàng hóa thuộc nhóm này cũng được phân loại ở đây. Tuy nhiên, nhiều bộ phận điện cụ thể được phân loại ở các nhóm khác, như chuyển mạch (nhóm 85.36), ống chỉnh lưu (nhóm 85.40), điốt bán dẫn, tranzito và thyristor (nhóm 85.41), và các sản phẩm của nhóm 85.42.",
+    "en": "This heading covers three main categories of apparatus: (I) Electrical transformers, (II) Electrical static converters, and (III) Inductors.\n(I) Electrical transformers are static apparatus without moving parts that use induction to transform an alternating current. The heading covers all types, from ballasts and small transformers for wireless sets to large types for power stations. It also includes induction coils, but excludes ignition equipment for internal combustion engines (heading 85.11) and transformers for welding presented together with their welding heads or welding appliances (heading 85.15).\n(II) Electrical static converters are used to convert electrical energy to adapt it for further use. They include: rectifiers (converting AC to DC), inverters (DC to AC), alternating current converters (changing frequency or voltage), and direct current converters (changing voltage). Examples include accumulator chargers and uninterruptible power supplies (UPS). The heading excludes high-tension generators for radiological apparatus (heading 90.22) and automatic voltage regulators (heading 90.32).\n(III) Inductors are coils of wire inserted in an AC circuit to limit or prevent the flow of current. The heading excludes deflection coils for cathode-ray tubes (heading 85.40).\nSubject to the general provisions of Section XVI, parts of the goods of this heading are also classified here. However, many specific electrical components are classified in other headings, such as switches (heading 85.36), rectifying tubes (heading 85.40), semiconductor diodes, transistors, and thyristors (heading 85.41), and articles of heading 85.42."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "(I) CÁC MÁY BIẾN ĐIỆN\nCác máy biến điện là các thiết bị, không có phần chuyển động, sử dụng hiện tượng cảm ứng của hệ thống thiết lập trước hoặc có thể điều chỉnh được, để biến đổi dòng điện xoay chiều này thành dòng điện xoay chiều khác ở cấp điện áp, trở kháng... khác. Các thiết bị này thường bao gồm hai hay nhiều cuộn dây cách điện được quấn nhiều vòng trên các lõi thép kỹ thuật, mặc dù trong một vài trường hợp đặc biệt (ví dụ như các máy biến đổi tần số vô tuyến) không có lõi từ, hoặc là lõi của nó được ép từ bột sắt, ferrite...",
+        "en": "(I) ELECTRICAL TRANSFORMERS\nElectrical transformers are apparatus which, without having any moving parts, transform, by means of induction and using a preset or adjustable system, an alternating current into another alternating current of different voltage, impedance, etc. These usually consist of two or more coils of insulated wire wound in various configurations on laminated iron cores, although in some cases (e.g., radio-frequency transformers) there may be no magnetic core, or the core may be of agglomerated iron dust, ferrite, etc."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Một dòng điện xoay chiều ở trong một cuộn (dòng sơ cấp) cảm ứng ra một dòng điện xoay chiều thường ở cường độ và điện áp khác ở cuộn bên kia (dòng thứ cấp). Trong một số trường hợp (máy biến áp tự ngẫu) chỉ có 1 cuộn dây, và cuộn dây này vừa làm nhiệm vụ của cuộn sơ cấp vừa làm nhiệm vụ của cuộn thứ cấp. Còn đối với các biến thế điện kiểu trụ bọc, có lớp vỏ sắt từ bao tròn máy biến áp.\nCó những máy biến điện được thiết kế cho mục đích riêng biệt, ví dụ như các máy biến áp thích ứng để phối hợp trở kháng tương ứng của dòng điện này với dòng điện khác, máy biến đổi đo lường (máy biến dòng hoặc biến áp, máy biến điện kết hợp) thường được sử dụng để điều chỉnh mức điện áp hoặc cường độ dòng điện ở mức phù hợp với thiết bị kết nối, ví dụ, thiết bị đo lường, công tơ điện, rơle bảo vệ.\nNhóm này cũng bao gồm tất cả các loại máy biến điện. Từ các chấn lưu để điều khiển dòng qua đèn phóng hoặc ống phóng, các loại nhỏ được sử dụng trong các thiết bị không dây, thiết bị đo lường, đồ chơi v.v... đến các loại to được đặt trong các thùng dầu hoặc các thiết bị tản nhiệt, quạt,... để làm mát. Các máy biến thế điện công suất lớn sử dụng trong các nhà máy điện, trạm truyền tải, trạm phân phối hoặc các trạm phụ khác. Tần số có thể thay đổi từ tần số cơ bản đến mức rất cao như tần số sóng radio. Nhóm này bao gồm các thiết bị cân bằng mà làm giảm các nhiễu điện từ bằng cách cân bằng cảm kháng trên đường dây đôi.\nCông suất biểu kiến của máy biến thế điện được tính bằng kilovolt-ampeme (kVA), được xác định ở đầu ra trong chế độ làm việc liên tục tại mức điện áp làm việc ở cuộn thứ cấp (hoặc dòng điện định mức tương ứng) và tần số định mức mà không vượt quá giới hạn nhiệt độ làm việc cho phép.\nMáy biến điện để hàn điện được phân loại trong nhóm này khi hiện diện riêng rẽ, không có đầu kẹp que hàn hoặc thiết bị hàn. Tuy nhiên, chúng được loại trừ (nhóm 85.15) khi mà hiện diện cùng đầu kẹp que hàn hoặc thiết bị hàn.\nNhóm này cũng bao gồm các cuộn cảm, một dạng máy biến điện mà trong đó sự gián đoạn hoặc dao động của dòng điện 1 chiều trong cuộn sơ cấp sẽ cảm ứng ra dòng điện tương ứng bên cuộn thứ cấp. Chúng được sử dụng để tăng điện áp, hoặc trường hợp ứng dụng trong điện thoại, để tái tạo trong mạch thứ cấp một dòng dao động nhỏ tương ứng với sự dao động được áp vào dòng một chiều ổn định ở cuộn sơ cấp. Nhóm này cũng bao gồm tất cả các loại cuộn cảm, chỉ trừ loại thiết bị đánh lửa dùng cho động cơ đốt trong (nhóm 85.11).",
+        "en": "An AC in one coil (the primary circuit) induces an AC usually at different values of current and voltage in the others (the secondary cfrcuit). In certain cases (auto transformers) there is only a single coil, part of the winding of which is common to the primary and secondary circuits. In shell type transformers, there is a shell of laminated iron round the transformer.\nCertain transformers are designed for particular purposes, e.g., matching transformers for matching the impedance of one circuit with that of another, and instrument transformers (current or voltage transformers, combined instrument transformers) used to step down or step up voltages or currents to the level of the connected equipment, e.g., measuring instruments, electricity meters or protective relays.\nThe heading covers all transformers. They vary from ballasts for the control of the amount of current that flows through discharge lamps or tubes, small types used in wireless sets, instruments, toys, etc., to large types enclosed in oil tanks or equipped with radiators, fans, etc., for cooling purposes. The large types are used in electricity stations, stations for interconnecting mains, distributing stations or sub-stations. The frequency may vary from mains frequencies up to very high radio frequencies. The heading includes baluns (balancing units) which reduce electro-magnetic interference by balancing the impedance in paired lines.\nThe power-handling capacity of a transformer is the kilovolt-ampere (kVA) output based on continual use at the rated secondary voltage (or amperage, when applicable) and at the rated frequency without exceeding the rated temperature limitations.\nTransformers for electric welding equipment presented separately without their welding heads or welding appliances are classified in this heading. However, they are excluded (heading 85.15) when presented together with their welding heads or welding appliances.\nThe heading also covers induction coils, a kind of transformer in which an intermittent or fluctuating direct current in the primary induces a corresponding current in the secondary. They can be used either to step up the voltage to a higher value or, in the case of telephony, to reproduce in the secondary circuits a small fluctuating current corresponding to the fluctuation imposed on a steady DC in the primary. The heading covers induction coils of all kinds, other than ignition equipment for internal combustion engines (heading 85.11)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(II) CÁC THIẾT BỊ BIẾN ĐỔI TĨNH ĐIỆN",
+        "en": "(II) ELECTRICAL STATIC CONVERTERS"
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Các thiết bị trong nhóm này được sử dụng để biến đổi điện năng thành dạng phù hợp cho mục đích sử dụng sau đó. Chúng được gắn với các loại thiết bị biến đổi khác nhau (ví dụ như các van). Chúng cũng có thể được gắn với các thiết bị phụ trợ khác (ví dụ như: các máy biến điện, các cuộn cảm, các điện trở, các bộ điều chỉnh, v.v...). Hoạt động của chúng dựa trên nguyên lý mà các phần tử biến đổi trạng thái luân phiên như thiết bị bán dẫn và không bán dẫn.\nTrên thực tế thì các thiết bị này thường gắn với mạch bổ trợ dùng để điều chỉnh điện áp của các dòng nhấp nhô thì không ảnh hưởng đến việc phân loại trong nhóm này, cũng không ảnh hưởng đến việc phân loại chúng ngay cả khi các thiết bị phụ trợ này được coi như thiết bị điều chỉnh điện áp hoặc dòng điện.\nNhóm này gồm:\n(A) Bộ chỉnh lưu, cho phép biến đổi dòng xoay chiều (một pha hay nhiều pha) sang dòng điện một chiều, thường điện áp sau chỉnh lưu có thay đổi so với trước đó.\n(B) Thiết bị nghịch lưu cho phép biến đổi dòng điện một chiều sang dòng xoay chiều.\n(C) Thiết bị biến đổi dòng điện và tần số nguồn xoay chiều, cho phép biến đổi một dòng xoay chiều (một pha hoặc nhiều pha) thành dòng xoay chiều có tần số hoặc điện áp khác.\n(D) Thiết bị biến đổi dòng điện một chiều, cho phép biến đổi một dòng điện một chiều thành một dòng điện một chiều ở mức điện áp khác.\nCác thiết bị biến đổi tĩnh điện có thể được phân chia theo các tiêu chí cơ bản dưới đây theo các loại thiết bị biến đổi mà nó được gắn kèm:\n(1) Thiết bị biến đổi bán dẫn, dựa trên nguyên lý dẫn điện một chiều của tinh thể bán dẫn. Chúng bao gồm một linh kiện bán dẫn như là yếu tố biến đổi và các thiết bị khác (ví dụ như cánh tản nhiệt, các giải băng dẫn, thiết bị điều chỉnh, ổn áp, mạch điều khiển).\n(2) Các thiết bị biến đổi, phóng điện khí, ví dụ: (a) Bộ chỉnh lưu hồ quang thủy ngân, (b) Các thiết bị chỉnh lưu kiểu nhiệt ion hoá với ca tốt nóng.",
+        "en": "The apparatus of this group are used to convert electrical energy in order to adapt it for further use. They incorporate converting elements (e.g., valves) of different types. They may also incorporate various auxiliary devices (e.g., transformers, induction coils, resistors, command regulators, etc.). Their operation is based on the principle that the converting elements act alternately as conductors and non-conductors.\nThe fact that these apparatus often incorporate auxiliary circuits to regulate the voltage of the emerging current does not affect their classification in this group, nor does the fact that they are sometimes referred to as voltage or current regulators.\nThis group includes:\n(A) Rectifiers by which alternating current (single or polyphase) is converted to direct current, generally accompanied by a voltage change.\n(B) Inverters by which direct current is converted to alternating current.\n(C) Alternating current converters and cycle converters by which alternating current (single or polyphase) is converted to a different frequency or voltage.\n(D) Direct current converters by which direct current is converted to a different voltage.\nElectrical static converters may be divided into the following principal categories according to the type of converting element with which they are equipped:\n(1) Semiconductor converters based on the one-way conductivity between certain crystals. Such converters consist of a semiconductor as the converting element and various other devices (e.g., coolers, tape conductors, drives, regulators, control circuits).\n(2) Gas discharge converters, such as: (a) Mercury arc rectifiers, (b) Thermo-ionic rectifiers with incandescent cathodes."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "Các loại thiết bị biến đổi tĩnh điện khác bao gồm: (3) Thiết bị biến đổi sử dụng yếu tố biển đổi cơ học (ví dụ, bộ chỉnh lưu tiếp xúc, tua bin tia thủy ngân, kiểu rung), và (4) Bộ chỉnh lưu kiểu điện phân.\nCác thiết bị biến đổi tĩnh điện có thể được sử dụng cho nhiều mục đích khác nhau, ví dụ:\n(1) Cung cấp điện để điều khiển các máy tĩnh (cố định) hoặc phương tiện kéo hoạt động bằng điện (ví dụ đầu máy xe lửa).\n(2) Cấp nguồn như các máy sạc ác quy, các thiết bị biến đổi dùng để mạ, điện phân, thiết bị cấp nguồn dự phòng, các thiết bị biến đổi dùng cho các nguồn sử dụng dòng điện một chiều điện áp cao, các thiết bị biến đổi dùng cho việc đốt nóng hoặc cấp dòng cho nam châm điện.\nCũng phân loại ở đây là các thiết bị biến đổi được gọi là \"máy phát điện áp cao\" (chủ yếu cho thiết bị Radio, cho các ống phát, các ống vi sóng, ống tia ion) chúng biến đổi dòng điện từ nguồn bất kỳ, thông thường là các nguồn chính, thành nguồn một chiều điện áp cao cần thiết để cung cấp cho các thiết bị được kết nối bằng phương pháp chỉnh lưu, biến điện...\nNhóm này cũng bao gồm các nguồn ổn áp (thiết bị chỉnh lưu kết hợp với thiết bị ổn áp) ví dụ các nguồn cấp liên tục cho các thiết bị điện tử.\nTuy nhiên, các máy phát cao áp (hay các máy biến điện) được thiết kế đặc biệt cho các thiết bị phát phóng xạ thuộc nhóm 90.22. Cũng vậy, các máy điều chỉnh điện áp tự động được xếp vào nhóm 90.32.",
+        "en": "Other categories of static converters include: (3) Converters with a mechanical converting element (e.g., contact rectifiers, mercury-jet turbine, vibrator), and (4) Electrolytic rectifiers.\nElectrical static converters may be used for different purposes, e.g.:\n(1) Converters to supply electricity to drive stationary machines or electric traction vehicles (e.g., locomotives).\n(2) Supply converters, such as accumulator chargers, converters for galvanising and electrolysis, emergency power packs, converters for installations which supply high-tension direct current, converters for heating purposes and for the current supply to elecfro-magnets.\nAlso classified here are converters known as high-tension generators (used particularly with radio apparatus, emission tubes, microwave tubes, ion-beam tubes) which convert the current from any source, usually the mains, into the direct high-tension current necessary for feeding the equipment concerned by means of rectifiers, transformers, etc.\nThis heading also includes stabilised suppliers (rectifiers combined with a regulator), e.g., uninterruptible power supply units for a range of electronic equipment.\nHowever, high-tension generators (or transformers) specifically designed for supplying radiological apparatus fall in heading 90.22. Automatic voltage regulators are classified in heading 90.32."
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(III) CUỘN CẢM",
+        "en": "(III) INDUCTORS"
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Các thiết bị này bao gồm về căn bản là một cuộn dây đặt vào trong một mạch điện xoay chiều mà tính từ cảm kháng của nó nhằm giới hạn hoặc hạn chế dòng điện xoay chiều. Có nhiều loại cuộn kháng khác nhau, từ các cuộn kháng nhỏ sử dụng trong mạch không dây, dụng cụ đo... đến các cuộn kháng lớn thường được gắn vào bê tông sử dụng trong các mạch nguồn (ví dụ dùng để hạn chế dòng điện khi có hiện tượng ngắn mạch).\nCác cuộn kháng, cuộn cảm thu được dưới dạng các cấu thành riêng qua quá trình in cũng được xếp trong nhóm này.\nCác cuộn lái tia sử dụng cho các ống phóng tia ca tốt được xếp vào nhóm 85.40.",
+        "en": "These consist essentially of a single coil of wire which, inserted in an AC circuit, limits or prevents by its self-induction the flow of the AC. They vary from small chokes used in wireless circuits, instruments, etc., to large coils often mounted in concrete, used in power circuits (e.g., for limiting the flow of current in the event of a short circuit).\nInductors or inductances obtained in the form of individual components by a printing process remain classifiable in this heading.\nDeflection coils for cathode-ray tubes are classified in heading 85.40."
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "BỘ PHẬN\nTheo quy tắc chung phân loại các bộ phận (xem chú giải chi tiết tổng quát phần XVI), bộ phận của hàng hóa thuộc nhóm này cũng được phân loại ở đây. Trường hợp điển hình là trường hợp vỏ bình bằng kim loại của bộ chỉnh lưu hồ quang hơi thủy ngân có hay không có bơm luôn được phân loại như bộ phận.\nTuy nhiên phần lớn các thành phần điện của nhóm này sẽ được xếp trong nhóm khác của Chương này, ví dụ:\n(a) Các chuyển mạch của nhóm 85.36 (ví dụ chuyển mạch nhiều vị trí sử dụng trong các máy biến áp).\n(b) Các van và ống chỉnh lưu chân không hoặc hơi thủy ngân và các đèn điện tử (ngoại trừ các vỏ bằng kim loại) và các đèn thyraton (nhóm 85.40).\n(c) Các đi ốt bán dẫn, transistor và thyristor (nhóm 85.41).\n(d) Các sản phẩm của nhóm 85.42.",
+        "en": "PARTS\nSubject to the general provisions regarding the classification of parts (see the General Explanatory Note to Section XVI), parts of the goods of this heading are also classified here. In particular, metal tank mercury arc rectifiers, with or without a pump, are always classified as parts.\nHowever, most of the electric components of the devices of this heading are to be found in other headings of the Chapter, for example:\n(a) Various switches of heading 85.36 (for example, those used with multiple contact transformers).\n(b) Vacuum or mercury vapour rectifying tubes and valves (other than the metal tank type) and thyratrons (heading 85.40).\n(c) Semiconductor diodes, transistors, and thyristors (heading 85.41).\n(d) Articles of heading 85.42."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8504.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Chấn lưu dùng cho đèn phóng hoặc ống phóng.",
+        "en": "Ballasts for discharge lamps or tubes"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy biến điện sử dụng điện môi lỏng:",
+        "en": "Liquid dielectric transformers:"
+      },
+      "subheading_id": "8504.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có công suất danh định không quá 650 kVA",
+        "en": "Having a power handling capacity not exceeding 650 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy biến điện sử dụng điện môi lỏng:",
+        "en": "Liquid dielectric transformers:"
+      },
+      "subheading_id": "8504.22",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có công suất danh định trên 650 kVA nhưng không quá 10.000 kVA",
+        "en": "Having a power handling capacity exceeding 650 kVA but not exceeding 10,000 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy biến điện sử dụng điện môi lỏng:",
+        "en": "Liquid dielectric transformers:"
+      },
+      "subheading_id": "8504.23",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có công suất danh định trên 10.000 kVA",
+        "en": "Having a power handling capacity exceeding 10,000 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy biến điện khác:",
+        "en": "Other transformers:"
+      },
+      "subheading_id": "8504.31",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có công suất danh định không quá 1 kVA",
+        "en": "Having a power handling capacity not exceeding 1 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy biến điện khác:",
+        "en": "Other transformers:"
+      },
+      "subheading_id": "8504.32",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Công suất danh định trên 1 kVA nhưng không quá 16 kVA",
+        "en": "Having a power handling capacity exceeding 1 kVA but not exceeding 16 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy biến điện khác:",
+        "en": "Other transformers:"
+      },
+      "subheading_id": "8504.33",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có công suất danh định trên 16 kVA nhưng không quá 500 kVA",
+        "en": "Having a power handling capacity exceeding 16 kVA but not exceeding 500 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Máy biến điện khác:",
+        "en": "Other transformers:"
+      },
+      "subheading_id": "8504.34",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Có công suất danh định trên 500 kVA",
+        "en": "Having a power handling capacity exceeding 500 kVA"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8504.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Máy biến đổi tĩnh điện",
+        "en": "Static converters"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8504.50",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cuộn cảm khác",
+        "en": "Other inductors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8504.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận",
+        "en": "Parts"
+      }
+    }
+  ]
+}

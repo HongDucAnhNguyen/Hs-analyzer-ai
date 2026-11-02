@@ -1,0 +1,84 @@
+{
+  "heading_id": "07.05",
+  "heading_title": {
+    "vi": "Rau diếp, xà lách (Lactuca sativa) và rau diếp xoăn (Cichorium spp.), tươi hoặc ướp lạnh.",
+    "en": "Lettuce (Lactuca saliva) and chicory (Cichorium spp.), fresh or chilled."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm rau diếp, xà lách (Lactuca sativa) và rau diếp xoăn (Cichorium spp.) tươi hoặc ướp lạnh. Các loại chính gồm xà lách cuộn, rau diếp xoăn rễ củ (Witloof), rau diếp mạ (Escarole), và rau diếp xoăn (endive). Nhóm này không bao gồm cây và rễ rau diếp xoăn (nhóm 06.01 hoặc 12.12).",
+    "en": "This heading covers fresh or chilled lettuce (Lactuca sativa) and chicory (Cichorium spp.). The principal types include cabbage lettuce, Witloof chicory, Escarole chicory, and Curly chicory (endive). The heading excludes chicory plants and chicory roots (heading 06.01 or 12.12)."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm rau diếp, xà lách (Lactuca sativa) tươi hoặc ướp lạnh trong đó loại chủ yếu là xà lách cuộn. Ngoài ra, nhóm này cũng bao gồm cả rau diếp xoăn (Cichorium spp.) tươi hoặc ướp lạnh, kể cả rau cúc đắng, gồm những loại chính sau đây:\n(1) Rau diếp xoăn rễ củ (Cichorium intybus var. foliosum).\n(2) Rau diếp mạ (Cichorium endivia var.latifolia).",
+        "en": "This heading covers fresh or chilled lettuce (Lactuca saliva) of which the principal type is cabbage or head lettuce. In addition the heading covers fresh or chilled chicory (Cichorium spp.), including endive, which includes the following principal varieties :\n(1) Witloof (blanched) chicory(Cichorium intybus var. foliosum)\n(2) Escarole chicory (Cichorium endivia var. latifolia)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(3) Rau diếp xoăn cũng được biết đến như rau cúc đắng (Cichorium endivia var. crispa).",
+        "en": "(3) Curly chicory also known as endive (Cichorium endivia var. crispa)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này không bao gồm cây và rễ rau diếp xoăn (nhóm 06.01 hoặc 12.12).",
+        "en": "The heading excludes chicory plants and chicory roots (heading 06.01 or 12.12)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Rau diếp, xà lách:",
+        "en": "- Lettuce :"
+      },
+      "subheading_id": "0705.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xà lách cuộn (head lettuce)",
+        "en": "Cabbage lettuce (head lettuce)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Rau diếp, xà lách:",
+        "en": "- Lettuce :"
+      },
+      "subheading_id": "0705.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Rau diếp xoăn:",
+        "en": "- Chicory :"
+      },
+      "subheading_id": "0705.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Rau diếp xoăn rễ củ (Cichorium intybus var. foliosum)",
+        "en": "Witloof chicory (Cichorium intybus var. foliosum)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Rau diếp xoăn:",
+        "en": "- Chicory :"
+      },
+      "subheading_id": "0705.29",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

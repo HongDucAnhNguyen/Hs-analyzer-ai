@@ -1,0 +1,82 @@
+{
+  "heading_id": "55.10",
+  "heading_title": {
+    "vi": "Sợi (trừ chỉ khâu) từ xơ staple tái tạo, chưa đóng gói để bán lẻ.",
+    "en": "Yarn (other than sewing thread) of artificial staple fibres, not put up for retail sale."
+  },
+  "summary": {
+    "vi": "Chú giải chi tiết của nhóm 55.09 được áp dụng, một cách tương tự, với các mặt hàng của nhóm này.",
+    "en": "The Explanatory Note to heading 55.09 applies, mutatis mutandis, to the products of this heading."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Chú giải chi tiết của nhóm 55.09 được áp dụng, một cách tương tự, với các mặt hàng của nhóm này.",
+        "en": "The Explanatory Note to heading 55.09 applies, mutatis mutandis, to the products of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng xơ staple tái tạo chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "Containing 85 % or more by weight of artificial staple fibres:"
+      },
+      "subheading_id": "5510.11",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi đơn",
+        "en": "- - Single yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Có hàm lượng xơ staple tái tạo chiếm từ 85% trở lên tính theo khối lượng:",
+        "en": "Containing 85 % or more by weight of artificial staple fibres:"
+      },
+      "subheading_id": "5510.12",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi xe (folded) hoặc sợi cáp",
+        "en": "- - Multiple (folded) or cabled yarn"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5510.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Sợi khác, được pha chủ yếu hoặc duy nhất với lông cừu hoặc lông động vật loại mịn",
+        "en": "- Other yarn, mixed mainly or solely with wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5510.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Sợi khác, được pha chủ yếu hoặc duy nhất với bông",
+        "en": "- Other yarn, mixed mainly or solely with cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "5510.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- Sợi khác",
+        "en": "- Other yarn"
+      }
+    }
+  ]
+}

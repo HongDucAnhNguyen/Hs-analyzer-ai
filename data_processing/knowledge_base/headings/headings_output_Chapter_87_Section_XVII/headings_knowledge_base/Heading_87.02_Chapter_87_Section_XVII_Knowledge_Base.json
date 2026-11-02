@@ -1,0 +1,103 @@
+{
+  "heading_id": "87.02",
+  "heading_title": {
+    "vi": "Xe có động cơ chở 10 người trở lên, kể cả lái xe.",
+    "en": "Motor vehicles for the transport of ten or more persons, including the driver."
+  },
+  "summary": {
+    "vi": "Nhóm 87.02 bao gồm các loại xe có động cơ được thiết kế để chuyên chở từ 10 người trở lên, bao gồm cả lái xe. Cụ thể, nhóm này áp dụng cho các phương tiện như xe buýt, xe khách, xe buýt điện chạy bằng dây điện trên cao (trolleybuses) và xe buýt điện sử dụng bánh đà tích điện (gyrobuses). Các phương tiện này có thể sử dụng nhiều loại động cơ khác nhau, bao gồm động cơ đốt trong kiểu piston (diesel hoặc xăng), động cơ điện, hoặc sự kết hợp của cả hai, được gọi là xe điện hybrid (HEVs). Xe điện hybrid lấy năng lượng từ nhiên liệu và thiết bị lưu trữ năng lượng điện như ắc quy hoặc tụ điện. Các loại HEVs được phân biệt theo cấu hình hệ truyền động (song song, nối tiếp) và mức độ hybrid hóa (full, mild, plug-in). Ngoài ra, nhóm cũng bao gồm các xe khách có khả năng chuyển đổi thành xe chạy trên đường ray bằng cách thay đổi bánh xe và khóa hệ thống lái.",
+    "en": "Heading 87.02 covers motor vehicles designed for the transport of ten or more persons, including the driver. Specifically, this heading applies to vehicles such as motor buses, coaches, trolleybuses (which obtain current from overhead wires), and gyrobuses (which operate using energy stored in a flywheel). These vehicles can be powered by various types of motors, including internal combustion piston engines (diesel or spark-ignition), electric motors, or a combination of both, known as Hybrid Electric Vehicles (HEVs). HEVs draw energy from both a consumable fuel and an electrical energy storage device like a battery or capacitor. HEVs are differentiated by powertrain configuration (parallel, series) and degree of hybridization (full, mild, plug-in). Furthermore, the heading also includes motor coaches that can be converted into rail-cars by changing the wheels and locking the steering system."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm tất cả các xe có động cơ thiết kế để chở 10 người trở lên, kể cả lái xe. Các loại xe này bao gồm xe buýt, xe khách, trolleybuses (tàu điện sử dụng dây điện trần) và gyrobuses (xe buýt điện sử dụng bánh đà tích điện). Các phương tiện thuộc nhóm này có thể có bất kỳ loại động cơ nào, ví dụ như động cơ đốt trong kiểu piston, động cơ điện, hoặc sự kết hợp giữa động cơ đốt trong kiểu piston và một hoặc nhiều động cơ điện.",
+        "en": "This heading covers all motor vehicles designed for the transport of ten persons or more (including the driver). This heading includes motor buses, coaches, trolleybuses and gyrobuses. The vehicles of this heading may have any type of motor (internal combustion piston engine, electric motor, combination of an internal combustion piston engine and one or more electric motors, etc.)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các phương tiện có sự kết hợp giữa động cơ đốt trong dạng piston và một hoặc nhiều động cơ điện được gọi là “các phương tiện điện hybrid - HEVs”. Những phương tiện này lấy năng lượng từ cả nhiên liệu đốt và thiết bị lưu trữ năng lượng điện (ví dụ: bình ắc qui điện, tụ điện, bánh đà/máy phát điện). Có nhiều loại xe điện hybrid, có thể được phân biệt bởi cấu tạo hệ truyền động (hybrid song song, hybrid loạt, hybrid phân chia năng lượng hoặc hybrid loạt kết hợp song song) và theo mức độ hybrid hoá (full hybrid, mild hybrid và plug-in hybrid).",
+        "en": "Vehicles which have the combination of an internal combustion piston engine and one or more electric motors, are known as “Hybrid Electric Vehicles (HEVs)”. For the purpose of mechanical propulsion, these vehicles draw energy from both a consumable fuel and an electrical energy/power storage device (e.g., electric accumulator, capacitor, flywheel/generator). There are various types of Hybrid Electric Vehicles (HEVs), which can be differentiated by their powertrain configuration (such as, parallel hybrids, series hybrids, power-split or series-parallel hybrids) and degree of hybridization (i.e., full hybrids, mild hybrids and plug-in hybrids)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Các phương tiện chạy bằng điện được đẩy bằng động cơ điện được cấp năng lượng từ các phương tiện tích trữ. Xe buýt điện sử dụng dây điện trần (Trolleybuses) lấy dòng điện từ dây điện trên cao và xe buýt điện sử dụng bánh đà tích điện (gyrobuses) hoạt động dựa trên nguyên lý tích trữ động năng trong bánh đà tốc độ cao để vận hành máy phát điện cung cấp dòng điện cho động cơ.",
+        "en": "Electric vehicles are propelled by an electric motor or motors powered by electric accumulator packs. Trolleybuses obtain current from overhead wires and “gyrobuses” operate on the principle that kinetic energy can be stored in a high-speed flywheel and used to drive an electric generator which supplies current to a motor."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng bao gồm cả các ôtô khách được chuyển đổi thành xe chạy trên đường ray bằng cách thay bánh xe và chốt hệ thống lái, còn động cơ không thay đổi.",
+        "en": "This heading also includes motor coaches convertible into rail-cars by changing the wheels and locking the steering, the motor remaining unchanged."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8702.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại chỉ sử dụng động cơ đốt trong kiểu piston cháy do nén (diesel hoặc bán diesel)",
+        "en": "- With only compression-ignition internal combustion piston engine (diesel or semi-diesel)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8702.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại kết hợp động cơ đốt trong kiểu piston cháy do nén (diesel hoặc bán diesel) và động cơ điện để tạo động lực",
+        "en": "- With both compression-ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8702.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại kết hợp động cơ đốt trong kiểu piston tịnh tiến đốt cháy bằng tia lửa điện và động cơ điện để tạo động lực",
+        "en": "- With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8702.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại chỉ sử dụng động cơ điện để tạo động lực",
+        "en": "- With only electric motor for propulsion"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8702.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Loại khác.",
+        "en": "- Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "heading_id": "60.03",
+  "heading_title": {
+    "vi": "Vải dệt kim hoặc móc có khổ rộng không quá 30 cm, trừ loại thuộc nhóm 60.01 hoặc 60.02.",
+    "en": "Knitted or crocheted fabrics of a width not exceeding 30 cm, other than those of heading 60.01 or 60.02."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm vải dệt kim hoặc móc có khổ rộng không quá 30 cm, không chứa hoặc chứa dưới 5% sợi đàn hồi hoặc sợi cao su, ngoại trừ các loại vải tạo vòng lông thuộc nhóm 60.01. Nhóm này không bao gồm: băng y tế (nhóm 30.05), sợi sùi vòng (nhóm 56.06), nhãn và phù hiệu (nhóm 58.07), vải thêu (nhóm 58.10), các loại vải thuộc Chương 59 (ví dụ: nhóm 59.03, 59.06, 59.07, 59.08), và các mặt hàng hoàn thiện theo Chú giải 7 Phần XI.",
+    "en": "This heading covers knitted or crocheted fabrics of a width not exceeding 30 cm, containing no elastomeric yarn or rubber thread or containing by weight less than 5% of such yarn or thread, other than the pile fabrics of heading 60.01. The heading excludes: bandages (heading 30.05), loop wale-yarn (heading 56.06), labels and badges (heading 58.07), embroidered fabrics (heading 58.10), fabrics of Chapter 59 (e.g., headings 59.03, 59.06, 59.07, 59.08), and made-up articles as per Note 7 to Section XI."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Loại trừ vải tạo vòng lông nhóm 60.01, nhóm này bao gồm vải dệt kim hoặc móc có khổ rộng không quá 30 cm, không chứa sợi đàn hồi hoặc sợi cao su hoặc có tỷ trọng sợi đàn hồi hoặc sợi cao su không quá 5%.",
+        "en": "Other than the pile fabrics of heading 60.01, this heading covers knitted or crocheted fabrics of a width not exceeding 30 cm, containing no elastomeric yarn or rubber thread or containing by weight less than 5 % of such yarn or thread."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này cũng không bao gồm:\n(a) Băng, đã tẩm thuốc hoặc đã đóng gói để bán lẻ (nhóm 30.05).\n(b) Sợi sùi vòng (nhóm 56.06).\n(c) Các loại nhãn, phù hiệu và các mặt hàng tương tự, dệt kim hoặc móc, thuộc nhóm 58.07.\n(d) Vải thêu thuộc nhóm 58.10.\n(e) Vải thuộc Chương 59 (Ví dụ: Vải đã được ngâm tẩm, tráng, phủ hoặc ép thuộc nhóm 59.03 hoặc 59.07, vải cao su hóa nhóm 59.06, và bấc hoặc vải dùng làm mạng đèn măng xông thuộc nhóm 59.08).\n(f) Các mặt hàng hoàn thiện theo nghĩa của Chú giải 7 Phần XI (xem cả Phần (II) Chú giải tổng quát của Phần).",
+        "en": "This heading also excludes:\n(a) Bandages, medicated or put up for retail sale (heading 30.05).\n(b) Loop wale-yarn (heading 56.06).\n(c) Labels, badges and similar articles, knitted or crocheted, of heading 58.07.\n(d) Embroidered fabrics of heading 58.10.\n(e) Fabrics of Chapter 59 (e.g., impregnated, coated, covered or laminated fabrics of heading 59.03 or 59.07, rubberised fabrics of heading 59.06, and wicks or gas mantle fabric of heading 59.08).\n(f) Made up articles within the meaning of Note 7 to Section XI (see also Part (II) of the General Explanatory Note to the Section)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6003.10",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ lông cừu hoặc lông động vật loại mịn",
+        "en": "Of wool or fine animal hair"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6003.20",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ bông",
+        "en": "Of cotton"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6003.30",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ các xơ tổng hợp",
+        "en": "Of synthetic fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6003.40",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Từ các xơ tái tạo",
+        "en": "Of artificial fibres"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "6003.90",
+      "page": 2,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "heading_id": "39.25",
+  "heading_title": {
+    "vi": "Đồ vật bằng plastic dùng trong xây lắp, chưa được chi tiết hoặc ghi ở nơi khác (+).",
+    "en": "Builders' ware of plastics, not elsewhere specified or included (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 39.25 bao gồm các đồ vật bằng plastic dùng trong xây lắp, áp dụng giới hạn cho các sản phẩm được đề cập trong Chú giải 11 của Chương này. Các mặt hàng chính thuộc nhóm này bao gồm thùng chứa và bể có dung tích trên 300 lít, cửa ra vào, cửa sổ, khung và ngưỡng cửa. Nhóm cũng bao gồm cửa chớp và mành che bằng plastic cùng các bộ phận của chúng. Chú giải phân nhóm làm rõ rằng cửa ra vào thuộc phân nhóm 3925.20 là loại dùng cho tòa nhà và phòng, không bao gồm các loại cổng rào cho cánh đồng hoặc vườn (thuộc phân nhóm 3925.90).",
+    "en": "Heading 39.25 covers builders' ware of plastics, limited to the articles mentioned in Note 11 of this Chapter. The main items under this heading include reservoirs and tanks with a capacity exceeding 300 liters, doors, windows, their frames, and thresholds. The heading also includes plastic shutters and blinds and their parts. The subheading explanatory note clarifies that doors under subheading 3925.20 are for buildings and rooms, and does not cover gates for fields or gardens (which fall under subheading 3925.90)."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này chỉ áp dụng đối với các sản phẩm được đề cập trong Chú giải 11 thuộc Chương này.\nChú giải phân nhóm 3925.20: Phân nhóm 3925.20 bao gồm các loại cửa ra vào có các thanh bản lề hoặc các thanh trượt loại được sử dụng cho việc đóng lối ra vào của các tòa nhà, các phòng... Nó không bao gồm các thanh chắn để đóng lối ra vào cánh đồng, vườn, sân nhà... (chúng được gọi là \"các cổng\") (phân nhóm 3925.90).",
+        "en": "This heading applies only to the articles mentioned in Note 11 to this Chapter.\nSubheading Explanatory Note for Subheading 3925.20: Subheading 3925.20 covers doors which are hinged or sliding barriers of the type used for closing the entrance of buildings, rooms, etc. It does not cover barriers for closing the entrance of fields, gardens, courtyards, etc. (which are called “gates\") (subheading 3925.90)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3925.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Thùng chứa, bể và các loại đồ chứa đựng tương tự, dung tích trên 300 lít",
+        "en": "Reservoirs, tanks, vats and similar containers, of a capacity exceeding 300 l"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3925.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cửa ra vào, cửa sổ và khung của chúng và ngưỡng cửa ra vào",
+        "en": "Doors, windows and their frames and thresholds for doors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3925.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Cửa chớp, mành che (kể cả mành chớp lật), các sản phẩm tương tự và các bộ phận của nó",
+        "en": "Shutters, blinds (including Venetian blinds) and similar articles and parts thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "3925.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

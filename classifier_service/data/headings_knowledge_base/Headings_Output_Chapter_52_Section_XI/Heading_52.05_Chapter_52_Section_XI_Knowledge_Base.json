@@ -1,0 +1,310 @@
+{
+  "heading_id": "52.05",
+  "heading_title": {
+    "vi": "Sợi bông (trừ chỉ khâu), có hàm lượng bông chiếm từ 85% trở lên tính theo khối lượng, chưa đóng gói để bán lẻ.",
+    "en": "Cotton yarn (other than sewing thread), containing 85 % or more by weight of cotton, not put up for retail sale."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm sợi bông (trừ chỉ khâu), đơn hoặc xe, thu được từ quá trình kéo sợi thô của nhóm 52.03, với điều kiện có tỷ trọng bông từ 85% trở lên và chưa đóng gói để bán lẻ. Nhóm này loại trừ sợi thuộc định nghĩa của dây xe, chão bện, dây thừng, v.v... (nhóm 56.07) hoặc đã được đóng gói để bán lẻ.",
+    "en": "This heading covers cotton yarn (other than sewing thread), single or multiple (folded), obtained by spinning the rovings of heading 52.03, provided they contain 85% or more by weight of cotton and are not put up for retail sale. This heading excludes yarn within the definition of twine, cordage, rope, etc. (heading 56.07) or yarn put up for retail sale."
+  },
+  "description": [
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này bao gồm sợi bông (trừ chỉ khâu), có thể là sợi đơn hoặc sợi xe, thu được sau quá trình kéo sợi thô thuộc nhóm 52.03, miễn là có tỷ trọng bông từ 85% trở lên.\nTuy nhiên, những sợi như vậy không thuộc nhóm này nếu chúng thuộc phạm vi định nghĩa của dây xe, chão bện, dây thừng, v.v ... (nhóm 56.07) hay đã được đóng gói để bán lẻ (xem mục (I) (B) (2) và (3) của Chú giải Tổng quát Phần XI).\nSợi vẫn thuộc nhóm này dù đã qua hoặc không qua quá trình xử lý nêu tại mục (I) (B) (1) của Chú giải Tổng quát Phần XI.",
+        "en": "This heading covers cotton yarn (other than sewing thread), whether single or multiple (folded), obtained by spinning the rovings of heading 52.03, provided that they contain 85 % or more by weight of cotton.\nHowever, such yarn is excluded if it is within the definition of twine, cordage, rope, etc. (heading 56.07) or put up for retail sale (see Parts (I) (B) (2) and (3) of the General Explanatory Note to Section XI).\nThe yarns remain in this heading whether or not processed as indicated in Part (I) (B) (1) of the General Explanatory Note to Section XI."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ không chải kỹ:",
+        "en": "- Single yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 714,29 decitex trở lên (chi số mét không quá 14)",
+        "en": "- - Measuring 714.29 decitex or more (not exceeding 14 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ không chải kỹ:",
+        "en": "- Single yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 232,56 decitex đến dưới 714,29 decitex (chi số mét từ trên 14 đến 43)",
+        "en": "- - Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ không chải kỹ:",
+        "en": "- Single yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.13",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 192,31 decitex đến dưới 232,56 decitex (chi số mét trên 43 đến 52)",
+        "en": "- - Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ không chải kỹ:",
+        "en": "- Single yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.14",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 125 decitex đến dưới 192,31 decitex (chi số mét trên 52 đến 80)",
+        "en": "- - Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ không chải kỹ:",
+        "en": "- Single yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.15",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh dưới 125 đecitex (chi số mét trên 80)",
+        "en": "- - Measuring less than 125 decitex (exceeding 80 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ chải kỹ:",
+        "en": "- Single yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.21",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 714,29 decitex trở lên (chi số mét không quá 14)",
+        "en": "- - Measuring 714.29 decitex or more (not exceeding 14 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ chải kỹ:",
+        "en": "- Single yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.22",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 232,56 decitex đến dưới 714,29 decitex (chi số mét trên 14 đến 43)",
+        "en": "- - Measuring less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ chải kỹ:",
+        "en": "- Single yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.23",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 192,31 decitex đến dưới 232,56 decitex (chi số mét trên 43 đến 52)",
+        "en": "- - Measuring less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ chải kỹ:",
+        "en": "- Single yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.24",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 125 decitex đến dưới 192,31 decitex (chi số mét trên 52 đến 80)",
+        "en": "- - Measuring less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ chải kỹ:",
+        "en": "- Single yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.26",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 106,38 decitex đến dưới 125 decitex (chi số mét trên 80 đến 94)",
+        "en": "- - Measuring less than 125 decitex but not less than 106.38 decitex (exceeding 80 metric number but not exceeding 94 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ chải kỹ:",
+        "en": "- Single yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.27",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh từ 88,33 decitex đến dưới 106,38 decitex (chi số mét trên 94 đến 120)",
+        "en": "- - Measuring less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 metric number but not exceeding 120 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi đơn, làm từ xơ chải kỹ:",
+        "en": "- Single yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.28",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Sợi có độ mảnh dưới 83,33 decitex (chi số mét trên 120)",
+        "en": "- - Measuring less than 83.33 decitex (exceeding 120 metric number)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe (folded) hoặc sợi cáp, làm từ xơ không chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.31",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 714,29 decitex trở lên (chi số mét sợi đơn không quá 14)",
+        "en": "- - Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe (folded) hoặc sợi cáp, làm từ xơ không chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.32",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 232,56 decitex đến dưới 714,29 decitex (chi số mét sợi đơn trên 14 đến 43)",
+        "en": "- - Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 mefric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe (folded) hoặc sợi cáp, làm từ xơ không chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.33",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 192,31 decitex đến dưới 232,56 decitex (chi số mét sợi đơn trên 43 đến 52)",
+        "en": "- - Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe (folded) hoặc sợi cáp, làm từ xơ không chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.34",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 125 decitex đến dưới 192,31 decitex (chi số mét sợi đơn trên 52 đến 80)",
+        "en": "- - Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe (folded) hoặc sợi cáp, làm từ xơ không chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of uncombed fibres:"
+      },
+      "subheading_id": "5205.35",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh dưới 125 decitex (chi số mét sợi đơn trên 80)",
+        "en": "- - Measuring per single yarn less than 125 decitex (exceeding 80 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe hoặc sợi cáp, từ xơ chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.41",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 714,29 decitex trở lên (chi số mét sợi đơn không quá 14)",
+        "en": "- - Measuring per single yarn 714.29 decitex or more (not exceeding 14 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe hoặc sợi cáp, từ xơ chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.42",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 232,56 decitex đến dưới 714,29 decitex (chi số mét sợi đơn trên 14 đến 43)",
+        "en": "- - Measuring per single yarn less than 714.29 decitex but not less than 232.56 decitex (exceeding 14 metric number but not exceeding 43 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe hoặc sợi cáp, từ xơ chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.43",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 192,31 decitex đến dưới 232,56 decitex (chi số mét sợi đơn trên 43 đến 52)",
+        "en": "- - Measuring per single yarn less than 232.56 decitex but not less than 192.31 decitex (exceeding 43 metric number but not exceeding 52 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe hoặc sợi cáp, từ xơ chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.44",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 125 decitex đến dưới 192,31 decitex (chi số mét sợi đơn trên 52 đến 80)",
+        "en": "- - Measuring per single yarn less than 192.31 decitex but not less than 125 decitex (exceeding 52 metric number but not exceeding 80 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe hoặc sợi cáp, từ xơ chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.46",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 106,38 decitex đến dưới 125 decitex (chi số mét sợi đơn trên 80 đến 94)",
+        "en": "- - Measuring per single yarn less than 125 decitex but not less than 106.38 decitex (exceeding 80 metric number but not exceeding 94 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe hoặc sợi cáp, từ xơ chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.47",
+      "page": 3,
+      "subheading_title": {
+        "vi": "- - Từ mỗi sợi đơn có độ mảnh từ 83,33 decitex đến dưới 106,38 decitex (chi số mét sợi đơn trên 94 đến 120)",
+        "en": "- - Measuring per single yarn less than 106.38 decitex but not less than 83.33 decitex (exceeding 94 metric number but not exceeding 120 metric number per single yarn)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Sợi xe hoặc sợi cáp, từ xơ chải kỹ:",
+        "en": "- Multiple (folded) or cabled yarn, of combed fibres:"
+      },
+      "subheading_id": "5205.48",
+      "page": 3,
+      "subheading_title": {
+        "vi": "- -Từ mỗi sợi đơn có độ mảnh dưới 83,33 decitex (chi số mét sợi đơn trên 120)",
+        "en": "- - Measuring per single yarn less than 83.33 decitex (exceeding 120 metric number per single yarn)"
+      }
+    }
+  ]
+}

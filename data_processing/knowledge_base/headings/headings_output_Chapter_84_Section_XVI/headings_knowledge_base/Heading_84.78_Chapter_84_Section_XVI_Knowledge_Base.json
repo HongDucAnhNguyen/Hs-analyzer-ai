@@ -1,0 +1,53 @@
+{
+  "heading_id": "84.78",
+  "heading_title": {
+    "vi": "Máy chế biến hoặc đóng gói thuốc lá, chưa được chi tiết hoặc ghi ở nơi khác trong Chương này.",
+    "en": "Machinery for preparing or making up tobacco, not specified or included elsewhere in this Chapter."
+  },
+  "summary": {
+    "vi": "Nhóm 84.78 bao gồm các loại máy móc dùng để chế biến hoặc đóng gói thuốc lá, chưa được quy định ở nơi khác trong Chương 84. Phạm vi của nhóm này chủ yếu là các máy dùng trong giai đoạn chuẩn bị nguyên liệu và sản xuất thành phẩm. Cụ thể, nhóm bao gồm máy tước cọng lá thuốc lá và máy thái lá. Một ví dụ về quá trình chế biến được mô tả là việc tước cọng bằng thiết bị tách đập, sử dụng búa đập và lưới kim để tách phần lá nhẹ khỏi gân và sống lá nặng hơn. Ngoài ra, nhóm này cũng bao gồm máy làm xì gà hoặc thuốc lá điếu, có thể được trang bị hoặc không có thiết bị đóng gói phụ trợ. Các bộ phận của những máy móc này cũng được phân loại trong nhóm 84.78, theo các quy định chung trong Chú giải tổng quát của Phần XVI.",
+    "en": "Heading 84.78 covers machinery for preparing or making up tobacco, not specified elsewhere in Chapter 84. The scope of this heading primarily includes machines used in the preparation of raw materials and the production of finished goods. Specifically, the heading includes tobacco leaf stripping and cutting machines. An example of the preparation process described is stripping, which is carried out in threshing separators using beating hammers and grills to separate lighter leaf parts from heavier veins and ribs. Furthermore, this heading also includes cigar or cigarette-making machines, which may or may not be equipped with an auxiliary packaging device. Parts of these machines are also classified in heading 84.78, subject to the general provisions of the General Explanatory Note to Section XVI."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm những máy dùng để chế biến hoặc đóng gói thuốc lá, chưa được chi tiết ở nơi khác. Việc tước cọng được thực hiện trong thiết bị tách đập, sử dụng hệ thống búa đập quay tròn và lưới kim để tách lá thuốc thành mảnh, phân tách phần lá nhẹ khỏi gân và sống lá nặng hơn.",
+        "en": "This heading covers machinery for preparing or making up tobacco, not specified elsewhere. Stripping is carried out in threshing separators, using a system of rotating beating hammers and metallic grills to fragment tobacco leaves, separating the lighter leaf parts from the heavier veins and ribs."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này bao gồm: (1) Máy tước cọng lá thuốc lá hoặc thái lá; (2) Máy chế biến thuốc lá hoặc xì gà, có hoặc không có thiết bị đóng gói phụ trợ. Các bộ phận của máy móc thuộc nhóm này cũng được phân loại tại đây theo Chú giải tổng quát của Phần XVI.",
+        "en": "The heading includes: (1) Tobacco leaf stripping or cutting machines; (2) Cigar or cigarette-making machines, whether or not equipped with an auxiliary packaging device. Parts of the machinery of this heading are also covered, subject to the General Explanatory Note to Section XVI."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8478.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Máy",
+        "en": "- Machinery"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8478.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Bộ phận",
+        "en": "- Parts"
+      }
+    }
+  ]
+}

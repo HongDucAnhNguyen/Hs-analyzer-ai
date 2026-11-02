@@ -1,0 +1,118 @@
+{
+  "heading_id": "02.10",
+  "heading_title": {
+    "vi": "Thịt và phụ phẩm dạng thịt ăn được sau giết mổ, muối, ngâm nước muối, làm khô hoặc hun khói; bột mịn và bột thô ăn được làm từ thịt hoặc phụ phẩm dạng thịt sau giết mổ.",
+    "en": "Meat and edible meat offal, salted, in brine, dried or smoked; edible flours and meals of meat or meat offal."
+  },
+  "summary": {
+    "vi": "Nhóm này áp dụng cho tất cả các loại thịt và phụ phẩm dạng thịt ăn được sau giết mổ đã được chế biến bằng cách muối, ngâm nước muối, làm khô (kể cả sấy đông lạnh) hoặc hun khói. Nhóm này cũng bao gồm bột mịn và bột thô ăn được từ thịt hoặc phụ phẩm thịt. Nhóm này không bao gồm mỡ lợn không dính nạc và mỡ gia cầm chưa nấu chảy (nhóm 02.09), thịt đã được chặt nhỏ hoặc băm nhỏ và nhồi trong vỏ bọc (nhóm 16.01), và các loại bột mịn, bột thô không thích hợp dùng làm thức ăn cho người (nhóm 23.01). Chú giải của nhóm 02.06 được áp dụng cho phụ phẩm dạng thịt ăn được của nhóm này.",
+    "en": "This heading applies to all kinds of meat and edible meat offal prepared by salting, putting in brine, drying (including freeze-drying) or smoking. It also includes edible flours and meals of meat or meat offal. The heading excludes pig fat free of lean meat and unrendered poultry fat (heading 02.09), meat which has been chopped or minced and put in casings (heading 16.01), and flours and meals unfit for human consumption (heading 23.01). The provisions of Explanatory Note to heading 02.06 apply to edible meat offal of this heading."
+  },
+  "description": [
+    {
+      "page": 2,
+      "content": {
+        "vi": "Nhóm này áp dụng cho tất cả các loại thịt và phụ phẩm dạng thịt ăn được sau giết mổ đã được chế biến theo như mô tả trong nhóm, ngoại trừ mỡ lợn không dính nạc và mỡ gia cầm, chưa nấu chảy hoặc chưa chiết xuất cách khác (nhóm 02.09). Nhóm này bao gồm cả thịt ba chỉ và các loại thịt tương tự có tỷ lệ mỡ giắt cao và mỡ tạo thành lớp dính với thịt, miễn là chúng được chế biến theo như mô tả trong nhóm.\nThịt muối, thịt làm khô (kể cả bằng cách làm mất nước hoặc làm khô bằng đông lạnh) hoặc hun khói (như thịt lợn muối xông khói, thịt mông đùi (hams) xông khói, thịt vai xông khói) vẫn được phân loại trong nhóm này khi chúng được nhồi trong ruột, dạ dày, bong bóng, da hoặc vỏ bọc tương tự (tự nhiên hoặc nhân tạo), với điều kiện chúng chưa được chặt nhỏ hoặc băm nhỏ và kết hợp với thành phần khác trước khi được đặt trong vỏ bọc (nhóm 16.01).\nBột mịn và bột thô từ thịt hoặc phụ phẩm dạng thịt ăn được sau giết mổ cũng được phân loại trong nhóm này; bột mịn và bột thô từ thịt và phụ phẩm dạng thịt sau giết mổ không thích hợp dùng làm thức ăn cho người (ví dụ làm thức ăn gia súc) bị loại trừ (nhóm 23.01).\nChú giải của nhóm 02.06 áp dụng cho các phụ phẩm dạng thịt ăn được sau giết mổ của nhóm này với những sửa đổi chi tiết thích hợp.",
+        "en": "This heading applies to all kinds of meat and edible meat offal which have been prepared as described in the heading, other than pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted (heading 02.09). The heading includes streaky pork and similar meats interlarded with a high proportion of fat, and fat with an adhering layer of meat, provided they have been prepared as described in the heading.\nSalted, dried (including dehydrated or freeze-dried) or smoked meat (e.g., bacon, ham, shoulder) remains classified in this heading if it has been enclosed in guts, stomachs, bladders, skins or similar casings (natural or artificial), provided that it has not been previously chopped or minced and combined with other ingredients (heading 16.01).\nEdible flours and meals of meat or meat offal also fall in this heading: flours and meals of meat or meat offal unfit for human consumption (e.g., for feeding animals) are excluded (heading 23.01).\nThe provisions of Explanatory Note to heading 02.06 apply, mutatis mutandis, to edible meat offal of this heading."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt lợn:",
+        "en": "- Meat of swine :"
+      },
+      "subheading_id": "0210.11",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Thịt mông đùi (hams), thịt vai và các mảnh của chúng, có xương",
+        "en": "- - Hams, shoulders and cuts thereof, with bone in"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt lợn:",
+        "en": "- Meat of swine :"
+      },
+      "subheading_id": "0210.12",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Thịt dọi (ba chỉ) và các mảnh của chúng",
+        "en": "- - Bellies (streaky) and cuts thereof"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Thịt lợn:",
+        "en": "- Meat of swine :"
+      },
+      "subheading_id": "0210.19",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "0210.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- Thịt động vật họ trâu bò",
+        "en": "- Meat of bovine animals"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kể cả bột mịn và bột thô ăn được làm từ thịt hoặc phụ phẩm dạng thịt sau giết mổ:",
+        "en": "- Other, including edible flours and meals of meat or meat offal:"
+      },
+      "subheading_id": "0210.91",
+      "page": 1,
+      "subheading_title": {
+        "vi": "- - Của bộ động vật linh trưởng",
+        "en": "- - Of primates"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kể cả bột mịn và bột thô ăn được làm từ thịt hoặc phụ phẩm dạng thịt sau giết mổ:",
+        "en": "- Other, including edible flours and meals of meat or meat offal:"
+      },
+      "subheading_id": "0210.92",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Của cá voi, cá heo chuột và cá heo (động vật có vú thuộc bộ Cetacea); của lợn biển và cá nược (động vật có vú thuộc bộ Sirenia); của hải cẩu, sư tử biển và con moóc (hải mã) (động vật có vú thuộc phân bộ Pinnipedia)",
+        "en": "- - Of whales, dolphins and porpoises (mammals of the order Cetacea); of manatees and dugongs (mammals of the order Sirenia); of seals, sea lions and walruses (mammals of the suborder Pinnipedia)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kể cả bột mịn và bột thô ăn được làm từ thịt hoặc phụ phẩm dạng thịt sau giết mổ:",
+        "en": "- Other, including edible flours and meals of meat or meat offal:"
+      },
+      "subheading_id": "0210.93",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Của loài bò sát (kể cả rắn và rùa)",
+        "en": "- - Of reptiles (including snakes and turtles)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "- Loại khác, kể cả bột mịn và bột thô ăn được làm từ thịt hoặc phụ phẩm dạng thịt sau giết mổ:",
+        "en": "- Other, including edible flours and meals of meat or meat offal:"
+      },
+      "subheading_id": "0210.99",
+      "page": 2,
+      "subheading_title": {
+        "vi": "- - Loại khác",
+        "en": "- - Other"
+      }
+    }
+  ]
+}

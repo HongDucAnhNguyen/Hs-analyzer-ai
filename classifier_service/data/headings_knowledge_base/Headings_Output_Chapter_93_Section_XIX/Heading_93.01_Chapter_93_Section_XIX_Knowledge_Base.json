@@ -1,0 +1,65 @@
+{
+  "heading_id": "93.01",
+  "heading_title": {
+    "vi": "Vũ khí quân sự, trừ súng lục ổ quay, súng lục và các loại vũ khí thuộc nhóm 93.07.",
+    "en": "Military weapons, other than revolvers, pistols and the arms of heading 93.07."
+  },
+  "summary": {
+    "vi": "Nhóm này bao gồm tất cả các loại vũ khí quân sự, trừ súng lục ổ quay và súng lục của nhóm 93.02 và vũ khí của nhóm 93.07. Nó bao gồm vũ khí pháo binh (súng cối, pháo), vũ khí bắn liên thanh (súng máy, súng tiểu liên), súng trường và carbin quân sự, và các loại súng phóng đặc biệt như bệ phóng tên lửa, súng phun lửa và ống phóng ngư lôi. Nhóm này cũng bao gồm các loại vũ khí được thiết kế để gắn trên tàu chiến, xe lửa bọc thép, máy bay hoặc xe tăng khi được trình bày riêng lẻ. Nhóm này không bao gồm xe tăng và xe bọc thép chiến đấu khác thuộc nhóm 87.10, và một số loại súng phun lửa chuyên dùng để diệt cỏ thuộc nhóm 84.24.",
+    "en": "This heading covers all military weapons, other than the revolvers and pistols of heading 93.02 and the arms of heading 93.07. It includes artillery weapons (mortars, howitzers), continuous-fire weapons (machine-guns, sub-machine-guns), military rifles and carbines, and special projectors like rocket launchers, flame-throwers, and torpedo tubes. The heading also includes weapons designed to be mounted on warships, armoured trains, aircraft, or tanks when presented separately. The heading excludes tanks and other armoured fighting vehicles of heading 87.10, and certain flame guns specialized for destroying weeds of heading 84.24."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm toàn bộ vũ khí dùng cho quân đội trừ súng lục ổ quay và súng lục thuộc nhóm 93.02 và vũ khí thuộc nhóm 93.07. Nhóm này cũng bao gồm những vũ khí và súng cầm tay được thiết kế theo dạng là bộ phận của các chiến hạm, toa xe bọc thép, phương tiện bay, xe tăng hoặc xe thiết giáp, khi chúng được trình bày riêng lẻ.\nNhóm này bao gồm:\n(1) Vũ khí pháo binh và các loại vũ khí hỗ trợ cho bộ binh, tức là các loại đại bác và pháo (đặt cố định hay gắn trên bánh hơi, bánh xích,.v.v.) như pháo mặt đất, pháo hạng trung, hạng nặng hay đại pháo, pháo tầm xa, pháo phòng không, pháo chống tăng, súng moóc trê và súng cối.\nPháo tầm xa được gắn trên xe goòng cũng được phân loại vào nhóm này (không thuộc Chương 86). Các loại pháo cơ động và tự hành cũng được phân loại ở nhóm này. Tuy nhiên cần phân biệt với xe tăng và các loại phương tiện bọc thép chiến đấu khác thuộc nhóm 87.10.\n(2) Các vũ khí bắn liên thanh và cực nhanh, trong đó một số là vũ khí cá nhân.\nNhóm này bao gồm súng máy, súng tiểu liên và các loại súng bắn liên thanh khác.",
+        "en": "This heading covers all military weapons other than the revolvers and pistols of heading 93.02 and the arms of heading 93.07. The heading includes separately presented weapons and firearms designed to form part of the armament of vessels, armoured trains, aircraft, tanks or armoured cars.\nThe heading includes:\n(1) Artillery weapons and infantry support weapons, i.e., all types of cannon and ordnance (fixed or on wheels, tracks, etc.), such as field, medium, heavy and super-heavy artillery, long-range guns, anti-aircraft gun, anti-tank gun howitzers and mortars.\nLong-range guns mounted on railway wagons also fall in this heading (and not in Chapter 86). Mobile and self-propelled guns, which should be distinguished from tanks and other armoured fighting vehicles of heading 87.10, are also classified here.\n(2) Arms capable of continuous and very rapid fire; some are suitable for handling by one man.\nThis group includes machine-guns, sub-machine-guns (machine-pistols) and other continuous-fire weapons."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(3) Các vũ khí dùng cho quân đội như súng trường và carbin.\n(4) Các loại súng phóng quân sự đặc biệt khác, ví dụ súng và ống phóng tên lửa khác với các loại thuộc nhóm 93.03, thiết bị phóng bom phá tầu ngầm, ống phóng thủy lôi, súng phun lửa (thiết bị để phóng một chất dễ cháy vào quân thù) trừ loại súng phun lửa chuyên dùng để diệt cỏ (nhóm 84.24).",
+        "en": "(3) Military firearms such as rifles and carbines.\n(4) Other specialised military projectors, for example, military rocket projectors and launchers, other than those of heading 93.03; apparatus for the discharge of depth-charges; torpedo tubes; flame-throwers (apparatus for projecting an ignited volatile liquid at an enemy) other than flame guns specialised for destroying weeds (heading 84.24)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9301.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Vũ khí pháo binh (ví dụ, súng, súng cối và súng moóc trê)",
+        "en": "Artillery weapons (for example, guns, howitzers and mortars)"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9301.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bệ phóng tên lửa; súng phun lửa; súng phóng lựu đạn; ống phóng ngư lôi và các loại súng phóng tương tự",
+        "en": "Rocket launchers; flame-throwers; grenade launchers; torpedo tubes and similar projectors"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9301.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    }
+  ]
+}

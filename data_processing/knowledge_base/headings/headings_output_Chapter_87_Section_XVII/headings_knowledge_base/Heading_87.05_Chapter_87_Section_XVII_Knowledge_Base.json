@@ -1,0 +1,110 @@
+{
+  "heading_id": "87.05",
+  "heading_title": {
+    "vi": "Xe chuyên dùng có động cơ, trừ các loại được thiết kế chủ yếu dùng để chở người hay hàng hóa (ví dụ, xe cứu hộ, xe cần cẩu, xe cứu hỏa, xe trộn bê tông, xe quét đường, xe phun tưới, xe sửa chữa lưu động, xe chiếu chụp X-quang).",
+    "en": "Special purpose motor vehicles, other than those principally designed for the transport of persons or goods (for example, breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweeper lorries, spraying lorries, mobile workshops, mobile radiological units) (+)."
+  },
+  "summary": {
+    "vi": "Nhóm 87.05 bao gồm các loại xe chuyên dùng có động cơ, được chế tạo hoặc cải tạo đặc biệt để thực hiện các chức năng không phải vận tải. Các loại xe này được trang bị các thiết bị chuyên dụng như xe cứu hộ, xe cần cẩu, xe cứu hỏa, xe trộn bê tông, xe quét đường, và xe sửa chữa lưu động. Nhóm này cũng bao gồm các phương tiện chuyên dụng khác như xe khoan, xe phun rải, xe chụp X-quang, phòng khám di động và xe phát thanh. Một điều kiện quan trọng để phân loại vào nhóm này là phương tiện phải có một khung gầm xe cơ giới hoàn chỉnh với động cơ, hộp số, hệ thống lái và phanh. Nhóm này loại trừ các loại xe được thiết kế chủ yếu để chở người hoặc hàng hóa (ví dụ nhóm 87.04), xe lu tự hành (nhóm 84.29), máy nông nghiệp (nhóm 84.32), và các thiết bị cầm tay di động (nhóm 84.79). Các máy tự hành mà bộ phận điều khiển nằm trong cabin của máy làm việc (ví dụ cần cẩu trên khung bánh xe) cũng bị loại trừ và thuộc các nhóm 84.26, 84.29 hoặc 84.30.",
+    "en": "Heading 87.05 covers special purpose motor vehicles, specially constructed or adapted to perform non-transport functions. These vehicles are equipped with specialized devices, such as breakdown lorries, crane lorries, fire fighting vehicles, concrete-mixer lorries, road sweepers, and mobile workshops. The heading also includes other specialized vehicles like drilling derricks, spraying lorries, mobile radiological units, mobile clinics, and broadcast vans. A key condition for classification in this heading is that the vehicle must constitute an essentially complete motor vehicle chassis with a propelling engine, gearbox, steering, and braking systems. The heading excludes vehicles principally designed for transporting persons or goods (e.g. heading 87.04), self-propelled road rollers (heading 84.29), agricultural machinery (heading 84.32), and small pedestrian-controlled appliances (heading 84.79). Self-propelled machines where control elements are located in the working machine's cab (e.g., cranes on wheeled chassis) are also excluded and fall in headings 84.26, 84.29 or 84.30."
+  },
+  "general": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Nhóm này bao gồm các xe có động cơ được chế tạo hoặc cải tạo đặc biệt, trang bị các thiết bị cho phép thực hiện các chức năng ngoài vận tải. Danh mục bao gồm: (1) Xe cứu hộ; (2) Xe có trang bị bơm (ví dụ: xe cứu hoả); (3) Xe tải có lắp thang hoặc sàn nâng; (4) Xe tải dùng để rửa đường, rãnh lề đường, đường băng sân bay (ví dụ: xe quét đường, xe tưới đường, xe hút bùn bể phốt); (5) Xe ủi tuyết và xe thổi tuyết có trang bị chuyên dụng. Loại trừ các thiết bị ủi hoặc thổi tuyết có thể tháo lắp (nhóm 84.30).",
+        "en": "This heading covers motor vehicles, specially constructed or adapted, equipped with devices that enable them to perform non-transport functions. The list includes: (1) Motor breakdown lorries; (2) Motor pump vehicles (e.g., fire fighting vehicles); (3) Lorries fitted with ladders or elevator platforms; (4) Lorries used for cleansing streets, gutters, airfield runways (e.g., sweepers, sprinklers, cesspool emptiers); (5) Snow-ploughs and snow-blowers with built-in equipment. Interchangeable snow-plough or snow-blower equipment is excluded (heading 84.30)."
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "Danh mục tiếp tục bao gồm: (6) Xe tải phun rải nhựa đường, sỏi, hoặc dùng trong nông nghiệp; (7) Xe cần cẩu không dùng chở hàng (loại trừ xe tải có thiết bị tự bốc hàng thuộc nhóm 87.04); (8) Xe cần trục khoan; (9) Xe tải có lắp cơ cấu bốc dỡ vật nặng (loại trừ xe tự bốc xếp chủ yếu để chở hàng thuộc nhóm 87.04); (10) Xe tải trộn bê tông; (11) Xe trang bị máy phát điện di động; (12) Xe chụp X quang di động; (13) Phòng khám di động (nội khoa, nha khoa); (14) Xe tải chiếu rọi; (15) Xe phát thanh lưu động; (16) Xe thu phát điện báo, điện báo sóng vô tuyến, điện thoại sóng vô tuyến; xe rađa; (17) Xe có máy tính xác định kết quả thi đấu; (18) Xe phòng thí nghiệm di động; (19) Xe tải thử nghiệm (test lorries); (20) Xe làm bánh, xe nhà bếp di động; (21) Xe sửa chữa lưu động (workshop vans); (22) Ngân hàng, thư viện và phòng trưng bày lưu động.",
+        "en": "The list continues with: (6) Spraying lorries for tar, gravel, or agricultural use; (7) Crane lorries not for the transport of goods (excluding lorries with self-loading devices of heading 87.04); (8) Mobile drilling derricks; (9) Lorries fitted with stacking mechanisms (excluding self-loading motor vehicles for goods transport of heading 87.04); (10) Concrete-mixer lorries; (11) Mobile electric generator sets; (12) Mobile radiological units; (13) Mobile clinics (medical or dental); (14) Searchlight lorries; (15) Outside broadcast vans; (16) Telegraphy, radio-telegraphy or radio-telephony transmitting and receiving vans; radar vehicles; (17) “Tote” vans with calculating machines; (18) Mobile laboratories; (19) Test lorries; (20) Mobile bakeries; field kitchens; (21) Workshop vans; (22) Mobile banks, travelling libraries, and mobile showrooms."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nhóm này cũng loại trừ: (a) Các xe lu lăn đường tự hành (nhóm 84.29); (b) Máy bừa đất dùng trong nông nghiệp (nhóm 84.32); (c) Các thiết bị cầm tay di động có gắn động cơ bổ trợ (nhóm 84.79); (d) Ô tô nhà ở lưu động (nhóm 87.03).",
+        "en": "The heading also excludes: (a) Self-propelled road rollers (heading 84.29); (b) Agricultural rollers (heading 84.32); (c) Small mobile pedestrian-controlled appliances, fitted with an auxiliary engine (heading 84.79); (d) Motor-homes (heading 87.03)."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Đối với khung xe ô tô hoặc xe tải kết hợp với máy gia công, để được phân loại vào nhóm này, phương tiện phải có một khung gầm động cơ hoàn chỉnh (động cơ đẩy, hộp số, thiết bị lái và phanh). Các máy tự hành mà bộ phận đẩy hoặc điều khiển nằm trong cabin của máy làm việc (cần cẩu, máy xúc) trên khung có bánh xe hoặc đường ray được phân loại vào các nhóm 84.26, 84.29 hoặc 84.30. Tương tự, các máy có bánh xe tự hành mà khung gầm và máy làm việc được thiết kế tích hợp thành một bộ phận cơ khí duy nhất (ví dụ, máy san gạt tự hành) cũng bị loại trừ. Tuy nhiên, máy cày tuyết hoặc máy thổi tuyết tự hành có thiết bị tích hợp luôn thuộc nhóm này.",
+        "en": "For motor vehicle chassis or lorries combined with working machines, to be classified in this heading, the vehicle must be an essentially complete motor vehicle chassis comprising a propelling engine, gear box, steering and braking facilities. Self-propelled machines (e.g., cranes, excavators) where propelling or control elements are located in the cab of the working machine mounted on a wheeled or track-laying chassis are classified in headings 84.26, 84.29 or 84.30. Similarly, self-propelled wheeled machines where the chassis and working machine are designed for each other and form an integral mechanical unit (e.g., self-propelled motor graders) are excluded. However, self-propelled snow-ploughs or snow-blowers with built-in equipment always fall in this heading."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Chú giải chi tiết phân nhóm 8705.10: Xem Chú giải chi tiết nhóm 87.05, mục (7).",
+        "en": "Subheading Explanatory Note. Subheading 8705.10: See the Explanatory Note to heading 87.05, Item (7)."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8705.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xe cần cẩu.",
+        "en": "Crane lorries"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8705.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xe cần trục khoan.",
+        "en": "Mobile drilling derricks"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8705.30",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xe chữa cháy.",
+        "en": "Fire fighting vehicles"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8705.40",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Xe trộn bê tông.",
+        "en": "Concrete-mixer lorries"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "8705.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác.",
+        "en": "Other"
+      }
+    }
+  ]
+}

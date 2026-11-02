@@ -1,0 +1,117 @@
+{
+  "heading_id": "90.32",
+  "heading_title": {
+    "vi": "Dụng cụ và thiết bị điều chỉnh hoặc điều khiển tự động.",
+    "en": "Automatic regulating or controlling instruments and apparatus."
+  },
+  "summary": {
+    "vi": "Theo Chú giải 7 của Chương này, nhóm này bao gồm các dụng cụ và thiết bị để điều chỉnh hoặc điều khiển tự động. Cụ thể, nhóm này bao gồm: (A) Các công cụ và thiết bị tự động kiểm soát lưu lượng, mức, áp suất hoặc những thay đổi khác của các chất lỏng hoặc chất khí, hoặc để kiểm tra tự động nhiệt độ, bất kể hoạt động của chúng có phụ thuộc vào hiện tượng điện hay không. (B) Các bộ điều chỉnh tự động các đại lượng điện, và các bộ điều chỉnh tự động các đại lượng không thuộc điện khác mà hoạt động của chúng phụ thuộc vào một hiện tượng điện biến thiên theo yếu tố được kiểm tra. Các thiết bị này được thiết kế để đưa một yếu tố đến giá trị mong muốn và duy trì nó ổn định trước các nhiễu loạn, bằng cách đo lường liên tục hoặc định kỳ giá trị thực tế của nó. Các sản phẩm tiêu biểu bao gồm bộ ổn nhiệt (thermostats), bộ điều chỉnh áp lực (manostats), bộ điều chỉnh mức, bộ điều tiết độ ẩm, và các bộ điều chỉnh điện tử khác. Nhóm này cũng bao gồm các bộ phận và phụ kiện của chúng. Tuy nhiên, nhóm này không bao gồm các van giảm áp và van điều khiển bằng nhiệt của nhóm 84.81, các thiết bị ngắt mạch dùng cho động cơ đốt trong của nhóm 85.11, và các bộ điều khiển lập trình của nhóm 85.37.",
+    "en": "In accordance with Note 7 to this Chapter, this heading covers instruments and apparatus for automatic regulating or controlling. Specifically, it includes: (A) Instruments and apparatus for automatically controlling the flow, level, pressure or other variables of liquids or gases, or for automatically controlling temperature, whether or not their operation depends on an electrical phenomenon. (B) Automatic regulators of electrical quantities, and instruments or apparatus for automatically controlling non-electrical quantities, the operation of which depends on an electrical phenomenon varying according to the factor to be controlled. These devices are designed to bring a factor to, and maintain it at, a desired value, stabilized against disturbances, by constantly or periodically measuring its actual value. Typical products include thermostats, manostats, level regulators, humidity regulators, and other electronic regulators. The heading also covers their parts and accessories. However, this heading excludes pressure reducing valves and thermostatically controlled valves of heading 84.81, cut-outs for use in conjunction with internal combustion engines of heading 85.11, and programmable controllers of heading 85.37."
+  },
+  "description": [
+    {
+      "page": 1,
+      "content": {
+        "vi": "Theo Chú giải 7 của Chương này, nhóm này bao gồm:\n(A) Các công cụ và thiết bị tự động kiểm soát lưu lượng, mức, áp suất hoặc những thay đổi khác của các khí hoặc chất lỏng, hoặc kiểm tra tự động nhiệt độ, mặc dù sự vận hành của chúng phụ thuộc hay không phụ thuộc vào hiện tượng điện biến thiên theo hệ số được kiểm tra tự động. Chúng được thiết kế để đưa hệ số này tới và duy trì nó ở giá trị mong muốn, được giữ ổn định để chống lại sự nhiễu loạn, bằng cách đo liên tục hoặc định kỳ các giá trị thực; và",
+        "en": "In accordance with Note 7 to this Chapter, this heading covers:\n(A) Instruments and apparatus for automatically controlling the flow, level, pressure or other variables of liquids or gases, or for automatically controlling temperature, whether or not their operation depends on an electrical phenomenon which varies according to the factor to be automatically controlled, which are designed to bring this factor to, and maintain it at, a desired value, stabilised against disturbances, by constantly or periodically measuring its actual value; and"
+      }
+    },
+    {
+      "page": 2,
+      "content": {
+        "vi": "(B) Các bộ điều chỉnh tự động các đại lượng điện, và các bộ điều chỉnh tự động các đại lượng không thuộc điện khác và vận hành của chúng phụ thuộc vào môi trường điện biến thiên theo hệ số được kiểm tra. Chúng được thiết kế để đưa hệ số này tới và duy trì nó ở giá trị mong muốn, được giữ ổn định để chống lại sự nhiễu loạn, bằng cách đo liên tục hoặc định kỳ các giá trị thực.\n\n(I) CÔNG CỤ VÀ THIẾT BỊ TỰ ĐỘNG ĐIỀU CHỈNH LƯU LƯỢNG, MỨC, ÁP SUẤT HOẶC CÁC ĐẠI LƯỢNG KHÁC CỦA CÁC CHẤT KHÍ HOẶC CHẤT LỎNG, HOẶC ĐỂ ĐIỀU KHIỂN TỰ ĐỘNG NHIỆT ĐỘ\nNhững thiết bị tự động điều chỉnh này chủ yếu gồm những thiết bị sau đây:\n(A) Một thiết bị đo những biến số cần được điều chỉnh.\n(B) Một thiết bị kiểm soát để, so sánh trị số đo với trị số danh định và theo đó tác động lên thiết bị được nêu ở mục (C) dưới đây.\n(C) Một thiết bị khởi động, tắt hoặc vận hành.\nCác thiết bị dùng để điều chỉnh tự động các chất lỏng, khí hoặc kiểm tra tự động nhiệt độ theo Chú giải 7(a) của Chương này gồm bộ ba thiết bị này tạo thành một vật thể đơn hoặc theo Chú giải 3 của Chương này thành một máy có chức năng.",
+        "en": "(B) Automatic regulators of electrical quantities, and instruments or apparatus for automatically controlling non-electrical quantities, the operation of which depends on an electrical phenomenon varying according to the factor to be controlled, which are designed to bring this factor to, and maintain it at, a desired value, stabilised against disturbances, by constantly or periodically measuring its actual value.\n\n(I) INSTRUMENTS AND APPARATUS FOR AUTOMATICALLY CONTROLLING THE FLOW, LEVEL, PRESSURE OR OTHER VARIABLES OF LIQUIDS OR GASES, OR FOR AUTOMATICALLY CONTROLLING TEMPERATURE\nAutomatic control apparatus of this type consist essentially of the following devices:\n(A) A device for measuring the variable to be controlled.\n(B) A control device which compares the measured value with the desired value and actuates the device described in (C) below accordingly.\n(C) A starting, stopping or operating device.\nApparatus for automatically controlling liquids or gases or temperature, within the meaning of Note 7 (a) to this Chapter, consists of these three devices forming a single entity or in accordance with Note 3 to this Chapter, a functional unit."
+      }
+    },
+    {
+      "page": 3,
+      "content": {
+        "vi": "Nếu thiết bị điều chỉnh tự động kết hợp với một thiết bị vận hành (ví dụ bơm thuộc nhóm 84.13 hoặc 84.14; van thuộc nhóm 84.81), sự phân loại của tất cả phải áp dụng hoặc là Quy tắc 1, hoặc Quy tắc 3(b).\nTrong nhóm này gồm :\n(A) Các thiết bị kiểm tra hoặc điều chỉnh áp lực (ổn áp hoặc điều áp kế). Những dụng cụ điều khiển áp suất được mô tả trên đây khác với các van giảm áp thuộc nhóm 84.81 (vì đôi khi các van này cũng được gọi là “điều áp”).\n(B) Các bộ điều chỉnh hoặc kiểm tra mức dùng để tự động kiểm tra mức.\n(C) Các bộ điều tiết độ ẩm (ổn ẩm) dùng để điều chỉnh tự động độ ẩm.\n(D) Các bộ điều chỉnh nhiệt (thermostats) dùng để kiểm tra tự động nhiệt độ, gồm chủ yếu các linh kiện sau:\n(1) Một thành phần nhạy cảm với những thay đổi nhiệt độ, hoạt động phụ thuộc vào: (a) Sự biến dạng của một lá lưỡng kim; (b) Áp suất hơi của một chất lỏng;",
+        "en": "If the automatic control apparatus is combined with the appliance which carries out the orders (e.g., pump of heading 84.13 or 84.14; valve of heading 84.81), the classification of the whole is to be determined under either Interpretative Rule 1 or Interpretative Rule 3 (b).\nThis group includes:\n(A) Pressure controllers or regulators (manostats). These pressure regulators differ from the pressure reducing valves of heading 84.81 (sometimes also called “ pressure regulators ”).\n(B) Level regulators or controllers for the automatic control of a level.\n(C) Humidity regulators (humidistats) are instruments for automatically controlling humidity.\n(D) Thermostats are used for automatically controlling temperature. The main components of a thermostat are:\n(1) An element sensitive to changes in temperature whose action may depend on: (a) The change in shape of a bi-metal strip; (b) The vapour pressure of a liquid;"
+      }
+    },
+    {
+      "page": 4,
+      "content": {
+        "vi": "(c) Sự giãn nở của một chất lỏng hoặc thanh kim loại; (d) Điện trở hoặc một ngẫu nhiệt.\n(2) Một tang trống, đĩa hoặc bất cứ một cơ cấu khác để tạo sẵn nhiệt độ danh định.\n(3) Một cơ cấu khởi động hay truyền động.\nCác bộ điều chỉnh nhiệt dùng để điều chỉnh nhiệt độ trong các ngôi nhà, lò nung, bếp điện, thiết bị đông lạnh, v.v...\n(E) Các bộ điều chỉnh nhiệt cho phép tạo và duy trì nhiệt độ định sẵn của các dụng cụ nấu bằng điện.\n(F) Các bộ điều chỉnh kéo bằng lò được sử dụng trong các thiết bị đun trung tâm hoặc điều hoà không khí.\nNhóm này không bao gồm:\n(a) Các lò hấp hơi, buồng “tĩnh nhiệt” hoặc “điều chỉnh nhiệt”, trong đó nhiệt độ được giữ ở mức không thay đổi nhờ một bộ điều chỉnh nhiệt và được phân loại lần lượt theo các nhóm tương ứng.\n(b) Các van điều chỉnh bằng nhiệt (nhóm 84.81).\n\n(II) CÁC BỘ ĐIỀU CHỈNH TỰ ĐỘNG CÁC ĐẠI LƯỢNG ĐIỆN VÀ CÁC THIẾT BỊ HOẶC DỤNG CỤ ĐIỀU CHỈNH TỰ ĐỘNG CÁC ĐẠI LƯỢNG KHÔNG THUỘC ĐIỆN, CHÚNG VẬN HÀNH PHỤ THUỘC VÀO HIỆN TƯỢNG BIẾN ĐỔI ĐIỆN THEO HỆ SỐ ĐIỀU CHỈNH",
+        "en": "(c) The expansion of a liquid or of a metal rod; (d) An electrical resistor or a thermocouple.\n(2) A drum, disc or other device for pre-setting the desired temperature.\n(3) A triggering or operating device.\nThermostats are used for controlling temperature in houses, ovens, cookers, cold storage installations, etc.\n(E) Temperature regulators for setting and maintaining pre-set temperatures on electrical heating appliances.\n(F) Oven-draught regulators used in central heating or air conditioning plants.\nThis heading excludes:\n(a) “ Thermostatic ” or “ thermostat ” steamers, cabinets, etc., in which the temperature is kept constant by means of a thermostat, which are to be classified in their respective headings.\n(b) Thermostatically controlled valves (heading 84.81).\n\n(II) AUTOMATIC REGULATORS OF ELECTRICAL QUANTITIES, AND INSTRUMENTS OR APPARATUS FOR AUTOMATICALLY CONTROLLING NON-ELECTRICAL QUANTITIES THE OPERATION OF WHICH DEPENDS ON AN ELECTRICAL PHENOMENON VARYING ACCORDING TO THE FACTOR TO BE CONTROLLED"
+      }
+    },
+    {
+      "page": 5,
+      "content": {
+        "vi": "Các bộ điều chỉnh tự động này gồm những dụng cụ sau: (A) Một dụng cụ đo; (B) Một dụng cụ kiểm tra điện; (C) Một thiết bị khởi động, ngắt hoặc vận hành.\nMột thiết bị điều chỉnh tự động đúng nghĩa của Chú giải 7(b) của Chương này bao gồm các dụng cụ được mô tả ở mục (A), (B), (C) ở trên, cho dù lắp ráp với nhau như một thiết bị duy nhất hoặc phù hợp với Chú giải 3 của Chương này, thành một máy có chức năng.\nNếu không đáp ứng các mô tả được chỉ ra ở đoạn trên, thì các thiết bị này được phân loại như sau:\n(1) Thiết bị đo bằng điện nói chung thuộc các nhóm 90.25, 90.26 hoặc 90.30.\n(2) Thiết bị kiểm tra bằng điện được phân loại trong nhóm này khi chúng là thiết bị hoặc dụng cụ điều chỉnh không hoàn toàn tự động.\n(3) Thiết bị khởi động, ngắt hoặc vận hành nói chung thuộc nhóm 85.36 (ngắt mạch, chuyển mạch, rơ le...).\nThiết bị kích hoạt được phân loại vào nhóm thích hợp (kẹp điều chỉnh thuộc nhóm 84.25; van động cơ hoặc van ruột gà vào nhóm 84.81; cơ cấu định vị điện từ thuộc nhóm 85.05...).",
+        "en": "These automatic regulators consist essentially of the following devices: (A) A measuring device; (B) An electrical control device; (C) A starting, stopping or operating device.\nAn automatic regulator within the meaning of Note 7 (b) to this Chapter consists of the devices described in (A), (B) and (C) above, whether assembled together as a single entity or in accordance with Note 3 to this Chapter, a functional unit.\nIf they do not conform to the definitions outlined above, these devices are to be classified as follows:\n(1) Electrical measuring devices generally fall in heading 90.25, 90.26 or 90.30.\n(2) Electrical control devices are to be classified in this heading as incomplete automatically controlling instruments or apparatus.\n(3) Starting, stopping or operating devices are generally to be classified in heading 85.36 (switches, relays, etc.).\nThe actuators are to be classified in their own appropriate headings (adjustable clamp: heading 84.25; motorised or solenoid valve: heading 84.81; electro-magnetic positioner: heading 85.05; etc.)."
+      }
+    },
+    {
+      "page": 6,
+      "content": {
+        "vi": "Các bộ điều chỉnh điện tử được dùng không chỉ điều chỉnh các đại lượng điện như điện áp, cường độ, tần số và công suất, mà còn để điều chỉnh các đại lượng khác như vòng quay/phút, lực xoắn, lực kéo, mức, áp suất, lưu lượng hoặc nhiệt độ.\nNhóm này không bao gồm:\n(a) Các thiết bị ngắt mạch kết hợp sử dụng trong nhà riêng kết hợp với một dụng cụ điều chỉnh điện áp hoặc dòng điện để sử dụng trong kết nối với các động cơ piston đốt trong (nhóm 85.11).\n(b) Các dụng cụ điều khiển theo lập trình gọi là cơ cấu kiểm tra lập trình thuộc nhóm 85.37.\n\nCÁC BỘ PHẬN VÀ PHỤ KIỆN\nTheo Chú giải 1 và 2 của Chương này (xem Chú giải tổng quát), các bộ phận và phụ kiện của những dụng cụ hay thiết bị thuộc nhóm này cũng đều được phân loại vào nhóm này.",
+        "en": "These regulators are used not only for electrical quantities, such as voltage, amperage, frequency and power, but also for other quantities such as revolutions per minute, torque, traction force, level, pressure, flow or temperature.\nThis heading also excludes:\n(a) Cut-outs combined, in a single housing, with a voltage regulator or a current regulator, for use in conjunction with internal combustion piston engines (heading 85.11).\n(b) “ Programmable controllers ” of heading 85.37.\n\nPARTS AND ACCESSORIES\nSubject to the provisions of Notes 1 and 2 to this Chapter (see the General Explanatory Note), parts and accessories of apparatus or appliances of this heading remain classified here."
+      }
+    }
+  ],
+  "subheadings": [
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9032.10",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ ổn nhiệt",
+        "en": "Thermostats"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9032.20",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ điều chỉnh áp lực",
+        "en": "Manostats"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Dụng cụ và thiết bị khác:",
+        "en": "Other instruments and apparatus:"
+      },
+      "subheading_id": "9032.81",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại dùng thủy lực hoặc khí nén",
+        "en": "Hydraulic or pneumatic"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "Dụng cụ và thiết bị khác:",
+        "en": "Other instruments and apparatus:"
+      },
+      "subheading_id": "9032.89",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Loại khác",
+        "en": "Other"
+      }
+    },
+    {
+      "two_dash_subheading": {
+        "vi": "",
+        "en": ""
+      },
+      "subheading_id": "9032.90",
+      "page": 1,
+      "subheading_title": {
+        "vi": "Bộ phận và phụ kiện",
+        "en": "Parts and accessories"
+      }
+    }
+  ]
+}
